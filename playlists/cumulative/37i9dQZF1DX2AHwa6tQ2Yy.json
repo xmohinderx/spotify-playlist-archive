@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+    },
+    {
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/4ogV05oprfriua7n9icbvN"
       },
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 191842,
       "name": "With You",
       "url": "https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se"

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Majo Aguilar en portada.",
-  "num_followers": 100329,
+  "num_followers": 100347,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMGQ4YTdmYmJhMzRiZjYyN2M3NmY2NWUwY2JhNzkxOGM4",
+  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMGEyZmY3OTNjMzY1ODRiNDFkODhlZThkNDhhYmNmZjhl",
   "tracks": [
     {
       "added_at": "2022-11-11 06:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "15 \u00c9xitos: Chayito Valdez",
-        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 182729,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 130093,
       "name": "La basurita",
       "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "15 \u00c9xitos: Chayito Valdez",
+        "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 182729,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Las Margaritas",
+      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
         "name": "Lo Mejor De Lucha Villa",
         "url": "https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+      "duration_ms": 162272,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 143800,
-      "name": "Las Margaritas",
-      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+      "duration_ms": 194066,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Taco Placero",
-        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 167206,
-      "name": "Taco Placero",
-      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -899,18 +883,34 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+        "name": "Taco Placero",
+        "url": "https://open.spotify.com/album/55rId50BVNE6iiiS1ZDKLh"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+      "duration_ms": 167206,
+      "name": "Taco Placero",
+      "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
+    },
+    {
+      "added_at": "2022-10-07 15:31:27",
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
-      "added_at": "2022-10-07 15:31:27",
-      "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
-    },
-    {
       "added_at": "2022-06-08 17:57:52",
       "album": {
         "name": "Para No Pensar en Ti",
@@ -963,6 +947,22 @@
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -999,34 +999,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 224040,
-      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
-      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "T\u00fa a M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1043,6 +1027,22 @@
       "duration_ms": 197230,
       "name": "Ya Me Voy Para Siempre",
       "url": "https://open.spotify.com/track/1zCfG4iMtCvcCjkoa2kJa7"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
+      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
+      "duration_ms": 183906,
+      "name": "T\u00fa a M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
     },
     {
       "added_at": "2022-06-08 17:57:52",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-06-08 17:57:52",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Resulta",
-      "url": "https://open.spotify.com/track/0ZUwQ6Y7OlSvVhRMQy9dsA"
-    },
-    {
-      "added_at": "2022-06-08 17:57:52",
-      "album": {
         "name": "Canta Once Grandes Exitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249426,
       "name": "Inocente Pobre Amiga",
       "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
+    },
+    {
+      "added_at": "2022-06-08 17:57:52",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Resulta",
+      "url": "https://open.spotify.com/track/0ZUwQ6Y7OlSvVhRMQy9dsA"
     },
     {
       "added_at": "2022-06-08 17:57:52",

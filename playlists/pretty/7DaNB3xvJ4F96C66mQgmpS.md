@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Workout songs to get your blood pumping and confidence activated\. Listen here to rap and electronic bangers to power your workout and achieve the best you.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 89,198 likes - 53 songs - 2 hr 46 min
+[Digster](https://open.spotify.com/user/digster.fm) - 89,190 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

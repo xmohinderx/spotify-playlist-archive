@@ -1,29 +1,13 @@
 {
   "description": "Soul classics to keep you company in the kitchen.",
-  "num_followers": 23302,
+  "num_followers": 23325,
   "original_name": "Cooking with Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODkzNSwwMDAwMDAwMDQ5ZWYwMmE0MzE0ZjJhMTg1ZTlkMGZhODhiMzNlNDQ3",
+  "snapshot_id": "MTY0ODQ5ODkzNSwwMDAwMDAwMGM4YjE5ZmQ0ODAzZmRkZTFiZGRkOTY0YmI1YmZhODk4",
   "tracks": [
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -219,18 +235,18 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -267,22 +283,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -315,8 +315,8 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+        "name": "The 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+      "duration_ms": 161226,
+      "name": "I Second That Emotion",
+      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Come See About Me",
-      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -459,8 +443,24 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y"
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Come See About Me",
+      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -487,6 +487,22 @@
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 124502,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -519,22 +535,6 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 124502,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
-    },
-    {
-      "added_at": "2022-03-28 20:22:14",
-      "album": {
         "name": "Swing Low",
         "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 155173,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/7v1858htfU0srTDwhxeka8"
+    },
+    {
+      "added_at": "2022-03-28 20:22:14",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+        "name": "The Essential Major Lance",
+        "url": "https://open.spotify.com/album/7ttomuo8F0pcgMYm3SUDXJ"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "Major Lance",
+          "url": "https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
+      "duration_ms": 139173,
+      "name": "Um, Um, Um, Um, Um, Um",
+      "url": "https://open.spotify.com/track/27FhNKYP8B0F3teHdcD5ob"
     },
     {
       "added_at": "2022-03-28 20:22:14",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-03-28 20:22:14",
       "album": {
-        "name": "The Essential Major Lance",
-        "url": "https://open.spotify.com/album/7ttomuo8F0pcgMYm3SUDXJ"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
       "artists": [
         {
-          "name": "Major Lance",
-          "url": "https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt"
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
         }
       ],
-      "duration_ms": 139173,
-      "name": "Um, Um, Um, Um, Um, Um",
-      "url": "https://open.spotify.com/track/27FhNKYP8B0F3teHdcD5ob"
+      "duration_ms": 164840,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
     },
     {
       "added_at": "2022-03-28 20:22:14",

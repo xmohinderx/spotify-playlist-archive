@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-140 songs - 6 hr 58 min
+141 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Breath Of Life](https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:34 | 2022-07-19 | 2022-07-28 |
 | [Breath Of Life](https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:34 | 2022-07-19 |  |
 | [Calm Waves](https://open.spotify.com/track/46pzk2tSufIR5xYB0VvPVW) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/7FtzJPkuvDEb1yWqRhVtce) | 2:46 | 2022-07-05 | 2022-07-28 |
-| [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 | 2022-11-11 |  |
+| [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 | 2022-11-11 | 2023-01-15 |
 | [Capella](https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR) | 2:37 | 2022-07-05 | 2022-07-29 |
 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 | 2022-07-19 |  |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
@@ -105,6 +105,7 @@
 | [Repose](https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2) | 3:12 | 2022-08-05 |  |
 | [Repose](https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 |  |
+| [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 | 2023-01-10 |  |
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-11-12 |
 | [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 | 2022-07-19 |  |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2022-07-19 |  |

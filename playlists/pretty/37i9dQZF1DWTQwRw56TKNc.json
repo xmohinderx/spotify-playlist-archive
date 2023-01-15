@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: John Denver",
-  "num_followers": 594501,
+  "num_followers": 594676,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxMTYwMywwMDAwMDAwMGZjM2ZlODI3ZjZlNDhhYzE4YmZmOGI2YWM2YWE2NTVi",
+  "snapshot_id": "MTY2NDgxMTYwMywwMDAwMDAwMDYxMDIyNjE2NTg2MTU5MDdkMGYzMGE5MWY0ODU0YzUx",
   "tracks": [
     {
       "added_at": "2021-09-30 18:53:37",
@@ -299,18 +299,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -331,18 +331,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
     },
     {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Jackson Browne (Saturate Before Using)",
+        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Doctor My Eyes",
+      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+    },
+    {
       "added_at": "2022-07-05 19:00:29",
       "album": {
         "name": "Crosby, Stills & Nash",
@@ -407,22 +423,6 @@
       "duration_ms": 157893,
       "name": "Helplessly Hoping - 2005 Remaster",
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Jackson Browne (Saturate Before Using)",
-        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Doctor My Eyes",
-      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -471,6 +471,22 @@
       "duration_ms": 102986,
       "name": "The Wind - Remastered 2021",
       "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Moondance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -507,18 +523,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Highlights From His Decca Years",
-        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 206333,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -539,18 +555,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Moondance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 155453,
-      "name": "Crazy Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
+      "duration_ms": 206333,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -567,22 +583,6 @@
       "duration_ms": 109386,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -619,38 +619,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
       },
@@ -667,6 +635,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-09-13 14:34:43",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "added_at": "2021-09-30 18:53:37",

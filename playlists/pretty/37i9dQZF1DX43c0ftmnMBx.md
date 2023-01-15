@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,305 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,354 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 49 | [Siento Que Te Quiero](https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Mi Liberé](https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4) | 5:01 |
 | 50 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
 | 51 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
-| 52 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
-| 53 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 52 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
+| 53 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
 | 54 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
 | 55 | [Medicina De Amor](https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx) | 6:00 |
 | 56 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 76 | [Corazón Con Candado](https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:22 |
 | 77 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
 | 78 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
-| 79 | [Abrazame amor](https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz) | 3:56 |
+| 79 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
 | 80 | [Corazón Culpable](https://open.spotify.com/track/198HWHhymECcoWD5udzWzH) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Aqui Esta La Bachata, Vol\. 2: Con Sus Interpretes Originales](https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9) | 6:01 |
-| 81 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
+| 81 | [Abrazame amor](https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz) | 3:56 |
 | 82 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
-| 83 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
+| 83 | [Maestra](https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c) | [Elvis Martinez El Camarón](https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP) | [Tres Palabras](https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5) | 3:51 |
 | 84 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
-| 85 | [Maestra](https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c) | [Elvis Martinez El Camarón](https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP) | [Tres Palabras](https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5) | 3:51 |
+| 85 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 86 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 |
 | 87 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
 | 88 | [Muchachita Loca](https://open.spotify.com/track/3sc5V807LrB6laUneVyu52) | [The Latin Dance Machine](https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK) | [Latin Dance Series \- Bachata](https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Canalla](https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:45 |
 | 100 | [ileso](https://open.spotify.com/track/2zHgz7X52WqdckhjMJj6mt) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:37 |
 
-Snapshot ID: `MTY2NjczODg4NSwwMDAwMDAwMDUzNGMzMzhmNDQwODY5OGUyNmZkYWIwOTY3YjliNTcy`
+Snapshot ID: `MTY2NjczODg4NSwwMDAwMDAwMDk1ZWYwYjIxMGI3NzM2MDc1MTdlZjU0OTdhM2U5MTk5`

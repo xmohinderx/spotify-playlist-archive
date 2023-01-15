@@ -294,6 +294,24 @@
     {
       "album": {
         "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171084,
+      "name": "Ar Condicionado no 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
+    },
+    {
+      "album": {
+        "name": "In Miami Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/508PwdK7nipXn6CL20PWkb"
       },
       "artists": [
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 179000,
       "name": "Voc\u00ea Partiu Meu Cora\u00e7\u00e3o (feat. Anitta & Wesley Safad\u00e3o)",
       "url": "https://open.spotify.com/track/0u8aj0c4IxeVSLTUuuq9V5"

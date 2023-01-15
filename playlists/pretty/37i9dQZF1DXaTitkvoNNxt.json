@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1435840,
+  "num_followers": 1435809,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDYwMDA5NjQ2MjkyNzcwZTYyNGY3ODg0Mjg5NzAwNjJl",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGExN2I0YWY2ZWNjMWVjZTY0ZDI2NzUxMzdkNTVkOWJk",
   "tracks": [
     {
       "added_at": "2022-06-14 17:57:58",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -495,18 +511,22 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -591,22 +611,18 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
-        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -623,22 +639,6 @@
       "duration_ms": 231266,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -719,6 +719,38 @@
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -743,54 +775,6 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1059,22 +1059,34 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
+      "duration_ms": 231240,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1099,18 +1111,22 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 484146,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1147,22 +1163,6 @@
       "duration_ms": 197933,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1206,11 +1206,15 @@
         {
           "name": "Flo Rida",
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 224653,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1310,15 +1314,11 @@
         {
           "name": "Flo Rida",
           "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+      "duration_ms": 224653,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "You Need To Calm Down",
-      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
         "name": "Black Star Elephant",
         "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 245866,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+      "duration_ms": 171360,
+      "name": "You Need To Calm Down",
+      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1471,18 +1467,38 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2022-06-14 17:57:58",
@@ -1507,38 +1523,6 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
         "name": "Ivy To Roses (Mixtape)",
         "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-06-14 17:57:58",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
-    },
-    {
-      "added_at": "2022-06-14 17:57:58",
-      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2022-06-14 17:57:58",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
       "added_at": "2022-06-14 17:57:58",

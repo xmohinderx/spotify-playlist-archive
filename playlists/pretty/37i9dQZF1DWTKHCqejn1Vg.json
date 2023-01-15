@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 15589,
+  "num_followers": 15610,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQ1MywwMDAwMDAwMGQyOWI1OTUzNTdlYzhlMzMyODQzNjdmNmJhOTY2OTI3",
+  "snapshot_id": "MTY3MzU4MjQ1MywwMDAwMDAwMDg4NDBkNGY2MGFlMmUyZjRmMWJkNGVjODIzOGIzMmVl",
   "tracks": [
     {
       "added_at": "2023-01-10 08:41:15",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2023-01-10 08:41:15",
+      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2023-01-10 08:41:15",
-      "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
-        "name": "FALL IN LUST",
-        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "FALL IN LUST",
-      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
-    },
-    {
-      "added_at": "2023-01-10 08:41:15",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2023-01-10 08:41:15",
+      "album": {
+        "name": "FALL IN LUST",
+        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "FALL IN LUST",
+      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
-        "name": "CLAASSIC",
-        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 217922,
-      "name": "SWEATY",
-      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
-    },
-    {
-      "added_at": "2023-01-10 08:41:15",
-      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 210466,
       "name": "Kurkdjian",
       "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
+    },
+    {
+      "added_at": "2023-01-10 08:41:15",
+      "album": {
+        "name": "CLAASSIC",
+        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 217922,
+      "name": "SWEATY",
+      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
         }
       ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -939,18 +939,38 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
       "artists": [
         {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2023-01-10 08:41:15",
+      "album": {
+        "name": "EASY (feat. ELO)",
+        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "EASY (feat. ELO)",
+      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -991,18 +1011,22 @@
     {
       "added_at": "2023-01-10 08:41:15",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
       "artists": [
         {
           "name": "Sik-K",
           "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+      "duration_ms": 187716,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ"
     },
     {
       "added_at": "2023-01-10 08:41:15",
@@ -1035,22 +1059,6 @@
       "duration_ms": 196250,
       "name": "CANTSAY",
       "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
-    },
-    {
-      "added_at": "2023-01-10 08:41:15",
-      "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Chrome Hearts",
-      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
     },
     {
       "added_at": "2023-01-10 08:41:15",

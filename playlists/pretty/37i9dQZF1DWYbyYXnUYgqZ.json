@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music!",
-  "num_followers": 15330,
+  "num_followers": 15404,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjY5NiwwMDAwMDAwMGI2ZWU5ZjBjMWVkMjgwNGRhZTdjODcwMjUwNTI1MDE5",
+  "snapshot_id": "MTY3MzU4MjY5NiwwMDAwMDAwMGEzMGRmYWY3Mjc4NDhlNzNiMWM5Y2ZlY2I1ZTRmMzg0",
   "tracks": [
     {
       "added_at": "2022-12-21 09:14:18",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-01-14 18:50:07",
+      "added_at": "2023-01-15 00:30:44",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
-      "added_at": "2023-01-14 18:50:07",
+      "added_at": "2023-01-15 00:30:44",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "FOREVER 1",
-      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "CRY FOR ME",
         "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 204167,
       "name": "CRY FOR ME",
       "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "FIRST IMPACT",
-        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 183693,
-      "name": "WA DA DA",
-      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
         }
       ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+        "name": "2 Baddies - The 4th Album",
+        "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
         }
       ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
+      "duration_ms": 230293,
+      "name": "2 Baddies",
+      "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1323,18 +1323,34 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "2 Baddies - The 4th Album",
-        "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 230293,
-      "name": "2 Baddies",
-      "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
+      "duration_ms": 170805,
+      "name": "Blessed-Cursed",
+      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1351,22 +1367,6 @@
       "duration_ms": 176546,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "Blessed-Cursed",
-      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "IT'z Different",
-        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "DALLA DALLA",
-      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
         "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 186760,
       "name": "Ready to love",
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Heart Burn",
-      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q"
+        "name": "GREAT!",
+        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
       "artists": [
         {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
         }
       ],
-      "duration_ms": 207013,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L"
+      "duration_ms": 208863,
+      "name": "BBoom BBoom",
+      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
     },
     {
       "added_at": "2022-12-21 09:14:18",

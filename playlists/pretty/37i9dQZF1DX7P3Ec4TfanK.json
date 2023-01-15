@@ -1,12 +1,12 @@
 {
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
-  "num_followers": 306691,
+  "num_followers": 306700,
   "original_name": "Caff\u00e8 del Buongiorno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDQyNDhkN2JhYmI3YTZlMjg1NjhkN2MxMGY2MzBmZGM5",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDc0NGZlNThlZDRiYWE4MDU4OTQ5ZDczOTZhY2YwYjYy",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Take You Dancing",
         "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -1115,42 +1115,42 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Vieni nel mio cuore",
-        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 172761,
-      "name": "Vieni nel mio cuore",
-      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
+      "duration_ms": 168117,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
     },
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -1191,42 +1191,42 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
       "artists": [
         {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
     },
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+        "name": "Vieni nel mio cuore",
+        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 168117,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
+      "duration_ms": 172761,
+      "name": "Vieni nel mio cuore",
+      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Lifestyle (feat. Adam Levine)",
+        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        },
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "Lifestyle (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -1419,30 +1443,6 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Lifestyle (feat. Adam Levine)",
-        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        },
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 153865,
-      "name": "Lifestyle (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
     },
     {
       "added_at": "2022-11-24 23:01:00",

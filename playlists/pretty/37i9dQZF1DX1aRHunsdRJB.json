@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8587,
+  "num_followers": 8594,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGMwZTcxZjM5NzczNTMyNmFkMDAzMmZlODhiZjRiY2M1",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGM2ZDQ4Njc2NWVlNGNjNGUzMDQwMGY0MzNkNWExZGRj",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wileside Government",
         "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 202332,
       "name": "Wileside Government",
       "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2011",
-        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
       "artists": [
         {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Guh Down",
-      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -819,22 +823,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+        "name": "Soca Gold 2011",
+        "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
       },
       "artists": [
         {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+      "duration_ms": 187026,
+      "name": "Guh Down",
+      "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bus a Wine",
         "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
@@ -1083,6 +1099,26 @@
       "duration_ms": 184800,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Arch & Bend Riddim Reloaded",
+        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1127,54 +1163,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Mandrakes Riddim",
-        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
-      },
-      "artists": [
-        {
-          "name": "Mandella Linkz",
-          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2012",
-        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1199,6 +1187,38 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Soca Gold 2012",
+        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Arch & Bend Riddim Reloaded",
-        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 136663,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
     },
     {
       "added_at": "2022-02-24 18:00:00",

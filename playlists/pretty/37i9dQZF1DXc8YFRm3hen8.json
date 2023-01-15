@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 138532,
+  "num_followers": 138587,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGNkY2NjMTQ1MTAxM2ZkYTdhZDI5M2ZlYTQ2ZTMyYjFl",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMGZiOTgzZDFkYmM4NjU1YjM0YmMwMWEwMmM2NzU5NmQz",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+      "duration_ms": 284531,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -331,22 +335,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 284531,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 308946,
       "name": "Lago en el Cielo",
       "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -575,42 +575,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Garc\u00eda 87/93",
-        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Hablando a Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Porfiado",
         "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
       },
@@ -623,6 +587,22 @@
       "duration_ms": 259680,
       "name": "Enamorado tuyo",
       "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -691,6 +671,26 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Garc\u00eda 87/93",
+        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hablando a Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Desaf\u00edos",
+        "url": "https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Ojos de Drag\u00f3n!",
+      "url": "https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Desaf\u00edos",
-        "url": "https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Ojos de Drag\u00f3n!",
-      "url": "https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "El trato",
+      "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Con Vos",
         "url": "https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "El trato",
-      "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Venganza",
         "url": "https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     }
   ],
   "unique_name": "Rock del D\u00eda",

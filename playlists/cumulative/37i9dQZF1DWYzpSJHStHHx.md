@@ -4,7 +4,7 @@
 
 > Hang ten.
 
-212 songs - 12 hr 11 min
+213 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Crystal Night](https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Satan's Graffiti or God's Art?](https://open.spotify.com/album/4ml6A0R0vrHdSEAua3nA98) | 3:38 | 2021-02-05 | 2022-07-01 |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2021-02-05 |  |
 | [DARLING](https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DARLING](https://open.spotify.com/album/5gfKoVTEJqa1mTuSczsgdL) | 2:27 | 2021-08-27 | 2022-07-29 |
-| [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 | 2022-09-22 |  |
+| [daydreams](https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [daydreams](https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749) | 2:14 | 2022-09-22 | 2023-01-15 |
 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 | 2021-02-05 | 2022-07-02 |
 | [delicate creature](https://open.spotify.com/track/5HON29JZvuzaHX2B2oIwr1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/1G8iPiffToCQstIPJJqAAG) | 4:32 | 2021-02-05 | 2022-07-29 |
 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 | 2022-07-22 |  |
@@ -109,6 +109,7 @@
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-04-13 | 2022-04-20 |
 | [Johny Says Stay Cool](https://open.spotify.com/track/079PTrnF2dhq5iUI0xiq2x) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Johny Says Stay Cool](https://open.spotify.com/album/4SCvFvAPVPOst8Vk0s2nHx) | 2:36 | 2021-02-05 | 2022-07-29 |
 | [Johny Says Stay Cool](https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 2:36 | 2022-07-22 | 2022-12-01 |
+| [Johny Says Stay Cool](https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 2:36 | 2022-09-22 |  |
 | [Keep in Line](https://open.spotify.com/track/45FKtXcNaJVtbfCumiUHHe) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Keep in Line](https://open.spotify.com/album/0k5jwmJHT4lsTT9tatZ807) | 3:39 | 2021-02-05 | 2022-04-21 |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2022-07-22 |  |
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-08-27 | 2022-04-21 |

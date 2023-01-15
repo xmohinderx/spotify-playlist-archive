@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-381 songs - 1 day 3 hr 19 min
+383 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Jesus Was An Alien \- Radio Edit](https://open.spotify.com/track/30NOfs6Qqjn1mJ8EQry6He) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Jesus Was An Alien](https://open.spotify.com/album/0sC7FiXQOBLC798muFftRU) | 4:51 | 2022-04-01 | 2022-04-09 |
 | [Just Drive](https://open.spotify.com/track/2rQbDCtrX3H3cGwqH3JmPv) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Summer Haze](https://open.spotify.com/artist/3xJPygbzx0pAUV4yzJM17V), [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Just Drive](https://open.spotify.com/album/6FHuJNrXDqeH1YqXeapWtv) | 4:08 | 2022-06-10 |  |
 | [Karpen Island](https://open.spotify.com/track/09U5UJaUJM9PPVGLtJpfBo) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Karpen Island](https://open.spotify.com/album/3cQfF7a7qLoeE8L2IIPUqq) | 4:04 | 2021-10-15 | 2022-10-19 |
-| [Karpen Island](https://open.spotify.com/track/4ZepQtIaClw4UuUpteSQG3) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Karpen Island](https://open.spotify.com/album/5LDhbYJLAFfLY8mx2NcUnM) | 4:04 | 2022-12-23 |  |
+| [Karpen Island](https://open.spotify.com/track/4ZepQtIaClw4UuUpteSQG3) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Karpen Island](https://open.spotify.com/album/5LDhbYJLAFfLY8mx2NcUnM) | 4:04 | 2022-12-23 | 2023-01-15 |
 | [keep on](https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [life support](https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67) | 2:35 | 2022-02-04 | 2022-09-26 |
 | [Keep on Running \(From “in Search of Tomorrow”\)](https://open.spotify.com/track/0GNYF4pUnJ0qFF65bigh0L) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Keep on Running \(From “in Search of Tomorrow”\)](https://open.spotify.com/album/0TJYw0LC0tvIgndjGD6toS) | 4:05 | 2022-06-03 | 2023-01-14 |
 | [Keepin' on](https://open.spotify.com/track/3tNufibuIuaIh60y7tn3KF) | [Myrone](https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX) | [Late Nite Myrone](https://open.spotify.com/album/2uAAmAUkoyLqN1mJYoN84S) | 4:25 | 2022-02-25 | 2022-07-29 |
@@ -237,6 +237,7 @@
 | [Nightdrive \(1984 Mix\)](https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [Nightdrive \(1984 Mix\)](https://open.spotify.com/album/3biVfNmeV3XvENxqUf8A1g) | 4:50 | 2021-10-15 | 2022-01-31 |
 | [Nightride \(Revisited\)](https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Nightride \(Revisited\)](https://open.spotify.com/album/4KgD1C3DcKXewelKAuZ1xs) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Nightride \(Revisited\)](https://open.spotify.com/track/7aAyeih2OelKpPkuLOesWX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité Pt\. 2](https://open.spotify.com/album/2ZawllkUzaqxRnPhtUtG8b) | 4:12 | 2022-07-22 | 2023-01-03 |
+| [Nightride \- Revisited](https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité pt\. 2](https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo) | 4:12 | 2023-01-13 |  |
 | [Nighttime \- Polyark Remix](https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [Polyark](https://open.spotify.com/artist/4tNPuwPvY7Yi29m9enFmIP) | [Nighttime \(Polyark Remix\)](https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh) | 3:57 | 2021-10-15 | 2022-05-28 |
 | [no time like tomorrow](https://open.spotify.com/track/3Hp3FOk6nVedCUADguOdn8) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [no time like tomorrow](https://open.spotify.com/album/4nTcZGPEdnlmFoKbAaqpRy) | 2:53 | 2022-11-18 | 2022-12-17 |
 | [NOCTURNAL](https://open.spotify.com/track/4nuZGGZFAo10NKnYLWVY3l) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [NOCTURNAL](https://open.spotify.com/album/4EiiygcWETw9cQktdzQnUQ) | 3:21 | 2022-11-28 |  |
@@ -288,6 +289,7 @@
 | [Release](https://open.spotify.com/track/3XVJx3ZIHAhSsjapF263Ql) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Release](https://open.spotify.com/album/1PhJNrjqTDMcHPp7VBsla3) | 3:40 | 2022-05-06 |  |
 | [Remember When](https://open.spotify.com/track/55rIKGbcna1oD0v3BdIo4B) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [This is Now](https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt) | 6:06 | 2022-04-01 | 2023-01-14 |
 | [Remoteness](https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Remoteness](https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF) | 5:44 | 2022-04-01 | 2022-07-29 |
+| [Rivage](https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu) | 4:04 | 2023-01-13 |  |
 | [Rivage](https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Rivage](https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk) | 4:04 | 2021-10-15 | 2022-12-31 |
 | [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 | 2022-11-11 |  |
 | [Runaway](https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Real Thing](https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0) | 3:52 | 2022-02-25 |  |
@@ -335,7 +337,7 @@
 | [Takeoff](https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Galaxy](https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV) | 2:39 | 2021-10-15 | 2022-07-29 |
 | [Takeoff](https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Synthwave, Vol\. 5 \(Retro Dreams\)](https://open.spotify.com/album/7bvzc53iIULMZfSJYPFkZ9) | 2:39 | 2022-07-22 | 2022-10-19 |
 | [Tan Lines And Fizzy Wine](https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G) | [RSS Disco](https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp) | [Tan Lines and Fizzy Wine](https://open.spotify.com/album/0hUVC3smHare27tVcN270U) | 6:46 | 2022-04-08 | 2022-08-23 |
-| [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 |  |
+| [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 | 2023-01-15 |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 |  |
 | [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 |  |

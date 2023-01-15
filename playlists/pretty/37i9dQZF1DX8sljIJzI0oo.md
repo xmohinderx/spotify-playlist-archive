@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > This is Mixtape \#034 featuring Paloma Mami 🔥\. Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836,447 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836,423 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

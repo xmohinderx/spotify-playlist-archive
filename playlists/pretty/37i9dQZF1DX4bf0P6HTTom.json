@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 128591,
+  "num_followers": 128620,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDczODNhNDZhNGJjNTNkNTUwOGNiMzYwMTI1MTEzMmFk",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDUyN2I3M2JiOGY3N2NlZTJiNjJjZGFiZjE1M2Q1YThi",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -303,6 +303,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "The Flying Burrito Brothers",
         "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+        "name": "Manassas",
+        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
       },
       "artists": [
         {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
+      "duration_ms": 172533,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -379,22 +395,6 @@
       "duration_ms": 232400,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Manassas",
-        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Hand Sown...Home Grown",
         "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
       },
@@ -563,38 +579,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
       "artists": [
         {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -643,18 +639,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
       "artists": [
         {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
       "added_at": "2020-08-05 15:52:11",

@@ -4,7 +4,7 @@
 
 > all\-day bops you can always rely on ◡̈
 
-378 songs - 21 hr 19 min
+379 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Colors](https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 4:09 | 2022-11-27 |  |
 | [Colours](https://open.spotify.com/track/0GwMzBz32XMFIEBHrZ6qVD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Smith Rock](https://open.spotify.com/album/4DnJvyIG620d86lSDMjSLV) | 3:02 | 2021-12-22 | 2022-07-24 |
 | [Colours](https://open.spotify.com/track/3PR0JEFk308QVZUQCij5JM) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Colours](https://open.spotify.com/album/0rgWsYj2T4WRQ9PDRdQctJ) | 3:51 | 2021-12-22 | 2022-07-28 |
-| [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-05-11 |  |
+| [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-05-11 | 2023-01-15 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-12-22 | 2022-07-28 |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-12-22 | 2022-07-29 |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-12-22 |  |
@@ -67,6 +67,7 @@
 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 | 2022-06-22 | 2022-07-28 |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-12-22 | 2022-10-14 |
 | [Corduroy Dreams](https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:26 | 2022-07-04 |  |
+| [Cotton Candy](https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4) | 1:33 | 2023-01-04 |  |
 | [Cotton Candy](https://open.spotify.com/track/7K1H5Peem34cxKy40kNFw5) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/265inH5rByFJoFVUYb9D98) | 1:33 | 2021-12-22 | 2022-07-25 |
 | [cowboys don't have friends](https://open.spotify.com/track/0Zt2XPMZ6ZS95OcPCT7sns) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [cowboys don't have friends](https://open.spotify.com/album/7pKkHdMVLyYC5bknWNzOcb) | 2:37 | 2021-12-22 | 2022-07-29 |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2022-02-04 | 2022-04-10 |

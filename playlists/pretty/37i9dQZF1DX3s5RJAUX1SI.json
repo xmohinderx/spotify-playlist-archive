@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 43570,
+  "num_followers": 43595,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDgyMDhjMDUxNmI0OWQ2YzU2NTQ0Y2Q5NjkyODc1NmM5",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMGNlNTIxZWZmODMzNzE1NjRlMzUwNTQ0MDVlOWIwOTIw",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -483,22 +483,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Un Chingazo",
-        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Un Chingazo",
-      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+      "duration_ms": 158190,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -519,18 +515,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 158190,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
         "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 217478,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+      "duration_ms": 217478,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Gato de Madrugada",
-        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Gato de Madrugada",
-      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
+      "duration_ms": 185142,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+        "name": "Gato de Madrugada",
+        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Cuando Fuimos Nada",
-      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
+      "duration_ms": 244653,
+      "name": "Gato de Madrugada",
+      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -939,22 +939,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn"
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -975,34 +971,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+      "duration_ms": 224920,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1019,6 +1003,22 @@
       "duration_ms": 187440,
       "name": "Positivo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 279961,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "El Color de Tus Ojos",
         "url": "https://open.spotify.com/album/4BvJvj4xBfkxQ1WZiO9Xdd"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
       },
@@ -1131,18 +1131,34 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+      "duration_ms": 279961,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Boleros Que Hicieron Historia",
+        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Contigo Aprendi",
+      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1191,22 +1207,6 @@
       "duration_ms": 227800,
       "name": "Sin Esencia - Balada",
       "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Boleros Que Hicieron Historia",
-        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Contigo Aprendi",
-      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 303173,
-      "name": "Un Hombre Normal",
-      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 208902,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Somos Octubre Doce",
-        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
-      },
-      "artists": [
-        {
-          "name": "Octubre Doce",
-          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
-        }
-      ],
-      "duration_ms": 247526,
-      "name": "Se Va Muriendo Mi Alma",
-      "url": "https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
@@ -1355,6 +1323,38 @@
       "duration_ms": 125354,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Un Hombre Normal",
+      "url": "https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Somos Octubre Doce",
+        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
+      },
+      "artists": [
+        {
+          "name": "Octubre Doce",
+          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
+        }
+      ],
+      "duration_ms": 247526,
+      "name": "Se Va Muriendo Mi Alma",
+      "url": "https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Somos Octubre Doce",
-        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
-      },
-      "artists": [
-        {
-          "name": "Octubre Doce",
-          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Mis Inicios",
         "url": "https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy"
       },
@@ -1451,6 +1419,22 @@
       "duration_ms": 196732,
       "name": "Despues De Ti, Quien",
       "url": "https://open.spotify.com/track/229E6OCQSeqIB3jEDivota"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1471,6 +1455,22 @@
       "duration_ms": 198835,
       "name": "Lo Siento Mucho - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Somos Octubre Doce",
+        "url": "https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk"
+      },
+      "artists": [
+        {
+          "name": "Octubre Doce",
+          "url": "https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Mis Inicios",
+        "url": "https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        }
+      ],
+      "duration_ms": 193674,
+      "name": "Y Todo Para Que",
+      "url": "https://open.spotify.com/track/0SsPLfptdC9CN8XRZzDWTu"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Boleros Que Hicieron Historia",
         "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 184826,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Mis Inicios",
-        "url": "https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy"
-      },
-      "artists": [
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
-        }
-      ],
-      "duration_ms": 193674,
-      "name": "Y Todo Para Que",
-      "url": "https://open.spotify.com/track/0SsPLfptdC9CN8XRZzDWTu"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Si Te Pudiera Mentir",
-        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 289565,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Ya Acabo",
         "url": "https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Si Te Pudiera Mentir",
+        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 289565,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
     },
     {
       "added_at": "2022-08-03 16:09:42",

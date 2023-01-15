@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-382 songs - 20 hr 24 min
+383 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 |  |
 | [Bark Me](https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa) | [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe), [Hybrid Theory](https://open.spotify.com/artist/6KkbKOCoCyCZGaaWggWh9Q) | [Bark Me](https://open.spotify.com/album/4eOzZHTGcw9aG8sn4onB3p) | 2:38 | 2021-11-19 |  |
+| [Bassline Rumble](https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Bassline Rumble](https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY) | 2:55 | 2023-01-13 |  |
 | [Bawl](https://open.spotify.com/track/6hIcc2uUOjId7gln9WyCCP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Bawl](https://open.spotify.com/album/0773xEIGtlcBIrdC1yVEgS) | 2:48 | 2022-05-27 | 2022-10-02 |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-10-29 | 2022-01-22 |
 | [Be Good](https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ) | [NØ SIGNE](https://open.spotify.com/artist/28e1tcP4TyKPkQUr1A3HiU), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Be Good](https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4) | 2:51 | 2021-10-29 | 2022-05-28 |
@@ -177,7 +178,7 @@
 | [High Like This](https://open.spotify.com/track/24rqaJuN7XX19NbmPHA6TT) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:01 | 2022-06-03 | 2022-09-15 |
 | [Hit Boys](https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [IMYOUNGWORLD](https://open.spotify.com/artist/08ngafsXwRT3J172UID0xq) | [Street Knowledge](https://open.spotify.com/album/3odYrusBGPbJ9OXMydGccU) | 2:43 | 2021-10-29 | 2022-05-28 |
 | [Hit the Breaks](https://open.spotify.com/track/7fFhhfuz6Qch7l2K8Mequ4) | [JAOVA](https://open.spotify.com/artist/2fI5dsTenHeFqazjkcnLiK) | [Hit the Breaks](https://open.spotify.com/album/3l6svBc2kZnXXelb4AyWtn) | 2:06 | 2022-03-18 | 2022-05-07 |
-| [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 | 2022-02-25 |  |
+| [Hold Up](https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up](https://open.spotify.com/album/57HyO0Nv1ZJKi9hDbs50to) | 2:29 | 2022-02-25 | 2023-01-15 |
 | [Hold Up \(feat\. J\. Plaza\)](https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Plaza](https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y) | [BLKMRKT Vol\. 1](https://open.spotify.com/album/1EXSFhzEK4yrgUQXVvjT1t) | 2:22 | 2021-10-29 | 2022-03-26 |
 | [Hustle](https://open.spotify.com/track/6YMSywt3HpzVLoxDN6tzqo) | [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Hustle](https://open.spotify.com/album/4FHhnmZpT898mjTBrcujXv) | 2:50 | 2021-10-29 | 2022-04-02 |
 | [Hype Beast](https://open.spotify.com/track/0AAtVQhBnuqduOZp7GsepG) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Hype Beast](https://open.spotify.com/album/5s8FxM1lTlGR4kmbbvmoEq) | 3:21 | 2022-01-21 | 2022-07-29 |

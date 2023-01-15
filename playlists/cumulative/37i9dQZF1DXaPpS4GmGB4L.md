@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-117 songs - 6 hr 53 min
+118 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 | 2021-12-20 |  |
 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 | 2022-07-08 |  |
 | [Rocket 88 \- Remastered](https://open.spotify.com/track/4DNlJnFb2AFE0GiZPW5t5O) | [Jackie Brenston](https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj) | [Rocket 88](https://open.spotify.com/album/3dnk3vbMIm4QBrAebCIn9l) | 2:46 | 2021-12-20 | 2022-07-29 |
-| [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-23 |  |
+| [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-23 | 2023-01-15 |
 | [Shake It Baby](https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes, Volume 2](https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9) | 4:55 | 2022-11-17 | 2022-11-19 |
 | [Shake Your Hips](https://open.spotify.com/track/2vb1sXfQJ3WsmevEvfnKeo) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:53 | 2022-11-17 | 2022-11-19 |
 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 | 2021-12-20 |  |
@@ -109,6 +109,7 @@
 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2021-12-20 |  |
+| [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 |  |
 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 | 2022-05-27 | 2022-11-19 |
 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 | 2021-12-20 |  |
 | [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 | 2022-04-21 |

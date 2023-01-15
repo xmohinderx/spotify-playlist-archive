@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 68104,
+  "num_followers": 68149,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYwOTMwMCwwMDAwMDAwMDQwOTdiZjE5MDc3ZTgzODBjNGQ4MTFmYzlhZDBmMGE3",
+  "snapshot_id": "MTY3MzYwOTMwMCwwMDAwMDAwMDg2NGJjY2ViN2ZlZWZmNGZiZjY2NWFkYjNlZDlmYzU0",
   "tracks": [
     {
       "added_at": "2023-01-13 11:28:20",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "Makes It Happen",
-        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
+        "name": "Makes It Happen",
+        "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "The Smart Attitude of Tommy Flanagan",
-        "url": "https://open.spotify.com/album/6pa6DxpaFgoY5H0yO9bKGW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 387373,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/4dwvM6WSpM4xO7scm3ufft"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
         "name": "Yeah!",
         "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+        "name": "The Smart Attitude of Tommy Flanagan",
+        "url": "https://open.spotify.com/album/6pa6DxpaFgoY5H0yO9bKGW"
       },
       "artists": [
         {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
         }
       ],
-      "duration_ms": 271946,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
+      "duration_ms": 387373,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/4dwvM6WSpM4xO7scm3ufft"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1083,6 +1067,22 @@
       "duration_ms": 442506,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -1159,6 +1127,22 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 301653,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1267,22 +1283,6 @@
       "duration_ms": 218466,
       "name": "Why Are We Afraid?",
       "url": "https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
+        "name": "A Night At The Village Vanguard (Live)",
+        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
+      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-01-13 11:28:20",
       "album": {
-        "name": "A Night At The Village Vanguard (Live)",
-        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
-      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2023-01-13 11:28:20",
+      "album": {
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 442200,
+      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-01-13 11:28:20",
@@ -1463,22 +1479,6 @@
       "duration_ms": 596706,
       "name": "I See Your Face Before Me - RVG Remaster",
       "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
-    },
-    {
-      "added_at": "2023-01-13 11:28:20",
-      "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 442200,
-      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-01-13 11:28:20",

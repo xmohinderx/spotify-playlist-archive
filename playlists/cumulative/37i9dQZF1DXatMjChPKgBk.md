@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-463 songs - 1 day 4 hr 46 min
+464 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Should I Stay Or Should I Go](https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay Or Should I Go](https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz) | 2:37 | 2022-10-28 | 2022-11-13 |
 | [Sideways](https://open.spotify.com/track/5sS5BZGWxx2sUYuIDh7Pup) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Sideways](https://open.spotify.com/album/3WuOPpw8Wvwi5WXtncYoHZ) | 3:24 | 2022-01-27 | 2022-07-29 |
 | [Since I Fell For You](https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 2:58 | 2022-01-27 | 2022-07-29 |
+| [Since I Fell For You](https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 2:58 | 2022-12-23 |  |
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2022-11-08 |  |
 | [Slow Burn](https://open.spotify.com/track/1JgSGfLxgwJ76ht70nWNuu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/0bGwtulR9pGiuo7vES9dqp) | 4:06 | 2022-01-27 | 2022-07-29 |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2022-07-08 |  |
@@ -425,7 +426,7 @@
 | [To Let You In](https://open.spotify.com/track/2XgQAAvNEdQUDzGieMJJA5) | [Volcan Peaks](https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [To Let You In](https://open.spotify.com/album/0IX3ONlaivgIkm1E5rraFH) | 3:16 | 2022-01-27 | 2022-11-13 |
 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 | 2022-01-27 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2022-01-27 |  |
-| [True Love](https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 3:33 | 2022-01-27 |  |
+| [True Love](https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 3:33 | 2022-01-27 | 2023-01-15 |
 | [Try](https://open.spotify.com/track/27zVrE9dDN2Ij8rlHw0XHm) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart Side A](https://open.spotify.com/album/4g2t8455lMXR69FoQBWL78) | 3:44 | 2022-01-27 | 2022-06-21 |
 | [Try](https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:44 | 2022-07-08 |  |
 | [Two Broken Hearts](https://open.spotify.com/track/5M8pFyozbhsS4QNxsSE2Jl) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Greetings from the Neon Frontier](https://open.spotify.com/album/2NahpxkT0PzNlsNobNpXeC) | 3:17 | 2022-01-27 | 2022-07-29 |

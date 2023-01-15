@@ -1389,6 +1389,32 @@
     },
     {
       "album": {
+        "name": "Fond (Rework)",
+        "url": "https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Fond - Rework",
+      "url": "https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74"
+    },
+    {
+      "album": {
         "name": "Fragments of the Mosaic",
         "url": "https://open.spotify.com/album/5CbUyfXv1nFnn9vPuwjCIU"
       },
@@ -2984,7 +3010,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 408000,
       "name": "The Last Island",
       "url": "https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR"

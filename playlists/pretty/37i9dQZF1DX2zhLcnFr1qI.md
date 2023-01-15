@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,851 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,843 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 24 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
 | 25 | [Caröl Von Holz](https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Holzbläser](https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL) | [Caröl Von Holz](https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY) | 4:14 |
 | 26 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
-| 27 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
-| 28 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
+| 27 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
+| 28 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
 | 29 | [Christmas Time](https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Christmas Time](https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk) | 2:47 |
 | 30 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Baby Tyson](https://open.spotify.com/artist/04xcAIuMLDs6qBgxEUmtJo), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 | 31 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Jingle Bells](https://open.spotify.com/track/6FFXHjCbfW4R34jhdHK3mB) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Happy Holidees](https://open.spotify.com/album/12ayOyjiubYv6Ak89nLSIh) | 1:52 |
 | 37 | [Have Yourself A Merry Little Christmas \- Auxjack Remix](https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0OwaoKbTLogu3Q3TW47ruD) | 3:27 |
 
-Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMDcxMDNmYzY5MDQ1OGQ4MTQ5N2YxMzc1NWFiYzRhMWI0`
+Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMDc3YzFlMTU2OGI5ZWZkODhkMmQ0MmYwMzFjNTE1MGZh`

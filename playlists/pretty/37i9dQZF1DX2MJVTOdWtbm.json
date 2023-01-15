@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 103272,
+  "num_followers": 103284,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjI4NCwwMDAwMDAwMGY3YmIxZTllMDdmMGUzMWM4Y2ViOGVlZjNjODYzMTQx",
+  "snapshot_id": "MTY3MzI0NjI4NCwwMDAwMDAwMDE1NWM4ZmRmNzY5ZWY4NmI1YjhiZWJiM2Q2NjcxNTc1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:38:04",
@@ -135,6 +135,38 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -163,38 +195,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Aj\u00e1",
+        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 142453,
+      "name": "Aj\u00e1",
+      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Una Ni\u00f1a In\u00fatil",
         "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Aj\u00e1",
-        "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 142453,
-      "name": "Aj\u00e1",
-      "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
@@ -471,18 +487,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -503,26 +523,6 @@
       "duration_ms": 214080,
       "name": "De Ti",
       "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
-      },
-      "artists": [
-        {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
-        }
-      ],
-      "duration_ms": 199046,
-      "name": "Para Ti No",
-      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "i hope you're very unhappy without me",
+        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 125166,
+      "name": "De Na'",
+      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 202986,
       "name": "Todo",
       "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "i hope you're very unhappy without me",
-        "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 125166,
-      "name": "De Na'",
-      "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
+      },
+      "artists": [
+        {
+          "name": "Yari M",
+          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Alumnos",
         "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1083,6 +1083,58 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Del Amor Al Odio",
+        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Del Amor Al Odio",
+      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Quiero (TDH's Version)",
         "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
       },
@@ -1095,22 +1147,6 @@
       "duration_ms": 157920,
       "name": "Quiero - TDH's Version",
       "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1163,22 +1199,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "Del Amor Al Odio",
-        "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
-      },
-      "artists": [
-        {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "Del Amor Al Odio",
-      "url": "https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "Nela",
         "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
       },
@@ -1195,34 +1215,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
         }
       ],
-      "duration_ms": 211688,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1239,6 +1243,22 @@
       "duration_ms": 171477,
       "name": "esc\u00e1pate",
       "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1263,6 +1283,38 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "La Original",
         "url": "https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr"
       },
@@ -1283,38 +1335,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
-      },
-      "artists": [
-        {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1335,34 +1367,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+        "name": "sola",
+        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
         }
       ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
-      },
-      "artists": [
-        {
-          "name": "Yari M",
-          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
+      "duration_ms": 186664,
+      "name": "sola",
+      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "sola",
-        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "MKY",
+          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
         }
       ],
-      "duration_ms": 186664,
-      "name": "sola",
-      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
+      "duration_ms": 185520,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1415,22 +1431,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
-      },
-      "artists": [
-        {
-          "name": "MKY",
-          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
     },
     {
       "added_at": "2023-01-09 06:38:04",

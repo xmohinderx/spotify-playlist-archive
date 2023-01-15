@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4895,
+  "num_followers": 4896,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDdkOGU3ZTY3NjQwZTc3OGIxYWEwZGJkZWY3ZWE4YzA0",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGU1ZmE1NjQwOWFmNjliMzljNzA3ZTYzMzYzNjk3NWIy",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
+        "name": "Surfin' U.S.A.",
+        "url": "https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9"
+      },
+      "artists": [
+        {
+          "name": "Mariachi La Playa",
+          "url": "https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP"
+        }
+      ],
+      "duration_ms": 137421,
+      "name": "Surfin' U.S.A.",
+      "url": "https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
         "name": "Ni\u00fc Mariachi Rock-Pop",
         "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Espiritus",
-          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Sonidos De Jalisco, Vol. 2",
         "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
       },
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 282013,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
+      "duration_ms": 214040,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Surfin' U.S.A.",
-        "url": "https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9"
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
       },
       "artists": [
         {
-          "name": "Mariachi La Playa",
-          "url": "https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP"
+          "name": "Mariachi Espiritus",
+          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
         }
       ],
-      "duration_ms": 137421,
-      "name": "Surfin' U.S.A.",
-      "url": "https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ"
+      "duration_ms": 321000,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Ni\u00fc Mariachi Rock-Pop",
-        "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
+        "name": "Don't Stop Believin'",
+        "url": "https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s"
       },
       "artists": [
         {
-          "name": "Niu Mariachi",
-          "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
+          "name": "Mariachi Tierras Caliente",
+          "url": "https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC"
         }
       ],
-      "duration_ms": 165581,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl"
+      "duration_ms": 223436,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Don't Stop Believin'",
-        "url": "https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Tierras Caliente",
-          "url": "https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC"
-        }
-      ],
-      "duration_ms": 223436,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Ni\u00fc Mariachi Rock-Pop",
         "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
       },
@@ -504,57 +488,9 @@
           "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
         }
       ],
-      "duration_ms": 241382,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mexican Party",
-        "url": "https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 246631,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/5BndvW6RSdi15wE06Dj0oF"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Polka Medley: Gourmet Race (from \"Kirby Super Star\") / Music A [from \"Tetris\"] /Ending [from \"Super Mario World\"]",
-      "url": "https://open.spotify.com/track/1fjSZMDvDHe4T4uuoxRGOP"
+      "duration_ms": 165581,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -600,9 +536,73 @@
           "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
+      "duration_ms": 282013,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mexican Party",
+        "url": "https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 246631,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/5BndvW6RSdi15wE06Dj0oF"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Entertainment System",
+          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Polka Medley: Gourmet Race (from \"Kirby Super Star\") / Music A [from \"Tetris\"] /Ending [from \"Super Mario World\"]",
+      "url": "https://open.spotify.com/track/1fjSZMDvDHe4T4uuoxRGOP"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+        }
+      ],
       "duration_ms": 256920,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/6114ISiNHPMQN8o2BUz1Bn"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Ni\u00fc Mariachi Rock-Pop",
+        "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
+      },
+      "artists": [
+        {
+          "name": "Niu Mariachi",
+          "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
+        }
+      ],
+      "duration_ms": 241382,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Entertainment System",
+          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Gerudo Valley (from \"The Legend of Zelda: Ocarina of Time\")",
+      "url": "https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
         "name": "Mexipop",
         "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
       },
@@ -696,41 +712,9 @@
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Gerudo Valley (from \"The Legend of Zelda: Ocarina of Time\")",
-      "url": "https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        }
-      ],
       "duration_ms": 180000,
       "name": "Dr. Wily - Stage 1 (from \"Mega Man 2\")",
       "url": "https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Livin' On a Prayer",
-      "url": "https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 198243,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
+      "duration_ms": 235766,
+      "name": "Livin' On a Prayer",
+      "url": "https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 280779,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV"
+      "duration_ms": 198243,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -795,6 +779,22 @@
       "duration_ms": 104500,
       "name": "The Moon (from \"Duck Tales\")",
       "url": "https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 280779,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV"
     },
     {
       "added_at": "2021-07-28 19:40:38",

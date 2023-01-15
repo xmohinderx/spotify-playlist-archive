@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 199987,
+  "num_followers": 200009,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDI4MjVjMjZlYjEzYjNhMzY5NGM1MGMxMTU0NjMzNDg3",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDZiZjk5NzNhOTc4MDRhNTI0MjI4Yjg1MjNkMTI5NWNk",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 116026,
       "name": "Yakety Yak - 2007 Remaster",
       "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -191,6 +191,38 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
+        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Coasters",
         "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
       },
@@ -219,38 +251,6 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
-        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
-      },
-      "artists": [
-        {
-          "name": "The Chords",
-          "url": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
-        }
-      ],
-      "duration_ms": 144493,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Best Of Bobby Lester And The Moonglows",
         "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 169706,
       "name": "Get a Job",
       "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -515,22 +515,6 @@
       "duration_ms": 144266,
       "name": "Whispering Bells",
       "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -635,6 +619,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Barbara-Ann",
-        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Regents",
-          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 135506,
-      "name": "Barbara Ann",
-      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
+      "duration_ms": 179160,
+      "name": "Can't We Be Sweethearts",
+      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -703,34 +703,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Presenting the Jive Five",
-        "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
+        "name": "Barbara-Ann",
+        "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
       },
       "artists": [
         {
-          "name": "The Jive Five",
-          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+          "name": "The Regents",
+          "url": "https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn"
         }
       ],
-      "duration_ms": 154466,
-      "name": "My True Story",
-      "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Can't We Be Sweethearts",
-      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
+      "duration_ms": 135506,
+      "name": "Barbara Ann",
+      "url": "https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -747,6 +731,22 @@
       "duration_ms": 156266,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Presenting the Jive Five",
+        "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
+      },
+      "artists": [
+        {
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "My True Story",
+      "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Little Girl of Mine",
+      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Rmg's Top Doo-Wop Cloud Hits Volume 1",
         "url": "https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 152600,
       "name": "Chapel of Dreams",
       "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

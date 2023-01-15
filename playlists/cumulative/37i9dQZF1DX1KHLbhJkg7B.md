@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-282 songs - 17 hr 32 min
+283 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [That's the Way Love Goes](https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [The Bottle Let Me Down](https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:45 | 2021-12-10 | 2022-07-28 |
 | [The Chair \- The Bootlegger Sessions](https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Chair \(The Bootlegger Sessions\)](https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v) | 2:46 | 2022-09-16 | 2022-09-26 |
-| [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 |  |
+| [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 | 2023-01-15 |
+| [The Galway Girl](https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Galway Girl](https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr) | 4:25 | 2023-01-13 |  |
 | [The Gambler](https://open.spotify.com/track/1oQnkSQhOQSSPCN0Hb9DCf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Gone Girl](https://open.spotify.com/album/7z2djJtIKZPZtPeTk2VXFq) | 3:41 | 2022-03-25 | 2022-09-10 |
 | [The Grand Tour](https://open.spotify.com/track/4bsaPI9m6fAtOsNTvfvBEv) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:09 | 2022-02-04 | 2022-07-28 |
 | [The Joker](https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 4:55 | 2021-12-10 | 2022-07-25 |

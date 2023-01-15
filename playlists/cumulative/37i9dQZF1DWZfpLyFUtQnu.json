@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Bruxelles (Version acoustique)",
+        "url": "https://open.spotify.com/album/2UA3lHDTFLYMAXH7nj2gp5"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "Bruxelles - Version acoustique",
+      "url": "https://open.spotify.com/track/7qfS3qSvzl7A2lBjlr6W4z"
+    },
+    {
+      "album": {
         "name": "C'est beau, c'est toi (Version acoustique)",
         "url": "https://open.spotify.com/album/1iTAmDqMfc49XLDjxUSeqh"
       },
@@ -150,7 +172,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 226206,
       "name": "Comme un voleur - Version acoustique",
       "url": "https://open.spotify.com/track/3LBcAAL0CGLptJsy0QYulx"

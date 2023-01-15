@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Grag Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,457 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,472 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 37 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 38 | [Brazindia](https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8) | [Brazindia](https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ) | 2:38 |
 | 39 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 |
-| 40 | [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 |
-| 41 | [Volte Sempre](https://open.spotify.com/track/2sfDXK05Z5q5j40nay1qKW) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [Potyguara Bardo](https://open.spotify.com/artist/1GA8PoLYhHREPKuYYB5A3B) | [Volte Sempre](https://open.spotify.com/album/37oV9S4IOlJrva2i2UZpMO) | 2:52 |
+| 40 | [Volte Sempre](https://open.spotify.com/track/2sfDXK05Z5q5j40nay1qKW) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [Potyguara Bardo](https://open.spotify.com/artist/1GA8PoLYhHREPKuYYB5A3B) | [Volte Sempre](https://open.spotify.com/album/37oV9S4IOlJrva2i2UZpMO) | 2:52 |
+| 41 | [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 |
 | 42 | [Contra Corrente](https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [Contra Corrente](https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD) | 3:29 |
 | 43 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
 | 44 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Lovezinho \- Ao Vivo](https://open.spotify.com/track/0UHnBCzJ7EYsdkApglyqf6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:15 |
 
-Snapshot ID: `MTY3MzU4NTIyOSwwMDAwMDAwMDczZGRkNTcyODIzMWViNGE1YzFmNDJhY2QzNmU0YmMx`
+Snapshot ID: `MTY3MzU4NTIyOSwwMDAwMDAwMDg2MmYxMjgxNzlmNjRjNDc0YTQ1NjI2ZjZlOTk5NjA2`

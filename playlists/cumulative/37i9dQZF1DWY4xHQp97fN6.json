@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "2 Live",
+        "url": "https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "2 LIVE",
+      "url": "https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI"
+    },
+    {
+      "album": {
         "name": "2 Million Up (feat. Rob49)",
         "url": "https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci"
       },
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 173783,
       "name": "BIG TIME (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"

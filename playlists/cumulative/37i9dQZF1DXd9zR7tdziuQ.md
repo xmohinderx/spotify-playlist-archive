@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-151 songs - 8 hr 55 min
+152 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 | 2022-08-25 |  |
 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 | 2022-08-25 |  |
 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 | 2022-08-25 |  |
+| [On the Road Again](https://open.spotify.com/track/034SnPlw5DF1Eg0hOcMNXl) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [On the Road Again](https://open.spotify.com/album/07QIJ8zAWHMOKVAutNHsww) | 2:19 | 2022-08-25 |  |
 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2022-08-25 |  |
 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 | 2022-08-25 |  |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2022-08-25 |  |
@@ -131,7 +132,7 @@
 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2022-08-25 |  |
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2022-08-25 |  |
 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 | 2022-08-25 |  |
-| [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 |  |
+| [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 | 2023-01-15 |
 | [Sweet Child o' Mine](https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o' Mine](https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90) | 5:02 | 2022-08-25 |  |
 | [There's Nothing Holdin Me Back](https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [There's Nothing Holdin Me Back](https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU) | 3:19 | 2022-08-25 |  |
 | [Think Before I Talk \- Acoustic](https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Think Before I Talk \(Acoustic\)](https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT) | 3:37 | 2022-08-25 |  |

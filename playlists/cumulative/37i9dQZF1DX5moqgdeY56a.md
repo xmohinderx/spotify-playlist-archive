@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-80 songs - 4 hr 48 min
+81 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 | 2022-09-22 |  |
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2021-12-13 |  |
 | [El Mala Estrella](https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 4:00 | 2021-12-13 |  |
-| [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 | 2021-12-13 |  |
+| [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 | 2021-12-13 | 2023-01-15 |
 | [El Triste \(with Pepe Aguilar\)](https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 4:12 | 2021-12-13 |  |
 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 | 2021-12-13 |  |
 | [En Realidad](https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:25 | 2021-12-13 |  |
@@ -54,6 +54,7 @@
 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 | 2021-12-13 |  |
 | [Medley Ranchero: El Cantador / Tristes Recuerdos \(feat\. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Homenaje a Los Grandes Compositores](https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB) | 4:21 | 2021-12-13 |  |
 | [Mi Credo](https://open.spotify.com/track/5k057RF9fQMimy59dS0pYJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 6:02 | 2022-09-22 | 2022-11-13 |
+| [Mi Gusto Es](https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Mi Gusto Es Con Tambora](https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg) | 3:26 | 2022-09-22 |  |
 | [Mi Ranchito](https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:04 | 2022-09-22 | 2022-11-13 |
 | [Morenita Labios Rojos](https://open.spotify.com/track/1qVDKiZHtN5DdelrFphs7k) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:08 | 2022-09-22 | 2022-11-13 |
 | [Nadie Es Eterno](https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 6](https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca) | 2:52 | 2021-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,816 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,820 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 10 | [Englishman In New York \- The Ben Liebrand Mix / Edit](https://open.spotify.com/track/1U8XRvf5z5wbnVFQHd14ph) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Ben Liebrand](https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf) | [...Nothing Like The Sun \(Expanded Edition\)](https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z) | 4:31 |
 | 11 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 12 | [Binetsu \(Autumn\)](https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Binetsu \(Autumn\) / Honesty \(Session 1\)](https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp) | 4:58 |
-| 13 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
+| 13 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 | 14 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 |
-| 15 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
+| 15 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 16 | [Close to you](https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr) | 3:40 |
 | 17 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 |
 | 18 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 59 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
 | 60 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 
-Snapshot ID: `MTY3MzYwMjA2MSwwMDAwMDAwMDE0ZGJiMDExNWE5ZTNkMDc1YmYyZmRmODA4YTE3ZDkw`
+Snapshot ID: `MTY3MzYwMjA2MSwwMDAwMDAwMDIzMjZhZmY1MjI4MzNiY2JiYzJlYzcyNThjMmMwNGIz`

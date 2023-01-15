@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-210 songs - 14 hr 59 min
+211 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Got Your Money \(feat\. Kelis\)](https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Nigga Please](https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz) | 3:59 | 2021-12-16 |  |
 | [Gotta Get Mine](https://open.spotify.com/track/5oqSr3rehtGgZyDh0LCSA7) | [MC Breed](https://open.spotify.com/artist/63727CmmJ8oWFh8eAHvDYq) | [The New Breed](https://open.spotify.com/album/63fBdGVcKoOOcI1eLOoDwT) | 4:24 | 2021-12-21 | 2022-07-27 |
 | [Grown Man Sport](https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI) | 4:36 | 2021-12-16 | 2022-11-19 |
+| [Grown Man Sport](https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR) | 4:36 | 2022-11-21 |  |
 | [Guess Who's Back](https://open.spotify.com/track/5czjjnbTatyFal33a9h1aN) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 4:10 | 2022-10-13 | 2022-11-13 |
 | [Guilty Conscience](https://open.spotify.com/track/6da04YB906XonC6IQNC44u) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:19 | 2022-07-13 |  |
 | [Hail Mary](https://open.spotify.com/track/4akCwzFRS8Syu5uFy7L1sG) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG) | 5:09 | 2021-12-16 | 2022-07-29 |
@@ -91,7 +92,7 @@
 | [Hip 2 Da Game](https://open.spotify.com/track/30eW6IlBK3wCwcB8TsPXua) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening](https://open.spotify.com/album/3DqP5MhotjHve8DiljKk6r) | 4:03 | 2021-12-16 | 2022-07-29 |
 | [Hip 2 Da Game](https://open.spotify.com/track/3yjVsUq8psgcHm8SQrZ8i4) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening](https://open.spotify.com/album/7tIapzAUTxUTYMvWWFSzV5) | 4:03 | 2022-10-13 | 2022-11-13 |
 | [Hip Hop Hooray](https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [19NaughtyIII](https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA) | 4:27 | 2022-07-13 |  |
-| [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 | 2022-07-13 |  |
+| [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 | 2022-07-13 | 2023-01-15 |
 | [How Do You Want It](https://open.spotify.com/track/1eduDdsjMO7Or4EXnMf2iS) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi) | 4:47 | 2021-12-16 | 2022-07-29 |
 | [How High \- Remix](https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [How High](https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY) | 3:59 | 2021-12-21 | 2022-07-11 |
 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 | 2022-07-13 |  |

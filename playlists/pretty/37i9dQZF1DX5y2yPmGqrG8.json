@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 299421,
+  "num_followers": 299451,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ4OTM5NCwwMDAwMDAwMDAxOGNiMDEyYjlhMjhlZGMwODRlMzk5YWRlMzdmODA0",
+  "snapshot_id": "MTY3MzQ4OTM5NCwwMDAwMDAwMGY0NWY0ODJlNTNkNDZiOTJiMDYwNWFiNzQ2YmNlMWUz",
   "tracks": [
     {
       "added_at": "2023-01-12 02:09:54",
@@ -231,18 +231,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
         }
       ],
-      "duration_ms": 208589,
-      "name": "Near Light",
-      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
+      "duration_ms": 87341,
+      "name": "Being Here",
+      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
       "added_at": "2022-11-25 01:10:42",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
       },
       "artists": [
         {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 87341,
-      "name": "Being Here",
-      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
+      "duration_ms": 208589,
+      "name": "Near Light",
+      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2022-12-20 19:13:50",
@@ -573,6 +573,26 @@
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Filoxiny",
@@ -607,42 +627,6 @@
     {
       "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 136040,
-      "name": "Melancholia VI",
-      "url": "https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
         "name": "Gelis",
         "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Existenzmaximum - EP",
-        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
       },
       "artists": [
         {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 121856,
-      "name": "Mechanical Advantage",
-      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+      "duration_ms": 136040,
+      "name": "Melancholia VI",
+      "url": "https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -693,20 +677,36 @@
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
-        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
+        "name": "Existenzmaximum - EP",
+        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
       },
       "artists": [
         {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
         }
       ],
-      "duration_ms": 238003,
-      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
-      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
+      "duration_ms": 121856,
+      "name": "Mechanical Advantage",
+      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
+        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
         }
       ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+      "duration_ms": 238003,
+      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
+      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
-      },
-      "artists": [
-        {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
-        }
-      ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Selected Public Works, Vol. 5",
@@ -819,6 +803,22 @@
       "duration_ms": 86601,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+      },
+      "artists": [
+        {
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+        }
+      ],
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2021-10-06 04:52:47",

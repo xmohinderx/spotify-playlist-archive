@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 27288,
+  "num_followers": 27296,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDllNTU0ZDZhMWMzNDIwMzdkMjdiNGNmZWE2ODlhZmFl",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMGJlMWViZGZlOWJhZDVkYjE4YTI3YWE3ZGE4YjQ1MWM0",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "[emo]",
-        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 192362,
-      "name": "Simpel Matematik",
-      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Docent D\u00f6d (Mini-LP)",
         "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 147520,
       "name": "Solglas\u00f6gon",
       "url": "https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "[emo]",
+        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "duration_ms": 192362,
+      "name": "Simpel Matematik",
+      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Gbg Noir",
-        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "Svegregationen",
-      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "V\u00e4lkommen till fabriken",
-        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
-      },
-      "artists": [
-        {
-          "name": "Kardborrebandet",
-          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Fabriken",
-      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 78800,
       "name": "Jag vill bli som far",
       "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "Svegregationen",
+      "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "V\u00e4lkommen till fabriken",
+        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
+      },
+      "artists": [
+        {
+          "name": "Kardborrebandet",
+          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Fabriken",
+      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 167648,
       "name": "Brinner",
       "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+        "name": "MNW Digital Archive 1979",
+        "url": "https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV"
       },
       "artists": [
         {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 151800,
-      "name": "Pappa Betalar",
-      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
+      "duration_ms": 123333,
+      "name": "Abab",
+      "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
     },
     {
       "added_at": "2023-01-05 23:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
-        "name": "I All Hast",
-        "url": "https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B"
-      },
-      "artists": [
-        {
-          "name": "Trevolt",
-          "url": "https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Mitt Sista Andetag",
-      "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
     }
   ],
   "unique_name": "Svensk Punk",

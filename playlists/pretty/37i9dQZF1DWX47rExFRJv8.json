@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 39239,
+  "num_followers": 39291,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDdkYjVlM2U3N2ZhN2ZhZGY2YWFkOTNhMTA4NWFlMjI4",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDEyMzEyOTkzNmU2ZjZmOTZmZTU5ZjgzODNmZDNlYTE0",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -682,11 +682,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 236215,
-      "name": "NI BIEN NI MAL",
-      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -711,22 +715,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Sin Pijama",
-        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -743,6 +747,26 @@
       "duration_ms": 258638,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -767,38 +791,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 187312,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -823,6 +831,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -839,46 +863,6 @@
       "duration_ms": 200746,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Cuando Te Bes\u00e9",
-        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 254383,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -931,6 +915,26 @@
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Cuando Te Bes\u00e9",
+        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 254383,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
     },
     {
       "added_at": "2021-12-16 01:11:32",

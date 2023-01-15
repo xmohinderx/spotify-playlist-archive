@@ -4,7 +4,7 @@
 
 > Música motivacional para quemar esa hamburguesa que comiste el finde.
 
-112 songs - 8 hr 3 min
+113 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dando Vueltas](https://open.spotify.com/track/5ev1gThJYTbvugTr89czl2) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 2:59 | 2020-10-27 | 2022-07-29 |
 | [Do the Evolution](https://open.spotify.com/track/0dIipTYASaFwX1QxVrVFV7) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:51 | 2020-10-27 | 2022-07-29 |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2020-10-27 | 2023-01-12 |
+| [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-07-05 |  |
 | [El 38](https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 2:29 | 2020-10-27 | 2022-07-29 |
 | [El Viejo](https://open.spotify.com/track/1rzzrtIqHumrJskmZrGrV7) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pappo y Amigos, Vol\. 2](https://open.spotify.com/album/3tCm0V5gM9VOfAAC3i10my) | 4:40 | 2020-10-27 | 2022-07-29 |
 | [En Bicicleta](https://open.spotify.com/track/5uOCwjthQFwClu6nhJJ99P) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En Bicicleta](https://open.spotify.com/album/3ypzABjOGy2iImGqiBOWRl) | 4:01 | 2020-10-27 | 2022-07-28 |
@@ -118,7 +119,7 @@
 | [Welcome To The Jungle](https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:32 | 2020-10-27 | 2022-07-29 |
 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 | 2022-07-05 |  |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2020-10-27 |  |
-| [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 | 2020-10-27 |  |
+| [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 | 2020-10-27 | 2023-01-15 |
 | [¿Qué Tal?](https://open.spotify.com/track/3UZTKmqf8w64igBFK9hNC4) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 3:00 | 2020-10-27 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

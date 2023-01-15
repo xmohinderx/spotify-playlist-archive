@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36061,
+  "num_followers": 36064,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMDRlOTZiM2I5ZWE2NDIyY2U2Njc2OWJlOGEyZmExYTFi",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGY1ZjQ5MDhhMTM0OTNiNGEwZmRiOTM1OWNlMGIzY2Ex",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Georgia",
         "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "There\u2019s Nothing But Space, Man!",
         "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "AOK",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 187888,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 128364,
-      "name": "Charlie Be Quiet!",
-      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 128364,
+      "name": "Charlie Be Quiet!",
+      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
@@ -543,6 +543,22 @@
       "duration_ms": 224500,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -567,22 +583,6 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Feet Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feet Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
-      "added_at": "2023-01-14 18:59:20",
+      "added_at": "2023-01-15 01:15:33",
       "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 196682,
       "name": "Blue",
       "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -997,6 +997,22 @@
       "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
     },
     {
+      "added_at": "2023-01-15 01:15:33",
+      "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
+    },
+    {
       "added_at": "2022-10-28 20:58:08",
       "album": {
         "name": "Grow",
@@ -1011,6 +1027,22 @@
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1035,38 +1067,6 @@
       "duration_ms": 159657,
       "name": "I Just Wanna (feat. Bow Anderson)",
       "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
-    },
-    {
-      "added_at": "2023-01-14 18:59:20",
-      "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 188792,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
-      },
-      "artists": [
-        {
-          "name": "Ines Rae",
-          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Never Get It Right",
-      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     },
     {
       "added_at": "2022-10-28 20:58:08",

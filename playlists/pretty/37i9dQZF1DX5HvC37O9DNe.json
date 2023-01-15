@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 89273,
+  "num_followers": 89282,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDAyZDI2Y2QwOTkwNDg2NTA3OGQxYjU1YjNkYWY5M2Mw",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDQxMmFlMWQ4ODUzM2ZjZTcwZDBlZjU4OWRjNDM5MWM5",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -223,8 +223,8 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -955,54 +955,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "MUJER",
-        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "MUJER",
-      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1023,22 +975,70 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 206494,
-      "name": "!ly (feat. Coez)",
-      "url": "https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3"
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "MUJER",
+        "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ricordi",
-        "url": "https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef"
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq"
+      "duration_ms": 206494,
+      "name": "!ly (feat. Coez)",
+      "url": "https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+        "name": "Ricordi",
+        "url": "https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 162586,
-      "name": "i'm so tired...",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+      "duration_ms": 202560,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1227,26 +1227,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1267,22 +1263,26 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "hate u love u",
         "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
     },
     {
       "added_at": "2022-10-27 22:01:00",

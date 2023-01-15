@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 26 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096 likes - 26 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

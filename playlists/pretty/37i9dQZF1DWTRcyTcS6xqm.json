@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 8050,
+  "num_followers": 8057,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDkyZTM5ZTYzOGE5MTQ5ZDI1ODFiYmNmOTZhOGUzMjc3",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGQ3MjdmNzZiNzAzOTJlMDAzZGNjMGFiMjJlYmI3NzY5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -135,26 +135,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
       },
@@ -167,22 +147,6 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -203,6 +167,42 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Benton County Relic",
         "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 214613,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -235,18 +251,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
+      "duration_ms": 209120,
+      "name": "Make It Move",
+      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -299,22 +315,6 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Make It Move",
-      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -403,6 +403,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 114784,
+      "name": "We've Got The Music",
+      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -423,22 +455,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 288282,
       "name": "Blues Party",
       "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 114784,
-      "name": "We've Got The Music",
-      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
     },
     {
       "added_at": "2020-12-01 05:01:00",

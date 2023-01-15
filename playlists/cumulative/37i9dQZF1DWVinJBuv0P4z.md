@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-319 songs - 17 hr 48 min
+320 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [The Stairway Of Love](https://open.spotify.com/track/74g6fBNXehjKdVFNlswnSk) | [Terry Dene](https://open.spotify.com/artist/67hWqsLUH3NHcnxHXqH3qu) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 1:58 | 2021-04-29 | 2022-07-06 |
 | [The Twist](https://open.spotify.com/track/5GVhFvXo4Q3LfM1gZi46F5) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Twist](https://open.spotify.com/album/2weCSeNXba4E04VrgOoVO3) | 2:34 | 2021-04-29 | 2022-07-29 |
 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 | 2022-05-11 |  |
-| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 |  |
+| [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 | 2021-04-29 | 2023-01-15 |
 | [The Way You Do The Things You Do](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:45 | 2021-04-29 |  |
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2021-04-29 |  |
 | [There´s A Whole Lot Of Loving](https://open.spotify.com/track/5ZYrnQZRxAQZW28pJtIDO2) | [Guys 'n' Dolls](https://open.spotify.com/artist/4HsXQK2GlotKLQtOD1DLzG) | [Guys 'N Dolls, The Greatest Hits](https://open.spotify.com/album/6RAhvTgnJCLyleANO5Sgci) | 3:13 | 2021-04-29 | 2022-07-27 |
@@ -326,6 +326,7 @@
 | [You're The One That I Want](https://open.spotify.com/track/1pViOt8zA2rl2NfHeDGnyD) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease](https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ) | 2:49 | 2021-04-29 | 2022-07-29 |
 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/2hViJh3rHe8MU9Rhshozdx) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Wedding Music](https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q) | 2:48 | 2022-05-11 | 2022-08-22 |
 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 | 2021-04-29 | 2023-01-09 |
+| [You're The One That I Want \- Remastered 2022](https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH) | [Olivia's Greatest Hits \(Vol\. 2 / Deluxe Edition / Remastered\)](https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby) | 2:50 | 2022-05-11 |  |
 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 | 2021-07-20 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

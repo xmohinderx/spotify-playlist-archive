@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDlkNjU5NDk5NWFmZDE4MWFlMWVlODZhMTZkMWYzYWE4",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDBmMzAwM2EwYjdhNTc2ZWVjM2JiYzNkMDcwZmU1NTg2",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
       },
       "artists": [
         {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -411,22 +427,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "homebody",
         "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 189000,
       "name": "homebody",
       "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Question It All / White Car",
-        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 242854,
-      "name": "Question It All",
-      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -487,6 +471,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Question It All / White Car",
+        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 242854,
+      "name": "Question It All",
+      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -595,18 +611,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+      "duration_ms": 187364,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -643,22 +663,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
       "artists": [
         {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 187364,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -675,22 +691,6 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Secret Life (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Mrs Blue",
-        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Down",
-          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
-        }
-      ],
-      "duration_ms": 267535,
-      "name": "Mrs Blue",
-      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+        "name": "Mrs Blue",
+        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Tommy Down",
+          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
         }
       ],
-      "duration_ms": 166413,
-      "name": "Oh GOD",
-      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
+      "duration_ms": 267535,
+      "name": "Mrs Blue",
+      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 208988,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+      "duration_ms": 166413,
+      "name": "Oh GOD",
+      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -995,6 +995,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 236486,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "It Might Take a Woman",
+      "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
-      },
-      "artists": [
-        {
-          "name": "Girlhood",
-          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "It Might Take a Woman",
-      "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
     },
     {
       "added_at": "2021-08-12 14:57:38",

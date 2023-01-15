@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18590,
+  "num_followers": 18594,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDZkMTQ2OTExNGMwNzdhMjBkZmUyNTI0MWM0ZjM2OTBm",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGJiZjAwMWM2NmNiMGI2ZGZmMDNiMjMyZGM5MGUxYzk1",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -99,6 +99,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Wild Blue, Part I",
         "url": "https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 232800,
       "name": "In the Arms",
       "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -403,22 +403,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Soul's on Fire",
         "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209545,
       "name": "Soul's on Fire",
       "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -747,26 +747,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ"
-      },
-      "artists": [
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        },
-        {
-          "name": "Kristen Hicks",
-          "url": "https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Safe (feat. Chris Cron)",
         "url": "https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 213997,
       "name": "Safe (feat. Chris Cron)",
       "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ"
+      },
+      "artists": [
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
+        },
+        {
+          "name": "Kristen Hicks",
+          "url": "https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 144629,
       "name": "Joyboy",
       "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -927,22 +927,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Dancing On Top of the World",
-      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Gone Are the Days (Julie Odnoralov Remix)",
         "url": "https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 235312,
       "name": "Gone Are the Days (Julie Odnoralov Remix)",
       "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Dancing On Top of the World",
+      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Help You Heal",
-        "url": "https://open.spotify.com/album/7uFNH0Tr5Ohb07vfhDbo41"
+        "name": "From the Roof (feat. YB)",
+        "url": "https://open.spotify.com/album/7MxN9VOPa5nVdX7eHQYMe0"
       },
       "artists": [
         {
-          "name": "Silverberg",
-          "url": "https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY"
+          "name": "Quinten Coblentz",
+          "url": "https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 223783,
-      "name": "Help You Heal",
-      "url": "https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh"
+      "duration_ms": 180000,
+      "name": "From the Roof (feat. YB)",
+      "url": "https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j"
     }
   ],
   "unique_name": "Spirit",

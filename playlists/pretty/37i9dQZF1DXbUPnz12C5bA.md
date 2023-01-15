@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,021 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,029 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 12 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 |
 | 13 | [El Cantor de Fonseca](https://open.spotify.com/track/4BERVrzhWNGhsyO3B3xodi) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Miguel Lopez](https://open.spotify.com/artist/2VftvhcToui6V1ltwZg6Cg), [Armando Mendoza](https://open.spotify.com/artist/1ES4KDTcf1rrjLzT2xpKV3) | [100 Años de Vallenato \(Vol.2\)](https://open.spotify.com/album/1IwtGEx8assNKobIXEK44m) | 3:52 |
 | 14 | [La Casa en el Aire](https://open.spotify.com/track/0INNn8BIIJ6cIV7nTXlo4P) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 5:31 |
-| 15 | [Donde Estaras](https://open.spotify.com/track/08axk9PfRPZYqeDlTMtXYf) | [los embajadores del vallenato](https://open.spotify.com/artist/5XQjBGmVqyHUxqSTlXAJGf) | [Los Embajadores Del Vallenato](https://open.spotify.com/album/4BTAnTFfZs5wkUgsZHoAqi) | 4:23 |
+| 15 | [Donde Estas](https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:25 |
 | 16 | [Matilde Lina](https://open.spotify.com/track/1nOSznKu9OH5FPd4zOW70f) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Leandro Diaz](https://open.spotify.com/artist/3pixeYtMhncGd6nrjdtsPD) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 3:28 |
 | 17 | [La Diosa Coronada](https://open.spotify.com/track/7x2YLR9ARjE2LqEcxXCKnF) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Leandro Diaz](https://open.spotify.com/artist/3pixeYtMhncGd6nrjdtsPD) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 5:05 |
 | 18 | [Mi Primer Amor](https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Colombia Y Su Folclor Vol I](https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa) | 4:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 59 | [Mi Gran Amigo \- Remastered](https://open.spotify.com/track/0hFlzhfsQzdvdzosxYTdL6) | [Beto Rada](https://open.spotify.com/artist/5urvrwvm3mQzKGUwQUAoTl), [Cheche Rada](https://open.spotify.com/artist/7lCB4GprtgzXhkfpWY5deb) | [100 Años de Vallenato \(Selección de Temas del Libro de Pilar Tafur y Daniel Samper Pizano\) \[Remastered\]](https://open.spotify.com/album/2x0Micea493w7j6gzeqhIc) | 3:38 |
 | 60 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 |
 
-Snapshot ID: `MTY0MzA1NDAxNiwwMDAwMDAwMGUzOTNlZmY3MjUxYTg0ZjcyMTlmYWUwNTE2ODZhMTZm`
+Snapshot ID: `MTY0MzA1NDAxNiwwMDAwMDAwMGJkZGY5MjAzYTIzZjNiOWU2MWU0MGEzNTEwNzlmNDhm`

@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-147 songs - 9 hr 27 min
+148 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Fall Down \- Acoustic](https://open.spotify.com/track/5bIwmWHtIAtYmSRxx7xhq7) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Viva Violent](https://open.spotify.com/album/0spocFvTAgbfj08Ubdmyfp) | 3:58 | 2020-11-10\* | 2021-05-25 |
 | [All I Want \- Acoustic](https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [All I Want \(Acoustic\)](https://open.spotify.com/album/2ZZhHEsfI4EZ1nSm7LA5Fm) | 3:19 | 2020-11-10\* | 2022-07-29 |
 | [All I Want \- Acoustic](https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [All I Want \(Acoustic\)](https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4) | 3:19 | 2022-06-27 |  |
-| [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 | 2020-11-10\* |  |
+| [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 | 2020-11-10\* | 2023-01-15 |
 | [Angels & Demons \- Acoustic](https://open.spotify.com/track/4I03suXK2BpP8edU5UXqhr) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Angels & Demons \(Acoustic\)](https://open.spotify.com/album/379Hp40P859aKuruCg2Bwy) | 2:53 | 2021-04-19 | 2021-05-27 |
 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 | 2022-06-27 | 2022-09-22 |
 | [Anthem](https://open.spotify.com/track/54dtOFYgkjNcYBdywUl4BQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem](https://open.spotify.com/album/49wWKooiiwz4Kh5PNlE5oo) | 4:41 | 2021-01-15 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [On My Mind \(Live Acoustic\)](https://open.spotify.com/track/1KnLSqxHth8FNcgrqJ81Tn) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [On My Mind \(Live Acoustic\)](https://open.spotify.com/album/1UMirDC66Fu590WY3eSZiV) | 3:16 | 2020-11-10\* | 2020-11-13 |
 | [Once In A Lifetime \- Acoustic](https://open.spotify.com/track/4NFrmJIi8b0wDV3CpZnqa9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime \(Acoustic\)](https://open.spotify.com/album/0L4CbqMfdtHZ2ohVVsaita) | 3:13 | 2021-10-12 | 2021-10-16 |
 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 | 2021-01-15 |  |
+| [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-11 |  |
 | [Radioactive \- Live](https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [This Is Acoustic](https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv) | 4:32 | 2021-01-15 | 2022-07-29 |
 | [Radioactive \- Live London Sessions / 2013](https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 4:30 | 2022-09-22 |  |
 | [Run Away from It All \- Acoustic](https://open.spotify.com/track/3bAzV8yxS2AcfSYk8NTzKJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Southern Ground Sessions](https://open.spotify.com/album/0Nubt1CyorptJLXrGibnnZ) | 4:27 | 2021-01-15 | 2022-07-29 |

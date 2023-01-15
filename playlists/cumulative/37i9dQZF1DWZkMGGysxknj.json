@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
@@ -4198,6 +4198,24 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "album": {

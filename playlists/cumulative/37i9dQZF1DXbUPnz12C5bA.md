@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-61 songs - 4 hr 22 min
+62 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Ceniza Fria](https://open.spotify.com/track/1Nvg0fsSlVzDWX5RxsWakm) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:09 | 2022-01-24 |  |
 | [Compae Chipuco](https://open.spotify.com/track/6PApVDr0qBnIlN2tP12qRY) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8), [Daniel Celedón](https://open.spotify.com/artist/1ikKJpdFazshgkei0dMuTY) | [100 Años de Vallenato \(Vol.3\)](https://open.spotify.com/album/0B8gsuwmyqtT5usO6aYrZa) | 4:15 | 2022-01-24 |  |
 | [Cuando El Tigre Está en la Cueva \-La Gallinita\-](https://open.spotify.com/track/5H8flokfxhBmwOlIyUPeHT) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj), [Ivo Díaz](https://open.spotify.com/artist/3IB8nphiHdMaKHT27tq8rE) | [100 Años de Vallenato \(Vol.3\)](https://open.spotify.com/album/0B8gsuwmyqtT5usO6aYrZa) | 3:32 | 2022-01-24 |  |
-| [Donde Estaras](https://open.spotify.com/track/08axk9PfRPZYqeDlTMtXYf) | [los embajadores del vallenato](https://open.spotify.com/artist/5XQjBGmVqyHUxqSTlXAJGf) | [Los Embajadores Del Vallenato](https://open.spotify.com/album/4BTAnTFfZs5wkUgsZHoAqi) | 4:23 | 2022-01-24 |  |
+| [Donde Estaras](https://open.spotify.com/track/08axk9PfRPZYqeDlTMtXYf) | [los embajadores del vallenato](https://open.spotify.com/artist/5XQjBGmVqyHUxqSTlXAJGf) | [Los Embajadores Del Vallenato](https://open.spotify.com/album/4BTAnTFfZs5wkUgsZHoAqi) | 4:23 | 2022-01-24 | 2023-01-15 |
+| [Donde Estas](https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:25 | 2022-01-24 |  |
 | [El Amor Amor](https://open.spotify.com/track/62sutkPOmjOTFukadHJJ0W) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 6:04 | 2022-01-24 |  |
 | [El Cantor de Fonseca](https://open.spotify.com/track/4BERVrzhWNGhsyO3B3xodi) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Miguel Lopez](https://open.spotify.com/artist/2VftvhcToui6V1ltwZg6Cg), [Armando Mendoza](https://open.spotify.com/artist/1ES4KDTcf1rrjLzT2xpKV3) | [100 Años de Vallenato \(Vol.2\)](https://open.spotify.com/album/1IwtGEx8assNKobIXEK44m) | 3:52 | 2022-01-24 |  |
 | [El Higuerón](https://open.spotify.com/track/0Ibgbi16YIbNx1msIfVoGM) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8), [Daniel Celedón](https://open.spotify.com/artist/1ikKJpdFazshgkei0dMuTY) | [100 Años de Vallenato \(Vol.6\)](https://open.spotify.com/album/7iUxkFqdQMnGHgjcueG11h) | 3:39 | 2022-01-24 |  |

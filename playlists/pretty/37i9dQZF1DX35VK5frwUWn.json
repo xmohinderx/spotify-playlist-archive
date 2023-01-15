@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 761,
+  "num_followers": 764,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMDUxZGYxYzcxMWM1OTQ5ZDdmYmFlZThjOWE4Yzg1ZDcz",
+  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMDg3YzhkNTk0MTAyN2U2Mzg2OTc5NDY1M2JhYzgzZThh",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Barter 6",
         "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 278191,
       "name": "Having Our Way (feat. Drake)",
       "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Buy or Bye 2",
-        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
     },
     {
       "added_at": "2022-11-01 04:00:00",

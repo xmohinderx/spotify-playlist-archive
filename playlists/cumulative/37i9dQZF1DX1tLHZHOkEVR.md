@@ -4,7 +4,7 @@
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-145 songs - 9 hr 28 min
+146 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2022-08-05 | 2022-11-14 |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2022-08-05 |  |
 | [Bring It All Back](https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:34 | 2022-08-05 | 2022-11-14 |
+| [Build Me Up Buttercup](https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [From the Foundations \(Expanded Edition\)](https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc) | 2:57 | 2022-08-05 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-08-05 | 2022-11-14 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2022-08-05 |  |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2022-08-05 |  |
@@ -62,7 +63,7 @@
 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 | 2022-08-05 | 2022-11-12 |
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2022-08-05 |  |
 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 | 2022-08-05 | 2022-11-13 |
-| [Hot Stuff \- 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 6:47 | 2022-08-05 |  |
+| [Hot Stuff \- 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 6:47 | 2022-08-05 | 2023-01-15 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:37 | 2022-08-05 |  |
 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 | 2022-08-05 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 62875,
+  "num_followers": 62898,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDBhMzNiZTU4MGRiYmIxNGY1MGQyYjFiNDA0MWVmYzI1",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGQ0OGFjNTBmNDQ1OTc4ODEyNGM4M2M0YmQ4MWYwNjQy",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Real Life Sux",
+        "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Real Life Sux",
+      "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Real Life Sux",
-        "url": "https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Real Life Sux",
-      "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150522,
-      "name": "Drunk Dial",
-      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "i'm gonna tell my therapist on you",
         "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 150522,
+      "name": "Drunk Dial",
+      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
     },
     {
       "added_at": "2022-08-16 22:06:35",

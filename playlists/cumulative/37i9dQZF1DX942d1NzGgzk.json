@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "OPTION",
+        "url": "https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180149,
+      "name": "OPTION",
+      "url": "https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD"
+    },
+    {
+      "album": {
         "name": "Access Denied",
         "url": "https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv"
       },
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 158681,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy"

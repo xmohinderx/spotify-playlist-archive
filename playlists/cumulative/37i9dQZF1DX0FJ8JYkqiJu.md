@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-76 songs - 4 hr 57 min
+77 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-12-01 |  |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2022-12-01 |  |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2022-12-01 |  |
+| [Hey Papi \- Edit](https://open.spotify.com/track/3eTfuKPA6T23XEgHC20IsA) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/0rVHwUMBfiXNgnwO8FHPJY) | 2:38 | 2022-12-15 |  |
 | [High Tide](https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [High Tide](https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO) | 3:17 | 2022-12-01 |  |
 | [Hollow](https://open.spotify.com/track/1nqu8ryQ6ma9vYFz64u68T) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/4ODUoD2ZM3FxLbkfpz00NH) | [Hollow](https://open.spotify.com/album/4cTi8pyizriynPUYa0qRkD) | 4:14 | 2022-12-01 |  |
 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 | 2022-12-01 |  |
@@ -76,7 +77,7 @@
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-12-01 | 2023-01-05 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-12-01 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-12-01 | 2022-12-13 |
-| [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 | 2022-12-15 |  |
+| [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 | 2022-12-15 | 2023-01-15 |
 | [Wake Up Call](https://open.spotify.com/track/2k85lEep46LiLCK95PFOts) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Wake Up Call](https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV) | 3:44 | 2022-12-01 |  |
 | [Walking on a Dream](https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/5MBtjKrxEIhh2WROiZ6yru) | 3:24 | 2022-12-01 |  |
 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 | 2022-12-01 |  |

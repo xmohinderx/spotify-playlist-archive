@@ -4,7 +4,7 @@
 
 > Lagu\-lagu adem untuk segala suasana.
 
-88 songs - 5 hr 52 min
+89 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 | 2022-12-14 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-01-11 |  |
 | [Cukup Tau](https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT) | 3:27 | 2022-12-14 |  |
-| [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-14 |  |
+| [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-14 | 2023-01-15 |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2022-12-14 |  |
 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 | 2022-12-14 |  |
 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 | 2022-12-14 |  |
@@ -95,6 +95,7 @@
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2022-12-14 |  |
 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 | 2022-12-14 |  |
 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 | 2022-12-14 |  |
+| [You \- 2007 Remaster](https://open.spotify.com/track/4p7IAleWshNIxPZgXjuAxZ) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [3](https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68) | 3:13 | 2023-01-11 |  |
 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 | 2022-12-14 |  |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

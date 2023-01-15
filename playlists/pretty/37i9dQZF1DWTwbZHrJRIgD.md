@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,610 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,629 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

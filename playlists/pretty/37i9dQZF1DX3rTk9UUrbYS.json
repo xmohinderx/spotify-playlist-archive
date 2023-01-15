@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 38981,
+  "num_followers": 38988,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGM2Yjg4YjZjMWU2NWQ4MDcxNjM4MzNmOGJkMTQ2M2Q1",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDM0MGIwZTM0ZDlkNTU5YTQ1MWM5ODFjNmM2M2VkMGNi",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 901840,
+      "name": "Impressions - Live At The Village Vanguard, New York/1961",
+      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Kasumi",
         "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 901840,
-      "name": "Impressions - Live At The Village Vanguard, New York/1961",
-      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+      },
+      "artists": [
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "BASFE",
@@ -465,20 +481,20 @@
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+        "name": "Water & Tools",
+        "url": "https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K"
       },
       "artists": [
         {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+          "name": "Jairus Sharif",
+          "url": "https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x"
         }
       ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+      "duration_ms": 292440,
+      "name": "Ra Comm 43",
+      "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -499,22 +515,6 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Water & Tools",
-        "url": "https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K"
-      },
-      "artists": [
-        {
-          "name": "Jairus Sharif",
-          "url": "https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x"
-        }
-      ],
-      "duration_ms": 292440,
-      "name": "Ra Comm 43",
-      "url": "https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -651,50 +651,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Captain Black",
-        "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        },
-        {
-          "name": "Ralph Bowen",
-          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
-        },
-        {
-          "name": "Tim Warfield",
-          "url": "https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v"
-        },
-        {
-          "name": "Antonio Hart",
-          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
-        },
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Rodney Whitaker",
-          "url": "https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv"
-        },
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
-        }
-      ],
-      "duration_ms": 468600,
-      "name": "Explain It To Me",
-      "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "The Piano Equation",
         "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
       },
@@ -745,6 +701,66 @@
       "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Captain Black",
+        "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        },
+        {
+          "name": "Ralph Bowen",
+          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
+        },
+        {
+          "name": "Tim Warfield",
+          "url": "https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        },
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Rodney Whitaker",
+          "url": "https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv"
+        },
+        {
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        }
+      ],
+      "duration_ms": 468600,
+      "name": "Explain It To Me",
+      "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Piece 4",
+        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quintet",
+          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Piece 4",
+      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Arise",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Piece 4",
-        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quintet",
-          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Piece 4",
-      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Translinear Light",
@@ -807,6 +807,26 @@
       "duration_ms": 382693,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Random Dances and (A)tonalities",
+        "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
+      },
+      "artists": [
+        {
+          "name": "Don Byron",
+          "url": "https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD"
+        },
+        {
+          "name": "Aruan Ortiz",
+          "url": "https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o"
+        }
+      ],
+      "duration_ms": 344640,
+      "name": "Joe Btfsplk",
+      "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -831,6 +851,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Ljubljana",
+        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
+      },
+      "artists": [
+        {
+          "name": "Mats Gustafson",
+          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
+        },
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        }
+      ],
+      "duration_ms": 1224332,
+      "name": "The Eyes Moving. Slowly.",
+      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Argonautica",
         "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
       },
@@ -843,26 +883,6 @@
       "duration_ms": 2573175,
       "name": "Argonautica",
       "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Random Dances and (A)tonalities",
-        "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
-      },
-      "artists": [
-        {
-          "name": "Don Byron",
-          "url": "https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD"
-        },
-        {
-          "name": "Aruan Ortiz",
-          "url": "https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Joe Btfsplk",
-      "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -935,50 +955,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Ljubljana",
-        "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
+        "name": "Albert Mangelsdorff and His Friends",
+        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
       },
       "artists": [
         {
-          "name": "Mats Gustafson",
-          "url": "https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u"
-        },
-        {
-          "name": "Craig Taborn",
-          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+          "name": "Albert Mangelsdorff",
+          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
         }
       ],
-      "duration_ms": 1224332,
-      "name": "The Eyes Moving. Slowly.",
-      "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Ars Transmutatoria Bleu",
-        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
-      },
-      "artists": [
-        {
-          "name": "Michel Lambert",
-          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
-        },
-        {
-          "name": "Adrian Northover",
-          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
-        },
-        {
-          "name": "Susanna Ferrar",
-          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
-        },
-        {
-          "name": "Hyelim Kim",
-          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
-        }
-      ],
-      "duration_ms": 335256,
-      "name": "Haie d'eau II",
-      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
+      "duration_ms": 347092,
+      "name": "Way Beyond Cave",
+      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     }
   ],
   "unique_name": "Avant-Jazz",

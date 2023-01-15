@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 120801,
+  "num_followers": 120848,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQxNzMxMCwwMDAwMDAwMDYzM2YwYTJhMjAyMzRmOTY0NWM1NGZmYWU1N2M3ZTFi",
+  "snapshot_id": "MTY2ODQxNzMxMCwwMDAwMDAwMGYyMTdlYzFmZTNkNjFmODgwOGQ1YjRkMWIyNzYxNGVl",
   "tracks": [
     {
       "added_at": "2022-10-12 00:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
-        "name": "Waves (Robin Schulz Radio Edit)",
-        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Waves - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
+        "name": "Waves (Robin Schulz Radio Edit)",
+        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -459,30 +479,6 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
-        "name": "Hear Me Now (feat. Zeeba)",
-        "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Hear Me Now",
-      "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -523,42 +519,26 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+        "name": "Hear Me Now (feat. Zeeba)",
+        "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         },
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+      "duration_ms": 194840,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -603,6 +583,26 @@
       "duration_ms": 251088,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
       "url": "https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
         "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 186146,
       "name": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
       "url": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
         "name": "Sorry For Party Rocking",
         "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 262173,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Sing Me to Sleep",
-      "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Sing Me to Sleep",
+      "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
       "added_at": "2022-10-12 00:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-10-12 00:00:00",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Peanut Butter Jelly",
-      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
-    },
-    {
-      "added_at": "2022-10-12 00:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 196489,
       "name": "17",
       "url": "https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR"
+    },
+    {
+      "added_at": "2022-10-12 00:00:00",
+      "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Peanut Butter Jelly",
+      "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"
     },
     {
       "added_at": "2022-10-12 00:00:00",

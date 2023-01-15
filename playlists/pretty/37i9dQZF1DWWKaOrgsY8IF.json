@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 123857,
+  "num_followers": 123877,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDExZjMzOTkzNmZkOTIxYzcyZjczZjcwZmZkODQyNjQ0",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDI1YWFiZWU1MWQyY2E2NzI1N2UyZWQ4NTA4MWFmYzY5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "4 besos",
         "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 232526,
       "name": "4 besos",
       "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
       "added_at": "2020-12-01 05:03:00",

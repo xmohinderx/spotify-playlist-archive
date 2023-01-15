@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,785 likes - 59 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,791 likes - 59 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 22 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
 | 23 | [Kas El Arak](https://open.spotify.com/track/6HJruYrCGRQ6NVLZtFnXAq) | [Samer Gabro](https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH) | [Albom Jezrawy Daym Fi baly](https://open.spotify.com/album/749B7VOpLUxHSzHHOCfET0) | 4:02 |
 | 24 | [Ardon Wahed](https://open.spotify.com/track/2rD1eIqfbnsCk9GJxiXQBK) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay) | 3:30 |
-| 25 | [Asheek \(ع الشيك\)](https://open.spotify.com/track/2BBiS0tSDesfiuhv1PEodP) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 4:53 |
-| 26 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 25 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 26 | [Asheek \(ع الشيك\)](https://open.spotify.com/track/2BBiS0tSDesfiuhv1PEodP) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 4:53 |
 | 27 | [Rahat \(feat\. Mahmood Jrere\)](https://open.spotify.com/track/1qrRl5pJWiL93EukHOMB0h) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [Rahat \(feat\. Mahmood Jrere\)](https://open.spotify.com/album/09J4Y6mUcrEjkhzIAEwg1x) | 4:09 |
 | 28 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
 | 29 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 39 | [Nasi](https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM) | 3:44 |
 | 40 | [Khalliha Ala Allah](https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Khalliha Ala Allah](https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0) | 4:12 |
 | 41 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
-| 42 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |
-| 43 | [OCB](https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM) | [AceQuared](https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r) | [Black Iris](https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1) | 2:54 |
+| 42 | [OCB](https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM) | [AceQuared](https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r) | [Black Iris](https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1) | 2:54 |
+| 43 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |
 | 44 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 |
 | 45 | [Mabsoot Bhali](https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj) | 3:19 |
 | 46 | [Ya Saad](https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Ya Saad](https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q) | 4:04 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 58 | [Hala O Ghala](https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Hala O Ghala](https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n) | 3:31 |
 | 59 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
 
-Snapshot ID: `MTY3MDIzNzE3MiwwMDAwMDAwMGE0MTAxZmI3Nzc4M2JkZDAxMWY5ODNjYmI3Y2UyYmM1`
+Snapshot ID: `MTY3MDIzNzE3MiwwMDAwMDAwMDU3ODg4N2Y0MTkzNzk1NWUwZjA4MWU0MzcwM2NlNGUy`

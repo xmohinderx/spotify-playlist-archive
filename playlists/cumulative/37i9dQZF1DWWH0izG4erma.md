@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: HARDY
 
-208 songs - 12 hr 9 min
+209 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Sleeve](https://open.spotify.com/track/40OAMuxuJPssTKQ4gdU1JA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Sleeve](https://open.spotify.com/album/23E0DdtttVfeD7n4W77FF9) | 4:21 | 2022-07-22 |  |
 | [Sleeve](https://open.spotify.com/track/4320xN7twzyH6QAGM3bvYZ) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Sleeve](https://open.spotify.com/album/3OYTWn6pvI4mowfEA3WGu9) | 4:21 | 2021-11-01 | 2022-07-29 |
 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 | 2022-03-18 |  |
-| [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 | 2021-11-01 |  |
+| [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 | 2021-11-01 | 2023-01-15 |
 | [Southbound](https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream Part II](https://open.spotify.com/album/7xpZ5rRDizgbzLEwl88p7m) | 3:57 | 2021-11-01 | 2022-07-23 |
 | [Still a Few Cowboys Left](https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Still a Few Cowboys Left](https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD) | 3:14 | 2022-10-14 |  |
 | [Still Somethin' \- Bonus](https://open.spotify.com/track/04zWejuIz7CTNxHVeEYe6E) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 3:08 | 2022-05-06 | 2022-07-28 |
@@ -197,6 +197,7 @@
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-07-25 |
+| [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 | 2023-01-13 |  |
 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 |  |
 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 | 2021-11-01 | 2022-09-03 |
 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 | 2021-11-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 643836,
+  "num_followers": 643946,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDQ4ZTQ5Y2VmM2E0MmRlZmRlZDFkZTk2YjkyZDhkNzM5",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDU2NTczMDQyMDM4NTg2YzBmZWI4NTA0ZThiODY5MTY4",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -183,6 +167,22 @@
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
       "added_at": "2022-01-04 20:30:57",
       "album": {
         "name": "Girls, Girls, Girls (Deluxe Version)",
@@ -503,22 +519,6 @@
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -571,18 +571,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Climbing!",
-        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
       "artists": [
         {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Rock and Roll - Remaster",
-      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
-    },
-    {
       "added_at": "2022-04-08 19:02:42",
       "album": {
         "name": "Ram Jam",
@@ -631,6 +615,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
       "added_at": "2022-06-29 15:30:44",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
       "added_at": "2022-06-29 15:30:44",
       "album": {
         "name": "4 (Expanded)",
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Slow Ride / Save Your Loving (For Me)",
-        "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
       "artists": [
         {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Slow Ride / Save Your Loving (For Me)",
+        "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
+    },
+    {
       "added_at": "2022-06-01 14:25:59",
       "album": {
         "name": "School's Out",
@@ -839,38 +839,6 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2022-06-29 15:30:44",
-      "album": {
-        "name": "Physical Graffiti (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 517125,
-      "name": "Kashmir - Remaster",
-      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -891,18 +859,50 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2022-06-29 15:30:44",
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 517125,
+      "name": "Kashmir - Remaster",
+      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -923,18 +923,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Pieces Of Eight",
-        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 257226,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - 2009 Remaster",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 227800,
       "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Brown Sugar - 2009 Remaster",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2021-12-14 20:27:19",

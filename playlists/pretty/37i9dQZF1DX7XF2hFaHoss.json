@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 141715,
+  "num_followers": 141731,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDZhMGJjZjVjMDFhZDg0MzljNDAxOWFkNDNmYzE3NTU3",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDA2ODUzNDU4NWFhY2JlNDFkOTkxNGM2OTJkNThhNzVl",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 198403,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Now & Then",
         "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 197526,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "In the Waiting",
+        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "After a Time",
-        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
-      },
-      "artists": [
-        {
-          "name": "Holly Throsby",
-          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191949,
       "name": "Over Those Hills",
       "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "After a Time",
+        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
+      },
+      "artists": [
+        {
+          "name": "Holly Throsby",
+          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -965,7 +965,39 @@
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
-      "added_at": "2023-01-14 19:07:42",
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Turn Out the Lights",
+      "url": "https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl"
+    },
+    {
+      "added_at": "2023-01-15 01:14:33",
       "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
@@ -987,22 +1019,6 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Turn Out the Lights",
-      "url": "https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1051,22 +1067,6 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "Crater Lake",
+      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 236583,
       "name": "Phoebe Told Me",
       "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "Crater Lake",
-      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG"
-      },
-      "artists": [
-        {
-          "name": "Rachel Baiman",
-          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "I Could've Been Your Lover Too",
-      "url": "https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "Hard Things",
@@ -1491,6 +1475,22 @@
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "I Could've Been Your Lover Too",
+      "url": "https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA"
     },
     {
       "added_at": "2021-03-02 01:07:20",

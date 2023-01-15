@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual con Dani Torres, Dejota2021, Zxmyr, Leon Leiden en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,416 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,446 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

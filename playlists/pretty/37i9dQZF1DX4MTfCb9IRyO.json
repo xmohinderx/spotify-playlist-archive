@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14709,
+  "num_followers": 14713,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMGFmYzIwNjQ1MTQyNzBiMTUyOWE1MzE5ZmY0YTExY2Ji",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMGM3ZjUzZTdjYzFmYTZmMTFjM2E4NzcyYmZmNjEzNGZj",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 152350,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 152350,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Blues Ballads",
-        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Nothing But The Truth",
-        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 367533,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -427,6 +411,38 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
         "name": "Two Bugs and a Roach",
         "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 157400,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -487,22 +503,6 @@
       "duration_ms": 172059,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 206800,
       "name": "Someday (Electric)",
       "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2020-05-03 08:57:28",

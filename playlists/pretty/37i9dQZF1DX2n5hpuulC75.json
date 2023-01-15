@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 246321,
+  "num_followers": 246344,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGE3NWRiYzA1OThmOWU1MzE1MjJkNTZlYTcwNWI0Y2Vl",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGUxMWY3ODYzYTQ0NGEwYzE4OTI2N2Q0ZmE1YmViN2Ri",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -383,6 +383,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -533,20 +533,20 @@
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Someone\u2019s EP I",
-        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
         }
       ],
-      "duration_ms": 87037,
-      "name": "INT.",
-      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+        "name": "Someone\u2019s EP I",
+        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
       },
       "artists": [
         {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+      "duration_ms": 87037,
+      "name": "INT.",
+      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "VIII",
@@ -735,22 +719,6 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -783,6 +751,38 @@
       "duration_ms": 205680,
       "name": "Antasma",
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
+    },
+    {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -891,6 +891,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+        "name": "Passionfruit Falls",
+        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Brother Mynor",
+          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+      "duration_ms": 101469,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -939,22 +955,6 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Passionfruit Falls",
-        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
-      },
-      "artists": [
-        {
-          "name": "Brother Mynor",
-          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
-        }
-      ],
-      "duration_ms": 101469,
-      "name": "The Falls",
-      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     },
     {
       "added_at": "2018-12-11 21:12:31",

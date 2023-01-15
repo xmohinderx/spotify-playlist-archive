@@ -4,7 +4,7 @@
 
 > Release your inner jock with these badass jams.
 
-166 songs - 10 hr 50 min
+167 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Can't Tell Me Nothing](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:31 | 2022-01-05 | 2022-12-04 |
 | [Can't Tell Me Nothing](https://open.spotify.com/track/2MIBAmYwiuGoKUlpq9B9sZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 4:31 | 2021-12-21 | 2022-07-29 |
 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 | 2022-01-05 | 2022-09-09 |
-| [Click Click Boom](https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 4:12 | 2022-12-03 |  |
+| [Click Click Boom](https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 4:12 | 2022-12-03 | 2023-01-15 |
 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 | 2016-06-15 | 2022-07-29 |
 | [Club Foot](https://open.spotify.com/track/0hFHiOGhU4JWlQSWoiuR49) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Club Foot](https://open.spotify.com/album/1VTukVFuKxtWeekAxfqaBM) | 3:34 | 2016-06-15 | 2022-04-20 |
 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 | 2021-12-21 |  |
@@ -74,6 +74,7 @@
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2021-12-21 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2021-12-21 | 2022-11-13 |
 | [Hustlin'](https://open.spotify.com/track/3UaqMekEh1kbVu2A6DwiQs) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/4JAgpYxIJbUCh8khNo4yGr) | 4:14 | 2021-12-21 | 2022-07-29 |
+| [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 | 2022-12-03 |  |
 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 | 2021-12-21 |  |
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2021-12-21 |  |
 | [I See You Baby \- Fatboy Slim Radio Edit](https://open.spotify.com/track/2Aq0emyh00qcd7eoU6Qo6g) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Gram'ma Funk](https://open.spotify.com/artist/3jE9LY400g6ZV1otfI3Zgq) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:30 | 2016-06-15 | 2022-04-20 |

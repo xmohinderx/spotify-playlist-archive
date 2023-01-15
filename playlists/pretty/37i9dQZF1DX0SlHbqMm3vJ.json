@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Omah Lay",
-  "num_followers": 178305,
+  "num_followers": 178344,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDIzZGIzYWIzMGZhNGFhNzdkMTRkY2Q1OTc5OTQwMDNl",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDIwODY1ZjEzMWVmNzEzMWMyOTBhZThhYmJmMjMxMGMx",
   "tracks": [
     {
       "added_at": "2023-01-12 10:12:51",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Odinaka",
+      "url": "https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh"
+    },
+    {
       "added_at": "2022-12-18 09:54:29",
       "album": {
         "name": "Bad Since '97",
@@ -651,22 +667,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Odinaka",
-      "url": "https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Riddim 5",
+        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
       },
@@ -871,26 +887,6 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
@@ -907,18 +903,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Riddim 5",
-        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Ayra Starr",
+        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 230130,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
+        "name": "The Brother's Keeper",
+        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 213580,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
+      "duration_ms": 168275,
+      "name": "Pour Me a Drink",
+      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 213580,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
-        "name": "The Brother's Keeper",
-        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Pour Me a Drink",
-      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
     },
     {
       "added_at": "2022-12-18 09:54:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-12-18 09:54:29",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
-    },
-    {
-      "added_at": "2022-12-18 09:54:29",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
       },
@@ -1443,6 +1427,26 @@
       "duration_ms": 137480,
       "name": "Home",
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
+    },
+    {
+      "added_at": "2022-12-18 09:54:29",
+      "album": {
+        "name": "Love Station",
+        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 153569,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"
     }
   ],
   "unique_name": "Ginger Me",

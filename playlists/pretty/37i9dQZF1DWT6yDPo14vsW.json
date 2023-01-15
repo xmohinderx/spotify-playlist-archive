@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 280205,
+  "num_followers": 280254,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMGY1MzNhNTY0YjA4MWQyZTMyNDk3Y2IwNjZlOTQwMDll",
+  "snapshot_id": "MTY2MjQwNzIwNiwwMDAwMDAwMDYwZTFmOWRlYmFmYzRmMTViZTZiZDcxNWUyYjVjNzMx",
   "tracks": [
     {
       "added_at": "2022-07-04 15:12:52",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "La Historia Contin\u00faa...Parte IV",
         "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 286973,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -395,22 +395,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+      "duration_ms": 182520,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -479,6 +475,26 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
         "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
@@ -511,26 +527,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -547,18 +543,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 182520,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+      "duration_ms": 191426,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 364959,
-      "name": "La Complicidad",
-      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 364959,
+      "name": "La Complicidad",
+      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidare\u0301",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidare\u0301",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
+      "duration_ms": 230720,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1023,6 +1023,22 @@
       "duration_ms": 300093,
       "name": "Aprendiz - Unplugged",
       "url": "https://open.spotify.com/track/7efXKi4jjGrXMvO6N7U2N4"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1075,22 +1091,6 @@
       "duration_ms": 187481,
       "name": "Rimas Pa' Seducir",
       "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
         }
       ],
-      "duration_ms": 271226,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
+      "duration_ms": 234964,
+      "name": "Mi H\u00e9roe",
+      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
       },
       "artists": [
         {
-          "name": "Antonio Orozco",
-          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 234964,
-      "name": "Mi H\u00e9roe",
-      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
+      "duration_ms": 271226,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "Tanto (Nueva edici\u00f3n)",
         "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 247186,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "CoverKM Recopilatorio",
-        "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "Dime quien ama de verdad",
-      "url": "https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "T\u00fa Vas a Tener Que Explicarme (Remix)",
         "url": "https://open.spotify.com/album/3HItKdsXoqNXaNcKeJPVBW"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 179892,
       "name": "T\u00fa Vas a Tener Que Explicarme - Remix",
       "url": "https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "CoverKM Recopilatorio",
+        "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "duration_ms": 226848,
+      "name": "Dime quien ama de verdad",
+      "url": "https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B"
     },
     {
       "added_at": "2022-07-04 15:12:52",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-07-04 15:12:52",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/7k5Wb6g7tsGezxQc2dwCK1"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/4KgcAo8wQrXexfwpIsgzLf"
-    },
-    {
-      "added_at": "2022-07-04 15:12:52",
-      "album": {
         "name": "CoverKM Recopilatorio",
         "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 240875,
       "name": "Co\u0301seme",
       "url": "https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u"
+    },
+    {
+      "added_at": "2022-07-04 15:12:52",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/7k5Wb6g7tsGezxQc2dwCK1"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 265226,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/4KgcAo8wQrXexfwpIsgzLf"
     }
   ],
   "unique_name": "Amor y Desamor",

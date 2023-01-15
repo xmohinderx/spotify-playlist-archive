@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 158481,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 226353,
       "name": "Fading Lights",
       "url": "https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP"
@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272091,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg"
+    },
+    {
+      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd"
       },
@@ -4898,7 +4916,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 234060,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF"

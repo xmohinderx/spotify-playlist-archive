@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,417 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 15 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 |
 | 16 | [Tuyo](https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4) | [Jack Villa](https://open.spotify.com/artist/0l7O0oybr784STfyacus4o), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Tuyo](https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W) | 3:10 |
 | 17 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
-| 18 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
-| 19 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
+| 18 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
+| 19 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
 | 20 | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4) | 3:29 |
 | 21 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
 | 22 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 30 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
 | 31 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
 | 32 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
-| 33 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 |
-| 34 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
-| 35 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 |
+| 33 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 |
+| 34 | [Dame](https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [Marocco](https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt) | [Dame](https://open.spotify.com/album/1NcxQQUO6a3rhVLTtNBFr7) | 3:34 |
+| 35 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
 | 36 | [Di Nobo](https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB) | 3:15 |
 | 37 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 |
 | 38 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 |
 | 50 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDU1YzU0YjkzNjBjZjM4NDU5NDMyYTY2MWM0NzZhZjAy`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDZkYTVkMDEyNDVhMGI0NmM4YzMwOWRkMDJhZDkwZjI1`

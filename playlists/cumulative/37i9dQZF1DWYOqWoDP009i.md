@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-109 songs - 8 hr 33 min
+110 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-12-01 |  |
 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 | 2020-12-01 |  |
 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 | 2020-12-01 |  |
-| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-12-01 |  |
+| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-12-01 | 2023-01-15 |
+| [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2020-12-01 |  |
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2020-12-01 |  |
 | [Under My Skin](https://open.spotify.com/track/3AzLj111UDWrZjt5NEe8sl) | [The Brothers](https://open.spotify.com/artist/1ZrLOktYbNd29LjbTYOU0U) | [Don't Stop Now](https://open.spotify.com/album/1DMEKx0RDeibJ77mQ4HmKi) | 6:11 | 2020-12-01 |  |
 | [Under the Influence of a Groove](https://open.spotify.com/track/2pedYJdZaM9gyyHEPr1UIH) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [This Boot Is Made For Fonk\-N](https://open.spotify.com/album/5rNtC4AU5oXXY8N2CneWCW) | 8:39 | 2020-12-01 |  |

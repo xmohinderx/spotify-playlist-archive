@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 807625,
+  "num_followers": 807768,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMjQwOCwwMDAwMDAwMDEzYzIwMmU1ZGMxNjFmZDg1MTMzNjQ5N2UxOGExYTEz",
+  "snapshot_id": "MTY3MTIxMjQwOCwwMDAwMDAwMDk0ZWFlODljOWIyNTVhNTA5M2VhZGFlMzVhYzMwZGUy",
   "tracks": [
     {
-      "added_at": "2023-01-14 18:31:32",
+      "added_at": "2023-01-15 00:41:17",
       "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
@@ -27,38 +27,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2022-11-07 18:01:13",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2022-12-08 23:34:57",
-      "album": {
-        "name": "Antolog\u00eda Musical",
-        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Y Que Quede Claro",
-      "url": "https://open.spotify.com/track/1jQKaVoVmhh7pqxrRh5Mev"
     },
     {
       "added_at": "2022-12-08 23:34:57",
@@ -79,6 +47,38 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "added_at": "2022-12-08 23:34:57",
+      "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/1jQKaVoVmhh7pqxrRh5Mev"
+    },
+    {
+      "added_at": "2022-11-07 18:01:13",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -137,40 +137,36 @@
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
     },
     {
-      "added_at": "2022-06-20 21:18:10",
+      "added_at": "2022-11-07 18:01:13",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-12-08 23:34:57",
@@ -195,34 +191,38 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
     },
     {
-      "added_at": "2022-11-07 18:01:13",
+      "added_at": "2022-06-20 21:18:10",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2022-11-07 18:01:13",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -349,6 +333,22 @@
       "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
       "added_at": "2022-12-08 23:34:57",
       "album": {
         "name": "Blanco y Negro Vol. 1",
@@ -367,50 +367,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -431,6 +399,38 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 179506,
       "name": "Amor Plat\u00f3nico",
       "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
-    },
-    {
-      "added_at": "2022-12-08 23:34:57",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2022-11-07 18:01:13",
@@ -475,6 +459,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2022-12-08 23:34:57",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
-      "added_at": "2023-01-14 18:31:32",
+      "added_at": "2023-01-15 00:41:17",
       "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
     },
     {
       "added_at": "2022-11-07 18:01:13",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Acurrucar",
-        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
       },
       "artists": [
         {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 178700,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "El Mundo a Tus Pies",
         "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+        "name": "Acurrucar",
+        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
+      "duration_ms": 178700,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -767,6 +751,22 @@
       "duration_ms": 186413,
       "name": "Dis\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z"
-    },
-    {
       "added_at": "2022-06-20 21:18:10",
       "album": {
         "name": "Coraz\u00f3n M\u00e1gico",
@@ -831,22 +815,6 @@
       "duration_ms": 193773,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -867,6 +835,38 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/6zTtNPcDqmpOOWmjQAVR6Z"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+      "duration_ms": 156680,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -943,6 +927,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Lo S\u00e9",
         "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
@@ -1251,6 +1235,26 @@
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "added_at": "2022-12-08 23:34:57",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

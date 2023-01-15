@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "Chiudi Gli Occhi",
+      "url": "https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO"
+    },
+    {
+      "album": {
         "name": "Lo Spirito Che Suona",
         "url": "https://open.spotify.com/album/58QnU693YWWv2rPylhehmj"
       },
@@ -992,6 +1010,28 @@
       "duration_ms": 323360,
       "name": "Curre curre guagli\u00f2",
       "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+    },
+    {
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
     },
     {
       "album": {
@@ -2062,7 +2102,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 320493,
       "name": "La Ballotta",
       "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
@@ -4314,7 +4354,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 208636,
       "name": "Sabbie Mobili (feat. Davide Shorty)",
       "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"

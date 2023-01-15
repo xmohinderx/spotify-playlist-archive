@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-297 songs - 22 hr 1 min
+298 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [I Guess I'll Hang My Tears out to Dry](https://open.spotify.com/track/6N2Pv1JuSH3G825FvsjR3B) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [I'm Just a Lucky So and So](https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch) | 5:47 | 2022-05-19 | 2022-11-11 |
 | [I Guess I'll Have To Change My Plans](https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [I Guess I'll Have To Change My Plans](https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx) | 3:51 | 2022-11-10 |  |
 | [I Love You, Porgy](https://open.spotify.com/track/5ZtELfV43r3kuRLPYYjJ4M) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Jesper Kviman](https://open.spotify.com/artist/10f7IHwc88tJueFB8iM6hR) | [Porgy & Bess](https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR) | 2:30 | 2021-12-03 | 2022-11-11 |
-| [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-11-10 |  |
+| [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-11-10 | 2023-01-15 |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-12-01 |  |
 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 | 2021-12-03 | 2022-11-11 |
 | [I Understand](https://open.spotify.com/track/02B878qmLiO19I44u0DtqN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1) | 2:41 | 2021-12-03 | 2022-09-07 |
@@ -185,6 +185,7 @@
 | [Moon Love](https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [The Trumpet Artistry Of Chet Baker](https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM) | 3:15 | 2022-04-08 | 2022-06-15 |
 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 | 2022-08-17 | 2022-11-09 |
 | [Moon river](https://open.spotify.com/track/7JbFAqOtdRPwcWU06oCgcm) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Per Møllehøj](https://open.spotify.com/artist/7rZ5rNAh21rNPtmVKrHjuf), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Inviting](https://open.spotify.com/album/5TJAtu3tUhXPsm71zc9wRL) | 6:49 | 2022-08-17 | 2022-11-11 |
+| [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-12 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 3:43 | 2022-04-13 | 2022-11-11 |
 | [More Than Ever](https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [More Than Ever](https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv) | 6:11 | 2022-10-20 | 2022-11-11 |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-10 |  |

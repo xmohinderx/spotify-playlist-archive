@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 309691,
+  "num_followers": 309749,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGE5NTg0MWE1ZjQxOTdjMzcxNzc3ZmJmODQyYmI4OWU5",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGRkNDc5YTMxYzU0NzlmNDBhYzczMDE3OGVmOGQzNjhm",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Acoustic",
-      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 178826,
       "name": "You Sigh",
       "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 172202,
+      "name": "Acoustic",
+      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -547,22 +531,34 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "All or Nothing / Fast Car",
-        "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
+        "name": "Earthtones",
+        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
       },
       "artists": [
         {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        },
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 272966,
-      "name": "Fast Car (feat. Tall Heights)",
-      "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
+      "duration_ms": 260959,
+      "name": "Way With Words",
+      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+        "name": "All or Nothing / Fast Car",
+        "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        },
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+      "duration_ms": 272966,
+      "name": "Fast Car (feat. Tall Heights)",
+      "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Sweetest Thing",
         "url": "https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Silence (Acoustic)",
-        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
       },
       "artists": [
         {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
         }
       ],
-      "duration_ms": 221847,
-      "name": "Silence - Acoustic",
-      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
+      "duration_ms": 178173,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2mBP9IsENazdoJ9ep5iR8i"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/2mBP9IsENazdoJ9ep5iR8i"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Silence (Acoustic)",
+        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 221847,
+      "name": "Silence - Acoustic",
+      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Doves & Ravens",
-        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191453,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Doves & Ravens",
+        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Julie Blue",
-        "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
-      },
-      "artists": [
-        {
-          "name": "Joe Purdy",
-          "url": "https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "I Love The Rain The Most",
-      "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+        "name": "Julie Blue",
+        "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Joe Purdy",
+          "url": "https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+      "duration_ms": 278693,
+      "name": "I Love The Rain The Most",
+      "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "TFDI",
-        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
       "artists": [
         {
-          "name": "TFDI",
-          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 306466,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
+      "duration_ms": 190066,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+        "name": "TFDI",
+        "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "TFDI",
+          "url": "https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+      "duration_ms": 306466,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
     },
     {
       "added_at": "2023-01-06 05:00:00",

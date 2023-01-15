@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,607 likes - 98 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,645 likes - 98 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

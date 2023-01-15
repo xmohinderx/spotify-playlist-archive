@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1804100,
+  "num_followers": 1804189,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA0MjQ1NywwMDAwMDAwMDc2MzY0ODZkMTI5ZjE4ZjAxMzViZTgxYTM3MzM1MWQ4",
+  "snapshot_id": "MTY3MzA0MjQ1NywwMDAwMDAwMGU5YjMzNjQ5NDBiY2E0MjIxNTg2MjNlOTZkMDhmNTgz",
   "tracks": [
     {
       "added_at": "2023-01-06 22:00:57",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 263920,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 217547,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -635,22 +651,6 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 217547,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "El Arrollador",
-        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 294440,
-      "name": "Salsa Con Coco",
-      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "Busco Un Pueblo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 259853,
       "name": "Si T\u00fa Me Besas",
       "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "El Arrollador",
+        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 294440,
+      "name": "Salsa Con Coco",
+      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a"
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
       "artists": [
         {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
         }
       ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj"
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -879,6 +863,22 @@
       "duration_ms": 191081,
       "name": "Cartas Sobre La Mesa",
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -1135,6 +1151,22 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
+        "name": "Historia De Un Sonero",
+        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
         "name": "MP 10th Anniversary",
         "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
       },
@@ -1151,18 +1183,18 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+      "duration_ms": 185575,
+      "name": "Sincero - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -1199,38 +1231,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Historia De Un Sonero",
-        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 185575,
-      "name": "Sincero - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "Mi Meta",
         "url": "https://open.spotify.com/album/7JsfV4EJLEjs2nhFKOK5NI"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
-        "name": "Siendo Yo",
-        "url": "https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG"
-      },
-      "artists": [
-        {
-          "name": "Willy Garcia",
-          "url": "https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd"
-        }
-      ],
-      "duration_ms": 245537,
-      "name": "Cada D\u00eda",
-      "url": "https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
         "name": "Tromboranga",
         "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 283293,
       "name": "Agua Que Va Caer",
       "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
+        "name": "Siendo Yo",
+        "url": "https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG"
+      },
+      "artists": [
+        {
+          "name": "Willy Garcia",
+          "url": "https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd"
+        }
+      ],
+      "duration_ms": 245537,
+      "name": "Cada D\u00eda",
+      "url": "https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
         "name": "Es por Ti",
         "url": "https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 258786,
       "name": "Mis Ojos Lloran por T\u00ed",
       "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2023-01-06 22:00:57",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-01-06 22:00:57",
       "album": {
+        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        },
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
+    },
+    {
+      "added_at": "2023-01-06 22:00:57",
+      "album": {
         "name": "Salsa At It's Best",
         "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/6UvWIRLjwI9b0fEmrxh9vR"
-    },
-    {
-      "added_at": "2023-01-06 22:00:57",
-      "album": {
-        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        },
-        {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
     },
     {
       "added_at": "2023-01-06 22:00:57",

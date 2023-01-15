@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 65899,
+  "num_followers": 65947,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDNmNmI4M2ExMTQwNzgxN2Q3OGM2MjJjYjllOTUzNDZl",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDYwNmQ2M2RjMDQ4NGFjYzZhZWU0YzVjMjM2OWNmY2Zj",
   "tracks": [
     {
       "added_at": "2023-01-13 00:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -323,6 +339,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Roll Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
@@ -343,18 +375,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -371,22 +403,6 @@
       "duration_ms": 244346,
       "name": "That's Why I Play the Blues",
       "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -547,6 +531,22 @@
       "duration_ms": 373920,
       "name": "Same Old Blues Again",
       "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Me and Mr. Johnson",
         "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
       },
       "artists": [
         {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
         }
       ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/4vgVcdlhX5r5jvNamnV5rX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 292445,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
-      },
-      "artists": [
-        {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+      },
+      "artists": [
+        {
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -959,6 +959,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Mama's Still Got The Blues",
+        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 294595,
-      "name": "Hoodoo Man",
-      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Major League Blues",
         "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 294595,
+      "name": "Hoodoo Man",
+      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Big City Blues",
         "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 244000,
       "name": "Midnight Hour Blues",
       "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Mama's Still Got The Blues",
-        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
     },
     {
       "added_at": "2023-01-13 00:01:00",

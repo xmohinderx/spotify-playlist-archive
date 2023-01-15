@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,685 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,738 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 3 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 |
 | 4 | [Easy](https://open.spotify.com/track/063ltSmgXNffmgYxippeke) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:52 |
 | 5 | [Die Eine 2005](https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf) | [Die Firma](https://open.spotify.com/artist/32iYExttk1mlpOmY7gCqk3) | [Krieg Und Frieden](https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm) | 3:26 |
-| 6 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 |
-| 7 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
+| 6 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
+| 7 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 |
 | 8 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
 | 9 | [Kokaina](https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Casia Deluxe](https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8) | 3:21 |
 | 10 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
 | 11 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 |
 | 12 | [Alles wird gut](https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:38 |
-| 13 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
-| 14 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
+| 13 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
+| 14 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
 | 15 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
 | 16 | [Kids \(2 Finger an den Kopf\)](https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
 | 17 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 32 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
 | 33 | [Walpurgisnacht](https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:01 |
 | 34 | [Prison Break Anthem \(Ich glaub an Dich\) \(feat\. Adel Tawil\) \- Single Version](https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Blockschrift](https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj) | 4:04 |
-| 35 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
-| 36 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
+| 35 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
+| 36 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
 | 37 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
 | 38 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 |
 | 39 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 50 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMGZhOGU3ZjU3MzY4MGYyNDRlZTMyODBhN2FjYTc5NzI2`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDNiZmM3MWYyNDg2YzYxZjlmOTU4ODA1ZTU4NTE1NDk1`

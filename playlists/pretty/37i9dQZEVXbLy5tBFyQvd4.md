@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLy5tBFyQvd4.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,714 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,729 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

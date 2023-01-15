@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-590 songs - 1 day 9 hr 52 min
+591 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [恍惚に病む。\(feat\. たかやん\)](https://open.spotify.com/track/20qEQNn37wWxgCdvoNtzjA) | [+α/あるふぁきゅん。](https://open.spotify.com/artist/6h5CRuhHGbYgXjqsw76K3i), [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [恍惚に病む。\(feat\. たかやん\)](https://open.spotify.com/album/4Is4qM3DvhtSW1GxOwLwZ4) | 3:35 | 2022-07-07 | 2022-07-22 |
 | [悪者](https://open.spotify.com/track/6qIkW0b1Z6G4MYLiVk7xEF) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [相沢](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [悪者](https://open.spotify.com/album/20mNsBsfwuNNfjc6VrJKgv) | 3:31 | 2022-06-16 | 2022-07-09 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-06-29 |
+| [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 |  |
 | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/track/3diUXDfx20uzySBCK3k9PZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/album/0kkMNmUqS0alqVxclf3Xho) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [抱きしめたいほど美しい日々に](https://open.spotify.com/track/3HPZXJVEnxULarjQ2E61cY) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [抱きしめたいほど美しい日々に](https://open.spotify.com/album/1PFxujzYb1SjAaj9CubTIf) | 3:05 | 2022-06-09 | 2022-07-27 |
 | [推しと結婚したくてしぬ!](https://open.spotify.com/track/5A2MP7c9jAxMPSP7LwBbox) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [推しと結婚したくてしぬ!](https://open.spotify.com/album/3XJ9PoIpGyOKwJR2qA4PmC) | 2:04 | 2022-07-14 | 2022-07-20 |
@@ -502,7 +503,7 @@
 | [漂泊者](https://open.spotify.com/track/5eisYTV3P9IltJsKBuHasM) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:42 | 2022-08-25 | 2022-08-31 |
 | [火焔](https://open.spotify.com/track/1DKR0lI9ACwoqAkQbDR5aP) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [自白](https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl) | 2:58 | 2022-06-23 | 2022-07-26 |
 | [灯りと夜明け](https://open.spotify.com/track/2j8I0EJUie6CJoOGqWHhee) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [灯りと夜明け](https://open.spotify.com/album/7xCaP7Q8VIGDPdccQ73VQ1) | 3:16 | 2022-06-28 | 2022-06-30 |
-| [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2023-01-05 |  |
+| [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2023-01-05 | 2023-01-15 |
 | [無垢](https://open.spotify.com/track/2dPZBWfkcz98Dc8d5YzVog) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [無垢](https://open.spotify.com/album/5JcP6jHvvl5Bv0rB51lNZN) | 3:44 | 2022-06-13 | 2022-07-28 |
 | [無為を抱く](https://open.spotify.com/track/2f1O9xNSk8p6Tyj28Ky0d2) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [無為を抱く](https://open.spotify.com/album/1lLPNuhwezJ793o2vboFoC) | 5:48 | 2022-08-25 | 2022-09-15 |
 | [煙](https://open.spotify.com/track/2Ii4k2hGZjmp4DfrRE0Shu) | [matsudamiki](https://open.spotify.com/artist/6RNWjXFIgFxkyqzx4xf9xk) | [DAWN](https://open.spotify.com/album/75SSJrLRG75MzG8xsMJ9VS) | 3:19 | 2022-06-14 | 2022-06-17 |

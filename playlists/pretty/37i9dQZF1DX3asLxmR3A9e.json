@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 33843,
+  "num_followers": 33871,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMDI1YWU3ODBhM2VlNjNmMWI4N2JmZmJhNDhlNDIyMjc3",
+  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMGVhNDgzMjQ0NDU5ZjM5NWU3ZDYwMWExYWNhYThjN2Vj",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -651,18 +635,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 183002,
-      "name": "Happy Idiot",
-      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -699,6 +683,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Happy Idiot",
+      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 248920,
       "name": "Black Mambo",
       "url": "https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "They Want My Soul",
-        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Lazaretto",
-        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
+        "name": "They Want My Soul",
+        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 219400,
-      "name": "Lazaretto",
-      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
+      "duration_ms": 301960,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -955,18 +939,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "After the Disco",
-        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
+        "name": "Lazaretto",
+        "url": "https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Holding on for Life",
-      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
+      "duration_ms": 219400,
+      "name": "Lazaretto",
+      "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "After the Disco",
+        "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Holding on for Life",
+      "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Urban Flora",
         "url": "https://open.spotify.com/album/2VsXWsaXURPYoSjjDI2Cjz"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 218947,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/11OoUqXLghsFEEh47JeALh"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+        "name": "So Long, See You Tomorrow",
+        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+      "duration_ms": 190866,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1099,22 +1115,6 @@
       "duration_ms": 239306,
       "name": "A Dream of You and Me",
       "url": "https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "So Long, See You Tomorrow",
-        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
+      "duration_ms": 317933,
+      "name": "She Treats Me Well",
+      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1179,6 +1179,22 @@
       "duration_ms": 288733,
       "name": "Pools",
       "url": "https://open.spotify.com/track/7jO2B8Xgfu7D9vj60XiG7Y"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1203,6 +1219,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "El Pintor",
+        "url": "https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "All the Rage Back Home",
+      "url": "https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Burn Your Fire For No Witness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
       },
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "She Treats Me Well",
-      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Built On Glass",
         "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 285290,
       "name": "Gold",
       "url": "https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "El Pintor",
-        "url": "https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "All the Rage Back Home",
-      "url": "https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Hannah Hunt",
-      "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
+      "duration_ms": 237973,
+      "name": "Hannah Hunt",
+      "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1359,6 +1343,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 248506,
       "name": "Classic (feat. POWERS)",
       "url": "https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Wet",
         "url": "https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 174093,
       "name": "Don't Wanna Be Your Girl",
       "url": "https://open.spotify.com/track/3JBB92odunFru2gOvI91x9"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
     },
     {
       "added_at": "2021-09-03 05:42:37",

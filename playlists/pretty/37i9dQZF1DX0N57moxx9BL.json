@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Stryper",
-  "num_followers": 104545,
+  "num_followers": 104569,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMGUzY2VhYjZlMWFjNGZhN2MyZjE0ZWZjMjA1NzQ1M2Q2",
+  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMDUyMWU0M2U5MzE4MzI1NjI2OTBmNjQ4ZjhiYzc5MjVh",
   "tracks": [
     {
       "added_at": "2022-10-29 07:12:44",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Peace That Starts the War",
-        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Peace That Starts the War",
-      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "The First & the Last",
         "url": "https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 219151,
       "name": "The First & the Last",
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Listen Friend",
-        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
-      },
-      "artists": [
-        {
-          "name": "Above Only",
-          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
-        }
-      ],
-      "duration_ms": 272281,
-      "name": "Listen Friend",
-      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+        "name": "Listen Friend",
+        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
       },
       "artists": [
         {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+          "name": "Above Only",
+          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
         }
       ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+      "duration_ms": 272281,
+      "name": "Listen Friend",
+      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
       },
       "artists": [
         {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
         }
       ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -735,6 +719,22 @@
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+      },
+      "artists": [
+        {
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+        }
+      ],
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -767,6 +767,22 @@
       "duration_ms": 223011,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -855,42 +871,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "DEFENSE MECHANISM",
-        "url": "https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        },
-        {
-          "name": "Max Cavalera",
-          "url": "https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "DEFENSE MECHANISM",
-      "url": "https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "DEFENSE MECHANISM",
+        "url": "https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        },
+        {
+          "name": "Max Cavalera",
+          "url": "https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "DEFENSE MECHANISM",
+      "url": "https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Deadweight",
-        "url": "https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 228332,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1003,6 +987,22 @@
       "duration_ms": 199933,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 228332,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Sleight of Hand",
-        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 234831,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
-      },
-      "artists": [
-        {
-          "name": "I Am Spartacus",
-          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
+      },
+      "artists": [
+        {
+          "name": "I Am Spartacus",
+          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
     },
     {
       "added_at": "2022-10-29 07:12:44",

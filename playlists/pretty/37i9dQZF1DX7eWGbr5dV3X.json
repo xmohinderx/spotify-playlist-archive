@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7589,
+  "num_followers": 7588,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGJlMWY3MDk1MzRlOTYyN2VmYTI3MzZlOGFlNTEwZGE3",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGQ0ZGU5OTE2YTRlMDFjNDA1MzQ4MDQ0MzYyMmMyMWY2",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 126464,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/1dCW1xIQzEtwVBy445MyE8"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/52sEKom3XedUQk93YQJtHJ"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "I Won't Envy 2.0",
         "url": "https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 220821,
       "name": "I Won't Envy 2.0",
       "url": "https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -703,6 +671,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "You Matter",
         "url": "https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 247000,
       "name": "You Matter",
       "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
+        }
+      ],
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
     }
   ],
   "unique_name": "API Pride",

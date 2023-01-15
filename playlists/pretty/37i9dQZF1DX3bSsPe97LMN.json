@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Conexi\u00f3n Divina en portada.",
-  "num_followers": 47554,
+  "num_followers": 47556,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMDU3ZTUyZWE0NjIyYjdjOTZiYzAwNGY5NzA5MWM3ZDIw",
+  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMDkzOWMwNmM3MzZlODMxZjEzODM1ODcyNDU1OTQwZjVl",
   "tracks": [
     {
       "added_at": "2023-01-13 06:00:00",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
     },
     {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Yo Soy el Bueno",
@@ -307,22 +323,6 @@
       "duration_ms": 176213,
       "name": "Yo Soy el Bueno",
       "url": "https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI"
-    },
-    {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2022-12-02 06:00:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Triste Navidad - Spotify Singles",
-        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Triste Navidad - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
-    },
-    {
       "added_at": "2022-12-23 06:00:00",
       "album": {
         "name": "Amor",
@@ -413,20 +397,20 @@
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
+      "added_at": "2022-11-18 06:00:00",
       "album": {
-        "name": "En Vivo De Culiacan",
-        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
+        "name": "Triste Navidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 158772,
-      "name": "El Dos Sierras ( En Vivo)",
-      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
+      "duration_ms": 207826,
+      "name": "Triste Navidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 128088,
       "name": "Gente Del Nini",
       "url": "https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "En Vivo De Culiacan",
+        "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "El Dos Sierras ( En Vivo)",
+      "url": "https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Con Un Porte Diferente (Vol 2)",
@@ -647,6 +631,22 @@
       "duration_ms": 216851,
       "name": "Dices Que Me Quieres",
       "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp"
     },
     {
-      "added_at": "2022-11-18 06:00:00",
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
@@ -699,6 +683,22 @@
       "duration_ms": 187500,
       "name": "Kenwood En Los Radios (En Vivo)",
       "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2022-11-18 06:00:00",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
-    },
-    {
       "added_at": "2022-11-11 06:00:00",
       "album": {
         "name": "Ni\u00f1o De Oro (Deluxe Version)",
@@ -851,6 +835,22 @@
       "duration_ms": 248117,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2022-11-11 06:00:00",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
-    },
-    {
       "added_at": "2022-12-05 23:10:14",
       "album": {
         "name": "Somos de la Mayiza (El Checo)",
@@ -1009,20 +993,36 @@
       "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Los Mitotes (En Vivo)",
-        "url": "https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w"
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
       "artists": [
         {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
         }
       ],
-      "duration_ms": 197300,
-      "name": "Los Mitotes (En Vivo)",
-      "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Ismael - En Vivo",
+      "url": "https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -1057,20 +1057,52 @@
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
     },
     {
-      "added_at": "2022-12-05 23:10:14",
+      "added_at": "2022-12-23 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+        "name": "Los Mitotes (En Vivo)",
+        "url": "https://open.spotify.com/album/6WS9pFo1tWDb3jnzkyoK6w"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+      "duration_ms": 197300,
+      "name": "Los Mitotes (En Vivo)",
+      "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Puro Pa' Delante",
+        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 153679,
+      "name": "Puro Pa' Delante",
+      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
+    },
+    {
+      "added_at": "2022-12-23 06:00:00",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 197719,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -1089,20 +1121,20 @@
       "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
     },
     {
-      "added_at": "2022-12-23 06:00:00",
+      "added_at": "2022-12-05 23:10:14",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw"
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 197719,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1125,22 +1157,6 @@
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Ismael (En Vivo)",
-        "url": "https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Ismael - En Vivo",
-      "url": "https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "nuestro amor sacrificado",
@@ -1155,6 +1171,22 @@
       "duration_ms": 82500,
       "name": "nuestro amor",
       "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Te Entiende (En Vivo)",
+        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Qui\u00e9n Te Entiende - En Vivo",
+      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1191,22 +1223,6 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Te Entiende (En Vivo)",
-        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Qui\u00e9n Te Entiende - En Vivo",
-      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
       "added_at": "2022-12-23 06:00:00",
@@ -1275,26 +1291,6 @@
       "duration_ms": 240000,
       "name": "No Hay Pedo Hay Peda",
       "url": "https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Extra\u00f1o Tus Besos",
-        "url": "https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8"
-      },
-      "artists": [
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "Extra\u00f1o Tus Besos",
-      "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

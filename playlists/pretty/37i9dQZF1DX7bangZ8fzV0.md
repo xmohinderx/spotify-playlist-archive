@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh?si=KQTB0JxQQ4C1duKbvgBvgQ">Leah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,129 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,140 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

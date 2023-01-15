@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: Devon Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,926 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,941 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

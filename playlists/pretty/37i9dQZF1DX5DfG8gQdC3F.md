@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from Sam Smith ft\. Koffee & Jessie Reyez \(pictured\), Miley Cyrus, PARTYNEXTDOOR, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,524 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,553 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

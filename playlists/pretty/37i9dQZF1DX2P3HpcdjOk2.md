@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,773 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,841 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 13 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 |
 | 14 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
 | 15 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 |
-| 16 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 |
-| 17 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |
+| 16 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |
+| 17 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 |
 | 18 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
 | 19 | [Moonage Daydream \- 2012 Remaster](https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:39 |
 | 20 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 46 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
 | 47 | [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 |
 | 48 | [Mother Of Pearl](https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Stranded](https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC) | 6:52 |
-| 49 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
-| 50 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
+| 49 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 |
+| 50 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |
 
-Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDBlOGFiYzExMjlmNDdkNjlkMWM0ZWFhZDRiM2NiMmVh`
+Snapshot ID: `MTY2ODcwMDg3OCwwMDAwMDAwMDBlNmVjYWNmZDQ5YzkxMGVjMjkzN2Q1MDFiODU5MThh`

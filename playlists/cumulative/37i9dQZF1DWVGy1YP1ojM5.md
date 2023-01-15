@@ -4,7 +4,7 @@
 
 > Sensual silky sounds for the sheets.
 
-163 songs - 9 hr 10 min
+164 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alone With You](https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm) | 3:46 | 2021-08-13 | 2022-10-04 |
 | [Always Maybe](https://open.spotify.com/track/0clFAwVWulBUHBLZbNVu7d) | [Isabella](https://open.spotify.com/artist/4cfra9oHar5K1BKBO50NKV) | [Always Maybe](https://open.spotify.com/album/2GgDyt0kw7LzDXuupuldBz) | 4:09 | 2021-08-13 | 2022-02-05 |
 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 | 2022-12-02 |  |
+| [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 | 2022-10-03 |  |
 | [ANOTHER DAY](https://open.spotify.com/track/4IetOj2X2isUcLf7iAMfKa) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4) | 2:32 | 2022-10-03 | 2023-01-02 |
 | [Are You in Love?](https://open.spotify.com/track/0J7HbHY6yqBtHHd44ofbxb) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [Are You in Love?](https://open.spotify.com/album/03dNZbCUnbakggkm1GqVrd) | 4:06 | 2021-08-13 | 2022-02-05 |
 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 | 2022-10-03 |  |
@@ -137,7 +138,7 @@
 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 | 2022-12-02 |  |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2021-08-13 | 2022-10-04 |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-08-13 | 2022-07-29 |
-| [Speechless](https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 6:00 | 2022-10-03 |  |
+| [Speechless](https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 6:00 | 2022-10-03 | 2023-01-15 |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-12-02 |  |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 |  |
 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 | 2021-08-13 | 2022-10-04 |

@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 244000,
       "name": "Karpen Island",
       "url": "https://open.spotify.com/track/4ZepQtIaClw4UuUpteSQG3"
@@ -4391,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "\u00c9ternit\u00e9 pt. 2",
+        "url": "https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252121,
+      "name": "Nightride - Revisited",
+      "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
+    },
+    {
+      "album": {
         "name": "Nighttime (Polyark Remix)",
         "url": "https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh"
       },
@@ -5346,6 +5364,24 @@
     {
       "album": {
         "name": "Rivage",
+        "url": "https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244744,
+      "name": "Rivage",
+      "url": "https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe"
+    },
+    {
+      "album": {
+        "name": "Rivage",
         "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
       },
       "artists": [
@@ -6258,7 +6294,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 255189,
       "name": "Tenshi",
       "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"

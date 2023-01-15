@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 74772,
+  "num_followers": 74784,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDY2NDY5OTUzYzUyMzViZTNkN2RiN2E5MjIyNjc4NzM5",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDFkMDZlYjI2ZWQxNjI0Mzc1MzYxYzFiYjhiMWViZjlh",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 512146,
-      "name": "Trane's Blues",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 421853,
       "name": "Senor Blues",
       "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -503,6 +503,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 592506,
-      "name": "Blues By Five - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Swiss Nights, Vol. 3",
         "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 405653,
-      "name": "Doodlin' - Remastered",
-      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 682173,
       "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Blues In the Night",
-        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 414666,
-      "name": "Back Slidin'",
-      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 464613,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Bird 100",
         "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182866,
       "name": "Chi Chi",
       "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
     },
     {
       "added_at": "2020-10-12 18:15:54",

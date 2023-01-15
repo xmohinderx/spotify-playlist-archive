@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
-  "num_followers": 1526787,
+  "num_followers": 1526884,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDg4MzU4NywwMDAwMDAwMGYxNTA3MjMwMGQ5ZDk2MDQ1ZmZmMjUzZGQ3MjA2ZmU3",
+  "snapshot_id": "MTY3MDg4MzU4NywwMDAwMDAwMDRkMGIyNjMzMDc0Mzk2NmE2ZjU4ZTNlYzhjZTNjNGRi",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -359,22 +359,6 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -443,22 +427,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "I Want To Hold Your Hand - Remastered 2015",
+      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 145746,
-      "name": "I Want To Hold Your Hand - Remastered 2015",
-      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Climbing!",
-        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
-      },
-      "artists": [
-        {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 187653,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180640,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 259893,
       "name": "Black Smoke Rising",
       "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Safari Song",
-      "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
+      "duration_ms": 222026,
+      "name": "Cochise",
+      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Cochise",
-      "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Safari Song",
+      "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "My Generation (Stereo Version)",
         "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
       },
@@ -1503,6 +1519,22 @@
       "duration_ms": 198706,
       "name": "My Generation - Stereo Version",
       "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 334906,
+      "name": "I Am the Highway",
+      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1555,38 +1587,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 334906,
-      "name": "I Am the Highway",
-      "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Mister Asylum",
         "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Greatest Hits 1974-78",
-        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
     }
   ],
   "unique_name": "Pure Rock & Roll",

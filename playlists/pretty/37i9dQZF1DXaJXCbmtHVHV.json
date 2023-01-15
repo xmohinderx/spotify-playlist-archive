@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Tyler Hubbard",
-  "num_followers": 485749,
+  "num_followers": 485797,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDViNmNlYzY3NzliNzg2NWVmNDEwNTc2MmE3MzRiZDNj",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGI1ZjU3ZTc5ZGE1NzhkOTk4ZmYwOWZhMzc0YjRhZWFi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 196253,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -695,34 +695,34 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+      "duration_ms": 196253,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
     },
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Take My Name",
-      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+      "duration_ms": 167760,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
+      "duration_ms": 157906,
+      "name": "Take My Name",
+      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "No Body",
-        "url": "https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ"
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187640,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx"
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "down home",
-        "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 201733,
-      "name": "down home",
-      "url": "https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1"
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
         }
       ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1159,22 +1163,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+        "name": "down home",
+        "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+      "duration_ms": 201733,
+      "name": "down home",
+      "url": "https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 187432,
       "name": "Best Thing Since Backroads",
       "url": "https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
     },
     {
       "added_at": "2023-01-13 05:00:00",

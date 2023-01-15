@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
+    },
+    {
+      "album": {
         "name": "Besvikelsens melodi",
         "url": "https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 232109,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb"
@@ -7766,6 +7784,24 @@
       "duration_ms": 222481,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ"
+    },
+    {
+      "album": {
+        "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
+        "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178394,
+      "name": "Regnar \u00f6ver Stockholm",
+      "url": "https://open.spotify.com/track/38w3AeVl212DfCXRFwearV"
     },
     {
       "album": {

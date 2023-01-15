@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 60123,
+  "num_followers": 60187,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMGYxNGFjZTI1YjJiY2I0NzlhNjBjYmJjNTA5ZTM4YTI0",
+  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMDM5MmQ1YTQxNGQ4MGE1YTE3YzdkNDkxMTM4ODU3ZTVh",
   "tracks": [
     {
       "added_at": "2022-11-17 14:45:25",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -191,26 +207,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
@@ -227,18 +223,22 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+      "duration_ms": 271133,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 256826,
       "name": "Feelin' Bad Blues - 2008 Remaster",
       "url": "https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -439,22 +439,18 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "Fantastic Negrito Deluxe EP",
+        "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 160453,
+      "name": "Night Has Turned to Day",
+      "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -475,18 +471,22 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Fantastic Negrito Deluxe EP",
-        "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
         }
       ],
-      "duration_ms": 160453,
-      "name": "Night Has Turned to Day",
-      "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249093,
       "name": "Gypsy In Me",
       "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2022-11-17 14:45:25",

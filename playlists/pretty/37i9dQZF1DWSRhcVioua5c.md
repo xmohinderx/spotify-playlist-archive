@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,505 likes - 90 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,529 likes - 90 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 86 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
 | 87 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
 | 88 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
-| 89 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
+| 89 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 90 | [Tan Lejos de Mi](https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 4:06 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDk5ZTFmNDViOWU1YTIwMWI5YTBjNjQzMjE5ZjA5NGU5`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDlhNzE2NDAzOTA1ZjVhMmJjYWM3YzBiMjI1ZDdhYTBk`

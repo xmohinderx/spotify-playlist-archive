@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 271183,
+  "num_followers": 271223,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDUyODg3NDU0MGM1OGVkNzA0ZDZhOWRiM2ZlMDk4NTIw",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDljN2IzMzQ5MzRmYjRmNTI0NmRkNDVjMzQ4MzkxMDU4",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Cr\u00edmenes perfectos",
-      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 110266,
       "name": "Aquellas Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Cr\u00edmenes perfectos",
+      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+        "name": "Oceano De Sol",
+        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+      "duration_ms": 190600,
+      "name": "El Sitio De Mi Recreo",
+      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Oceano De Sol",
-        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 190600,
-      "name": "El Sitio De Mi Recreo",
-      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -787,6 +787,38 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -811,34 +843,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+      "duration_ms": 152906,
+      "name": "Yo no soy esa",
+      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -859,6 +875,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -871,22 +903,6 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Yo no soy esa",
-      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "\u00daltimo Acto",
         "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 206880,
       "name": "Solo Otra Vez - Alone Again",
       "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Mi Chile Lindo",
         "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1663,6 +1663,58 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Sesiones Moraima",
+        "url": "https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
+      "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Universo Abierto",
         "url": "https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM"
       },
@@ -1695,22 +1747,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
         "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
@@ -1723,42 +1759,6 @@
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
-      },
-      "artists": [
-        {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Conviene Saber (feat. Rozal\u00e9n)",
-        "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 250302,
-      "name": "Conviene Saber (feat. Rozal\u00e9n)",
-      "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
         }
       ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     }
   ],
   "unique_name": "Cantautores",

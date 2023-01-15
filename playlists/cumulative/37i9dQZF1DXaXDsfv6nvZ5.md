@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-170 songs - 10 hr 50 min
+171 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2021-12-03 | 2021-12-31 |
 | [Soul Caliber](https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 5:12 | 2022-11-11 | 2023-01-01 |
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2022-03-11 | 2022-09-10 |
+| [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2022-11-13 |
 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 |  |
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2022-09-19 |
@@ -156,7 +157,7 @@
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-14 |  |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |
-| [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 |  |
+| [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 | 2023-01-15 |
 | [The Truth](https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd) | [D.Folks](https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI) | [The Truth](https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ) | 3:19 | 2021-12-03 | 2022-07-27 |
 | [There'll Never Be](https://open.spotify.com/track/0AhfJf1WvL61ipcVsL8Xs8) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 5:29 | 2022-09-30 | 2022-10-04 |
 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 | 2022-09-09 | 2022-10-04 |

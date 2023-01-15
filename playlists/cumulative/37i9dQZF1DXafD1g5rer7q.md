@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-167 songs - 8 hr 2 min
+168 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2022-07-28 |  |
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2022-07-28 |  |
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-06-30 | 2022-07-24 |
-| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 |  |
+| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 | 2023-01-15 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-04-14 |  |
 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 | 2022-06-02 | 2022-07-28 |
 | [My Loneliness \- Jake Tarry Remix](https://open.spotify.com/track/6uqOSS7xyQqAYFSgd7oM0A) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [My Loneliness \(Jake Tarry Remix\)](https://open.spotify.com/album/2bLmdVUZ5XNg5kz5FGMF7E) | 2:41 | 2022-04-14 | 2022-07-29 |
@@ -171,6 +171,7 @@
 | [Where Do We Go?](https://open.spotify.com/track/5i1pA6kJcxetBsFifLWtwG) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Where Do We Go?](https://open.spotify.com/album/53WlrFe9LKHa42WoNF8F4q) | 2:30 | 2022-04-21 | 2022-07-09 |
 | [Wings](https://open.spotify.com/track/0IMJIkOxtCFnmOmrpIH08O) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Extra Dimensional](https://open.spotify.com/album/5ON24L81Foria0hIKcLHCq) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [Work That Trunk \(with MOTi\)](https://open.spotify.com/track/77EhqUJMLbAq6qFp2Kqp13) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Work That Trunk \(with MOTi\)](https://open.spotify.com/album/6Cdw4UaAyYdGFF1cR6zz6C) | 2:26 | 2022-06-16 | 2022-07-14 |
+| [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-01-12 |  |
 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 | 2022-07-28 |  |
 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 | 2022-07-28 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/1yccBVKAPKgNKjaNfcA6v3) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Summer Pool Party 2021](https://open.spotify.com/album/4WkReSuysvJSPDczKuRIMp) | 2:30 | 2022-04-14 | 2022-07-29 |

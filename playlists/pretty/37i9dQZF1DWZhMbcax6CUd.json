@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 46626,
+  "num_followers": 46636,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMDI2YmU4MTE1MjhiNDI1MmRiMWVmZWRiMjU5NzJiMjkz",
+  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMDdhYzZhZjY1MmJkMjc3MTI5NmEyZGY5ZDk4MmNlM2Nl",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -92,30 +92,6 @@
       },
       "artists": [
         {
-          "name": "Laurent Naouri",
-          "url": "https://open.spotify.com/artist/0dvT9QPXJHEzUmAZtcA7mH"
-        },
-        {
-          "name": "David Abramovitz",
-          "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
-        },
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "Sur L'herbe",
-      "url": "https://open.spotify.com/track/37vCG50piSFnHGVxwovlHC"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Chansons",
-        "url": "https://open.spotify.com/album/4M9YTbLpPqvFT0OvUpEByC"
-      },
-      "artists": [
-        {
           "name": "David Abramovitz",
           "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
         },
@@ -131,6 +107,30 @@
       "duration_ms": 85666,
       "name": "Reves",
       "url": "https://open.spotify.com/track/1IwZPU3wcu7zQDZfHbaNYc"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Chansons",
+        "url": "https://open.spotify.com/album/4M9YTbLpPqvFT0OvUpEByC"
+      },
+      "artists": [
+        {
+          "name": "Laurent Naouri",
+          "url": "https://open.spotify.com/artist/0dvT9QPXJHEzUmAZtcA7mH"
+        },
+        {
+          "name": "David Abramovitz",
+          "url": "https://open.spotify.com/artist/4lvmZz7tMJRQwPczmMb0DZ"
+        },
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "Sur L'herbe",
+      "url": "https://open.spotify.com/track/37vCG50piSFnHGVxwovlHC"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -667,6 +667,34 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel l'exotique",
+        "url": "https://open.spotify.com/album/6wQUYcXQNxUZIxw95pzG3i"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ensemble Musica Nigella",
+          "url": "https://open.spotify.com/artist/1WKJem11fUdmvc1M4DxjLV"
+        },
+        {
+          "name": "Tak\u00e9nori N\u00e9moto",
+          "url": "https://open.spotify.com/artist/72Yvb70IFYKcvBd5h59OyF"
+        },
+        {
+          "name": "Pablo Schatzman",
+          "url": "https://open.spotify.com/artist/6ODub5WwbfKPCCehgAFwSD"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Rapsodie espagnole, M. 54: III. Habanera",
+      "url": "https://open.spotify.com/track/2SXOplH0bS340faU0B34gI"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
         "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
       },
@@ -707,34 +735,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel l'exotique",
-        "url": "https://open.spotify.com/album/6wQUYcXQNxUZIxw95pzG3i"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ensemble Musica Nigella",
-          "url": "https://open.spotify.com/artist/1WKJem11fUdmvc1M4DxjLV"
-        },
-        {
-          "name": "Tak\u00e9nori N\u00e9moto",
-          "url": "https://open.spotify.com/artist/72Yvb70IFYKcvBd5h59OyF"
-        },
-        {
-          "name": "Pablo Schatzman",
-          "url": "https://open.spotify.com/artist/6ODub5WwbfKPCCehgAFwSD"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Rapsodie espagnole, M. 54: III. Habanera",
-      "url": "https://open.spotify.com/track/2SXOplH0bS340faU0B34gI"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 208173,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
       "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "My Paris Years - French Music for Piano",
+        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alain Lef\u00e8vre",
+          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
+      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -783,26 +803,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "My Paris Years - French Music for Piano",
-        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alain Lef\u00e8vre",
-          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
-      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel/Shostakovich: Piano Trios",
         "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 554386,
       "name": "Piano trio in a minor: Mode\u0301re\u0301",
       "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Carlo Grante",
-          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
-      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -867,6 +847,26 @@
       "duration_ms": 129563,
       "name": "Rapsodie espagnole, M. 54: II. Malague\u00f1a",
       "url": "https://open.spotify.com/track/6laywyzZsNr1YVv1BrkP3x"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Carlo Grante",
+          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
+      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -987,30 +987,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel Voyageur",
-        "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Nathalia Milstein",
-          "url": "https://open.spotify.com/artist/4J93amv4R2GFj0dZs7QlCn"
-        },
-        {
-          "name": "Maria Milstein",
-          "url": "https://open.spotify.com/artist/4lmfNMJjP12JmjQUgrFzHZ"
-        }
-      ],
-      "duration_ms": 867640,
-      "name": "Violin Sonata No. 1, M. 12",
-      "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
         "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 153200,
       "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
       "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel Voyageur",
+        "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Nathalia Milstein",
+          "url": "https://open.spotify.com/artist/4J93amv4R2GFj0dZs7QlCn"
+        },
+        {
+          "name": "Maria Milstein",
+          "url": "https://open.spotify.com/artist/4lmfNMJjP12JmjQUgrFzHZ"
+        }
+      ],
+      "duration_ms": 867640,
+      "name": "Violin Sonata No. 1, M. 12",
+      "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
+        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel and Shostakovich: Piano Trios",
         "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
       },
@@ -1207,6 +1227,30 @@
       "duration_ms": 475146,
       "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
       "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 51506,
+      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
+      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1239,54 +1283,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel et Prokofiev: Concertos pour pianos",
-        "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Anna Vinnitskaya",
-          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
-        },
-        {
-          "name": "Deutsches Symphonie-Orchester Berlin",
-          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
-        },
-        {
-          "name": "Gilbert Varga",
-          "url": "https://open.spotify.com/artist/6mB1ktKY4MSnVoaHZqFIUM"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "Piano concerto in G Major: III. Presto",
-      "url": "https://open.spotify.com/track/0NYdiC4VC4P4xw7YAd6wek"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
-        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
         "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
       },
@@ -1311,8 +1307,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+        "name": "Ravel et Prokofiev: Concertos pour pianos",
+        "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
       },
       "artists": [
         {
@@ -1320,17 +1316,21 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+          "name": "Anna Vinnitskaya",
+          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
         },
         {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Gilbert Varga",
+          "url": "https://open.spotify.com/artist/6mB1ktKY4MSnVoaHZqFIUM"
         }
       ],
-      "duration_ms": 51506,
-      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
-      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
+      "duration_ms": 238320,
+      "name": "Piano concerto in G Major: III. Presto",
+      "url": "https://open.spotify.com/track/0NYdiC4VC4P4xw7YAd6wek"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
-        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
-        }
-      ],
-      "duration_ms": 85840,
-      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
-      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
         "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
+        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "duration_ms": 85840,
+      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
+      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Classical Study: Ravel",
+        "url": "https://open.spotify.com/album/1ESHBe7jM1axB3j2WNRlM1"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
+      "url": "https://open.spotify.com/track/11vJaHa4cCjPf6gkDEcTIi"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
         "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
       },
@@ -1547,30 +1571,6 @@
       "duration_ms": 168880,
       "name": "Valses nobles et sentimentales, M. 61: VII. Moins vif",
       "url": "https://open.spotify.com/track/624NZpvGUqpSJEO2SHUyn2"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Classical Study: Ravel",
-        "url": "https://open.spotify.com/album/1ESHBe7jM1axB3j2WNRlM1"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
-      "url": "https://open.spotify.com/track/11vJaHa4cCjPf6gkDEcTIi"
     },
     {
       "added_at": "2022-06-27 09:54:23",

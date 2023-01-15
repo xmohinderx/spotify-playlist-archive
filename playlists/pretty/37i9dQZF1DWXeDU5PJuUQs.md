@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,927 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,973 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 17 | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa) | 6:04 |
 | 18 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 19 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 |
-| 20 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
+| 20 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 |
 | 21 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 |
-| 22 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 |
+| 22 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
 | 23 | [Si No Te Hubieras Ido \- En Vivo](https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [En Vivo](https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB) | 4:41 |
 | 24 | [Tú, La Más Bella](https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 2:49 |
 | 25 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 27 | [Por Una Vez En La Vida \- En Vivo en el Luna Park](https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Una Vez En La Vida \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT) | 4:24 |
 | 28 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 |
 | 29 | [Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo \- En Vivo](https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 7:37 |
-| 30 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
-| 31 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 30 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 31 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
 | 32 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 |
 | 33 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 | 34 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 60 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
 | 61 | [Sencillamente \- En Vivo](https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Sencillamente \(En Vivo\)](https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ) | 2:11 |
 | 62 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 |
-| 63 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 |
-| 64 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
+| 63 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
+| 64 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 |
 
-Snapshot ID: `MTY3MzYyMDI3OCwwMDAwMDAwMDJkMTk1MWM4YzM4YjEwMzUxNTRhYTBkYTg3NjkyOTZj`
+Snapshot ID: `MTY3MzYyMDI3OCwwMDAwMDAwMDllNmY2MTI1Y2ZlN2ZiOGU5MWVkZjU0YzJiMmI2ZTE0`

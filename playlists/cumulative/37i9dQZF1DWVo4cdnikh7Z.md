@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-441 songs - 1 day 3 hr 21 min
+442 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [Rendu Raaja \(From "Naane Varuvean"\)](https://open.spotify.com/track/6ZK4Ih45aejD4eBGRdXeM9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Rendu Raaja \(From "Naane Varuvean"\) \- Single](https://open.spotify.com/album/3bvzhuGSaJA0kAXSeekZ6o) | 3:22 | 2022-09-24 |  |
 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 | 2022-07-08 | 2023-01-11 |
 | [Rum Bum Bum \- From "Coffee With Kadhal"](https://open.spotify.com/track/2cbiTkaQ6x1Di9x0EwKI6x) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Rum Bum Bum \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/3NvfKBLQsepovjmw6NuwWK) | 4:55 | 2022-07-04 | 2022-08-07 |
-| [Run Baby Run Theme](https://open.spotify.com/track/1eEzA523dvcttEDlExQTAC) | [Sam C\. S](https://open.spotify.com/artist/1Qq4DZ04f2tpaw31VqRgju), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [Run Baby Run Theme \(From "Run Baby Run"\)](https://open.spotify.com/album/2joBP77BBrgGotYxABYFTo) | 1:34 | 2023-01-13 |  |
+| [Run Baby Run Theme](https://open.spotify.com/track/1eEzA523dvcttEDlExQTAC) | [Sam C\. S](https://open.spotify.com/artist/1Qq4DZ04f2tpaw31VqRgju), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [Run Baby Run Theme \(From "Run Baby Run"\)](https://open.spotify.com/album/2joBP77BBrgGotYxABYFTo) | 1:34 | 2023-01-13 | 2023-01-15 |
+| [Run Baby Run Theme \(From "Run Baby Run"\)](https://open.spotify.com/track/6BqFFXWO8pkogX2lI3u5c6) | [Sam C\. S](https://open.spotify.com/artist/1Qq4DZ04f2tpaw31VqRgju), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [Run Baby Run Theme \(From "Run Baby Run"\) \- Single](https://open.spotify.com/album/4lTa7et6R216OeBHbEolSl) | 1:34 | 2023-01-13 |  |
 | [Saachitale \(From "Love Today"\)](https://open.spotify.com/track/1GtGDEADkaqavjo23YaSLl) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Saachitale \(From "Love Today"\)](https://open.spotify.com/album/30U9nwOMtDwQWY3I6cwR0H) | 3:58 | 2022-08-02 |  |
 | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/track/2jWyHwbUrcQ3UPf5CP9jlU) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saanjikkava \(From "Kaari"\)](https://open.spotify.com/album/4OCpQzSXbW1G754tPR6Qd3) | 4:05 | 2022-06-14 | 2022-06-30 |
 | [Sakthi Koothu \- From "Driver Jamuna"](https://open.spotify.com/track/3Ym02CDwBOtvEcG1nSYcoc) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Deepthi Suresh](https://open.spotify.com/artist/3CUXoYZbHcs9ikAsFscZZ4), [Mahakavi Subramania Bharathi](https://open.spotify.com/artist/7MPIvcMcfFTi6oesGjFVfO) | [Sakthi Koothu \(From "Driver Jamuna"\)](https://open.spotify.com/album/2nA7a35mBF6s5qrhJAqmRt) | 3:33 | 2022-11-09 | 2022-11-22 |

@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-198 songs - 13 hr 9 min
+199 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 | 2021-12-27 |  |
 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 | 2021-12-27 | 2022-07-29 |
 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 | 2022-06-07 |  |
+| [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 | 2023-01-10 |  |
 | [Copos de Nieve](https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY) | [Grupo Los Grafiteros](https://open.spotify.com/artist/0ID6bV8B2psmBdf8kfHN7C) | [Copos de Nieve](https://open.spotify.com/album/05uNVPmIyUgxVaaQvqktsi) | 3:47 | 2021-12-27 | 2023-01-11 |
 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 | 2021-12-27 |  |
 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 | 2023-01-10 |  |
@@ -59,7 +60,7 @@
 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 | 2022-06-07 |  |
 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 | 2022-06-07 |  |
 | [Cumbia Francesa](https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3) | 3:40 | 2021-12-27 | 2022-07-29 |
-| [Cumbia Mapacha](https://open.spotify.com/track/2qgqX6ZE6qI51iFN3ntxKw) | [Grupo Jujuy](https://open.spotify.com/artist/52ivkXWNAGc5rzS5H3ZIwK) | [Cumbia Mapacha \(100% Sonidero Poblano\)](https://open.spotify.com/album/4MInudpzgaZYTsGGGRLo1O) | 3:37 | 2022-12-30 |  |
+| [Cumbia Mapacha](https://open.spotify.com/track/2qgqX6ZE6qI51iFN3ntxKw) | [Grupo Jujuy](https://open.spotify.com/artist/52ivkXWNAGc5rzS5H3ZIwK) | [Cumbia Mapacha \(100% Sonidero Poblano\)](https://open.spotify.com/album/4MInudpzgaZYTsGGGRLo1O) | 3:37 | 2022-12-30 | 2023-01-15 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2021-12-27 |  |
 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 | 2021-12-27 |  |
 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 | 2022-06-07 |  |

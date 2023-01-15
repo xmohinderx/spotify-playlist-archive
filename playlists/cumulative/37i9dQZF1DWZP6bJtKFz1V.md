@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-477 songs - 1 day 0 hr 50 min
+478 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 | 2022-11-18 |  |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-10 |  |
 | [Go Home!](https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Go Home!](https://open.spotify.com/album/6JDNtBDAUI8KaWT0TAqetc) | 2:41 | 2022-06-17 | 2022-10-29 |
+| [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-13 |  |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-03-04 | 2022-07-29 |
 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 | 2022-02-11 | 2022-04-09 |
 | [Grow Up Tomorrow](https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI) | 3:12 | 2022-10-28 |  |
@@ -387,7 +388,7 @@
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 |  |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-01 | 2022-07-29 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2022-10-07 |  |
-| [Supernatural](https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Supernatural](https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt) | 3:19 | 2023-01-13 |  |
+| [Supernatural](https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Supernatural](https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt) | 3:19 | 2023-01-13 | 2023-01-15 |
 | [Surfing](https://open.spotify.com/track/2bb3HjKjiTIIGXcM1YbKIy) | [NO WIN](https://open.spotify.com/artist/232KKU6Bc8RDn1wIsojwKP) | [Surfing](https://open.spotify.com/album/2tulH8h7rcQrxmCBuLkAau) | 3:12 | 2022-06-03 | 2022-07-20 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-03-11 | 2022-10-08 |
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-07 |  |

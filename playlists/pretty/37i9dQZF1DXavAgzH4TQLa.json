@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 231419,
+  "num_followers": 231506,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI1NDg4NSwwMDAwMDAwMDdiOTFlMDY5OTdiMTdmNTY1ZWM1ZmMzYzRmNGJjOGU2",
+  "snapshot_id": "MTY3MDI1NDg4NSwwMDAwMDAwMGNiNDg4NzA0ZDM1MTUxNGM0ZjRkOTY3Zjg2Mjk4OGFj",
   "tracks": [
     {
       "added_at": "2022-07-22 15:06:56",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
       "artists": [
         {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -399,34 +399,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -443,6 +427,22 @@
       "duration_ms": 212400,
       "name": "Tramposa Y Mentirosa",
       "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -495,38 +495,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
       },
@@ -559,40 +527,8 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
-    },
-    {
-      "added_at": "2023-01-14 19:15:41",
-      "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
@@ -600,9 +536,25 @@
           "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -619,6 +571,38 @@
       "duration_ms": 170240,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+    },
+    {
+      "added_at": "2023-01-15 00:42:12",
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -671,22 +655,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 210586,
       "name": "Se Me Ha Perdido Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
       },
       "artists": [
         {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
-      },
-      "artists": [
-        {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
-        }
-      ],
-      "duration_ms": 155387,
-      "name": "Una Wacha Piola",
-      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "El polaco - Vuelve te lo pido",
         "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+      "duration_ms": 155387,
+      "name": "Una Wacha Piola",
+      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Tan Solo Amantes",
+      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "La Pollera Amarilla",
         "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 206333,
       "name": "Ser\u00e1 Porque Te Amo",
       "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Tan Solo Amantes",
-      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Ritmo Sabroson",
+      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 258666,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
-      },
-      "artists": [
-        {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "La pata sucia",
-      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
     }
   ],
   "unique_name": "Enganchados: Cumbianchas",

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-182 songs - 11 hr 17 min
+183 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All the Time \(Thinking Bout Me\)](https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Marcus Hodge](https://open.spotify.com/artist/4zp9HZh3LJ2K6qN5y4tkqi), [B SLADE](https://open.spotify.com/artist/1vXFOrqCxtBKdLaJqjLqOy), [1kphew](https://open.spotify.com/artist/3MQ4t2qrxZwxZbcp76jXAt) | [The Fallen Movie Soundtrack](https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO) | 2:58 | 2022-07-17 |  |
 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 | 2022-07-17 |  |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-02-18 | 2022-06-01 |
-| [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 | 2022-12-16 |  |
+| [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 | 2022-12-16 | 2023-01-15 |
 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 | 2022-07-17 | 2022-12-17 |
 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 | 2022-02-18 |  |
 | [Authentic Love](https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [Authentic Love](https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3) | 4:42 | 2022-06-01 | 2022-10-01 |
@@ -187,6 +187,7 @@
 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-06-01 | 2022-12-17 |
 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 |  |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-09-03 |  |
+| [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 | 2022-12-16 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-12-16 |  |
 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 | 2022-12-16 |  |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-09-03 |  |

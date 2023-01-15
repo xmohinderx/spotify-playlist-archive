@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Erica Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,400 likes - 99 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,444 likes - 99 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

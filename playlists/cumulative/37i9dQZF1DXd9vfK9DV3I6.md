@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-229 songs - 17 hr 1 min
+230 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 | 2020-10-18\* |  |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 |  |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
-| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 |  |
+| [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 | 2023-01-15 |
 | [Angelic](https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Ikonnya](https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1) | [Angelic](https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3) | 4:29 | 2022-01-03 |  |
 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 | 2020-10-18\* |  |
 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 | 2021-11-14 |  |
@@ -79,6 +79,7 @@
 | [Fiddle](https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB) | [Enes Yaman](https://open.spotify.com/artist/14ztES2AtAE1TlnPhBXtB2), [Berkay Cavus](https://open.spotify.com/artist/3YP66RAgFxRT9cE5MbBZBz) | [Fiddle](https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg) | 3:44 | 2021-04-13 | 2022-11-13 |
 | [Follow You](https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Kanita](https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge) | [Follow You](https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ) | 2:58 | 2021-06-04 |  |
 | [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 | 2022-01-03 |  |
+| [Fur](https://open.spotify.com/track/4u6ljcfLSWPIeqCa94jRFu) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [BuVu](https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy) | [Fur](https://open.spotify.com/album/2VntJqtkExVpftATLphtwV) | 6:19 | 2023-01-13 |  |
 | [Give a Little](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 |  |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |

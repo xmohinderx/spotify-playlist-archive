@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,178 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,192 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 4 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 5 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
 | 6 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
-| 7 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
-| 8 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
+| 7 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
+| 8 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
 | 9 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 10 | [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
 | 11 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 14 | [Sleep Now In the Fire](https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:25 |
 | 15 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
 | 16 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
-| 17 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 |
-| 18 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
-| 19 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 17 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 18 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 19 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 |
 | 20 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 21 | [Possum Kingdom](https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Rubberneck](https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN) | 5:08 |
 | 22 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 30 | [Hanginaround](https://open.spotify.com/track/0LWINYMC4s8QTdDSb1B3Q3) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [This Desert Life](https://open.spotify.com/album/60561o2TNguqnXD5ZurDup) | 4:07 |
 | 31 | [Backwater](https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg) | [Meat Puppets](https://open.spotify.com/artist/2h9yQhKyqOMex3QFMVeq7F) | [Too High To Die](https://open.spotify.com/album/33NHMtzngLZw6GBB1nNpVJ) | 3:40 |
 | 32 | [Ashes to Ashes \- 2016 Remaster](https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year \(2016 Remaster; Deluxe Edition\)](https://open.spotify.com/album/42uSfP4HXXGZn6kE3dZadO) | 3:36 |
-| 33 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
-| 34 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
+| 33 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
+| 34 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
 | 35 | [Toes Across The Floor](https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:07 |
 | 36 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
 | 37 | [Saint Joe On The School Bus](https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 49 | [I Got A Girl](https://open.spotify.com/track/5fxfwjQ1OmbnkOlg39HsSO) | [Tripping Daisy](https://open.spotify.com/artist/7hhoMvZJRwEdjJUBpuWiDk) | [I Am An Elastic Firecracker](https://open.spotify.com/album/4H0sGJvU49fFtUH86CJyu5) | 4:05 |
 | 50 | [Teen Angst \(What The World Needs Now\)](https://open.spotify.com/track/21gRGP5LdIgto8sznRZ7xz) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Cracker](https://open.spotify.com/album/2r1yuRwAB0kmidzNuuNmdp) | 4:14 |
 
-Snapshot ID: `MTY1NjUyNzY4MCwwMDAwMDAwMGY0ODhhMmE5YjNlNWEzMDQ2NTc5MDhiYTExZmQ4Y2E0`
+Snapshot ID: `MTY1NjUyNzY4MCwwMDAwMDAwMGVjYmQ2OGQ4MTVjNWFjZThkOGViNGM5NTliMzAxNzkx`

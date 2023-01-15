@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59511,
+  "num_followers": 59517,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDE3MWE3MmUyNmI0ZjE5NDM4YjQ0YTA4YjA3OGQyNzFi",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDI1ZDNkOTNmYjg2YmRmNDExNzA2NDgwYmMxMTg2NDcx",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 183437,
       "name": "D\u00fcm Tek Tek",
       "url": "https://open.spotify.com/track/3SxMoYjub3X3q5hJm9ZPyM"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
+        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
+          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 175000,
       "name": "Lipstick - Radio Edit",
       "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 207594,
+      "name": "Glorious - Video Edit",
+      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1011,22 +1043,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Glorious",
-        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 207594,
-      "name": "Glorious - Video Edit",
-      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Menq Enq Mer Sarere",
         "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 181973,
       "name": "Jan-Jan",
       "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
-        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
-          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
     },
     {
       "added_at": "2022-05-16 13:21:08",

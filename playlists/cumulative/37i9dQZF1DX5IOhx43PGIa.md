@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: RM.
 
-369 songs - 19 hr 24 min
+370 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 | 2022-05-27 | 2022-06-04 |
 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 | 2022-05-27 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2022-05-27 | 2022-06-04 |
-| [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-11-11 |  |
+| [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-11-11 | 2023-01-15 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-05-27 | 2022-10-13 |
 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 | 2022-05-27 |  |
 | [Find you in the dark](https://open.spotify.com/track/6cjLdb9U690pSxV6RUQ9cY) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Find you in the dark](https://open.spotify.com/album/56uJ7jcKVU3qdEoJdogi4t) | 3:53 | 2022-05-27 | 2022-06-04 |
@@ -147,6 +147,7 @@
 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 | 2022-09-23 | 2022-10-08 |
 | [Hold The Girl](https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:05 | 2022-09-23 | 2022-10-08 |
 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 | 2022-05-27 |  |
+| [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 | 2023-01-13 |  |
 | [Honest](https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Honest](https://open.spotify.com/album/6izPzxURr7qQhbauoNlfyB) | 3:19 | 2022-05-27 | 2022-07-28 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-27 |  |
 | [Honey Filled Skies](https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 3:10 | 2022-11-11 |  |

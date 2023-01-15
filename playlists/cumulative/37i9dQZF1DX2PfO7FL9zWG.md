@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Allison Russell
 
-255 songs - 16 hr 4 min
+256 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Easy Tiger](https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Easy Tiger](https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-07-27 |  |
 | [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 | 2022-04-15 | 2022-11-20 |
-| [Everyone I've Never Met](https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Motherwell](https://open.spotify.com/album/7orA0IU079PeGlKQY6iRO2) | 3:11 | 2022-07-27 |  |
+| [Everyone I've Never Met](https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Motherwell](https://open.spotify.com/album/7orA0IU079PeGlKQY6iRO2) | 3:11 | 2022-07-27 | 2023-01-15 |
 | [Everything Under the Sun](https://open.spotify.com/track/4Z9h55joG9eoz87CC8BWuC) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Everything Under the Sun](https://open.spotify.com/album/3UmIv8okiSwMrSE2jiky06) | 3:57 | 2022-04-15 | 2022-07-09 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2022-04-15 | 2022-07-29 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2022-05-12 |  |
@@ -181,6 +181,7 @@
 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 | 2022-04-15 | 2022-07-20 |
 | [Over My Shoulder](https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ) | [Aliocha](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p), [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Over My Shoulder](https://open.spotify.com/album/50bEcqe8ypWaGnyW8o3SKu) | 5:02 | 2022-04-15 | 2022-07-28 |
 | [People You Follow](https://open.spotify.com/track/3sBg7oSZF8VFm1BnP5NAfy) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [People You Follow](https://open.spotify.com/album/3lv6O3Cj9cegaJX97mRly7) | 3:01 | 2022-04-15 | 2022-07-29 |
+| [Pictures](https://open.spotify.com/track/0eRXRjA5C18oSVKJPGv0UD) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 4:13 | 2022-07-27 |  |
 | [pictures \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/6bt1R3HFqITysmy3W88M3c) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [pictures \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/57m4VrZC3SF9syDVhMFIg5) | 4:13 | 2022-04-15 | 2022-07-29 |
 | [Power Over Me](https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:26 | 2022-07-27 |  |
 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 | 2022-04-15 | 2022-07-24 |

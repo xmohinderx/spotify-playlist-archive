@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDRmYTVmNGJkZjc2YjczMTUyOWQ2MjcxODdmMThmOWUx",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDdhMzZjOTdhZjE0M2EzNzQwYTc3OGI5OTI5MTJjNWMw",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 182497,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156505,
-      "name": "parachute",
-      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185400,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156505,
+      "name": "parachute",
+      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Grow Old with Me",
-      "url": "https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Grow Old with Me",
+      "url": "https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "In the Shape of a Dream",
         "url": "https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 189786,
       "name": "Stay With Me (feat. Jeremy Zucker)",
       "url": "https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Janieck Devy",
+          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
       },
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Janieck Devy",
-          "url": "https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON"
-        }
-      ],
-      "duration_ms": 158474,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "A Larum",
         "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Some Kind Of Purpose",
-        "url": "https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+        "name": "Some Kind Of Purpose",
+        "url": "https://open.spotify.com/album/0Og3biqAPjphY1IJvZvX13"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
+      "duration_ms": 236533,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/7IKhMrLuFiTfnKwp43YVGN"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
       "artists": [
         {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1531,6 +1515,22 @@
       "duration_ms": 242760,
       "name": "Wild Roses",
       "url": "https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 202537,
-      "name": "Nobody's Fault",
-      "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Departures",
-        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
       "artists": [
         {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         },
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+      "duration_ms": 202537,
+      "name": "Nobody's Fault",
+      "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"
     },
     {
       "added_at": "2022-09-21 10:12:07",

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-98 songs - 5 hr 49 min
+99 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 |  |
 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-10-20 |  |
 | [Lullaby](https://open.spotify.com/track/0kMurvK2rcbHQseXMjBJTT) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET), [Kannon Price](https://open.spotify.com/artist/40DqpvTke3kuyArabmopRw) | [Lullaby](https://open.spotify.com/album/4O4LEkNJwNQhXOojYRNJcM) | 4:01 | 2022-10-20 | 2022-11-23 |
+| [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 | 2023-01-12 |  |
 | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y) | 3:25 | 2022-10-25 | 2022-12-24 |
 | [madoromiyurumi](https://open.spotify.com/track/3eyti6C0dpOaFKv01GMUn9) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [madoromiyurumi](https://open.spotify.com/album/5QPr7Gbmbfjw3AxXPyHoJb) | 4:04 | 2022-10-20 | 2022-10-26 |
 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2022-10-20 |  |
@@ -72,7 +73,7 @@
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-10-20 |  |
 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2022-10-20 | 2022-11-30 |
 | [Whales](https://open.spotify.com/track/4kPrGI5LIy7YV4juPMu43r) | [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J), [ayafuya](https://open.spotify.com/artist/42kH3WCXyXz38FvwjvloKN), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [Whales](https://open.spotify.com/album/09J50aZoqtJJ6JhAcgLpqY) | 4:43 | 2022-10-20 | 2022-12-14 |
-| [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 | 2022-12-15 |  |
+| [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 | 2022-12-15 | 2023-01-15 |
 | [without a word](https://open.spotify.com/track/4zefF6Sz5tyALMS8eVetPC) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [SIGN](https://open.spotify.com/album/3UnGVlmqObAzmtrFFBMXcF) | 2:37 | 2022-12-20 |  |
 | [without a word](https://open.spotify.com/track/70E8D4N96XHb90QFufmzY6) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [SIGN](https://open.spotify.com/album/6LquM3nRoIbpO7RduSYhEF) | 2:37 | 2022-12-20 | 2022-12-22 |
 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 | 2022-10-20 |  |

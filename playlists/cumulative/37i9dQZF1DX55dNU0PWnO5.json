@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 248250,
       "name": "Afro Cello - Super Full Moon Rework",
       "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 202632,
       "name": "Cryogen",
       "url": "https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 242506,
       "name": "Galilean Moons",
       "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 204000,
       "name": "Inner Inference",
       "url": "https://open.spotify.com/track/32uvNS0ih528wPtjz4z9JN"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 162000,
       "name": "On the Right Track",
       "url": "https://open.spotify.com/track/6gR5qCiiUszc8ILXzxcpi9"
@@ -4584,6 +4584,28 @@
       "duration_ms": 181840,
       "name": "Skybox",
       "url": "https://open.spotify.com/track/3D1z6wtEXWMtL4sNjE6G34"
+    },
+    {
+      "album": {
+        "name": "Close Distance",
+        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Skybox",
+      "url": "https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp"
     },
     {
       "album": {

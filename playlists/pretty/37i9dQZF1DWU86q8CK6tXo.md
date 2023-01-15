@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists\. Cover: <a href=“spotify:artist:39i5B6umzWzkfMe12JrMwW”>TiaCorine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,497 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,499 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 17 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 18 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 19 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
-| 20 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
-| 21 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 |
-| 22 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
-| 23 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
+| 20 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 |
+| 21 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
+| 22 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
+| 23 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 24 | [it's been a year](https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [it's been a year](https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4) | 3:36 |
 | 25 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
 | 26 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 |
 | 38 | [P.O.S.](https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [P.O.S.](https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm) | 2:00 |
 | 39 | [Ur Loss](https://open.spotify.com/track/3rvnZ6pD9XiYeoTpZYTqNK) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ur Loss](https://open.spotify.com/album/3l5IDzNQrprO11pT86fP5o) | 3:38 |
-| 40 | [Nice To See You](https://open.spotify.com/track/29h1JvmqLYta6weden9cIm) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Nice To See You](https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc) | 5:02 |
-| 41 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
+| 40 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
+| 41 | [Nice To See You](https://open.spotify.com/track/29h1JvmqLYta6weden9cIm) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Nice To See You](https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc) | 5:02 |
 | 42 | [Sand in My Boots \(Female POV\)](https://open.spotify.com/track/3NoY2XJyHcfwYcg5bQc1Xu) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Sand in My Boots \(Female POV\)](https://open.spotify.com/album/4HDBdRqh0NpSR4KG3dsp8V) | 3:14 |
 | 43 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 |
 | 44 | [Secrets](https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/7eHb55jHq7cPgnKquT81xs) | 4:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 50 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 51 | [Waiting](https://open.spotify.com/track/60XKYSAexkc70KPDefZzYs) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Waiting](https://open.spotify.com/album/6bvRJ36iuSYbQD5kYaP64I) | 2:45 |
 
-Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMDk4MjA2OWZiNDBhZjU1N2IzNGY0ZTZkMTAyNTdlOTZi`
+Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMDc2ZGQ1MDA4ZThmZDJjMDM1MTc0OGZmMzY2MWE3M2Yy`

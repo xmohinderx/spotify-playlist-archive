@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-264 songs - 1 day 0 hr 31 min
+265 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Mississippi King](https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J) | 3:34 | 2022-04-28 |  |
 | [Moonage Daydream](https://open.spotify.com/track/1TnTeLb4tKiJPP7SfW6gC5) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/43lCqKCk551gSROS2KyYD8) | 5:01 | 2021-11-30 | 2022-07-29 |
 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 | 2022-04-28 |  |
-| [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 | 2022-03-17 |  |
+| [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 | 2022-03-17 | 2023-01-15 |
 | [My Cosmic Love](https://open.spotify.com/track/4VXKVP6YhEjxKeNyJACEiv) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Vol\. II](https://open.spotify.com/album/79TWEKv6fzjnmfTw5OKVRz) | 4:45 | 2022-02-14 | 2022-04-21 |
 | [My Everything](https://open.spotify.com/track/7fa5wGIhTt9VTOVUID8aqs) | [John Garcia](https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8) | [My Everything](https://open.spotify.com/album/7BhnTcuoW88fqT1ePpvTYe) | 3:36 | 2021-11-30 | 2022-07-19 |
 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 | 2021-11-30 |  |
@@ -198,6 +198,7 @@
 | [Satan](https://open.spotify.com/track/6REn6PCS3uBTAqdSXJwN3R) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Godlike Snake](https://open.spotify.com/album/0pTqPU7QFeAJlua2L1j0jG) | 3:26 | 2022-01-14 | 2022-01-26 |
 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 | 2021-11-30 | 2022-07-29 |
 | [Seer](https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ) | 7:57 | 2022-04-28 | 2023-01-07 |
+| [Seer](https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0) | 7:57 | 2022-10-14 |  |
 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 | 2021-11-30 | 2022-07-19 |
 | [Sister](https://open.spotify.com/track/1j9HGnyyuupBYFpG2UJShL) | [Volga](https://open.spotify.com/artist/1Kb7jk58AZ30wMvGRuYpky) | [Dead Man’s Hand](https://open.spotify.com/album/6UyXn37mCEq5TYFE0hg25F) | 2:17 | 2022-02-14 | 2022-04-18 |
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |

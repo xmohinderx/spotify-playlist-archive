@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 54645,
+  "num_followers": 54644,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzIzMTIwOSwwMDAwMDAwMGFlMWU4MzVmZGZjODI3MDY2NGI2Y2JiNWZkMjJlMTQ5",
+  "snapshot_id": "MTY3MzIzMTIwOSwwMDAwMDAwMDU0OTkyMTNjZDEwNjY1Y2U4NWVkYmEyZjAwMzUyN2Uy",
   "tracks": [
     {
       "added_at": "2023-01-09 02:26:49",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "MAMMAMIA",
-        "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "MAMMAMIA",
-      "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
-    },
-    {
-      "added_at": "2023-01-09 02:26:49",
-      "album": {
         "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
         "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+        "name": "MAMMAMIA",
+        "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
+      "duration_ms": 186809,
+      "name": "MAMMAMIA",
+      "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -591,6 +575,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-01-09 02:26:49",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
-    },
-    {
-      "added_at": "2023-01-09 02:26:49",
-      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
+    },
+    {
+      "added_at": "2023-01-09 02:26:49",
+      "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 231653,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
+      "duration_ms": 198106,
+      "name": "Something to Someone",
+      "url": "https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U"
     },
     {
       "added_at": "2023-01-09 02:26:49",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-01-09 02:26:49",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Something to Someone",
-      "url": "https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U"
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     },
     {
       "added_at": "2023-01-09 02:26:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > "RADAR:Early Noise 2023"今年の10組発表！ Cover: DURDN / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,020 likes - 29 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,045 likes - 29 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

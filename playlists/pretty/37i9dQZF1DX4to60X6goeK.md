@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,709 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,711 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 49 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 |
 | 50 | [3 Dots](https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [3 Dots](https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt) | 4:28 |
 | 51 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 |
-| 52 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 |
-| 53 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
+| 52 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
+| 53 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 |
 | 54 | [Come Alive](https://open.spotify.com/track/2QjcwXdj7h7ftIU4U93For) | [Deadbeat](https://open.spotify.com/artist/7DoljqvX8N0tjx7hC5ni7e), [Joey Illah](https://open.spotify.com/artist/6LqDmI7IuhPRe83EAdHAMV), [MR.O6OO](https://open.spotify.com/artist/6prEQtEIerqPBVuweTn39q) | [Come Alive](https://open.spotify.com/album/2FB5Jq7SWetNUBmr9w47lM) | 4:16 |
 | 55 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 |
 
-Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMGY3ZGY5OGYwZWNlNWZkNDBhMWM3ODg1NmNjZDVhMzlm`
+Snapshot ID: `MTY2MDMyMjA5MSwwMDAwMDAwMDQ0YTU0N2U2MDExMjE2YjcyYmNmN2QwN2I2MmQwMWYz`

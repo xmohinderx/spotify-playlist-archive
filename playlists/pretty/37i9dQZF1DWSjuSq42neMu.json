@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 574028,
+  "num_followers": 574204,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMGE2N2IxOGIwMzlmZDUwZGZhZmViMzBiNzlhYzc5MjM4",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDFkMDhmNDJkNjM0NWJjMmU0ZjMyNTkxNDkyMGQwN2Ni",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -759,8 +759,8 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+        "name": "Velitas",
+        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+      "duration_ms": 225542,
+      "name": "Velitas",
+      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Velitas",
-        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Velitas",
-      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Air Drop",
+        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "Air Drop",
+      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 213959,
       "name": "Dime Cuantas Veces",
       "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Air Drop",
-        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "Air Drop",
-      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 211130,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Me Extra\u00f1a",
-      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Hasta Abajo",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Me Extra\u00f1a",
+      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Sabe",
         "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
       },
@@ -2015,26 +2015,6 @@
       "duration_ms": 177655,
       "name": "Sabe",
       "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 201858,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -2059,6 +2039,46 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Palmas",
+        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Saga WhiteBlack",
+          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
+        }
+      ],
+      "duration_ms": 171089,
+      "name": "Palmas",
+      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "EL TREN",
         "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
       },
@@ -2075,6 +2095,26 @@
       "duration_ms": 215134,
       "name": "EL TREN",
       "url": "https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "OTRO FILI",
+        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "OTRO FILI",
+      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -2111,46 +2151,6 @@
       "duration_ms": 297760,
       "name": "Infiel - Remix",
       "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "OTRO FILI",
-        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "OTRO FILI",
-      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Palmas",
-        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Saga WhiteBlack",
-          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
-        }
-      ],
-      "duration_ms": 171089,
-      "name": "Palmas",
-      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
     }
   ],
   "unique_name": "suave",

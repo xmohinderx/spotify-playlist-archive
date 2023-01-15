@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Gracie Abrams
 
-419 songs - 23 hr 19 min
+420 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2021-12-17 | 2022-10-13 |
 | [Gone Away](https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Gone Away](https://open.spotify.com/album/14R3wGT7xu5FoFRhf5jZyo) | 3:48 | 2022-02-25 | 2022-03-26 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-19 |  |
-| [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-12-16 |  |
+| [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-12-16 | 2023-01-15 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-27 | 2022-10-22 |
 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 | 2021-12-17 |  |
 | [Gradually](https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Gradually](https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV) | 2:35 | 2022-01-28 | 2022-03-22 |
@@ -302,6 +302,7 @@
 | [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 | 2022-06-08 |
 | [Overplayed](https://open.spotify.com/track/650A0ErUKCd1d8Imckr7qV) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Overplayed](https://open.spotify.com/album/7C2ZsCHmkGtHlXb2xCHgWr) | 3:02 | 2021-12-17 | 2022-07-30 |
 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 | 2021-12-24 | 2022-06-25 |
+| [pain's my only home](https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [pain's my only home](https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI) | 3:17 | 2023-01-06 |  |
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-12-17 | 2022-05-20 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 |  |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 |  |

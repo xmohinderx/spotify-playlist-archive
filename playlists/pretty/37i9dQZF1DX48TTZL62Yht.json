@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake, 21 Savage",
-  "num_followers": 427258,
+  "num_followers": 427292,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGQyNmE5OTI2OWYzNGMyNDA2MjQ2MGRhZWYzYzFhMTc4",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDAwNTAzZTM2YzU1MDIzNDM4OTcwNTUwOWExNTBjOTE3",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -743,22 +763,34 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "ONEPOINTFIVE",
+        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 121346,
+      "name": "REEL IT IN",
+      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -783,22 +815,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "ONEPOINTFIVE",
-        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 121346,
-      "name": "REEL IT IN",
-      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "The New Toronto 3",
         "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 132023,
       "name": "Broke In A Minute",
       "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Ramen & OJ",
+        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218447,
+      "name": "Ramen & OJ",
+      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -879,26 +899,6 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Ramen & OJ",
-        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218447,
-      "name": "Ramen & OJ",
-      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -1035,42 +1051,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Coming for You (feat. A1 x J1)",
-        "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        },
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Coming for You (feat. A1 x J1)",
-      "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Coming for You (feat. A1 x J1)",
+        "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        },
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Coming for You (feat. A1 x J1)",
+      "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 180760,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         }
       ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+      "duration_ms": 180760,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "2055",
-        "url": "https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf"
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8"
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+        "name": "2055",
+        "url": "https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1443,6 +1443,22 @@
       "duration_ms": 106000,
       "name": "Bad Man (Smooth Criminal)",
       "url": "https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 196760,
       "name": "Enemies (feat. DaBaby)",
       "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Stop Breathing",
-        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Stop Breathing",
-      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Walk Em Down (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Aston Martin Truck",
-        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Aston Martin Truck",
-      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -1815,6 +1799,42 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Hotel Diablo",
+        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 156719,
+      "name": "Candy (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1843,22 +1863,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Hotel Diablo",
-        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
+        "name": "Come Through (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
         },
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 156719,
-      "name": "Candy (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
+      "duration_ms": 112613,
+      "name": "Come Through (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1887,26 +1907,6 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Come Through (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 112613,
-      "name": "Come Through (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
     },
     {
       "added_at": "2023-01-06 05:00:00",

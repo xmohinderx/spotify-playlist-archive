@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 700326,
+  "num_followers": 700355,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDYzZDhkNjc1OTc0MDI4MWYzOWVkNzI4ODY3OThjMzI4",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDEwMzYyMjAxYzdjZTI2ZTdkYmJjN2JhZGM4M2U3YTUw",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Oh, Mother",
-        "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 247948,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Oh, Mother",
+        "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 247948,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Greenbroke",
         "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
@@ -523,18 +507,34 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
+        "name": "Wrong Side of the River",
+        "url": "https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
         }
       ],
-      "duration_ms": 264173,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
+      "duration_ms": 225400,
+      "name": "Run of Good Luck",
+      "url": "https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -555,18 +555,34 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Wrong Side of the River",
-        "url": "https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB"
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
       },
       "artists": [
         {
-          "name": "Rob Baird",
-          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Run of Good Luck",
-      "url": "https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8"
+      "duration_ms": 264173,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Girl Goin' Nowhere",
+      "url": "https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -591,22 +607,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Girl Going Nowhere",
-        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Girl Goin' Nowhere",
-      "url": "https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Love You To Death",
         "url": "https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 199459,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Johnny Cash: Forever Words Expanded",
         "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 297746,
       "name": "The Captain's Daughter",
       "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Carry on, San Vicente",
-        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Nothing Like You",
-      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Carry on, San Vicente",
+        "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Nothing Like You",
+      "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 247693,
       "name": "Where the Heart Is",
       "url": "https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Moments that mattered",
-        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
       "artists": [
         {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 223776,
-      "name": "what do i",
-      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+        "name": "Moments that mattered",
+        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
+      "duration_ms": 223776,
+      "name": "what do i",
+      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "This Town Still Talks About You",
-      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 140493,
       "name": "Pretty Hands",
       "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "This Town Still Talks About You",
+      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
       "added_at": "2022-10-12 19:05:09",

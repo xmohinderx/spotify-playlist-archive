@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-148 songs - 6 hr 7 min
+149 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 | 2020-11-12 | 2022-07-29 |
 | [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 | 2020-11-12 | 2022-08-08 |
 | [Suave](https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Suave](https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4) | 1:20 | 2020-11-12 | 2022-07-29 |
-| [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 | 2022-07-22 |  |
+| [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 | 2022-07-22 | 2023-01-15 |
 | [Sun Will Rise](https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV), [Chinsaku](https://open.spotify.com/artist/0Y4zXpYaV5L4zDiUhmlV0i) | [Sun Will Rise](https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav) | 2:09 | 2020-11-12 |  |
 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 | 2022-04-08 |  |
 | [Sunny in Saint Lucia](https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Sunny in Saint Lucia](https://open.spotify.com/album/7yZLICBnXiNzpohnqGlLpT) | 3:06 | 2022-09-23 |  |
@@ -144,6 +144,7 @@
 | [Swoon](https://open.spotify.com/track/6Yh6PrTPR2v8HROOGI6rOQ) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/0PEzkrtTs1umvdGSEPFcHd) | 3:35 | 2020-11-12 | 2022-07-29 |
 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 | 2020-11-12 |  |
 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 | 2020-11-12 |  |
+| [The Soul of Things](https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session, Vol\. II](https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE) | 2:30 | 2022-05-20 |  |
 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 | 2022-05-20 | 2022-11-20 |
 | [thinking of you](https://open.spotify.com/track/1oSevjov1EOdo8TYcrb5nQ) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Inaudible](https://open.spotify.com/album/3qJLsN4fua8Ggh5mugCXb6) | 2:11 | 2020-11-12 |  |
 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 | 2021-10-22 |  |

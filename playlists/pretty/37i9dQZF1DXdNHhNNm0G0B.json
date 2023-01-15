@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 67965,
+  "num_followers": 67992,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDRkNDEwMjYyMDlhZWJiYzkyYTM0OTczMWEwNzNkMjAx",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMGNkMzk3OGVlMDMyYWIzOTkzM2Y2YjA3MWRjZTk1OGQ1",
   "tracks": [
     {
       "added_at": "2023-01-06 17:11:17",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 96840,
-      "name": "Mesquite Shade",
-      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Nothing We Say - EP",
         "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 133026,
       "name": "Cumberland Gap",
       "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 96840,
+      "name": "Mesquite Shade",
+      "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Axis Mundi",
         "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 171480,
       "name": "Shadrach",
       "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
         }
       ],
-      "duration_ms": 525080,
-      "name": "Ain't Nobody High Raga",
-      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+      "duration_ms": 188373,
+      "name": "Let Your Light Shine on Me",
+      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
       "artists": [
         {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Let Your Light Shine on Me",
-      "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
+      "duration_ms": 525080,
+      "name": "Ain't Nobody High Raga",
+      "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -503,38 +503,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
-        "name": "Presenting Blind Willie McTell",
-        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 152853,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "The Cause of It All",
         "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
       },
@@ -551,34 +519,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -599,18 +551,66 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
       "artists": [
         {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Presenting Blind Willie McTell",
+        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
+      },
+      "artists": [
+        {
+          "name": "DBH",
+          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+        }
+      ],
+      "duration_ms": 154924,
+      "name": "New Anthem",
+      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
+        "name": "In the Morning Twilight",
+        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
       },
       "artists": [
         {
-          "name": "DBH",
-          "url": "https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF"
+          "name": "Steffen Basho-Junghans",
+          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
         }
       ],
-      "duration_ms": 154924,
-      "name": "New Anthem",
-      "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+      "duration_ms": 384000,
+      "name": "In the Morning Twilight",
+      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Fate Is Only Twice",
-        "url": "https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC"
-      },
-      "artists": [
-        {
-          "name": "Harry Taussig",
-          "url": "https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh"
-        }
-      ],
-      "duration_ms": 287493,
-      "name": "Rondo in D - On Southern Themes",
-      "url": "https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Blowin' The Fuses",
         "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Bootleg USA",
-        "url": "https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ"
+        "name": "Fate Is Only Twice",
+        "url": "https://open.spotify.com/album/6W8PmtEtz4GbBFBksE0xQC"
       },
       "artists": [
         {
-          "name": "Martin Simpson",
-          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
+          "name": "Harry Taussig",
+          "url": "https://open.spotify.com/artist/2vbPZ0xMZiXxUkR744bcoh"
         }
       ],
-      "duration_ms": 339320,
-      "name": "Plains of Waterloo / James Connolly",
-      "url": "https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg"
+      "duration_ms": 287493,
+      "name": "Rondo in D - On Southern Themes",
+      "url": "https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Hooray For Another Day",
-        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+        "name": "Bootleg USA",
+        "url": "https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ"
       },
       "artists": [
         {
-          "name": "Max Ochs",
-          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+          "name": "Martin Simpson",
+          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
         }
       ],
-      "duration_ms": 264880,
-      "name": "Imaginational Anthem",
-      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+      "duration_ms": 339320,
+      "name": "Plains of Waterloo / James Connolly",
+      "url": "https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -887,6 +871,22 @@
       "duration_ms": 202933,
       "name": "Sunflower Blues",
       "url": "https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Hooray For Another Day",
+        "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
+      },
+      "artists": [
+        {
+          "name": "Max Ochs",
+          "url": "https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Imaginational Anthem",
+      "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "The Blues Never End",
-        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
-      },
-      "artists": [
-        {
-          "name": "Elly Wininger",
-          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Right Kind of Trouble",
-      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 232426,
       "name": "When You Got a Good Friend",
       "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+      },
+      "artists": [
+        {
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Right Kind of Trouble",
+      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 316048,
-      "name": "Dodge City",
-      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
+      "duration_ms": 134960,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "The Country Blues Of John Lee Hooker",
-        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 134960,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
+      "duration_ms": 316048,
+      "name": "Dodge City",
+      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     },
     {
       "added_at": "2023-01-06 17:11:17",

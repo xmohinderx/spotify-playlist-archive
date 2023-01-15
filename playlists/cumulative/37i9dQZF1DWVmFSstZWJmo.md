@@ -4,7 +4,7 @@
 
 > Digital cameras, smudged eyeliner, house parties and electroclash.
 
-83 songs - 5 hr 22 min
+84 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 | 2022-11-10 |  |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-11-10 |  |
 | [Apply Some Pressure](https://open.spotify.com/track/19503qDaxgCdPL2BhJngij) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4) | 3:20 | 2022-11-10 |  |
-| [Beam Me Up](https://open.spotify.com/track/75SS50WWBZINsZgccsSnGs) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le) | [Walking the Midnight Streets](https://open.spotify.com/album/5J1CfzLqoqhxlEzDjqsBdv) | 5:22 | 2022-11-10 |  |
+| [Beam Me Up](https://open.spotify.com/track/75SS50WWBZINsZgccsSnGs) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le) | [Walking the Midnight Streets](https://open.spotify.com/album/5J1CfzLqoqhxlEzDjqsBdv) | 5:22 | 2022-11-10 | 2023-01-15 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-11-10 |  |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2023-01-11 |  |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2022-11-10 |  |
@@ -62,6 +62,7 @@
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2022-11-10 |  |
 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 | 2022-11-10 |  |
 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 | 2022-11-17 |  |
+| [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-15 |  |
 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2022-11-10 |  |
 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 | 2022-11-10 |  |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-11-10 |  |

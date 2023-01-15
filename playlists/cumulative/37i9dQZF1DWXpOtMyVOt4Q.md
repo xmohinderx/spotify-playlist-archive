@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-163 songs - 10 hr 58 min
+165 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 | 2022-08-31 |  |
 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 | 2019-12-16 |  |
 | [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 | 2022-07-29 |
-| [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 | 2022-09-29 |  |
+| [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 | 2022-09-29 | 2023-01-15 |
 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 | 2022-08-31 |  |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 | 2022-07-29 |
 | [Aminals](https://open.spotify.com/track/17RkpFRsRKCNSX7WfxX2qi) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:18 | 2019-12-16 | 2022-09-01 |
@@ -41,6 +41,7 @@
 | [Clarity](https://open.spotify.com/track/3sXg02TJKMIqftRD82EnS7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Clarity](https://open.spotify.com/album/3zAjBfnsAyNM3bjA54Cqv7) | 6:23 | 2019-12-16 | 2022-07-29 |
 | [Clarity](https://open.spotify.com/track/60BazlRdjGGDmeRXduUYRE) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Everything and Nothing](https://open.spotify.com/album/1YVRY55UKxKz9HSsgHL47y) | 6:23 | 2019-12-16 | 2022-09-01 |
 | [continue](https://open.spotify.com/track/04P7QSHfeD2aDmZYSVt4wG) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/6Brbcuo8MpJIuC0IADK5NM) | 1:36 | 2022-09-02 | 2022-11-20 |
+| [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 | 2022-11-22 |  |
 | [Counter Attack Mankind](https://open.spotify.com/track/238xYmosbRii3JrPUFIUtF) | [Feora](https://open.spotify.com/artist/1CrlOWdMRMmEkDbivpWVxn) | [Counter Attack Mankind](https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE) | 2:19 | 2022-08-31 |  |
 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 | 2022-08-31 |  |
 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 | 2019-12-16 | 2022-09-01 |
@@ -92,6 +93,7 @@
 | [Melanine](https://open.spotify.com/track/18rXOovmohAMcFwUPAUAN2) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 2:53 | 2019-12-16 | 2022-07-29 |
 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 | 2019-12-16 |  |
 | [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 | 2022-11-20 |
+| [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 | 2022-11-22 |  |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2022-08-31 | 2022-09-03 |
 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 | 2022-08-31 |  |
@@ -155,7 +157,7 @@
 | [The Whispering Caves](https://open.spotify.com/track/1B4WPZiuAPgE1fCluJQsS6) | [Those Who Ride With Giants](https://open.spotify.com/artist/0pKhuVfVRd073xGqEdJlUP) | [Those Who Ride With Giants \(Deluxe\)](https://open.spotify.com/album/029nbN6OhmnaF0s6BgOU8u) | 5:59 | 2019-12-16 | 2022-09-01 |
 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 | 2022-08-31 |  |
 | [Third](https://open.spotify.com/track/3BmtVxAg1jr2sw4WaPHdoz) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Third EP](https://open.spotify.com/album/7uZjhHZv5OKWRj2ar3Y84u) | 4:46 | 2019-12-16 | 2022-09-01 |
-| [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 | 2022-09-02 |  |
+| [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 | 2022-09-02 | 2023-01-15 |
 | [Truth \(Helios Remix\)](https://open.spotify.com/track/4lwGyv3tbahmN1Z25wdCxa) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO) | 3:45 | 2019-12-16 | 2022-07-29 |
 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 | 2019-12-16 | 2022-11-19 |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-09-01 | 2022-09-21 |

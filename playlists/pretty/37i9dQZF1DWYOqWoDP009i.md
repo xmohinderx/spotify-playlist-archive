@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,192 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,225 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 30 | [One Nation Under a Groove \- Album Version \- 2015 Remaster](https://open.spotify.com/track/06Y1ZlTO8tO0vVrN4rSfNc) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [One Nation Under a Groove \- 2015 Remastered Edition](https://open.spotify.com/album/1ymHE8ItOGthDlfQmqVKEQ) | 7:29 |
 | 31 | [Memory of Our Love](https://open.spotify.com/track/0oCUs1tUJZTs7FwUbjt4eA) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 2:55 |
 | 32 | [Got To Get Your Own '98](https://open.spotify.com/track/4ThcPJ0EEBPc8mtKpE8CEZ) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Organ Donor](https://open.spotify.com/album/2bf4MaEpD9JNKHA2gKKC7n) | 6:40 |
-| 33 | [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 |
+| 33 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
 | 34 | [Leaving This Planet \- Vocal](https://open.spotify.com/track/7vIbIKgzLWThjh8fKZKWc2) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi), [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em), [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Leaving This Planet](https://open.spotify.com/album/4z3XljyOyVeBiFEQbix0ev) | 7:29 |
 | 35 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 |
 | 36 | [Shifting Gears](https://open.spotify.com/track/03jYH3Pr8K0z2oNwfMA2DC) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY3MTIwMjk0NCwwMDAwMDAwMDhhMTk1ZDdmNzI0MGEwYmM1NGIyN2JlZmM1MWU4ZjJk`
+Snapshot ID: `MTY3MTIwMjk0NCwwMDAwMDAwMDg3ODFhZTc2NjcxNTU0NzYwOTgxMzUxZTQ0ZjhiY2M1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Gangsta Boo
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,270 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,322 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 19 | [Bomb Intro / Pass That Dutch](https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:37 |
 | 20 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 21 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
-| 22 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
+| 22 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
 | 23 | [Here We Go \(feat\. Kelly Rowland\)](https://open.spotify.com/track/6b3CWHNAKiJRqmgz6ZcWaB) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:50 |
 | 24 | [Final Hour](https://open.spotify.com/track/7nY3NA1AvORewLU3BU7GNX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:16 |
 | 25 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 26 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 27 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 28 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 29 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 |
+| 29 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 30 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
 | 31 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 |
 | 32 | [Feels So Good](https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
 | 50 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 
-Snapshot ID: `MTY3MzAzOTM4NSwwMDAwMDAwMDFkNGRjYzdiNWIxNTg4YzIxN2I3MTlkMGNkNTIyZTgz`
+Snapshot ID: `MTY3MzAzOTM4NSwwMDAwMDAwMDBjZWU3ZTc1ZjA0NTkyZDYzZDUwNmQ2YWI0ZmY2MDBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,351 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,400 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 4 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 5 | [SexyBack \(feat\. Timbaland\)](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:02 |
 | 6 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
-| 7 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
-| 8 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 |
+| 7 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 |
+| 8 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 9 | [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 |
 | 10 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
 | 11 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 39 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 40 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
 | 41 | [Feels So Real \(Won't Let Go\) \- 12" Version](https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 6:49 |
-| 42 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
-| 43 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
+| 42 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
+| 43 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 44 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 45 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
 | 46 | [Man on the Corner \- 2007 Remaster](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 49 | [Chimes](https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Chimes](https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn) | 3:31 |
 | 50 | [I'm Not the One](https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 4:14 |
 
-Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMGYxZmQ5NGU3YWQ2Mjg2NzBlNTQ4YWI5ZjcwZjU0MWRk`
+Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMDZmNzkxZDVkYTY5MGM2YjIyNjBiMTdmNmMzYzA2MmQ5`

@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Feid & DJ Premier",
-  "num_followers": 695696,
+  "num_followers": 695695,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDYxMSwwMDAwMDAwMGQ4Yjg0MGIzYzE5YTVmODVjY2E5MmQ4ZTAzYjliN2Jl",
+  "snapshot_id": "MTY3MzI0NDYxMSwwMDAwMDAwMGM4Y2FmZjY5OWYyZTgxZDk2MDliYjVjYzdkMjgwM2M0",
   "tracks": [
     {
       "added_at": "2022-12-12 22:02:13",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
         "name": "BeSos aL vIEnTo :(",
         "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
@@ -407,22 +427,6 @@
       "duration_ms": 184800,
       "name": "BeSos aL vIEnTo :(",
       "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
-        "name": "3 y Pico",
-        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 190068,
-      "name": "3 y Pico",
-      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -463,22 +467,18 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
-        "name": "Serendipia",
-        "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
-      },
-      "artists": [
-        {
-          "name": "El Larra",
-          "url": "https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx"
-        },
-        {
-          "name": "icekream",
-          "url": "https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "New Name (Mamacita!)",
-      "url": "https://open.spotify.com/track/5uogBxa27boBVk8Q9bySzR"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
         "name": "Ojos Negros",
         "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 265280,
       "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
       "url": "https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ"
+      },
+      "artists": [
+        {
+          "name": "El Larra",
+          "url": "https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx"
+        },
+        {
+          "name": "icekream",
+          "url": "https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "New Name (Mamacita!)",
+      "url": "https://open.spotify.com/track/5uogBxa27boBVk8Q9bySzR"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -899,42 +899,6 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
-        "name": "NINF\u00d3MANA",
-        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Dalyan",
-          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "NINF\u00d3MANA",
-      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "noches largas, faldas cortas",
-      "url": "https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
       },
@@ -959,6 +923,42 @@
       "duration_ms": 204827,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "noches largas, faldas cortas",
+      "url": "https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
+        "name": "NINF\u00d3MANA",
+        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Dalyan",
+          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "NINF\u00d3MANA",
+      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
         "name": "XLEY",
         "url": "https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 194000,
       "name": "XLEY",
       "url": "https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
+        "name": "Cheers to the Best Memories",
+        "url": "https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
         "name": "i hope you're very unhappy without me",
         "url": "https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 182053,
       "name": "Para Verte",
       "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
-        "name": "Cheers to the Best Memories",
-        "url": "https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "12AM",
+      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 227320,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "12AM",
-      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
     },
     {
       "added_at": "2022-12-12 22:02:13",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2022-12-12 22:02:13",
       "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-12-12 22:02:13",
+      "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/0zcLHwrA7kV75InWNx0pS9"
       },
@@ -1471,22 +1491,6 @@
       "duration_ms": 209821,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj"
-    },
-    {
-      "added_at": "2022-12-12 22:02:13",
-      "album": {
-        "name": "Foreplay",
-        "url": "https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA"
     }
   ],
   "unique_name": "Vibras",

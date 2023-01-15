@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-196 songs - 11 hr 20 min
+197 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cursed II](https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG) | [Chachi](https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S) | [Cursed](https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri) | 4:23 | 2022-05-30 | 2022-11-13 |
 | [Cut Me Loose \(feat\. SKAAR\) \- Acoustic](https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:15 | 2022-05-30 | 2022-11-28 |
 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/4W69KDBgfp43KZnUR10m1Z) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\) \[Acoustic Version\]](https://open.spotify.com/album/2jpS3BqlA8cHiOuCBy9wmT) | 3:37 | 2022-05-30 | 2022-07-29 |
-| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 |  |
+| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 | 2023-01-15 |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-06-24 |  |
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-05-30 | 2022-07-29 |
 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 | 2022-05-30 |  |
@@ -181,6 +181,7 @@
 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 | 2022-06-24 |  |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-09-09 |  |
 | [Time Has Told Me](https://open.spotify.com/track/1NM7DXBpH9LiybTJdGfNYD) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Rivers and Vessels](https://open.spotify.com/album/1AvkJdrOz24uu9i9xQTCNx) | 3:50 | 2022-06-24 | 2022-07-21 |
+| [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 | 2023-01-06 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p) | 3:40 | 2022-05-30 |  |
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2022-05-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2022-05-30 |  |

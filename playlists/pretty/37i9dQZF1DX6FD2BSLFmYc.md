@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,494 likes - 76 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,506 likes - 76 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

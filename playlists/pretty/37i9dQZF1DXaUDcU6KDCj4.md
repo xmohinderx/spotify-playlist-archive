@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Wilder Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,675 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,691 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

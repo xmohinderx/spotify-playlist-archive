@@ -1,15 +1,15 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 218638,
+  "num_followers": 218670,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDliNWE5M2UwODYyYTA0MjM5NThkZDRiMTUwMTYzMmY5",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDc1NGUxZDJiOTY1MDNlOGE1OWE5YmZiNGFlNjE2N2Vk",
   "tracks": [
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Life After Death",
         "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "LION: Live From The Loft",
         "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
@@ -67,22 +83,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B"
       },
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Baptized Imagination",
         "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
@@ -111,6 +111,22 @@
       "duration_ms": 190733,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "The Love Of Jesus",
+        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "The Love Of Jesus",
+      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -149,23 +165,7 @@
       "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
     },
     {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "The Love Of Jesus",
-        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "The Love Of Jesus",
-      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Still Mighty",
         "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
@@ -229,23 +229,7 @@
       "url": "https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ"
     },
     {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
@@ -263,6 +247,22 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Brother Jack",
         "url": "https://open.spotify.com/album/5prLglkfDSZNCswJ2xzbqn"
@@ -403,22 +403,6 @@
       "duration_ms": 188253,
       "name": "Brother Jack",
       "url": "https://open.spotify.com/track/7cbBje7fa1gj3IpOLcwCMt"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "NEW HOLLYWOOD",
-        "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 247539,
-      "name": "HUMAN",
-      "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -435,6 +419,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "NEW HOLLYWOOD",
+        "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 247539,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Keep Your Head Up (Radio Version)",
-        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
-      },
-      "artists": [
-        {
-          "name": "Fireflight",
-          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
-        }
-      ],
-      "duration_ms": 215603,
-      "name": "Keep Your Head Up - Radio Version",
-      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+        "name": "Keep Your Head Up (Radio Version)",
+        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
       "artists": [
         {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+          "name": "Fireflight",
+          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
+      "duration_ms": 215603,
+      "name": "Keep Your Head Up - Radio Version",
+      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -647,6 +631,22 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "Mountains",
         "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
       },
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Not So Sure",
         "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
@@ -723,6 +723,22 @@
       "duration_ms": 210586,
       "name": "Not So Sure",
       "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
+      },
+      "artists": [
+        {
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+        }
+      ],
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -761,20 +777,52 @@
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -799,54 +847,6 @@
       "duration_ms": 100240,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -955,30 +955,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
-      },
-      "artists": [
-        {
-          "name": "Our Future Glory",
-          "url": "https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "The Found",
-          "url": "https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u"
-        }
-      ],
-      "duration_ms": 222108,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "No Greater Love",
         "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
       },
@@ -991,6 +967,22 @@
       "duration_ms": 199306,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1015,6 +1007,30 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
+      },
+      "artists": [
+        {
+          "name": "Our Future Glory",
+          "url": "https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "The Found",
+          "url": "https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u"
+        }
+      ],
+      "duration_ms": 222108,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "We Won't Bow",
         "url": "https://open.spotify.com/album/536bwdqrKaKDLKH0LZgSfE"
       },
@@ -1029,39 +1045,7 @@
       "url": "https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5"
     },
     {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 154769,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
@@ -1077,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
@@ -1091,6 +1075,22 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 154769,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "whisper",
         "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
@@ -1157,6 +1157,38 @@
       "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Move of Heaven",
+        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
+    },
+    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
         "name": "Treehouse",
@@ -1173,39 +1205,7 @@
       "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Move of Heaven",
-        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "I'm Alive",
         "url": "https://open.spotify.com/album/67yFf6I36cedx6RhT17l6J"
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "Fall On The Nation",
         "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
       },
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "My Heart Alone",
         "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Get A Life",
-        "url": "https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ"
-      },
-      "artists": [
-        {
-          "name": "Brady James",
-          "url": "https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe"
-        }
-      ],
-      "duration_ms": 110413,
-      "name": "Get A Life",
-      "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 228333,
       "name": "Crisis Of Faith",
       "url": "https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Get A Life",
+        "url": "https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ"
+      },
+      "artists": [
+        {
+          "name": "Brady James",
+          "url": "https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe"
+        }
+      ],
+      "duration_ms": 110413,
+      "name": "Get A Life",
+      "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "interrobang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2WUV0q5eiPIUrodm5t6EMP"
@@ -1391,38 +1391,6 @@
       "duration_ms": 232680,
       "name": "wolves - sir sly remix",
       "url": "https://open.spotify.com/track/1spKgegxm3UdFer2QiwmaS"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "War Going On",
-        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
-      },
-      "artists": [
-        {
-          "name": "Port Duo",
-          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "War Going On",
-      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1459,6 +1427,22 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "War Going On",
+        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+      },
+      "artists": [
+        {
+          "name": "Port Duo",
+          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "War Going On",
+      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1477,6 +1461,22 @@
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
     },
     {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
         "name": "Break Out (Live)",
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
+      "added_at": "2023-01-15 01:00:35",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
@@ -1511,6 +1511,38 @@
       "duration_ms": 192086,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Give My All",
+        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 199005,
+      "name": "Give My All",
+      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1535,38 +1567,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Give My All",
-        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 199005,
-      "name": "Give My All",
-      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 228000,
       "name": "Father",
       "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1627,6 +1611,70 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        }
+      ],
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Carlo Rossi (Love in the Face of Great Danger)",
+        "url": "https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 270683,
+      "name": "Carlo Rossi (Love in the Face of Great Danger)",
+      "url": "https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB"
+    },
+    {
+      "added_at": "2023-01-15 01:00:35",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6"
+      },
+      "artists": [
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "Somebody You Knew",
         "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
       },
@@ -1645,22 +1693,6 @@
       "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Carlo Rossi (Love in the Face of Great Danger)",
-        "url": "https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 270683,
-      "name": "Carlo Rossi (Love in the Face of Great Danger)",
-      "url": "https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB"
-    },
-    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
         "name": "DANGEROUS",
@@ -1677,52 +1709,20 @@
       "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
     },
     {
-      "added_at": "2023-01-14 18:54:51",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6"
-      },
-      "artists": [
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
-    },
-    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Against the Wall",
-        "url": "https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q"
+        "name": "Like an Ocean",
+        "url": "https://open.spotify.com/album/41ZSyVvCGIRsI6SBVpyXFh"
       },
       "artists": [
         {
-          "name": "Collington",
-          "url": "https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS"
+          "name": "Nathan Hornsby",
+          "url": "https://open.spotify.com/artist/15S3MpPnvWhxLvBj8V1pdY"
         }
       ],
-      "duration_ms": 205625,
-      "name": "Against the Wall",
-      "url": "https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "limbo",
-        "url": "https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf"
-      },
-      "artists": [
-        {
-          "name": "Mas",
-          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
-        }
-      ],
-      "duration_ms": 275626,
-      "name": "limbo",
-      "url": "https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7"
+      "duration_ms": 233772,
+      "name": "Like an Ocean",
+      "url": "https://open.spotify.com/track/00dHvozlMxyyXcGoQvMBgB"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

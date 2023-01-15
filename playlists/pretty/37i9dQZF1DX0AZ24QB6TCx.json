@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 280899,
+  "num_followers": 280941,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxMzEzNywwMDAwMDAwMDRlZTljMTJjYTNhMmNkNTI5N2RhY2UxMWM4ZDRlOTIw",
+  "snapshot_id": "MTY3MzYxMzEzNywwMDAwMDAwMDZlYTlkZmZiMjlhMDc0OWM2OGQ4NGI3ZmY0NTNiNTk2",
   "tracks": [
     {
       "added_at": "2023-01-13 12:32:17",
@@ -119,22 +119,26 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+        "name": "Tell Me (feat. Hero Baldwin)",
+        "url": "https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
         }
       ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+      "duration_ms": 203522,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -163,26 +167,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Tell Me (feat. Hero Baldwin)",
-        "url": "https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque"
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         },
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 203522,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Sunrays",
-        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Sunrays",
-      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Sunrays",
+        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Sunrays",
+      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Ronda",
         "url": "https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 346586,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -395,22 +411,6 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Fade Into Black",
-        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Fade Into Black",
-      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -499,22 +479,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
       },
       "artists": [
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 301933,
-      "name": "better",
-      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -551,6 +531,26 @@
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "High On Beat",
-        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
         }
       ],
-      "duration_ms": 206223,
-      "name": "High On Beat",
-      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
+      "duration_ms": 223906,
+      "name": "In The Morning - Edit",
+      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
+        "name": "High On Beat",
+        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
         }
       ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
+      "duration_ms": 206223,
+      "name": "High On Beat",
+      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Fj\u00e4ll",
         "url": "https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1"
       },
@@ -815,18 +831,34 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+        "name": "Graf Zahl",
+        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
       },
       "artists": [
         {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+      "duration_ms": 332869,
+      "name": "Graf Zahl",
+      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "King Curtis",
+        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 226848,
+      "name": "King Curtis - Edit",
+      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -843,22 +875,6 @@
       "duration_ms": 356000,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Graf Zahl",
-        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 332869,
-      "name": "Graf Zahl",
-      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "King Curtis",
-        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "King Curtis - Edit",
-      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Now Is",
         "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
-      },
-      "artists": [
-        {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
-        }
-      ],
-      "duration_ms": 467086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Eolian",
         "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
+      },
+      "artists": [
+        {
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+        }
+      ],
+      "duration_ms": 467086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1031,6 +1031,22 @@
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Bosquemar",
+        "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1099,22 +1115,6 @@
       "duration_ms": 271979,
       "name": "Looking In The Sky - Radio Edit",
       "url": "https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Bosquemar",
-        "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "False Gods EP (Short Edits)",
+        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
+      },
+      "artists": [
+        {
+          "name": "Alegant",
+          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Get Down - Short Edit",
+      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -1259,46 +1279,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
+        "name": "Sky Is the Limit",
+        "url": "https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "Westbam/ML",
+          "url": "https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE"
         },
         {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "The Beloved",
+          "url": "https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg"
         }
       ],
-      "duration_ms": 224467,
-      "name": "Need To Feel Loved - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "False Gods EP (Short Edits)",
-        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
-      },
-      "artists": [
-        {
-          "name": "Alegant",
-          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "Get Down - Short Edit",
-      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
+      "duration_ms": 223873,
+      "name": "Sky Is the Limit - Edit",
+      "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
     }
   ],
   "unique_name": "Afterhours",

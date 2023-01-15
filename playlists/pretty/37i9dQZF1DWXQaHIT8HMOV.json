@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1179,
+  "num_followers": 1178,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzE0MCwwMDAwMDAwMDY4NmI1OWVjNjdkN2I0ZTg3YTkxNDcyNGQyNTFiYTQz",
+  "snapshot_id": "MTY3MzU1NzE0MCwwMDAwMDAwMDUxNjc1M2FjNTNiNTNjNmExNzBhZDIwNmViZjY0MGMy",
   "tracks": [
     {
       "added_at": "2023-01-12 20:59:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
+      "added_at": "2022-11-25 11:54:44",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
       "added_at": "2022-12-02 05:04:10",
       "album": {
         "name": "Love Marijuana",
@@ -181,22 +197,6 @@
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
-      "added_at": "2022-11-25 11:54:44",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Part2 (Dinner in Maui)",
@@ -215,26 +215,6 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -259,18 +239,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -295,22 +279,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Kiki Kyogamba",
@@ -429,6 +413,22 @@
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
     },
     {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Bbuba",
@@ -443,38 +443,6 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -497,20 +465,20 @@
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
     },
     {
-      "added_at": "2022-12-16 11:22:34",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -527,6 +495,54 @@
       "duration_ms": 135965,
       "name": "4 U",
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
+    },
+    {
+      "added_at": "2022-12-16 11:22:34",
+      "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -549,40 +565,20 @@
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-12-09 12:00:13",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Chuksie",
+          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Love Hearted",
-        "url": "https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk"
-      },
-      "artists": [
-        {
-          "name": "Bright Sun UG",
-          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
-        },
-        {
-          "name": "Green Daddy",
-          "url": "https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
+      "duration_ms": 170250,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -609,20 +605,24 @@
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1lHtZjjRSOLUKtmCSgJtwl"
+        "name": "Love Hearted",
+        "url": "https://open.spotify.com/album/0XfC7XOfj7bUQzWhKiFBvk"
       },
       "artists": [
         {
-          "name": "Chuksie",
-          "url": "https://open.spotify.com/artist/323SE5PFfnWu57IFUofLi9"
+          "name": "Bright Sun UG",
+          "url": "https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr"
+        },
+        {
+          "name": "Green Daddy",
+          "url": "https://open.spotify.com/artist/77C4sGNZqav9HQNGNCTXdm"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4tzCs4k7soTCL1HWZvGBhN"
+      "duration_ms": 190515,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
     },
     {
       "added_at": "2022-11-25 11:45:40",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Kwetega",
-        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
       },
       "artists": [
         {
-          "name": "Ruyonga",
-          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Kwetega",
-      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -725,20 +725,20 @@
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+        "name": "Kwetega",
+        "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Ruyonga",
+          "url": "https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z"
         }
       ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+      "duration_ms": 216960,
+      "name": "Kwetega",
+      "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
     },
     {
       "added_at": "2022-09-30 11:18:57",

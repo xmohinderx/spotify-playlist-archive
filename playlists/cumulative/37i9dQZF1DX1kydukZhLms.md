@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads\. Cover: Guns N' Roses
 
-273 songs - 23 hr 18 min
+274 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 | 2022-04-15 |  |
 | [Forever](https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 | 2022-04-15 |  |
-| [Forever & One](https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Treasure Chest \(Bonus Track Edition\)](https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii) | 3:53 | 2022-04-15 |  |
+| [Forever & One](https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Treasure Chest \(Bonus Track Edition\)](https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii) | 3:53 | 2022-04-15 | 2023-01-15 |
 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 | 2022-04-15 | 2022-07-29 |
 | [Ghost of Freedom](https://open.spotify.com/track/2DUz22ncVE4Vw44sn3lvJa) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Horror Show](https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK) | 5:11 | 2022-04-15 | 2022-07-09 |
 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2022-04-15 | 2022-11-14 |
@@ -110,6 +110,7 @@
 | [I Died For You](https://open.spotify.com/track/4A05kx59z5t6wcX4QXEcCx) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Dark Saga](https://open.spotify.com/album/0o0y3WO98mcRODpng4VcXN) | 3:47 | 2022-04-15 | 2022-07-29 |
 | [I Don't Care](https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gonthier](https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:57 | 2022-04-15 |  |
 | [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-04-15 | 2022-09-17 |
+| [I Don't Wanna To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2023-01-03 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 | 2022-04-15 | 2022-07-29 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-04-15 | 2023-01-13 |
 | [I Never Cry](https://open.spotify.com/track/7y5mfSJLUmPYmrI5hcCWnT) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Alice Cooper Goes to Hell](https://open.spotify.com/album/040ZtZ1HRgoHRruJtI4IAh) | 3:44 | 2022-04-15 | 2022-11-13 |

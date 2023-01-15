@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 120609,
+  "num_followers": 120636,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDU3Y2JlMTliMWMwOTlhZGYzYThmMTJlYTg3NWM5ZmY2",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDY3YTAwYTVlOWE4NmUzNjcwMWVhYzc3NTFmMDcwMGU2",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -443,6 +443,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Blues Burnin' In My Soul",
+        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laws",
+          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 345666,
       "name": "Lonesome Bedroom Blues",
       "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blues Burnin' In My Soul",
-        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laws",
-          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
       "added_at": "2018-02-27 18:08:29",

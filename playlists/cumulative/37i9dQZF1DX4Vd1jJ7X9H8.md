@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-376 songs - 22 hr 18 min
+377 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2021-11-12 | 2022-07-29 |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2022-07-22 | 2022-08-12 |
 | [Can't Feel My Face](https://open.spotify.com/track/64bYIchESwtANfBlwJoK1e) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/36yJ6fcaSCVsK1tybnNizj) | 3:33 | 2020-12-31 | 2022-04-14 |
-| [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 | 2022-09-26 |  |
+| [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 | 2022-09-26 | 2023-01-15 |
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-05-31 | 2022-10-14 |
 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 | 2022-05-31 |  |
 | [Charmander](https://open.spotify.com/track/4Aocy7YAyOYf5YHj18Vfj3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:11 | 2021-11-12 | 2022-08-12 |
@@ -124,6 +124,7 @@
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2020-12-31 | 2022-04-20 |
 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 3:27 | 2022-08-11 |  |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2021-04-02 |  |
+| [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP) | 5:10 | 2023-01-12 |  |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2022-09-26 | 2022-11-20 |
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-11-12 | 2022-07-28 |
 | [Fineshrine](https://open.spotify.com/track/5KeyVNymqfqac1wLDseK8v) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7ppypgQppMf3mkRbZxYIFM) | 3:29 | 2021-11-12 | 2022-04-19 |

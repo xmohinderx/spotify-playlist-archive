@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: J Balvin & Bad Bunny",
-  "num_followers": 496243,
+  "num_followers": 496353,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMDQ5ZGQ5ZTMwZDBlN2Y0NmE1OTkwNzc0M2FjZTZmMWM2",
+  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMDFkNmVlOWM3NDRmOTI2MmFkNzgzOWM1NDg3NjcyYTY2",
   "tracks": [
     {
       "added_at": "2022-08-17 15:04:55",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -595,22 +615,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Borro Cassette",
-      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -627,22 +631,18 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
       "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
         {
           "name": "Maluma",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 207306,
+      "name": "Borro Cassette",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -799,74 +783,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 220116,
-      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
-      "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "China",
-      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -907,6 +823,110 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 220116,
+      "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+      "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "China",
+      "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -971,22 +971,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Yo x Ti, Tu x Mi",
-        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Yo x Ti, Tu x Mi",
-      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230000,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "DUMMY BOY",
         "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 217822,
       "name": "BEBE",
       "url": "https://open.spotify.com/track/3eqOaTqnyb0GEgv6JInG6W"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Si Supieras",
-        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "DI LETRA",
         "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1847,38 +1847,18 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Me Llamas (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 210322,
-      "name": "Me llamas (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1903,18 +1883,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Me Llamas (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 193226,
-      "name": "T\u00fa Foto",
-      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+      "duration_ms": 210322,
+      "name": "Me llamas (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1943,6 +1927,42 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190570,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4"
       },
@@ -1959,6 +1979,22 @@
       "duration_ms": 231909,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2023,42 +2059,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "La Rompe Corazones",
-        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "La Rompe Corazones",
-      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -2115,18 +2115,58 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+        "name": "La Rompe Corazones",
+        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
       },
       "artists": [
         {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
+      "duration_ms": 204520,
+      "name": "La Rompe Corazones",
+      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2147,38 +2187,18 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
         }
       ],
-      "duration_ms": 190570,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2247,42 +2267,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -2303,22 +2287,18 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
         {
           "name": "Nicky Jam",
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2343,6 +2323,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Tak Tiki Tak",
         "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
       },
@@ -2355,6 +2355,26 @@
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2391,6 +2411,26 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2475,26 +2515,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Te Robar\u00e9",
-      "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "CNCO",
         "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
       },
@@ -2527,26 +2547,6 @@
       "duration_ms": 240320,
       "name": "Fan\u00e1tica Sensual",
       "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 187312,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Y Si La Ves",
-        "url": "https://open.spotify.com/album/5Zy52gEJ6MtKJ1zoM58r6E"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 198125,
-      "name": "Y Si La Ves",
-      "url": "https://open.spotify.com/track/3knSV43PghlJfTAIL2pbI3"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Mir\u00e1ndote",
         "url": "https://open.spotify.com/album/7xnKqGbHSMxldHS5AcCn08"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 135914,
       "name": "Mir\u00e1ndote",
       "url": "https://open.spotify.com/track/6wywJ7RutAY0JL7cMP7uFN"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Y Si La Ves",
+        "url": "https://open.spotify.com/album/5Zy52gEJ6MtKJ1zoM58r6E"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 198125,
+      "name": "Y Si La Ves",
+      "url": "https://open.spotify.com/track/3knSV43PghlJfTAIL2pbI3"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2703,30 +2703,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Mayor Que Yo 3",
-        "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
       "artists": [
         {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 304746,
-      "name": "Mayor Que Yo 3",
-      "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
+      "duration_ms": 217129,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
     }
   ],
   "unique_name": "Reggaet\u00f3n Rewind",

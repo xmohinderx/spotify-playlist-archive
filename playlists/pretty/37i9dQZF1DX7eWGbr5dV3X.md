@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,589 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,588 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 |
 | 2 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 | 3 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
-| 4 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
-| 5 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 |
+| 4 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 |
+| 5 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 | 6 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise \- EP](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
 | 7 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 |
 | 8 | [Down to Earth](https://open.spotify.com/track/5QzdYVqeAPnlBfbuJQ2AaO) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 3:21 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 36 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |
 | 37 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
 | 38 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
-| 39 | [Safe](https://open.spotify.com/track/52sEKom3XedUQk93YQJtHJ) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/1dCW1xIQzEtwVBy445MyE8) | 3:23 |
-| 40 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
+| 39 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
+| 40 | [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 |
 | 41 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
-| 42 | [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 |
-| 43 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
+| 42 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
+| 43 | [Safe](https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI) | 3:23 |
 
-Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMGJlMWY3MDk1MzRlOTYyN2VmYTI3MzZlOGFlNTEwZGE3`
+Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMGQ0ZGU5OTE2YTRlMDFjNDA1MzQ4MDQ0MzYyMmMyMWY2`

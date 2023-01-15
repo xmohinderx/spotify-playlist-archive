@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJU9eQpX8gPT.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,956 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,980 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

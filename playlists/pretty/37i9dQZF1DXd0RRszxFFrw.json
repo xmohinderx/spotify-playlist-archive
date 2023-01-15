@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 44291,
+  "num_followers": 44293,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDlmYTlmNTU5MjMwOTM2OTYyZmVjZWE0YzdiMmI4ZGE2",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDMwNTNjMDQwMmM1YTJhMmQxNDMwY2M3NzkzYjU2N2Yx",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Tristeza on Guitar",
-        "url": "https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp"
-      },
-      "artists": [
-        {
-          "name": "Baden Powell",
-          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 160850,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Tristeza on Guitar",
+        "url": "https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp"
+      },
+      "artists": [
+        {
+          "name": "Baden Powell",
+          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
-        "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        },
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 372160,
-      "name": "Manh\u00e3 De Carnaval",
-      "url": "https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -383,18 +363,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Habichuela en Rama",
-        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
+        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
+        "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
       },
       "artists": [
         {
-          "name": "Pepe Habichuela",
-          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Canta la Guitarra",
-      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
+      "duration_ms": 372160,
+      "name": "Manh\u00e3 De Carnaval",
+      "url": "https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -415,42 +399,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+        "name": "Habichuela en Rama",
+        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
       "artists": [
         {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+          "name": "Pepe Habichuela",
+          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
         }
       ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 230866,
+      "name": "Canta la Guitarra",
+      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -475,6 +435,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+      },
+      "artists": [
+        {
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ponte Vecchio",
         "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 180860,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+      },
+      "artists": [
+        {
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 304600,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -763,22 +779,6 @@
       "duration_ms": 219786,
       "name": "Tierra Mestiza",
       "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
-      },
-      "artists": [
-        {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -863,38 +863,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Recital Flamenco. 12 de Sus Toques Originales",
-        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
-      },
-      "artists": [
-        {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "El Ca\u00f1averal - Guajira",
-      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
-      },
-      "artists": [
-        {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
-        }
-      ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Recital Flamenco. 12 de Sus Toques Originales",
+        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
+      },
+      "artists": [
+        {
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "El Ca\u00f1averal - Guajira",
+      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Fabulous Flamenco!/La Gitarra Flamenca",
         "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 205746,
       "name": "Repiqueteos Flamencos (Zapateado)",
       "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
+      },
+      "artists": [
+        {
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
+        }
+      ],
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Senior Emilio",
-        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
-      },
-      "artists": [
-        {
-          "name": "Diego Fernandez",
-          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
-        }
-      ],
-      "duration_ms": 278675,
-      "name": "Senior Emilio",
-      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Hablando Con Mi Guitarra",
         "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 255529,
       "name": "Noches de Bohemia - Guitar Version",
       "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Senior Emilio",
+        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
+      },
+      "artists": [
+        {
+          "name": "Diego Fernandez",
+          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
+        }
+      ],
+      "duration_ms": 278675,
+      "name": "Senior Emilio",
+      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Classical Guitar Latin Style",
-        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
+        "name": "Herencia de Valencia",
+        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
       },
       "artists": [
         {
-          "name": "William Wilson",
-          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Libertango",
-      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
+      "duration_ms": 198813,
+      "name": "Herencia de Valencia",
+      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1239,34 +1239,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Herencia de Valencia",
-        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+        "name": "Classical Guitar Latin Style",
+        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
       "artists": [
         {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+          "name": "William Wilson",
+          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Herencia de Valencia",
-      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
+      "duration_ms": 246040,
+      "name": "Libertango",
+      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 178515,
       "name": "Tango",
       "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     }
   ],
   "unique_name": "Cena con Guitarras",

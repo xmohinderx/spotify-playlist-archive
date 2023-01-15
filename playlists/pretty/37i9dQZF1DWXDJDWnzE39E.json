@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: BABYMETAL",
-  "num_followers": 569513,
+  "num_followers": 569672,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTExMywwMDAwMDAwMDhiNzRiZWYxODY0ODFlZWYzNzU4MzU1MzdmNzc5N2M0",
+  "snapshot_id": "MTY2ODczNTExMywwMDAwMDAwMDE2OTgxNDUyZjIxODQ1NmVhNzM1OGVmMzlhNzQxYTFh",
   "tracks": [
     {
       "added_at": "2022-10-28 12:07:52",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
     },
     {
-      "added_at": "2023-01-14 18:46:03",
+      "added_at": "2023-01-15 01:11:08",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
-      "added_at": "2023-01-14 18:46:03",
+      "added_at": "2023-01-15 01:11:08",
       "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "The Phantom Agony (Expanded Edition)",
         "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
       },
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
-      "added_at": "2023-01-14 18:46:03",
+      "added_at": "2023-01-15 01:11:08",
       "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
@@ -379,22 +395,6 @@
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
@@ -507,6 +491,42 @@
       "duration_ms": 161318,
       "name": "FAIRY METAL",
       "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
+        }
+      ],
+      "duration_ms": 192919,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
-        }
-      ],
-      "duration_ms": 192919,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 208500,
       "name": "Brittle",
       "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
     },
     {
-      "added_at": "2023-01-14 18:46:03",
+      "added_at": "2023-01-15 01:11:08",
       "album": {
         "name": "Cover You",
         "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
     },
     {
-      "added_at": "2023-01-14 18:46:03",
+      "added_at": "2023-01-15 01:11:08",
       "album": {
         "name": "Do Or Die (feat. Nathan James)",
         "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 136156,
-      "name": "molotov [OK]",
-      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
+      "duration_ms": 203373,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -895,6 +895,22 @@
       "duration_ms": 229880,
       "name": "See You In Hell",
       "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "molotov [OK]",
+      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -979,22 +995,6 @@
       "duration_ms": 189773,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Mayhem",
-        "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Apocalypse & Chill",
         "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 256040,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh"
     },
     {
       "added_at": "2022-10-28 12:07:52",

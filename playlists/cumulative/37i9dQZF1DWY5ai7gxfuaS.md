@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-144 songs - 10 hr 15 min
+145 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 | 2022-03-03 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-29 |  |
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-20 |  |
+| [Believe](https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 4:36 | 2022-11-18 |  |
 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-07-26 | 2022-12-11 |
 | [Believe](https://open.spotify.com/track/6NdcU1BYB4jxXBn88OTeAH) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Best Of Me](https://open.spotify.com/album/0hCgFa5oQgotbahA3C4gzb) | 4:36 | 2022-11-18 | 2023-01-13 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-26 |  |
@@ -60,7 +61,7 @@
 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 | 2021-12-20 |  |
 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 | 2022-11-18 |  |
 | [Drýsill](https://open.spotify.com/track/5pYsByOqa325t7t46xudFx) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Drýsill](https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE) | 8:52 | 2021-12-20 |  |
-| [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 | 2021-12-20 |  |
+| [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 | 2021-12-20 | 2023-01-15 |
 | [Envy](https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Part Of Me](https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc) | 3:32 | 2022-07-26 |  |
 | [Envy](https://open.spotify.com/track/6gaiIOJF8LbjyvX7VKOLm8) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Envy](https://open.spotify.com/album/1wJhK0tlMtM1c190rxaZCr) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 | 2022-03-03 |  |

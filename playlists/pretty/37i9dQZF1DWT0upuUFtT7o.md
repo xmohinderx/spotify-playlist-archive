@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > 69 new indie tracks for 2023 from independent artists & labels\. Updates every Wednesday\. Cover: Julia Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,034 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,075 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

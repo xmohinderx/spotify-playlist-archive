@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4j0q1RtStoE.md) - [plain]
 
 > Featuring Arcángel, Alvaro Diaz, KAROL G & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

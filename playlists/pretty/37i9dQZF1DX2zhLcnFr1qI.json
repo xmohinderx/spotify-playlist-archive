@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 55851,
+  "num_followers": 55843,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMDcxMDNmYzY5MDQ1OGQ4MTQ5N2YxMzc1NWFiYzRhMWI0",
+  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMDc3YzFlMTU2OGI5ZWZkODhkMmQ0MmYwMzFjNTE1MGZh",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
-      },
-      "artists": [
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        }
-      ],
-      "duration_ms": 163312,
-      "name": "It's Christmas Time",
-      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Christmas Rave",
         "url": "https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67"
       },
@@ -577,7 +557,27 @@
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
     },
     {
-      "added_at": "2023-01-14 19:19:28",
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q"
+      },
+      "artists": [
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        }
+      ],
+      "duration_ms": 163312,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
+    },
+    {
+      "added_at": "2023-01-15 01:14:24",
       "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"

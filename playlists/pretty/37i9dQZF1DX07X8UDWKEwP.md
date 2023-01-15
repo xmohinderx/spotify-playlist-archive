@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,068 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,085 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 15 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
 | 16 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 17 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 |
-| 18 | [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 |
-| 19 | [Tuki Tuki \- Remix](https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Tuki Tuki \(Remix\)](https://open.spotify.com/album/5h1TiL97try0MmWV5zNLuz) | 3:32 |
+| 18 | [Tuki Tuki \- Remix](https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Tuki Tuki \(Remix\)](https://open.spotify.com/album/5h1TiL97try0MmWV5zNLuz) | 3:32 |
+| 19 | [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 |
 | 20 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 |
-| 21 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
-| 22 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
-| 23 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
+| 21 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
+| 22 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
+| 23 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 |
 | 24 | [Manos de Tijera \- Versión Bachata](https://open.spotify.com/track/4UhYmV4km2WkPW3u6mgPfY) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Dj Husky](https://open.spotify.com/artist/7KpJV35QbeZ1ZCn34bnypL) | [Manos de Tijera \(Versión Bachata\)](https://open.spotify.com/album/4RXju3Va6kcOzfyyLmDvyX) | 4:28 |
 | 25 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 |
-| 26 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 |
+| 26 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Te Vaya Bonito](https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5) | 3:23 |
 | 27 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
-| 28 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Te Vaya Bonito](https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5) | 3:23 |
+| 28 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 |
 | 29 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 |
 | 30 | [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 |
 | 31 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 |
 | 50 | [Nunca](https://open.spotify.com/track/67w8Zi9hnvt2TeATaBFfHC) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Nunca](https://open.spotify.com/album/6zBXJPqYoXyX3wOcVhn7RS) | 4:00 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGQ2YWY1NWZkNDUyYTUyYWMzOTExNzYxYTk3MDczMzU1`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGFhYTcyZGVkYjJkMzg3ZjAwY2ZjYTg0N2YyZjg4NmIz`

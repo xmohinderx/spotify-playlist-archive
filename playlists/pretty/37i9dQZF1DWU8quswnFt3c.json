@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 860472,
+  "num_followers": 860463,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDI5MWE3MDE5MzQyZDRlNDI5NzY5YWIwNzZlNzFmNmE2",
+  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDgxZDJlNzMxZDUzN2FmNzFmYzRhZDI2ZWU4YWU5ODBh",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -47,22 +47,18 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        },
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 253066,
-      "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -83,18 +79,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+        "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        },
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
         }
       ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+      "duration_ms": 253066,
+      "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
-      "added_at": "2023-01-14 18:50:29",
+      "added_at": "2023-01-15 00:20:20",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-        "url": "https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA"
-      },
-      "artists": [
-        {
-          "name": "Daniela Rathana",
-          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
-      "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Devil Is A Woman",
         "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 192491,
       "name": "Devil Is A Woman",
       "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
+        "url": "https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "\u00c5terv\u00e4ndsgr\u00e4nd",
+      "url": "https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
-      "added_at": "2023-01-14 18:50:29",
+      "added_at": "2023-01-15 00:20:20",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "La vingtaine",
-        "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/28snZVeMwzYdolW7h1wpHb"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Antsy",
         "url": "https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 150854,
       "name": "Antsy",
       "url": "https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "La vingtaine",
+        "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/28snZVeMwzYdolW7h1wpHb"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "kocham i t\u0119skni\u0119",
-        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "przestrze\u0144",
-      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "African Baddie",
         "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 165600,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "kocham i t\u0119skni\u0119",
+        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "przestrze\u0144",
+      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
-        "url": "https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha"
-      },
-      "artists": [
-        {
-          "name": "Luna \u0110\u00e0o",
-          "url": "https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB"
-        }
-      ],
-      "duration_ms": 350611,
-      "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
-      "url": "https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ"
-    },
-    {
       "added_at": "2023-01-11 19:04:59",
       "album": {
         "name": "Infinity Song",
@@ -911,6 +895,22 @@
       "duration_ms": 232173,
       "name": "Infinity Song",
       "url": "https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
+        "url": "https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha"
+      },
+      "artists": [
+        {
+          "name": "Luna \u0110\u00e0o",
+          "url": "https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB"
+        }
+      ],
+      "duration_ms": 350611,
+      "name": "Nh\u1eefng Ch\u00e0ng Trai Em T\u1eebng Y\u00eau",
+      "url": "https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd"
-      },
-      "artists": [
-        {
-          "name": "Gwenji",
-          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
-        }
-      ],
-      "duration_ms": 250992,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Br\u00fajula",
         "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 190912,
       "name": "Br\u00fajula",
       "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "duration_ms": 250992,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "R Chop",
-        "url": "https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "MEDUSA",
-      "url": "https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Two blocks away",
         "url": "https://open.spotify.com/album/5oSPclGSfUgfFgmw0BIZKD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180122,
       "name": "Two blocks away",
       "url": "https://open.spotify.com/track/1dhSYPyzMc8tR5jL3eOZ9v"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "R Chop",
+        "url": "https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "MEDUSA",
+      "url": "https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t"
     },
     {
       "added_at": "2023-01-04 05:00:00",

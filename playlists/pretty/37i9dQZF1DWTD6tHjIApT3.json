@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
-  "num_followers": 89603,
+  "num_followers": 89610,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGU5NjMyZDQwM2IxYjk4NWI2ODk3MTM0MmNkOTZkYzZj",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGM3MDU4ZjJiZDk3NjhkZmNiZTRjNjI4MGJhOGI4Y2E5",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 227432,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
         "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 249426,
       "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
       "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 227432,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "missing",
-        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "missing",
-      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Join Us!",
-        "url": "https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA"
-      },
-      "artists": [
-        {
-          "name": "Little Glee Monster",
-          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "Join Us!",
-      "url": "https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1083,6 +1051,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "missing",
+        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "missing",
+      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211592,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Join Us!",
+        "url": "https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "duration_ms": 207808,
+      "name": "Join Us!",
+      "url": "https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        }
-      ],
-      "duration_ms": 266158,
-      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-      "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Flare",
         "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "BE ME",
-        "url": "https://open.spotify.com/album/0nJ24ELPglbislYG5leab8"
+        "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq"
       },
       "artists": [
         {
-          "name": "Doul",
-          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
         }
       ],
-      "duration_ms": 211786,
-      "name": "BE ME",
-      "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
+      "duration_ms": 266158,
+      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 228013,
       "name": "\u9752\u85cd\u904a\u6cf3",
       "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "BE ME",
+        "url": "https://open.spotify.com/album/0nJ24ELPglbislYG5leab8"
+      },
+      "artists": [
+        {
+          "name": "Doul",
+          "url": "https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "BE ME",
+      "url": "https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
       },
       "artists": [
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 169786,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u6c17\u5206",
-        "url": "https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "Kaneko Ayano",
-          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 305597,
-      "name": "\u6c17\u5206",
-      "url": "https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "rubble pile",
-      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1359,34 +1343,82 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
       },
       "artists": [
         {
-          "name": "\u6709\u83ef",
-          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo"
+      "duration_ms": 238466,
+      "name": "rubble pile",
+      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
     },
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+        "name": "\u6c17\u5206",
+        "url": "https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "Kaneko Ayano",
+          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
         }
       ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+      "duration_ms": 305597,
+      "name": "\u6c17\u5206",
+      "url": "https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 220098,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "\u6ce3\u304d\u7b11\u3044\u611b",
+        "url": "https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "duration_ms": 171780,
+      "name": "\u6ce3\u304d\u7b11\u3044\u611b",
+      "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1411,22 +1443,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
-      },
-      "artists": [
-        {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "heart notes",
         "url": "https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u6ce3\u304d\u7b11\u3044\u611b",
-        "url": "https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB"
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
       "artists": [
         {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 171780,
-      "name": "\u6ce3\u304d\u7b11\u3044\u611b",
-      "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
-      },
-      "artists": [
-        {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
-        }
-      ],
-      "duration_ms": 220098,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "\u4e88\u611f",
         "url": "https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm"
       },
@@ -1503,42 +1503,6 @@
       "duration_ms": 163317,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "\u65e5\u3005\u306f\u5b63\u7bc0\u3092\u3081\u304f\u3063\u3066",
-        "url": "https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6"
-      },
-      "artists": [
-        {
-          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
-          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
-        },
-        {
-          "name": "\u30af\u30dc\u30bf\u30ab\u30a4",
-          "url": "https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY"
-        }
-      ],
-      "duration_ms": 257689,
-      "name": "\u4e8c\u4eba\u306e\u7b54\u3048",
-      "url": "https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/3sho9cirh8faBkktavxD18"
-      },
-      "artists": [
-        {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1559,6 +1523,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
+      "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "\u30db\u30c3\u30c8\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY"
       },
@@ -1575,18 +1555,38 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/3sho9cirh8faBkktavxD18"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
         }
       ],
-      "duration_ms": 205133,
-      "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
-      "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
+      "duration_ms": 292120,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "\u65e5\u3005\u306f\u5b63\u7bc0\u3092\u3081\u304f\u3063\u3066",
+        "url": "https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        },
+        {
+          "name": "\u30af\u30dc\u30bf\u30ab\u30a4",
+          "url": "https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY"
+        }
+      ],
+      "duration_ms": 257689,
+      "name": "\u4e8c\u4eba\u306e\u7b54\u3048",
+      "url": "https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/1H2xGnSFOfAEFSwosFDmBN"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 273293,
       "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
       "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
     }
   ],
   "unique_name": "Women's Voice",

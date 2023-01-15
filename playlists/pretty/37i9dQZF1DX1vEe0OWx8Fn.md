@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,875 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,898 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [hope for the underrated youth](https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 4:00 |
 | 2 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 |
-| 3 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 |
-| 4 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 3 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 4 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 |
 | 5 | [Famous Last Words](https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:59 |
 | 6 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 |
 | 7 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 24 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
 | 25 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
 | 26 | [kiss kiss](https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:18 |
-| 27 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
-| 28 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
+| 27 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
+| 28 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 29 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
 | 30 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
 | 31 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 33 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 |
 | 34 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
 | 35 | [Misery Business](https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 3:21 |
-| 36 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
-| 37 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
+| 36 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
+| 37 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
 | 38 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
 | 39 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
 | 40 | [Choose Life](https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
 | 50 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 
-Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMDBhMzNiZTU4MGRiYmIxNGY1MGQyYjFiNDA0MWVmYzI1`
+Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMGQ0OGFjNTBmNDQ1OTc4ODEyNGM4M2M0YmQ4MWYwNjQy`

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 42214,
+  "num_followers": 42249,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDYyZDBmMzM0ZTgwN2ZjZWM2NmEyODhiNDllZTVmMzFh",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDdjY2VmMDBlMmUwNGFiMTQ3YzgwMzY2NzE4YzIxZThl",
   "tracks": [
     {
       "added_at": "2023-01-13 00:01:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "What Am I To You?",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Black Leaves",
         "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
       },
@@ -91,6 +91,26 @@
       "duration_ms": 104280,
       "name": "Black Leaves",
       "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Emotion & Commotion",
+        "url": "https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "I Put a Spell on You (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/3Be7vJDOFNOVv3iYQgIQpu"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -171,22 +191,34 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Emotion & Commotion",
-        "url": "https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53"
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 182426,
-      "name": "I Put a Spell on You (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/3Be7vJDOFNOVv3iYQgIQpu"
+      "duration_ms": 182506,
+      "name": "Corinna - From \"The Natch'l Blues\"",
+      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -211,38 +243,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Corinna - From \"The Natch'l Blues\"",
-      "url": "https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "In The Basement: The Chess Recordings",
         "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
       "artists": [
         {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 313093,
-      "name": "I'll Take Care Of You",
-      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+      "duration_ms": 313093,
+      "name": "I'll Take Care Of You",
+      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 297893,
-      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 199306,
       "name": "Forget What I Said",
       "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 297893,
+      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 251360,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Shining in the Half Light",
-        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 220974,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 368186,
+      "name": "In From The Cold",
+      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
       "artists": [
         {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 196939,
-      "name": "Dry Run",
-      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
+      "duration_ms": 264811,
+      "name": "Believe These Blues",
+      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -911,22 +927,6 @@
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 264811,
-      "name": "Believe These Blues",
-      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Nibbadip",
-      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 473080,
       "name": "Need Your Love So Bad - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "How Many Times?",
-        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 285701,
-      "name": "How Many Times?",
-      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 285701,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 326761,
       "name": "Loving Arms - (radio edit), Masterlink Sessions",
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Tempting Fate",
         "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
@@ -1507,18 +1491,34 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
       },
       "artists": [
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 160773,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa"
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Ice Cream and Cigarettes",
+      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1535,6 +1535,22 @@
       "duration_ms": 208700,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1571,6 +1587,22 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/49xNJS9z0ssQFNPi2oXxXC"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1623,22 +1655,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Come on Sunshine",
         "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 256640,
       "name": "Come on Sunshine",
       "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "One Foot In The Groove",
-        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
-      },
-      "artists": [
-        {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Ice Cream and Cigarettes",
-      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Hard to Kill",
-        "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
         }
       ],
-      "duration_ms": 207653,
-      "name": "Fireman",
-      "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
+      "duration_ms": 317275,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
     }
   ],
   "unique_name": "Home at Last",

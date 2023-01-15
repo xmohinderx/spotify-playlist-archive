@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "album": {
         "name": "Cafeteria",
         "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
       },
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"

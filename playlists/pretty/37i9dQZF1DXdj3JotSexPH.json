@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Gaming Time!",
-  "num_followers": 31902,
+  "num_followers": 31904,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUxMTE4NSwwMDAwMDAwMGIwYjZjZTQ4MTAyMjcwN2U2NDc4MWUwZDkxNWI0NDMx",
+  "snapshot_id": "MTY3MzUxMTE4NSwwMDAwMDAwMDg5YTY2OWY4ZGMwNjAxMDE4MjVkMmM0ZGFkMmI4NTEw",
   "tracks": [
     {
       "added_at": "2023-01-12 08:13:05",
@@ -199,6 +199,26 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
+        "name": "Ramen & OJ",
+        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218447,
+      "name": "Ramen & OJ",
+      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
-        "name": "Ramen & OJ",
-        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218447,
-      "name": "Ramen & OJ",
-      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "\u0627\u0644\u0628\u062e\u062a",
-        "url": "https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5"
-      },
-      "artists": [
-        {
-          "name": "Wegz",
-          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
-        }
-      ],
-      "duration_ms": 206112,
-      "name": "\u0627\u0644\u0628\u062e\u062a",
-      "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "\u0627\u0644\u0628\u062e\u062a",
+        "url": "https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "duration_ms": 206112,
+      "name": "\u0627\u0644\u0628\u062e\u062a",
+      "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Go!",
-        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3WEPzTQTjVJSCVv0lKEKq0"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 166800,
       "name": "Control",
       "url": "https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 197388,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
+        "name": "commas",
+        "url": "https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "commas",
+      "url": "https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "commas",
-        "url": "https://open.spotify.com/album/3lxNorNFjdQYyr31bFHIT7"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "commas",
-      "url": "https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Disco Maghreb",
         "url": "https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1415,42 +1435,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
-        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
-        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
-      },
-      "artists": [
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        }
-      ],
-      "duration_ms": 183783,
-      "name": "\u0628\u0637\u0644 \u0639\u0627\u0644\u0645",
-      "url": "https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 133274,
       "name": "Trials",
       "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "duration_ms": 183783,
+      "name": "\u0628\u0637\u0644 \u0639\u0627\u0644\u0645",
+      "url": "https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/5GWXqrUGRrPeU1WO28yaya"
-      },
-      "artists": [
-        {
-          "name": "The Tech Thieves",
-          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
-        },
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 154038,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/79qOs49qSotfX46OGByR0M"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Love Runs Deep",
         "url": "https://open.spotify.com/album/3ZFHeK3HYytlTh7LASxQwU"
       },
@@ -1591,6 +1571,26 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/5GWXqrUGRrPeU1WO28yaya"
+      },
+      "artists": [
+        {
+          "name": "The Tech Thieves",
+          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 154038,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/79qOs49qSotfX46OGByR0M"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
         "name": "Before U",
         "url": "https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 154285,
       "name": "Before U",
       "url": "https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1643,6 +1623,26 @@
       "duration_ms": 187923,
       "name": "Original Sin - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Hiya Hiya",
         "url": "https://open.spotify.com/album/79IFajmgcokKaytvnRFomI"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
         "name": "Till I'm Free",
         "url": "https://open.spotify.com/album/6bwuTNlU3ipQLP2P0vHXLO"
       },
@@ -1735,26 +1735,6 @@
       "duration_ms": 150073,
       "name": "Till I'm Free",
       "url": "https://open.spotify.com/track/2yiyWdGXAfcEQ0lXaEjyid"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
-        "name": "Emptiness",
-        "url": "https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 149690,
-      "name": "Emptiness",
-      "url": "https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1779,18 +1759,22 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "RAIN",
-        "url": "https://open.spotify.com/album/55CEtbso1nUX8NIdeIkxAT"
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD"
       },
       "artists": [
         {
-          "name": "Teflon Sega",
-          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
         }
       ],
-      "duration_ms": 228125,
-      "name": "RAIN",
-      "url": "https://open.spotify.com/track/3rVBHSHxRTYTvSplO6CmZ0"
+      "duration_ms": 149690,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -1807,6 +1791,22 @@
       "duration_ms": 135475,
       "name": "Anthropology",
       "url": "https://open.spotify.com/track/2v7HFbmmCeraARmBma5pwG"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "RAIN",
+        "url": "https://open.spotify.com/album/55CEtbso1nUX8NIdeIkxAT"
+      },
+      "artists": [
+        {
+          "name": "Teflon Sega",
+          "url": "https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "RAIN",
+      "url": "https://open.spotify.com/track/3rVBHSHxRTYTvSplO6CmZ0"
     }
   ],
   "unique_name": "Yalla Gaming",

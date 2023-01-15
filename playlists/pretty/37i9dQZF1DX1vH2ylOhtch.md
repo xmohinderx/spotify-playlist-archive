@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 
 > uh\-oh?
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,136 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,174 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,26 +47,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vH2ylOhtch.md) - [plain]
 | 37 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
 | 38 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
 | 39 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
-| 40 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
-| 41 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 |
+| 40 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 |
+| 41 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
 | 42 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 |
-| 43 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
-| 44 | [Always Been You](https://open.spotify.com/track/56KDoLjFIm7Yc7fX1XgpNw) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:47 |
+| 43 | [Always Been You](https://open.spotify.com/track/56KDoLjFIm7Yc7fX1XgpNw) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:47 |
+| 44 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
 | 45 | [Quererte Bonito](https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 4:31 |
-| 46 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
-| 47 | [Solo Me Gustas Tú](https://open.spotify.com/track/5SRMV6nJtnSGXa3wgqoNwS) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Casky](https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa) | [Solo Me Gustas Tú](https://open.spotify.com/album/2Vc8V7UgW7r2LUdd2J8rHJ) | 2:24 |
-| 48 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
-| 49 | [Part of Me](https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 3:48 |
+| 46 | [Solo Me Gustas Tú](https://open.spotify.com/track/5SRMV6nJtnSGXa3wgqoNwS) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Casky](https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa) | [Solo Me Gustas Tú](https://open.spotify.com/album/2Vc8V7UgW7r2LUdd2J8rHJ) | 2:24 |
+| 47 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
+| 48 | [Part of Me](https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 3:48 |
+| 49 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 |
 | 50 | [cómo quieres que me enfade](https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [cómo quieres que me enfade](https://open.spotify.com/album/1zVgjMZ9dOV8deVpLNxqeD) | 2:40 |
-| 51 | [Nada Y Nadie](https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Nada Y Nadie](https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb) | 3:24 |
-| 52 | [Dos X Tres \(Demo\)](https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Dos X Tres \(Demo\)](https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ) | 2:30 |
-| 53 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 |
-| 54 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
-| 55 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 |
+| 51 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
+| 52 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 53 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 |
+| 54 | [Nada Y Nadie](https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Nada Y Nadie](https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb) | 3:24 |
+| 55 | [Dos X Tres \(Demo\)](https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Dos X Tres \(Demo\)](https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ) | 2:30 |
 | 56 | [Lo Que Quieras](https://open.spotify.com/track/2HdH6NjrNohunHNBpWpq6C) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Lo Que Quieras](https://open.spotify.com/album/3dFWF6oT1yyze66ZP2NBmC) | 2:46 |
 | 57 | [Deep](https://open.spotify.com/track/1LzmZWMpiPqeEIvaYCzO3Z) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:43 |
 | 58 | [r u ok](https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:07 |
-| 59 | [arcade](https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [arcade](https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8) | 1:40 |
-| 60 | [me gusta que me gustes](https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [me gusta que me gustes](https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv) | 2:35 |
+| 59 | [me gusta que me gustes](https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [me gusta que me gustes](https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv) | 2:35 |
+| 60 | [arcade](https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [arcade](https://open.spotify.com/album/3znNGjAnJQMoOAmWJWmzW8) | 1:40 |
 
-Snapshot ID: `MTY3MjQyNzY1NCwwMDAwMDAwMDE4OTA0ZWI4OWY4YTg1NDJiYzNjODE1ODM3NGJlODM5`
+Snapshot ID: `MTY3MjQyNzY1NCwwMDAwMDAwMDFjN2YxNmU5MjExMzQyNzIwYzhjZjM0ZmJlMjg4MTY3`

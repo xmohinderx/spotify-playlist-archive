@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 87604,
+  "num_followers": 87708,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTgxNSwwMDAwMDAwMDM2Y2VmY2NkNmVkNWQ4YzIxMmQyZTBiNmRiNGY0OTQ2",
+  "snapshot_id": "MTY3MjY5NTgxNSwwMDAwMDAwMGMzMjk2NTJjZjg4YThmYjdjN2Q0N2Y4ZjAwNDNjYzc4",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -481,20 +481,24 @@
       "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-08-03 03:35:17",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX"
+        "name": "Savanne",
+        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
       },
       "artists": [
         {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 203186,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L"
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -521,24 +525,20 @@
       "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
     },
     {
-      "added_at": "2022-08-03 03:35:17",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Savanne",
-        "url": "https://open.spotify.com/album/5YyjDyK4IMI0mrQqP8CmoF"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
+      "duration_ms": 203186,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -621,26 +621,6 @@
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
-      "added_at": "2022-11-12 17:24:14",
-      "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Estaci\u00f3n Esperanza",
@@ -659,6 +639,26 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-11-12 17:24:14",
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -731,22 +731,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
+        "name": "Santa Teresa",
+        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         },
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+      "duration_ms": 298666,
+      "name": "Santa Teresa",
+      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -775,22 +775,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Santa Teresa",
-        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         },
         {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Santa Teresa",
-      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
-      "added_at": "2022-11-18 17:46:22",
-      "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Cenotes (Deluxe Edition)",
@@ -1023,38 +1007,6 @@
       "duration_ms": 262325,
       "name": "Tecolotin",
       "url": "https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Grind / Prelims",
-        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
-      },
-      "artists": [
-        {
-          "name": "Les Sins",
-          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1079,22 +1031,34 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
+        "name": "Grind / Prelims",
+        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Les Sins",
+          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
         }
       ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
+      "duration_ms": 318014,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1119,18 +1083,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Turn Around",
-        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
       },
       "artists": [
         {
-          "name": "Rampue",
-          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 437241,
-      "name": "Turn Around",
-      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1151,6 +1119,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+      },
+      "artists": [
+        {
+          "name": "Rampue",
+          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+        }
+      ],
+      "duration_ms": 437241,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
+      "duration_ms": 394669,
+      "name": "Tuyo - Original Mix",
+      "url": "https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0"
     },
     {
       "added_at": "2022-08-13 00:58:04",
@@ -1223,22 +1227,34 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml"
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
       "artists": [
         {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 394669,
-      "name": "Tuyo - Original Mix",
-      "url": "https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0"
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Tropical Gypsy",
+        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 181926,
+      "name": "Tropical Gypsy",
+      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1261,44 +1277,20 @@
       "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-11-18 17:46:22",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-11-03 18:27:44",
-      "album": {
-        "name": "Mientras Tanto",
-        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Mientras Tanto",
-      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     }
   ],
   "unique_name": "Tulum Vibes",

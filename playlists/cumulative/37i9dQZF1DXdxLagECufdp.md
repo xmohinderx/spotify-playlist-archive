@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-141 songs - 9 hr 5 min
+142 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Hurry Up](https://open.spotify.com/track/55IgT3P3jYAbvnNcQgMUH9) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Colección Dorada \(Vol\. I\)](https://open.spotify.com/album/6JzeapBSMrUsjGZDgSCsyc) | 2:46 | 2021-09-10 | 2022-07-29 |
 | [Icsiti](https://open.spotify.com/track/1hC6QsXFXsEOBFRtqIcZxG) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs) | [Icsiti](https://open.spotify.com/album/4gNlThjhIw6h1o9X79TGZ5) | 3:41 | 2022-04-22 | 2022-08-03 |
 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 | 2021-09-10 |  |
-| [International Jet Set \- 2015 Remaster](https://open.spotify.com/track/7MrViz9E9dqO44F0PIbRI1) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [More Specials \(Deluxe Version\)](https://open.spotify.com/album/6ZaAmEOGxNs0L0xeduBc3S) | 5:38 | 2021-09-10 |  |
+| [International Jet Set \- 2015 Remaster](https://open.spotify.com/track/7MrViz9E9dqO44F0PIbRI1) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [More Specials \(Deluxe Version\)](https://open.spotify.com/album/6ZaAmEOGxNs0L0xeduBc3S) | 5:38 | 2021-09-10 | 2023-01-15 |
 | [Job](https://open.spotify.com/track/0yfzOlSCRVYg9oCZtBfM9X) | [Orquesta 24 Cuadros](https://open.spotify.com/artist/2orkkJ9BHC2Z2HpmvjLwLH) | [Orquesta 24 Cuadros](https://open.spotify.com/album/1WuZDwTJJHCPc4CABJD8Ku) | 4:42 | 2021-09-10 | 2022-11-13 |
 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 | 2021-09-10 | 2023-01-07 |
 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 | 2021-09-10 |  |
@@ -116,6 +116,7 @@
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 | 2021-09-10 | 2022-07-29 |
 | [Padam Padam](https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 2:59 | 2021-09-10 | 2022-07-29 |
 | [Palinka](https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo) | [Lemon Bucket Orkestra](https://open.spotify.com/artist/6GWO9W0sGGhCFEXPNt1w21), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [If I Had The Strength](https://open.spotify.com/album/27oG7yQMyxzz5p40ZwDjgb) | 4:16 | 2021-09-10 | 2022-07-29 |
+| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 |  |
 | [Para Olvidarte](https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Para Olvidarte](https://open.spotify.com/album/7LJJlpLzQTBQ0wjMopDN81) | 4:04 | 2021-09-10 | 2022-07-29 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-03 |
 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 | 2021-09-10 |  |

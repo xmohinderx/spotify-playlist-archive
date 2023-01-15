@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1354341,
+  "num_followers": 1354546,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDRlMjI5MTBhOGRjNmZlMDUxZWYwZDJlZTYyMDRmZjM2",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGJlMzE0MjZiNDAzNGY3Y2NhNDdhZDA4OGQ2ZTllOGY0",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 419640,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 419640,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 390986,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -495,8 +495,8 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -579,8 +563,24 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Hang On In There Baby",
-        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
       "artists": [
         {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
+      "duration_ms": 242386,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+        "name": "Hang On In There Baby",
+        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
       },
       "artists": [
         {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
         }
       ],
-      "duration_ms": 242386,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
+      "duration_ms": 233720,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Why Can't We Live Together",
         "url": "https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
     },
     {
       "added_at": "2022-02-04 15:57:42",

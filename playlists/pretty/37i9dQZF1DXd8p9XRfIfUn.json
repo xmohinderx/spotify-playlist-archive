@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 61639,
+  "num_followers": 61649,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGRjYjNjMzYyYTViOWE3MjY0Mjg0NjBlYmVlZDBiMzg0",
+  "snapshot_id": "MTY3MDU2MjA2MCwwMDAwMDAwMGYxMWU0M2NjMDFmZDA1MDNkMDEzYjAxNDRlY2ExNWNh",
   "tracks": [
     {
       "added_at": "2022-12-09 05:01:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "YO SE QUE TU (feat. Rusherking)",
         "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
@@ -483,22 +503,18 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 166050,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Siempre Fine",
-        "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 165679,
-      "name": "Siempre Fine",
-      "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Siempre Fine",
+        "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 165679,
+      "name": "Siempre Fine",
+      "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "Tussi Code Mari",
-        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Crismj",
-          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Tussi Code Mari",
-      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Tussi Code Mari",
+        "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Crismj",
+          "url": "https://open.spotify.com/artist/73085QUq0HermcHl8fg65T"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Tussi Code Mari",
+      "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
-        "name": "X Ti Lo Digo",
-        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 191323,
-      "name": "X Ti Lo Digo",
-      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 213920,
       "name": "algo as\u00ed",
       "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "X Ti Lo Digo",
+        "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 191323,
+      "name": "X Ti Lo Digo",
+      "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -955,6 +955,22 @@
       "duration_ms": 248659,
       "name": "HOR\u00d3SCOPO",
       "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 260000,
       "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
       "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "La Pr\u00e1ctica",
+        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "La Pr\u00e1ctica",
+      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "La Pr\u00e1ctica",
-        "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
-      },
-      "artists": [
-        {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "La Pr\u00e1ctica",
-      "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
     },
     {
       "added_at": "2022-12-09 05:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-12-09 05:01:00",
       "album": {
+        "name": "Hace Rato",
+        "url": "https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Hace Rato",
+      "url": "https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB"
+    },
+    {
+      "added_at": "2022-12-09 05:01:00",
+      "album": {
         "name": "Prendete",
         "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 213837,
       "name": "Prendete",
       "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
-    },
-    {
-      "added_at": "2022-12-09 05:01:00",
-      "album": {
-        "name": "Hace Rato",
-        "url": "https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Hace Rato",
-      "url": "https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

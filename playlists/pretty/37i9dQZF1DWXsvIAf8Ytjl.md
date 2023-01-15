@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,259 likes - 47 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,280 likes - 47 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 15 | [Black Betty](https://open.spotify.com/track/0MnI39P9Dze0PSUjetb8Va) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Dukes Of Hazzard \(Music From The Motion Picture\)](https://open.spotify.com/album/0HUuxXsQ1lYDpS99EXlNBI) | 3:55 |
 | 16 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
 | 17 | [Cross\-Eyed Mary](https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 4:10 |
-| 18 | [Hocus Pocus](https://open.spotify.com/track/2uzyiRdvfNI5WxUiItv1y9) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [The Best Of Focus / Hocus Pocus \(Incl WC 2010 Version of 'Hocus Pocus'\)](https://open.spotify.com/album/55zdxBeCPm7XmuZCeCdRbX) | 6:42 |
-| 19 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 |
+| 18 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 |
+| 19 | [Hocus Pocus](https://open.spotify.com/track/2uzyiRdvfNI5WxUiItv1y9) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [The Best Of Focus / Hocus Pocus \(Incl WC 2010 Version of 'Hocus Pocus'\)](https://open.spotify.com/album/55zdxBeCPm7XmuZCeCdRbX) | 6:42 |
 | 20 | [Barracuda](https://open.spotify.com/track/38bHLl4pznhxzRJLuw1OA7) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Shaun White Snowboarding: Official Soundtrack](https://open.spotify.com/album/0QWjK3wGoCug92yQIeBdxu) | 4:22 |
 | 21 | [Mississippi Queen](https://open.spotify.com/track/5Ny6yVg3LRfz3jicFcIMlm) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Drivin' South: Southern Rockin' Smash Hits](https://open.spotify.com/album/0V9g2VTjpNub0xcJkNxOLX) | 2:27 |
 | 22 | [The Shape I'm In \- Remastered 2000](https://open.spotify.com/track/4Qs8uJL6dhsJJKl2rX8a9F) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Stage Fright \(Expanded Edition\)](https://open.spotify.com/album/4AxJWv0DDSY96U5ETJcCaY) | 4:00 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 33 | [Madison Square](https://open.spotify.com/track/0W4kbKzbiZl3XV98Hb84tT) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:16 |
 | 34 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 |
 | 35 | [Funky Drummer \- Bonus Beat Reprise](https://open.spotify.com/track/0u84hZFHLRZc9TgdDIOXLU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 2:56 |
-| 36 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
-| 37 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
+| 36 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 |
+| 37 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 |
 | 38 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/0J2ykLMJWeJzc46T7mx0XW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 7:24 |
 | 39 | [Him Belly No Go Sweet](https://open.spotify.com/track/23mGLE0XzRu6kwf3Phzvhc) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF) | 6:55 |
 | 40 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 46 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 | 47 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDlkMWJiZjQ3NzNkMzU5ZmZmNzA5OGExYWQ0NDAyYTdl`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDZmMGNiODIxY2UwODI2Nzc5MWU3M2YwNGMxZWU4YjM1`

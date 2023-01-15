@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-567 songs - 1 day 10 hr 36 min
+568 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-07 | 2022-04-13 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2020-10-16 |  |
 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 | 2020-10-16 | 2022-04-18 |
+| [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-11 |  |
 | [Beautiful Time](https://open.spotify.com/track/3qdb9PbihUEMX6nJJmlDfr) | [ONUR](https://open.spotify.com/artist/5KFv770m4wjhl6DAUqKskw) | [Beautiful Time](https://open.spotify.com/album/0yHBBkMvtm61C9uX6a8XAq) | 2:46 | 2020-10-05\* | 2020-10-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-04-20 |
 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2022-10-07 |  |
@@ -205,7 +206,7 @@
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
 | [Get High](https://open.spotify.com/track/1lfKSD8h3GeCx1VGJ2IyZM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/0y9F8lNPOSq9tN8lhPwl1I) | 3:42 | 2021-06-04 | 2022-06-15 |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2021-05-04 | 2021-06-09 |
-| [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 | 2022-11-10 |  |
+| [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 | 2022-11-10 | 2023-01-15 |
 | [Get Low](https://open.spotify.com/track/1CYiC5bLfwoHsvSpisiOto) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/5VECsj7IRVQjIAwMC8LAUa) | 4:10 | 2021-03-17 | 2022-04-20 |
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-05-06 | 2022-07-29 |
 | [Getting It On](https://open.spotify.com/track/2HFLh8qlNfW4EPpHVHz7Ej) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES \- EP](https://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) | 3:00 | 2020-10-05\* | 2022-04-11 |

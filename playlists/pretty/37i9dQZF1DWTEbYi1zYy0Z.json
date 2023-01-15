@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 42571,
+  "num_followers": 42598,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDJhZmQ3Nzc2N2Q1ZjcyNzkzNGJmYTk2OTJmNmJhNWM4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDEwNmRlMjEyZmI4OWJmOTk2YWMxYjY4ZDg0YjhiYmE0",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Catalina Nights",
+        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 244435,
+      "name": "Catalina Nights",
+      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "A Song for Peace",
@@ -163,22 +179,6 @@
       "duration_ms": 273515,
       "name": "A Song for Peace",
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Catalina Nights",
-        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 244435,
-      "name": "Catalina Nights",
-      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
-      },
-      "artists": [
-        {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
-    },
-    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Off The Top",
@@ -265,6 +249,22 @@
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Good On You",
@@ -279,22 +279,6 @@
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Sweet Talk",
-        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -343,6 +343,22 @@
       "duration_ms": 240640,
       "name": "Secret Sauce",
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -365,54 +381,6 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
-    },
-    {
-      "added_at": "2022-10-24 14:43:12",
-      "album": {
-        "name": "Breakthrough (Radio Version)",
-        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
-      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -433,20 +401,20 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+        "name": "G-Stream 2-Turn It Up",
+        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+      "duration_ms": 270946,
+      "name": "G-Wiggle",
+      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -465,56 +433,20 @@
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
+      "added_at": "2022-10-24 14:43:12",
       "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
-      },
-      "artists": [
-        {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -537,6 +469,58 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
+      },
+      "artists": [
+        {
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "added_at": "2022-02-14 15:14:54",
+      "album": {
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -551,6 +535,22 @@
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
-      },
-      "artists": [
-        {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
-        }
-      ],
-      "duration_ms": 229237,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -745,6 +729,22 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Piano Tales",
@@ -759,6 +759,22 @@
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
+      "added_at": "2022-01-28 05:02:00",
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
+      },
+      "artists": [
+        {
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+        }
+      ],
+      "duration_ms": 229237,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -779,54 +795,6 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
-      },
-      "artists": [
-        {
-          "name": "Marco Giubileo",
-          "url": "https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF"
-        },
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Kim Stone",
-          "url": "https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3"
-        },
-        {
-          "name": "Roberto Soggetti",
-          "url": "https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r"
-        },
-        {
-          "name": "Simone Boffa",
-          "url": "https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "III",
-      "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -879,6 +847,22 @@
       "duration_ms": 245426,
       "name": "Tribute",
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+      },
+      "artists": [
+        {
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+        }
+      ],
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     }
   ],
   "unique_name": "New Smooth Jazz",

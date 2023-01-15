@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,210 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,373 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 6 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 7 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 8 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 |
-| 9 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 3:46 |
-| 10 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
+| 9 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
+| 10 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 3:46 |
 | 11 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
 | 12 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 |
 | 13 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 |
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 21 | [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 |
 | 22 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
 | 23 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
-| 24 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
+| 24 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 25 | [If Self\-Destruction Was an Olympic Event, I’d Be Tonya Harding](https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:22 |
-| 26 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 |
+| 26 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 |
 | 27 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
-| 28 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
+| 28 | [Doja](https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:51 |
 | 29 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
 | 30 | [Money Buy Drugs \(Interlude\)](https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL) | [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [While You Were Sleeping](https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f) | 2:08 |
 | 31 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [Leglock](https://open.spotify.com/track/0hSJiWkzBTvJKrX5yHHBeJ) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [Big Juice tha Sip](https://open.spotify.com/album/3f5bEgjYmMGvUmXzUv9K2d) | 2:03 |
 | 50 | [LOCKJAW!](https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [LOCKJAW!](https://open.spotify.com/album/3rNczKh7EbjzJCdDNrasnT) | 2:14 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDZkMTYxNDAyNjZkZjZmNGMyMjIzZDU5OGViMjM2ZTI4`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDMzMTBkMDllYzI0MWQyNzE5YzVmNDVkODFmZWQ4ZWE4`

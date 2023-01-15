@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 36648,
+  "num_followers": 36664,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMGU4Y2MyMmZhYjkyMDc0ZGI0Y2YzYjMwOTI3ZDE5YmJh",
+  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDFmYjYwMTJkYjFjN2U2OGY1NjY0MGEzYTdhY2I5Mzcz",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Piano Recital: Kotaro Fukuma",
-        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kotaro Fukuma",
-          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
-        }
-      ],
-      "duration_ms": 417866,
-      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
-      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
         "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
       },
@@ -719,6 +699,70 @@
       "duration_ms": 316800,
       "name": "Adagio and Allegro, Op. 70: Allegro",
       "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
+        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 289400,
+      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
+      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -747,30 +791,6 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
-        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "duration_ms": 289400,
-      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
-      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -819,26 +839,6 @@
       "duration_ms": 484560,
       "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
       "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
-        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
-        }
-      ],
-      "duration_ms": 593373,
-      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
-      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Live from the Lugano Festival 2007",
+        "url": "https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 808160,
+      "name": "Andante and Variation for two pianos, Op.46",
+      "url": "https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1175,30 +1199,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Live from the Lugano Festival 2007",
-        "url": "https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 808160,
-      "name": "Andante and Variation for two pianos, Op.46",
-      "url": "https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition",
         "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
       },
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
-        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+        "name": "Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
       },
       "artists": [
         {
@@ -1228,17 +1228,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 427653,
-      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
-      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1267,8 +1263,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
       },
       "artists": [
         {
@@ -1276,13 +1272,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
         }
       ],
-      "duration_ms": 478546,
-      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
-      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Piano Works",
+        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "duration_ms": 439213,
+      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
+      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
         "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 260186,
       "name": "6 Gedichte und Requiem, Op. 90: No. 7. Requiem",
       "url": "https://open.spotify.com/track/4zPZbj1sNxCOtU1CdgCK53"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Piano Works",
-        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        }
-      ],
-      "duration_ms": 439213,
-      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
-      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
     },
     {
       "added_at": "2022-11-04 13:17:00",

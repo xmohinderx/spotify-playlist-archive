@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nuevo Elemento en portada. ",
-  "num_followers": 124494,
+  "num_followers": 124495,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDIyZTQ5YmU1NTIyNmIzM2YxODljMDEzMGY4YzhhZDM1",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDA4NzcyMmFkZWRkNjgxZmQ5OWI2ODdlYjk4NGUyN2Ey",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+    },
+    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Prohibido",
@@ -495,22 +511,6 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -737,26 +737,6 @@
       "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Todo Me Recuerda A Ti",
-        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Todo Me Recuerda A Ti",
-      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Fue un Placer Amarte",
@@ -775,6 +755,26 @@
       "duration_ms": 229030,
       "name": "Fue un Placer Amarte",
       "url": "https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Te Seguir\u00e9 Queriendo",
-        "url": "https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH"
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 215099,
-      "name": "Te Seguir\u00e9 Queriendo",
-      "url": "https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94"
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
+        "name": "Te Seguir\u00e9 Queriendo",
+        "url": "https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
+      "duration_ms": 215099,
+      "name": "Te Seguir\u00e9 Queriendo",
+      "url": "https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1081,20 +1081,20 @@
       "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "No Mereces Que Te Quiera",
-        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 198893,
-      "name": "No Mereces Que Te Quiera",
-      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1111,22 +1111,6 @@
       "duration_ms": 165906,
       "name": "T\u00f3mbola",
       "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Se Olvid\u00f3 (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Se Olvid\u00f3 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Buscando el Olvido",
         "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Se Olvid\u00f3 (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys"
+        "name": "No Mereces Que Te Quiera",
+        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
       },
       "artists": [
         {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 191640,
-      "name": "Se Olvid\u00f3 - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1"
+      "duration_ms": 198893,
+      "name": "No Mereces Que Te Quiera",
+      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
     },
     {
       "added_at": "2022-09-23 05:00:00",

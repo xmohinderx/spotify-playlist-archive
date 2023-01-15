@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,579 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,586 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 35 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
 | 36 | [Manteca](https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Night In Tunisia: The Very Best Of Dizzy Gillespie](https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf) | 3:06 |
 | 37 | [A You’re Adorable](https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7) | [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Jimmy Dorsey:The Complete Standard Transcriptions](https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0) | 2:29 |
-| 38 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 |
-| 39 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
+| 38 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
+| 39 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 |
 | 40 | [Lullaby of the Leaves](https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu) | [The Kenny Clarke\-Francy Boland Big Band](https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO) | [More Smiles](https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg) | 4:14 |
 | 41 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
 | 42 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 | 50 | [Whisper Not](https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv) | [Maynard Ferguson Orchestra](https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD) | [1967](https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK) | 6:18 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDhiNmM1MjVjNDI4ZjQ5YTlkOTdlMTFiNGU2YmRjODMz`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGM3ZDBhOTNlNjM0OGMyYTNhNjljNWYwOWJiOWZjNWY2`

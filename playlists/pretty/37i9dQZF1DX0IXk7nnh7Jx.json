@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43615,
+  "num_followers": 43621,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDY4ZmVlYjFmYTlhZmVmNzRlN2YxMDM5MzVjNjkwYzlm",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDUyZDdmYmQzOWMyYmJkYzRkZTM2MjljZGE3ZWY1MWFl",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -391,26 +391,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Fractioned Heart",
-        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        },
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Communion",
-      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "VILLAIN",
         "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
       },
@@ -423,6 +403,22 @@
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -443,18 +439,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+        "name": "Fractioned Heart",
+        "url": "https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL"
       },
       "artists": [
         {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        },
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         }
       ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+      "duration_ms": 298093,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 183772,
-      "name": "A Little Bit of Faith",
-      "url": "https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Loved by You",
         "url": "https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 294780,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 183772,
+      "name": "A Little Bit of Faith",
+      "url": "https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "LET YOURSELF BE LOVED",
-        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Falling Up",
-      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Hollows",
         "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 266169,
       "name": "Held by Your Love",
       "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "LET YOURSELF BE LOVED",
+        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "A New Heart",
-        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
-      },
-      "artists": [
-        {
-          "name": "Cory Emery",
-          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Magic in the Moment",
         "url": "https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Everything Is Possible",
-        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
+        "name": "A New Heart",
+        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
       },
       "artists": [
         {
-          "name": "Matthew Zigenis",
-          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
+          "name": "Cory Emery",
+          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
         }
       ],
-      "duration_ms": 269560,
-      "name": "Yes and Amen",
-      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+      "duration_ms": 197462,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Know Your Heart",
+      "url": "https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -847,18 +847,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+        "name": "Everything Is Possible",
+        "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
       },
       "artists": [
         {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Matthew Zigenis",
+          "url": "https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Know Your Heart",
-      "url": "https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6"
+      "duration_ms": 269560,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -883,18 +883,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
         }
       ],
-      "duration_ms": 261191,
-      "name": "Salome & Saint Procula",
-      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -915,6 +915,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 299333,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-351 songs - 1 day 12 hr 32 min
+352 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2021-04-21 | 2022-12-17 |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-02 |  |
+| [Hannah](https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:52 | 2023-01-06 |  |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 |  |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |
@@ -329,7 +330,7 @@
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Unexpected \- Original Mix](https://open.spotify.com/track/6r51snBpocTojQyqiTvydG) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Unexpected](https://open.spotify.com/album/3fUMfl3s0VtOVWeRshPSGj) | 7:02 | 2022-07-01 | 2022-07-29 |
 | [Universal Love](https://open.spotify.com/track/3XkAYEddiASB6h8J0cwAt0) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 6:08 | 2022-07-01 | 2022-11-16 |
-| [Universal Love](https://open.spotify.com/track/531RaZXLyYi8ZiIpqSGjwJ) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 6:08 | 2022-07-01 |  |
+| [Universal Love](https://open.spotify.com/track/531RaZXLyYi8ZiIpqSGjwJ) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 6:08 | 2022-07-01 | 2023-01-15 |
 | [Universal Love](https://open.spotify.com/track/7uJvzzUgt8CpkEduX4m1Sp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Universal Love](https://open.spotify.com/album/0bGjyf76ywFnY5fMLRNLqV) | 6:08 | 2022-05-24 | 2022-10-17 |
 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 | 2022-03-25 |  |
 | [Unlocked \- Einmusik Remix](https://open.spotify.com/track/5hRRDrpfl39Gfw7jXEZx82) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Unlocked \(Einmusik Remix\)](https://open.spotify.com/album/6vzHHn8bY3ja0rwkbhZ4NB) | 7:28 | 2022-06-17 | 2022-08-07 |

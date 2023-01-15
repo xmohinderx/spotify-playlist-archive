@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-484 songs - 1 day 14 hr 29 min
+485 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2022-04-14 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2022-04-14 | 2022-05-14 |
-| [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 |  |
+| [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 | 2023-01-15 |
 | [Blue Thoughts](https://open.spotify.com/track/7hvSyIZ9zoCASvdRjnQaQ6) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Blue Thoughts](https://open.spotify.com/album/6Y74yq4aQLCrlY2Iqt6Tw6) | 2:21 | 2022-04-28 | 2022-10-08 |
 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 | 2022-04-14 | 2022-09-23 |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-04-14 | 2022-09-16 |
@@ -124,7 +124,7 @@
 | [Everglades](https://open.spotify.com/track/4PIZ1djPPclUwi9wWvVUOB) | [Mark Poirier](https://open.spotify.com/artist/0yEAw1dh3UxIdbb0xVyUNF) | [Everglades](https://open.spotify.com/album/6JGL6OoyFHYm6hdNLv1j8C) | 4:39 | 2022-04-14 | 2022-04-27 |
 | [Everything I Love](https://open.spotify.com/track/0Pw63fBSPpWdWPfcUr9hY5) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [John Taylor](https://open.spotify.com/artist/3xdh5R3rzl351hFb8raN5F) | [You Never Know](https://open.spotify.com/album/1ewZeCccAJFFZdbf7Ve0MU) | 7:45 | 2022-04-14 | 2022-09-23 |
 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 | 2022-04-14 | 2022-10-08 |
-| [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 | 2023-01-13 |
+| [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-15 | 2022-10-08 |
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2022-09-23 |
 | [Field](https://open.spotify.com/track/0cjJap1BiwjXNmjnInw1V4) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Years](https://open.spotify.com/album/1Grt1oXyERBwijZXE8li2n) | 2:17 | 2022-04-14 | 2022-10-08 |
@@ -209,6 +209,7 @@
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2022-04-14 | 2022-04-28 |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-05-31 | 2022-11-23 |
 | [In Walked Bud](https://open.spotify.com/track/49YksKHYlDNTQz8WB2PRUH) | [Jacob Simon Band](https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov) | [Relaxin' At Camarillo](https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE) | 3:43 | 2022-04-14 | 2022-09-23 |
+| [Incognito](https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Incognito](https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR) | 4:32 | 2023-01-12 |  |
 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 | 2022-04-14 | 2022-07-29 |
 | [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-06-30 | 2022-10-08 |
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2022-10-08 |
@@ -263,7 +264,7 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-24 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
-| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 |  |
+| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 | 2023-01-15 |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2022-11-24 |
 | [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 | 2022-10-08 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |

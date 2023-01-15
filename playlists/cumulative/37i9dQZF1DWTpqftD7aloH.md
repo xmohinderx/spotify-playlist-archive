@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-127 songs - 11 hr 48 min
+128 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,12 +122,13 @@
 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 | 2022-09-09 |  |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2022-09-09 | 2023-01-14 |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2022-09-09 |  |
+| [Tua Graça Me Basta](https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Tua Graça Me Basta](https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB) | 7:19 | 2022-12-09 |  |
 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 | 2022-09-09 |  |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-09 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-09 |  |
 | [Uma Nova História \- Acústico](https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:38 | 2022-09-09 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-09 |  |
-| [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 |  |
+| [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 | 2023-01-15 |
 | [Você Não Vai Parar \(Ao Vivo\)](https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Você Não Vai Parar \(Ao Vivo\)](https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs) | 4:20 | 2022-10-24 |  |
 | [Way Maker \- Single Version](https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm) | 3:26 | 2022-09-09 |  |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:50 | 2022-11-04 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,359 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,374 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 39 | [Cheap And Cheerful \- Sebastian remix](https://open.spotify.com/track/1uX5AUX69UtVhxbFI6H1Ql) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Cheap And Cheerful \(Remixes\)](https://open.spotify.com/album/0O1WSc02pnlWD4lsYzoaQK) | 5:56 |
 | 40 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 |
 | 41 | [Lucky Boy \- Outlines Remix](https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 4:26 |
-| 42 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
-| 43 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
-| 44 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
-| 45 | [Idealistic](https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 4:10 |
+| 42 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 |
+| 43 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
+| 44 | [Idealistic](https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 4:10 |
+| 45 | [Testarossa \(SebastiAn Remix\)](https://open.spotify.com/track/1J5Z0AVsxRejfrtZGGAcWO) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [1986 \- EP](https://open.spotify.com/album/3wke2l2r3BQ9YJ75x5A1DK) | 4:58 |
 | 46 | [Romantic Rights](https://open.spotify.com/track/0iHZnbbFHDO9MzHWlJI0Hb) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [You're A Woman, I'm A Machine](https://open.spotify.com/album/07sQdQsdK2Pxh48FOvYgce) | 3:15 |
 | 47 | [The Geeks Were Right](https://open.spotify.com/track/6PBPOhO2bxiV1cBei5Nxce) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Fasciinatiion](https://open.spotify.com/album/3xFABHEo4gCQJp8YOVBbOZ) | 2:56 |
 | 48 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 71 | [Love Sweet Sound](https://open.spotify.com/track/48u0k7If0SEl1gSgQ652w7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Soundboy Rock](https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9) | 4:35 |
 | 72 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 73 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 74 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
-| 75 | [Cocotte](https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP) | [Teenage Bad Girl](https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb) | [Cocotte](https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR) | 4:22 |
+| 74 | [Cocotte](https://open.spotify.com/track/0wQLUNmt4sr3VWom2IU7yP) | [Teenage Bad Girl](https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb) | [Cocotte](https://open.spotify.com/album/6eqdmGdk3oA1YOFLkWEXfR) | 4:22 |
+| 75 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
 
-Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDRiNmNhNTg2ZjdiYjYwNDA4NjQ0NTc2NGMxMzQ3YjQ1`
+Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDYwYzlmNWNhMTE3YTc3NjJlN2VmZjFhZjc5ZjEwMWE0`

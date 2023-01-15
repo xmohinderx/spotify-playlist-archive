@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49621,
+  "num_followers": 49623,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDlkZmU0MGJlMjg0YjlkNTk4ODhjOTZmMmNkYWUwOWUy",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDM3ZjBkZjdhMmQwMzMwMzMyNTUxOTBiM2YyODc2ZjU4",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Long Road",
-        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -651,38 +651,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
-      },
-      "artists": [
-        {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "The World According To Gob",
-        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "I Hear You Calling",
-      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Akimbo Alogo",
         "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
       },
@@ -699,6 +667,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 248000,
       "name": "Sleeping Sickness",
       "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The World According To Gob",
+        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "I Hear You Calling",
+      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
       },
       "artists": [
         {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
+      "duration_ms": 305413,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -827,22 +843,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 305413,
-      "name": "Comin' Home",
-      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Honeymoon Suite",
         "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "How Far Shallow Takes You",
-        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The State",
         "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210840,
       "name": "Leader of Men",
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "How Far Shallow Takes You",
+        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -939,6 +939,38 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Nature Of The Beast",
+        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
+      },
+      "artists": [
+        {
+          "name": "April Wine",
+          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Just Between You And Me",
+      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Boy In The Box",
         "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
       },
@@ -951,38 +983,6 @@
       "duration_ms": 295000,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 345013,
-      "name": "Hello, I'm In Delaware",
-      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 345013,
+      "name": "Hello, I'm In Delaware",
+      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "In Loving Memory Of - 20th Anniversary Special Edition",
         "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
       },
@@ -1015,38 +1031,6 @@
       "duration_ms": 304906,
       "name": "That Song",
       "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Nature Of The Beast",
-        "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
-      },
-      "artists": [
-        {
-          "name": "April Wine",
-          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Just Between You And Me",
-      "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1075,6 +1059,38 @@
       "duration_ms": 209981,
       "name": "R.E.D.",
       "url": "https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Clumsy",
-        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Superman's Dead",
-      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Furiosity",
         "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "House of Ill Fame (Bonus Live Cut Edition)",
-        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
-      },
-      "artists": [
-        {
-          "name": "The Trews",
-          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Not Ready to Go",
-      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Share The Land",
         "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "House of Ill Fame (Bonus Live Cut Edition)",
+        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Not Ready to Go",
+      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
     }
   ],
   "unique_name": "Canadian Weekend",

@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 174147,
+  "num_followers": 174166,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDFhMzI0ZTgyMDhjYzhlZjY0YWUzNWU5YTg3MDgzZDVm",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGI5MmQxNDJlODdkYzYzOGRmYWE0YTkwYWIwNTgxZjc0",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 229426,
       "name": "breathe again",
       "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Under the Pepper Tree",
-        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
       "artists": [
         {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 131248,
-      "name": "Night Singing",
-      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
+        "name": "Answers (Acoustic)",
+        "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
       },
       "artists": [
         {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
+      "duration_ms": 190229,
+      "name": "Answers - Acoustic",
+      "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Answers (Acoustic)",
-        "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
       },
       "artists": [
         {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
         }
       ],
-      "duration_ms": 190229,
-      "name": "Answers - Acoustic",
-      "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Front Row Seat to Earth",
-        "url": "https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP"
+        "name": "Goin' Platinum!",
+        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 277266,
-      "name": "Seven Words",
-      "url": "https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW"
+      "duration_ms": 157093,
+      "name": "Medicine Woman",
+      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Goin' Platinum!",
-        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
+        "name": "Front Row Seat to Earth",
+        "url": "https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 157093,
-      "name": "Medicine Woman",
-      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
+      "duration_ms": 277266,
+      "name": "Seven Words",
+      "url": "https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 268660,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 268660,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Occasionally",
         "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1391,22 +1407,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Over That Road I'm Bound",
-        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
-      },
-      "artists": [
-        {
-          "name": "Joachim Cooder",
-          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Over That Road I'm Bound To Go",
-      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -1507,6 +1491,38 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Over That Road I'm Bound",
+        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
+      },
+      "artists": [
+        {
+          "name": "Joachim Cooder",
+          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Over That Road I'm Bound To Go",
+      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -1619,6 +1635,22 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1651,38 +1683,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Rosey",
         "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul",
-  "num_followers": 125633,
+  "num_followers": 125644,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMDc0MzM1N2VmNTVmMzU3YTJhYjEwNzQwZjk1NWYwYzMw",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMDM1ODdkM2ExYzM0M2MzNDEzOGVkMmVlYTE3YWI0YjAz",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -515,22 +515,26 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -559,22 +563,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -595,18 +599,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -663,6 +671,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -855,22 +879,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 151301,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -883,6 +891,22 @@
       "duration_ms": 228853,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -963,6 +987,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
+      },
+      "artists": [
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -979,22 +1019,6 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1123,26 +1147,6 @@
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     }
   ],
   "unique_name": "aloe",

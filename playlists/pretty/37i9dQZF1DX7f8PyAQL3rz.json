@@ -1,12 +1,12 @@
 {
   "description": "wiu vetin criminal",
-  "num_followers": 1041655,
+  "num_followers": 1041902,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM3ODE4MywwMDAwMDAwMDYxYTVhYmE3NWJjNzliNjBiN2U2NTc4YjYzOTAzZGZk",
+  "snapshot_id": "MTY3MzM3ODE4MywwMDAwMDAwMDZkYjc2MzBiODFhZDk3ZjViNzFjYTBkMTlmNmQyNzUx",
   "tracks": [
     {
       "added_at": "2023-01-10 19:16:23",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -663,46 +683,6 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 150610,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -739,6 +719,26 @@
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 150610,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
-        "name": "Revela\u00e7\u00e3o do Ano",
-        "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
-      },
-      "artists": [
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Revela\u00e7\u00e3o do Ano",
-      "url": "https://open.spotify.com/track/5fKjpVyB8HIK9Gm1pV3PJm"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
         "name": "Vida Toda - Spotify Singles",
         "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"
       },
@@ -1007,26 +987,22 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
+        "name": "Revela\u00e7\u00e3o do Ano",
+        "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
         },
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
         }
       ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
+      "duration_ms": 135529,
+      "name": "Revela\u00e7\u00e3o do Ano",
+      "url": "https://open.spotify.com/track/5fKjpVyB8HIK9Gm1pV3PJm"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -1051,6 +1027,30 @@
       "duration_ms": 204461,
       "name": "Luz Apagada",
       "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -1187,66 +1187,6 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
-        "name": "Na Onda do Gin",
-        "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Marginal Supply",
-          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
-        }
-      ],
-      "duration_ms": 264057,
-      "name": "Na Onda do Gin",
-      "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
-        "name": "Eu Fiz o Jogo Virar",
-        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Eu Fiz o Jogo Virar",
-      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
       },
@@ -1279,6 +1219,70 @@
       "duration_ms": 458666,
       "name": "Pagodeiro",
       "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
+        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "duration_ms": 300689,
+      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
+        "name": "Na Onda do Gin",
+        "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Marginal Supply",
+          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
+        }
+      ],
+      "duration_ms": 264057,
+      "name": "Na Onda do Gin",
+      "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -1443,8 +1447,8 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
-        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
+        "name": "Eu Fiz o Jogo Virar",
+        "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
       },
       "artists": [
         {
@@ -1452,25 +1456,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
           "name": "Mainstreet",
           "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 300689,
-      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
+      "duration_ms": 145573,
+      "name": "Eu Fiz o Jogo Virar",
+      "url": "https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl"
     },
     {
       "added_at": "2023-01-10 19:16:23",

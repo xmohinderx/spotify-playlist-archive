@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,457 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,508 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 35 | [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 |
 | 36 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 |
 | 37 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
-| 38 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
+| 38 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 39 | [Don't Dull](https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:39 |
 | 40 | [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 |
-| 41 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
+| 41 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
 | 42 | [Tonight](https://open.spotify.com/track/1uUicV3BDzRccm6azPFnrl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/4RsttwlINL1UxDTZL2rQ6I) | 4:10 |
 | 43 | [Fall in Love](https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:16 |
 | 44 | [No Lele](https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:38 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 56 | [Hol' It](https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [After the Storm](https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6) | 3:49 |
 | 57 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 58 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
-| 59 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
-| 60 | [Dance for Me](https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance for Me](https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME) | 3:24 |
+| 59 | [Dance for Me](https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance for Me](https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME) | 3:24 |
+| 60 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
 | 61 | [Bundelele](https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Bundelele](https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5) | 3:25 |
-| 62 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
-| 63 | [Bumper To Bumper](https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 3:45 |
+| 62 | [Bumper To Bumper](https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Wande Coal](https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66) | 3:45 |
+| 63 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 64 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
 | 65 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 66 | [First of All](https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [YBNL](https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX) | 3:06 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 77 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
 | 78 | [Bae \(feat\. Afro B\)](https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Bae \(feat\. Afro B\)](https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB) | 3:23 |
 | 79 | [Couper décaler](https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG) | [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Retro Zouk Tunes](https://open.spotify.com/album/3LKSt5p2jPVO93JwgllpXP) | 5:29 |
-| 80 | [Waist & Power](https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Waist & Power](https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn) | 5:05 |
+| 80 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDhkOTZiMDU3NzAxYWMxMmY0Y2Q0NmViOGVmNjZlNGY3`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGZlNjI3NTA2NjdmMzI0OTUyYzNlYjIzYjcwZjNiOTY0`

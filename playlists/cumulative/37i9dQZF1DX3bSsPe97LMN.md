@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Conexión Divina en portada.
 
-229 songs - 11 hr 57 min
+230 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 | 2022-06-07 | 2022-10-15 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-29 | 2022-08-06 |
 | [Este Sentimiento](https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Este Sentimiento](https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc) | 3:16 | 2023-01-13 |  |
-| [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 | 2022-10-14 |  |
+| [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 | 2022-10-14 | 2023-01-15 |
 | [F E F](https://open.spotify.com/track/2pjYzSOQSiAw8xzjwDrJ74) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [F E F](https://open.spotify.com/album/6fBY0FGZiYYiE5bUFcNfMe) | 4:33 | 2022-12-02 |  |
 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 | 2022-08-05 | 2022-11-19 |
 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 | 2022-08-05 | 2022-09-24 |
@@ -177,6 +177,7 @@
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2021-12-27 | 2022-09-24 |
 | [Por Ti \- Spotify Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 | 2022-11-18 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-04-01 | 2022-10-15 |
+| [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 | 2023-01-13 |  |
 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-09-23 | 2022-12-10 |
 | [Quién Como Ella](https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Quién Como Ella](https://open.spotify.com/album/4dpn4WmpnHdo68TfbZaQsA) | 1:59 | 2022-09-30 | 2022-12-10 |
 | [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 | 2023-01-13 |  |

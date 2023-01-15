@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1MzczNCwwMDAwMDAwMDJkMjU5YWM5ZWU5ZDI4ZjQxMTk5NGFkNzIwOGUxNGU1",
+  "snapshot_id": "MTY3MjI1MzczNCwwMDAwMDAwMDcyYTI3M2EwYjQ4NGRlM2EwYjQ1YzYyMWViZmUxMTM1",
   "tracks": [
     {
       "added_at": "2022-12-28 18:55:34",
@@ -475,6 +475,30 @@
     {
       "added_at": "2022-12-28 18:55:34",
       "album": {
+        "name": "DON'T YOU WORRY",
+        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "DON'T YOU WORRY",
+      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "added_at": "2022-12-28 18:55:34",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
-    },
-    {
-      "added_at": "2022-12-28 18:55:34",
-      "album": {
-        "name": "DON'T YOU WORRY",
-        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "DON'T YOU WORRY",
-      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
     },
     {
       "added_at": "2022-12-28 18:55:34",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-12-28 18:55:34",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
+    },
+    {
+      "added_at": "2022-12-28 18:55:34",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 225560,
       "name": "Country Girl (Shake It For Me)",
       "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2022-12-28 18:55:34",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2022-12-28 18:55:34",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-12-28 18:55:34",
       "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/3DCLmgvu8dwEyJ3MpBcNka"
       },
       "artists": [
         {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
         }
       ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+      "duration_ms": 145300,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/1JCrXIeI6a9qRIkfAEz7J1"
     }
   ],
   "unique_name": "Spring Loaded",

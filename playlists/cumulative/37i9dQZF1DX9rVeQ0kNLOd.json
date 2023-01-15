@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109997,
+      "name": "luv revolution",
+      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "album": {
         "name": "made my day feat. Takuya Kuroda / Marcus D",
         "url": "https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 264375,
       "name": "wish",
       "url": "https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt"

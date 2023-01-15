@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 73755,
+  "num_followers": 73765,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGI3MjAwNDU5ZmQ0YTBhNDJjMmRlMzIzY2ZhNzcwMTgx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDlhMTQyMDdhMWRkYWVhOGMwYzZlMzVlZGM1MTVmN2Ey",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
       "artists": [
         {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
         }
       ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
       "artists": [
         {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
         }
       ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Patron",
         "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 280383,
       "name": "Se Pa Pou Dat",
       "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "Dejanbem",
+      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Chante ap ret chante",
         "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Dejanbem",
-      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Vodoo Adjae",
-        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 574693,
-      "name": "Ke M Pa Sote",
-      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Show Me Love (feat. Meer Colon)",
         "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Vodoo Adjae",
+        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 574693,
+      "name": "Ke M Pa Sote",
+      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
-      },
-      "artists": [
-        {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
-        }
-      ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Tap (Remix)",
         "url": "https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 215026,
       "name": "Kote'w Te Ye",
       "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
+      },
+      "artists": [
+        {
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+        }
+      ],
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Tonm Tonm",
-        "url": "https://open.spotify.com/album/2tvzTfdkKLEoJZcXqHwlKv"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        },
-        {
-          "name": "Dread Shoodly",
-          "url": "https://open.spotify.com/artist/2cM6V68tHgDqZrkLYU8XTE"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Tonm Tonm",
-      "url": "https://open.spotify.com/track/1WvbHRemlLGWYg4hm320U6"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Tonm Tonm",
+        "url": "https://open.spotify.com/album/2tvzTfdkKLEoJZcXqHwlKv"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        },
+        {
+          "name": "Dread Shoodly",
+          "url": "https://open.spotify.com/artist/2cM6V68tHgDqZrkLYU8XTE"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Tonm Tonm",
+      "url": "https://open.spotify.com/track/1WvbHRemlLGWYg4hm320U6"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 235389,
       "name": "Siw Ta Wem Grog",
       "url": "https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "LAKAY",
-        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
-      },
-      "artists": [
-        {
-          "name": "Jeff Pierre",
-          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
-        },
-        {
-          "name": "AlCol",
-          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "LAKAY",
-      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "House Life",
         "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 225000,
       "name": "House Life",
       "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "LAKAY",
+        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pierre",
+          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+        },
+        {
+          "name": "AlCol",
+          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "LAKAY",
+      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 158620,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1939,22 +1939,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
+        "name": "Bade Zile",
+        "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
       },
       "artists": [
         {
-          "name": "Chabin",
-          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
         },
         {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 173025,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+      "duration_ms": 225727,
+      "name": "Bade Zile",
+      "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
     }
   ],
   "unique_name": "Haitian Heat",

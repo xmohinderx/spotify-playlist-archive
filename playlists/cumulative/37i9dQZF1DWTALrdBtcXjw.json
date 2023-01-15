@@ -1667,6 +1667,36 @@
     },
     {
       "album": {
+        "name": "The Good Spirits, Pt. 2",
+        "url": "https://open.spotify.com/album/1bXKh7MCMtdstPtz3CMVmm"
+      },
+      "artists": [
+        {
+          "name": "Denis G\u00e4bel",
+          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
+        },
+        {
+          "name": "Sebastian Sternal",
+          "url": "https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Clarence Penn",
+          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375893,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/7AzjbpL6a4ZtsPvDvGHOfp"
+    },
+    {
+      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -3762,7 +3792,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 324133,
       "name": "Song for Selene (I'll Meet You in My Dreams)",
       "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"

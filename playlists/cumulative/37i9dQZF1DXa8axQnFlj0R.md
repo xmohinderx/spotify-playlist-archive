@@ -4,7 +4,7 @@
 
 > let me hold both your hands in the holes of my sweater
 
-174 songs - 10 hr 41 min
+175 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-01-07 |  |
 | [How Do You Know](https://open.spotify.com/track/55tFsAqBX9hQa060WnEHK4) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL), [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [How Do You Know](https://open.spotify.com/album/0friSADlRRmOBVfIJgx0Ob) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 | 2022-12-05 |
+| [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 | 2022-10-14 |  |
 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 | 2021-12-10 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-09-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 | 2021-12-10 |  |
@@ -110,7 +111,7 @@
 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-12-10 |  |
 | [peace](https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:54 | 2021-12-10 |  |
-| [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 | 2021-12-10 |  |
+| [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 | 2021-12-10 | 2023-01-15 |
 | [Pictures](https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:57 | 2022-01-07 | 2022-12-03 |
 | [Pinetrees](https://open.spotify.com/track/51l3Yw0yTqmDRMBnxMsE1n) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Återvända](https://open.spotify.com/album/5g4dqFkGwNL0BGywOBiG06) | 3:24 | 2021-12-10 | 2022-11-13 |
 | [Racing Stripes](https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 4:06 | 2021-12-10 | 2022-10-15 |

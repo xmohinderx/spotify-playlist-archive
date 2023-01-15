@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,637 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,686 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 45 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 |
 | 46 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
 | 47 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
-| 48 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 |
-| 49 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
-| 50 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
+| 48 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
+| 49 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 |
+| 50 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
 | 51 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
 | 52 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 | 53 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
 | 54 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 |
 | 55 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 |
 | 56 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
-| 57 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
-| 58 | [Night Call](https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:50 |
+| 57 | [Night Call](https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:50 |
+| 58 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 59 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
 | 60 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 |
 | 61 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 63 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 64 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 65 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
-| 66 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
-| 67 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
-| 68 | [ICARUS](https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [ICARUS](https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL) | 2:35 |
+| 66 | [ICARUS](https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [ICARUS](https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL) | 2:35 |
+| 67 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
+| 68 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
 | 69 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK) | 2:55 |
 | 70 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 |
 | 71 | [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 74 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 75 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDgxZDczMWNlOTRkOGE2NTA3N2Q1ZjYxNmE3ODE1ZmQ1`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGE2ZjYzNTI2NjYyZWJjNmRkOTRlODlkNmQ3ZDNjYjU4`

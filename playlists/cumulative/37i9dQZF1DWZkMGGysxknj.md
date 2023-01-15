@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-246 songs - 13 hr 54 min
+247 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Feels \- Acoustic](https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Feels](https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9) | 3:34 | 2021-07-16 |  |
 | [Fever](https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Fever](https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim) | 3:56 | 2021-07-16 |  |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 |  |
-| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 |  |
+| [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 | 2023-01-15 |
 | [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 | 2022-10-15 |
 | [Flowers](https://open.spotify.com/track/1i888NGaVHKEZX8ooyKMJv) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/769s0o4Q4cWxhN3cJUYnHS) | 2:19 | 2021-07-16 |  |
 | [Flowers](https://open.spotify.com/track/6bQx6qOENXNZOg404fDD3U) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Flowers](https://open.spotify.com/album/1TuLZxWiU277r6sk4ZZkIz) | 2:19 | 2021-07-16 | 2022-07-29 |
@@ -234,6 +234,7 @@
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2021-07-16 |  |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2021-07-16 | 2022-07-29 |
 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 | 2021-07-16 |  |
+| [Wake Up With the Sun](https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:36 | 2023-01-03 |  |
 | [Wannabe](https://open.spotify.com/track/4gY5d6r5zgX3IGJYbpgwG5) | [Unwanted Us](https://open.spotify.com/artist/6f5gQLL8yzSsiXVbGoScn7) | [Wannabe](https://open.spotify.com/album/7KiANLqaCb75thWZ3UALwm) | 2:33 | 2021-07-16 | 2022-10-23 |
 | [Warriors \- Live Acoustic](https://open.spotify.com/track/6hEbHrQ9u1zCYYP8q4Gm97) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Warriors \(Live Acoustic\)](https://open.spotify.com/album/5lfL06y5foWq5tKciWyX8i) | 4:00 | 2021-07-16 | 2022-07-29 |
 | [Water](https://open.spotify.com/track/23LO0vpCsno4HBk36R5yEn) | [Birdie Busch](https://open.spotify.com/artist/0IuTILt9CYAi0LgEGH93sD) | [Water](https://open.spotify.com/album/2A6L16e7qs2bGzjRxEJmvN) | 2:25 | 2021-07-16 | 2022-07-29 |

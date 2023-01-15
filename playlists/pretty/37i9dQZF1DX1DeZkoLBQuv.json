@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDNkODM0MDJlMjA4ZmM2MDFkOTM1YmJhYTJjYjE0MTA1",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDkwMjFlZDliOWY2OGZlZmM3ZTIyYjdjZjAyYWM3NTg4",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Aclame Ao Sehnor",
         "url": "https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
       "artists": [
         {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 279520,
-      "name": "Emanuel",
-      "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -243,6 +227,22 @@
       "duration_ms": 245160,
       "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
+      },
+      "artists": [
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "Emanuel",
+      "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Lindo \u00c9s (Beauty, Beauty)",
+        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "duration_ms": 298488,
+      "name": "Lindo \u00c9s (Beauty, Beauty)",
+      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "\u00d3 Noite Santa",
         "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 234663,
       "name": "Gl\u00f3ria e Aleluia - Christmas",
       "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Lindo \u00c9s (Beauty, Beauty)",
-        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        }
-      ],
-      "duration_ms": 298488,
-      "name": "Lindo \u00c9s (Beauty, Beauty)",
-      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -447,38 +447,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Por Amor a N\u00f3s",
-      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 325311,
-      "name": "Faz Brilhar / Brilha Jesus",
-      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal de Amor",
         "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 301859,
       "name": "Natal de Amor",
       "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 325311,
+      "name": "Faz Brilhar / Brilha Jesus",
+      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Por Amor a N\u00f3s",
+      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -676,13 +660,13 @@
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -699,6 +683,22 @@
       "duration_ms": 267911,
       "name": "O Melhor Presente",
       "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Busquem a Jesus",
+        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Busquem a Jesus",
+      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Busquem a Jesus",
-        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
       "artists": [
         {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 322058,
-      "name": "Busquem a Jesus",
-      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -839,22 +855,6 @@
       "duration_ms": 171571,
       "name": "Surgem Anjos Proclamando",
       "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     },
     {
       "added_at": "2022-12-09 06:26:14",

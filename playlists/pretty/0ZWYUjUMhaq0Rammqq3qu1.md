@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: Gryffin
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,959 likes - 68 songs - 3 hr 29 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,958 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

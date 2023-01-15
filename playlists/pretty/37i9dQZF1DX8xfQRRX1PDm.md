@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Ranveer & Deepika
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,160 likes - 63 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,170 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

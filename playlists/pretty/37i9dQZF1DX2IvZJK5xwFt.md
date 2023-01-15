@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin, Tom Morello
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,758 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,789 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

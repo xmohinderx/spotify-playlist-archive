@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Blessing Offor",
-  "num_followers": 402923,
+  "num_followers": 402933,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDFiZDhmZDNlNjRlYTY5OTY3MDA1ZjU5NjlmYTVkM2Q0",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDM5MDRkZmVhNDA4MjEzN2RjZDg2MGJkYmVjYzcwMTk4",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Everything I Know About Love",
@@ -483,22 +499,6 @@
       "duration_ms": 387600,
       "name": "Kick It to Me",
       "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Maybe We Could Be a Thing",
@@ -589,22 +573,6 @@
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Young Sick Camellia",
@@ -619,6 +587,38 @@
       "duration_ms": 283879,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -651,6 +651,22 @@
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -705,54 +721,6 @@
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
     },
     {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "ALPHA",
@@ -771,6 +739,38 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "WE ARE",
@@ -901,6 +917,22 @@
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -933,38 +965,6 @@
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "All Summer",
@@ -979,6 +979,22 @@
       "duration_ms": 171773,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 209586,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Black Is Golden",
-        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
-      },
-      "artists": [
-        {
-          "name": "Wyn Starks",
-          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
-        }
-      ],
-      "duration_ms": 184848,
-      "name": "Dancing My Way",
-      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+        "name": "Black Is Golden",
+        "url": "https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
+      "duration_ms": 184848,
+      "name": "Dancing My Way",
+      "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Velcro (feat. Gus Dapperton)",
-        "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 192793,
-      "name": "Velcro (feat. Gus Dapperton)",
-      "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
+      "duration_ms": 199133,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1183,6 +1163,26 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Velcro (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 192793,
+      "name": "Velcro (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1245,24 +1245,20 @@
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Hurts So Bad",
-        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
       },
       "artists": [
         {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+          "name": "Mica Millar",
+          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
         }
       ],
-      "duration_ms": 235061,
-      "name": "Hurts So Bad - with Josh Teskey",
-      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+      "duration_ms": 194266,
+      "name": "Flashlights",
+      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1283,6 +1279,26 @@
       "duration_ms": 193047,
       "name": "about time",
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1365,20 +1381,20 @@
       "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2022-03-04 05:01:00",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
+        "name": "comfortably in pain",
+        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
       },
       "artists": [
         {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Flashlights",
-      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
+      "duration_ms": 153315,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1413,22 +1429,6 @@
       "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Hypotheticals - Edit",
-      "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "AM Gold",
@@ -1445,36 +1445,20 @@
       "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "comfortably in pain",
-        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
+        "name": "Obviously",
+        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 153315,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 275817,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
+      "duration_ms": 190647,
+      "name": "Hypotheticals - Edit",
+      "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1497,20 +1481,20 @@
       "url": "https://open.spotify.com/track/45Dhc9gFBVFwaxSgzBd7Lo"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
       },
       "artists": [
         {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+      "duration_ms": 275817,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1549,6 +1533,22 @@
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Face The River",
@@ -1563,22 +1563,6 @@
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Adi Oasis",
-        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 241057,
-      "name": "Whisper My Name",
-      "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1605,22 +1589,6 @@
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Dance For Love",
-        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 262536,
-      "name": "Dance For Love",
-      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Good Man (First Love)",
@@ -1635,6 +1603,22 @@
       "duration_ms": 160361,
       "name": "Good Man (First Love)",
       "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Adi Oasis",
+        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 241057,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Dance For Love",
+        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 262536,
+      "name": "Dance For Love",
+      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Italian Ice",
         "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
       },
@@ -1721,20 +1721,20 @@
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
         }
       ],
-      "duration_ms": 215787,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
+      "duration_ms": 265106,
+      "name": "Good Lady",
+      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     }
   ],
   "unique_name": "Retro Pop",

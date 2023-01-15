@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 516133,
       "name": "Blues After Dark",
       "url": "https://open.spotify.com/track/6kVGcuAOP7WnMnhWTL2p0W"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 273200,
       "name": "End Music",
       "url": "https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 462120,
       "name": "I'll Let You Know",
       "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
@@ -3896,6 +3896,28 @@
       "duration_ms": 380240,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
+    },
+    {
+      "album": {
+        "name": "Community Standards",
+        "url": "https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        },
+        {
+          "name": "Rick Margitza",
+          "url": "https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386053,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI"
     },
     {
       "album": {

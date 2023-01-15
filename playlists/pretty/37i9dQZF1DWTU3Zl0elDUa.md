@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,889 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,971 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 19 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 |
 | 20 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 21 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 |
-| 22 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 22 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 |
 | 23 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
-| 24 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
-| 25 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 |
+| 24 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 25 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
 | 26 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 27 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
 | 28 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
 | 60 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGM2N2MzM2MzOTlmYzc5Y2E0MDJlY2IzOTBmNGE2MjIy`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDZmMGEwMzYwODMyMjEyZTBjMjdhYjkzZWE4ZGIyZTgy`

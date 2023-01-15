@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 28018,
+  "num_followers": 28047,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzEzNywwMDAwMDAwMGNiYTliNDZjOWYyMGEyY2M2ODJjZjg2YTBmNDFiOTM3",
+  "snapshot_id": "MTY3MzU1NzEzNywwMDAwMDAwMDZjODlmMTUzNzczMjRjNTc1NmJiNTk5MzkyZTNmNDQx",
   "tracks": [
     {
       "added_at": "2023-01-12 19:24:05",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
+        "name": "The Essential Bessie Smith",
+        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
+      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
-        "name": "The Essential Bessie Smith",
-        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
-      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Hoodoo Lady (1933-1937)",
-        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
       "artists": [
         {
-          "name": "Memphis Minnie",
-          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 195306,
-      "name": "If You See My Rooster (Please Run Him Home)",
-      "url": "https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv"
+      "duration_ms": 165413,
+      "name": "As Long as I'm Moving",
+      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
+        "name": "Hoodoo Lady (1933-1937)",
+        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "If You See My Rooster (Please Run Him Home)",
+      "url": "https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 190026,
       "name": "Devil's Gonna Git You",
       "url": "https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "As Long as I'm Moving",
-      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Good Old Wagon",
-      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "The Essential Billie Holiday",
         "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 157960,
       "name": "Billie's Blues - Take 1",
       "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Good Old Wagon",
+      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Bertha \"Chippie\" Hill 1925-1929",
-        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
+        "name": "The Victoria Spivey Collection 1926-27",
+        "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
       "artists": [
         {
-          "name": "Bertha \"Chippie\" Hill",
-          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
+          "name": "Victoria Spivey",
+          "url": "https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4"
+        },
+        {
+          "name": "Louis Armstrong's Orchestra",
+          "url": "https://open.spotify.com/artist/2zDpfbbDiCyXhKSZIwiDpY"
         }
       ],
-      "duration_ms": 164624,
-      "name": "Trouble In Mind (9510)",
-      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+      "duration_ms": 196453,
+      "name": "Funny Feathers",
+      "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -791,22 +795,18 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "The Victoria Spivey Collection 1926-27",
-        "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
+        "name": "Bertha \"Chippie\" Hill 1925-1929",
+        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
       "artists": [
         {
-          "name": "Victoria Spivey",
-          "url": "https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4"
-        },
-        {
-          "name": "Louis Armstrong's Orchestra",
-          "url": "https://open.spotify.com/artist/2zDpfbbDiCyXhKSZIwiDpY"
+          "name": "Bertha \"Chippie\" Hill",
+          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
         }
       ],
-      "duration_ms": 196453,
-      "name": "Funny Feathers",
-      "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
+      "duration_ms": 164624,
+      "name": "Trouble In Mind (9510)",
+      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "East and West Blues",
         "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 206240,
       "name": "East and West Blues",
       "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Lil's Big Hits",
-        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
-      },
-      "artists": [
-        {
-          "name": "Lilgreen",
-          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Country Boy Blues",
-      "url": "https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 214293,
       "name": "I'm Getting 'Long Alright",
       "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "Lil's Big Hits",
+        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
+      },
+      "artists": [
+        {
+          "name": "Lilgreen",
+          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Country Boy Blues",
+      "url": "https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva"
     }
   ],
   "unique_name": "Queens of the Blues",

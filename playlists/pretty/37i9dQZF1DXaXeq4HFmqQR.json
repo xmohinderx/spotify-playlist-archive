@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10887,
+  "num_followers": 10888,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDM3NGY3NTdlMjE1YzFjOGUxYzFkMTJmMGJiZDE0YmY4",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDFhYTU3MzZkNTY1NDA1NjdjODVmMGQ1ZjkxM2QyMjA0",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Canci\u00f3n Para Mi Ex",
-        "url": "https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 168603,
-      "name": "Canci\u00f3n Para Mi Ex",
-      "url": "https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "MAL NECESARIO",
         "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 174826,
       "name": "MAL NECESARIO",
       "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n Para Mi Ex",
+        "url": "https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 168603,
+      "name": "Canci\u00f3n Para Mi Ex",
+      "url": "https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Buena Suerte Muchacha",
-        "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "COPACABANA",
         "url": "https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 181013,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Buena Suerte Muchacha",
+        "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Nunca har\u00eda lo que me hiciste",
+        "url": "https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p"
+      },
+      "artists": [
+        {
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Nunca har\u00eda lo que me hiciste",
+      "url": "https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Stefany",
         "url": "https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx"
       },
@@ -299,54 +315,6 @@
       "duration_ms": 223448,
       "name": "Stefany",
       "url": "https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Nunca har\u00eda lo que me hiciste",
-        "url": "https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p"
-      },
-      "artists": [
-        {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Nunca har\u00eda lo que me hiciste",
-      "url": "https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "diario de vida",
-        "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "diario de vida",
-      "url": "https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -379,6 +347,38 @@
       "duration_ms": 195593,
       "name": "Yo quiero bailar",
       "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "diario de vida",
+        "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "diario de vida",
+      "url": "https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "No Se Quemar\u00e1",
+        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
+      },
+      "artists": [
+        {
+          "name": "Mikaela",
+          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "No Se Quemar\u00e1",
+      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Vida Tan Bonita",
         "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 161075,
       "name": "Luz Verde",
       "url": "https://open.spotify.com/track/1rWh6ao1TlG3LG1t7mqXBw"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "No Se Quemar\u00e1",
-        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
-      },
-      "artists": [
-        {
-          "name": "Mikaela",
-          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "No Se Quemar\u00e1",
-      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 181951,
       "name": "Flow Violento",
       "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Olv\u00eddame",
-        "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
       },
       "artists": [
         {
-          "name": "Cromantis",
-          "url": "https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1"
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
         }
       ],
-      "duration_ms": 196814,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
+      "duration_ms": 217864,
+      "name": "Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/5W6iowe0gGIm4irPUYMWQq"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+        "name": "Olv\u00eddame",
+        "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
       },
       "artists": [
         {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+          "name": "Cromantis",
+          "url": "https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1"
         }
       ],
-      "duration_ms": 217864,
-      "name": "Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/5W6iowe0gGIm4irPUYMWQq"
+      "duration_ms": 196814,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
     },
     {
       "added_at": "2023-01-04 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6169,
+  "num_followers": 6173,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDk2OCwwMDAwMDAwMDcwOGFiY2NhMDIzODE5MzIxNWJhYWQ0YTM4MGFjNWUz",
+  "snapshot_id": "MTY3MzM2NDk2OCwwMDAwMDAwMDhkYWQyZWU3OGMwMmU4ODM0ZjNkZDI1YjdiOGU3ZmRj",
   "tracks": [
     {
       "added_at": "2023-01-03 04:46:56",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "Show Me the Money 777 Episode 1",
         "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
       },
@@ -163,22 +143,42 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
       "artists": [
         {
-          "name": "PARKHYUNJIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -271,22 +271,22 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
       "artists": [
         {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 225280,
-      "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -435,30 +435,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "School Rapper 2 Team-Battle Part 3",
-        "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        }
-      ],
-      "duration_ms": 222898,
-      "name": "Bar Code (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "Show Me the Money 5 Episode 2",
         "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 252258,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "School Rapper 2 Team-Battle Part 3",
+        "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        }
+      ],
+      "duration_ms": 222898,
+      "name": "Bar Code (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 247287,
-      "name": "FLOWER (Prod. by AVIN)",
-      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -703,6 +687,38 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 247287,
+      "name": "FLOWER (Prod. by AVIN)",
+      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
         "name": "2 4 : 2 6",
         "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
@@ -715,30 +731,6 @@
       "duration_ms": 257919,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
-        "name": "Primary and Pphk Pt.1",
-        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Pphk",
-          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Seat Belt (Feat. Dynamic Duo)",
-      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -771,6 +763,30 @@
       "duration_ms": 246400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "Primary and Pphk Pt.1",
+        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Pphk",
+          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Seat Belt (Feat. Dynamic Duo)",
+      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -835,6 +851,26 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
         "name": "Kang's Kitchen3",
         "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
       },
@@ -859,42 +895,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARKHYUNJIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244584,
-      "name": "Black Happiness",
-      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -915,18 +915,38 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
       "artists": [
         {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+      "duration_ms": 244584,
+      "name": "Black Happiness",
+      "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     },
     {
       "added_at": "2023-01-03 04:46:56",
@@ -999,26 +1019,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Til I Die",
-      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "HELLP",
         "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-03 04:46:56",
       "album": {
-        "name": "Be Okay",
-        "url": "https://open.spotify.com/album/0gAGS0dqr59rtw8x3aHSTX"
-      },
-      "artists": [
-        {
-          "name": "TAKEWON",
-          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
-        }
-      ],
-      "duration_ms": 213659,
-      "name": "Be Okay",
-      "url": "https://open.spotify.com/track/5PTE5rGhklqRQPuVlZvWAu"
-    },
-    {
-      "added_at": "2023-01-03 04:46:56",
-      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 217019,
       "name": "Lonely Night (feat.GAEKO)",
       "url": "https://open.spotify.com/track/7ftv3uigGigYVND065syjM"
+    },
+    {
+      "added_at": "2023-01-03 04:46:56",
+      "album": {
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/0gAGS0dqr59rtw8x3aHSTX"
+      },
+      "artists": [
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        }
+      ],
+      "duration_ms": 213659,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/5PTE5rGhklqRQPuVlZvWAu"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

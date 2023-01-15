@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,165 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,182 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 14 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 15 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 16 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
-| 17 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
-| 18 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 |
+| 17 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 |
+| 18 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
 | 19 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 20 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 |
 | 21 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 |
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 27 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 |
 | 28 | [Come For Me](https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Come For Me](https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS) | 3:29 |
 | 29 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
-| 30 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 |
-| 31 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
-| 32 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 |
-| 33 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
-| 34 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
-| 35 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
-| 36 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 |
-| 37 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 |
-| 38 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
-| 39 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
-| 40 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
+| 30 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
+| 31 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 |
+| 32 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
+| 33 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 |
+| 34 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
+| 35 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
+| 36 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 |
+| 37 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
+| 38 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 |
+| 39 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
+| 40 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
 | 41 | [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 |
 | 42 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
 | 43 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 47 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 |
 | 48 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 |
 | 49 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 |
-| 50 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 |
+| 50 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDhhOWM3ODkwYzljYzIyNDg5ZTQyOTNjYjdhZWExY2Jl`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGVhM2I2YmFiMTBjNzA3Zjk1MDQwYjIzMzA3N2I4MTZk`

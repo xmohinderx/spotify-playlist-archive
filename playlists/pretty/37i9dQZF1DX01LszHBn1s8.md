@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > if you be the cash i'll be the rubber band
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,682 likes - 590 songs - 1 day 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,766 likes - 590 songs - 1 day 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 282 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 283 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
 | 284 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 |
-| 285 | [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 |
+| 285 | [Barbiegurl](https://open.spotify.com/track/6yrDZxEp159f0UR12kVrcV) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:33 |
 | 286 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 287 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 |
 | 288 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 589 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 590 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY3MzYwNTcyMCwwMDAwMDAwMGMwZGM3ZWQwZWM0NzJmMmUyMGQ4MjY0OTJiZDdmODMx`
+Snapshot ID: `MTY3MzYwNTcyMCwwMDAwMDAwMGFjMGYwODJlNmVlMzEyMTQ4M2RmYjBhOTNiYzkwYmMz`

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-667 songs - 1 day 20 hr 27 min
+668 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [through the dark](https://open.spotify.com/track/65EY4frQ2VHOFL1lRblR3Q) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [through the dark](https://open.spotify.com/album/03XmAa7CY4NUekbYF9Lrqt) | 3:46 | 2022-06-07 | 2022-07-29 |
 | [Tiny Light](https://open.spotify.com/track/146aGkg9R4WHI9vxtwNdS9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light](https://open.spotify.com/album/19lzFCNnj60K9jg76V6k0b) | 4:50 | 2022-06-07 | 2022-07-29 |
 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 | 2022-06-07 |  |
+| [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-07 |  |
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/4pDvFXWbdFiQVpdZd0Z59u) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [TOP \-Japanese ver.\-](https://open.spotify.com/album/4DiIuRcvcMhDcPQqHc3NT4) | 3:08 | 2022-06-07 | 2022-07-27 |
 | [TOP \-Japanese ver.\-](https://open.spotify.com/track/6tuhGVjqfYYs0MYxapWibK) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:08 | 2022-06-07 |  |
 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 | 2022-06-07 |  |
@@ -561,7 +562,7 @@
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-07 |  |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-07 | 2022-06-30 |
 | [平行線](https://open.spotify.com/track/0KWRKoApTN934fJRgs7C0z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/6peVO4PKuuNbqCaQw5z6yE) | 4:58 | 2022-06-07 | 2022-07-29 |
-| [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 |  |
+| [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2022-06-07 | 2023-01-15 |
 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 | 2022-06-07 | 2022-07-29 |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-06-07 | 2022-11-13 |
 | [心海](https://open.spotify.com/track/0FJ6h0nFIe3irtTsrtuevI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 4:26 | 2022-06-07 | 2022-07-29 |

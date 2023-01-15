@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 861132,
+  "num_followers": 861262,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDY5NDg2NzI2ZDYwN2FlN2E4YTg2Y2M2N2UwNTY3OWM4",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDI3NTg3MjFlODk2MjRjYWRjZmYwMzYzODlhMjExMTVh",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
         "name": "Retro Active",
         "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
       },
@@ -303,6 +319,22 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
         "name": "The Poison (Deluxe Version)",
         "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
       },
@@ -315,22 +347,6 @@
       "duration_ms": 277533,
       "name": "Tears Don't Fall - Acoustic Version",
       "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -351,18 +367,18 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Control - Acoustic Version",
-      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Are You Gonna Be My Girl",
         "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Control - Acoustic Version",
+      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -447,22 +463,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "All I Want (Acoustic)",
-        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "All I Want - Acoustic",
-      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Boxes (Acoustic)",
         "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 262186,
       "name": "Boxes - Acoustic",
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "All I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "All I Want - Acoustic",
+      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "12\" Masters - The Essential Mixes",
         "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 237533,
       "name": "When You're Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -639,6 +655,22 @@
       "duration_ms": 275571,
       "name": "I Sat by the Ocean - Live Acoustic",
       "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Kill The Noise (Acoustic)",
+        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 161010,
+      "name": "Kill The Noise - Acoustic",
+      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -687,22 +719,6 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "Kill The Noise (Acoustic)",
-        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 161010,
-      "name": "Kill The Noise - Acoustic",
-      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 245426,
       "name": "Space - Acoustic Version",
       "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     }
   ],
   "unique_name": "Acoustic Rock",

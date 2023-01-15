@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Jenn Morel
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 44 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,591 likes - 44 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,28 +29,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 19 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
 | 20 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 |
 | 21 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 |
-| 22 | [Párrafo 8](https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:14 |
-| 23 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
-| 24 | [Sigue y Sigue](https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Sigue y Sigue](https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS) | 2:26 |
-| 25 | [Doble Filo](https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Las II Torres](https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H) | 3:42 |
-| 26 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
+| 22 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
+| 23 | [Párrafo 8](https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:14 |
+| 24 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
+| 25 | [Sigue y Sigue](https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Sigue y Sigue](https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS) | 2:26 |
+| 26 | [Doble Filo](https://open.spotify.com/track/1rOY4cLGxByL0VTaYIx6pD) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Las II Torres](https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H) | 3:42 |
 | 27 | [Que Tengo Que Hacer](https://open.spotify.com/track/1tkwIX1dhNQZmkFKgucIgI) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Que Tengo Que Hacer](https://open.spotify.com/album/5nMt32SNGPGANwkPWVUWIF) | 3:48 |
 | 28 | [Vete Y Dile](https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Vete Y Dile](https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ) | 2:27 |
 | 29 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
 | 30 | [Hey Mami](https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:26 |
 | 31 | [Caramelo](https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7) | [Lil Viic](https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Caramelo](https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj) | 3:28 |
-| 32 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
-| 33 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 |
+| 32 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 |
+| 33 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 34 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
 | 35 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 36 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 |
-| 37 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
-| 38 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
-| 39 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
+| 37 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
+| 38 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
+| 39 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
 | 40 | [Fettuccine](https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 3:00 |
 | 41 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
 | 42 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 |
 | 43 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
 | 44 | [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 |
 
-Snapshot ID: `MTY3MzI0NDk1OSwwMDAwMDAwMGYyNmVkMmU2YTg3NGM2OGExYjA3ZGJhZTYzNTI5OTg2`
+Snapshot ID: `MTY3MzI0NDk1OSwwMDAwMDAwMGIwYzRmZDZlZDA5ZWVkOGM0NzRiYzkxZWJkYWQxYzcw`

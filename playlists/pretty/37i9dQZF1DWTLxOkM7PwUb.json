@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 3948,
+  "num_followers": 3984,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGQ0M2Q2NmRlZWRlZDg3MTVkOWJjMjM2ZjIwNmU5MzU3",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDgwNzZmMzNjNTk3NTgzZWQ3YjU3N2M4NTBmMTBlMzYy",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "YaMeFui",
         "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 182594,
       "name": "YaMeFui",
       "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "ODIO",
-      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -539,22 +539,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+      "duration_ms": 270400,
+      "name": "ODIO",
+      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Nunca Me Amo",
         "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "BUTAKAS EP",
-        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        }
-      ],
-      "duration_ms": 184701,
-      "name": "LADO A LADO",
-      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 240441,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "BUTAKAS EP",
+        "url": "https://open.spotify.com/album/2kCY7NsTmu3dJu7jead73e"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "duration_ms": 184701,
+      "name": "LADO A LADO",
+      "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "MAWZ",
         "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211964,
       "name": "A tus Pies",
       "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Illuminati (Remix)",
-        "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
-      },
-      "artists": [
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Illuminati - Remix",
-      "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti (Remix)",
       "url": "https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Illuminati (Remix)",
+        "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Illuminati - Remix",
+      "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
+        "name": "Vuelve a Mi",
+        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
       },
       "artists": [
         {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 208788,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
+      "duration_ms": 186666,
+      "name": "Vuelve a Mi",
+      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1323,18 +1319,38 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vuelve a Mi",
-        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Vuelve a Mi",
-      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
+      "duration_ms": 208788,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 200000,
       "name": "C\u00f3mo D\u00edmelo",
       "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "OCTO",
+          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
+        }
+      ],
+      "duration_ms": 165332,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Sexy (feat. KHEA & Duki)",
         "url": "https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 254852,
       "name": "Sexy (feat. KHEA & Duki)",
       "url": "https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
-      },
-      "artists": [
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "OCTO",
-          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
-        }
-      ],
-      "duration_ms": 165332,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1615,58 +1615,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
-      },
-      "artists": [
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
-        },
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        }
-      ],
-      "duration_ms": 271743,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Ella busca",
-      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1687,6 +1635,58 @@
       "duration_ms": 245677,
       "name": "TU CINTURA",
       "url": "https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        }
+      ],
+      "duration_ms": 271743,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Ella busca",
+      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Llegu\u00e9 Tarde",
+        "url": "https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Llegu\u00e9 Tarde",
+      "url": "https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Debo Cambiar (feat. KHEA)",
         "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 172803,
       "name": "Debo Cambiar (feat. KHEA)",
       "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Llegu\u00e9 Tarde",
-        "url": "https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Llegu\u00e9 Tarde",
-      "url": "https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "P\u00e1lida",
-        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
-      },
-      "artists": [
-        {
-          "name": "Robert Tiamo",
-          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "P\u00e1lida",
-      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Por Si Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
       },
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Almam\u00e1ter (Lado A)",
-        "url": "https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v"
+        "name": "P\u00e1lida",
+        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
       },
       "artists": [
         {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
         }
       ],
-      "duration_ms": 183971,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS"
+      "duration_ms": 214000,
+      "name": "P\u00e1lida",
+      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1979,6 +1963,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Andan Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Andan Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Ke Sientes",
         "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
       },
@@ -1999,22 +2003,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Andan Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
+        "name": "Almam\u00e1ter (Lado A)",
+        "url": "https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v"
       },
       "artists": [
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Andan Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
+      "duration_ms": 183971,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS"
     }
   ],
   "unique_name": "Trap Luv",

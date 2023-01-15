@@ -1,12 +1,12 @@
 {
   "description": "Will you be my anti-valentine?",
-  "num_followers": 79182,
+  "num_followers": 79193,
   "original_name": "Anti-Valentine's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMGUzZmE0ZjFkNjNkZDViNGUzNDcxYjZhMTUwYmU0NjA5",
+  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMDBkNTAxNDNjZTlhYTczOWEwM2U5MTA5YjVlZTY4Yjky",
   "tracks": [
     {
       "added_at": "2022-01-25 16:27:07",
@@ -327,54 +327,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -395,6 +347,54 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "break up with your girlfriend, i'm bored",
-      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -475,6 +459,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "How Do You Sleep?",
         "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 202204,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+      "duration_ms": 242200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8"
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+        "name": "Potential Breakup Song",
+        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 200840,
-      "name": "breadwinner",
-      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
+      "duration_ms": 218333,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Potential Breakup Song",
-        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Potential Breakup Song",
-      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+      "duration_ms": 200840,
+      "name": "breadwinner",
+      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 164677,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+        "name": "29",
+        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
+      "duration_ms": 164677,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/2CZi8d774dBB0wiuWMIpr8"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 214786,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/2CZi8d774dBB0wiuWMIpr8"
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "skinny dipping",
-        "url": "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "skinny dipping",
-      "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Glad He's Gone",
         "url": "https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 196348,
       "name": "Glad He's Gone",
       "url": "https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "skinny dipping",
+        "url": "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "skinny dipping",
+      "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
     },
     {
       "added_at": "2022-01-25 16:27:07",

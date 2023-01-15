@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "album": {
         "name": "Bien Por Ti",
         "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
       },
@@ -1422,6 +1440,24 @@
       "duration_ms": 165325,
       "name": "Delirante",
       "url": "https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw"
+    },
+    {
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "album": {
@@ -3329,6 +3365,32 @@
     },
     {
       "album": {
+        "name": "Mu\u00f1ecas",
+        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156318,
+      "name": "Mu\u00f1ecas",
+      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "album": {
         "name": "M\u00e1s All\u00e1",
         "url": "https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT"
       },
@@ -3536,7 +3598,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 218562,
       "name": "No Hace Falta Que Lo Digas",
       "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
@@ -4094,6 +4156,24 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "album": {
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
     },
     {
       "album": {
@@ -4730,7 +4810,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 167250,
       "name": "SLM",
       "url": "https://open.spotify.com/track/4debYQqEg4tKUKD8DmyHxW"
@@ -5362,7 +5442,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
@@ -5472,7 +5552,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"

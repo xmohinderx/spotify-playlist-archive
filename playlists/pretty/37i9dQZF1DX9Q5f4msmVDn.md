@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,468 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,480 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 38 | [Scoring](https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:05 |
 | 39 | [Nothing Can Come Between Us](https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:22 |
 | 40 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 |
-| 41 | [Happy Feelin's](https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 7:11 |
+| 41 | [Plead The .45th](https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Plead The .45th](https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY) | 2:20 |
 | 42 | [Pump Up The Jam](https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:15 |
-| 43 | [Plead The .45th](https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Plead The .45th](https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY) | 2:20 |
+| 43 | [Happy Feelin's](https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 7:11 |
 | 44 | [FEAR.](https://open.spotify.com/track/28J8MZFrSMvd5gWxAGRBq1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN\. COLLECTORS EDITION.](https://open.spotify.com/album/4alcGHjstaALJHHiljfy3H) | 7:40 |
 | 45 | [I Don't Stress](https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 4:21 |
 | 46 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 |
 | 50 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDU0MWQ2YzEwYWJmNTlmNzU1Y2M1OTZlY2MwMDM5ZGYy`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGNiZWZlMDJhNWViMGM1OTIzM2E1NGI0ZTFjM2Q2ZDJj`

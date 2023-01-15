@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-483 songs - 1 day 17 hr 7 min
+484 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [LDN](https://open.spotify.com/track/5EcuMsEpZ3K9HLsdS03oq4) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [The Space Between](https://open.spotify.com/album/2PmSdBdo1QpRYpeHwlXNRf) | 7:28 | 2022-02-10 |  |
 | [LDN](https://open.spotify.com/track/6kvg46WxVlk7ebhNEWlVuk) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [The Space Between](https://open.spotify.com/album/3rrXnl3nTiCQRe7bMhVAtM) | 7:28 | 2022-01-27 | 2022-11-02 |
 | [Le chemin du péril](https://open.spotify.com/track/1oTy2v7itma20QGz5BoKMS) | [Timothée Robert](https://open.spotify.com/artist/6JvW5kNjvoawff7zAVy08n) | [Quarks](https://open.spotify.com/album/13ETFOP9uLP5D39dxLOwZX) | 4:56 | 2021-12-16 | 2022-07-27 |
+| [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/3BwZnEqueHZrlAbz2mSAOu) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Smoke Sessions \(Remixed\)](https://open.spotify.com/album/5tBRsq9lzXfvMGsIQsTIn9) | 5:44 | 2022-02-10 |  |
 | [Levin's Lope \- Karriem Riggins Remix](https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Levin's Lope \(Karriem Riggins Remix\)](https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN) | 5:44 | 2022-01-27 | 2023-01-12 |
 | [Levitate](https://open.spotify.com/track/72sA5PaFydXMIXIY1RZWhL) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 5:07 | 2021-12-16 |  |
 | [Life Of Leisure](https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Excursions](https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo) | 2:48 | 2021-12-16 |  |
@@ -315,7 +316,7 @@
 | [Pingo](https://open.spotify.com/track/02VD9HHWxFnhVNGMzA9ZfS) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Pingo](https://open.spotify.com/album/7yz2GTf6Lmp9aIz0KYfEcV) | 4:38 | 2021-12-16 | 2022-07-29 |
 | [Pitchfork](https://open.spotify.com/track/2w8SjRq7MzuAvgZAVqza24) | [Zane Carney](https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl) | [Pitchfork](https://open.spotify.com/album/0pPsz0cRqxjPEX6EM6uSwz) | 7:54 | 2021-12-21 | 2022-07-28 |
 | [Plastic Rain](https://open.spotify.com/track/0iGsvJM4BvLKuKfPegboRx) | [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU) | [Dawn Drops](https://open.spotify.com/album/3LooLuW2BMgfuaUJmG3GP4) | 9:45 | 2021-12-16 | 2022-07-28 |
-| [Plastic Rain](https://open.spotify.com/track/3tv8osVVtb4OlKJGqsrJjA) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS) | [Dawn Drops](https://open.spotify.com/album/3nkWYbV9Vsxg4ZYVtqLBI6) | 9:45 | 2022-02-10 |  |
+| [Plastic Rain](https://open.spotify.com/track/3tv8osVVtb4OlKJGqsrJjA) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS) | [Dawn Drops](https://open.spotify.com/album/3nkWYbV9Vsxg4ZYVtqLBI6) | 9:45 | 2022-02-10 | 2023-01-15 |
 | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs) | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [Point Of Junction](https://open.spotify.com/track/1YCTwUfFcNVMQhzippLhjJ) | [Pop Workshop](https://open.spotify.com/artist/3DbmbwovHNQ3TU3N9BZ67K) | [Vol\. 1](https://open.spotify.com/album/1B8mzLQ2ZjKk1OH4HfAVQ6) | 7:23 | 2021-12-16 |  |
 | [Ponta De Areia](https://open.spotify.com/track/2m4AKjV0OBfSft7YYh8y5x) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 5:36 | 2022-04-01 |  |

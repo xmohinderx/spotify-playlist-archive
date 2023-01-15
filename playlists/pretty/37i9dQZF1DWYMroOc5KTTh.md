@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,364 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,529 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 37 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 38 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
 | 39 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
-| 40 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
+| 40 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 41 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 |
-| 42 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 42 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 43 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 44 | [Damselfly](https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 2:52 |
 | 45 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Don't You Like It?](https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV) | 3:46 |
 | 50 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 
-Snapshot ID: `MTY2OTkxMTkxNywwMDAwMDAwMDBiMWM5NTcwNWVlYzY3ODcwNzFjMzM0NjIzNTNjMzNm`
+Snapshot ID: `MTY2OTkxMTkxNywwMDAwMDAwMDJkMjExMjdiNTJjNjdkNzEyY2Y3NzI1MDI2M2Y5MTNl`

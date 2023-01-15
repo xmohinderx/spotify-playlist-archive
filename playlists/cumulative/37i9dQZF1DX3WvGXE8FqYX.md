@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Taylor Swift
 
-507 songs - 1 day 6 hr 32 min
+508 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Super Bass](https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:20 | 2019-06-21 | 2022-04-21 |
 | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) | 3:36 | 2019-06-23 | 2019-06-27 |
 | [Sweet but Psycho](https://open.spotify.com/track/25sgk305KZfyuqVBQIahim) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho](https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA) | 3:07 | 2019-05-26\* | 2022-04-16 |
-| [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-05-12 |  |
+| [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-05-12 | 2023-01-15 |
 | [Swish Swish](https://open.spotify.com/track/2kVHAQKVtczchKctctzbtK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness](https://open.spotify.com/album/03ntx95u0wotf68NnE3aGw) | 4:02 | 2019-06-21 | 2021-10-13 |
 | [Take A Bow](https://open.spotify.com/track/39afswHs17v53znQm1gDTY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:49 | 2019-08-29 | 2022-04-18 |
 | [Take My Breath Away](https://open.spotify.com/track/7mcW98cnE6Osce4ae7t4oZ) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Count Three & Pray](https://open.spotify.com/album/2zOp7ezYFkMz3oln7I4OIZ) | 4:12 | 2021-03-07 | 2022-04-19 |
@@ -464,6 +464,7 @@
 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 | 2019-05-27 | 2022-07-29 |
 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 | 2022-07-15 |  |
 | [TiK ToK](https://open.spotify.com/track/5OMwQFBcte0aWFJFqrr5oj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal](https://open.spotify.com/album/4Fts9DL8sj5UQ0TkN4SvMK) | 3:19 | 2019-06-21 | 2022-04-21 |
+| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-28 |  |
 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 | 2021-03-02 | 2022-04-20 |
 | [Touch](https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 3:33 | 2019-05-26\* | 2022-07-03 |
 | [Truth Hurts](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Deluxe\)](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) | 2:53 | 2019-08-30 | 2022-04-20 |

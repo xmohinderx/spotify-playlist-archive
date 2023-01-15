@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 686508,
+  "num_followers": 686572,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNTc4NSwwMDAwMDAwMGVhMjkyNTFhOTYzOTMzYjgxNWExNWI4OTg3ZjlkOTNh",
+  "snapshot_id": "MTY3MzYyNTc4NSwwMDAwMDAwMDAzMjQ5MzFiM2RmMzk0NmIxZmJjMzhiMjU1NDcwMmQw",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2023-01-14 19:04:59",
+      "added_at": "2023-01-15 00:38:13",
       "album": {
         "name": "blue dream",
         "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 199062,
-      "name": "Sabrina (i am a party)",
-      "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
-    },
-    {
       "added_at": "2023-01-04 14:50:34",
       "album": {
         "name": "Mamacita (feat. A$AP Rocky)",
@@ -359,6 +343,22 @@
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "Sabrina (i am a party)",
+      "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "ZIG ZAGGING",
         "url": "https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB"
       },
@@ -527,22 +507,6 @@
       "duration_ms": 124800,
       "name": "ZIG ZAGGING",
       "url": "https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "TROJAN HORSE",
-        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
-      },
-      "artists": [
-        {
-          "name": "SEBASTIAN PAUL",
-          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
-        }
-      ],
-      "duration_ms": 266393,
-      "name": "TROJAN HORSE",
-      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -563,6 +527,42 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "TROJAN HORSE",
+        "url": "https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB"
+      },
+      "artists": [
+        {
+          "name": "SEBASTIAN PAUL",
+          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
+        }
+      ],
+      "duration_ms": 266393,
+      "name": "TROJAN HORSE",
+      "url": "https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
-      "added_at": "2022-12-20 17:30:46",
-      "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "wide eyed",
@@ -735,26 +719,6 @@
       "duration_ms": 214068,
       "name": "wide eyed",
       "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Picking Up (feat. Deb Never)",
-        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 175520,
-      "name": "Picking Up (feat. Deb Never)",
-      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -773,6 +737,22 @@
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
+      "added_at": "2022-12-20 17:30:46",
+      "album": {
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
@@ -787,6 +767,38 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "a liquid breakfast",
+        "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Baby Blues",
+      "url": "https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -857,6 +869,26 @@
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Picking Up (feat. Deb Never)",
+        "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Picking Up (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "What Box?",
@@ -875,22 +907,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "venus fly trap",
         "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "a liquid breakfast",
-        "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Baby Blues",
-      "url": "https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "DIRT (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "lemon sorbet",
-        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
-      },
-      "artists": [
-        {
-          "name": "SASH",
-          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "lemon sorbet",
-      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "fall at the same time",
         "url": "https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "play pretend",
-        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+        "name": "lemon sorbet",
+        "url": "https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd"
       },
       "artists": [
         {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+          "name": "SASH",
+          "url": "https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ"
         }
       ],
-      "duration_ms": 117774,
-      "name": "play pretend",
-      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+      "duration_ms": 151048,
+      "name": "lemon sorbet",
+      "url": "https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Toyota Reckless",
-        "url": "https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy"
-      },
-      "artists": [
-        {
-          "name": "KANADA THE LOOP",
-          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cali4nia",
-      "url": "https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Toyota Reckless",
+        "url": "https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy"
+      },
+      "artists": [
+        {
+          "name": "KANADA THE LOOP",
+          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cali4nia",
+      "url": "https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1305,20 +1305,20 @@
       "url": "https://open.spotify.com/track/2dx4NA5EVXaYFlYqlFK3as"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2023-01-11 03:58:35",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 171013,
-      "name": "PORN ACTING*",
-      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
     },
     {
       "added_at": "2022-12-14 20:26:31",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "High Beams (JPEGMAFIA Remix)",
-        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 157150,
-      "name": "High Beams - JPEGMAFIA Remix",
-      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
+      "duration_ms": 171013,
+      "name": "PORN ACTING*",
+      "url": "https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1383,6 +1379,26 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "High Beams (JPEGMAFIA Remix)",
+        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157150,
+      "name": "High Beams - JPEGMAFIA Remix",
+      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1423,38 +1439,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "About A Boy",
-        "url": "https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc"
-      },
-      "artists": [
-        {
-          "name": "Dream, Ivory",
-          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Would It Kill You At All",
-      "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
-    },
-    {
-      "added_at": "2023-01-11 03:58:35",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Crush - Unfinished",
-      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Made Your Mama Cry",
         "url": "https://open.spotify.com/album/5lTDpM1X4vqQIFD7jLP17c"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 158451,
       "name": "Made Your Mama Cry",
       "url": "https://open.spotify.com/track/3GROKC4eYt3KVWN3AyMCwL"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "About A Boy",
+        "url": "https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc"
+      },
+      "artists": [
+        {
+          "name": "Dream, Ivory",
+          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Would It Kill You At All",
+      "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "off the map",
-        "url": "https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ"
-      },
-      "artists": [
-        {
-          "name": "Ramzoid",
-          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
-        }
-      ],
-      "duration_ms": 129113,
-      "name": "off the map",
-      "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "rave",
-        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+        "name": "off the map",
+        "url": "https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
         }
       ],
-      "duration_ms": 170310,
-      "name": "ihy",
-      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+      "duration_ms": 129113,
+      "name": "off the map",
+      "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Griffith Park",
-        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
       },
       "artists": [
         {
-          "name": "Carter Ace",
-          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Griffith Park",
-      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+      "duration_ms": 170310,
+      "name": "ihy",
+      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1647,22 +1631,34 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Great Taste",
-        "url": "https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB"
+        "name": "Griffith Park",
+        "url": "https://open.spotify.com/album/07yxHbRLq9yM0RYsdxKiel"
       },
       "artists": [
         {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        },
-        {
-          "name": "NAYANA IZ",
-          "url": "https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm"
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
         }
       ],
-      "duration_ms": 130804,
-      "name": "Great Taste",
-      "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
+      "duration_ms": 201733,
+      "name": "Griffith Park",
+      "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
+        "name": "Great Taste",
+        "url": "https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "NAYANA IZ",
+          "url": "https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm"
         }
       ],
-      "duration_ms": 177064,
-      "name": "Vest & Boxers",
-      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+      "duration_ms": 130804,
+      "name": "Great Taste",
+      "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
     }
   ],
   "unique_name": "anti pop",

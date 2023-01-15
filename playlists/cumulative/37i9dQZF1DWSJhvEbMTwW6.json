@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Versiones Unicas de los Reyes",
+        "url": "https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279050,
+      "name": "Contigo Tengo Todo",
+      "url": "https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt"
+    },
+    {
+      "album": {
         "name": "Copos de Nieve",
         "url": "https://open.spotify.com/album/05uNVPmIyUgxVaaQvqktsi"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 217506,
       "name": "Cumbia Mapacha",
       "url": "https://open.spotify.com/track/2qgqX6ZE6qI51iFN3ntxKw"

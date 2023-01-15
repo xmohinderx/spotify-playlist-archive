@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-267 songs - 19 hr 31 min
+268 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-16 | 2022-11-11 |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:39 | 2022-05-18 | 2022-11-11 |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2021-12-16 | 2022-09-29 |
-| [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-11 |  |
+| [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-11 | 2023-01-15 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-11-11 | 2022-12-03 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 | 2022-11-11 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-29 | 2022-11-11 |
@@ -162,6 +162,7 @@
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-06-29 | 2022-11-11 |
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2021-12-16 | 2022-07-29 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-12 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-11 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-11 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |

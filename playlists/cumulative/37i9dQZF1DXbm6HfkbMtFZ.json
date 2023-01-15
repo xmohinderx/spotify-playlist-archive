@@ -468,7 +468,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 234746,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH"
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "Just Another Honky",
       "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
@@ -7028,6 +7028,24 @@
       "duration_ms": 174933,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239952,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
       "album": {

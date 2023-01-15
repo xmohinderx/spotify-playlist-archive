@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Royel Otis.
 
-777 songs - 1 day 18 hr 14 min
+778 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Congratulations](https://open.spotify.com/track/1n9gX9HJTDeCLRCFt2M5Ca) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Congratulations](https://open.spotify.com/album/3WXMPPA3rK0qUqqg8CmUOf) | 2:57 | 2022-03-04 | 2022-06-15 |
 | [Consequences](https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Consequences](https://open.spotify.com/album/11am3mDeSxGDV8rrGpJwVP) | 3:45 | 2022-11-11 | 2022-11-19 |
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-06-07 | 2022-02-10 |
-| [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 | 2022-11-11 |  |
+| [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 | 2022-11-11 | 2023-01-15 |
 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 | 2021-08-20 | 2022-05-19 |
 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 | 2022-06-17 | 2022-07-29 |
 | [Cool It Kid](https://open.spotify.com/track/76BWUDhCL1ebKLnrvbKuVJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/7qFFfbfWeCxuSJ21nAI64K) | 3:30 | 2022-07-01 | 2022-08-06 |
@@ -432,6 +432,7 @@
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-06-07 | 2022-04-20 |
 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 | 2022-12-07 |  |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2021-06-25 | 2022-04-15 |
+| [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-13 |  |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-14 |  |
 | [Low Era](https://open.spotify.com/track/0pLDhq4cKCN5xab9Y3Gg04) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 4:14 | 2021-08-27 | 2022-04-21 |
 | [lowlife \- with kenny beats](https://open.spotify.com/track/0YANHO32xutrmLQA6JvYlq) | [dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [lowlife \(with kenny beats\)](https://open.spotify.com/album/2OC02zRmsQv7XjvCoOUkjn) | 2:23 | 2021-09-17 | 2022-04-15 |

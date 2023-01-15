@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,581 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,671 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

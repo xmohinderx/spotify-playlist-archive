@@ -1,12 +1,12 @@
 {
   "description": "Canciones de Rock con un toque de nostalgia.",
-  "num_followers": 74078,
+  "num_followers": 74110,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg2OTg0MiwwMDAwMDAwMGUyZTM0NGJjY2E2ZmY4M2IyNjNhYjljZTI5ZTE1MDMy",
+  "snapshot_id": "MTY3Mjg2OTg0MiwwMDAwMDAwMGM5ODkyNzk3OGZjZDE2ZmVlYmU0ZTRmZDFhN2M3ZDA1",
   "tracks": [
     {
       "added_at": "2023-01-04 22:04:02",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-04 22:04:02",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
-    },
-    {
-      "added_at": "2023-01-04 22:04:02",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2023-01-04 22:04:02",
+      "album": {
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2023-01-04 22:04:02",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-01-04 22:04:02",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+        "name": "Jeremy",
+        "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+      "duration_ms": 303586,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
     },
     {
       "added_at": "2023-01-04 22:04:02",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-04 22:04:02",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "added_at": "2023-01-04 22:04:02",
+      "album": {
         "name": "Still Crazy After All These Years",
         "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 217346,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2023-01-04 22:04:02",
-      "album": {
-        "name": "Jeremy",
-        "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 303586,
-      "name": "Yellow Ledbetter",
-      "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
     },
     {
       "added_at": "2023-01-04 22:04:02",

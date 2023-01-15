@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-246 songs - 15 hr 29 min
+247 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-18 |  |
 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 | 2022-04-27 | 2023-01-07 |
 | [Far Out](https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Far Out / Follies Fixture](https://open.spotify.com/album/2LONjruohqPKqKsMVwChw8) | 4:18 | 2021-10-18 | 2022-07-29 |
+| [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-01-06 |  |
 | [Flyin \(like a fast train\)](https://open.spotify.com/track/5ItAruXMNgaAmxP2MmRHI7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 4:46 | 2022-04-27 | 2022-06-13 |
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-10-18 | 2022-11-30 |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2023-01-06 |  |
@@ -78,7 +79,7 @@
 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 | 2021-10-18 |  |
 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 | 2022-04-27 | 2023-01-07 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2021-10-18 |  |
-| [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 | 2022-04-27 |  |
+| [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 | 2022-04-27 | 2023-01-15 |
 | [Guilty](https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR) | 3:34 | 2021-10-18 | 2022-07-29 |
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2022-04-27 |  |
 | [Hannah Sun](https://open.spotify.com/track/2Sp2T4sOzuxPeL2u3n3K9X) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah Sun](https://open.spotify.com/album/0tStaUHZtXWjzqZepPJ5eG) | 3:28 | 2021-10-18 | 2022-07-29 |

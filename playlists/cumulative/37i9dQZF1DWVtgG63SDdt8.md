@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jon Reddick
 
-2,372 songs - 6 day 17 hr 51 min
+2,373 songs - 6 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,8 +1140,9 @@
 | [Keep On Proving It \- Live](https://open.spotify.com/track/1QGhIp0Ggtntz0CRiZWtXA) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW), [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [Keep On Proving It \(Live\)](https://open.spotify.com/album/0l0j67YVD7EEaWkK41By0v) | 4:09 | 2022-12-09 | 2023-01-14 |
 | [Keep Praying \- Live from Studio 20/20, Acoustic](https://open.spotify.com/track/3DqN9hAwWIQMT0noeRXkD7) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Keep Praying \(Live from Studio 20/20, Acoustic\)](https://open.spotify.com/album/2UAdzGs8pCXh5mvka2xZvB) | 5:24 | 2022-03-11 | 2022-03-26 |
 | [keep that light on.](https://open.spotify.com/track/1aU0zvTi5t7p7tJIlN1T75) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [keep that light on.](https://open.spotify.com/album/4Zwr0KOOK38f4Jn16ZrRtL) | 3:06 | 2022-10-21 | 2022-11-05 |
-| [keep that light on\. \(live\)](https://open.spotify.com/track/3Syuc3SmMRcpb13Yn5La9u) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [walking on water](https://open.spotify.com/album/7apot69IB3xMoHYPzmAJpa) | 4:42 | 2023-01-13 |  |
+| [keep that light on\. \(live\)](https://open.spotify.com/track/3Syuc3SmMRcpb13Yn5La9u) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [walking on water](https://open.spotify.com/album/7apot69IB3xMoHYPzmAJpa) | 4:42 | 2023-01-13 | 2023-01-15 |
 | [keep that light on\. \- live](https://open.spotify.com/track/4NeOdpq7mKGDM3uLreevPR) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [hush\. \(live\)](https://open.spotify.com/album/1ayFxu0RR85lfIh3WPrxSD) | 4:42 | 2022-07-01 | 2022-07-16 |
+| [keep that light on\. \- Live](https://open.spotify.com/track/5I7bWXfSNuGDIprzG38oJF) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [the real thicc shady\. \(Live\)](https://open.spotify.com/album/2zsqTdSpQrkkrT5YRODbUR) | 4:42 | 2023-01-13 |  |
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-07-01 | 2022-07-16 |
 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 | 2022-03-18 | 2022-04-02 |
 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 | 2022-06-10 | 2022-06-18 |

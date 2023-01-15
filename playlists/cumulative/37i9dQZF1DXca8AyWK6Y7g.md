@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,463 songs - 3 day 2 hr 49 min
+1,465 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,7 @@
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
 | [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-10-27 |
-| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 |  |
+| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2023-01-15 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 | 2022-10-29 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-28 |  |
@@ -1047,6 +1047,7 @@
 | [Real Life](https://open.spotify.com/track/2suU0QYyxcMoy08rSsTX46) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Real Life](https://open.spotify.com/album/79ZPm7Z09OsRu4ENHyHM4d) | 2:43 | 2021-10-29 | 2022-01-08 |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2021-07-16 | 2022-05-20 |
 | [Reality Television](https://open.spotify.com/track/5AA7wTk7aLkHg9JstMideg) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 2:45 | 2022-12-09 | 2022-12-24 |
+| [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 | 2023-01-13 |  |
 | [Regrets](https://open.spotify.com/track/2PDMHRRjLH8HJSF5COYdgr) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/741T9n7WN9E0kdwFj43CAN) | 2:02 | 2022-09-30 | 2022-10-22 |
 | [REHAB?](https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx) | [Jessiqa Jones](https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT) | [REHAB?](https://open.spotify.com/album/4RPqmtRv2kylEzmL9ralKZ) | 3:37 | 2022-05-16 | 2022-07-16 |
 | [rent free](https://open.spotify.com/track/6G9bbTeoVpPPt02fraZhnZ) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [rent free](https://open.spotify.com/album/4KmBjqHwSv3k07FwzX8Ju0) | 2:25 | 2022-11-11 | 2022-12-24 |
@@ -1242,7 +1243,7 @@
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2021-02-23 | 2021-12-21 |
 | [Sunny](https://open.spotify.com/track/3i1aStQRrIiJDRmQQi1uBZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Sunny](https://open.spotify.com/album/2d7qtsNt4kiQJCtM6uFGMr) | 2:46 | 2021-02-22 | 2021-11-10 |
 | [Sunny D](https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW) | 3:42 | 2022-12-02 | 2022-12-10 |
-| [Sunny Disposition](https://open.spotify.com/track/6nszLQaalCgiaRZ2biz1AV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/0yzrhB4aznxLMHf8KUR4ZT) | 2:58 | 2022-12-23 |  |
+| [Sunny Disposition](https://open.spotify.com/track/6nszLQaalCgiaRZ2biz1AV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/0yzrhB4aznxLMHf8KUR4ZT) | 2:58 | 2022-12-23 | 2023-01-15 |
 | [sunrise](https://open.spotify.com/track/3lTH6qyJ1FEoO6Wkm9vl0I) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [sunrise](https://open.spotify.com/album/6I4PzchQZwZPeArQwDqrrR) | 2:41 | 2022-03-11 | 2022-06-07 |
 | [Sunroof](https://open.spotify.com/track/2UGbgIze4hB9GkdAte1eiV) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [NOW That's What I Call Music! Vol\. 84](https://open.spotify.com/album/1vDJyYjUUvXYJaZmKsukJJ) | 2:40 | 2022-11-11 | 2022-11-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-11-26 | 2022-07-29 |
@@ -1428,6 +1429,7 @@
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-01-07 | 2022-01-29 |
 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 | 2022-09-16 | 2022-10-29 |
 | [whenever](https://open.spotify.com/track/4nnmIVkfC4GGYwYQyFSsmd) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [whenever / i tripped](https://open.spotify.com/album/7Ez11M93jpKG3Zv8HS8Ldc) | 3:42 | 2021-05-18 | 2021-10-16 |
+| [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 |  |
 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 | 2022-10-13 |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |
 | [Why Don't You Come On](https://open.spotify.com/track/1zOrNX2Rp00WGJzNJUfj0V) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Why Don't You Come On](https://open.spotify.com/album/4Xc4MVCAjRGtsos6uRxc5l) | 3:19 | 2019-05-26\* | 2019-08-13 |

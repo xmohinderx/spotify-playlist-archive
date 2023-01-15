@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 96304,
+  "num_followers": 96330,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDUxZTg2MWQ0ZDIyMTY1NmFkMDY5ZDJiYzY1NmQ3OWNk",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMGE3ZTVjMjRiYzMyZjAwNTNkMDYxOTYzNzRkMzE1ZDgw",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
       },
@@ -571,38 +555,6 @@
       "duration_ms": 215666,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Original Masters",
-        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -627,6 +579,54 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Original Masters",
+        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
       },
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
+      "duration_ms": 228853,
+      "name": "Cuando Pase el Temblor",
+      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Cuando Pase el Temblor",
-      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
     },
     {
       "added_at": "2022-08-31 07:27:49",

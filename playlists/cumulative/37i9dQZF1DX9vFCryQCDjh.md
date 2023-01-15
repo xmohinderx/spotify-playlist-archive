@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-105 songs - 6 hr 39 min
+106 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Just A Feeling \- Original Version](https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:48 | 2021-03-11 |  |
 | [Killer](https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 1:39 | 2021-03-11 |  |
 | [Kung Ddari Sha Bah Rah](https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [Are You Ready?](https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8) | 3:54 | 2021-03-11 |  |
-| [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 | 2021-03-11 |  |
+| [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 | 2021-03-11 | 2023-01-15 |
 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 | 2021-03-11 |  |
 | [Love Love](https://open.spotify.com/track/3Ex3g8xsXFeg3AAD3e2yyI) | [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Bijou Is Ballad](https://open.spotify.com/album/6bFIEMBIejKMWSgWWcb6gP) | 3:40 | 2021-03-11 |  |
 | [Missing You](https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Come Come Come baby](https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW) | 3:51 | 2021-03-11 |  |
@@ -69,6 +69,7 @@
 | [Twilight Zone](https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 3:46 | 2021-03-11 | 2023-01-12 |
 | [Twist king](https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [NEW SENSATION](https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD) | 4:03 | 2021-03-11 |  |
 | [Unreasonable Reason](https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [이유같지 않은 이유](https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO) | 3:57 | 2021-03-11 |  |
+| [Vision](https://open.spotify.com/track/0ijms7rWvEqB7TIIE3kCbG) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Yoo Seung Jun Best Collection 1](https://open.spotify.com/album/1YFUnihiEAKXOrI3Aazrww) | 4:11 | 2021-03-11 |  |
 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 | 2021-03-11 |  |
 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 | 2021-03-11 |  |
 | [White love](https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [PERFECT LOVE](https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of) | 3:20 | 2021-03-11 |  |

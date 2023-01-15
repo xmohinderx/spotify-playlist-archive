@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-243 songs - 17 hr 57 min
+244 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
 | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/track/6xZ9df7zpAeK1iQxcVBxJF) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/album/0glak7pWMpM5TGnxRUUA2Z) | 3:37 | 2022-06-06 | 2022-07-28 |
-| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 |  |
+| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2023-01-15 |
 | [I'll Be Missing You](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I'll Be Missing You](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2022-06-06 | 2022-07-21 |
 | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/track/6NSIhIAlPt7ibeTERkiqTc) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/album/6NGi0ac8CqDapbpM1Zqbcq) | 3:12 | 2022-06-20 | 2022-07-28 |
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |
@@ -213,6 +213,7 @@
 | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/track/6KjSRihg1U0Fn4kzrEuZb4) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/album/5Mwt6x1fIXxndSnsoEIyH1) | 3:45 | 2022-06-13 | 2022-06-23 |
 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 | 2022-09-19 |  |
 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 | 2022-06-06 | 2023-01-02 |
+| [裹著心的光](https://open.spotify.com/track/6ZpJxisQKOVQTthzmfN8TT) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/3ESTyQW2qpKR8pb8TouOel) | 4:33 | 2023-01-02 |  |
 | [親害的 \(feat\. A\-Lin\)](https://open.spotify.com/track/3rVVMySmCZCV0pEcrmNYOu) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [野蠻之荒](https://open.spotify.com/album/4knvf1FmUkiBrDCXWZdrNR) | 3:25 | 2022-12-19 |  |
 | [記得回來](https://open.spotify.com/track/2gC8kQbtDqzqFTnN4OAWoG) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 | 2022-06-06 | 2022-07-29 |
 | [記得捨不得 \- 「浪漫輸給你」片頭曲](https://open.spotify.com/track/1gMcd8acOihE7mWDOkYMIk) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [記得捨不得 \(「浪漫輸給你」片頭曲\)](https://open.spotify.com/album/0jUYGqtLBDw4yvv0oeyOPM) | 3:47 | 2022-06-20 | 2022-06-22 |

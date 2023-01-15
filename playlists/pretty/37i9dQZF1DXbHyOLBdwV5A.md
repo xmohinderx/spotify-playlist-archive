@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,284 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,304 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 46 | [Peregrino](https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Peregrino](https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl) | 2:45 |
 | 47 | [Volte a Sonhar Remix](https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Templo Fit Remix](https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb) | 3:56 |
 | 48 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
-| 49 | [Madrugada](https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG) | [Madrugada](https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y) | 3:48 |
+| 49 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
 | 50 | [Like Water](https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Like Water](https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih) | 2:41 |
-| 51 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
+| 51 | [Madrugada](https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG) | [Madrugada](https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y) | 3:48 |
 | 52 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
 | 53 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
 | 54 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 | 70 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 
-Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMGQyMDc2MDllYWQ4ODIwMjk3OTE2ODcxMzRjMjYyZjc3`
+Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDI5NGZlMDQ3ZmIwZDM2NTc0N2Y2MDhiMWVkNGQ2YTU2`

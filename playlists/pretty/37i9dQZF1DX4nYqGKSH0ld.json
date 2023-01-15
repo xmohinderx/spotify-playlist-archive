@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 132780,
+  "num_followers": 132779,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMGQxZjRhODQwMzQxM2FhNGRkODU1N2FlMzhiMDI2YTQy",
+  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMDA0YWJkZDA4NGUxYzBhNzdiMGFmNzY3YjQwODFiOTdj",
   "tracks": [
     {
       "added_at": "2022-07-04 20:41:30",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -635,18 +619,38 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 215093,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -675,22 +679,34 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -711,22 +727,6 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -1023,34 +1003,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1071,18 +1039,34 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1115,6 +1099,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "Leftoverture (Expanded Edition)",
         "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 323000,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2022-07-04 20:41:30",

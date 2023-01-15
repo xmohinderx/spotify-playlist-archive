@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 49386,
+  "num_followers": 49425,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NTU0MSwwMDAwMDAwMGZiMGUzMDAwMDYzOGFkMDBiM2ZhYzM5ZmY0MjVmOGI0",
+  "snapshot_id": "MTY3Mjc1NTU0MSwwMDAwMDAwMGVhOTA1YzFlZTI4MjdkNTgzNDIxN2NmMWEwZWRkNWFh",
   "tracks": [
     {
       "added_at": "2022-12-07 09:58:28",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Solo Monk",
         "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 157026,
       "name": "I'm Confessin' (That I Love You)",
       "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 379533,
       "name": "Curves",
       "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Plays Misty",
-        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "The Ellington Suites",
         "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 244933,
       "name": "The Single Petal Of A Rose - The Queen's Suite",
       "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
+        "name": "The Amazing Bud Powell",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 442226,
       "name": "Strange Meadow Lark",
       "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Amazing Bud Powell",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Breakin' It Up",
-        "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
-      },
-      "artists": [
-        {
-          "name": "Barry Harris Trio",
-          "url": "https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "The Shearing Piano",
         "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172600,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Breakin' It Up",
+        "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
+      },
+      "artists": [
+        {
+          "name": "Barry Harris Trio",
+          "url": "https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+      "duration_ms": 318400,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -791,6 +775,22 @@
       "duration_ms": 894733,
       "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
       "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 227323,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
         "name": "Kenny Drew And His Progressive Piano",
         "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 233066,
       "name": "The Lady's In Love With You",
       "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 227323,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "duration_ms": 317439,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -1091,18 +1107,34 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+        "name": "Fishin' In Stockholm",
+        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
       },
       "artists": [
         {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
         }
       ],
-      "duration_ms": 317439,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
+      "duration_ms": 171609,
+      "name": "Dawn Mist",
+      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1139,22 +1171,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Fishin' In Stockholm",
-        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 171609,
-      "name": "Dawn Mist",
-      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Seven Days of Falling",
         "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 403666,
       "name": "Elevation of Love",
       "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 306967,
-      "name": "Wild Music",
-      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Eclypso",
         "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
@@ -1235,6 +1219,58 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
+        "name": "Duke's Dream",
+        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Rosario Giuliani",
+          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
+        }
+      ],
+      "duration_ms": 440133,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 306967,
+      "name": "Wild Music",
+      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
         "name": "I Got Rhythm",
         "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
@@ -1247,6 +1283,22 @@
       "duration_ms": 177506,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1283,42 +1335,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Duke's Dream",
-        "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Rosario Giuliani",
-          "url": "https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06"
-        }
-      ],
-      "duration_ms": 440133,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Tiger Rag",
-      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Nightconcert",
         "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Explorations",
         "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
@@ -1383,18 +1383,34 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
       "artists": [
         {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 190680,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+      "duration_ms": 138306,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1415,98 +1431,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Trio",
-        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones Trio",
-          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
-        }
-      ],
-      "duration_ms": 363179,
-      "name": "How High The Moon",
-      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 552493,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Someday My Prince Will Come - Take 5",
-      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1527,18 +1463,66 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 671866,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Trio",
+        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones Trio",
+          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
+        }
+      ],
+      "duration_ms": 363179,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 552493,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1555,6 +1539,22 @@
       "duration_ms": 292333,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 671866,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "Oscar Peterson: Hits & Rarities",
-        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 162717,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
-    },
-    {
-      "added_at": "2022-12-07 09:58:28",
-      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 248600,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
+    },
+    {
+      "added_at": "2022-12-07 09:58:28",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Someday My Prince Will Come - Take 5",
+      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
     },
     {
       "added_at": "2022-12-07 09:58:28",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-12-07 09:58:28",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
       "artists": [
         {
-          "name": "Bobby Timmons Trio",
-          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 407306,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     }
   ],
   "unique_name": "Jazz Piano Classics",

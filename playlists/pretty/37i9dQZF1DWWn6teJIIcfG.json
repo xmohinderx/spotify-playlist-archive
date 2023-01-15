@@ -1,13 +1,29 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 152609,
+  "num_followers": 152666,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMGU1NDA4MjcwNmJiOWI1NDQwMDg3NjA1ODMxNzdlODUz",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDU1OTEyNGM4ZTgxNDMzOWYzNjY5ODVjYjQyMWRmOGRj",
   "tracks": [
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 270000,
       "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
       "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 129919,
       "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
       "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
-        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
+        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "La stanza del figlio un film di Nanni Moretti",
-        "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
-      },
-      "artists": [
-        {
-          "name": "Nicola Piovani",
-          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Soli",
-      "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
         "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 209373,
       "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
       "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "La stanza del figlio un film di Nanni Moretti",
+        "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
+      },
+      "artists": [
+        {
+          "name": "Nicola Piovani",
+          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Soli",
+      "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Are You Still Somewhere?",
-        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Saman",
-      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Are You Still Somewhere?",
+        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Saman",
+      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -939,6 +939,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Nocturne No. 2 in C Minor, H.25",
-      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -999,42 +999,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
         },
         {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
         }
       ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+      "duration_ms": 191853,
+      "name": "Nocturne No. 2 in C Minor, H.25",
+      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Kissin Plays Liszt",
         "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 375920,
       "name": "St\u00e4ndchen (From Schwanengesang, D957)",
       "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1119,6 +1099,26 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2022-07-29 13:33:43",

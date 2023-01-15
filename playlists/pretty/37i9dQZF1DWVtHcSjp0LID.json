@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 48949,
+  "num_followers": 48966,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDNiNDRhYWUzNWY2ZmExOTk1NTA2MTczY2Q3ODMwYjM5",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDYxYjZlNGZiMzE4M2I1MzdiNWJiODA3ZTJmZmE5ZDk5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Epoch (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 345387,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
-      },
-      "artists": [
-        {
-          "name": "Fantom '87",
-          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
-        }
-      ],
-      "duration_ms": 353407,
-      "name": "Pay Phone",
-      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Epoch (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 345387,
-      "name": "Epoch",
-      "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 459081,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
+      },
+      "artists": [
+        {
+          "name": "Fantom '87",
+          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
+        }
+      ],
+      "duration_ms": 353407,
+      "name": "Pay Phone",
+      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Year After",
-        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
-      },
-      "artists": [
-        {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
-        }
-      ],
-      "duration_ms": 428936,
-      "name": "The Year After",
-      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Ring EP",
         "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+        "name": "The Year After",
+        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
       },
       "artists": [
         {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
         }
       ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+      "duration_ms": 428936,
+      "name": "The Year After",
+      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Where Will You Be Spending Eternity?",
         "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
       },
@@ -695,54 +695,6 @@
       "duration_ms": 314445,
       "name": "Harmony - Original Mix",
       "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
-      },
-      "artists": [
-        {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Forward Escape",
-        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
-      },
-      "artists": [
-        {
-          "name": "Tipper",
-          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Gulch",
-      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -763,6 +715,38 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+      },
+      "artists": [
+        {
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Kopernikus EP",
         "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 440118,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Forward Escape",
+        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
+      },
+      "artists": [
+        {
+          "name": "Tipper",
+          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Gulch",
+      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Miracle Of The Rose EP",
+        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "duration_ms": 331486,
+      "name": "Miracle Of The Rose",
+      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Miracle Of The Rose EP",
-        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
-      },
-      "artists": [
-        {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
-        }
-      ],
-      "duration_ms": 331486,
-      "name": "Miracle Of The Rose",
-      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Warped",
         "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "It's Just A Silly Phase I'm Going Through",
+        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
+      },
+      "artists": [
+        {
+          "name": "Flabaire",
+          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
+        }
+      ],
+      "duration_ms": 295592,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "After & Before EP",
         "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
       },
@@ -963,6 +979,54 @@
       "duration_ms": 455528,
       "name": "Pill Collins",
       "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+      },
+      "artists": [
+        {
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -987,66 +1051,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "It's Just A Silly Phase I'm Going Through",
-        "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
+        "name": "Kill Frenzy EP",
+        "url": "https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW"
       },
       "artists": [
         {
-          "name": "Flabaire",
-          "url": "https://open.spotify.com/artist/4PlRWEw6q6gyML5o0dlP4X"
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         }
       ],
-      "duration_ms": 295592,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/1SRLcPOv2gHmEgzrHD831l"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
-      },
-      "artists": [
-        {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
-        }
-      ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
-      },
-      "artists": [
-        {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+      "duration_ms": 355540,
+      "name": "Lefty's Bar",
+      "url": "https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1063,22 +1079,6 @@
       "duration_ms": 223060,
       "name": "Opal Waltz",
       "url": "https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Kill Frenzy EP",
-        "url": "https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 355540,
-      "name": "Lefty's Bar",
-      "url": "https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Passengers",
         "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 366898,
       "name": "Orbital Hypnosis - Erly Tepshi Remix",
       "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Occasional Magic Remixes EP",
-        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
+        "name": "Endless Sacrifice",
+        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
       },
       "artists": [
         {
-          "name": "Yppah",
-          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         },
         {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+          "name": "Flu",
+          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
         }
       ],
-      "duration_ms": 330145,
-      "name": "Occasional Magic - Ulrich Schnauss Remix",
-      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
+      "duration_ms": 437653,
+      "name": "Heading North",
+      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Two of Us",
-        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
       },
       "artists": [
         {
@@ -1300,29 +1300,29 @@
           "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
         }
       ],
-      "duration_ms": 344978,
-      "name": "Trivia",
-      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
+      "duration_ms": 423586,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A"
     },
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Endless Sacrifice",
-        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
         },
         {
-          "name": "Flu",
-          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 437653,
-      "name": "Heading North",
-      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 37120,
+  "num_followers": 37150,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMGZkYzgyMjg3Mjk2NzEwMjQwZDE3YjlmYzdmMTY0ZTA2",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDllYzAzOTNhZWQ0MGQzOTI4NTc4ZjhiNDk0MjY3YmEx",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 262209,
-      "name": "Meet Me in the Woods",
-      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Tell Me It's Real (Expanded Edition)",
         "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 215440,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 262209,
+      "name": "Meet Me in the Woods",
+      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -819,34 +819,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "Kids In Love",
+        "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Birch Tree",
-      "url": "https://open.spotify.com/track/0BPKqNWOKQam19tKWoZQwu"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Too Late To Say Goodbye",
-      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
+      "duration_ms": 166893,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -867,18 +851,34 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Kids In Love",
-        "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
       "artists": [
         {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 166893,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
+      "duration_ms": 252786,
+      "name": "Too Late To Say Goodbye",
+      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Birch Tree",
+      "url": "https://open.spotify.com/track/0BPKqNWOKQam19tKWoZQwu"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 224740,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 224740,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 229934,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 229934,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Our Own House",
         "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
       },
@@ -1135,6 +1135,38 @@
       "duration_ms": 300720,
       "name": "What Went Down",
       "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Yours, Dreamily,",
+        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Put a Flower in Your Pocket",
+      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "If I Should Go Before You",
+        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Lover Come Back",
+      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "If I Should Go Before You",
-        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Lover Come Back",
-      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Need Your Light",
         "url": "https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Yours, Dreamily,",
-        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
       "artists": [
         {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 235320,
-      "name": "Put a Flower in Your Pocket",
-      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1239,22 +1255,6 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232530,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/203jJuBzKwSKkm88Rxnm0t"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Painting Greys",
-      "url": "https://open.spotify.com/track/4YPR1YdTdvDUvuQxURHbjk"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Are You Alone?",
         "url": "https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/203jJuBzKwSKkm88Rxnm0t"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Painting Greys",
+      "url": "https://open.spotify.com/track/4YPR1YdTdvDUvuQxURHbjk"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 226106,
       "name": "Pink Lemonade",
       "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1499,6 +1483,22 @@
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
         }
       ],
-      "duration_ms": 329169,
-      "name": "Huarache Lights",
-      "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
+      "duration_ms": 204306,
+      "name": "OctaHate",
+      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
+        "name": "Teens of Style",
+        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
       },
       "artists": [
         {
-          "name": "Ryn Weaver",
-          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
         }
       ],
-      "duration_ms": 204306,
-      "name": "OctaHate",
-      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
+      "duration_ms": 260426,
+      "name": "Something Soon",
+      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
     }
   ],
   "unique_name": "Best of Indie 2015",

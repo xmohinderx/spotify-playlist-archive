@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: なきごと\(Nakigoto\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,758 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,767 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 20 | [無題](https://open.spotify.com/track/2hbHJG0sHLmu7aMKkzKeLU) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [無題](https://open.spotify.com/album/4wLX3Pv3g9b8FjEb2A5Ti8) | 4:59 |
 | 21 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
 | 22 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 |
-| 23 | [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 |
-| 24 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
-| 25 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 |
+| 23 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 |
+| 24 | [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 |
+| 25 | [ZUTTO](https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ZUTTO](https://open.spotify.com/album/0f4VLaIDcIdG74d3P1rQth) | 4:19 |
 | 26 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 27 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 28 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 37 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
 | 38 | [リアライズ](https://open.spotify.com/track/6EUIU3lk0k61p67JdmJk0N) | [gyouninven](https://open.spotify.com/artist/1sYc6sSH2Oazo9seO3xdiH) | [会話と解話](https://open.spotify.com/album/3U7xfXLvn1D45iZnKdCzgL) | 4:27 |
 | 39 | [アンドロイド](https://open.spotify.com/track/1k3hdwtmjxdBUL6osBVsFL) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [不出来](https://open.spotify.com/album/0jUAT2Y1TzQf6ScjVJFKQy) | 4:00 |
-| 40 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
-| 41 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
-| 42 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
-| 43 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
-| 44 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
+| 40 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
+| 41 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
+| 42 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
+| 43 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
+| 44 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
 | 45 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 |
 | 46 | [マヨイガ](https://open.spotify.com/track/0aAYM2ApVTzuNOgI0sZPmE) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [マヨイガ](https://open.spotify.com/album/2YZGywS2yeDOMmyhIU6wQM) | 5:19 |
 | 47 | [リドー](https://open.spotify.com/track/2ZKDT4B7UhV549F4FajHCX) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [リドー](https://open.spotify.com/album/6E4R01brTT1PaoQTw1AdUd) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
 | 50 | [おぼえたて](https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ペンシルロケット](https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8) | 3:27 |
 
-Snapshot ID: `MTY3MzU4NzMwMywwMDAwMDAwMGIzNDBiNTFmZjY1Y2ZiNzEwZDhmNjRjYjdhMWU4MzNh`
+Snapshot ID: `MTY3MzU4NzMwMywwMDAwMDAwMGJlOWY0MWIxYjUwN2Y0ZmU4MzllYTgxZDA4ZGRiOGFh`

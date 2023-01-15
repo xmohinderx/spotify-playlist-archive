@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-180 songs - 14 hr 47 min
+181 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [expiation](https://open.spotify.com/track/0XinJFSpCjVI5nFSWCvw7X) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Dead Silence](https://open.spotify.com/album/01tMpXBJd0dhGOeRYvSgj8) | 4:48 | 2022-05-25 |  |
 | [Famous Last Names](https://open.spotify.com/track/0bcZi3K9Lm8sU81GMt7b5I) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 7:49 | 2022-05-25 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-05-25 |  |
+| [Fond \- Rework](https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Fond \(Rework\)](https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE) | 3:44 | 2023-01-13 |  |
 | [Fragments of the Mosaic](https://open.spotify.com/track/7DhSg85SZepXG7Q2pmo0y1) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Fragments of the Mosaic](https://open.spotify.com/album/5CbUyfXv1nFnn9vPuwjCIU) | 3:53 | 2022-10-14 |  |
 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 | 2022-05-25 |  |
 | [Getting Ready to Say Goodbye](https://open.spotify.com/track/0JxPSe1YeUwQZLuhiSvK6r) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cycles](https://open.spotify.com/album/4dbsWGtWgEkWqJMvRyx4bL) | 4:05 | 2022-05-25 |  |
@@ -164,7 +165,7 @@
 | [T' Cow's Yed](https://open.spotify.com/track/474nLqSxFrQDLLwPDam5Ug) | [Nocturnal Emissions](https://open.spotify.com/artist/0WQSPkWeZe8mY8fInQXu41) | [Spiritflesh](https://open.spotify.com/album/7i0FawLGiN8KCIUL43glPq) | 4:12 | 2022-05-25 | 2022-10-14 |
 | [Tensión Hacia Tres](https://open.spotify.com/track/0tzujIWyPv8t9LqQQ7PTy2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Tensión Hacia Tres](https://open.spotify.com/album/4iDLZ4aJLc4ZbiRwzvCx2s) | 15:52 | 2022-05-25 |  |
 | [The Canonization](https://open.spotify.com/track/0qnPb51JWtWmUdNt97ODnO) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:10 | 2022-05-25 |  |
-| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 |  |
+| [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-05-25 | 2023-01-15 |
 | [The Look That Falls Upon Us Extends As If a Landform \- Remastered](https://open.spotify.com/track/6qR7UDfwNHj2NZjDX6hJ2i) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Sunlir \(Remastered\)](https://open.spotify.com/album/6FElkPlYYHMY2KkPSW9uqR) | 8:04 | 2022-07-01 |  |
 | [The Sacrifice](https://open.spotify.com/track/1G2eapqHAjlEdmv9yFAMaQ) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [The Sacrifice](https://open.spotify.com/album/1uB9z63XmV3PRTK1wwr6dd) | 4:00 | 2022-05-25 | 2022-07-28 |
 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 | 2022-07-08 | 2022-11-25 |

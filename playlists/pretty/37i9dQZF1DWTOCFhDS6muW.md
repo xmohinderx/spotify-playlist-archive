@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,641 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,648 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 5 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
 | 6 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 |
 | 7 | [Fiesta](https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 7:29 |
-| 8 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
-| 9 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 |
+| 8 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 |
+| 9 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
 | 10 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 |
 | 11 | [Punta Mix 2019](https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA) | [Punta Mix 2019](https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7) | 5:01 |
 | 12 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 38 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMDM1M2QxNWU2YTFmY2VlNmVkMTQxNGFiY2RiMTA5MjAw`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGIwYmRlMTgyNGNhYWE2MDhiM2UxZmEzNzZmNDgyYTk4`

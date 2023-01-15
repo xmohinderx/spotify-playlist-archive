@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Faith Fall",
+        "url": "https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242995,
+      "name": "Faith Fall - dance party",
+      "url": "https://open.spotify.com/track/50pQcaZ2w1PVpn5GTiq4OJ"
+    },
+    {
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 213882,
       "name": "Glad You Stayed - Nitro X Remix",
       "url": "https://open.spotify.com/track/6QWDH5scn7QfXZdCvrW2Id"
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
@@ -3048,6 +3066,24 @@
       "duration_ms": 184012,
       "name": "Jireh - Reyer Remix",
       "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50468,
+  "num_followers": 50473,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDZiMjJhYTFlYTAzNDVlMGM4MGM2MjdmMTYxOWI4ZTlk",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDU2MjkwOTI4MTg5Y2QyNzljNDk4ZTRkNmZlZDBmZjBh",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -47,22 +47,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 85266,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+      "duration_ms": 270213,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -83,18 +79,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 270213,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
       },
@@ -407,21 +423,21 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -435,22 +451,6 @@
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 230720,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
-        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Persuasion (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
+        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -763,22 +779,6 @@
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -851,30 +851,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Theme From Schindler's List",
-      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Mission: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA"
       },
@@ -903,6 +879,46 @@
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "I Wish I Had a Hundred Years",
+      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Theme From Schindler's List",
+      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "I Wish I Had a Hundred Years",
-      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Piano: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 152093,
       "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
       "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Hedwig's Theme",
-      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Dances With Wolves - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
+      "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "The Godfather",
         "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
       },
@@ -1079,34 +1079,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Dances With Wolves - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax"
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
       },
       "artists": [
         {
-          "name": "John Barry",
-          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 137773,
-      "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
-      "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 133320,
-      "name": "Play With Fire - Mono Version",
-      "url": "https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo"
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1123,6 +1107,22 @@
       "duration_ms": 530532,
       "name": "The Night King",
       "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 133320,
+      "name": "Play With Fire - Mono Version",
+      "url": "https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Juno - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
+        "name": "Rocky Balboa",
+        "url": "https://open.spotify.com/album/50mja1rtC0ExIrSw9SoT5j"
       },
       "artists": [
         {
-          "name": "Barry Louis Polisar",
-          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
+          "name": "The Rocky Soloists & Orchestra",
+          "url": "https://open.spotify.com/artist/5fge6vobDunRkgaVl54Uh0"
         }
       ],
-      "duration_ms": 157586,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/5sIBOrRLBI6ypREdEPj2wQ"
+      "duration_ms": 157622,
+      "name": "Going The Distance",
+      "url": "https://open.spotify.com/track/09ZLthJQ2SCYKMsrsDPcfw"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Rocky Balboa",
-        "url": "https://open.spotify.com/album/50mja1rtC0ExIrSw9SoT5j"
+        "name": "Juno - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
       },
       "artists": [
         {
-          "name": "The Rocky Soloists & Orchestra",
-          "url": "https://open.spotify.com/artist/5fge6vobDunRkgaVl54Uh0"
+          "name": "Barry Louis Polisar",
+          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
         }
       ],
-      "duration_ms": 157622,
-      "name": "Going The Distance",
-      "url": "https://open.spotify.com/track/09ZLthJQ2SCYKMsrsDPcfw"
+      "duration_ms": 157586,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/5sIBOrRLBI6ypREdEPj2wQ"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Soundtrack From Twin Peaks",
-        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
-      },
-      "artists": [
-        {
-          "name": "Angelo Badalamenti",
-          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "Twin Peaks Theme - Instrumental",
-      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 101572,
       "name": "Cambridge, 1963",
       "url": "https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Soundtrack From Twin Peaks",
+        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "Twin Peaks Theme - Instrumental",
+      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1307,6 +1307,22 @@
       "duration_ms": 161933,
       "name": "Diamonds Are Forever",
       "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Profumo di donna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff"
+      },
+      "artists": [
+        {
+          "name": "Armando Trovajoli",
+          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "Che Vuole Questa Musica Stasera",
+      "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1359,22 +1375,6 @@
       "duration_ms": 244573,
       "name": "Can't Fight City Halloween",
       "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Profumo di donna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff"
-      },
-      "artists": [
-        {
-          "name": "Armando Trovajoli",
-          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Che Vuole Questa Musica Stasera",
-      "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "First Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Quarantine",
-      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner",
         "url": "https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198080,
       "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
       "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "First Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Quarantine",
+      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
       },
@@ -1553,7 +1537,23 @@
       "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
     },
     {
-      "added_at": "2023-01-14 18:31:28",
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2023-01-15 01:33:45",
       "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"

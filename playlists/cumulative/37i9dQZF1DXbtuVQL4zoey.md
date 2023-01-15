@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-469 songs - 18 hr 6 min
+470 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,8 +304,9 @@
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2022-05-20 |  |
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
 | [Park Swing](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Park Swing](https://open.spotify.com/album/55Ej3cy2XsbtqVj4aTAVd4) | 2:17 | 2023-01-13 |  |
-| [Pear Pressure](https://open.spotify.com/track/29wKNESopFM6xHw0V0CGIw) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/6vr9gIYIHRXAsueGNLMK4k) | 2:22 | 2022-11-11 |  |
+| [Pear Pressure](https://open.spotify.com/track/29wKNESopFM6xHw0V0CGIw) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/6vr9gIYIHRXAsueGNLMK4k) | 2:22 | 2022-11-11 | 2023-01-15 |
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 | 2022-11-21 |
+| [Pear Pressure](https://open.spotify.com/track/51YRwAeesNlpvB5U51lZY7) | [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4), [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Future of Lofi Δ1](https://open.spotify.com/album/4jLLWC947hBiykcBewxneR) | 2:22 | 2023-01-13 |  |
 | [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
 | [Pincushion Island](https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Pincushion Island](https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q) | 2:19 | 2022-10-28 |  |
 | [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-565 songs - 1 day 5 hr 13 min
+566 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 | 2022-10-20 |
 | [Fade Into Darkness](https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB) | [Fade Into Darkness](https://open.spotify.com/album/63tZ4KGiLkwp2kDgMfXePx) | 3:31 | 2022-04-01 |  |
 | [Fall At Your Feet](https://open.spotify.com/track/69lKbD1RGW41qnsksqtMuq) | [Lucy Neville](https://open.spotify.com/artist/0bq4n0hc3bUfuqIFU79sBC) | [Fall At Your Feet](https://open.spotify.com/album/3NT7QaUJUgaZb5HBlcXEpv) | 3:22 | 2022-01-14 | 2022-05-14 |
-| [Fallin' In Love](https://open.spotify.com/track/431fmcuUMXY4plJk9kOoKI) | [RUXOLF](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/08l89p4aJeQ5vdrMuEyJpe) | 2:38 | 2023-01-13 |  |
+| [Fallin' In Love](https://open.spotify.com/track/431fmcuUMXY4plJk9kOoKI) | [RUXOLF](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/08l89p4aJeQ5vdrMuEyJpe) | 2:38 | 2023-01-13 | 2023-01-15 |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2022-01-14 | 2022-12-31 |
 | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/track/77VDh4qkhreJw2Y5fEA7vO) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/album/6r8enUYxEhVniaJXE6Jr5m) | 2:33 | 2022-07-15 | 2022-07-28 |
 | [False Alarm](https://open.spotify.com/track/5jJnlACnwFvyqNXmUZu8Nd) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [False Alarm](https://open.spotify.com/album/4DaPH54g5t1hUjkQZoYgQ5) | 3:44 | 2022-01-14 | 2022-04-20 |
@@ -527,6 +527,7 @@
 | [Used To You](https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Used To You](https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl) | 2:52 | 2022-11-08 |  |
 | [Vacation](https://open.spotify.com/track/3xdGk4FhvzZEekTKiv07sa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Vacation](https://open.spotify.com/album/3C7voNn9Ismi1jzuPrnUkQ) | 3:24 | 2022-04-01 | 2022-07-29 |
 | [Valerie](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Valerie](https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD) | 1:58 | 2022-09-23 |  |
+| [Valuable Souls](https://open.spotify.com/track/5wp5Ag7JJndEzE87EgSd5n) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz), [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Valuable Souls](https://open.spotify.com/album/6aUwJmbudpEuWS7DtNbG0f) | 2:48 | 2023-01-13 |  |
 | [Waffle](https://open.spotify.com/track/38111Yt4vBNntixay0dX1Q) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [MEMPHIS BLOOD](https://open.spotify.com/artist/7yWu9IhyxEOqQBBjvIs9cL) | [Waffle](https://open.spotify.com/album/2B4ga6fXI3G6w3l41l3oA8) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Waffle](https://open.spotify.com/track/623EqPJUJU60iXvAAitywT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [MEMPHIS BLOOD](https://open.spotify.com/artist/7yWu9IhyxEOqQBBjvIs9cL) | [Altitude](https://open.spotify.com/album/7tDxuAYv9PercqBRK7JvhW) | 3:14 | 2022-07-22 |  |
 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-08-12 |  |

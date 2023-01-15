@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23360,
+  "num_followers": 23365,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDQ4OTU4NGRmYThlOTQyM2M2ZWY3NjBkMzliYjY1ZmMx",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDFiZmIwZDYwMDJjNWEzYjlhMzZiMTUxMWExYWVmMTky",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "BLICKE",
-        "url": "https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O"
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
       },
       "artists": [
         {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
         }
       ],
-      "duration_ms": 131826,
-      "name": "BLICKE",
-      "url": "https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5"
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Devil Is A Woman",
-        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+        "name": "BLICKE",
+        "url": "https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
         }
       ],
-      "duration_ms": 192491,
-      "name": "Devil Is A Woman",
-      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+      "duration_ms": 131826,
+      "name": "BLICKE",
+      "url": "https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Wach",
-        "url": "https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7"
-      },
-      "artists": [
-        {
-          "name": "LEA x LINDA",
-          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Wach",
-      "url": "https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Let's Call It Love",
         "url": "https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 140952,
       "name": "Let's Call It Love",
       "url": "https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7"
+      },
+      "artists": [
+        {
+          "name": "LEA x LINDA",
+          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -327,6 +327,22 @@
       "duration_ms": 364800,
       "name": "Das Boot",
       "url": "https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Analog Girl in a Digital World",
+        "url": "https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 375106,
+      "name": "Analog Girl in a Digital World",
+      "url": "https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Wer bist du?",
-        "url": "https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D"
-      },
-      "artists": [
-        {
-          "name": "Celo Minati",
-          "url": "https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd"
-        }
-      ],
-      "duration_ms": 155890,
-      "name": "Wer bist du?",
-      "url": "https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "sch\u00f6n naiv :)",
         "url": "https://open.spotify.com/album/38apSHIt2ShQsodAhOAzP7"
       },
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Analog Girl in a Digital World",
-        "url": "https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4"
+        "name": "Wer bist du?",
+        "url": "https://open.spotify.com/album/5Kd64BNr7TYPBpyuoz4l0D"
       },
       "artists": [
         {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+          "name": "Celo Minati",
+          "url": "https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd"
         }
       ],
-      "duration_ms": 375106,
-      "name": "Analog Girl in a Digital World",
-      "url": "https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes"
+      "duration_ms": 155890,
+      "name": "Wer bist du?",
+      "url": "https://open.spotify.com/track/3gissJWkvQ4DvGy5eAB6Fu"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV"
-      },
-      "artists": [
-        {
-          "name": "Power Plush",
-          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
-        }
-      ],
-      "duration_ms": 212596,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "15 Years",
         "url": "https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198682,
       "name": "15 Years",
       "url": "https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV"
+      },
+      "artists": [
+        {
+          "name": "Power Plush",
+          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "a line in my skin",
-        "url": "https://open.spotify.com/album/1kmmKwqENIDHbavzvodyu5"
-      },
-      "artists": [
-        {
-          "name": "Karo Lynn",
-          "url": "https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7"
-        }
-      ],
-      "duration_ms": 216235,
-      "name": "a line in my skin",
-      "url": "https://open.spotify.com/track/1ke4aQ72kFgtq0g3Chl4iB"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "QUEEN",
         "url": "https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 167000,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "a line in my skin",
+        "url": "https://open.spotify.com/album/1kmmKwqENIDHbavzvodyu5"
+      },
+      "artists": [
+        {
+          "name": "Karo Lynn",
+          "url": "https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7"
+        }
+      ],
+      "duration_ms": 216235,
+      "name": "a line in my skin",
+      "url": "https://open.spotify.com/track/1ke4aQ72kFgtq0g3Chl4iB"
     },
     {
       "added_at": "2023-01-03 23:00:00",

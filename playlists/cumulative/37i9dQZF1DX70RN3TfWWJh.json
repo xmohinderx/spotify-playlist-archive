@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 9336,
+  "num_followers": 9340,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQzMSwwMDAwMDAwMDkzMDQzMWEyNTUxOTgxMzU3NWFkOGVjNTg1Y2I1ZDg0",
+  "snapshot_id": "MTY3MzU4MjQzMSwwMDAwMDAwMDNjYzAyNDFlMzIzOWY5YzlmYWUzNjZjYTlmNWFjYTM5",
   "tracks": [
     {
       "added_at": "2023-01-13 04:00:31",
@@ -323,18 +323,22 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
       "artists": [
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -359,22 +363,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
       },
       "artists": [
         {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2023-01-13 04:00:31",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -687,34 +703,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2023-01-13 04:00:31",
-      "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2023-01-13 04:00:31",
+      "album": {
         "name": "I LUV U (with Mirani)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "Origin of Love",
-        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
+        "name": "I LOVE YOU",
+        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
       "artists": [
         {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Origin of Love",
-      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+      "duration_ms": 177831,
+      "name": "ONLY YOU",
+      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
         }
       ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
-        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
-    },
-    {
-      "added_at": "2023-01-13 04:00:31",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -883,34 +883,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
+        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 182313,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
-    },
-    {
-      "added_at": "2023-01-13 04:00:31",
-      "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
+      "duration_ms": 217573,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -927,6 +911,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2023-01-13 04:00:31",
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "INTERVIEW",
-        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
-    },
-    {
-      "added_at": "2023-01-13 04:00:31",
-      "album": {
         "name": "Especially For You",
         "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-01-13 04:00:31",
       "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+        "name": "INTERVIEW",
+        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+      "duration_ms": 195293,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     },
     {
       "added_at": "2023-01-13 04:00:31",
@@ -1031,6 +1015,22 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
+    },
+    {
+      "added_at": "2023-01-13 04:00:31",
+      "album": {
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

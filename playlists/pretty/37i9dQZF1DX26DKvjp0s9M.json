@@ -1,12 +1,12 @@
 {
   "description": "the best of the best tracks. Cover: Phoebe Bridgers",
-  "num_followers": 762680,
+  "num_followers": 762951,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MjIzNywwMDAwMDAwMDJjZjFjYTgzYzVlNTc5Mzg0MDFmZjgwYWYwNmU3ZTMw",
+  "snapshot_id": "MTY3MzU2MjIzNywwMDAwMDAwMDc1NjI0MDYzMzQxYjM1YzI2YjU0ZjI5MjU3ZjczZjc5",
   "tracks": [
     {
       "added_at": "2022-12-22 19:19:49",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "French Exit",
         "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -435,22 +451,6 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -544,9 +544,25 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 214680,
       "name": "Sunsetz",
       "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "First Love/Late Spring",
-      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "The New Abnormal",
         "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
       "artists": [
         {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 278640,
+      "name": "First Love/Late Spring",
+      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -716,9 +716,25 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -751,22 +767,6 @@
       "duration_ms": 318591,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Shame, Shame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 234800,
       "name": "Where'd All the Time Go?",
       "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Good News For People Who Love Bad News",
         "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 208466,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
       "artists": [
         {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 318186,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1399,6 +1399,26 @@
       "duration_ms": 231825,
       "name": "Fire for You",
       "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Phone Numbers",
+        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 146826,
+      "name": "Phone Numbers",
+      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2022-12-22 19:19:49",
-      "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "Silver Soul",
-      "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1587,18 +1571,34 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+      "duration_ms": 298680,
+      "name": "Silver Soul",
+      "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
+    },
+    {
+      "added_at": "2022-12-22 19:19:49",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
     },
     {
       "added_at": "2022-12-22 19:19:49",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-12-22 19:19:49",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 247002,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2022-12-22 19:19:49",

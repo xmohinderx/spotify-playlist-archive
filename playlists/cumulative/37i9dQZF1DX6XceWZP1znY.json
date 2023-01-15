@@ -6057,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "TOMBI",
+        "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206509,
+      "name": "TOMBI",
+      "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
+    },
+    {
+      "album": {
         "name": "TOP -Japanese ver.-",
         "url": "https://open.spotify.com/album/4DiIuRcvcMhDcPQqHc3NT4"
       },
@@ -10250,7 +10268,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 298760,
       "name": "\u5e73\u884c\u7dda",
       "url": "https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79"

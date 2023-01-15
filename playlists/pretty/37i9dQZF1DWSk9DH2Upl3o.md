@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,335 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 25 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 |
 | 26 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
 | 27 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
-| 28 | [Water Level](https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Arise](https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm) | 6:09 |
-| 29 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 |
+| 28 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 |
+| 29 | [Water Level](https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Arise](https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm) | 6:09 |
 | 30 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 |
 | 31 | [Duck Farm](https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 7:36 |
 | 32 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
 | 50 | [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDRlYWMwMWUxNDYyYTU4ZWU5OWI0N2FhMzQzMmJlNTgy`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDJjYWY0NzFiYzQ4NWMxZTcxNGVlYjZlMDM3NTdmZTg3`

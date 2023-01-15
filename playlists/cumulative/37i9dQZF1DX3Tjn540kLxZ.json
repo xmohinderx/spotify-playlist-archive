@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 255346,
       "name": "Colours Of You",
       "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
@@ -1072,6 +1072,24 @@
       "duration_ms": 206974,
       "name": "Corduroy Dreams",
       "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
+    },
+    {
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "album": {

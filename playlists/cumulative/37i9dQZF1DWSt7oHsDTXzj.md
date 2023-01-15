@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-200 songs - 11 hr 1 min
+201 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2022-12-29 |
 | [Christmas Everyday](https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Christmas Everyday \- Single](https://open.spotify.com/album/0XX9kEAXQZRSxxlAwSADvU) | 2:09 | 2021-11-12 | 2022-07-29 |
-| [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 | 2021-11-12 |  |
+| [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 | 2021-11-12 | 2023-01-15 |
 | [Christmas Is Going To The Dogs](https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:57 | 2022-12-23 |  |
 | [Christmas Is Going To The Dogs](https://open.spotify.com/track/1V5xm5jig4H84JpO66Y7aN) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/6PzBWVj7R6E0sOQQdPYEXI) | 2:57 | 2021-11-12 | 2022-07-15 |
 | [Christmas Is Home](https://open.spotify.com/track/7ulgUfxA8oIGmaqQX6bRkX) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Christmas Is Home](https://open.spotify.com/album/6rp2bUeS3cbqItcbbvgYOI) | 3:46 | 2021-11-12 | 2022-07-29 |
@@ -198,6 +198,7 @@
 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-12-23 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Christmas Time](https://open.spotify.com/album/5eP1FZIB34PXwas58LAPCl) | 3:10 | 2021-11-12 | 2022-07-28 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-11-11 |  |
+| [Wish](https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Wish](https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1) | 3:07 | 2022-12-23 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 | 2022-07-29 |
 | [Wonderful Christmastime](https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [A Very Cool Christmas](https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh) | 2:26 | 2022-10-14 | 2022-11-07 |
 | [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 |  |

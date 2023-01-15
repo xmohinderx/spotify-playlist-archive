@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-100 songs - 4 hr 31 min
+101 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Air Castles](https://open.spotify.com/track/35UFkxj74k0NpzuLfnUYIE) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 2:05 | 2023-01-12 |  |
 | [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 | 2023-01-12 |  |
 | [Amber](https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9), [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:15 | 2023-01-12 |  |
-| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 |  |
+| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 | 2023-01-15 |
+| [Around Me](https://open.spotify.com/track/3i4AOqloOwc33r7pwJGLXh) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 4:34 | 2023-01-13 |  |
 | [Bergamot](https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:04 | 2023-01-12 |  |
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |

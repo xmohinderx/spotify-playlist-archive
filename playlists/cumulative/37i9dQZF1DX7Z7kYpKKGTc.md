@@ -4,7 +4,7 @@
 
 > The romantic side of classic rock and metal
 
-426 songs - 1 day 8 hr 24 min
+427 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,11 +82,12 @@
 | [Don't Wanna Dream](https://open.spotify.com/track/4zZQui75nGBwCxq6DiJC18) | [Hurricane](https://open.spotify.com/artist/6G6iuvTHT1XHUEOw5sbQYm) | [Slave To The Thrill \(Reissue\)](https://open.spotify.com/album/1EIbls8hlfhggOpOP4S2pS) | 5:06 | 2021-12-20 | 2022-05-11 |
 | [Dream On](https://open.spotify.com/track/7H3RUwypdZREOhV4d8EKMA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Tough Love: Best Of The Ballads](https://open.spotify.com/album/33lrptYaoQiDsAcZPXKFna) | 4:24 | 2022-03-30 | 2022-04-20 |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-07-05 | 2023-01-12 |
+| [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-07-05 |  |
 | [Dream On](https://open.spotify.com/track/4kD351ndJqpsLNUo124SPR) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [The Very Best Of](https://open.spotify.com/album/1w63pG38ojwbeKxKV0QTNl) | 3:27 | 2022-03-30 | 2022-04-02 |
 | [Dream Until Tomorrow](https://open.spotify.com/track/4fS7UQ9s2Lps0dsWSaEkm7) | [Lynch Mob](https://open.spotify.com/artist/2K3xysAFpeFSH3DG0zIErf) | [Lynch Mob](https://open.spotify.com/album/22oR7qshxEnyYNTWra6NEI) | 6:07 | 2021-12-20 | 2022-04-23 |
 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 | 2022-03-30 | 2022-04-04 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-07-05 |  |
-| [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 | 2022-03-30 | 2022-11-13 |
+| [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 | 2022-03-30 |  |
 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 | 2022-03-30 | 2022-04-23 |
 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 | 2022-03-30 | 2022-04-18 |
 | [ENDLESS RAIN \- Remaster](https://open.spotify.com/track/2i4DNxEjTT5gjk7wgfSpFq) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Blue Blood](https://open.spotify.com/album/3QNWqHNcaQMHt3PlpEZnHF) | 6:34 | 2022-03-30 | 2022-04-15 |
@@ -176,7 +177,7 @@
 | [I Won't Hold You Back](https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:53 | 2021-12-20 | 2022-07-29 |
 | [I Wonder Why](https://open.spotify.com/track/04jNbL6I5ZPLYKKlL08Z8Z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Curtis Stigers](https://open.spotify.com/album/79iy9zc9KB1aljBjoaHbm3) | 4:27 | 2022-03-30 | 2022-04-16 |
 | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/track/4UrgDocbHywDZv2f3mBhCq) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell...](https://open.spotify.com/album/4yIGqIF5oroPCLDUOOLYSO) | 12:01 | 2022-03-30 | 2022-04-10 |
-| [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 | 2021-12-20 |  |
+| [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 | 2021-12-20 | 2023-01-15 |
 | [I'll Be There For You](https://open.spotify.com/track/0wqxdcJoEYmDzQEykl7mU1) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/4SIeviZcnTJ86k3LUAj2yu) | 5:46 | 2021-12-20 | 2022-07-29 |
 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 | 2022-03-30 | 2022-04-10 |
 | [I'll See You In My Dreams](https://open.spotify.com/track/5Pr7EYxfxsduely39MZBvF) | [GIANT](https://open.spotify.com/artist/3gKPME3EjakIpyBUZrWPTh) | [Last Of The Runaways](https://open.spotify.com/album/7qelbqu64vITzhHq86fld4) | 4:46 | 2022-03-30 | 2022-04-07 |
@@ -300,7 +301,7 @@
 | [Rough Boy](https://open.spotify.com/track/09C7ULYG1WhWgngwkkvVxN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:49 | 2022-03-30 | 2022-04-19 |
 | [Ruby Tuesday](https://open.spotify.com/track/3sgvSw86M6BmIYPWWwpom7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Very Best Of The Rolling Stones 1964\-1971](https://open.spotify.com/album/7kDfXZoTDQviofLG7YnztI) | 3:13 | 2022-03-30 | 2022-04-15 |
 | [Run Back Into Your Arms](https://open.spotify.com/track/5UyMKvBUaXQZxCQCsRTAYi) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Cupid](https://open.spotify.com/album/0jZFOZYfHADfQZEWS34EjG) | 3:27 | 2022-03-30 | 2022-04-06 |
-| [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2022-03-30 |  |
+| [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 | 2022-03-30 | 2023-01-15 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-02 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-05 |  |
 | [Safe in My Heart](https://open.spotify.com/track/7z93deiuycP6O9PHsKoTmt) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Unusual Heat](https://open.spotify.com/album/3AYjkl69eLyXjoKGh7Cxi2) | 4:33 | 2022-03-30 | 2022-04-08 |

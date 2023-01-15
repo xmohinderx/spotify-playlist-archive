@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,898 likes - 209 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,926 likes - 209 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-381 songs - 19 hr 31 min
+382 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Mi Nueva Familia](https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Mi Nueva Familia](https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS) | 2:55 | 2022-05-27 | 2022-12-08 |
 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 | 2022-02-14 |  |
 | [Mi Porvenir](https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Porvenir](https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp) | 2:41 | 2022-06-10 | 2023-01-10 |
+| [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 | 2023-01-09 |  |
 | [Mi Vicio](https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Summer School Mixtape, Vol\. 1](https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU) | 3:14 | 2022-02-14 | 2022-12-08 |
 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 | 2022-02-14 | 2023-01-10 |
 | [Miami Vibe](https://open.spotify.com/track/6ZUBqOrjrdmkP4eLQLBeaq) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Miami Vibe](https://open.spotify.com/album/2yPySu8gh3DE4dTpwSvLBI) | 3:49 | 2022-02-14 | 2022-12-08 |
@@ -327,7 +328,7 @@
 | [Por Siempre Manuel](https://open.spotify.com/track/5vrQXkrSePH7on9QLaZwuq) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Por Siempre Manuel](https://open.spotify.com/album/6IAbzPW3pWWI0sya6ywFnC) | 2:58 | 2022-02-14 | 2022-06-02 |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2022-02-14 | 2023-01-10 |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-12-08 |  |
-| [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 | 2022-02-14 |  |
+| [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 | 2022-02-14 | 2023-01-15 |
 | [Que Me Importa](https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Que Me Importa](https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI) | 3:28 | 2022-12-08 |  |
 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 | 2022-05-27 | 2022-12-08 |
 | [Quién Se Anima](https://open.spotify.com/track/2FmQWgxcHefsoyw4ob0yq3) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB) | 1:37 | 2022-06-10 | 2022-07-28 |

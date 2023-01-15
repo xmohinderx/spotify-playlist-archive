@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 899613,
+  "num_followers": 899853,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDg4OCwwMDAwMDAwMGRmZWU1ODllMWZhODQxN2ExOWNjOGFlYThiYjA2YzAw",
+  "snapshot_id": "MTY3MjI5NDg4OCwwMDAwMDAwMGQ1NmNhNTdiMThjMGIxMDQ3NzU2YmQ0YjY0YjMzYjQ4",
   "tracks": [
     {
       "added_at": "2022-12-29 06:21:28",
@@ -79,18 +79,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
         }
       ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
       "artists": [
         {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "The Dock of the Bay (Mono)",
         "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -239,18 +223,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -267,6 +251,22 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+        "name": "Runaround Sue",
+        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
       "artists": [
         {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+      "duration_ms": 171600,
+      "name": "Runaround Sue",
+      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -867,50 +867,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Runaround Sue",
-        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Runaround Sue",
-      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Everybody Loves Somebody",
-      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -927,6 +895,38 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Everybody Loves Somebody",
+        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Everybody Loves Somebody",
+      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
         }
       ],
-      "duration_ms": 147520,
-      "name": "Fly Me To The Moon - 2008 Remastered",
-      "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1111,66 +1107,22 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
       "artists": [
         {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
-      },
-      "artists": [
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+      "duration_ms": 147520,
+      "name": "Fly Me To The Moon - 2008 Remastered",
+      "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1191,66 +1143,50 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 230386,
-      "name": "All You Need Is Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
         }
       ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
       "artists": [
         {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
         }
       ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1275,66 +1211,34 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1355,6 +1259,86 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1371,6 +1355,38 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -1383,6 +1399,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1415,6 +1447,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1471,18 +1519,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 160864,
-      "name": "Will You Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1503,18 +1551,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+      "duration_ms": 194216,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1535,22 +1583,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194216,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "The Essential Roy Orbison",
         "url": "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n"
       },
@@ -1567,6 +1599,22 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1579,22 +1627,6 @@
       "duration_ms": 147306,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1631,22 +1663,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+      "duration_ms": 197093,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1691,6 +1707,22 @@
       "duration_ms": 159853,
       "name": "Twistin' the Night Away",
       "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1727,22 +1759,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -1807,18 +1807,34 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -1875,18 +1875,34 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Tears Of Fire: The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
       "artists": [
         {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
+      "duration_ms": 163680,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1903,6 +1919,22 @@
       "duration_ms": 131719,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1927,22 +1959,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Rockin' Robin",
         "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
       },
@@ -1955,6 +1971,22 @@
       "duration_ms": 160080,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -1975,18 +2007,34 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 127733,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2023,18 +2071,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2051,22 +2099,6 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2155,18 +2187,18 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
         }
       ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2203,54 +2235,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "With A Smile And A Song",
-        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -2279,6 +2263,38 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "With A Smile And A Song",
+        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -2359,22 +2359,6 @@
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2395,18 +2379,50 @@
     {
       "added_at": "2022-12-29 06:21:28",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-12-29 06:21:28",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2022-12-29 06:21:28",
@@ -2423,22 +2439,6 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
-    },
-    {
-      "added_at": "2022-12-29 06:21:28",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     }
   ],
   "unique_name": "Classic Oldies",

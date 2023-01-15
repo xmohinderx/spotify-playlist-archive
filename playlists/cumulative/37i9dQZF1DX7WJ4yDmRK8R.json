@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
@@ -3064,6 +3064,24 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "album": {
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
+      },
+      "artists": [
+        {
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "Special Brew",
+      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Kelz
 
-711 songs - 1 day 14 hr 21 min
+712 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-09 |  |
 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-01-13 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-19 | 2022-07-16 |
+| [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-13 |  |
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-07-27 |
 | [Good Mornin'](https://open.spotify.com/track/1pDOIIp3aHcabzH6lzEaef) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/6cNLcpoIxjswd3ijVeiTRa) | 2:22 | 2022-07-15 | 2022-10-15 |
@@ -544,7 +545,7 @@
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 | 2022-12-17 |
-| [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 |  |
+| [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 | 2023-01-15 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 |  |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2022-04-01 | 2022-04-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,404 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,409 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 13 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/4uqLCBpfP6tVmvXZGtSExC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/7Jzb6eCT0ZvaszaSJTWFSJ) | 3:48 |
 | 14 | [HELL! or HELL?](https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:42 |
 | 15 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 3:53 |
-| 16 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 |
+| 16 | [Don't be afraid!](https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:58 |
 | 17 | [イントロダクション](https://open.spotify.com/track/2iFeWuRDUTkFGfdup9kRIa) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/5m3V4KZEU8sN7W3CCJbBU1) | 3:41 |
-| 18 | [Don't be afraid!](https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:58 |
+| 18 | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN) | 4:19 |
 | 19 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
 | 20 | [天下トーイツA to Z☆](https://open.spotify.com/track/5ok9My7hwKepg4oFta8P0o) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:38 |
 | 21 | [flame of hope](https://open.spotify.com/track/5gVM0EJQqP5dOc3fnIpHSb) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 |
 | 50 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 |
 
-Snapshot ID: `MTY3MDk0MjM1MywwMDAwMDAwMGEwZmNjNDA2OWVkMTY5ZTFmY2VjOGQ0ODUxODQ1MGEy`
+Snapshot ID: `MTY3MDk0MjM1MywwMDAwMDAwMDAyYTljYTVlMjAzNTlhMWI5MGZkYWQ4MTYxMTU0ZTcx`

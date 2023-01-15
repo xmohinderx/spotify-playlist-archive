@@ -4,14 +4,15 @@
 
 > The songs that defined Nigeria's Alté era
 
-85 songs - 4 hr 40 min
+86 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 | 2022-07-27 |  |
 | [5 Star](https://open.spotify.com/track/0uFCWBCZ8sU0Ys75kuNMcQ) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [5 Star](https://open.spotify.com/album/1NYyGd73h9In83foaNlao2) | 2:29 | 2022-07-27 |  |
 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 | 2022-07-27 |  |
-| [Aiya](https://open.spotify.com/track/4x89vYSEGIhYd5YKSIUyZL) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [re\-Bella](https://open.spotify.com/album/4hK3GKE0NhUM7V7ymP80C9) | 3:43 | 2022-07-27 |  |
+| [Aiya](https://open.spotify.com/track/4x89vYSEGIhYd5YKSIUyZL) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [re\-Bella](https://open.spotify.com/album/4hK3GKE0NhUM7V7ymP80C9) | 3:43 | 2022-07-27 | 2023-01-15 |
+| [Aiya](https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sunsets in Lagos](https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb) | 3:43 | 2022-07-27 |  |
 | [All I Need](https://open.spotify.com/track/2kuoDgDB58x1DExkiIEWip) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [All I Need](https://open.spotify.com/album/1UaNXTVWQcwbb0hWojeeKY) | 3:31 | 2022-07-27 |  |
 | [Alté Cruise](https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Zamir Los](https://open.spotify.com/artist/3WgKNlYCBnaxl7XUed9CmR) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 3:12 | 2022-07-27 |  |
 | [Bad](https://open.spotify.com/track/3Wr351IZwsrlcc4dHyhLH8) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bad](https://open.spotify.com/album/0VlP3L4TCTNj1E9ZQMTV2L) | 3:25 | 2022-07-27 |  |

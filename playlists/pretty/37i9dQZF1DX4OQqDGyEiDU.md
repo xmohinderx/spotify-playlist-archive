@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,574 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,586 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 34 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 |
 | 35 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 |
 | 36 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
-| 37 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
-| 38 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
+| 37 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
+| 38 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
 | 39 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
 | 40 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
 | 41 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 42 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 |
 | 43 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
-| 44 | [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 |
-| 45 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
+| 44 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
+| 45 | [脱法ロック](https://open.spotify.com/track/3RannlvnBgRRNY2gg940x7) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/4RdqGPBih6Q5RfPED5sjiu) | 3:08 |
 | 46 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
 | 47 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 |
 | 48 | [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 |
 | 49 | [しっくおぶはうす! \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/6DLqDDyOYOxSDb93nzhH7R) | [オゾン](https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e) | [しっくおぶはうす!](https://open.spotify.com/album/5Tj8Bq7zfYSUAh4edMf10D) | 3:16 |
 | 50 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 
-Snapshot ID: `MTY3MzUzNzEzOCwwMDAwMDAwMGJlNjM4MTg5MTUwN2MwZTQ1YzkzN2M5YmJkYTgyM2Vh`
+Snapshot ID: `MTY3MzUzNzEzOCwwMDAwMDAwMGE4Mzg0NjYzYjE2NTJlNGFiOGFkYWU2YTNlMjA1ZTUw`

@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 140704,
+  "num_followers": 140712,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDVjN2NlM2JjMTk0ZDRjODk4MDc4MTM4NmU5MDIxNjUy",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGU4MjEzZTNlOTNjMWNmNmY0NWQwYjgxMDI2MGY4MmUx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -127,6 +127,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Drop Me Off In Harlem",
         "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 163533,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -279,6 +279,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Treme: Music From The HBO Original Series, Season 1",
+        "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
+      },
+      "artists": [
+        {
+          "name": "The New Orleans Jazz Vipers",
+          "url": "https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "I Hope Your Comin' Back To New Orleans",
+      "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Treme: Music From The HBO Original Series, Season 1",
-        "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
-      },
-      "artists": [
-        {
-          "name": "The New Orleans Jazz Vipers",
-          "url": "https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "I Hope Your Comin' Back To New Orleans",
-      "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Complete Columbia Session 1946",
         "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
       },
@@ -339,22 +339,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Presenting Johnny Dodds",
-        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
       },
       "artists": [
         {
-          "name": "Johnny Dodds",
-          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
-        },
-        {
-          "name": "Jimmy Blythe",
-          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
         }
       ],
-      "duration_ms": 179600,
-      "name": "I'm Goin' Huntin'",
-      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -375,18 +371,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+        "name": "Presenting Johnny Dodds",
+        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
       "artists": [
         {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+          "name": "Johnny Dodds",
+          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
+        },
+        {
+          "name": "Jimmy Blythe",
+          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
         }
       ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+      "duration_ms": 179600,
+      "name": "I'm Goin' Huntin'",
+      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
     },
     {
       "added_at": "2021-04-26 16:53:52",

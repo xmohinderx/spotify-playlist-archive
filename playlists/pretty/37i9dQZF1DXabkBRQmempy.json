@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 160520,
+  "num_followers": 160612,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMGJjMzc5ZTNjMjY5NGQ1ZWU0OGVjZTIyMGQ3NDQyMDll",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDM5N2Q0YjQ0NDcyMTAxM2Q3ZTg4MWI5OGE5NjIxM2Y4",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -251,8 +251,8 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+      "duration_ms": 279160,
+      "name": "No Dejes Que...",
+      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -395,8 +395,8 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 279160,
-      "name": "No Dejes Que...",
-      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Mystic Love",
         "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 235200,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 294266,
       "name": "Aqu\u00ed No Es As\u00ed",
       "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Rey Az\u00facar",
-        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 243720,
-      "name": "Mal Bicho - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/5nofWp3plvxYX1xgHpe4fi"
+      "duration_ms": 265160,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Rey Az\u00facar",
+        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Mi Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+      "duration_ms": 243720,
+      "name": "Mal Bicho - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/5nofWp3plvxYX1xgHpe4fi"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2022-07-06 19:49:25",

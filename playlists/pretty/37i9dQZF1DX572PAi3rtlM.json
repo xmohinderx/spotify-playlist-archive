@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 25117,
+  "num_followers": 25125,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDVlMzZjZDY1MGZiNzYzNjI5OTY2ZmUzYjIyMTFjZGVi",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGFmMDRjZDFlYmEyNmE1NjFjN2I2MjAzMmZjOTFmN2Zl",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -167,22 +167,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -211,18 +207,38 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
+        "name": "I Miss Having Someone To Talk To",
+        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
         }
       ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
+      "duration_ms": 223742,
+      "name": "I Miss Having Someone To Talk To",
+      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "...Balla!",
+        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -263,22 +279,6 @@
       "duration_ms": 377173,
       "name": "That Was Your Mother - Gui Boratto Remix",
       "url": "https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "...Balla!",
-        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Searching to Find the One",
+        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
+      },
+      "artists": [
+        {
+          "name": "Unlimited Touch",
+          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
+        }
+      ],
+      "duration_ms": 413573,
+      "name": "I Hear Music in the Streets",
+      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Priorities",
         "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 348158,
       "name": "Warm Priority",
       "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Searching to Find the One",
-        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
-      },
-      "artists": [
-        {
-          "name": "Unlimited Touch",
-          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
-        }
-      ],
-      "duration_ms": 413573,
-      "name": "I Hear Music in the Streets",
-      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -615,6 +615,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Sting Like A Bee",
         "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
       },
@@ -627,26 +643,6 @@
       "duration_ms": 589706,
       "name": "Lady Bug - Disco Mix",
       "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Raiding the Vaults",
-        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
-      },
-      "artists": [
-        {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
-      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -667,18 +663,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+        "name": "Raiding the Vaults",
+        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
       "artists": [
         {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+      "duration_ms": 237979,
+      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
+      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",

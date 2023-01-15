@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-236 songs - 12 hr 28 min
+237 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 | 2021-09-02 |  |
 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 | 2021-09-02 | 2022-12-10 |
 | [Hero with a Death Ray](https://open.spotify.com/track/6pGJfwlSzMeSdsh1Oe6Tzm) | [K\-Man & The 45s](https://open.spotify.com/artist/5ElvgxK8YpteV93zGRSpkV) | [Stand with the Youth](https://open.spotify.com/album/177MhZJj9eAE6lDJJTapE3) | 1:36 | 2021-09-02 | 2022-05-17 |
-| [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 | 2021-09-02 |  |
+| [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 | 2021-09-02 | 2023-01-15 |
 | [House Of Fun](https://open.spotify.com/track/2vJzPnFoSGtvAAMvbXpxZb) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Best Of/20th Century](https://open.spotify.com/album/7e0zBK7AnmJeWMsvmLQ2kO) | 2:57 | 2022-04-14 | 2022-04-21 |
 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 | 2022-04-14 |  |
 | [I Bet They're Asleep In New York](https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Me, Myself and Something Else](https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b) | 4:34 | 2022-04-14 |  |
@@ -177,6 +177,7 @@
 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 | 2022-12-16 |
 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 | 2021-09-02 | 2022-07-29 |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2022-04-14 |  |
+| [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 3:11 | 2023-01-15 |  |
 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 | 2022-04-14 | 2022-12-28 |
 | [Step One](https://open.spotify.com/track/4DuqrGxVmRTBqhDv8yTTKZ) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/3AUGQDSXbu2Az6fwHDpA5S) | 1:12 | 2021-09-02 | 2022-07-16 |
 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 | 2021-09-02 | 2022-11-13 |

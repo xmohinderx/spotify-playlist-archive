@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-309 songs - 17 hr 50 min
+310 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Déjame Pasar](https://open.spotify.com/track/5wZvk9ItEFxpTQpEXljqSm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:50 | 2021-12-09 | 2022-12-31 |
 | [Déjame Vivir](https://open.spotify.com/track/4AvEpgFqPMZxGvB5PAMwSm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 3:34 | 2022-05-14 | 2022-10-28 |
 | [Déjame Vivir](https://open.spotify.com/track/644yCL4wlubltqF7hBPQtp) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 3:34 | 2021-12-09 | 2022-07-08 |
-| [El Solitario Amor](https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [The French Kiss](https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg) | [El Solitario Amor](https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO) | 2:55 | 2021-12-09 |  |
+| [El Solitario Amor](https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [The French Kiss](https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg) | [El Solitario Amor](https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO) | 2:55 | 2021-12-09 | 2023-01-15 |
 | [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 |  |
 | [Elo](https://open.spotify.com/track/5myvcDXAJk9igYbcVIYlFq) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 4:25 | 2022-04-07 | 2022-05-25 |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-09-21 |  |
@@ -170,6 +170,7 @@
 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/39Yi5kzFTB5AsTy0I81aB9) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/1Kj9PBn932t5zoNc9E1W4p) | 4:27 | 2021-12-09 | 2022-07-29 |
 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:27 | 2022-05-14 | 2022-10-28 |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2021-12-09 |  |
+| [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 | 2023-01-13 |  |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2021-12-09 |  |
 | [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 | 2021-12-09 |  |
 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 | 2021-12-09 |  |

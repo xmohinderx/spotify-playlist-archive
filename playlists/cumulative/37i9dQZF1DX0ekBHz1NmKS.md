@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-615 songs - 1 day 8 hr 37 min
+617 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 |  |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
+| [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-01-12 |  |
 | [Besvikelsens melodi](https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Besvikelsens melodi](https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14) | 2:41 | 2022-04-01 | 2022-10-16 |
 | [Better Clothes](https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Better Clothes](https://open.spotify.com/album/5Oj1H9ZLW7ZrDDlD2qSeSm) | 2:57 | 2022-06-16 | 2022-07-15 |
 | [Betyder ingenting](https://open.spotify.com/track/1oqlZtu7OBwu81conDTu30) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Mattias Andréasson](https://open.spotify.com/artist/0gFk1Wd2yws9WIB6dqaO4b) | [Betyder ingenting](https://open.spotify.com/album/1PF7HO7Smc7raUZY0B03VJ) | 2:29 | 2021-12-16 | 2022-01-10 |
 | [Bigger Than The Universe](https://open.spotify.com/track/2A5qivViPNykdAiRLXrxUF) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0FLkjiFbRwGs5X2SnII6Oq) | 3:02 | 2022-03-03 | 2022-07-29 |
 | [Bigger Than The Universe](https://open.spotify.com/track/4O1FGUf2xndvsmtMQtHZNp) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0jnA15McQjMuXilDq9w2BW) | 3:02 | 2022-07-28 | 2022-09-16 |
 | [Bleeding](https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC) | [Johanna Nordström](https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3) | [Bleeding](https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO) | 3:26 | 2022-05-30 |  |
-| [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 | 2022-06-02 |  |
+| [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 | 2022-06-02 | 2023-01-15 |
 | [Blicka](https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blicka](https://open.spotify.com/album/5r7UIKuE6SdoivyjvUeC3F) | 2:55 | 2022-03-17 | 2022-07-29 |
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 | 2022-09-16 |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
@@ -287,7 +288,7 @@
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 |  |
-| [Kevin](https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Svanesång](https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig) | 3:52 | 2022-04-28 |  |
+| [Kevin](https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Svanesång](https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig) | 3:52 | 2022-04-28 | 2023-01-15 |
 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 | 2022-03-24 | 2022-04-01 |
 | [Kill You](https://open.spotify.com/track/7KgE1DX7O2NSjFsyFMGv1c) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Kill You](https://open.spotify.com/album/67nJEb4jOr518iG9xrdyvl) | 3:13 | 2022-04-07 | 2022-04-28 |
 | [King of a Tragedy](https://open.spotify.com/track/1K1oSJaGtIgK28y7bmfspg) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [King of a Tragedy](https://open.spotify.com/album/3Ko7s87lu60z5XCnYxgvLj) | 3:33 | 2022-03-10 | 2022-05-10 |
@@ -422,6 +423,7 @@
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |
+| [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 |  |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 |  |

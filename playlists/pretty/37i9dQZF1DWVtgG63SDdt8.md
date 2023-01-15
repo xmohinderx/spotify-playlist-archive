@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,584 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,653 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Our Fortress](https://open.spotify.com/track/2HXZFcHbAGvjtYMHUP3ATJ) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Be Still and Know](https://open.spotify.com/album/66WAdriiGo1J1ASSQQDDio) | 4:23 |
 | 16 | [Graves \- Acoustic](https://open.spotify.com/track/0yMxVz4bq58UKTRVaBt2ub) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves \(Acoustic\)](https://open.spotify.com/album/6yp8tnxFB1gXNUHpF52iqP) | 4:18 |
 | 17 | [Crown](https://open.spotify.com/track/1oYPhdoSGwY3Bl3YU6q7F7) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Crown](https://open.spotify.com/album/5YlDLaoyUwFwDy7UsHpECE) | 3:33 |
-| 18 | [keep that light on\. \(live\)](https://open.spotify.com/track/3Syuc3SmMRcpb13Yn5La9u) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [walking on water](https://open.spotify.com/album/7apot69IB3xMoHYPzmAJpa) | 4:42 |
+| 18 | [keep that light on\. \- Live](https://open.spotify.com/track/5I7bWXfSNuGDIprzG38oJF) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [the real thicc shady\. \(Live\)](https://open.spotify.com/album/2zsqTdSpQrkkrT5YRODbUR) | 4:42 |
 | 19 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
 | 20 | [I Promise!](https://open.spotify.com/track/4UuMv9zZV2r2DSKCYOoWp8) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [I Promise!](https://open.spotify.com/album/70HQjlgv8QVWz6GlYhUuuc) | 1:52 |
 | 21 | [IF I RAN AWAY](https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [IF I RAN AWAY](https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Sabbath](https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Watobi](https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj) | [Sabbath](https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516) | 3:32 |
 | 100 | [Worry About Nothing](https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 2:44 |
 
-Snapshot ID: `MTY3MzYwMDYxNSwwMDAwMDAwMGIwZDNiNGY5MzUwN2U5YTlmM2QwOGRhZWY3MzZiNmVj`
+Snapshot ID: `MTY3MzYwMDYxNSwwMDAwMDAwMDRiY2ViOTZkMGZkYjZkZDNlNWFhYjQyZGE0OWQ0NjUx`

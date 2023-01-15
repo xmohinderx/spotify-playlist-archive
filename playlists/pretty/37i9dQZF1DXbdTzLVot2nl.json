@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 92392,
+  "num_followers": 92407,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMDliZTE1MmUxOGI4Yjk3YTM1ZjA5Njc2ZWY0MzRhYmRi",
+  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMDFiN2U0OGIwZWViNTY5NGI4YWZkMDRlMTA4YWEwMzVj",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:05",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 257360,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -695,6 +679,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You - Remastered 2004",
-      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "So Excited! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 230640,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - Remastered 2004",
+      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+        "name": "So Excited! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
       "artists": [
         {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+      "duration_ms": 230640,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -875,18 +859,34 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
       "artists": [
         {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 209520,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -903,22 +903,6 @@
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -951,6 +935,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
     },
     {
       "added_at": "2022-06-08 06:25:05",

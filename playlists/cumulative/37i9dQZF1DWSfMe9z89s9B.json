@@ -4913,6 +4913,28 @@
     },
     {
       "album": {
+        "name": "Good For Now",
+        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241877,
+      "name": "Good For Now (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm"
       },
@@ -10420,7 +10442,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 211307,
       "name": "Selfish (feat. BEAM)",
       "url": "https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB"

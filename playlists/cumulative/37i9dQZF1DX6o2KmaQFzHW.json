@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 254397,
       "name": "Angelitos Negros",
       "url": "https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
@@ -1624,6 +1624,24 @@
     {
       "album": {
         "name": "El Nombrador",
+        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207826,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
+    },
+    {
+      "album": {
+        "name": "El Nombrador",
         "url": "https://open.spotify.com/album/6U5PrxODD0eyR1ZyOF1A7e"
       },
       "artists": [
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 233314,
       "name": "La Pome\u00f1a",
       "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"

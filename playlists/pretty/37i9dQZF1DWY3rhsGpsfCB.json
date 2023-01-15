@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 6645,
+  "num_followers": 6654,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5OTI2NCwwMDAwMDAwMDZlNmU4Y2FiMGVjZWFlZGFhODkyNzFlOGFiZTg4OTBl",
+  "snapshot_id": "MTY3MzU5OTI2NCwwMDAwMDAwMDMxZTI1N2EzODBmYmVmODc5Yzc3MjQ5NDA2ZDI2ODYx",
   "tracks": [
     {
       "added_at": "2023-01-12 10:14:31",
@@ -463,30 +463,18 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Good & Plenty (Remix)",
-        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty - Remix",
-      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -511,18 +499,30 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+        "name": "Good & Plenty (Remix)",
+        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 204705,
+      "name": "Good & Plenty - Remix",
+      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -563,6 +563,38 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -583,22 +615,6 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -625,20 +641,20 @@
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
     },
     {
-      "added_at": "2022-11-15 09:52:40",
+      "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+        "name": "Lie Again",
+        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
+      "duration_ms": 187027,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
       "added_at": "2022-08-05 07:52:38",
@@ -665,36 +681,20 @@
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
+      "added_at": "2022-11-15 09:52:40",
       "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Lie Again",
-        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+      "duration_ms": 181840,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Letter To Ur Ex",
-      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
       "added_at": "2022-09-30 06:22:18",
       "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
@@ -925,20 +941,20 @@
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+        "name": "Riddim 5",
+        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+      "duration_ms": 164210,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Riddim 5",
-        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 197498,
       "name": "Angel",
       "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
-    },
-    {
-      "added_at": "2022-11-18 11:28:54",
-      "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+    },
+    {
+      "added_at": "2022-11-18 11:28:54",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
+      "added_at": "2022-09-02 08:51:16",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Beauty In The Madness",
@@ -1119,22 +1135,6 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-09-02 08:51:16",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2022-08-22 18:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 210163,
       "name": "Dangerous Hearts",
       "url": "https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-09-30 06:22:18",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
     },
     {
+      "added_at": "2022-07-22 04:39:56",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
+    },
+    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "Monologues",
@@ -1389,20 +1405,20 @@
       "url": "https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj"
     },
     {
-      "added_at": "2022-07-22 04:39:56",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+        "name": "On Yah (Intro)",
+        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
+      "duration_ms": 180278,
+      "name": "On Yah - Intro",
+      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "On Yah (Intro)",
-        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "On Yah - Intro",
-      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
     }
   ],
   "unique_name": "Cocoa Butter ",

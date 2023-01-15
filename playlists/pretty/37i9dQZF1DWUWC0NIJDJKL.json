@@ -1,12 +1,12 @@
 {
   "description": "Perfect sunshiney indie tracks for summer.",
-  "num_followers": 76263,
+  "num_followers": 76275,
   "original_name": "Indie Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0MTkyMCwwMDAwMDAwMDM4N2ZjZjIyZTQ0ZWQ0Yzc2MDdhOWIzYmQ3NWE2N2Q5",
+  "snapshot_id": "MTY3MzY0MTkyMCwwMDAwMDAwMGY2MWVkNWY1NjZkODk3MmZhMjFmNWZhNzE4MmRjYTEw",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 168880,
-      "name": "Wish You Were Sober",
-      "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 168880,
+      "name": "Wish You Were Sober",
+      "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "Boys Will Be Bugs",
-      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "Boys Will Be Bugs",
+      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 206974,
       "name": "Corduroy Dreams",
       "url": "https://open.spotify.com/track/2ravLKGYnJWa7szKSBRTRJ"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
+        "name": "don\u2019t miss me",
+        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 123949,
+      "name": "don't miss me",
+      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
         "name": "Chinese New Year",
         "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "don\u2019t miss me",
-        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 123949,
-      "name": "don't miss me",
-      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 171280,
-      "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sexy Villain",
-      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
       "artists": [
         {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
+      "duration_ms": 188500,
+      "name": "Sexy Villain",
+      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2022-09-02 09:10:00",

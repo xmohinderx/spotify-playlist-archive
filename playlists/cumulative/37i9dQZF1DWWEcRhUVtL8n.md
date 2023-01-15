@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,446 songs - 3 day 4 hr 6 min
+1,447 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,7 @@
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
-| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 |  |
+| [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 | 2023-01-15 |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-12-22 |
@@ -795,6 +795,7 @@
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-09-16 | 2022-10-08 |
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-05-03 | 2021-10-09 |
 | [Lost in Translation](https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:10 | 2020-10-13\* | 2022-04-16 |
+| [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-13 |  |
 | [Love In Reverse \(with Empress Of\)](https://open.spotify.com/track/0QTTMcQe6gw0rE6r23uswv) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Love In Reverse \(with Empress Of\)](https://open.spotify.com/album/6jo3oLswJYFRmDhYZ4dr9H) | 3:29 | 2021-05-05 | 2021-05-27 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2020-10-13\* | 2021-02-26 |
 | [Love Me Anyway](https://open.spotify.com/track/1Pb6zFpihIS6OoRwjjAIeC) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Love Me Anyway](https://open.spotify.com/album/7gHceeTN9pQI54yw3C2Wet) | 3:53 | 2021-01-15 | 2021-10-16 |

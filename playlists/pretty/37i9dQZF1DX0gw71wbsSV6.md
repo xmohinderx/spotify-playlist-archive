@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,260 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,261 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
 | 2 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 |
 | 3 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
-| 4 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
+| 4 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 5 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
-| 6 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 6 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
 | 7 | [雨](https://open.spotify.com/track/6WkMbJVTMyMWSQpCetvkyX) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [雨](https://open.spotify.com/album/47EQMgwBhI5ARxtBNB7Ruj) | 5:09 |
 | 8 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 |
 | 9 | [Paris in the Rain](https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:24 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 33 | [サーカスナイト](https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [リトルメロディ](https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf) | 6:19 |
 | 34 | [Wearing Blue](https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Wearing Blue](https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T) | 4:07 |
 | 35 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 |
-| 36 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
-| 37 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
-| 38 | [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 |
-| 39 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
+| 36 | [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 |
+| 37 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
+| 38 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
+| 39 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
 | 40 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
 | 41 | [Muse](https://open.spotify.com/track/0XPi8CPAu3uznDyctGO4b3) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Muse](https://open.spotify.com/album/2fLg3v8eUI31hNR4BvCjIt) | 4:29 |
 | 42 | [ほととぎす \[杜鵑草\]](https://open.spotify.com/track/6o61wyTYwUKbXcyvWUj9cf) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [がらくた](https://open.spotify.com/album/05ADxsDCWkH1oVNO5WUPo5) | 5:46 |
 | 43 | [June](https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [June](https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S) | 3:38 |
 | 44 | [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 |
-| 45 | [10,000ft.](https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:41 |
-| 46 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
-| 47 | [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 |
-| 48 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
+| 45 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
+| 46 | [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 |
+| 47 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
+| 48 | [10,000ft.](https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:41 |
 | 49 | [Found Me](https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Found Me](https://open.spotify.com/album/01zeKCZ5z10YZVvoBnMTta) | 3:03 |
 | 50 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDdjOGIzMGNlYjczNDZkNmI2ZWJhMjFkM2QzNWY2ODFk`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGI0NWQ3YjA3OGUyYjczOTFhNzBmZTcyMTliYTgwYjA4`

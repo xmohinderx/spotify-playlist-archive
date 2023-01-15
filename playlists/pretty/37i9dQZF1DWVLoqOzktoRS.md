@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,286 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,285 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 15 | [Vals Poético \(feat\. Los Macorinos\) \- Instrumental](https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:17 |
 | 16 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
 | 17 | [Lucía](https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 1:56 |
-| 18 | [El Bueno Y El Malo](https://open.spotify.com/track/07S694jiKDLkJLyBa7pdMn) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:25 |
-| 19 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 |
+| 18 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 |
+| 19 | [El Bueno Y El Malo](https://open.spotify.com/track/07S694jiKDLkJLyBa7pdMn) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:25 |
 | 20 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 |
 | 21 | [Suite Española No\. 1, Op\. 47: No\. 5, Asturias \(Leyenda\) \[Arranged by John Williams for Guitar\]](https://open.spotify.com/track/2u6GTNZF07O4mmFg8CZozY) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [John Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Albeniz: Granada; Asturias; Mallorca; Cordoba; Torre Bermeja; Cadiz; Zambra; Tango \- Sony Classical Masters](https://open.spotify.com/album/5lY62FNmxjms4v3OMTGFWl) | 6:12 |
 | 22 | [Summer Nursery Rhyme, No\. 2](https://open.spotify.com/track/6XHSHfCA5ddufMu34bDG4n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Cascade Street](https://open.spotify.com/album/7ELV10HZC94beTCa9B7n6y) | 2:13 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 40 | [Metamorphosis 1](https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Glass Piano](https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj) | 6:27 |
 | 41 | [Les Deux Guitares](https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa) | [The Stephane Wrembel Trio With David Grisman](https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz) | [Gypsy Rumble](https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt) | 3:24 |
 | 42 | [The Book of Kells](https://open.spotify.com/track/1DKdzvYRQiD6ppmFbEOWBI) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R) | [Brendan Et Le Secret De Kells](https://open.spotify.com/album/1SbPjFuWuxQaDb9oV5ijVF) | 4:55 |
-| 43 | [El Noi De La Mare \- The Son Of Mary](https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl) | [Muriel Anderson](https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC) | [Harp Guitar Christmas](https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0) | 3:12 |
+| 43 | [On the Wire](https://open.spotify.com/track/7yfyPp0Fv5quOrbg4CqLRb) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [The Lighthouse \- Everything's Calm](https://open.spotify.com/album/6mkLpQbCgXvhpcXZGE5DJn) | 7:28 |
 | 44 | [Riding Horses](https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:24 |
-| 45 | [On the Wire](https://open.spotify.com/track/7yfyPp0Fv5quOrbg4CqLRb) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [The Lighthouse \- Everything's Calm](https://open.spotify.com/album/6mkLpQbCgXvhpcXZGE5DJn) | 7:28 |
+| 45 | [El Noi De La Mare \- The Son Of Mary](https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl) | [Muriel Anderson](https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC) | [Harp Guitar Christmas](https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0) | 3:12 |
 | 46 | [Madreselva](https://open.spotify.com/track/4cRyHa7xgnS8SDHFCG2Rxs) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1) | [Il Postino \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VpX1xTvwjvN7jpApnSALH) | 2:20 |
 | 47 | [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 |
 | 48 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 59 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
 | 60 | [Los abrazos rotos \(From "Los abrazos rotos"\)](https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Pedro Almodóvar & Alberto Iglesias Film Music Collection](https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ) | 3:00 |
 
-Snapshot ID: `MTY3MzY0NTM2MywwMDAwMDAwMDdjNWZmMTZhNGQxZmNmNDc0ZGJkMzgwNzA4ODNjNmI0`
+Snapshot ID: `MTY3MzY0NTM2MywwMDAwMDAwMDE2NWFlYmU0MjFhZTRkNTMwYjRiM2ZmNjM4MWVmZmI0`

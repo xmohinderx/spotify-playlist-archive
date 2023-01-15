@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 9179,
+  "num_followers": 9183,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5ODE5OCwwMDAwMDAwMDYyMTI1MDk0ZjkxNTliYTNjN2UyMDE2ZDNiNTE2N2Vk",
+  "snapshot_id": "MTY3MzU5ODE5OCwwMDAwMDAwMDE1NDg1ZmE0NTc1OTZjYTYzYWQ4NTQ5M2UzOWVhOWQ5",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
-    },
-    {
       "added_at": "2023-01-12 10:15:27",
       "album": {
         "name": "Bayanni",
@@ -107,6 +91,22 @@
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
       "added_at": "2022-08-26 13:01:27",
@@ -169,6 +169,38 @@
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2022-12-18 10:28:26",
+      "album": {
+        "name": "Girls Just Wanna Have Funds",
+        "url": "https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 215357,
+      "name": "Girls Just Wanna Have Funds",
+      "url": "https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF"
+    },
+    {
       "added_at": "2022-02-11 00:00:00",
       "album": {
         "name": "Peru (Remix)",
@@ -191,38 +223,6 @@
       "duration_ms": 186952,
       "name": "Peru - Remix",
       "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
-    },
-    {
-      "added_at": "2022-12-18 10:28:26",
-      "album": {
-        "name": "Girls Just Wanna Have Funds",
-        "url": "https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 215357,
-      "name": "Girls Just Wanna Have Funds",
-      "url": "https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2022-09-19 07:27:22",
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
-      "added_at": "2023-01-14 18:31:22",
+      "added_at": "2023-01-15 01:06:51",
       "album": {
         "name": "Koma",
         "url": "https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo"
@@ -493,34 +493,6 @@
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
-      "added_at": "2022-09-09 09:20:13",
-      "album": {
-        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
-        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
-      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
-    },
-    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
@@ -547,6 +519,34 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "added_at": "2022-09-09 09:20:13",
+      "album": {
+        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
+        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 205530,
+      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
+      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
       "added_at": "2022-06-03 03:54:26",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
+      "added_at": "2022-04-18 06:23:32",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
       "added_at": "2022-11-25 07:49:53",
       "album": {
         "name": "Bad Boy (feat. Mayorkun)",
@@ -599,22 +615,6 @@
       "duration_ms": 169043,
       "name": "Bad Boy (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
-    },
-    {
-      "added_at": "2022-04-18 06:23:32",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-11-25 07:49:53",
@@ -733,6 +733,42 @@
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
     },
     {
+      "added_at": "2022-11-18 11:45:01",
+      "album": {
+        "name": "KOTTO",
+        "url": "https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV"
+      },
+      "artists": [
+        {
+          "name": "Sifoor",
+          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
+        },
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        }
+      ],
+      "duration_ms": 230187,
+      "name": "KOTTO",
+      "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
+    },
+    {
+      "added_at": "2022-02-17 23:00:00",
+      "album": {
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 190791,
+      "name": "Sungba",
+      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
+    },
+    {
       "added_at": "2022-10-30 10:53:51",
       "album": {
         "name": "Knocking (Remix)",
@@ -755,42 +791,6 @@
       "duration_ms": 194621,
       "name": "Knocking (Remix)",
       "url": "https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 190791,
-      "name": "Sungba",
-      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
-    },
-    {
-      "added_at": "2022-11-18 11:45:01",
-      "album": {
-        "name": "KOTTO",
-        "url": "https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV"
-      },
-      "artists": [
-        {
-          "name": "Sifoor",
-          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
-        },
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "KOTTO",
-      "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -929,6 +929,26 @@
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
+      "added_at": "2022-12-02 04:56:00",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 130477,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+    },
+    {
       "added_at": "2022-08-12 05:43:18",
       "album": {
         "name": "Hypertension / Things I Need",
@@ -1005,22 +1025,6 @@
       "url": "https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv"
     },
     {
-      "added_at": "2022-07-22 04:29:24",
-      "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
-    },
-    {
       "added_at": "2021-11-25 23:01:00",
       "album": {
         "name": "Greatness 2.0",
@@ -1043,6 +1047,22 @@
       "duration_ms": 159130,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
+    },
+    {
+      "added_at": "2022-07-22 04:29:24",
+      "album": {
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
       "added_at": "2021-06-07 12:50:41",
@@ -1113,24 +1133,20 @@
       "url": "https://open.spotify.com/track/70u9ZcQTuh6Px72BpoQWIj"
     },
     {
-      "added_at": "2022-12-02 04:56:00",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl"
       },
       "artists": [
         {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 130477,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+      "duration_ms": 145449,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht"
     },
     {
       "added_at": "2021-10-08 04:33:18",
@@ -1147,22 +1163,6 @@
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
-    },
-    {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/0yrnHtfgm66Ky53Nzdivnl"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 145449,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/3s1vxTu48FlpPpwztVB4ht"
     }
   ],
   "unique_name": "Keep Fit Club ",

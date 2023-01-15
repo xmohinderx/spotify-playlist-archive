@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-178 songs - 11 hr 37 min
+179 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-29 |  |
 | [Rest In You](https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Beautiful Name](https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI) | 3:48 | 2022-05-27 | 2022-10-30 |
 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 | 2022-10-29 |  |
-| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-05-27 |  |
+| [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 | 2022-05-27 | 2023-01-15 |
 | [Roar](https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0) | [Jonathan Cain](https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i) | [Arise](https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk) | 3:54 | 2022-05-27 | 2022-10-30 |
 | [Run](https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Run](https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ) | 2:59 | 2022-10-29 |  |
 | [S.O.S.](https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [S.O.S.](https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp) | 3:25 | 2022-10-29 |  |
@@ -176,6 +176,7 @@
 | [We Come Alive](https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Come Alive](https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD) | 3:58 | 2022-10-29 |  |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-27 |  |
 | [When The World Is Changing](https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Here's To The One We Love \(Live\)](https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2) | 4:13 | 2022-05-27 |  |
+| [Wherever You Are](https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Wherever You Are](https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn) | 3:35 | 2022-10-29 |  |
 | [Who You Want Me To Be](https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Who You Want Me To Be](https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03) | 3:16 | 2022-05-27 | 2022-10-30 |
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-05-27 | 2022-10-30 |
 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 | 2022-10-29 |  |

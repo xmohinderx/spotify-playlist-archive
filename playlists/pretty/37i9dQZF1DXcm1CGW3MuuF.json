@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMDYyMDJmOTg2Yzk2NTJjODI1YTE0Yzk0OTc0MjEyZTg1",
+  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMDBmNmE0NzQyNjRhMWM5NjhhMWVmMzY0M2E5YmU0ODA0",
   "tracks": [
     {
       "added_at": "2021-11-26 19:28:42",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
+        "name": "Hazme una se\u00f1al",
+        "url": "https://open.spotify.com/album/2MTdoM1R7w8LTRBp8kwSYK"
+      },
+      "artists": [
+        {
+          "name": "Rey Casino",
+          "url": "https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Hazme una se\u00f1al",
+      "url": "https://open.spotify.com/track/7N283ILanstxJdMC6f198w"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
         "name": "Ordinarios",
         "url": "https://open.spotify.com/album/16q6x0yDGMgYxn8J45ZVGi"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 103389,
       "name": "Rock!",
       "url": "https://open.spotify.com/track/5hYf1O7H6eRyM3uNnWpJj0"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
-        "name": "Hazme una se\u00f1al",
-        "url": "https://open.spotify.com/album/2MTdoM1R7w8LTRBp8kwSYK"
-      },
-      "artists": [
-        {
-          "name": "Rey Casino",
-          "url": "https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Hazme una se\u00f1al",
-      "url": "https://open.spotify.com/track/7N283ILanstxJdMC6f198w"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
-      },
-      "artists": [
-        {
-          "name": "MIXO",
-          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
-        }
-      ],
-      "duration_ms": 204376,
-      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
         "name": "Llego Tarde",
         "url": "https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
+        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
+      },
+      "artists": [
+        {
+          "name": "MIXO",
+          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
         "name": "Toronjil (Aqu\u00ed Todo Cambia)",
         "url": "https://open.spotify.com/album/2cgGlLv6tZ5Ap2mq0FSzqW"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 193826,
       "name": "Toronjil (Aqu\u00ed Todo Cambia)",
       "url": "https://open.spotify.com/track/6qJ8fH37CLv1cvs7QAa3lj"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
+        "name": "Solo Siluetas",
+        "url": "https://open.spotify.com/album/07dcVe2toJYAvV4c35FwDT"
+      },
+      "artists": [
+        {
+          "name": "Rey Casino",
+          "url": "https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn"
+        }
+      ],
+      "duration_ms": 274805,
+      "name": "Solo Siluetas",
+      "url": "https://open.spotify.com/track/6Kq41osBL2QLtTtaxU20iZ"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -507,22 +523,6 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Solo Siluetas",
-        "url": "https://open.spotify.com/album/07dcVe2toJYAvV4c35FwDT"
-      },
-      "artists": [
-        {
-          "name": "Rey Casino",
-          "url": "https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn"
-        }
-      ],
-      "duration_ms": 274805,
-      "name": "Solo Siluetas",
-      "url": "https://open.spotify.com/track/6Kq41osBL2QLtTtaxU20iZ"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
         "name": "Blusibox",
         "url": "https://open.spotify.com/album/5IbYlT1SFQzmnzP50bZ7C7"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 156000,
       "name": "Blusibox",
       "url": "https://open.spotify.com/track/7EUAipiZh9rOdGWVp73pIF"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
+        "name": "Sam y Marx",
+        "url": "https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv"
+      },
+      "artists": [
+        {
+          "name": "Sam y Marx",
+          "url": "https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD"
+        }
+      ],
+      "duration_ms": 194624,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -567,22 +583,6 @@
       "duration_ms": 203000,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/1usjw4P22wUgTJGDE3ULBu"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
-        "name": "Sam y Marx",
-        "url": "https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv"
-      },
-      "artists": [
-        {
-          "name": "Sam y Marx",
-          "url": "https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD"
-        }
-      ],
-      "duration_ms": 194624,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC"
     },
     {
       "added_at": "2021-11-26 19:28:42",

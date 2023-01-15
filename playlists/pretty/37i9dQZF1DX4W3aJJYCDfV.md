@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Mimi Webb, Fredo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,643 likes - 132 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,675 likes - 132 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

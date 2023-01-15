@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8?si=3BnfGCPOSbeoZER3lMujggg">Yorxe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,340 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,341 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > if you be the cash i'll be the rubber band
 
-924 songs - 2 day 0 hr 48 min
+925 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 | 2022-05-19 | 2022-07-29 |
 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/0Ev6SgNOVMkSko7E9VmNON) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trending Hits 2022](https://open.spotify.com/album/0bFfpQ9KM0ysMYk8UPRSQa) | 4:00 | 2022-11-10 | 2022-11-13 |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2022-06-16 | 2022-06-18 |
-| [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-16 |  |
+| [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-16 | 2023-01-15 |
+| [Barbiegurl](https://open.spotify.com/track/6yrDZxEp159f0UR12kVrcV) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:33 | 2022-12-24 |  |
 | [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-19 |  |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-05-19 |  |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-05-19 |  |

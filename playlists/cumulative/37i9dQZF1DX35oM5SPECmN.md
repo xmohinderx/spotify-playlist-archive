@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-169 songs - 10 hr 3 min
+170 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-09-19 |  |
 | [Headstart](https://open.spotify.com/track/5bx0yP93Yz3Qe6PLWnKlt7) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/33h7fEWP9jsMrn9OR5yZrJ) | 2:22 | 2021-10-01 | 2022-07-29 |
 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2022-09-19 |  |
-| [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2021-10-01 | 2023-01-12 |
+| [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2021-10-01 |  |
 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 | 2021-10-01 |  |
 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 | 2021-10-01 |  |
 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 | 2021-10-01 |  |
@@ -121,6 +121,7 @@
 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 | 2021-10-01 |  |
 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght \(Deluxe Version\)](https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO) | 3:20 | 2021-10-01 |  |
 | [Philosophize In It! Chemicalize With It!](https://open.spotify.com/track/7gNxo9WO00wWYZkjsVES2O) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght](https://open.spotify.com/album/4iCSQcKREeq5npBlA7Ov6p) | 3:20 | 2021-10-01 | 2022-04-21 |
+| [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 | 2023-01-13 |  |
 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 | 2021-10-01 |  |
 | [Red Bull & Hennessy](https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:48 | 2021-10-01 | 2022-09-20 |
 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 | 2021-10-01 |  |
@@ -168,8 +169,8 @@
 | [Warrior Daughter](https://open.spotify.com/track/7avkXs2JVAPI4QXFsLgQsA) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Warrior Daughter](https://open.spotify.com/album/3lqWua4xZoRfT7y4iDcVkN) | 2:56 | 2021-10-01 | 2022-04-21 |
 | [White Flag](https://open.spotify.com/track/2BghrnPPfVTLYu6BrBTKQM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/6hH6bJSrrYLhkxNMyjMMQg) | 3:19 | 2021-10-01 | 2022-07-29 |
 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 | 2021-10-01 |  |
-| [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 | 2022-09-19 |  |
-| [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 | 2021-10-01 |  |
+| [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 | 2022-09-19 | 2023-01-15 |
+| [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 | 2021-10-01 | 2023-01-15 |
 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/4z1vkuuzWQhgELq8K2dac8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Who Do You Think You're Talking To?](https://open.spotify.com/album/6BnRn786U8IkixwdKEycoF) | 3:19 | 2021-10-01 | 2022-07-29 |
 | [Wolf](https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/6UndV62df5KRebmj3zyn53) | 3:40 | 2021-10-01 |  |
 | [Wolf](https://open.spotify.com/track/0I8neJTT3b16EzqvtXxt8K) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/4WGwICew7TZW1k2oTYkGrj) | 3:40 | 2021-10-01 | 2022-04-21 |

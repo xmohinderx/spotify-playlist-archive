@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 28502,
+  "num_followers": 28505,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDExMmFjYzcxY2ViZjk5YTkzMDAyNzU3MmQ3ZjRlYWE0",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDI5NWNlMjVhMDFlNmY3ODdjM2RjZmYxNGY5OWYxMjYz",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -99,30 +99,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestra del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 460426,
-      "name": "La Cenerentola: Overture (Sinfonia)",
-      "url": "https://open.spotify.com/track/0djTlU6JmOdV0BgKyfD3ac"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Piano Music, Vol. 10",
         "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 128933,
       "name": "Canzonetta spagnuola",
       "url": "https://open.spotify.com/track/4XSwn2DpUy5ZbzcCmrBSqN"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 460426,
+      "name": "La Cenerentola: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/0djTlU6JmOdV0BgKyfD3ac"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -195,6 +195,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
       },
@@ -223,34 +251,6 @@
       "duration_ms": 98906,
       "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
       "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 91506,
-      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
-      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -547,34 +547,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Javier Camarena",
-          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
-        },
-        {
-          "name": "Les Musiciens du Prince-Monaco",
-          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
-        },
-        {
-          "name": "Gianluca Capuano",
-          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
-        }
-      ],
-      "duration_ms": 356106,
-      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
         "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
       },
@@ -603,6 +575,34 @@
       "duration_ms": 185560,
       "name": "Duetto buffo di due gatti",
       "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Javier Camarena",
+          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
+        },
+        {
+          "name": "Les Musiciens du Prince-Monaco",
+          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
+        },
+        {
+          "name": "Gianluca Capuano",
+          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
+        }
+      ],
+      "duration_ms": 356106,
+      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -931,6 +931,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
+      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
       },
@@ -1015,6 +1039,54 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 358600,
+      "name": "Stabat Mater: Amen. In sempiterna saecula",
+      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Piano Music, Vol. 3",
         "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
       },
@@ -1079,78 +1151,6 @@
       "duration_ms": 215000,
       "name": "La regata veneziana: 1. Anzoleta avanti la regata",
       "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 358600,
-      "name": "Stabat Mater: Amen. In sempiterna saecula",
-      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 10",
-        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Giuseppina Bridelli",
-          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
-      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1267,34 +1267,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Mady Mespl\u00e9/Jocelyne Taillon/Gabriel Bacquier/Nicolai Gedda/Ambrosian Opera Chorus/Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2oWtyQmV2AlLKqbncuTPaL"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
-      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1351,6 +1323,34 @@
       "duration_ms": 458173,
       "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
       "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mady Mespl\u00e9/Jocelyne Taillon/Gabriel Bacquier/Nicolai Gedda/Ambrosian Opera Chorus/Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2oWtyQmV2AlLKqbncuTPaL"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
+      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
     },
     {
       "added_at": "2022-06-28 08:38:32",

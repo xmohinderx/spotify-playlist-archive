@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 133190,
+  "num_followers": 133203,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDFjOTJiMTIzM2RjODhiY2EzZjRjZTI4ODFlYWEwNTRi",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGRkYjc4ZjI5NmYwOTg1NzZlNDBlNTBkOGM5YjQxOTdk",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -115,22 +115,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -211,18 +207,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "TYRON",
         "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
       },
@@ -779,18 +747,50 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Unlimited",
-        "url": "https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
       "artists": [
         {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 178167,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h"
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Often",
+        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 135450,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Unlimited",
+        "url": "https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Often",
-        "url": "https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 135450,
-      "name": "Often",
-      "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "3:45/buslane",
-        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "3:45/buslane",
-      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Send Them To Coventry",
         "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
       },
@@ -987,6 +971,38 @@
       "duration_ms": 188826,
       "name": "Energy (feat. Mahalia)",
       "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "3:45/buslane",
+        "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 128530,
+      "name": "3:45/buslane",
+      "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1031,22 +1047,6 @@
       "duration_ms": 267173,
       "name": "Zipcodes",
       "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2022-10-23 19:19:20",

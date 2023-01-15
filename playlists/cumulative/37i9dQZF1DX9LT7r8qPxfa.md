@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-193 songs - 12 hr 18 min
+194 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cathedral](https://open.spotify.com/track/0wDd6J3mQ3vApoSKM1Iu2m) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 2:50 | 2021-11-12 | 2022-09-15 |
 | [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 | 2021-11-12 |  |
 | [Coast](https://open.spotify.com/track/6AtvqLh6eSczO0QGi6BFIm) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Coast](https://open.spotify.com/album/2AlIFCfesogvLsAr80Pa6b) | 3:16 | 2021-11-12 | 2022-07-29 |
+| [Cold Caller](https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD) | 3:57 | 2022-09-16 |  |
 | [Cold Caller](https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU) | 3:57 | 2021-11-12 | 2022-11-26 |
 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2021-11-12 |  |
 | [Coyote](https://open.spotify.com/track/7ArPT2eBw3IVvnYFoChx7s) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Coyote](https://open.spotify.com/album/3BY84BioTQ3iP4FGVYJ31w) | 4:05 | 2021-11-12 | 2022-07-29 |
@@ -118,7 +119,7 @@
 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 | 2021-11-12 |  |
 | [Notion](https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion](https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg) | 5:41 | 2021-11-12 | 2022-07-12 |
 | [Oliver](https://open.spotify.com/track/0hLobhgfROgP7n3MkBS9rc) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/5QqaHzWUNFyUGQ4vhYosqx) | 5:15 | 2021-11-12 | 2022-07-29 |
-| [Oliver](https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0) | 5:15 | 2021-11-12 |  |
+| [Oliver](https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0) | 5:15 | 2021-11-12 | 2023-01-15 |
 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 | 2021-11-12 |  |
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2021-11-12 |  |
 | [Party Anthem](https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Jesus and Your Living Room Floor](https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9) | 3:21 | 2021-11-12 | 2022-07-29 |

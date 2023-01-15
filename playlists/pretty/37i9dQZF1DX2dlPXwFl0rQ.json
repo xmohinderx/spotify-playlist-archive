@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Marisol Terrazas en portada.",
-  "num_followers": 79355,
+  "num_followers": 79369,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDgyZDZmYTgzNzJkZWZhYTgzOTdiZmEyOGVkMDMyY2Vh",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDBlNWE4YjdkMDU5M2IxMDA0MTViYzFhZjg2NTg3NTNj",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Ah\u00ed Donde Me Ven",
+        "url": "https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Ajustando Cuentas",
         "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 222720,
       "name": "Ajustando Cuentas",
       "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Ah\u00ed Donde Me Ven",
-        "url": "https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 287277,
       "name": "Te Quiero para Mi\u0301",
       "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Una Tarde De Abril",
-        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Una Tarde De Abril",
-      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 195230,
       "name": "La Que Sigue de Mi",
       "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "La Mesa Del Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
-      },
-      "artists": [
-        {
-          "name": "Dueto Eleval",
-          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
-        }
-      ],
-      "duration_ms": 191862,
-      "name": "La Mesa Del Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "No Te Dejes Enga\u00f1ar",
         "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "La Mesa Del Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
+      },
+      "artists": [
+        {
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
+        }
+      ],
+      "duration_ms": 191862,
+      "name": "La Mesa Del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "De Ti No Lo Esperaba",
         "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Pa' Dentro",
         "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 152160,
       "name": "Pa' Dentro - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Porque Me Sabes Querer",
-        "url": "https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem"
+        "name": "Maldito",
+        "url": "https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Porque Me Sabes Querer",
-      "url": "https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk"
+      "duration_ms": 220933,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Maldito",
-        "url": "https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij"
+        "name": "Porque Me Sabes Querer",
+        "url": "https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG"
+      "duration_ms": 193813,
+      "name": "Porque Me Sabes Querer",
+      "url": "https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk"
     },
     {
       "added_at": "2022-09-23 05:00:00",

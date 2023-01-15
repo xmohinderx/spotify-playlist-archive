@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280431,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
+    },
+    {
+      "album": {
         "name": "Razamanaz",
         "url": "https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 237333,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 354933,
       "name": "Davy's On The Road Again",
       "url": "https://open.spotify.com/track/0AYhsErBaLgKL2qYNhHTZj"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 205440,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
@@ -2314,6 +2332,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -2598,6 +2634,24 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "album": {

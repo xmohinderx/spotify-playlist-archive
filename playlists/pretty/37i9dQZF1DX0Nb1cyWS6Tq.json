@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 523964,
+  "num_followers": 524225,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MjQ0NSwwMDAwMDAwMDExMGU0ZGU0YTQzNTU5ODg2NjM0NTVmZWM1YWIxOTE2",
+  "snapshot_id": "MTY3MzQ1MjQ0NSwwMDAwMDAwMDMwYzQ3MWE2NTJiZDdiMGY3ZTE0ZDlkMzczNDcxZTM0",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448466,
-      "name": "Pictures of You - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 448466,
+      "name": "Pictures of You - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 354933,
-      "name": "A Forest - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
+      "duration_ms": 185946,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Arabian Knights",
-      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 327133,
       "name": "Cuts You Up",
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 354933,
+      "name": "A Forest - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Milk & Kisses",
+        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 398933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+      "duration_ms": 237600,
+      "name": "Serpentskirt",
+      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -491,18 +491,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Milk & Kisses",
-        "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Serpentskirt",
-      "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
+      "added_at": "2023-01-06 06:22:16",
       "album": {
-        "name": "Scott 3",
-        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
       },
       "artists": [
         {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         }
       ],
-      "duration_ms": 86333,
-      "name": "30 Century Man",
-      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
+      "duration_ms": 190525,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Scott 3",
+        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
         }
       ],
-      "duration_ms": 293693,
-      "name": "Dead Souls",
-      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
+      "duration_ms": 86333,
+      "name": "30 Century Man",
+      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
     },
     {
-      "added_at": "2023-01-06 06:22:16",
+      "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "Twin Tribes",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 190525,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
+      "duration_ms": 293693,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
-      },
-      "artists": [
-        {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "A Strange Kind of Love - Version One",
-      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Mask",
         "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 220160,
       "name": "Kick in the Eye",
       "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "A Strange Kind of Love - Version One",
+      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 291600,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "The Best Of Gene Loves Jezebel - Voodoo Dollies",
+        "url": "https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4"
+      },
+      "artists": [
+        {
+          "name": "Gene Loves Jezebel",
+          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "Break the Chain",
+      "url": "https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Tocsin",
         "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Best Of Gene Loves Jezebel - Voodoo Dollies",
-        "url": "https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4"
+        "name": "Elizium",
+        "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
       },
       "artists": [
         {
-          "name": "Gene Loves Jezebel",
-          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Break the Chain",
-      "url": "https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq"
+      "duration_ms": 181466,
+      "name": "For Her Light",
+      "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1271,22 +1287,6 @@
       "duration_ms": 205693,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Elizium",
-        "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
-      },
-      "artists": [
-        {
-          "name": "Fields Of The Nephilim",
-          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "For Her Light",
-      "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
     }
   ],
   "unique_name": "Dark & Gothic",

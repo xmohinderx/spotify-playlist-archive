@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 175305,
       "name": "Can't Come To The Phone",
       "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
@@ -2417,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "Million Dollar Baby (Nathan Dawe Remix)",
+        "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185864,
+      "name": "Million Dollar Baby - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
+    },
+    {
+      "album": {
         "name": "Mine O' Mine",
         "url": "https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB"
       },
@@ -3082,7 +3104,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 174858,
       "name": "Rockstar Baby (feat. Mougleta)",
       "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
@@ -4022,6 +4044,28 @@
       "duration_ms": 191719,
       "name": "Whitney",
       "url": "https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "album": {

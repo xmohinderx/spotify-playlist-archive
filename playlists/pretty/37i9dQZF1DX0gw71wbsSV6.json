@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42260,
+  "num_followers": 42261,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMDdjOGIzMGNlYjczNDZkNmI2ZWJhMjFkM2QzNWY2ODFk",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGI0NWQ3YjA3OGUyYjczOTFhNzBmZTcyMTliYTgwYjA4",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -67,22 +67,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -103,18 +99,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "duration_ms": 109997,
+      "name": "luv revolution",
+      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui"
       },
@@ -623,38 +639,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Rocket Science",
-        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
-      },
-      "artists": [
-        {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "I can't seem to let you go",
-      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
-      },
-      "artists": [
-        {
-          "name": "South Penguin",
-          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
-        }
-      ],
-      "duration_ms": 109997,
-      "name": "luv revolution",
-      "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "The Youth Night",
         "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Rocket Science",
+        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
+      },
+      "artists": [
+        {
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "I can't seem to let you go",
+      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -755,18 +755,34 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "CHILI T",
-        "url": "https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO"
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
       "artists": [
         {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 221210,
-      "name": "10,000ft.",
-      "url": "https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI"
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Ain't Nobody Know",
+      "url": "https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -791,34 +807,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
+        "name": "CHILI T",
+        "url": "https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Ain't Nobody Know",
-      "url": "https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+      "duration_ms": 221210,
+      "name": "10,000ft.",
+      "url": "https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI"
     },
     {
       "added_at": "2023-01-12 15:00:00",

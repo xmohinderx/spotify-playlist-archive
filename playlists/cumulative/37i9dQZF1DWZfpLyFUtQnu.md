@@ -4,7 +4,7 @@
 
 > Les plus belles ballades de la chanson française.
 
-76 songs - 4 hr 42 min
+77 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 | 2022-12-06 |  |
 | [beau\-papa \(acoustique\)](https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [beau\-papa \(acoustique\)](https://open.spotify.com/album/15csZHfKvpIwsR4UDH24Ox) | 3:21 | 2022-12-06 |  |
 | [Belle\-Île\-en\-Mer, Marie\-Galante](https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 3:31 | 2022-12-06 |  |
+| [Bruxelles \- Version acoustique](https://open.spotify.com/track/7qfS3qSvzl7A2lBjlr6W4z) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Bruxelles \(Version acoustique\)](https://open.spotify.com/album/2UA3lHDTFLYMAXH7nj2gp5) | 2:58 | 2022-12-06 |  |
 | [C'est beau, c'est toi \- Version acoustique](https://open.spotify.com/track/6DnzFwo1oKH73dsxjqlHkc) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [C'est beau, c'est toi \(Version acoustique\)](https://open.spotify.com/album/1iTAmDqMfc49XLDjxUSeqh) | 3:14 | 2022-12-06 |  |
 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 | 2022-12-06 |  |
-| [Comme un voleur \- Version acoustique](https://open.spotify.com/track/3LBcAAL0CGLptJsy0QYulx) | [Madame Monsieur](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Comme un voleur \(Version acoustique\)](https://open.spotify.com/album/1Gzg4LfSPm8ljaUjmBsHTD) | 3:46 | 2022-12-06 |  |
+| [Comme un voleur \- Version acoustique](https://open.spotify.com/track/3LBcAAL0CGLptJsy0QYulx) | [Madame Monsieur](https://open.spotify.com/artist/1tQn5gWbo3ee6n2Z52ogY5), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Comme un voleur \(Version acoustique\)](https://open.spotify.com/album/1Gzg4LfSPm8ljaUjmBsHTD) | 3:46 | 2022-12-06 | 2023-01-15 |
 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 | 2022-12-06 |  |
 | [Demain c'est toi](https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:38 | 2022-12-06 |  |
 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 | 2022-12-06 |  |

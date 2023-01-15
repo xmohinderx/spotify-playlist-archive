@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 332969,
+  "num_followers": 333027,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDdiNzAzYTZiYjk5M2YzNDBmMDIxYTQ0MjkwZDhkZjgz",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDM2OTQzMGI5MWFkZTY5MmU2NjdlN2EwODFjNjRiYmRk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+      "duration_ms": 143693,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 143693,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
       },
@@ -439,6 +423,38 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
         "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 194400,
       "name": "Harper Valley P.T.A.",
       "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "The New Favorites Of George Jones",
-        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "She Thinks I Still Care",
-      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "The New Favorites Of George Jones",
+        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+      "duration_ms": 154800,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
       "artists": [
         {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -627,6 +627,38 @@
       "duration_ms": 102400,
       "name": "Dang Me",
       "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+      },
+      "artists": [
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Fist City",
+        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "Fist City",
+      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -651,34 +683,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Fist City",
-        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 133933,
-      "name": "Fist City",
-      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
-      },
-      "artists": [
-        {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -699,34 +715,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "Walk Through This World With Me",
+        "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "A Tender Look At Love",
-        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Little Green Apples - Single Version",
-      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
+      "duration_ms": 137960,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/5O3EyD5kv3n3lGFIWNBSWO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Walk Through This World With Me",
-        "url": "https://open.spotify.com/album/0fwh1xIpc0EuqWTIZGpci8"
+        "name": "A Tender Look At Love",
+        "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 137960,
-      "name": "Walk Through This World With Me",
-      "url": "https://open.spotify.com/track/5O3EyD5kv3n3lGFIWNBSWO"
+      "duration_ms": 156960,
+      "name": "Little Green Apples - Single Version",
+      "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Phantom 309",
         "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 209160,
       "name": "Phantom 309",
       "url": "https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Walk On By",
-        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+        "name": "Walk On By",
+        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
       },
       "artists": [
         {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+      "duration_ms": 144200,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -871,22 +871,6 @@
       "duration_ms": 137120,
       "name": "Does My Ring Hurt Your Finger",
       "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Blue Kentucky Girl",
-        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Blue Kentucky Girl",
-      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+        "name": "Blue Kentucky Girl",
+        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
+      "duration_ms": 163640,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -939,6 +923,22 @@
       "duration_ms": 172666,
       "name": "Devil Woman",
       "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 154626,
       "name": "I Don't Wanna Play House",
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Homecoming - Single Version",
+      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Folk-Country",
-        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Stop the World (And Let Me Off)",
-      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+        "name": "Folk-Country",
+        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
       },
       "artists": [
         {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+      "duration_ms": 122480,
+      "name": "Stop the World (And Let Me Off)",
+      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 141466,
       "name": "Please Help Me, I'm Falling",
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
+      },
+      "artists": [
+        {
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "A Six Pack To Go",
+      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Love's Gonna Live Here",
-      "url": "https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 168466,
       "name": "The Bottle Let Me Down",
       "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Love's Gonna Live Here",
+      "url": "https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1299,50 +1315,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
       "artists": [
         {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Great Picks & New Traditions",
-        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
-      },
-      "artists": [
-        {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
+      "duration_ms": 177333,
+      "name": "The Image of Me",
+      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1363,6 +1347,38 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Great Picks & New Traditions",
+        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
+      },
+      "artists": [
+        {
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Columbia Country Classics Volume 3: Americana",
         "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
         }
       ],
-      "duration_ms": 177333,
-      "name": "The Image of Me",
-      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
+      "duration_ms": 139093,
+      "name": "Wings Of A Dove",
+      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 157640,
       "name": "The Streets of Baltimore",
       "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
-      },
-      "artists": [
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Wings Of A Dove",
-      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "It Keeps Right On A-Hurtin'",
+        "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Send Me The Pillow You Dream On",
+      "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "May the Bird of Paradise Fly Up Your Nose",
         "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "It Keeps Right On A-Hurtin'",
-        "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
+        "name": "Sings His Best",
+        "url": "https://open.spotify.com/album/5T41fC09ilKmDfREcWeQrW"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
+      "duration_ms": 172760,
+      "name": "Statue Of A Fool",
+      "url": "https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 153266,
       "name": "Misery Loves Company",
       "url": "https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "(Margie's At) The Lincoln Park Inn",
-        "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "(Margie's At) The Lincoln Park Inn",
-      "url": "https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy"
     }
   ],
   "unique_name": "60s Country",

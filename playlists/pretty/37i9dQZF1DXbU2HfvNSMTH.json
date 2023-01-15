@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 172533,
+  "num_followers": 172541,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1MDgzNCwwMDAwMDAwMDVlY2EyZGY1MDY1Mjg2MWMzZjVjNzcxMGFmM2NlMTI3",
+  "snapshot_id": "MTY3MjI1MDgzNCwwMDAwMDAwMDdjOTUzZTYxYmUwZGIyNTNmN2U5NTUyNmY0YmEwNWIx",
   "tracks": [
     {
       "added_at": "2022-04-16 03:27:52",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
         }
       ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -419,6 +403,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -595,22 +611,6 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "So Excited! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "So Excited! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2022-04-16 03:27:52",

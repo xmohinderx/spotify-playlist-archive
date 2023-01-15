@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1990s.
 
-365 songs - 1 day 3 hr 18 min
+366 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All By Myself](https://open.spotify.com/track/20EpQjfV7B4ZQJkIdHO1Tw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/55UPmpHLvZKGgTPUD1woES) | 5:12 | 2021-02-02 | 2022-07-29 |
 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 | 2021-02-02 |  |
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2021-02-02 |  |
-| [All That I Need \- Edit](https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS), [Rude Boy](https://open.spotify.com/artist/7KIa6BEXjk29IxNNeANzXq), [Andy Bradfield](https://open.spotify.com/artist/5RdqlEgTX8i8kUM5x3EDX1) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 3:40 | 2021-02-02 |  |
+| [All That I Need \- Edit](https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS), [Rude Boy](https://open.spotify.com/artist/7KIa6BEXjk29IxNNeANzXq), [Andy Bradfield](https://open.spotify.com/artist/5RdqlEgTX8i8kUM5x3EDX1) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 3:40 | 2021-02-02 | 2023-01-15 |
 | [Almost Unreal](https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 3:54 | 2022-03-21 |  |
 | [Almost Unreal](https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:54 | 2021-02-02 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-03-21 |  |
@@ -140,6 +140,7 @@
 | [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 | 2022-03-21 | 2022-04-20 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2021-02-02 |  |
 | [I Do \(Cherish You\)](https://open.spotify.com/track/5FypLOLmX3qpjiZq8eUTTV) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The Collection](https://open.spotify.com/album/1W2z3DWELAxYAeRN7YvyFb) | 3:45 | 2021-02-02 | 2022-11-13 |
+| [I Don't Wanna To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2022-03-21 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-03-21 | 2023-01-13 |
 | [I Don't Want to Miss a Thing \- From the Touchstone film, "Armageddon"](https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K) | 4:59 | 2021-02-02 | 2022-07-29 |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2021-02-02 |  |

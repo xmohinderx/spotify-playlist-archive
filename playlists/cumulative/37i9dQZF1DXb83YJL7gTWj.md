@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-234 songs - 13 hr 52 min
+235 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-11-05 |  |
 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 | 2021-11-05 | 2022-11-14 |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2022-07-31 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-11-05 |  |
 | [For You](https://open.spotify.com/track/4HVP9LguwC1S5VzkMhzhqW) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:27 | 2021-11-05 | 2022-07-29 |
 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 | 2021-11-05 |  |
@@ -95,7 +96,7 @@
 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 | 2022-10-28 | 2022-11-13 |
 | [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2021-11-05 | 2022-07-29 |
 | [I Do](https://open.spotify.com/track/5mpCx2nbXtAbnzd342Mwrb) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Do](https://open.spotify.com/album/5FGa9dsx41t70tKh0roFsm) | 3:37 | 2021-11-05 | 2022-03-19 |
-| [I Do](https://open.spotify.com/track/59xKeVGl4LObjl5ojSP4u8) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 2:35 | 2022-07-22 |  |
+| [I Do](https://open.spotify.com/track/59xKeVGl4LObjl5ojSP4u8) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 2:35 | 2022-07-22 | 2023-01-15 |
 | [I Do](https://open.spotify.com/track/6yKkgZBuakFy6SPtsZBR5H) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [I Do](https://open.spotify.com/album/113KjDRaG6yFaf21Eg1RSz) | 2:35 | 2021-11-05 | 2022-07-29 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-22 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-11-05 | 2022-07-29 |
@@ -150,7 +151,7 @@
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2021-11-05 |  |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2022-04-19 |  |
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-11-05 | 2022-07-29 |
-| [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 | 2021-11-05 |  |
+| [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 | 2021-11-05 | 2023-01-15 |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2021-11-05 |  |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2022-07-22 |  |
 | [Ordinary People](https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:41 | 2021-11-05 | 2022-04-21 |
@@ -209,7 +210,7 @@
 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 | 2022-12-27 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-10-26 |  |
 | [The Sapling](https://open.spotify.com/track/5LZcOXDFbkSWrhqrfVSXdz) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Sapling](https://open.spotify.com/album/0Ns5ftw7J00BBjMwIODZ8A) | 3:26 | 2021-11-05 | 2022-07-28 |
-| [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2021-11-05 | 2022-12-02 |
+| [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2021-11-05 |  |
 | [The Subway Song](https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Subway Song](https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX) | 4:01 | 2021-11-05 | 2022-03-17 |
 | [The Subway Song](https://open.spotify.com/track/3hzboXFECi8z5437v7wAWr) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/1GVapAXmeqaW9wUkp7rWt6) | 4:01 | 2022-07-22 |  |
 | [The Subway Song](https://open.spotify.com/track/3tGHqDvhpxcFtd3QXLf8nG) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/7qDHwE0oZZwkCUdLfZnCdi) | 4:01 | 2021-11-05 | 2022-07-29 |

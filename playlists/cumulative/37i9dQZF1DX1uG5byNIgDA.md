@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-317 songs - 17 hr 52 min
+318 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Do](https://open.spotify.com/track/0gPPo7G20xgVqgFy8cqUmp) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Do](https://open.spotify.com/album/5PtHgUgCylutOvncJSFePO) | 2:17 | 2022-08-24 | 2022-10-04 |
 | [Dollar Dollar Bill](https://open.spotify.com/track/3NoMYCokmroxy6Vvgg6Bje) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [NO ONE ELSE LIKE ME](https://open.spotify.com/album/10dnagRmizwHIlV0METcCv) | 2:18 | 2022-01-24 | 2022-05-08 |
 | [DOMANGA](https://open.spotify.com/track/1Vnuk7zOfsTfIXiYAzw43x) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [DOMANGA](https://open.spotify.com/album/6wNuhctWwOpqugMit2AFip) | 3:01 | 2022-01-11 | 2022-07-10 |
-| [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-06 |  |
+| [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-06 | 2023-01-15 |
 | [Don't Regret](https://open.spotify.com/track/52ZJqAyxIpF0T2erjO8Ug2) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Bittersweet](https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx) | 3:15 | 2022-10-15 | 2022-10-30 |
 | [Don't Wait](https://open.spotify.com/track/6Qiky2QbBGortgiF9NlR48) | [K\-NIGHTCORE](https://open.spotify.com/artist/6tWGwa0clzVoHorFsuEhY5) | [Don't Wait](https://open.spotify.com/album/1LxG8aBqe5hGVUbrmFClnP) | 2:29 | 2022-08-15 | 2022-08-25 |
 | [Don't Wanna Go Home](https://open.spotify.com/track/6BbTQKegu1SUAc7FxdrNxh) | [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [Don't Wanna Go Home](https://open.spotify.com/album/7kCbsfGsidjkzm44FkpDKj) | 3:32 | 2022-05-30 | 2022-06-08 |
@@ -233,6 +233,7 @@
 | [seoul](https://open.spotify.com/track/3M93OPU2yy22UK54z1u7vE) | [lily by](https://open.spotify.com/artist/1fGqEKeI0hFiz3prcEZJjO) | [seoul](https://open.spotify.com/album/1PDYblHgRp4aK3LsZ0cDIf) | 3:03 | 2022-02-16 | 2022-04-08 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2021-12-06 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-04 | 2023-01-04 |
+| [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 | 2022-10-14 |  |
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-03-23 |  |
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-03-23 | 2022-04-10 |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-01-24 | 2022-07-20 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,484 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,486 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 |
 | 2 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
-| 3 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
-| 4 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
+| 3 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
+| 4 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 5 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
 | 6 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
 | 7 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 34 | [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 |
 | 35 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
 | 36 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 |
-| 37 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 |
-| 38 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 |
+| 37 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 |
+| 38 | [Money No Dey](https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7) | [O'baya](https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Money No Dey](https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh) | 3:15 |
 | 39 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 |
 | 40 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 |
 
-Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDMyNjQzZTIzZjU4MzExMzY4NWRmYzFjMWEzNGUwOTA3`
+Snapshot ID: `MTY1Mjk4OTE4OCwwMDAwMDAwMDhiYzFkZDk4NDdkNjY3NGVmZWM5ZjllMmUxNzc3Njc5`
