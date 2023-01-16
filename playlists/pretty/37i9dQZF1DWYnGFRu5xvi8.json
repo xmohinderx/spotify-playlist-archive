@@ -1,12 +1,12 @@
 {
   "description": "New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series. \u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 64434,
+  "num_followers": 64463,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDMxNTdmZTdkZGExMTU0NTViNWMyYjMyZGVlMDMzZjc1",
+  "snapshot_id": "MTYxNDg2Nzg4MCwwMDAwMDAwMDM2NDUyYzVjYWM1NTlhMjk2NjgwODgyMzFhNDA5MGY5",
   "tracks": [
     {
       "added_at": "2021-03-04 14:24:40",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
+        }
+      ],
+      "duration_ms": 43826,
+      "name": "CRISIS CORE Theme - Succession",
+      "url": "https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
         "name": "THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack",
         "url": "https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9"
       },
@@ -500,22 +516,6 @@
       },
       "artists": [
         {
-          "name": "\u77f3\u5143 \u4e08\u6674",
-          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
-        }
-      ],
-      "duration_ms": 43826,
-      "name": "CRISIS CORE Theme - Succession",
-      "url": "https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
-      },
-      "artists": [
-        {
           "name": "ayaka",
           "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
@@ -523,22 +523,6 @@
       "duration_ms": 135186,
       "name": "Why (CCFFVII Mix)",
       "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
-        "name": "FINAL FANTASY IX Original Soundtrack",
-        "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
-      },
-      "artists": [
-        {
-          "name": "Emiko Shiratori",
-          "url": "https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p"
-        }
-      ],
-      "duration_ms": 456304,
-      "name": "Melodies Of Life ~Final Fantasy",
-      "url": "https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -555,6 +539,22 @@
       "duration_ms": 167333,
       "name": "Moment of Recall",
       "url": "https://open.spotify.com/track/3WpisYlhAtVgorb1ZQnBpm"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY IX Original Soundtrack",
+        "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
+      },
+      "artists": [
+        {
+          "name": "Emiko Shiratori",
+          "url": "https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p"
+        }
+      ],
+      "duration_ms": 456304,
+      "name": "Melodies Of Life ~Final Fantasy",
+      "url": "https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
         }
       ],
-      "duration_ms": 149960,
-      "name": "Somnus",
-      "url": "https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2"
+      "duration_ms": 254600,
+      "name": "APOCALYPSIS NOCTIS",
+      "url": "https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
         }
       ],
-      "duration_ms": 254600,
-      "name": "APOCALYPSIS NOCTIS",
-      "url": "https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru"
+      "duration_ms": 149960,
+      "name": "Somnus",
+      "url": "https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2"
     },
     {
       "added_at": "2021-03-04 14:24:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-03-04 14:24:40",
       "album": {
-        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
-        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
-      },
-      "artists": [
-        {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "The Beginning of the End",
-      "url": "https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW"
-    },
-    {
-      "added_at": "2021-03-04 14:24:40",
-      "album": {
         "name": "FINAL FANTASY XIII Original Soundtrack",
         "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206893,
       "name": "Eternal Love - Short Version",
       "url": "https://open.spotify.com/track/0vzb0fNHzEHHVre7GPIdjd"
+    },
+    {
+      "added_at": "2021-03-04 14:24:40",
+      "album": {
+        "name": "FINAL FANTASY Type-0 HD Original Soundtrack",
+        "url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa"
+      },
+      "artists": [
+        {
+          "name": "Takeharu Ishimoto",
+          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "The Beginning of the End",
+      "url": "https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW"
     },
     {
       "added_at": "2021-03-04 14:24:40",

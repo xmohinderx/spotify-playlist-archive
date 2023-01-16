@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,777 likes - 135 songs - 7 hr 38 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,769 likes - 135 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

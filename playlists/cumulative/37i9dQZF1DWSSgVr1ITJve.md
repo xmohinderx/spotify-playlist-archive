@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: NORDO.
 
-70 songs - 3 hr 48 min
+71 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 | 2022-06-29 |  |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2022-06-29 |  |
 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 | 2022-06-29 |  |
+| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-15 |  |
 | [Bambina](https://open.spotify.com/track/09NO7m5tTpmYhiEL5sBPwt) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/1Kfc1pIltwwiY27TLdFwrs) | 3:20 | 2022-06-29 | 2022-10-03 |
 | [Bambina](https://open.spotify.com/track/0lOLxwEXLME2ErktCMPCqM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/4X7dvnMEgl6DU8K3QW3IYT) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 | 2022-07-29 |  |
@@ -22,7 +23,7 @@
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2022-06-29 |  |
 | [Cava](https://open.spotify.com/track/0b5kfpiTDnHLu4vjh240gW) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Cava](https://open.spotify.com/album/0jg01ov7uPakGjnNftHvvT) | 2:55 | 2022-06-29 |  |
 | [Chicken Suya](https://open.spotify.com/track/3JMLMptbTHOgpJgUIPtGm4) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Adelina](https://open.spotify.com/artist/12HPGkAcwXHo1Mqsh0iznm), [Akaycentric](https://open.spotify.com/artist/4WRW8rUNEHVtkRBFIopZRX) | [Chicken Suya](https://open.spotify.com/album/3ACdkkAHbDJL4XLgzGTYMN) | 3:38 | 2022-06-29 |  |
-| [Choukran](https://open.spotify.com/track/1enHUv9ixGD38Tw2lmPxZU) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Choukran](https://open.spotify.com/album/5AjLG2qjqLjgv7UsLqRRXc) | 2:31 | 2022-06-29 |  |
+| [Choukran](https://open.spotify.com/track/1enHUv9ixGD38Tw2lmPxZU) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Choukran](https://open.spotify.com/album/5AjLG2qjqLjgv7UsLqRRXc) | 2:31 | 2022-06-29 | 2023-01-16 |
 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 | 2022-06-29 |  |
 | [Echemaa](https://open.spotify.com/track/075F2mbaWG6dXTHnGrOmJN) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/3iEzpL3Lai1W721FnAS3Ej) | 2:24 | 2022-06-29 | 2022-07-29 |
 | [Echemaa](https://open.spotify.com/track/2266ieCC5PgwRahqshFzz5) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1yC4Mvqmh8WqnYoe8aelUN) | 2:24 | 2022-06-29 | 2022-10-02 |

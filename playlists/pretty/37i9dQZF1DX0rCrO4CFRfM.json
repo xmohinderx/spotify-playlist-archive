@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 861262,
+  "num_followers": 861677,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDI3NTg3MjFlODk2MjRjYWRjZmYwMzYzODlhMjExMTVh",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGVmMmI5ZmVhNjJjNjlkYjUwMjA1YWY0Nzk2OGE0NGVk",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 193297,
-      "name": "Way down We Go - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
         "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 237743,
       "name": "Pride (In The Name Of Love) - Songs Of Surrender",
       "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 193297,
+      "name": "Way down We Go - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "The Poison (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Tears Don't Fall - Acoustic Version",
-      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Keep the Village Alive (Deluxe)",
         "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 257453,
       "name": "I Wanna Get Lost With You (Acoustic 2015)",
       "url": "https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "The Poison (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Tears Don't Fall - Acoustic Version",
+      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Are You Gonna Be My Girl",
         "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 270080,
       "name": "Radioactive - Live London Sessions / 2013",
       "url": "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "Talihina Sky",
-        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Talihina Sky - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "...Like Cologne (Spotify Exclusive)",
         "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 161010,
       "name": "Kill The Noise - Acoustic",
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 235746,
       "name": "Bored To Death (Acoustic)",
       "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2023-01-11 17:00:00",

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,941 songs - 4 day 15 hr 47 min
+1,942 songs - 4 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [911 \(Pressplay Remix\)](https://open.spotify.com/track/3byLHBXPEaBRrDfB7aue1j) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [PressPlay](https://open.spotify.com/artist/1opcFLsz9rMLOvTul3i3G6) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 3:43 | 2020-07-21 | 2020-08-02 |
 | [A Couple Runaways](https://open.spotify.com/track/57LTzLyTcGFctMw2mS6ylb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 4:01 | 2022-05-29 | 2022-06-29 |
 | [A Dinner Out](https://open.spotify.com/track/2Lig6x6Wr1LsVBmMLdscz4) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [Latte / The Italian Breakfast](https://open.spotify.com/album/1dO5cpEOoa2ORCwazxkFUv) | 4:27 | 2022-02-18 | 2022-03-07 |
+| [A Dreamer](https://open.spotify.com/track/2odz4s5CDDODlVh1P00H6V) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Dreamer](https://open.spotify.com/album/76zFj3JcVuBwRxnirC9y3r) | 4:53 | 2023-01-15 |  |
 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 | 2021-07-11 |  |
 | [A Little More](https://open.spotify.com/track/5zN8t1TBag3LO7d8KBFcCt) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [A Little More](https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg) | 3:05 | 2021-12-04 | 2021-12-19 |
 | [A Million Doubts](https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [For The Very Last Time](https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712) | 3:39 | 2020-11-03 | 2021-01-12 |

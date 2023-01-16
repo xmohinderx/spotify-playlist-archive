@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,960 likes - 116 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,031 likes - 116 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 2 | [You Never Visit Me](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 3 | [Santorini](https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 2:28 |
 | 4 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 |
-| 5 | [Told you so](https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Told you so](https://open.spotify.com/album/0NtlI4QSCeyq9S3LLLZVp1) | 4:49 |
+| 5 | [Told you so](https://open.spotify.com/track/6pZpkqgCRWSDGfkZHRbP0e) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6) | 4:49 |
 | 6 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 7 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 |
 | 8 | [Got Me In My Feelings](https://open.spotify.com/track/3J62l6kQIcKCVgZ7Srntlq) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Jay Strong](https://open.spotify.com/artist/3HFmzNiYGElros3wWNO7bO), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 3:54 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 115 | [MIDSKY](https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [MIDSKY](https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES) | 3:36 |
 | 116 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 |
 
-Snapshot ID: `MTY3MjMxMjc4MSwwMDAwMDAwMDdhMjY0M2U1M2VlMDc3YWVmNjc2MWEzOGJjYzg1MmMz`
+Snapshot ID: `MTY3MjMxMjc4MSwwMDAwMDAwMDcxMjMwYjY5NGRiMWIzNzc5YTJkZWM1MDlmODNiYmMz`

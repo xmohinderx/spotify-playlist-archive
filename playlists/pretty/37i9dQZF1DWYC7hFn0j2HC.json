@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 139525,
+  "num_followers": 139735,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MzkxMSwwMDAwMDAwMGI4ZjIyMDI3NDQ0MGM4OThlZTAxYTM5M2U0NjI4NGY4",
+  "snapshot_id": "MTY0MzE1MzkxMSwwMDAwMDAwMDYyMDM5ODBkZmNkZmM3ZWYzZWY1MWEyNzQxNWI4MzFi",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 212706,
-      "name": "Cien a\u00f1os",
-      "url": "https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi"
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+      "duration_ms": 212706,
+      "name": "Cien a\u00f1os",
+      "url": "https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Jorge Negrete, Vol II.",
         "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 195373,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Fiesta Mexicana",
-        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "M\u00e9xico Lindo",
-      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "M\u00e9xico Lindo",
+      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Mujeres Divinas",
         "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
@@ -383,8 +383,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "RCA 100 Anos De Musica - Segunda Parte",
-        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
+        "name": "35 Exitos",
+        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
+      "duration_ms": 125906,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -431,18 +431,34 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Pa' Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -463,34 +479,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "35 Exitos",
-        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "RCA 100 Anos De Musica - Segunda Parte",
+        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Pa' Todo el A\u00f1o",
-      "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+      "duration_ms": 219720,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "T\u00fa y las Nubes",
-      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 176706,
       "name": "Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "T\u00fa y las Nubes",
+      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Un Pu\u00f1o de Tierra",
-        "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 156548,
-      "name": "Albur De Amor",
-      "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Grabaciones Completas (Remastered)",
         "url": "https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 179943,
       "name": "El Jinete - Remastered",
       "url": "https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Un Pu\u00f1o de Tierra",
+        "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 156548,
+      "name": "Albur De Amor",
+      "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
     }
   ],
   "unique_name": "Charros de Oro",

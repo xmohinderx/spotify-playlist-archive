@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-835 songs - 1 day 22 hr 10 min
+836 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Magic Carpet](https://open.spotify.com/track/4BAc3BAru7sZajWAftSsAA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/7bjaj1UGXKRZA9SiOtBNu4) | 2:48 | 2021-04-20 | 2022-04-19 |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2021-12-13 | 2022-07-15 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-12-17 | 2022-08-19 |
+| [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 | 2023-01-13 |  |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-02-04 | 2023-01-06 |
 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 | 2020-05-22\* | 2022-04-20 |
 | [Makin' Love](https://open.spotify.com/track/2xka7Fp3vpyLvWrI8803eh) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Makin' Love](https://open.spotify.com/album/6PFjkSqXrCHSqb9TmRUxga) | 2:31 | 2020-05-22\* | 2021-12-21 |
@@ -659,7 +660,7 @@
 | [See Me Fall](https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6) | [EKAE](https://open.spotify.com/artist/4tO9yeKWvSAIYredvRSKdR) | [See Me Fall](https://open.spotify.com/album/1pA7w0A36BX8USfMuJQkg7) | 2:05 | 2021-02-27 | 2022-03-21 |
 | [Sensational](https://open.spotify.com/track/3Kir9mPDm54ViKTrgXA3zB) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Sensational](https://open.spotify.com/album/2nwb4DgmKwc1QdhnLBj7S4) | 3:17 | 2021-04-22 | 2021-12-21 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-18 |  |
-| [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-02-18 |  |
+| [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-02-18 | 2023-01-16 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-01 |  |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2020-12-12 | 2021-08-14 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-04-01 | 2022-04-17 |

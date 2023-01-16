@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 8145,
+  "num_followers": 8154,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ5NDgxNywwMDAwMDAwMGFmMjk5ZDliODcwOTRjNDhkZjY0MjhiN2FlMDRhYzMx",
+  "snapshot_id": "MTY3MzQ5NDgxNywwMDAwMDAwMGZjYzlmZGFmOGViYjI4N2UyZWY4Mjg3NWM2MTI5YjA2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Milk of Human Kindness",
-        "url": "https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/3rN3BHWnlvRkXIhE7KGbSU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Milk of Human Kindness",
+        "url": "https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/3rN3BHWnlvRkXIhE7KGbSU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
-      "added_at": "2023-01-15 00:07:13",
+      "added_at": "2023-01-16 01:00:04",
       "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rhythm Is Our Business (Edit)",
-        "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
+        "name": "Mars Audiac Quintet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4jqRIRi6aTObueLwb2DaVp"
       },
       "artists": [
         {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Rhythm Is Our Business - Edit",
-      "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
+      "duration_ms": 190031,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/2IGX5DCaaPbfJ4ZsIJbsNU"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mars Audiac Quintet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4jqRIRi6aTObueLwb2DaVp"
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
         }
       ],
-      "duration_ms": 190031,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/2IGX5DCaaPbfJ4ZsIJbsNU"
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "BGM",
         "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 272840,
       "name": "\u30ad\u30e5\u30fc",
       "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Primary Colours",
@@ -727,22 +743,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -757,20 +757,20 @@
       "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
       "artists": [
         {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Switched On",
         "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
       },
@@ -867,38 +883,6 @@
       "duration_ms": 170760,
       "name": "Not The Time",
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Fluffy Kosmisch",
-      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -935,6 +919,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "Fluffy Kosmisch",
+      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Codes and Keys",
         "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 337346,
       "name": "Doors Unlocked and Open",
       "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lodger (2017 Remaster)",
+        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Red Sails - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -979,22 +995,6 @@
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lodger (2017 Remaster)",
-        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Red Sails - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Warrior on the Edge of Time",
         "url": "https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 309733,
       "name": "Opa-Loka",
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Radiant Dawn",
@@ -1375,6 +1359,22 @@
       "duration_ms": 393080,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/3Jdvy13itjxVS0J8p7gzfA"
+    },
+    {
+      "added_at": "2022-03-18 05:36:55",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1909,20 +1909,20 @@
       "url": "https://open.spotify.com/track/1Y4gsRbnktzl6EYD8RXOKm"
     },
     {
-      "added_at": "2021-11-05 19:39:16",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "En Letargo",
-        "url": "https://open.spotify.com/album/36bBecUrinX68SW69nmx1S"
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
       "artists": [
         {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
         }
       ],
-      "duration_ms": 241902,
-      "name": "En Letargo",
-      "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
+      "duration_ms": 546500,
+      "name": "Futsu Ni Ikirenai",
+      "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1957,20 +1957,20 @@
       "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2021-11-05 19:39:16",
       "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+        "name": "En Letargo",
+        "url": "https://open.spotify.com/album/36bBecUrinX68SW69nmx1S"
       },
       "artists": [
         {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
         }
       ],
-      "duration_ms": 546500,
-      "name": "Futsu Ni Ikirenai",
-      "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
+      "duration_ms": 241902,
+      "name": "En Letargo",
+      "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2007,6 +2007,22 @@
       "duration_ms": 340466,
       "name": "Focus on the Magick",
       "url": "https://open.spotify.com/track/6hKBt7A9eOAEwDbLerLYEJ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 414222,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2055,22 +2071,6 @@
       "duration_ms": 520850,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 414222,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "20.000 \u00c9guas Submarinas",
-        "url": "https://open.spotify.com/album/5LVzphBxyTVvgtLDeUtX3E"
-      },
-      "artists": [
-        {
-          "name": "Rui Reininho",
-          "url": "https://open.spotify.com/artist/69BXGLY1jKUOPNNtBUFJrj"
-        },
-        {
-          "name": "Paulo Borges",
-          "url": "https://open.spotify.com/artist/5ZAxSl9pfGBK2YEPNHAm7f"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Namastea",
-      "url": "https://open.spotify.com/track/4XesJy8hNQNFiD1zYgUw4U"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Burn Slow",
         "url": "https://open.spotify.com/album/4K816FI8JFlvVARGFRYbBB"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 438321,
       "name": "Novembergrey (feat. Ralf Hildenbeutal)",
       "url": "https://open.spotify.com/track/2Jv5gLsh1hrcEzrN0NWw58"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "20.000 \u00c9guas Submarinas",
+        "url": "https://open.spotify.com/album/5LVzphBxyTVvgtLDeUtX3E"
+      },
+      "artists": [
+        {
+          "name": "Rui Reininho",
+          "url": "https://open.spotify.com/artist/69BXGLY1jKUOPNNtBUFJrj"
+        },
+        {
+          "name": "Paulo Borges",
+          "url": "https://open.spotify.com/artist/5ZAxSl9pfGBK2YEPNHAm7f"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Namastea",
+      "url": "https://open.spotify.com/track/4XesJy8hNQNFiD1zYgUw4U"
     },
     {
       "added_at": "2022-03-11 02:52:10",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost Worker Bee - EP",
-        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 387383,
-      "name": "Roll Call",
-      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "LP",
         "url": "https://open.spotify.com/album/3WIwlESqNDJjhxuUjLLSUd"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 356720,
       "name": "The Pulse",
       "url": "https://open.spotify.com/track/4IZaX9YDhGG9sbZtGDpRLo"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Lost Worker Bee - EP",
+        "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 387383,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A Group Called CoBrA",
-        "url": "https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn"
-      },
-      "artists": [
-        {
-          "name": "A Group Called CoBrA",
-          "url": "https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "F\u00f3rmula",
-      "url": "https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Contact b/w I Hear the Vibrations",
         "url": "https://open.spotify.com/album/51VLVN7CavAXPWLVrd5P7Q"
       },
@@ -2399,22 +2383,6 @@
       "duration_ms": 501373,
       "name": "I Hear the Vibrations",
       "url": "https://open.spotify.com/track/4m1kM6Hra0SsKYW5nSRZWE"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Remember I Was Carbon Dioxide",
-        "url": "https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX"
-      },
-      "artists": [
-        {
-          "name": "Camera",
-          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Synchron",
-      "url": "https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2439,18 +2407,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Latin",
-        "url": "https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9"
+        "name": "Remember I Was Carbon Dioxide",
+        "url": "https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX"
       },
       "artists": [
         {
-          "name": "Holy Fuck",
-          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+          "name": "Camera",
+          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
         }
       ],
-      "duration_ms": 313973,
-      "name": "Silva & Grimes",
-      "url": "https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi"
+      "duration_ms": 264653,
+      "name": "Synchron",
+      "url": "https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "A Group Called CoBrA",
+        "url": "https://open.spotify.com/album/4sjcbdfcx3yjwHRWpyCWxn"
+      },
+      "artists": [
+        {
+          "name": "A Group Called CoBrA",
+          "url": "https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "F\u00f3rmula",
+      "url": "https://open.spotify.com/track/73ubQI2yVmQyVhKFMzEd5J"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2487,6 +2471,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Latin",
+        "url": "https://open.spotify.com/album/45nMlmlIPPDVWSCDwdvCB9"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Silva & Grimes",
+      "url": "https://open.spotify.com/track/7MQ0frhsOQGYv4lHDyGeUi"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Anthem of the Moon",
         "url": "https://open.spotify.com/album/42V18DJtTkpd9KOwdGZsTQ"
       },
@@ -2515,6 +2515,22 @@
       "duration_ms": 506573,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Plank!",
+        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
+      },
+      "artists": [
+        {
+          "name": "Plank!",
+          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
+        }
+      ],
+      "duration_ms": 276026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2551,22 +2567,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Plank!",
-        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
-      },
-      "artists": [
-        {
-          "name": "Plank!",
-          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
-        }
-      ],
-      "duration_ms": 276026,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Superplus",
         "url": "https://open.spotify.com/album/4KMlPTCWrJ3DhTjykEGa9x"
       },
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Pegasvs",
-        "url": "https://open.spotify.com/album/7Glh6zTuFysTaB5NJ5JCcW"
-      },
-      "artists": [
-        {
-          "name": "SVPER",
-          "url": "https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC"
-        }
-      ],
-      "duration_ms": 263537,
-      "name": "La Melod\u00eda del Afilador",
-      "url": "https://open.spotify.com/track/7iKCm2bUVNjf0dTRNWwUbH"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "1212",
         "url": "https://open.spotify.com/album/1eXrbpknzFUfMoyDbgKaaD"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 441826,
       "name": "Stammtisch",
       "url": "https://open.spotify.com/track/4r5BOS0WxCTl83sdR8BjiI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Pegasvs",
+        "url": "https://open.spotify.com/album/7Glh6zTuFysTaB5NJ5JCcW"
+      },
+      "artists": [
+        {
+          "name": "SVPER",
+          "url": "https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC"
+        }
+      ],
+      "duration_ms": 263537,
+      "name": "La Melod\u00eda del Afilador",
+      "url": "https://open.spotify.com/track/7iKCm2bUVNjf0dTRNWwUbH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Pegasvs",
-        "url": "https://open.spotify.com/album/7Glh6zTuFysTaB5NJ5JCcW"
-      },
-      "artists": [
-        {
-          "name": "SVPER",
-          "url": "https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC"
-        }
-      ],
-      "duration_ms": 259269,
-      "name": "Brillar",
-      "url": "https://open.spotify.com/track/74i8ZvI8NxVPsCLo55DUeQ"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zucker Tanzclub",
         "url": "https://open.spotify.com/album/3YZNYB5gGZQeTHcvr4mG3h"
       },
@@ -2775,18 +2759,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/26f1AAQ6wsS3TyUPa7hZGy"
+        "name": "Pegasvs",
+        "url": "https://open.spotify.com/album/7Glh6zTuFysTaB5NJ5JCcW"
       },
       "artists": [
         {
-          "name": "TENGGER",
-          "url": "https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4"
+          "name": "SVPER",
+          "url": "https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC"
         }
       ],
-      "duration_ms": 328491,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/01GBvr5jhJR4Bdhy9vTTkE"
+      "duration_ms": 259269,
+      "name": "Brillar",
+      "url": "https://open.spotify.com/track/74i8ZvI8NxVPsCLo55DUeQ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2803,6 +2787,22 @@
       "duration_ms": 484234,
       "name": "Monte da Virgem",
       "url": "https://open.spotify.com/track/3s0Txy6LnoCiCaSmcDFne4"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/26f1AAQ6wsS3TyUPa7hZGy"
+      },
+      "artists": [
+        {
+          "name": "TENGGER",
+          "url": "https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4"
+        }
+      ],
+      "duration_ms": 328491,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/01GBvr5jhJR4Bdhy9vTTkE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2855,18 +2855,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Lost in Space",
-        "url": "https://open.spotify.com/album/35opvJnSyRlCVsc5P0ZMYh"
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/0k6PhlLZhRtVTyvpUf15cs"
       },
       "artists": [
         {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+          "name": "Birdy Bardot",
+          "url": "https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539"
         }
       ],
-      "duration_ms": 323186,
-      "name": "Lower Than Stars",
-      "url": "https://open.spotify.com/track/3mLsvORkCUgi3OARPKUx5m"
+      "duration_ms": 234011,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7FXto7Zpf3ClVRMdQRZwKr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2887,18 +2887,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/0k6PhlLZhRtVTyvpUf15cs"
+        "name": "Lost in Space",
+        "url": "https://open.spotify.com/album/35opvJnSyRlCVsc5P0ZMYh"
       },
       "artists": [
         {
-          "name": "Birdy Bardot",
-          "url": "https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539"
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
         }
       ],
-      "duration_ms": 234011,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7FXto7Zpf3ClVRMdQRZwKr"
+      "duration_ms": 323186,
+      "name": "Lower Than Stars",
+      "url": "https://open.spotify.com/track/3mLsvORkCUgi3OARPKUx5m"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -2981,6 +2981,22 @@
       "url": "https://open.spotify.com/track/5kDviq0X58HeucHOjWmhyA"
     },
     {
+      "added_at": "2022-04-26 23:30:30",
+      "album": {
+        "name": "One Living Genus (Radio Edit)",
+        "url": "https://open.spotify.com/album/2x78BFHHGGP6H1FPpciCes"
+      },
+      "artists": [
+        {
+          "name": "Anteloper",
+          "url": "https://open.spotify.com/artist/22N13sDYkfrSOZp1CptvIN"
+        }
+      ],
+      "duration_ms": 531000,
+      "name": "One Living Genus - Radio Edit",
+      "url": "https://open.spotify.com/track/5FXwxiPP7dDUrYmhkVdpMb"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Keep Warm... with the Warm Digits",
@@ -3013,22 +3029,6 @@
       "url": "https://open.spotify.com/track/4PffHOzKe9Pjs0Eb7U4cex"
     },
     {
-      "added_at": "2022-04-26 23:30:30",
-      "album": {
-        "name": "One Living Genus (Radio Edit)",
-        "url": "https://open.spotify.com/album/2x78BFHHGGP6H1FPpciCes"
-      },
-      "artists": [
-        {
-          "name": "Anteloper",
-          "url": "https://open.spotify.com/artist/22N13sDYkfrSOZp1CptvIN"
-        }
-      ],
-      "duration_ms": 531000,
-      "name": "One Living Genus - Radio Edit",
-      "url": "https://open.spotify.com/track/5FXwxiPP7dDUrYmhkVdpMb"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Luke Vibert's Nuggets",
@@ -3043,22 +3043,6 @@
       "duration_ms": 91586,
       "name": "Electronic Track 15",
       "url": "https://open.spotify.com/track/3CAmwEqxHr7vXX30VfrJ6B"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Warp20 (Recreated)",
-        "url": "https://open.spotify.com/album/7qL8Nysleo7WsXsSaTh1Pf"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "When [Original by Vincent Gallo]",
-      "url": "https://open.spotify.com/track/34pHPFko6ozvZc9pTmhxk8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -3079,6 +3063,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Warp20 (Recreated)",
+        "url": "https://open.spotify.com/album/7qL8Nysleo7WsXsSaTh1Pf"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "When [Original by Vincent Gallo]",
+      "url": "https://open.spotify.com/track/34pHPFko6ozvZc9pTmhxk8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Higamos Hogamos",
         "url": "https://open.spotify.com/album/5hN3Bn8wBFJpTMusU0CWq7"
       },
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Sellics",
-        "url": "https://open.spotify.com/album/3M4rO8pi2mpYHvYNBSaX1e"
-      },
-      "artists": [
-        {
-          "name": "Li\u00f8zn",
-          "url": "https://open.spotify.com/artist/3r3YYDIDRkEzUUIBnkgXvt"
-        }
-      ],
-      "duration_ms": 280894,
-      "name": "Kraftbanshee",
-      "url": "https://open.spotify.com/track/468I5bApTQcTsgFHJHBY2Y"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Love It or level It",
         "url": "https://open.spotify.com/album/5uSxD9OXKWfQNrMWaotAvA"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 426600,
       "name": "Juggernaut Jugend",
       "url": "https://open.spotify.com/track/3vETfQdOcYmSaYe8Zo8yNH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Sellics",
+        "url": "https://open.spotify.com/album/3M4rO8pi2mpYHvYNBSaX1e"
+      },
+      "artists": [
+        {
+          "name": "Li\u00f8zn",
+          "url": "https://open.spotify.com/artist/3r3YYDIDRkEzUUIBnkgXvt"
+        }
+      ],
+      "duration_ms": 280894,
+      "name": "Kraftbanshee",
+      "url": "https://open.spotify.com/track/468I5bApTQcTsgFHJHBY2Y"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -3259,18 +3259,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/2YAR4bBUlXfSvTqRtalyGZ"
+        "name": "State of Clear",
+        "url": "https://open.spotify.com/album/2ims2SKqrrmnnazRtmVuvK"
       },
       "artists": [
         {
-          "name": "Echoboy",
-          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
+          "name": "Trees Speak",
+          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
         }
       ],
-      "duration_ms": 304293,
-      "name": "Kit And Holly",
-      "url": "https://open.spotify.com/track/0Kj00AtPOw113o56y3qgIL"
+      "duration_ms": 136426,
+      "name": "State of Clear",
+      "url": "https://open.spotify.com/track/0yAe1QgFMeCRtm7uvlhNrk"
     }
   ],
   "unique_name": "Krautrock Highway",

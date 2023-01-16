@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9nLxMZM7Cj.md) - [plain]
 
 > Take a listen to the most viral interviews and episodes of JRE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,070 likes - 26 songs - 2 day 21 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,073 likes - 26 songs - 2 day 21 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

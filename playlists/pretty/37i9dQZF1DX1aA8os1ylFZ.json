@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 225773,
+  "num_followers": 225782,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxOTQzMiwwMDAwMDAwMDViNTExOTM0ZGExN2YwMjNiNWNhM2UwZGNiNjI4YmJm",
+  "snapshot_id": "MTY3MzYxOTQzMiwwMDAwMDAwMGQyMDY1M2RjMDA3MjY1ODViYmVhN2NmNGRiMGU4Nzk2",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 109325,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -247,6 +247,30 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
@@ -283,6 +307,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Do You Mind",
+        "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 140568,
+      "name": "Do You Mind",
+      "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -311,26 +355,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Do You Mind",
-        "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 140568,
-      "name": "Do You Mind",
-      "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 188579,
       "name": "Outside",
       "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Gimme (feat. Koffee & Jessie Reyez)",
-        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Gimme (feat. Koffee & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "listen up (Radio Edit)",
+        "url": "https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 108949,
+      "name": "listen up - Radio Edit",
+      "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 153364,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "listen up (Radio Edit)",
-        "url": "https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 108949,
-      "name": "listen up - Radio Edit",
-      "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Her Old Friends",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 256117,
+      "name": "Her Old Friends",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
       "added_at": "2022-10-27 22:00:00",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
@@ -673,22 +689,6 @@
       "url": "https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Her Old Friends",
-        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 256117,
-      "name": "Her Old Friends",
-      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
-    },
-    {
       "added_at": "2022-10-27 22:00:00",
       "album": {
         "name": "At My Worst (feat. Kehlani)",
@@ -707,22 +707,6 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Always Love",
-        "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Always Love",
-      "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 186349,
       "name": "Provide (feat. Chris Brown & Mark Morrison)",
       "url": "https://open.spotify.com/track/0tQmgwFKw9069z1BXniOiA"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Always Love",
+        "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Waves of Blue",
+      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "BNB",
         "url": "https://open.spotify.com/album/3hseLB6x5CdTGePQgIc2Sf"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Waves of Blue",
-      "url": "https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173968,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Petty",
-        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 195078,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
+      "duration_ms": 173968,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 201869,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 195078,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 174890,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj"
       },
@@ -1215,6 +1231,22 @@
       "duration_ms": 174658,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1247,6 +1279,22 @@
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1303,22 +1351,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1371,22 +1403,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "WHAT'S IT GONNA TAKE",
-        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 196798,
-      "name": "WHAT'S IT GONNA TAKE",
-      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -1403,6 +1419,22 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "WHAT'S IT GONNA TAKE",
+        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 196798,
+      "name": "WHAT'S IT GONNA TAKE",
+      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1445,6 +1477,22 @@
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
     },
     {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
+      },
+      "artists": [
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
+    },
+    {
       "added_at": "2022-10-27 22:00:00",
       "album": {
         "name": "Whatever Simon Says",
@@ -1479,22 +1527,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Bubble",
-        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
-      },
-      "artists": [
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "If Pretty Was A Person",
         "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
       },
@@ -1515,38 +1547,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 165419,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 165419,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "On Lock",
         "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
       },
@@ -1575,6 +1591,22 @@
       "duration_ms": 161677,
       "name": "On Lock",
       "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1603,22 +1635,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 152000,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y"
+        "name": "FTU",
+        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
         }
       ],
-      "duration_ms": 174890,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
+      "duration_ms": 144692,
+      "name": "FTU",
+      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1715,22 +1731,6 @@
       "duration_ms": 151467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1nD05bbfyNSyYxKUjF8BNo"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "FTU",
-        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 144692,
-      "name": "FTU",
-      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
     },
     {
       "added_at": "2023-01-12 23:00:00",

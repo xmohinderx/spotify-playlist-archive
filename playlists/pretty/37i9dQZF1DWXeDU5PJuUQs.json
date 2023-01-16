@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 107973,
+  "num_followers": 108079,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyMDI3OCwwMDAwMDAwMDllNmY2MTI1Y2ZlN2ZiOGU5MWVkZjU0YzJiMmI2ZTE0",
+  "snapshot_id": "MTY3MzYyMDI3OCwwMDAwMDAwMDhlYTA1ODhkMjMwMzljNzMwZjRlNjUyYjFlNmI5ZjQ0",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
     },
     {
-      "added_at": "2023-01-15 01:12:08",
+      "added_at": "2023-01-16 00:32:56",
       "album": {
         "name": "La Gira y La Serenata",
         "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Amiga Traidora (En Vivo)",
-        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 236736,
-      "name": "Amiga Traidora - En Vivo",
-      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 177739,
-      "name": "No Llores - En Vivo",
-      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 283977,
-      "name": "Tu C\u00e1rcel - En Vivo",
-      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "La Misma Cancion (En Vivo)",
         "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 496146,
       "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
       "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2022-12-02 03:00:00",

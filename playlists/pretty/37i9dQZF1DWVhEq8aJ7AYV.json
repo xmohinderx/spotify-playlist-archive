@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 60023,
+  "num_followers": 60058,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3MTY2MywwMDAwMDAwMDAwY2JkNDBlNGE4NTc1Yjk3ZjgzNDc5YzlmYTAxMTQw",
+  "snapshot_id": "MTY2MDg3MTY2MywwMDAwMDAwMGRjYmUwODVmNDYyZjUwZWM2NTBiMDA2MzQzMmI3ZTEw",
   "tracks": [
     {
       "added_at": "2022-08-19 01:14:23",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 129773,
+      "name": "Saca la Chela",
+      "url": "https://open.spotify.com/track/3aZXqmXuF0lSmhV3AliJMc"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 129773,
-      "name": "Saca la Chela",
-      "url": "https://open.spotify.com/track/3aZXqmXuF0lSmhV3AliJMc"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -467,18 +467,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
       },
       "artists": [
         {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
-      "duration_ms": 187666,
-      "name": "There But for the Grace of God Go I",
-      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
+      "duration_ms": 145293,
+      "name": "Frenesick",
+      "url": "https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -499,18 +499,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Acapulco Golden",
-        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
       },
       "artists": [
         {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
         }
       ],
-      "duration_ms": 145293,
-      "name": "Frenesick",
-      "url": "https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A"
+      "duration_ms": 187666,
+      "name": "There But for the Grace of God Go I",
+      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -567,6 +567,38 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Swingin' Singles",
+        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "Olvidemos el Romance .. Cojamos Ya!",
+      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Daikaiju",
         "url": "https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG"
       },
@@ -595,22 +627,6 @@
       "duration_ms": 154720,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Swingin' Singles",
-        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -659,22 +675,6 @@
       "duration_ms": 155763,
       "name": "Antimatter Man",
       "url": "https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Perfume de Violetas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03663WodvoLxswAm8iHB4r"
-      },
-      "artists": [
-        {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "Olvidemos el Romance .. Cojamos Ya!",
-      "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "The Neanderthals In Space",
         "url": "https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei"
       },
@@ -847,34 +863,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Bomber Man",
-        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
         }
       ],
-      "duration_ms": 134443,
-      "name": "Bomber Man",
-      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Guadalupe Plata 2015",
-        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 194367,
-      "name": "Calle 24",
-      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
+        "name": "Guadalupe Plata 2015",
+        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
       },
       "artists": [
         {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
         }
       ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ"
+      "duration_ms": 194367,
+      "name": "Calle 24",
+      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "Tiki Surf",
-      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Organ Grinder",
         "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
       },
@@ -987,34 +971,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Rock en Espanol, Vol. 1",
-        "url": "https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql"
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
       "artists": [
         {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Hey Lupe",
-      "url": "https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
-      },
-      "artists": [
-        {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
-        }
-      ],
-      "duration_ms": 186593,
-      "name": "Peyoteando Con Ayahuasca",
-      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
+      "duration_ms": 116013,
+      "name": "Tiki Surf",
+      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1035,6 +1003,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 186593,
+      "name": "Peyoteando Con Ayahuasca",
+      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Guadalupe Plata 2017",
         "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 297942,
       "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
       "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rock en Espanol, Vol. 1",
+        "url": "https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 126626,
-      "name": "Surfin Beer",
-      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Cosmopolis 1988-2008",
         "url": "https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 126026,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Surfin Beer",
+      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
-        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Samurai",
-          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Pintor",
-      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Los El\u00e1sticos",
         "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
       },
@@ -1223,6 +1207,38 @@
       "duration_ms": 193946,
       "name": "Pirakor",
       "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Martinis & Bikinis",
+        "url": "https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "El Bikini de la Chica Popof",
+      "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Surf Quake!",
+        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
+      },
+      "artists": [
+        {
+          "name": "The Volcanos",
+          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
+        }
+      ],
+      "duration_ms": 127760,
+      "name": "The Last Wave",
+      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1243,22 +1259,6 @@
       "duration_ms": 115293,
       "name": "La Chica Rockabilly",
       "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Martinis & Bikinis",
-        "url": "https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "El Bikini de la Chica Popof",
-      "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
     }
   ],
   "unique_name": "Rockabilly Surf",

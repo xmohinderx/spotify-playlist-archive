@@ -4,7 +4,7 @@
 
 > Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-52 songs - 2 hr 51 min
+53 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Hi There Buddies](https://open.spotify.com/track/35g3zUCDKxDbJJdj1oowtl) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 1:53 | 2023-01-06 |  |
 | [I Believe](https://open.spotify.com/track/2hxuAPBIza2jYoZifRddTJ) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TV Anime "Tokyo Revengers" EP 02](https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc) | 3:21 | 2023-01-06 |  |
 | [I Believe \- Instrumental](https://open.spotify.com/track/2xQ5Ph1ZWfSKp1CNKO4f72) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TV Anime "Tokyo Revengers" EP 02](https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc) | 3:21 | 2023-01-06 |  |
+| [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 |  |
 | [Kickin' It](https://open.spotify.com/track/4SQbqc1i0YnQTF69QRkExL) | [YVY](https://open.spotify.com/artist/6ZpEv6b0DmfqVK4XGhGfy2), [Frank Bentley](https://open.spotify.com/artist/7dqEgtZn16N557PkibjXS9) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 4:16 | 2023-01-06 |  |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2023-01-06 |  |
 | [Mugen](https://open.spotify.com/track/5fTzgI0mzYkIm3Cz2mrgXD) | [Manjiro Sano \(CV:Yuu Hayashi\)](https://open.spotify.com/artist/6hmu6G3WGEOi5iOhghjYBU) | [TV Anime "Tokyo Revengers" EP 01](https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7) | 5:09 | 2023-01-06 |  |

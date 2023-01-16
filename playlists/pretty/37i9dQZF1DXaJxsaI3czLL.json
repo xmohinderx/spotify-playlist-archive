@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 119777,
+  "num_followers": 119820,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYwMjM3NywwMDAwMDAwMDViMDE2MWQ0ZTlhZDk1OTVmOGQyZWUwMjBjMDM5YTRm",
+  "snapshot_id": "MTY3MzYwMjM3NywwMDAwMDAwMDUwYTRiNzIzMWMwNTBhMmMyNzEyZDE4N2JhMGM5ZGY0",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR"
     },
     {
-      "added_at": "2023-01-15 00:41:59",
+      "added_at": "2023-01-16 01:31:13",
       "album": {
         "name": "NAVY",
         "url": "https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc"
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -591,34 +607,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
         }
       ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Songs of Four Seasons",
         "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
       },
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Lady - 2020",
-      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -835,18 +803,34 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Lady - 2020",
+      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -863,6 +847,22 @@
       "duration_ms": 242573,
       "name": "Beautiful Sleep",
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "HALSHURA(\u30cf\u30eb\u30b7\u30e5\u30e9)",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
-        }
-      ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "MISSLIM",
-        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "\u65c5\u7acb\u3064\u79cb",
-      "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "MISSLIM",
+        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "\u65c5\u7acb\u3064\u79cb",
+      "url": "https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX"
     },
     {
       "added_at": "2023-01-12 15:00:00",

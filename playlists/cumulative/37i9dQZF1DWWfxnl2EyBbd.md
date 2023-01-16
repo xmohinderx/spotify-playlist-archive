@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-388 songs - 1 day 7 hr 23 min
+389 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
 | [Blame It on My Youth](https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Blame It on My Youth](https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl) | 8:06 | 2022-02-18 | 2022-07-29 |
-| [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-07-07 |  |
+| [Blame It on My Youth](https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 8:06 | 2022-07-07 | 2023-01-16 |
 | [Blame It On My Youth](https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [The Cure](https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9) | 8:16 | 2022-02-10 | 2022-11-12 |
 | [Blame It On The Sun](https://open.spotify.com/track/1PlFtAjJ0ZZIOPcIPNqkOh) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 6:46 | 2022-02-10 | 2022-11-12 |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
@@ -122,6 +122,7 @@
 | [Heroes](https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [The Lights Are Always On](https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB) | 4:15 | 2022-04-07 | 2022-11-12 |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-05-19 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
+| [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Homecoming](https://open.spotify.com/track/4X41g2qYikss19onM4xH6F) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Homecoming](https://open.spotify.com/album/5BR5Q9CvBdD1zXepyCyTQs) | 7:09 | 2022-08-11 | 2022-11-12 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-12 |  |
 | [Hush \- Nikki Iles](https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr) | [Nikki Iles](https://open.spotify.com/artist/5LGovBijogk6ID8SKqle96) | [Hush](https://open.spotify.com/album/0WWDEwk0muhlcF21F2R8A2) | 5:12 | 2022-02-10 | 2022-11-18 |

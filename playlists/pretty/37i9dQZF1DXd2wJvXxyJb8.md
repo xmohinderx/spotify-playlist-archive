@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > q q eh birimbola?
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,541 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,481 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 2 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/5o4VK4Qe5QwXHrvUPoaGHy) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/6qX5mgFX8dUrTxsSbsXOzd) | 2:16 |
 | 3 | [MEGA DO TIMBALAND](https://open.spotify.com/track/2PTuhsCZhCpvxLfPz58oke) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/2KIvTugmHL9NLaUvoGGDCC) | 2:36 |
 | 4 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
-| 5 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [FELUPE NA VOZ](https://open.spotify.com/artist/0yBuexD4e0Mmv44tTweSlT), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
+| 5 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 6 | [Na Rebolada](https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Thamirys](https://open.spotify.com/artist/3P1msOpSX2q616eW8UewYU) | [Na Rebolada](https://open.spotify.com/album/5BFgoR7RFXpcH5pHQBPu7x) | 1:51 |
 | 7 | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/track/2zpiccjPSl315SqthyDf9j) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Faixa Rosa](https://open.spotify.com/artist/0JrZ7I50iqRoiPc60m8ony) | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/album/3jgOss4rmnFU1b6R8o3iIG) | 1:56 |
 | 8 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |

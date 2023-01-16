@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 24357,
+  "num_followers": 24417,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgzNjg3NCwwMDAwMDAwMDU1NzYzZjQwNjY5MzYxZWVhNTAzY2FkZDJhYzM2NDQ2",
+  "snapshot_id": "MTY3MjgzNjg3NCwwMDAwMDAwMDk5MmY0YzlmZWMzYTEyYTdmYzc5ZGJlMzQxNWE3NzRi",
   "tracks": [
     {
       "added_at": "2023-01-04 12:54:34",
@@ -279,22 +279,18 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
-        "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
+        "name": "Harry James in Hi-Fi",
+        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Weather Bird",
-      "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
+      "duration_ms": 188853,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -315,18 +311,22 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Harry James in Hi-Fi",
-        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
+        "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
+        "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
       },
       "artists": [
         {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 188853,
-      "name": "It's Been A Long, Long Time",
-      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
+      "duration_ms": 161933,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 343533,
+      "name": "Younger Than Springtime",
+      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
         "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
         "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 240000,
       "name": "Mood Indigo - 1990 Remaster",
       "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 343533,
-      "name": "Younger Than Springtime",
-      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
         "name": "Late Night Jazz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 179800,
       "name": "Children's Waltz",
       "url": "https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Hot Lips Page: Feelin' High & Happy",
-        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
-      },
-      "artists": [
-        {
-          "name": "Hot Lips Page",
-          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Blowin up Breeze",
-      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
         "name": "Leosia",
         "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 367093,
       "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
       "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
+        "name": "Hot Lips Page: Feelin' High & Happy",
+        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
+      },
+      "artists": [
+        {
+          "name": "Hot Lips Page",
+          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Blowin up Breeze",
+      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
         "name": "Self Determination Music",
         "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
         "name": "Brecker Plays Rovatti - Sacred Bond",
         "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 632253,
       "name": "The Baggae",
       "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -1687,38 +1687,6 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
-        }
-      ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2023-01-04 12:54:34",
-      "album": {
         "name": "Noir en rouge (Live in Paris)",
         "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
@@ -1735,18 +1703,34 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA"
       },
       "artists": [
         {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
+      "duration_ms": 390400,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Into the Blue",
-        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
         }
       ],
-      "duration_ms": 448386,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Big Brass",
-        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
+        "name": "Into the Blue",
+        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
       "artists": [
         {
-          "name": "Benny Bailey",
-          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 422480,
-      "name": "Tipsy",
-      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
+      "duration_ms": 448386,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1835,6 +1819,22 @@
       "duration_ms": 418642,
       "name": "Sweet Peach Tree",
       "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+    },
+    {
+      "added_at": "2023-01-04 12:54:34",
+      "album": {
+        "name": "Big Brass",
+        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bailey",
+          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
+        }
+      ],
+      "duration_ms": 422480,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
     },
     {
       "added_at": "2023-01-04 12:54:34",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-01-04 12:54:34",
       "album": {
-        "name": "Boogie To Funk - That's The Way I Like It",
-        "url": "https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX"
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
       },
       "artists": [
         {
-          "name": "Bill Coleman",
-          "url": "https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w"
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
         }
       ],
-      "duration_ms": 586680,
-      "name": "Have Blues, Will Play'em",
-      "url": "https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT"
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     }
   ],
   "unique_name": "Jazz Trumpet",

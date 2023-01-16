@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6624516,
+  "num_followers": 6626569,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQ2MCwwMDAwMDAwMGM0YmZiNzU3ZDUxYWNmNTRkNTZlMDlkYzNjZjY1MDE0",
+  "snapshot_id": "MTY3MzU2NDQ2MCwwMDAwMDAwMDY0NDIzZWFmMGQzZjAxMGJjMDU3Mjc3ZDc5NzEwOGU1",
   "tracks": [
     {
       "added_at": "2023-01-12 23:01:00",
@@ -935,30 +935,6 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
-        "name": "Belly Dancer (LUM!X Remix)",
-        "url": "https://open.spotify.com/album/3VJjBWJCl7mqqWkh9U76vR"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 134285,
-      "name": "Belly Dancer - LUM!X Remix",
-      "url": "https://open.spotify.com/track/61eO1GpmNJ7iUVoQZ5JfNO"
-    },
-    {
-      "added_at": "2023-01-12 23:01:00",
-      "album": {
         "name": "WOW (feat. \u00c1SD\u00cdS)",
         "url": "https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q"
       },
@@ -987,6 +963,30 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
+        "name": "Belly Dancer (LUM!X Remix)",
+        "url": "https://open.spotify.com/album/3VJjBWJCl7mqqWkh9U76vR"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 134285,
+      "name": "Belly Dancer - LUM!X Remix",
+      "url": "https://open.spotify.com/track/61eO1GpmNJ7iUVoQZ5JfNO"
+    },
+    {
+      "added_at": "2023-01-12 23:01:00",
+      "album": {
         "name": "From Paris to Berlin (Chrit Leaf Remix)",
         "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
       },
@@ -1003,30 +1003,6 @@
       "duration_ms": 132712,
       "name": "From Paris to Berlin (Chrit Leaf Remix)",
       "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
-    },
-    {
-      "added_at": "2023-01-12 23:01:00",
-      "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2023-01-12 23:01:00",
@@ -1051,6 +1027,30 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
+    },
+    {
+      "added_at": "2023-01-12 23:01:00",
+      "album": {
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2023-01-12 23:01:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
-        "name": "Blow It Up",
-        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Blow It Up",
-      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
-    },
-    {
-      "added_at": "2023-01-12 23:01:00",
-      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2023-01-12 23:01:00",
+      "album": {
+        "name": "Blow It Up",
+        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Blow It Up",
+      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
     },
     {
       "added_at": "2023-01-12 23:01:00",
@@ -1307,26 +1307,22 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [David Guetta Acid Remix]",
-        "url": "https://open.spotify.com/album/54qcVnPoasyXo6U1ncvxFb"
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Unholy (feat. Kim Petras) - David Guetta Acid Remix",
-      "url": "https://open.spotify.com/track/6uZ6M4MAhDQJDmjCcKDdVf"
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
       "added_at": "2023-01-12 23:01:00",
@@ -1351,22 +1347,26 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+        "name": "Unholy (feat. Kim Petras) [David Guetta Acid Remix]",
+        "url": "https://open.spotify.com/album/54qcVnPoasyXo6U1ncvxFb"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+      "duration_ms": 170000,
+      "name": "Unholy (feat. Kim Petras) - David Guetta Acid Remix",
+      "url": "https://open.spotify.com/track/6uZ6M4MAhDQJDmjCcKDdVf"
     },
     {
       "added_at": "2023-01-12 23:01:00",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2023-01-12 23:01:00",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/4OVBXprvurBoljc1yDx9HN"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3P5uUrEfuvGy5i05I9It7M"
+    },
+    {
+      "added_at": "2023-01-12 23:01:00",
+      "album": {
         "name": "Tell Me Secrets",
         "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
-    },
-    {
-      "added_at": "2023-01-12 23:01:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/4OVBXprvurBoljc1yDx9HN"
-      },
-      "artists": [
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3P5uUrEfuvGy5i05I9It7M"
     },
     {
       "added_at": "2023-01-12 23:01:00",

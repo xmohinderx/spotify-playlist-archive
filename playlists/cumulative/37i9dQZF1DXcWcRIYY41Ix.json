@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "A\u00f1ada de lea",
+        "url": "https://open.spotify.com/album/3FyQhJHpCaIcI7FmcPOSy5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185011,
+      "name": "A\u00f1ada de lea",
+      "url": "https://open.spotify.com/track/6XM7pJJhWqpxwgShVMi8ka"
+    },
+    {
+      "album": {
         "name": "A\u00f1oranza Del Amor",
         "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
       },
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 210760,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"

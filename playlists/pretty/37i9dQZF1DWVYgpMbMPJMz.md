@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,756 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,084 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 48 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff) | 4:51 |
 | 49 | [Blessed Hope](https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC) | [Vive Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Blessed Hope](https://open.spotify.com/album/2op3eogwOF5fW5PlpokiNn) | 6:14 |
 | 50 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 |
-| 51 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0i8DDeHnEar6DzJ2rrplhN), [Rozanne Hodgetts](https://open.spotify.com/artist/2xPeC88bL62e6Ef9QTgL8O) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
+| 51 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/2xPeC88bL62e6Ef9QTgL8O) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
 | 52 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 53 | [Wide Eyed Wonder](https://open.spotify.com/track/5o6AL8Zr1szCNnwxfaTFck) | [Bethesda Music](https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Wide Eyed Wonder](https://open.spotify.com/album/3LjcDoFEoeQ8JTPHkXU4Ib) | 7:40 |
 | 54 | [Onipotente / Omnipotent](https://open.spotify.com/track/48tVLdRrcrUmX5lx0G1aAa) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Onipotente / Omnipotent](https://open.spotify.com/album/2obLD6QuA1HKlGdkivRCPJ) | 7:24 |

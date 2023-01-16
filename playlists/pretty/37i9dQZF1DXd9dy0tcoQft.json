@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11975,
+  "num_followers": 11982,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDBkNjFiYjQxOThmODk2OTEzZWEyYzAyZDJjMjc4M2Jk",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDRkYWVhNmVhYTljMzVjY2Y3MzA1ODEyMThkYWZiM2Jj",
   "tracks": [
     {
       "added_at": "2022-12-06 11:40:54",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-12-06 11:40:54",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "added_at": "2022-12-06 11:40:54",
+      "album": {
         "name": "Don't Forget to Look Up",
         "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-12-06 11:40:54",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204592,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
-    },
-    {
-      "added_at": "2022-12-06 11:40:54",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
+    },
+    {
+      "added_at": "2022-12-06 11:40:54",
+      "album": {
+        "name": "Nona",
+        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 167532,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
     },
     {
       "added_at": "2022-12-06 11:40:54",
@@ -447,22 +463,6 @@
       "duration_ms": 289706,
       "name": "OCT 33",
       "url": "https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo"
-    },
-    {
-      "added_at": "2022-12-06 11:40:54",
-      "album": {
-        "name": "Nona",
-        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 167532,
-      "name": "Sleeptalking",
-      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
     },
     {
       "added_at": "2022-12-06 11:40:54",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-06 11:40:54",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
-      "added_at": "2022-12-06 11:40:54",
-      "album": {
         "name": "Summer Moon",
         "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201343,
       "name": "Summer Moon",
       "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
+    },
+    {
+      "added_at": "2022-12-06 11:40:54",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2022-12-06 11:40:54",
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b"
     },
     {
-      "added_at": "2023-01-15 01:44:49",
+      "added_at": "2023-01-16 01:06:23",
       "album": {
         "name": "Sky has open doors",
         "url": "https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU"

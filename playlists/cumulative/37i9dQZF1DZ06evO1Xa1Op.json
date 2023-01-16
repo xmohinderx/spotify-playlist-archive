@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
+    },
+    {
+      "album": {
         "name": "Ali & Toumani",
         "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
       },

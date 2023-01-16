@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,648 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,659 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 28 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
 | 29 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
 | 30 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 |
-| 31 | [Mete Y Saca](https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 5:23 |
+| 31 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
 | 32 | [Dona Amidi](https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 3:42 |
 | 33 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
-| 34 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
+| 34 | [Mete Y Saca](https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 5:23 |
 | 35 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 36 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
 | 37 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 38 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGIwYmRlMTgyNGNhYWE2MDhiM2UxZmEzNzZmNDgyYTk4`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMDE0ZWIyZGVmN2Q1MDMyNTMzN2IxZjkxZTY2ZDE1NzRi`

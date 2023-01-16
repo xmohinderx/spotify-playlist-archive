@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Nicole y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,888 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,886 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 | 23 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
 | 24 | [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 |
-| 25 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
-| 26 | [No Se Quemará](https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [No Se Quemará](https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO) | 2:55 |
+| 25 | [No Se Quemará](https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [No Se Quemará](https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO) | 2:55 |
+| 26 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
 | 27 | [Castillo de Cristal](https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:47 |
 | 28 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
 | 29 | [Luz Verde](https://open.spotify.com/track/1rWh6ao1TlG3LG1t7mqXBw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Luz Verde](https://open.spotify.com/album/4koqdy7p1kCvA5WgYeRTow) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 |
 | 50 | [Si No Vas a Venir](https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Si No Vas a Venir](https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly) | 3:11 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDFhYTU3MzZkNTY1NDA1NjdjODVmMGQ1ZjkxM2QyMjA0`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGQzOThjMmViZWFkYzEzYzAyYTkyOTRmZjI0YWM3N2Jh`

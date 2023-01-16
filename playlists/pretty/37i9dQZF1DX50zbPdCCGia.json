@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 174154,
+  "num_followers": 174388,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMDJjNGM0NDI3NDdjODYzY2RkYjcyYzU2ZTc1OWU2N2U1",
+  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGQ0YTQwMWM4MWMzNTU5Y2RkMzYyNmEzM2Y5MzQyMWNk",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Hollies",
-        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
       "artists": [
         {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
         }
       ],
-      "duration_ms": 257106,
-      "name": "The Air That I Breathe - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
+        "name": "Hollies",
+        "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
       "artists": [
         {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
+      "duration_ms": 257106,
+      "name": "The Air That I Breathe - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -747,6 +747,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -811,22 +827,6 @@
       "duration_ms": 295049,
       "name": "I Can't Tell You Why - 2013 Remaster",
       "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "Lonely People",
-      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
     },
     {
-      "added_at": "2022-01-05 10:28:59",
-      "album": {
-        "name": "Jack Rabbit Slim",
-        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
-      },
-      "artists": [
-        {
-          "name": "Steve Forbert",
-          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
-        }
-      ],
-      "duration_ms": 212471,
-      "name": "Romeo's Tune",
-      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
-    },
-    {
       "added_at": "2021-11-23 12:34:50",
       "album": {
         "name": "The Essentials: Orleans",
@@ -987,6 +971,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+    },
+    {
+      "added_at": "2022-01-05 10:28:59",
+      "album": {
+        "name": "Jack Rabbit Slim",
+        "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
+      },
+      "artists": [
+        {
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+        }
+      ],
+      "duration_ms": 212471,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
     },
     {
       "added_at": "2022-07-05 15:49:37",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
       "added_at": "2021-11-23 12:54:05",
       "album": {
         "name": "New Morning",
@@ -1099,6 +1083,22 @@
       "duration_ms": 186213,
       "name": "The Man in Me",
       "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "And Then There Were Three (2007 Remaster)",
-        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Follow You Follow Me - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 210866,
       "name": "Long As I Can See The Light",
       "url": "https://open.spotify.com/track/4Sk6QA0RoRqZ3Hg9TlAX4X"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "And Then There Were Three (2007 Remaster)",
+        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Follow You Follow Me - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Black And Blue (Remastered 2009)",
         "url": "https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 305400,
       "name": "Fool To Cry - Remastered 2009",
       "url": "https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "Dreamboat Annie",
+      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1355,22 +1371,6 @@
       "duration_ms": 430866,
       "name": "Isn't It A Pity - Remastered 2014",
       "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "Dreamboat Annie",
-      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1453,20 +1453,20 @@
       "url": "https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR"
     },
     {
-      "added_at": "2022-02-08 13:47:19",
+      "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "All Over The World: The Very Best Of ELO",
-        "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
+        "name": "All Things Must Pass (2020 Mix)",
+        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 248800,
-      "name": "Showdown",
-      "url": "https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV"
+      "duration_ms": 226960,
+      "name": "All Things Must Pass - 2020 Mix",
+      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1485,20 +1485,20 @@
       "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-02-08 13:47:19",
       "album": {
-        "name": "All Things Must Pass (2020 Mix)",
-        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
+        "name": "All Over The World: The Very Best Of ELO",
+        "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 226960,
-      "name": "All Things Must Pass - 2020 Mix",
-      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
+      "duration_ms": 248800,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV"
     },
     {
       "added_at": "2022-07-05 15:51:51",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 257839,
-      "name": "He Ain't Heavy, He's My Brother",
-      "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 198826,
       "name": "I Don't Like To Sleep Alone",
       "url": "https://open.spotify.com/track/0kgjL2oRFsV6GSwVNCcQS6"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 257839,
+      "name": "He Ain't Heavy, He's My Brother",
+      "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 265221,
-      "name": "This Time I'm In It For Love",
-      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 298280,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "duration_ms": 265221,
+      "name": "This Time I'm In It For Love",
+      "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
       "added_at": "2021-12-21 06:05:15",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "In The Land Of Grey And Pink",
-        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
-      },
-      "artists": [
-        {
-          "name": "Caravan",
-          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
-        }
-      ],
-      "duration_ms": 298840,
-      "name": "In The Land Of Grey & Pink",
-      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Back on the Streets",
         "url": "https://open.spotify.com/album/072GbOHxm1ynSabmipURTS"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 200907,
       "name": "Parisienne Walkways",
       "url": "https://open.spotify.com/track/60Kyw7i4M7E2WAlFozsOsR"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "In The Land Of Grey And Pink",
+        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
+      },
+      "artists": [
+        {
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+        }
+      ],
+      "duration_ms": 298840,
+      "name": "In The Land Of Grey & Pink",
+      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
     },
     {
       "added_at": "2021-11-23 12:34:50",

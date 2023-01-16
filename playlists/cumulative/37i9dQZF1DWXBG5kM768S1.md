@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-194 songs - 12 hr 25 min
+195 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Brenner overalt](https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Brenner overalt](https://open.spotify.com/album/2tvHKfP5GG5mpPwaNhvM0D) | 4:04 | 2021-12-16 | 2022-06-10 |
 | [Bror](https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Bror](https://open.spotify.com/album/3Md4sOQ6TuqSouOgzIqcVP) | 3:13 | 2021-12-16 | 2022-07-29 |
 | [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 | 2022-10-06 |  |
+| [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 |  |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
 | [Crescendo i Gågata](https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Crescendo i Gågata](https://open.spotify.com/album/2HaKiwfbSwXrh7PNISjHuN) | 2:41 | 2021-12-16 | 2022-07-22 |
@@ -178,7 +179,7 @@
 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 | 2021-12-16 |  |
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
-| [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 |  |
+| [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-01-16 |
 | [Trenger deg](https://open.spotify.com/track/5W8zfT3Y2KushWkYemWKvt) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få når vi er vektløse](https://open.spotify.com/album/3w3etFROeWCKBeeBIN229z) | 4:13 | 2022-02-17 | 2022-04-21 |
 | [Trondheimsnatt](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 | 2021-12-16 | 2022-09-15 |
 | [Tru](https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Tru](https://open.spotify.com/album/24bEVRFOtWz8JgNQD07PWM) | 4:11 | 2021-12-16 | 2022-07-24 |

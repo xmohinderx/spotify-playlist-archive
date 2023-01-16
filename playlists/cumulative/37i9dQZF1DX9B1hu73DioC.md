@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-568 songs - 1 day 10 hr 40 min
+569 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2021-05-04 | 2022-04-16 |
 | [Gonna Be](https://open.spotify.com/track/0RaSHv2oNQAVYjpPpejdTN) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI), [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [Son](https://open.spotify.com/album/2jotDXhKd5px6kOEaxPUcK) | 4:11 | 2021-11-19 | 2022-07-29 |
 | [good connection](https://open.spotify.com/track/6SdjacnbT4YCCTSZ4kZM23) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [good connection](https://open.spotify.com/album/055Lz66jZK65hYlxnyWSfF) | 2:35 | 2021-06-04 | 2022-04-02 |
+| [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-11 |  |
 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2022-08-05 |  |
 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 | 2022-05-31 | 2022-06-01 |
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-10-07 |  |
@@ -309,7 +310,7 @@
 | [Let Me Go](https://open.spotify.com/track/7gtcmIbtBudjc0v90tPfLG) | [Prinzhorn Dance School](https://open.spotify.com/artist/1pUMwXCq7PqAbwLGpQ5UCV) | [Home Economics](https://open.spotify.com/album/4YGX1VRkZpHyxdLdD5blx0) | 3:39 | 2020-12-08 | 2021-05-26 |
 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 | 2022-03-07 | 2022-07-29 |
 | [Little by Little](https://open.spotify.com/track/4kVGV71oxRjr1pgAgbZwRd) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Little by Little](https://open.spotify.com/album/4VwxXvie3oXV5EfxC8nG4t) | 2:58 | 2021-06-25 | 2022-04-18 |
-| [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2023-01-11 |  |
+| [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2023-01-11 | 2023-01-16 |
 | [lived to love](https://open.spotify.com/track/2wYk8l9bM82JB6DiHSvjhX) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/7CRLVLjGplbDfqJqTpOZ07) | 4:15 | 2022-06-01 | 2022-07-27 |
 | [Lonely World](https://open.spotify.com/track/09QhnWSBwKLFAz2JLhBEBO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Lamentations](https://open.spotify.com/album/74lLHniRnIof3U5otJMGYo) | 4:47 | 2020-10-16 | 2022-04-18 |
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-06-01 | 2022-07-25 |

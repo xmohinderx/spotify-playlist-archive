@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Benny Sings.
 
-541 songs - 1 day 5 hr 55 min
+542 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-01-14 | 2022-04-23 |
 | [Jealousy](https://open.spotify.com/track/3QeqCdw8QPdv8QJhhdCTZ7) | [Radio Trapani](https://open.spotify.com/artist/7rguH32iXoZLRbryffdX0Z), [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Jealousy](https://open.spotify.com/album/3kVYdZofabSeafz8n9kIKi) | 4:03 | 2022-03-11 | 2022-05-31 |
 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 | 2022-09-23 | 2022-10-13 |
-| [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 | 2022-10-07 |  |
+| [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 | 2023-01-13 |  |
+| [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 | 2022-10-07 | 2023-01-16 |
 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 | 2022-09-09 | 2022-11-12 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-05-11 | 2022-06-11 |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2022-01-14 | 2022-02-15 |

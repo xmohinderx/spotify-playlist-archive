@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/4CtzJMnMngbZaje4tDnh9l"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129113,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/1cTBFPIJNSK17JMXoKqVpo"
+    },
+    {
+      "album": {
         "name": "Adu",
         "url": "https://open.spotify.com/album/5wqZksUCwHNWIGpbP7fiTw"
       },
@@ -18272,7 +18290,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 123400,
       "name": "Finally Found U",
       "url": "https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM"
@@ -43130,7 +43148,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 160961,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/4Tr3RgG7XrLgbfXKUMJQP5"
@@ -65986,7 +66004,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 115955,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l"

@@ -2,7 +2,7 @@
 
 ### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
-> \#ootd
+> drip down
 
 336 songs - 18 hr 26 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,966 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,000 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 88 | [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 |
 | 89 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 90 | [All I Ever Do](https://open.spotify.com/track/4RnQ88qJ1p0PfkwIz35MlU) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [All I Ever Do](https://open.spotify.com/album/0UWG5NcstilTTvd3AD7QeM) | 3:03 |
-| 91 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 |
+| 91 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 |
 | 92 | [Generation Blues](https://open.spotify.com/track/492j910IaKI0oMeZIbvxpa) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Generation Blues](https://open.spotify.com/album/7nHTE11frwHTdD2D8oJIrO) | 2:57 |
 | 93 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 |
 | 94 | [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 |
 | 100 | [Further Away \- Acoustic](https://open.spotify.com/track/11nyQyvVojrSOutyVtaNF3) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5602llJ8wtfS1YSbwSNraO) | [Further Away \(Acoustic\)](https://open.spotify.com/album/51KArM9lLuMna0nFzWz2Wy) | 3:56 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDE1NmE5Y2Q5ZTVjMDQxMTk5OTVhOTllNGY3YzA1NmEy`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGU4NmRkM2NhYWNlNTU3ZTIzMjFlNzU2ZWI3YTcwM2Zm`

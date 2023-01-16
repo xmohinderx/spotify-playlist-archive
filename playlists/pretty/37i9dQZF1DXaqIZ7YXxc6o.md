@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Jauz, Zeds Dead & Nicole Millar
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,918 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,928 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 62 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 |
 | 63 | [In Change](https://open.spotify.com/track/3BLTm4yaNZvmEFpqn59hbx) | [Boy Oh Boy](https://open.spotify.com/artist/4mAlKb79YdEdMTzBphOzUm), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [In Change](https://open.spotify.com/album/7kWS7kDKZ0b5o9GEeCrdwL) | 7:31 |
 | 64 | [The Saz](https://open.spotify.com/track/5KcWeyya9sPDxBlofOOVJM) | [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [The Saz](https://open.spotify.com/album/05Rv92PR1D7WbMjolPq3RK) | 2:43 |
-| 65 | [Give It To Me \- Remix](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 2:51 |
+| 65 | [Give It To Me \(Party Party\) \- Remix](https://open.spotify.com/track/17B3JX4cJdnY0jEkZPjNMO) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Party Party\) \(Remix\)](https://open.spotify.com/album/0FRow91LCygMthx8yIEBVf) | 2:51 |
 | 66 | [On The Go](https://open.spotify.com/track/7Iq1yyZbC6Mb3lA61Tb7Zy) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [On The Go](https://open.spotify.com/album/6I0xQCGjNeP3rf2gmDvMCj) | 2:13 |
 | 67 | [Listening, Being](https://open.spotify.com/track/4EhN9byag0NLD7dQwDKVdM) | [Aerolite](https://open.spotify.com/artist/1Pby7UFpfDJSuTu7RqnSeZ) | [Listening, Being](https://open.spotify.com/album/6qcCmWCkmW6sPfZaWKxsb3) | 5:08 |
 | 68 | [Choir To The Wild](https://open.spotify.com/track/1Roz7FfvXU50hWjdjEPvDo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Choir To The Wild](https://open.spotify.com/album/5zMfAruiLEHVRTctUnFiGu) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Body Breathe](https://open.spotify.com/track/7fYrNMgODWzlFAa18kYWtY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Body Breathe](https://open.spotify.com/album/4GIEyRGFd3rDKRc696fsbA) | 4:20 |
 | 100 | [Disco Treats](https://open.spotify.com/track/4ADUECqx9JpXNDlXNjDffF) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Disco Treats](https://open.spotify.com/album/5ZhoyjkDSHATbZ98mESbuy) | 2:48 |
 
-Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMGQzNmVhNzM0OTJkZGY1MDRkZjZkODQzMjgwNGE2OWYx`
+Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMDMxNWVkOGFmY2I3NTkxMDU3NjhiNTA0OWQ2NWU5YzQz`

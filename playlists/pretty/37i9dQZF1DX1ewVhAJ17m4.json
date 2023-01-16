@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
-  "num_followers": 540401,
+  "num_followers": 540568,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODAwMCwwMDAwMDAwMDQ2OTRhMjc0ZTIzNWIwOGZkOTNjMmE0OGI4MzA4Njc2",
+  "snapshot_id": "MTY3MzU2ODAwMCwwMDAwMDAwMGU2NWFlMDQ3ZDE2NmE0ZTI3ZmRlZDE4NmJkMDQyYjFi",
   "tracks": [
     {
       "added_at": "2023-01-13 00:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Wishing You Hell",
-        "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 194892,
-      "name": "Wishing You Hell",
-      "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+        "name": "Wishing You Hell",
+        "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+      "duration_ms": 194892,
+      "name": "Wishing You Hell",
+      "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "When We Were Young",
-        "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        },
-        {
-          "name": "Derek Sanders",
-          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Seeing Red",
         "url": "https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        },
+        {
+          "name": "Derek Sanders",
+          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "If You Have My Voodoo Doll, Give Me a Hug",
         "url": "https://open.spotify.com/album/2LrqwyeMfmptOAaqCM6JLs"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 186869,
       "name": "If You Have My Voodoo Doll, Give Me a Hug",
       "url": "https://open.spotify.com/track/2I2fsIg0aSPmstuuaBcEIW"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 162166,
-      "name": "Deadbeat",
-      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "A Session With My Therapist",
-        "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
       },
       "artists": [
         {
-          "name": "Aryia",
-          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
         }
       ],
-      "duration_ms": 199666,
-      "name": "A Session With My Therapist",
-      "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
+      "duration_ms": 162166,
+      "name": "Deadbeat",
+      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+        "name": "A Session With My Therapist",
+        "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
       },
       "artists": [
         {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
         }
       ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+      "duration_ms": 199666,
+      "name": "A Session With My Therapist",
+      "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -991,8 +975,24 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 185070,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "The King and Queen of Gasoline",
-      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
     },
     {
       "added_at": "2023-01-13 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,379 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,396 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 12 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
 | 13 | [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 |
 | 14 | [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 |
-| 15 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 |
+| 15 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 |
 | 16 | [Say What You Like](https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/6ondmI9JnDrxgTA3lIxkgD) | 2:47 |
 | 17 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 18 | [Empty Hands](https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Empty Hands](https://open.spotify.com/album/6z88uxD3m9LV5nEpsJATG3) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 |
 | 100 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDYzNWJhMGE0ODA3Mjg5MzcwNDNhYmY1N2JjOWM0YmVl`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDIwYTYzY2YwZTlmOWM1MGJlNTM3NjFmYTRhMjk4OTY1`

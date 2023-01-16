@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-298 songs - 18 hr 2 min
+299 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Pseudo Love](https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Pseudo Love](https://open.spotify.com/album/4w5OSMGUJ2HWoOiwtIsjpJ) | 3:04 | 2022-07-08 | 2022-08-30 |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 |  |
 | [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 | 2022-11-27 |
+| [Reach Across the Sky \- Crystal Skies Remix](https://open.spotify.com/track/5xWYXEcB7FUX9IW7wMRG0h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Reach Across the Sky \(Crystal Skies Remix\)](https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h) | 4:03 | 2023-01-16 |  |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 |  |
 | [Remedy](https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Remedy](https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA) | 3:34 | 2022-11-28 |  |
 | [Remember](https://open.spotify.com/track/3kouAggxGgCP6xqAsztwrA) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Remember](https://open.spotify.com/album/6hbHTPEuTXHAq4eozGLw9y) | 3:07 | 2022-07-08 | 2022-10-01 |
@@ -246,7 +247,7 @@
 | [Souvenir](https://open.spotify.com/track/63ZVznFlskQ476pRXraojW) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [Souvenir](https://open.spotify.com/album/1026SyCwCyd15SR93J2TRH) | 3:17 | 2022-07-08 | 2022-08-06 |
 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2022-07-08 |  |
 | [Starbright \(Elephante Remix\)](https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Between Broken \(Remixes\)](https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH) | 3:42 | 2022-07-22 |  |
-| [Stardust](https://open.spotify.com/track/7hgNuPmytIlYF8B6Pp4kne) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [Gioto](https://open.spotify.com/artist/5sUTiAe2pOOMHWPrN5uhd5) | [Stardust](https://open.spotify.com/album/0nPqRvqyHW0l0c6kWxTVcQ) | 3:25 | 2022-07-08 |  |
+| [Stardust](https://open.spotify.com/track/7hgNuPmytIlYF8B6Pp4kne) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [Gioto](https://open.spotify.com/artist/5sUTiAe2pOOMHWPrN5uhd5) | [Stardust](https://open.spotify.com/album/0nPqRvqyHW0l0c6kWxTVcQ) | 3:25 | 2022-07-08 | 2023-01-16 |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-05 |  |
 | [Stars Belong With You](https://open.spotify.com/track/2shiTxgdnUwSxvIPil0BZA) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6) | 5:02 | 2022-07-08 |  |
 | [Stars Like You](https://open.spotify.com/track/6AGnI7YEUSfkSkzGqb525V) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Pleiades](https://open.spotify.com/album/5OJHMhwLs2UCia2h9l82fT) | 3:11 | 2022-08-12 | 2022-10-07 |

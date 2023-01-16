@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Royel Otis.",
-  "num_followers": 840276,
+  "num_followers": 840337,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxNTAxNSwwMDAwMDAwMDgxNmJlYjA0ZmU4MzM1Y2FkYTc4MGM4MTY2ZmU4ZTA5",
+  "snapshot_id": "MTY3MzYxNTAxNSwwMDAwMDAwMGQ3YzVkNzFmMzdiNWI1NTUzZjQwNzNjODMyYWI2NzFi",
   "tracks": [
     {
       "added_at": "2022-12-14 15:18:49",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
-      "added_at": "2022-12-14 15:21:35",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Simulation Swarm",
-      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
-    },
-    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "The Mannequin Song",
@@ -287,6 +271,22 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "added_at": "2022-12-14 15:21:35",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Simulation Swarm",
+      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -621,6 +621,26 @@
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Lots of Nothing (feat. BENEE)",
+        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 193836,
+      "name": "Lots of Nothing (feat. BENEE)",
+      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "cough drops",
@@ -653,26 +673,6 @@
       "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Lots of Nothing (feat. BENEE)",
-        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 193836,
-      "name": "Lots of Nothing (feat. BENEE)",
-      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
       "added_at": "2022-12-14 15:18:49",
       "album": {
         "name": "Oregon / Harvard",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2022-12-14 15:18:49",
-      "album": {
         "name": "Eyez",
         "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+    },
+    {
+      "added_at": "2022-12-14 15:18:49",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
     },
     {
       "added_at": "2022-12-14 15:18:49",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-12-14 15:18:49",
       "album": {
-        "name": "sos",
-        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 149627,
-      "name": "sos",
-      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     }
   ],
   "unique_name": "Today's Indie Rock",

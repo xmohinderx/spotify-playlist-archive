@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3090,
+  "num_followers": 3091,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGZjY2JiN2M3YmExNjkxNTkyNTRlMjZhYWQ5YWJhNWEw",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDc3Y2YzZDIyOWVhODQ2OTZkZjI0ZGQyMDE1OGM3Yjli",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -63,6 +63,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Oh Baby!",
+        "url": "https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry"
+      },
+      "artists": [
+        {
+          "name": "Ralph Sutton",
+          "url": "https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Cataract Rag",
+      "url": "https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "World's Greatest Piano Rags",
         "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 122760,
       "name": "Pastime Rag No. 4",
       "url": "https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Oh Baby!",
-        "url": "https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry"
-      },
-      "artists": [
-        {
-          "name": "Ralph Sutton",
-          "url": "https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Cataract Rag",
-      "url": "https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -263,22 +263,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
-        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
-      },
-      "artists": [
-        {
-          "name": "Martin Spitznagel",
-          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Easy Winners",
-      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+      },
+      "artists": [
+        {
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Ragtime Revival",
         "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
       },
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ragtime Oriole",
-      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -363,18 +363,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime",
-        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
+        "name": "100 Years of Ragtime",
+        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
       },
       "artists": [
         {
-          "name": "William Ogmundson",
-          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Ragtime Nightingale",
-      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
+      "duration_ms": 209247,
+      "name": "American Beauty Rag",
+      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -395,18 +395,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Classic Rags Piano Solos, Vol. 4",
-        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+        "name": "Ragtime",
+        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
       },
       "artists": [
         {
-          "name": "Leslie Bridges",
-          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
+          "name": "William Ogmundson",
+          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
         }
       ],
-      "duration_ms": 165382,
-      "name": "Paramount Rag",
-      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
+      "duration_ms": 215133,
+      "name": "Ragtime Nightingale",
+      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "100 Years of Ragtime",
-        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
       },
       "artists": [
         {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
         }
       ],
-      "duration_ms": 209247,
-      "name": "American Beauty Rag",
-      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -515,34 +515,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Christmas Eve 1915",
-        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
+        "name": "Hilarity",
+        "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
       },
       "artists": [
         {
-          "name": "Bill Edwards",
-          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
+          "name": "Jazzou Jones",
+          "url": "https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Reindeer Rag",
-      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
-      },
-      "artists": [
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+      "duration_ms": 203360,
+      "name": "Patricia Rag",
+      "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -563,18 +547,34 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Hilarity",
-        "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
+        "name": "Christmas Eve 1915",
+        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
       "artists": [
         {
-          "name": "Jazzou Jones",
-          "url": "https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv"
+          "name": "Bill Edwards",
+          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
         }
       ],
-      "duration_ms": 203360,
-      "name": "Patricia Rag",
-      "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+      "duration_ms": 198173,
+      "name": "Reindeer Rag",
+      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "The St Louis Rag",
+        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Champagne Rag",
+      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -595,18 +595,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Magnetic Rag",
-        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
       },
       "artists": [
         {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         }
       ],
-      "duration_ms": 164568,
-      "name": "Operatic Rag",
-      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -707,8 +707,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The St Louis Rag",
-        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Champagne Rag",
-      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
     },
     {
       "added_at": "2020-08-19 17:18:36",

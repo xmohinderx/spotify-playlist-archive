@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 24529,
+  "num_followers": 24542,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDYzMDY5NWI1NmZlZDg1OTMxN2MyZDI5NDdlNzFiYWI0",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGRlZDRmOWY2YTZhNmY1NWYzMjY4MWRhMzM5MzUyZDgz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rivers Of The Red Planet",
-        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 67943,
-      "name": "Jazz 104",
-      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Rivers Of The Red Planet",
+        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 67943,
+      "name": "Jazz 104",
+      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Clockwork Visit",
-        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
       "artists": [
         {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
         }
       ],
-      "duration_ms": 224500,
-      "name": "A Place With A View - Edit",
-      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+        "name": "Clockwork Visit",
+        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
       },
       "artists": [
         {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
+      "duration_ms": 224500,
+      "name": "A Place With A View - Edit",
+      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
     },
     {
       "added_at": "2021-10-08 17:36:35",

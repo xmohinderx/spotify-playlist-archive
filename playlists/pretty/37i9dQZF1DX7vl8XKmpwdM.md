@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,686 likes - 64 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,011 likes - 64 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

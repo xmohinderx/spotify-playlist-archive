@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-916 songs - 2 day 2 hr 15 min
+917 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 | 2021-01-05 | 2022-01-29 |
 | [MADDEN](https://open.spotify.com/track/23ro6yWOHfHq698h293P1J) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:46 | 2020-09-21\* | 2021-01-23 |
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2021-03-26 | 2021-09-18 |
+| [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 | 2023-01-13 |  |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-12-03 | 2022-05-07 |
 | [Marathon](https://open.spotify.com/track/56sttf1cQD6RxF8EeltlBp) | [Kindrid](https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u) | [Singularity](https://open.spotify.com/album/0t6kU6Etl5eZVKGBI5Nu74) | 8:00 | 2020-09-21\* | 2020-10-10 |
 | [Marching Powder](https://open.spotify.com/track/1jiucsZug1hBvmO9BH0w6I) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Wear Black](https://open.spotify.com/album/01w6Qv0SDpggUwMjhctj2Y) | 4:39 | 2020-09-21\* | 2020-10-10 |
@@ -514,7 +515,7 @@
 | [Nitro](https://open.spotify.com/track/05xlFyESvlFXc07seiAZRq) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Ultraviolet 2.0](https://open.spotify.com/album/1FG4OXAH0WdMZA7SUAO6pW) | 4:20 | 2020-09-21\* | 2020-10-10 |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-21 | 2022-05-21 |
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-04 | 2022-05-07 |
-| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 |  |
+| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 | 2023-01-16 |
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-07-26 |
 | [No Regrets \- Stadiumx Remix](https://open.spotify.com/track/66WBGs8bPw8q93EG4h1s4p) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [No Regrets \(Stadiumx Remix\)](https://open.spotify.com/album/05lostOSOgm4r0Es9PMIS0) | 3:09 | 2021-03-11 | 2021-07-24 |
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2022-05-06 |  |

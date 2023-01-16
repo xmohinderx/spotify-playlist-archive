@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 185912,
+  "num_followers": 186002,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5MzAyNSwwMDAwMDAwMGM3ZjYyZjcwZGE0YjY3ZDE4MWUwMmMyOGVjNGRhMTNl",
+  "snapshot_id": "MTY2OTM5MzAyNSwwMDAwMDAwMDI2YTcwZDgyZjZiMmQ4NGFkNWRiOGE2ZjU0YzNiZjMw",
   "tracks": [
     {
       "added_at": "2022-10-28 16:25:08",
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc"
     },
     {
-      "added_at": "2023-01-15 01:14:54",
+      "added_at": "2023-01-16 01:10:54",
       "album": {
         "name": "Jurgen Kropper (feat. Local)",
         "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
@@ -651,25 +651,21 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U"
       },
       "artists": [
         {
-          "name": "Corrupt (UK)",
-          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
-        },
-        {
-          "name": "GAWP",
-          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 181418,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3"
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
     },
     {
-      "added_at": "2023-01-15 01:14:54",
+      "added_at": "2023-01-16 01:10:54",
       "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
@@ -691,18 +687,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm"
       },
       "artists": [
         {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        },
+        {
+          "name": "GAWP",
+          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
+      "duration_ms": 181418,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
-      },
-      "artists": [
-        {
-          "name": "Dom Scanlon",
-          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/4JvQ6sH4NsLqABE1qG6dy6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
+      },
+      "artists": [
+        {
+          "name": "Dom Scanlon",
+          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1135,6 +1135,26 @@
       "duration_ms": 221024,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1199,26 +1219,6 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Hard Hitters",
-        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 232602,
-      "name": "Hard Hitters",
-      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Amazon Prime",
+        "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
+      },
+      "artists": [
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "1st Born",
+          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "Amazon Prime",
+      "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1255,26 +1275,6 @@
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Amazon Prime",
-        "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
-      },
-      "artists": [
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "1st Born",
-          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "Amazon Prime",
-      "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc"
     },
     {
-      "added_at": "2023-01-15 01:14:54",
+      "added_at": "2023-01-16 01:10:54",
       "album": {
         "name": "No Clip",
         "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"

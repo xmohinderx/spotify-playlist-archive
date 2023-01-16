@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-346 songs - 19 hr 28 min
+347 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 |  |
 | [Goodtime Girl](https://open.spotify.com/track/6UJjG07pInpl76t5sfbuoZ) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Goodtime Girl](https://open.spotify.com/album/6Ibu14uF72Paww9euwpsT3) | 4:10 | 2021-06-21 | 2022-08-19 |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-08-18 | 2022-10-13 |
-| [Gr8 Timing!](https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 2:37 | 2022-10-06 |  |
+| [Gr8 Timing!](https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 2:37 | 2022-10-06 | 2023-01-16 |
 | [Grow into a Ghost](https://open.spotify.com/track/18ZeOzEzTE49j59dOH84be) | [Swearin'](https://open.spotify.com/artist/5Hd2TLBA44nP3ftPAC1ZlZ) | [Grow into a Ghost](https://open.spotify.com/album/42k191qsTvybl6NsvE9lYa) | 3:11 | 2021-03-09 | 2022-01-17 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-04 | 2022-07-29 |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-04-01 | 2022-08-19 |
@@ -198,6 +198,7 @@
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-14 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 |  |
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
+| [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 |  |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
 | [Late Teens](https://open.spotify.com/track/376W9y1HicyWrGiHInYdzZ) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Late Teens](https://open.spotify.com/album/7bwleaGVTYLtJagViscDrC) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-08-18 | 2022-10-07 |

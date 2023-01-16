@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 46562,
+  "num_followers": 46606,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGM2MGM5MDQxMDI2OTQ2MjA1NDhmNmE2ZTE2Yzk5MWFm",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDM3MDkyN2FmMGNkMzc5ZGQ3NjZiZGZkNzhmNzhmMGI5",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -887,26 +887,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Excitement",
-        "url": "https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283270,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Excitement",
+        "url": "https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 283270,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Los Dioses",
-      "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
         "url": "https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 142857,
       "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
       "url": "https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Los Dioses",
+      "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
     },
     {
       "added_at": "2021-11-12 16:22:17",

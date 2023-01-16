@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 376841,
+  "num_followers": 377004,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMGVjMTAxMWRmZTJjMWE4MmU0YWZmOWZhOWU3ODQ3MzM2",
+  "snapshot_id": "MTY3MTc2NDQ2MCwwMDAwMDAwMDJiMmRlNzRkN2U4MjFhNGYwOGQyNzI3MmNhN2QzOTEy",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -423,34 +423,18 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "RQntz",
-          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
-        },
-        {
-          "name": "Lowsince",
-          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 176239,
-      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
-      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -495,18 +479,34 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+        "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "RQntz",
+          "url": "https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO"
+        },
+        {
+          "name": "Lowsince",
+          "url": "https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 176239,
+      "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
+      "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 215104,
       "name": "Tempos Modernos",
       "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "Melhores Bailes Do Mundo",
         "url": "https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 121904,
       "name": "Melhores Bailes Do Mundo",
       "url": "https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
-      },
-      "artists": [
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+        }
+      ],
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
         "name": "I Do (with Zeeba)",
         "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
-      },
-      "artists": [
-        {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 192000,
       "name": "Z\u00e9 do caro\u00e7o",
       "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
+      },
+      "artists": [
+        {
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2022-12-23 03:01:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Take You Dancing (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/3bWegmQDm4N1Mvbc2DYWYq"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Take You Dancing - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
@@ -1527,30 +1507,46 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Pa\u00eds do Futebol (No Flow)",
-        "url": "https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF"
+        "name": "Take You Dancing (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/3bWegmQDm4N1Mvbc2DYWYq"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 173986,
-      "name": "Pa\u00eds do Futebol (No Flow)",
-      "url": "https://open.spotify.com/track/115EFwguc4backKEA1WVWT"
+      "duration_ms": 152400,
+      "name": "Take You Dancing - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     }
   ],
   "unique_name": "Festa na Praia",

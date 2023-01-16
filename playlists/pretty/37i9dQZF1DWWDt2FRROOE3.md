@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,896 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,899 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 3 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 |
 | 4 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 |
 | 5 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 |
-| 6 | [Crazy Train](https://open.spotify.com/track/4GIhMr21KbdGGBlN9VBj1Y) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:32 |
+| 6 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 |
 | 7 | [Viva La Vida](https://open.spotify.com/track/4hI8sKg524kUczaWwFYp9r) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:06 |
 | 8 | [Tequila](https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 3:18 |
-| 9 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 |
+| 9 | [Crazy Train](https://open.spotify.com/track/4GIhMr21KbdGGBlN9VBj1Y) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:32 |
 | 10 | [Rock and Roll All Nite](https://open.spotify.com/track/5IfLw9fO0JnoPdXMSlP1yH) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 4:52 |
-| 11 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
+| 11 | [Sewer Surfin' \(from "TMNT IV: Turtles In Time"\)](https://open.spotify.com/track/1o83GhlzSOxQM8nakZLjJC) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:48 |
 | 12 | [Killer Queen \- Instrumental](https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 3:55 |
 | 13 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 |
 | 14 | [Somebody That I Used To Know](https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 4:41 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 16 | [Despacito](https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:23 |
 | 17 | [We Will Rock You \- Instrumental](https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 1:57 |
 | 18 | [Man in the Box](https://open.spotify.com/track/5zrZCsmEfd6wJrgGk80nWj) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:22 |
-| 19 | [Sewer Surfin' \(from "TMNT IV: Turtles In Time"\)](https://open.spotify.com/track/1o83GhlzSOxQM8nakZLjJC) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:48 |
+| 19 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
 | 20 | [Surfin' U.S.A.](https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ) | [Mariachi La Playa](https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP) | [Surfin' U.S.A.](https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9) | 2:17 |
 | 21 | [September](https://open.spotify.com/track/4kHqWbGY8490TnJXenkw2u) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:40 |
 | 22 | [Close to Me](https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 3:34 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 43 | [Dr\. Wily \- Stage 1 \(from "Mega Man 2"\)](https://open.spotify.com/track/65b6IuBQGi1g3D9bxrlNe9) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:00 |
 | 44 | [Don't Look Back in Anger](https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:28 |
 | 45 | [Livin' On a Prayer](https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:55 |
-| 46 | [The Final Countdown](https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:18 |
-| 47 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
+| 46 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
+| 47 | [The Final Countdown](https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:18 |
 | 48 | [Don't Stop Me Now](https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 |
 | 49 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 |
 | 50 | [Firework](https://open.spotify.com/track/6HFlSRjB6k4uOU1tNJ2Wc9) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:51 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMGU1ZmE1NjQwOWFmNjliMzljNzA3ZTYzMzYzNjk3NWIy`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDVlNTM1NGUwNmFlMmUyYWUzODAzZDU3NjI5OWM5NmJj`

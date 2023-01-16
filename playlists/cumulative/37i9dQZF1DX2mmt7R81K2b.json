@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Impressions On Chopin's Nocturnes",
+        "url": "https://open.spotify.com/album/6NMAG8fSNPjlWjcuwEJj46"
+      },
+      "artists": [
+        {
+          "name": "Jacques Loussier",
+          "url": "https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "Nocturne No. 20 In C-Sharp Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE"
+    },
+    {
+      "album": {
         "name": "Beyond Bach, Other Composers I Adore",
         "url": "https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 116743,
       "name": "Nocturne No. 20 In C-Sharp Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE"

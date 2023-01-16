@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 860463,
+  "num_followers": 860413,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDgxZDJlNzMxZDUzN2FmNzFmYzRhZDI2ZWU4YWU5ODBh",
+  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDllZWRlMGYwMDcwYTBjZTcwNzMxYWY3NjA5NDgxMGIz",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
-      "added_at": "2023-01-15 00:20:20",
+      "added_at": "2023-01-16 00:50:10",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
-      "added_at": "2023-01-15 00:20:20",
+      "added_at": "2023-01-16 00:50:10",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "OTP",
-        "url": "https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY"
-      },
-      "artists": [
-        {
-          "name": "aisu",
-          "url": "https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er"
-        }
-      ],
-      "duration_ms": 137571,
-      "name": "OTP",
-      "url": "https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Samba Di Kota",
         "url": "https://open.spotify.com/album/7plglO6ToXm07DcGE6IW6k"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Limits",
-        "url": "https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B"
+        "name": "OTP",
+        "url": "https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY"
       },
       "artists": [
         {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+          "name": "aisu",
+          "url": "https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er"
         }
       ],
-      "duration_ms": 252955,
-      "name": "Limits",
-      "url": "https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4"
+      "duration_ms": 137571,
+      "name": "OTP",
+      "url": "https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 165081,
       "name": "Mama, Dolly, Jesus",
       "url": "https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 252955,
+      "name": "Limits",
+      "url": "https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4"
     },
     {
       "added_at": "2023-01-04 05:00:00",

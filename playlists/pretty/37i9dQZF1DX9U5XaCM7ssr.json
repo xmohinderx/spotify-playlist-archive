@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 922246,
+  "num_followers": 923051,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI1MTA2NiwwMDAwMDAwMDQ0NjllOTk1N2ZhY2VlY2YxMjQ5YmU2MzA3ZGIyZTkz",
+  "snapshot_id": "MTY3MzI1MTA2NiwwMDAwMDAwMGU4ZTdkODBhOWRkZTI2YWFkYjM3N2FiMTM0NGY1NDI3",
   "tracks": [
     {
       "added_at": "2023-01-09 07:57:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-09 07:57:46",
       "album": {
-        "name": "Sheila On 7",
-        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "Dan...",
-      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
-    },
-    {
-      "added_at": "2023-01-09 07:57:46",
-      "album": {
         "name": "Orang Yang Sama",
         "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 268534,
       "name": "Orang Yang Sama",
       "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
+    },
+    {
+      "added_at": "2023-01-09 07:57:46",
+      "album": {
+        "name": "Sheila On 7",
+        "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "Dan...",
+      "url": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS"
     },
     {
       "added_at": "2023-01-09 07:57:46",

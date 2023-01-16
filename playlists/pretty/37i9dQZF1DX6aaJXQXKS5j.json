@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 6768,
+  "num_followers": 6832,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMDM1NTk5ZDYxODI3YTUxNmY5OWM0MjEwODBkOTdmNzFk",
+  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMGY5YWJkM2JhMTE1N2ExYjViODRlYzQxYzgzMTJlYjZk",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -548,13 +548,17 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 227939,
-      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
-      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -568,17 +572,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 240253,
-      "name": "Hablamos Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+      "duration_ms": 227939,
+      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
+      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "\u00bfQuien Tu Eres?",
+      "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 190207,
       "name": "Puesto Pa' Guerrial",
       "url": "https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "\u00bfQuien Tu Eres?",
-      "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
     },
     {
       "added_at": "2022-11-30 13:46:00",

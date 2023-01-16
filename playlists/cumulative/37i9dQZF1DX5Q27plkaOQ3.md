@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-289 songs - 16 hr 36 min
+290 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BACKSTAGE](https://open.spotify.com/track/14Ej4RnUsCPFyTxyTBiVmz) | [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d) | [BACKSTAGE](https://open.spotify.com/album/0dmcbJT11xpcu8Ditmc22F) | 3:15 | 2022-01-07 | 2022-07-29 |
 | [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-10 |  |
 | [Bakin'](https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [YKES](https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op), [Peytn](https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov) | [Bakin'](https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9) | 2:56 | 2021-12-17 | 2022-07-28 |
+| [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 | 2023-01-13 |  |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 |  |
 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 | 2022-09-02 | 2022-11-17 |
 | [BLACKED OUT](https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [BLACKED OUT](https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O) | 2:08 | 2023-01-06 |  |
@@ -99,7 +100,7 @@
 | [Escape \- Subtronics Remix](https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Escape \(Subtronics Remix\)](https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c) | 3:45 | 2022-11-11 |  |
 | [Everybody Move](https://open.spotify.com/track/4XNTYpRC1LxSbR53VklBEG) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Everybody Move](https://open.spotify.com/album/444TIRJsZxH1sCg9OLjXI8) | 3:16 | 2022-02-11 | 2022-08-14 |
 | [Everyday](https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Everyday](https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW) | 2:59 | 2022-03-25 | 2022-08-16 |
-| [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 |  |
+| [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2023-01-16 |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2021-12-17 |  |
 | [Final Boss \- Modestep Remix](https://open.spotify.com/track/2qBfIoBC5QJj6CvMwct8OG) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Hige Driver](https://open.spotify.com/artist/2OxrEwDhVZodk9XEVBkA6E), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Final Boss \(Modestep Remix\)](https://open.spotify.com/album/0Ps5wnPvYARsndfhvTK37G) | 3:14 | 2022-08-12 |  |
 | [Find It In Your Mind](https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Find It In Your Mind](https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR) | 3:19 | 2022-12-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 38988,
+  "num_followers": 39044,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDM0MGIwZTM0ZDlkNTU5YTQ1MWM5ODFjNmM2M2VkMGNi",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGE2ZTdiN2Y5MWE0OGM0MTNkNzYwYzhkNWUxYjYxYTg0",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/79rm3QepPfhJogUwqV5d4u"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 463330,
-      "name": "Cancellation - Digital Remaster/2006",
-      "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
-    },
-    {
       "added_at": "2020-11-06 04:01:00",
       "album": {
         "name": "Blind Fury",
@@ -195,6 +179,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 463330,
+      "name": "Cancellation - Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Arms & Hands",
         "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
       },
@@ -207,26 +207,6 @@
       "duration_ms": 153000,
       "name": "Safety Shoes",
       "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
-    },
-    {
-      "added_at": "2020-11-14 05:01:00",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN"
-      },
-      "artists": [
-        {
-          "name": "Sun Ra",
-          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
-        },
-        {
-          "name": "Sun Ra & His Arkestra",
-          "url": "https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Third Planet",
-      "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -251,6 +231,26 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
+    },
+    {
+      "added_at": "2020-11-14 05:01:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN"
+      },
+      "artists": [
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        },
+        {
+          "name": "Sun Ra & His Arkestra",
+          "url": "https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Third Planet",
+      "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
     },
     {
       "added_at": "2020-09-18 04:02:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Where Is Brooklyn",
-        "url": "https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z"
-      },
-      "artists": [
-        {
-          "name": "Don Cherry",
-          "url": "https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI"
-        }
-      ],
-      "duration_ms": 415840,
-      "name": "Awake Nu - 2005 Remastered",
-      "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Winns Win",
@@ -383,18 +367,34 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+        "name": "Where Is Brooklyn",
+        "url": "https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z"
       },
       "artists": [
         {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+      "duration_ms": 415840,
+      "name": "Awake Nu - 2005 Remastered",
+      "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+      },
+      "artists": [
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
       "added_at": "2020-12-04 05:02:00",
@@ -427,18 +427,34 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
       },
       "artists": [
         {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -463,22 +479,6 @@
       "duration_ms": 322930,
       "name": "Sample calculation",
       "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -553,30 +553,6 @@
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
-      "added_at": "2020-10-02 04:02:00",
-      "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
-      },
-      "artists": [
-        {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        }
-      ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Lebroba",
@@ -599,6 +575,30 @@
       "duration_ms": 344453,
       "name": "Lebroba",
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
+    },
+    {
+      "added_at": "2020-10-02 04:02:00",
+      "album": {
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
       "added_at": "2020-10-23 19:03:00",
@@ -665,26 +665,6 @@
       "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "blakey jazz",
-        "url": "https://open.spotify.com/album/7ElnyXPSXcKtWbmyffJTKq"
-      },
-      "artists": [
-        {
-          "name": "okuwaki teQ",
-          "url": "https://open.spotify.com/artist/6MxdeL7D339oUVRyTmsbxU"
-        },
-        {
-          "name": "XXX//PEKE//XXX",
-          "url": "https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "blakey jazz",
-      "url": "https://open.spotify.com/track/2lcm5CnL3Eu6xobycEr7HJ"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Four For Trane",
@@ -745,20 +725,24 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Piece 4",
-        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
+        "name": "blakey jazz",
+        "url": "https://open.spotify.com/album/7ElnyXPSXcKtWbmyffJTKq"
       },
       "artists": [
         {
-          "name": "Tomasz Stanko Quintet",
-          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+          "name": "okuwaki teQ",
+          "url": "https://open.spotify.com/artist/6MxdeL7D339oUVRyTmsbxU"
+        },
+        {
+          "name": "XXX//PEKE//XXX",
+          "url": "https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Piece 4",
-      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
+      "duration_ms": 203428,
+      "name": "blakey jazz",
+      "url": "https://open.spotify.com/track/2lcm5CnL3Eu6xobycEr7HJ"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -791,6 +775,22 @@
       "duration_ms": 329760,
       "name": "One Tree Found",
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Piece 4",
+        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quintet",
+          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Piece 4",
+      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -831,26 +831,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "After Fallen Leaves",
-        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
-      },
-      "artists": [
-        {
-          "name": "Roscoe Mitchell",
-          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
-        },
-        {
-          "name": "Brus Trio",
-          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "And Then There Was Peace",
-      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Ljubljana",
         "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "After Fallen Leaves",
+        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
+      },
+      "artists": [
+        {
+          "name": "Roscoe Mitchell",
+          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
+        },
+        {
+          "name": "Brus Trio",
+          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
+        }
+      ],
+      "duration_ms": 291066,
+      "name": "And Then There Was Peace",
+      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -935,26 +935,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Dorothy Wallace Suite",
-        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
-      },
-      "artists": [
-        {
-          "name": "Ran Blake",
-          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Symphony in Green",
-      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Albert Mangelsdorff and His Friends",
         "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 347092,
       "name": "Way Beyond Cave",
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
+    },
+    {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     }
   ],
   "unique_name": "Avant-Jazz",

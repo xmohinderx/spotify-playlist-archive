@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : DYSTINCT
+> Les hits du moment sont ici\. Cover : Mocci
 
 138 songs - 7 hr 45 min
 

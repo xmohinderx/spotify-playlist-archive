@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 27980,
+  "num_followers": 28026,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI2OTQwMzYwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI3MDk2NDkwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 176698,
-      "name": "Kima Bakri",
-      "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Talet Lghiba",
         "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
@@ -57,7 +41,7 @@
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
@@ -77,7 +61,7 @@
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -88,12 +72,28 @@
           "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 148188,
-      "name": "El barrio",
-      "url": "https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm"
+      "duration_ms": 176698,
+      "name": "Kima Bakri",
+      "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 265806,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -124,28 +124,12 @@
           "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 142182,
-      "name": "Overdoze",
-      "url": "https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ"
+      "duration_ms": 148188,
+      "name": "El barrio",
+      "url": "https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 265806,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -172,28 +156,12 @@
           "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 173057,
-      "name": "Hahaha",
-      "url": "https://open.spotify.com/track/2aJGUPbwA0eDDNRYMQQZkS"
+      "duration_ms": 142182,
+      "name": "Overdoze",
+      "url": "https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 160495,
-      "name": "DFK",
-      "url": "https://open.spotify.com/track/4ihktjAjr08cr3lyIuUMrM"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
@@ -209,23 +177,23 @@
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+        "name": "7elmet ado 6",
+        "url": "https://open.spotify.com/album/5RgB11Zv214PJXaI37jYrU"
       },
       "artists": [
         {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 164628,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2iG5gbGLprxMcZyQ9Donws"
+      "duration_ms": 463000,
+      "name": "7elmet ado 6",
+      "url": "https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
@@ -241,7 +209,7 @@
       "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
@@ -261,7 +229,7 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -272,124 +240,12 @@
           "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 140189,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/7rEuRZMcAq6XqLq8yaWOU4"
+      "duration_ms": 173057,
+      "name": "Hahaha",
+      "url": "https://open.spotify.com/track/2aJGUPbwA0eDDNRYMQQZkS"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 157737,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/2aXOlru76awkfk3RgqGNRs"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 216887,
-      "name": "Ken Sasaki",
-      "url": "https://open.spotify.com/track/72SFwCucgZ2DMhZ6sDuOu3"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "7elmet ado 6",
-        "url": "https://open.spotify.com/album/5RgB11Zv214PJXaI37jYrU"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 463000,
-      "name": "7elmet ado 6",
-      "url": "https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 172067,
-      "name": "L'baida mon amour",
-      "url": "https://open.spotify.com/track/7JEGjfo68GP0Ro2oY6j4QX"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 118016,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0hoiMTtQLjjGgUXiNWi9Nl"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 134895,
-      "name": "999",
-      "url": "https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Omerta",
-        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 87768,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/73lpHC7wOGRQELNOTgxSNj"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -405,7 +261,23 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -416,28 +288,28 @@
           "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 111979,
-      "name": "Hchouma",
-      "url": "https://open.spotify.com/track/3nb2XZJ3n3J7Qq4nJdmqqI"
+      "duration_ms": 160495,
+      "name": "DFK",
+      "url": "https://open.spotify.com/track/4ihktjAjr08cr3lyIuUMrM"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "BREDA",
-        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 112000,
-      "name": "BREDA",
-      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
+      "duration_ms": 164628,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2iG5gbGLprxMcZyQ9Donws"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -461,75 +333,39 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "DOUBLEZUKSH",
-        "url": "https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE"
+        "name": "BREDA",
+        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
       },
       "artists": [
         {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 249183,
-      "name": "DOUBLEZUKSH",
-      "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"
+      "duration_ms": 112000,
+      "name": "BREDA",
+      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "trap roumi v4",
-        "url": "https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 266000,
-      "name": "trap roumi v4",
-      "url": "https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk"
+      "duration_ms": 157737,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/2aXOlru76awkfk3RgqGNRs"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "CHICHI",
-        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "CHICHI",
-      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Iori 5",
-        "url": "https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb"
-      },
-      "artists": [
-        {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
-        }
-      ],
-      "duration_ms": 190737,
-      "name": "Iori 5",
-      "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Sid Lghram",
         "url": "https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6"
@@ -549,27 +385,39 @@
       "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+      "duration_ms": 140189,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/7rEuRZMcAq6XqLq8yaWOU4"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "\u0664in",
         "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
@@ -589,39 +437,7 @@
       "url": "https://open.spotify.com/track/5TS6S3z1cmGEe9jVHXcP8o"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Taline",
-        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Taline",
-      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
@@ -637,23 +453,59 @@
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 216887,
+      "name": "Ken Sasaki",
+      "url": "https://open.spotify.com/track/72SFwCucgZ2DMhZ6sDuOu3"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "JRO7I",
         "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
@@ -669,115 +521,91 @@
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "MAAK",
-        "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "L'baida mon amour",
+      "url": "https://open.spotify.com/track/7JEGjfo68GP0Ro2oY6j4QX"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 87768,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/73lpHC7wOGRQELNOTgxSNj"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "DOUBLEZUKSH",
+        "url": "https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
         },
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 204081,
-      "name": "MAAK",
-      "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
+      "duration_ms": 249183,
+      "name": "DOUBLEZUKSH",
+      "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+        "name": "Iori 5",
+        "url": "https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        },
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Lbaroud",
-      "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
+      "duration_ms": 190737,
+      "name": "Iori 5",
+      "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Mots crois\u00e9s",
-        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
-      },
-      "artists": [
-        {
-          "name": "Demi Portion",
-          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 193657,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 133886,
-      "name": "Sparadra",
-      "url": "https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -797,39 +625,111 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "Sucr\u00e9 Sal\u00e9",
-        "url": "https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 140649,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"
+      "duration_ms": 118016,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0hoiMTtQLjjGgUXiNWi9Nl"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "\u0664in",
-        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
       },
       "artists": [
         {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 228518,
-      "name": "Arahmini",
-      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "MAAK",
+        "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "MAAK",
+      "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Mots crois\u00e9s",
+        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 193657,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "trap roumi v4",
+        "url": "https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "trap roumi v4",
+      "url": "https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -853,20 +753,124 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-01-13 15:52:40",
+      "added_at": "2023-01-15 11:14:50",
       "album": {
-        "name": "Trap Roumi V2",
-        "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
       "artists": [
         {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Trap Roumi V2",
-      "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
+      "duration_ms": 134895,
+      "name": "999",
+      "url": "https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 217196,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 111979,
+      "name": "Hchouma",
+      "url": "https://open.spotify.com/track/3nb2XZJ3n3J7Qq4nJdmqqI"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Lbaroud",
+      "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2023-01-15 11:14:50",
+      "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
     }
   ],
   "unique_name": "Top 50 - Morocco",

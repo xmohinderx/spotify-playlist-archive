@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-348 songs - 17 hr 30 min
+349 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Brother](https://open.spotify.com/track/6wlCpoWYV13TAKQNOjyEa4) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo), [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Brother](https://open.spotify.com/album/7fmG0pLU63CISyHuFESfLL) | 3:10 | 2021-12-11 | 2022-04-20 |
 | [Bulletproof](https://open.spotify.com/track/4Z6HsCbyWpWHsYKrzITKjw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Da Rich 1](https://open.spotify.com/artist/1RHjRSfsWAk60qgCYQmok5) | [Bulletproof](https://open.spotify.com/album/3TUFHeZH61pFqwi0M2T2WZ) | 2:25 | 2021-12-11 | 2022-07-29 |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-05-28 |  |
-| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-11-18 |  |
+| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-11-18 | 2023-01-16 |
 | [Cafeteria](https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Cafeteria](https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5) | 2:56 | 2022-05-28 | 2022-07-22 |
 | [Can't Lose](https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Tru Talk Tony, Vol\. 1](https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P) | 3:12 | 2021-12-11 | 2022-11-19 |
 | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/track/3U8RSjBoIeaKrZflJkzPNd) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Deuces](https://open.spotify.com/artist/7nbV86re4AiI8C726Efapf) | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/album/5R47KD9aQmmXumlBAK333I) | 2:22 | 2021-12-11 | 2022-06-26 |
@@ -318,6 +318,7 @@
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2022-03-25 |  |
 | [Too Far In Love](https://open.spotify.com/track/5jJitdFoXDG4NOE1EKOPzi) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [Too Far In Love](https://open.spotify.com/album/71o4kxfGdcSLGBy9l01j9B) | 2:49 | 2021-12-11 | 2022-07-22 |
 | [Trials and Tribulations](https://open.spotify.com/track/5vlGygcIVC8P6Mvj1f42aK) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Trials and Tribulations](https://open.spotify.com/album/6WiSBKRCDWzOR8Y8DNO7jM) | 3:49 | 2022-05-28 | 2022-06-12 |
+| [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 | 2022-11-18 |  |
 | [Trophy Gvng](https://open.spotify.com/track/1Sqk0qcuR6LjO3sEZ9u4cG) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Trophy Gvng](https://open.spotify.com/album/4XtdoRCSPmYXCGzfppSsM8) | 2:35 | 2022-05-28 | 2022-07-29 |
 | [Up](https://open.spotify.com/track/5LV9n8BUBL5jSbnoQqiJYH) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Seb Camry](https://open.spotify.com/artist/0fpMbgAbLI5z3gEuXuhlTP), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3) | [Up](https://open.spotify.com/album/7ikJ2TQqjTIX9zna0J5cRK) | 4:03 | 2022-03-25 | 2022-11-19 |
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-11-18 |  |

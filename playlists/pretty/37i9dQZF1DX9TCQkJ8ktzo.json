@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 20012,
+  "num_followers": 20050,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMDQ5NzY3ZGFmM2UwNGViNjZiNGQ3YzgwNjc4MjMwN2E3",
+  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMGI3NmVkNWFlOGVmZjAyMTRiZjA5MWI3MDc5MGE3NjRl",
   "tracks": [
     {
       "added_at": "2022-12-07 23:50:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "Trios de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 139232,
       "name": "Sacudiendo Y Barriendo",
       "url": "https://open.spotify.com/track/0WpZ2OkzuxX6joZFlPxhC8"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
     },
     {
       "added_at": "2022-12-07 23:50:31",

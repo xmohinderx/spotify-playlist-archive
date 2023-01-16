@@ -4,7 +4,7 @@
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-73 songs - 7 hr 30 min
+74 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [O'nambia](https://open.spotify.com/track/79N3TPbf4Cek2jO4uU2INg) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 7:21 | 2021-12-28 |  |
 | [Oba Erediauwa](https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 6:17 | 2021-12-28 |  |
 | [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 7:58 | 2021-12-28 | 2022-10-13 |
+| [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Olu Ebube](https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP) | 7:58 | 2023-01-15 |  |
 | [Papa's Land](https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 8:17 | 2021-12-28 |  |
 | [Rain](https://open.spotify.com/track/3G722OvibZcllHtM6nFpFZ) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Jungle Beat](https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL) | 5:11 | 2021-12-28 |  |
 | [Revival](https://open.spotify.com/track/0jdv79JsCr9X6rQZKOFS3A) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 2:32 | 2022-01-04 | 2022-10-30 |

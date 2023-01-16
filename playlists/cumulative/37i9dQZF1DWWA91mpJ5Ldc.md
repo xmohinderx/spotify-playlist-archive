@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-219 songs - 13 hr 27 min
+220 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
 | [Cara de Segunda](https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Cara de Segunda](https://open.spotify.com/album/4sxsQqJmmHJZApi0l6Dsw0) | 3:00 | 2022-06-03 | 2022-07-29 |
-| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 |  |
+| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 | 2023-01-16 |
 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 | 2022-02-04 | 2022-07-25 |
 | [Carne dos Deuses](https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh) | [Carne dos Deuses](https://open.spotify.com/album/5Y0aw7qyAfbQK3CRp3kWJk) | 2:47 | 2022-02-04 | 2022-07-28 |
 | [Carne Dos Meus Versos](https://open.spotify.com/track/2mPTW4iRG0f7IBaQcaCnsD) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:58 | 2022-03-22 | 2022-06-26 |
@@ -63,6 +63,7 @@
 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 | 2022-11-01 |
 | [CHUVA](https://open.spotify.com/track/5AmJktSakS5ylLbH1eSch0) | [Vitor Santana](https://open.spotify.com/artist/55SGl5TD6wQPQC1vfDiT4h), [Mariana Nunes](https://open.spotify.com/artist/1QncCJuv8b2wtCvB2w6XPm) | [CHUVA](https://open.spotify.com/album/1hOM5AcF4BzqtAVb305nSu) | 3:36 | 2022-03-14 | 2022-07-29 |
 | [Cine Odeon](https://open.spotify.com/track/3dhkyXQt5Uqd46ELRN2YsU) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Cine Odeon](https://open.spotify.com/album/4VlLZDtiIZoXoosJUMCGc8) | 2:30 | 2022-02-04 | 2022-07-28 |
+| [Clima](https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Clima](https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G) | 3:36 | 2023-01-13 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5ioP40av2BguaCaZnw0D1P) | [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Coisas Que Eu Sei](https://open.spotify.com/album/0IbfNcarhEDFOLz9cTjzft) | 2:27 | 2022-03-14 | 2022-07-04 |
 | [Cores](https://open.spotify.com/track/2HVxpg6Xhfnzzc8vdTQjOu) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/6HxkXsDXFdFcHQ6QKmH8qo) | 3:09 | 2022-02-04 | 2022-07-29 |
 | [Cores](https://open.spotify.com/track/3zSoilgYEL3ORqtuLKUFkq) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/0PkdWfglmXqNY79Xr7oUwQ) | 3:18 | 2022-07-22 | 2022-08-17 |

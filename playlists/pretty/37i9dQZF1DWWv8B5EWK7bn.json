@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 132049,
+  "num_followers": 132227,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzc0MjYyMywwMDAwMDAwMDUyYWM4OTRiMzBkMWFkNDUwNmVjNmVmMWY2YzA5MDQ4",
+  "snapshot_id": "MTY3Mzc0MjYyMywwMDAwMDAwMDk1ZjI1OTk1M2U5NmE4ZmJkMTA0MjM0ZGQ1NTYxYzhi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-01-04 00:57:30",
       "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
       "artists": [
         {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
         }
       ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2023-01-04 00:57:30",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
       },
       "artists": [
         {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
         }
       ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -605,26 +605,6 @@
       "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
-      "added_at": "2022-11-17 22:51:20",
-      "album": {
-        "name": "Starry Nights",
-        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "Starry Nights",
-      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
-    },
-    {
       "added_at": "2022-09-12 20:31:51",
       "album": {
         "name": "Can I Call You",
@@ -649,6 +629,26 @@
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
     },
     {
+      "added_at": "2022-11-17 22:51:20",
+      "album": {
+        "name": "Starry Nights",
+        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "Starry Nights",
+      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
+    },
+    {
       "added_at": "2022-09-22 17:52:51",
       "album": {
         "name": "The Order of the Rain",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66"
     },
     {
-      "added_at": "2022-07-15 05:46:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
       "added_at": "2022-03-16 16:59:09",
       "album": {
         "name": "Petunia",
@@ -767,6 +751,22 @@
       "duration_ms": 422240,
       "name": "What Has Happened",
       "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
+    },
+    {
+      "added_at": "2022-07-15 05:46:40",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-07-15 05:42:57",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu"
     },
     {
-      "added_at": "2022-09-11 03:49:06",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc"
-      },
-      "artists": [
-        {
-          "name": "M\u00efr\u00e4nd\u00e4",
-          "url": "https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb"
-        }
-      ],
-      "duration_ms": 238134,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Cosmorama",
@@ -939,6 +923,22 @@
       "duration_ms": 258420,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+    },
+    {
+      "added_at": "2022-09-11 03:49:06",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc"
+      },
+      "artists": [
+        {
+          "name": "M\u00efr\u00e4nd\u00e4",
+          "url": "https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb"
+        }
+      ],
+      "duration_ms": 238134,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "void beats/invocation trex",
         "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 233903,
       "name": "melody in high feedback tones",
       "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Big Moonlight (Ookii Gekkou)",
-        "url": "https://open.spotify.com/album/10yYYLcte8bN9ZWzMH1QMg"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 290373,
-      "name": "Big Moonlight (Ookii Gekkou)",
-      "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
-    },
-    {
       "added_at": "2023-01-03 23:48:36",
       "album": {
         "name": "Where To Put The Pain",
@@ -1215,6 +1199,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Big Moonlight (Ookii Gekkou)",
+        "url": "https://open.spotify.com/album/10yYYLcte8bN9ZWzMH1QMg"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 290373,
+      "name": "Big Moonlight (Ookii Gekkou)",
+      "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
       "added_at": "2022-09-27 21:46:39",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
+      "added_at": "2022-09-29 01:39:00",
+      "album": {
+        "name": "Two minutes",
+        "url": "https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8"
+      },
+      "artists": [
+        {
+          "name": "The Wisely Brothers",
+          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Two minutes",
+      "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
+    },
+    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1255,22 +1271,6 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
-    },
-    {
-      "added_at": "2022-09-29 01:39:00",
-      "album": {
-        "name": "Two minutes",
-        "url": "https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8"
-      },
-      "artists": [
-        {
-          "name": "The Wisely Brothers",
-          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Two minutes",
-      "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Feedback Loop",
-        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1373,6 +1357,22 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Feedback Loop",
+        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Rivers That You Cannot See",
@@ -1387,6 +1387,22 @@
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+    },
+    {
+      "added_at": "2022-03-11 04:34:08",
+      "album": {
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1413,22 +1429,6 @@
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
     },
     {
-      "added_at": "2022-03-11 04:34:08",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
       "added_at": "2022-01-11 00:08:03",
       "album": {
         "name": "Phantom Throb",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
     },
     {
-      "added_at": "2022-09-21 02:36:16",
-      "album": {
-        "name": "Face The Music",
-        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
-      },
-      "artists": [
-        {
-          "name": "Lolina",
-          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
-        }
-      ],
-      "duration_ms": 460945,
-      "name": "Face The Music",
-      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
-    },
-    {
       "added_at": "2022-09-03 04:22:45",
       "album": {
         "name": "Noon",
@@ -1483,6 +1467,22 @@
       "duration_ms": 168705,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "added_at": "2022-09-21 02:36:16",
+      "album": {
+        "name": "Face The Music",
+        "url": "https://open.spotify.com/album/3X5l6ObXrQxDgwsCvGpOzt"
+      },
+      "artists": [
+        {
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+        }
+      ],
+      "duration_ms": 460945,
+      "name": "Face The Music",
+      "url": "https://open.spotify.com/track/43pbrYslDNESsMRGtai0z5"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2022-07-14 12:42:06",
-      "album": {
-        "name": "Mapa",
-        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
-      },
-      "artists": [
-        {
-          "name": "Sundarbans",
-          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
-        }
-      ],
-      "duration_ms": 175849,
-      "name": "Mapa",
-      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Jacqueline",
@@ -1623,6 +1607,22 @@
       "duration_ms": 324022,
       "name": "Dream St.",
       "url": "https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A"
+    },
+    {
+      "added_at": "2022-07-14 12:42:06",
+      "album": {
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
+      },
+      "artists": [
+        {
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
+        }
+      ],
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2022-08-13 01:25:00",

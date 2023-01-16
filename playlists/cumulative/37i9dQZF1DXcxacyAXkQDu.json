@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "My Hurricane",
+        "url": "https://open.spotify.com/album/507oQkEDtklkr15RZzQsPI"
+      },
+      "artists": [
+        {
+          "name": "Jamie Scott",
+          "url": "https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/0p1CV0nu9t8DdUezxWpV4B"
+    },
+    {
+      "album": {
         "name": "Cavatina",
         "url": "https://open.spotify.com/album/55rOgz4YitvuAejFjjJ2es"
       },
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 191819,
       "name": "Daddy\u2019s Girl",
       "url": "https://open.spotify.com/track/6edJkD1ripHia4WzSHz6Lg"

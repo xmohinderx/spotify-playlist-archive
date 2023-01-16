@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 82303,
+  "num_followers": 82377,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDEyZTBhZGM5Y2NkZmFmNDUyYWFhM2ZlMjA1YWVjYzAz",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGQzNjU2Nzc4OGJkY2Q0NmY0MWFhOTQ0NmU3NmU3MzEw",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 205033,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 205033,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Have You Ever Heard A Love Song On Drill?",
-        "url": "https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98"
-      },
-      "artists": [
-        {
-          "name": "Isong",
-          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
-        }
-      ],
-      "duration_ms": 245034,
-      "name": "Have You Ever Heard A Love Song On Drill?",
-      "url": "https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "The Talking Stage Game",
         "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
       },
@@ -555,18 +539,34 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
+        "name": "Have You Ever Heard A Love Song On Drill?",
+        "url": "https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98"
       },
       "artists": [
         {
-          "name": "Adzmilli",
-          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
+          "name": "Isong",
+          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
+      "duration_ms": 245034,
+      "name": "Have You Ever Heard A Love Song On Drill?",
+      "url": "https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
       },
       "artists": [
         {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+          "name": "Adzmilli",
+          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
         }
       ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
+      "duration_ms": 198620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Pop",
-        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
-      },
-      "artists": [
-        {
-          "name": "Glizz",
-          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "One Pop",
-      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Moston Vale (Freestyle)",
         "url": "https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "One Pop",
+        "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
+      },
+      "artists": [
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "One Pop",
+      "url": "https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 190615,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "9AM",
-        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
-      },
-      "artists": [
-        {
-          "name": "Drizdoneit",
-          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
-        },
-        {
-          "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
-        }
-      ],
-      "duration_ms": 172199,
-      "name": "9AM",
-      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -899,6 +879,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
+      },
+      "artists": [
+        {
+          "name": "Drizdoneit",
+          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
+        },
+        {
+          "name": "Jbandz",
+          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
-      },
-      "artists": [
-        {
-          "name": "Noaah",
-          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
+      },
+      "artists": [
+        {
+          "name": "Noaah",
+          "url": "https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111250,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111250,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 171678,
       "name": "Is it too much? (Pray things change)",
       "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2022-08-02 15:42:28",

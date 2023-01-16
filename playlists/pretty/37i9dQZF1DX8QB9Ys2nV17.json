@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 170203,
+  "num_followers": 170215,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGUxYjBjMjI5N2RjNmU1OTc2YTBkNzFkNWEzYzdhYTNl",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDZjNTJiNzg4ZjMwNTY4MzNlZWE3NWZjNzUwZWQ3NDUw",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Kill Or Be Kind",
-      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 266071,
       "name": "Clotilda's On Fire",
       "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Kill Or Be Kind",
+      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 191920,
       "name": "Healing Creek",
       "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 292353,
-      "name": "The Best Thing",
-      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 292353,
+      "name": "The Best Thing",
+      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Soft Place To Fall",
         "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 291840,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
+      },
+      "artists": [
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -575,22 +591,6 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
-      },
-      "artists": [
-        {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
-      },
-      "artists": [
-        {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1j8CRRMzesefIQaVh1y4R1"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+      },
+      "artists": [
+        {
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist for your Arab hipster starter kit.",
-  "num_followers": 79604,
+  "num_followers": 79667,
   "original_name": "Funk & Disco Zamaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMGYyNmZlYTdlMzA3NDkyOTMxN2YzMGRmOGZjN2I2NGM1",
+  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMGU0YzUyZjliNmIxYTU2MTk3MzJlYjE0MDU4OTE4YWYy",
   "tracks": [
     {
       "added_at": "2020-05-01 20:42:05",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Modern Music (Habibi Funk 006)",
         "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
-        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
       "artists": [
         {
-          "name": "Fadoul",
-          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
         }
       ],
-      "duration_ms": 293500,
-      "name": "Bsslama Hbibti",
-      "url": "https://open.spotify.com/track/0ZcDB7Rl0BGtkQuh2NOzkd"
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -157,6 +141,22 @@
       "url": "https://open.spotify.com/track/3jvpForJaXqSmooNoBckMZ"
     },
     {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+        }
+      ],
+      "duration_ms": 293500,
+      "name": "Bsslama Hbibti",
+      "url": "https://open.spotify.com/track/0ZcDB7Rl0BGtkQuh2NOzkd"
+    },
+    {
       "added_at": "2020-07-13 13:37:07",
       "album": {
         "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Muslims and Christians (Habibi Funk 008)",
-        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
-      },
-      "artists": [
-        {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "Agricultural Revolution",
-      "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Alech (Habibi Funk 004)",
         "url": "https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 206000,
       "name": "Alech",
       "url": "https://open.spotify.com/track/5IMvEsOBkkOAGzjgOniDsj"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "Agricultural Revolution",
+      "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -243,34 +243,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Al Zman Saib (Habibi Funk 002)",
-        "url": "https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ"
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
       },
       "artists": [
         {
-          "name": "Fadoul",
-          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sid Redad",
-      "url": "https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
-        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
-        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
-      },
-      "artists": [
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
         {
-          "name": "Mallek Mohamed",
-          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Rouhi Ya Hafida",
-      "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
+      "duration_ms": 286500,
+      "name": "Saat Alfarah",
+      "url": "https://open.spotify.com/track/0KLq4a5LFOA904uLu9y3QZ"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -291,6 +279,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Mallek Mohamed",
+          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Rouhi Ya Hafida",
+      "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
         "name": "Musique originale de films (Habibi Funk 003)",
         "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
       },
@@ -307,22 +311,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
-        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+        "name": "Al Zman Saib (Habibi Funk 002)",
+        "url": "https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ"
       },
       "artists": [
         {
-          "name": "The Scorpions",
-          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
-        },
-        {
-          "name": "Saif Abu Bakr",
-          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
         }
       ],
-      "duration_ms": 286500,
-      "name": "Saat Alfarah",
-      "url": "https://open.spotify.com/track/0KLq4a5LFOA904uLu9y3QZ"
+      "duration_ms": 182000,
+      "name": "Sid Redad",
+      "url": "https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "The Scorpios",
-        "url": "https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4"
-      },
-      "artists": [
-        {
-          "name": "The Scorpios",
-          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
-        }
-      ],
-      "duration_ms": 279405,
-      "name": "Eujoaideen",
-      "url": "https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
         "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 415000,
       "name": "Forssa Saeeda",
       "url": "https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "The Scorpios",
+        "url": "https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4"
+      },
+      "artists": [
+        {
+          "name": "The Scorpios",
+          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
+        }
+      ],
+      "duration_ms": 279405,
+      "name": "Eujoaideen",
+      "url": "https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -695,26 +695,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Akeed",
-        "url": "https://open.spotify.com/album/7v8rqFkCY39CQFG9Qg4DNd"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        },
-        {
-          "name": "Mohamed Mounir",
-          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
-        }
-      ],
-      "duration_ms": 241423,
-      "name": "Akeed",
-      "url": "https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Ferqet Americana Show Pt.2",
         "url": "https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 265853,
       "name": "Shat Iskenderia",
       "url": "https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Akeed",
+        "url": "https://open.spotify.com/album/7v8rqFkCY39CQFG9Qg4DNd"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        },
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "duration_ms": 241423,
+      "name": "Akeed",
+      "url": "https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS"
     },
     {
       "added_at": "2020-05-01 20:42:05",

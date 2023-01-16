@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  \u7c73\u6d25\u7384\u5e2b",
+  "description": "The Hottest Hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover:  10-FEET",
   "name": "Tokyo Super Hits!",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 374687,
       "name": "A Ride On The Gentle Luminous Dragon",
       "url": "https://open.spotify.com/track/0VdZOJzfLxWruafPR5Dt5F"
@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
+    },
+    {
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh"
       },
@@ -877,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
+    },
+    {
+      "album": {
         "name": "Chopstick",
         "url": "https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S"
       },
@@ -892,6 +928,24 @@
       "duration_ms": 177973,
       "name": "Chopstick",
       "url": "https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl"
+    },
+    {
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275787,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK"
     },
     {
       "album": {
@@ -1454,7 +1508,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 248806,
       "name": "Eien No Shonen",
       "url": "https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo"
@@ -1494,6 +1548,24 @@
       "duration_ms": 216533,
       "name": "Entertain",
       "url": "https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb"
+    },
+    {
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "album": {
@@ -1580,7 +1652,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 208964,
       "name": "FightSong",
       "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
@@ -1652,7 +1724,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 241575,
       "name": "first death",
       "url": "https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC"
@@ -2231,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Hard Pool",
+        "url": "https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276624,
+      "name": "Hard Pool",
+      "url": "https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj"
+    },
+    {
+      "album": {
         "name": "Hateshinai Futari",
         "url": "https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2"
       },
@@ -2602,7 +2692,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 274714,
       "name": "Ima Wo Ikirunoda.",
       "url": "https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy"
@@ -3650,7 +3740,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
@@ -3855,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "album": {
         "name": "Bump & Grind",
         "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
       },
@@ -3910,6 +4018,24 @@
       "duration_ms": 278333,
       "name": "Nagisa Hotel",
       "url": "https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM"
+    },
+    {
+      "album": {
+        "name": "NAVY",
+        "url": "https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144766,
+      "name": "NAVY",
+      "url": "https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR"
     },
     {
       "album": {
@@ -5198,7 +5324,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 264126,
       "name": "SOUVENIR",
       "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
@@ -5753,6 +5879,24 @@
     },
     {
       "album": {
+        "name": "Take Me Maybe",
+        "url": "https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207135,
+      "name": "Take Me Maybe",
+      "url": "https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte"
+    },
+    {
+      "album": {
         "name": "Talking Box (Dirty Pop Remix)",
         "url": "https://open.spotify.com/album/0c4X7Zmx1pPBQkY9snWLZX"
       },
@@ -5854,7 +5998,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 236078,
       "name": "This Hell",
       "url": "https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm"
@@ -6824,7 +6968,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
@@ -7508,6 +7652,32 @@
       "duration_ms": 245868,
       "name": "\u308f\u305f\u3057\u305f\u3061\u3078",
       "url": "https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+        "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162366,
+      "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+      "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
     },
     {
       "album": {
@@ -8261,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "\u30c6\u30ec\u30d1\u30b9",
+        "url": "https://open.spotify.com/album/2UGjDQb2VvvfasGe7n1hxN"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293687,
+      "name": "\u30c6\u30ec\u30d1\u30b9",
+      "url": "https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
         "url": "https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ"
       },
@@ -8464,7 +8652,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 232706,
       "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5"
@@ -9164,6 +9352,24 @@
       "duration_ms": 178064,
       "name": "\u30ea\u30d9\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
+        "url": "https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185945,
+      "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
     },
     {
       "album": {
@@ -11904,7 +12110,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 186840,
       "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
       "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"

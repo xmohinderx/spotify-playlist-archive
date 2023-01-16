@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 464608,
+  "num_followers": 464929,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDY2Yjk4M2UxYmJmZjc5YTgzYjIwNGFjNjU1MjJhZjc1",
+  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDgzYzg0M2I4ZjA3OGQ3YmQxMDQ0NjdlYmIwZjgxNDQ4",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn"
     },
     {
-      "added_at": "2023-01-15 01:15:14",
+      "added_at": "2023-01-16 00:54:36",
       "album": {
         "name": "Forgotten 90's Alternative",
         "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD"
-      },
-      "artists": [
-        {
-          "name": "Boris",
-          "url": "https://open.spotify.com/artist/7tuPytonFlywSkxbzeu4st"
-        }
-      ],
-      "duration_ms": 453400,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Comforts of Madness (30th Anniversary Reissue)",
         "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 112265,
       "name": "She Rides the Waves - John Peel Sessions",
       "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/7tuPytonFlywSkxbzeu4st"
+        }
+      ],
+      "duration_ms": 453400,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Auras",
-        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
       "artists": [
         {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
         }
       ],
-      "duration_ms": 248186,
-      "name": "Lemonade Beauty",
-      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+      "duration_ms": 233583,
+      "name": "Superbike",
+      "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Auras",
+        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
+      },
+      "artists": [
+        {
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "Lemonade Beauty",
+      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 297813,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 233583,
-      "name": "Superbike",
-      "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Ultra Vivid Scene",
-        "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
-      },
-      "artists": [
-        {
-          "name": "Ultra Vivid Scene",
-          "url": "https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Mercy Seat",
-      "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Whirlpool (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 236373,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Ultra Vivid Scene",
+        "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
+      },
+      "artists": [
+        {
+          "name": "Ultra Vivid Scene",
+          "url": "https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Mercy Seat",
+      "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
       "artists": [
         {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+      "duration_ms": 198946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1519,6 +1519,22 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1551,22 +1567,6 @@
       "duration_ms": 208040,
       "name": "The Perfect Needle",
       "url": "https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Telling Tales",
-        "url": "https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg"
-      },
-      "artists": [
-        {
-          "name": "Song Sung",
-          "url": "https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom"
-        }
-      ],
-      "duration_ms": 252499,
-      "name": "Telling Tales",
-      "url": "https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "A Gilded Eternity",
         "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 367973,
       "name": "Vapour",
       "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Telling Tales",
+        "url": "https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg"
+      },
+      "artists": [
+        {
+          "name": "Song Sung",
+          "url": "https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom"
+        }
+      ],
+      "duration_ms": 252499,
+      "name": "Telling Tales",
+      "url": "https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq"
     },
     {
       "added_at": "2021-06-03 02:39:04",

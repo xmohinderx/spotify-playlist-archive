@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230766,
+  "num_followers": 230761,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDI5ZjYzMGQxYzljNDQ3ZDA1MTczYjZhNDAzYzUwODY0",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGYzYWQ1Y2U0MjI3ZTRkNWFiZWZlOGZmYTIzNDQyMzc5",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -487,18 +487,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
+        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
+        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
       },
       "artists": [
         {
-          "name": "Lylos",
-          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        },
+        {
+          "name": "Agatha Saron",
+          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
         }
       ],
-      "duration_ms": 172027,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+      "duration_ms": 200131,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -519,22 +523,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
-        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
       "artists": [
         {
-          "name": "Sons Of Maria",
-          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
-        },
-        {
-          "name": "Agatha Saron",
-          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
+          "name": "Lylos",
+          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
         }
       ],
-      "duration_ms": 200131,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+      "duration_ms": 172027,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -587,22 +587,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Zonoma",
-          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
-        },
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 200590,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -623,22 +619,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Lost in Music",
         "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 208150,
       "name": "Lost in Music",
       "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+      },
+      "artists": [
+        {
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        },
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 200590,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
-      },
-      "artists": [
-        {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
-        }
-      ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+      },
+      "artists": [
+        {
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+        }
+      ],
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -955,26 +955,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Sunrise To Sunset",
-        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
-        }
-      ],
-      "duration_ms": 186610,
-      "name": "Wishing Well (feat. Olivia Sebastianelli)",
-      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Everything Shines",
         "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 186809,
       "name": "Surf The Orange Water",
       "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Sunrise To Sunset",
+        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 186610,
+      "name": "Wishing Well (feat. Olivia Sebastianelli)",
+      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
     },
     {
       "added_at": "2021-08-05 09:09:59",

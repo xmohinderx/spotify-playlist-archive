@@ -4,7 +4,7 @@
 
 > Brand new music from Miley Cyrus \(pictured\), Mimi Webb, Fredo and more!
 
-1,271 songs - 2 day 21 hr 10 min
+1,272 songs - 2 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,7 +881,7 @@
 | [Problem](https://open.spotify.com/track/35nMWL6Paudf9cvlFNHbA2) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Problem](https://open.spotify.com/album/6SKpURQwumZU6H60bY7CmF) | 2:34 | 2022-11-25 | 2022-12-02 |
 | [Promise Me](https://open.spotify.com/track/5Q6rRzLM5tfiCffpdTgUXn) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Promise Me](https://open.spotify.com/album/3iWjGJLff2vaXrMnK4diKO) | 3:45 | 2022-11-04 | 2022-11-11 |
 | [PSA](https://open.spotify.com/track/73xqPVwc4XZcoAp93eDhkV) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [CH \(GMD\)](https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k) | [PSA](https://open.spotify.com/album/6ApHyivdjMRRafCdmg9fX8) | 2:41 | 2022-11-25 | 2022-12-02 |
-| [PSYCHE\_extended\_](https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:13 | 2023-01-13 |  |
+| [PSYCHE\_extended\_ft\_snowy\_prod.pholo](https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:13 | 2023-01-13 |  |
 | [Punch Line \(Freestyle\)](https://open.spotify.com/track/4nc3m9Jpd6Xv7sx8vJEX5V) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Punch Line \(Freestyle\)](https://open.spotify.com/album/1Fi41mHdHVOW12ZzvVrvrI) | 2:49 | 2023-01-06 | 2023-01-13 |
 | [Punchline](https://open.spotify.com/track/3m9c1PYWsnlmeFpgKdiQjb) | [Will Pope](https://open.spotify.com/artist/73EF0spg7TdPCu4iNSGr5i) | [Punchline](https://open.spotify.com/album/6RR2uS3uyPuVmlO4mXHQcA) | 4:32 | 2022-12-16 | 2022-12-24 |
 | [Puppet On A String](https://open.spotify.com/track/4AXpOXRaWLIuxbhr1PQYcP) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Puppet On A String](https://open.spotify.com/album/7uGdJBnr7hxkhwY1kKlRSU) | 2:00 | 2023-01-06 | 2023-01-13 |
@@ -1176,7 +1176,8 @@
 | [Verde](https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF) | 4:52 | 2022-11-04 | 2022-11-11 |
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-01-13 |  |
 | [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2022-12-09 | 2022-12-16 |
-| [vertigo](https://open.spotify.com/track/4NrMRkvdqYlEVgxBm8kPfL) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [vertigo](https://open.spotify.com/album/6ycSM8AJEiW89wi8CBbItO) | 2:45 | 2023-01-13 |  |
+| [vertigo](https://open.spotify.com/track/37QxBluoFPXI230lb27OwZ) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/3ydLktsjKvKeWx5V4NdnnR) | 2:45 | 2023-01-13 |  |
+| [vertigo](https://open.spotify.com/track/4NrMRkvdqYlEVgxBm8kPfL) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [vertigo](https://open.spotify.com/album/6ycSM8AJEiW89wi8CBbItO) | 2:45 | 2023-01-13 | 2023-01-16 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 |  |
 | [Vino](https://open.spotify.com/track/1BtDwiCEJdkLZTNOzy34T0) | [Michael Stevens](https://open.spotify.com/artist/4zhtWLmd8goEurT8obHTJe), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Vino](https://open.spotify.com/album/7rPUkB1LD7HKRZuLWLKrbP) | 4:48 | 2022-11-25 | 2022-12-02 |
 | [Violence Forever?](https://open.spotify.com/track/0bFOsNsyf7PozWCyRfuMpz) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 4:05 | 2022-12-09 | 2022-12-16 |

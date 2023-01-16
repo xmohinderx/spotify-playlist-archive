@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2396521,
+  "num_followers": 2396979,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDdiNWVjZWM5YzA4ZGNlZDg0NWExZjkyNTcxMTM3MzFk",
+  "snapshot_id": "MTY3MzgyMDQwNCwwMDAwMDAwMGFhOWQxZDBlYzJiZGE5NmUzZTVmMWRmZDg0MDI0ZDE2",
   "tracks": [
     {
       "added_at": "2022-11-07 16:57:30",
@@ -143,6 +143,38 @@
       "duration_ms": 343013,
       "name": "Oyster Bay",
       "url": "https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO"
+    },
+    {
+      "added_at": "2023-01-15 22:06:44",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 205890,
+      "name": "Aftershook",
+      "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
+    },
+    {
+      "added_at": "2023-01-15 22:06:44",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
       "added_at": "2023-01-13 05:00:00",

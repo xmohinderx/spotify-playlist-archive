@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nuevo Elemento en portada. ",
-  "num_followers": 124495,
+  "num_followers": 124528,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDA4NzcyMmFkZWRkNjgxZmQ5OWI2ODdlYjk4NGUyN2Ey",
+  "snapshot_id": "MTY3MDU2NTYwMCwwMDAwMDAwMDI4MjRlNDU3N2RlMjIyYzhjMjIxMTY1YzlmYzEyOTdl",
   "tracks": [
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "Imborrable",
-        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
-      },
-      "artists": [
-        {
-          "name": "Chelo Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Imborrable",
-      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
         "name": "No Me Hace Falta Nada",
         "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
       },
@@ -1309,20 +1293,36 @@
       "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-10-14 05:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
-        "url": "https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2"
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
       },
       "artists": [
         {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+          "name": "Chelo Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
         }
       ],
-      "duration_ms": 162916,
-      "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
-      "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
+      "duration_ms": 192066,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
     }
   ],
   "unique_name": "Mariachi Joven",

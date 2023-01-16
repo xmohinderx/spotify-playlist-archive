@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687800,
+  "num_followers": 687785,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDc5YzY3YmM2N2E1YWYxZDMyMDdkYzg2Mjk0Y2I0YWQy",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGRkZDJkYzBmZTZkNWI3NWQwNWEwYzk4YWNhODJhZWMx",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Hold This",
-        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Hold This",
-      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 200893,
       "name": "Mad Love - Blinkie Remix",
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Hold This",
+        "url": "https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Hold This",
+      "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -1079,22 +1059,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
+      "duration_ms": 205653,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1139,6 +1119,26 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Don't Need Love",
         "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 195480,
       "name": "Don\u2019t Need Love (with GRACEY)",
       "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 147597,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "tonight belongs to you",
         "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
       },
@@ -1735,6 +1719,46 @@
       "duration_ms": 147075,
       "name": "tonight belongs to you",
       "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Good for Me (feat. Anna Straker)",
+        "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Anna Straker",
+          "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Good for Me (feat. Anna Straker)",
+      "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1771,30 +1795,6 @@
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Good for Me (feat. Anna Straker)",
-        "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        },
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Anna Straker",
-          "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Good for Me (feat. Anna Straker)",
-      "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Night Ends",
-        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
+        "name": "Make Luv",
+        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
       },
       "artists": [
         {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Night Ends",
-      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
+      "duration_ms": 168091,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Make Luv",
-        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
       },
       "artists": [
         {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
         }
       ],
-      "duration_ms": 168091,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
     }
   ],
   "unique_name": "PARTY MODE",

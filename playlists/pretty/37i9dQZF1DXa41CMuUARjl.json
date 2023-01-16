@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Luude, Issey Cross & Moby.",
-  "num_followers": 418018,
+  "num_followers": 418140,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjQ3OSwwMDAwMDAwMDIxZmZlZWZhNGZjY2Y4NGFiMzNhZDJmYTQ5YTAxZWFl",
+  "snapshot_id": "MTY3MzU4NjQ3OSwwMDAwMDAwMGU0MThmZWViMTQwYmIxMDhmNjhlMGI5MTgxNmI1MzJh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "The Last Goodbye (Hayden James Remix)",
         "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 224908,
       "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Breathe (Qrion Remix)",
-        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 271686,
-      "name": "Breathe - Qrion Remix",
-      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ"
       },
@@ -791,22 +767,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+        "name": "Breathe (Qrion Remix)",
+        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+      "duration_ms": 271686,
+      "name": "Breathe - Qrion Remix",
+      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -835,6 +815,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3C0p7hbho3RxZauWZjYMOm"
       },
@@ -851,18 +847,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Feel so Cold",
-        "url": "https://open.spotify.com/album/2yy8QaSSKHSQ0RCMFw5Njc"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 142079,
-      "name": "Feel so Cold",
-      "url": "https://open.spotify.com/track/5wlRMVIQjW1CnZWMI8SBqV"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Phonky Tribu (DJ HEARTSTRING Remix)",
         "url": "https://open.spotify.com/album/3SbtjONVN9BIpVxpks7A2g"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 250348,
       "name": "Phonky Tribu - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Feel so Cold",
+        "url": "https://open.spotify.com/album/2yy8QaSSKHSQ0RCMFw5Njc"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 142079,
+      "name": "Feel so Cold",
+      "url": "https://open.spotify.com/track/5wlRMVIQjW1CnZWMI8SBqV"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/2EnuqgygQVIQ9OOjnvYNTh"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/5Xljpi1XbQnd7CI824WevE"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Far Behind (TIBASKO Remix)",
         "url": "https://open.spotify.com/album/39dXSWdKDzgT39aVfKJZJG"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 245747,
       "name": "Far Behind - TIBASKO Remix",
       "url": "https://open.spotify.com/track/6Ra6mFxKs7kZLhV5LXNylR"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/2EnuqgygQVIQ9OOjnvYNTh"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/5Xljpi1XbQnd7CI824WevE"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1063,6 +1063,46 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Playin\u2019 Around",
+        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Playin\u2019 Around",
+      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Ascent (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s"
       },
@@ -1107,6 +1147,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Supa Sharp",
+        "url": "https://open.spotify.com/album/4tISSlcJrLV3jQl4HCRTli"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "duration_ms": 200551,
+      "name": "Supa Sharp",
+      "url": "https://open.spotify.com/track/12nQDslUWJxVi6yGjYbL2s"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Out Of My Depth (feat. Nu-La)",
         "url": "https://open.spotify.com/album/4ucoXcuxkDJ7mkv4Mk5BRp"
       },
@@ -1143,62 +1203,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Rays / Aylu",
-        "url": "https://open.spotify.com/album/1qZPv77hmGqh8sY95KAntf"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 233709,
-      "name": "Rays",
-      "url": "https://open.spotify.com/track/72QLg3JX9awAToHDJXQCkZ"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Supa Sharp",
-        "url": "https://open.spotify.com/album/4tISSlcJrLV3jQl4HCRTli"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Roxe",
-          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
-        }
-      ],
-      "duration_ms": 200551,
-      "name": "Supa Sharp",
-      "url": "https://open.spotify.com/track/12nQDslUWJxVi6yGjYbL2s"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Playin\u2019 Around",
-        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Samuele Scelfo",
-          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Playin\u2019 Around",
-      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Laserbeam (Blanke's \u00c6ON:REMIX)",
         "url": "https://open.spotify.com/album/5NUUzkJljCoHWK4L5aSgXd"
       },
@@ -1215,26 +1219,6 @@
       "duration_ms": 164651,
       "name": "Laserbeam - Blanke's \u00c6ON:REMIX",
       "url": "https://open.spotify.com/track/4taZ23hnXd59FeBaGhuapi"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 205440,
       "name": "I Love Me",
       "url": "https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Rays / Aylu",
+        "url": "https://open.spotify.com/album/1qZPv77hmGqh8sY95KAntf"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 233709,
+      "name": "Rays",
+      "url": "https://open.spotify.com/track/72QLg3JX9awAToHDJXQCkZ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1459,58 +1459,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "NOW U KNOW",
-        "url": "https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "VRG",
-          "url": "https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "NOW U KNOW",
-      "url": "https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Love Me, Haunt Me",
-        "url": "https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye"
-      },
-      "artists": [
-        {
-          "name": "Mitekiss",
-          "url": "https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH"
-        }
-      ],
-      "duration_ms": 249975,
-      "name": "Love Me, Haunt Me",
-      "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "90%",
-        "url": "https://open.spotify.com/album/2YjniQbChT8RQfcfojCLs2"
-      },
-      "artists": [
-        {
-          "name": "1-800 GIRLS",
-          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "90%",
-      "url": "https://open.spotify.com/track/2B1uWjnmyShWKFzzZFL0c9"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/2wstSFU3VMTXdqTIuXARw6"
       },
@@ -1527,50 +1475,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Summer Ghost",
-        "url": "https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe"
+        "name": "NOW U KNOW",
+        "url": "https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb"
       },
       "artists": [
         {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 310730,
-      "name": "Summer Ghost",
-      "url": "https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Olvido",
-        "url": "https://open.spotify.com/album/7fq9J9FsHSlliMKadHGqgK"
-      },
-      "artists": [
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
         {
-          "name": "Rafa Barrios",
-          "url": "https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl"
+          "name": "VRG",
+          "url": "https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh"
         }
       ],
-      "duration_ms": 355384,
-      "name": "Olvido",
-      "url": "https://open.spotify.com/track/42v3sjO6HNsN6bITSsK1FE"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+      "duration_ms": 163862,
+      "name": "NOW U KNOW",
+      "url": "https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1615,18 +1535,82 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "All Nyte",
-        "url": "https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz"
+        "name": "90%",
+        "url": "https://open.spotify.com/album/2YjniQbChT8RQfcfojCLs2"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
         }
       ],
-      "duration_ms": 250588,
-      "name": "When I\u2019m With U",
-      "url": "https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks"
+      "duration_ms": 352000,
+      "name": "90%",
+      "url": "https://open.spotify.com/track/2B1uWjnmyShWKFzzZFL0c9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Olvido",
+        "url": "https://open.spotify.com/album/7fq9J9FsHSlliMKadHGqgK"
+      },
+      "artists": [
+        {
+          "name": "Rafa Barrios",
+          "url": "https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl"
+        }
+      ],
+      "duration_ms": 355384,
+      "name": "Olvido",
+      "url": "https://open.spotify.com/track/42v3sjO6HNsN6bITSsK1FE"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Love Me, Haunt Me",
+        "url": "https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye"
+      },
+      "artists": [
+        {
+          "name": "Mitekiss",
+          "url": "https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH"
+        }
+      ],
+      "duration_ms": 249975,
+      "name": "Love Me, Haunt Me",
+      "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Summer Ghost",
+        "url": "https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 310730,
+      "name": "Summer Ghost",
+      "url": "https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 390037,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "All Nyte",
+        "url": "https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "When I\u2019m With U",
+      "url": "https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Burst Mode",
-        "url": "https://open.spotify.com/album/2MR1wOQyssRzljK806oPdL"
-      },
-      "artists": [
-        {
-          "name": "Kassian",
-          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
-        }
-      ],
-      "duration_ms": 308663,
-      "name": "Burst Mode",
-      "url": "https://open.spotify.com/track/5u44VWbluamg169GOTphhc"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "I'm So Weak",
         "url": "https://open.spotify.com/album/3C6Ph8QN3Dyd6RAmPLRO2M"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1IeTVCvmpWSzxAqwv3FALX"
+        "name": "Burst Mode",
+        "url": "https://open.spotify.com/album/2MR1wOQyssRzljK806oPdL"
       },
       "artists": [
         {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
         }
       ],
-      "duration_ms": 209908,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6A1rF79Ewz1eoaTVy2j2bw"
+      "duration_ms": 308663,
+      "name": "Burst Mode",
+      "url": "https://open.spotify.com/track/5u44VWbluamg169GOTphhc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Backyard Swing",
-        "url": "https://open.spotify.com/album/3D9eZfs2IEad2ilfHTKD42"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1IeTVCvmpWSzxAqwv3FALX"
       },
       "artists": [
         {
-          "name": "Raumakustik",
-          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+          "name": "Daniel Orpi",
+          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
         }
       ],
-      "duration_ms": 379202,
-      "name": "Backyard Swing",
-      "url": "https://open.spotify.com/track/6J9zLlywI8Y1LXknqlykV4"
+      "duration_ms": 209908,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6A1rF79Ewz1eoaTVy2j2bw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1815,6 +1799,22 @@
       "duration_ms": 455986,
       "name": "Kare Kare",
       "url": "https://open.spotify.com/track/0NXZXOULYHtEQ8lO6wKAVD"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Backyard Swing",
+        "url": "https://open.spotify.com/album/3D9eZfs2IEad2ilfHTKD42"
+      },
+      "artists": [
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        }
+      ],
+      "duration_ms": 379202,
+      "name": "Backyard Swing",
+      "url": "https://open.spotify.com/track/6J9zLlywI8Y1LXknqlykV4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/7sx9P0z3ebO94x132Gu1bY"
+      },
+      "artists": [
+        {
+          "name": "Muhammed Felfel",
+          "url": "https://open.spotify.com/artist/52gi8uveYD4tCRNyDtcyhE"
+        },
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        }
+      ],
+      "duration_ms": 408387,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/0TzrzJ7NoHhzw09iUefGya"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "All Through The Night",
         "url": "https://open.spotify.com/album/6qtJrkjMwNceiuaeA3elzn"
       },
@@ -1895,34 +1915,6 @@
       "duration_ms": 289275,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/7hVLjiHAIdZ3D89zAKP0nv"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "It's Not Right (Remixes Part I)",
-        "url": "https://open.spotify.com/album/71OezDNd6HxYAB6mthhsUo"
-      },
-      "artists": [
-        {
-          "name": "Gianni Romano",
-          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
-        },
-        {
-          "name": "Emanuele Esposito",
-          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
-        },
-        {
-          "name": "Helen Tesfazghi",
-          "url": "https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT"
-        },
-        {
-          "name": "The Deepshakerz",
-          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "It's Not Right - The Deepshakerz Edit",
-      "url": "https://open.spotify.com/track/1Yj2uNDyW84GmapJBQa4Nm"
     }
   ],
   "unique_name": "New Music Friday Dance",

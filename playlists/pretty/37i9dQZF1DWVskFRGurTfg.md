@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Ñengo Flow y Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,516 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,162 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

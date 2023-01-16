@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,735 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,937 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

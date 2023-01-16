@@ -4,7 +4,7 @@
 
 > Just chill.
 
-424 songs - 1 day 0 hr 32 min
+426 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-01-21 | 2022-10-13 |
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-11 | 2022-04-29 |
 | [Adore](https://open.spotify.com/track/0uX5yDULIjZZKhN70bca7l) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Adore](https://open.spotify.com/album/3C0wljVQ3Ao3YGycB7Tjw4) | 3:27 | 2022-11-25 |  |
+| [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2023-01-15 |  |
 | [alien jewelry](https://open.spotify.com/track/33pTrKPiYyP4F49jCgjNio) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [isolation](https://open.spotify.com/album/43zVD3ARisgdFdyPh8gt8Y) | 3:46 | 2021-01-15 |  |
 | [All I C Is U](https://open.spotify.com/track/2x4NzWn2QKMfnkwZzrQrd5) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Hunny](https://open.spotify.com/album/1jU9A4NHI3xVySNckr0HDn) | 2:40 | 2020-10-16 |  |
 | [All Over Me](https://open.spotify.com/track/0afR4ctrn6l22hzCFh8RYY) | [Cards](https://open.spotify.com/artist/5hzb5m0WYwl0w2495YeGwX), [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [All Over Me](https://open.spotify.com/album/0YgqEIwHyAS6IBqjmVOaC3) | 3:20 | 2020-01-10 | 2022-01-22 |
@@ -56,6 +57,7 @@
 | [Borderline \- Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline \(Blood Orange Remix\)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-25 | 2022-01-22 |
 | [Bright Colors](https://open.spotify.com/track/40sBa8aVT4ibP4pX1qCcHL) | [Jaja Bu](https://open.spotify.com/artist/6iTFxnPZmX0HdWmL73irIa) | [Bright Colors](https://open.spotify.com/album/5dPOkxgLpfrYDuuFwnIVn5) | 3:51 | 2019-09-06 | 2022-01-22 |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-21 |  |
+| [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2023-01-15 |  |
 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 | 2022-01-21 |  |
 | [But There's Still the Moon](https://open.spotify.com/track/0tA5pH2uW1fKCQ44khDie8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [But There's Still the Moon](https://open.spotify.com/album/6hbufZ1A81iozgnd8QMD7B) | 3:39 | 2020-04-17 | 2022-07-29 |
 | [But There's Still The Moon](https://open.spotify.com/track/37DJAHf9kl40AIoHI9Fnsn) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [But There's Still The Moon](https://open.spotify.com/album/1CwsZRhnP2gXJmJap9IGMB) | 3:39 | 2022-06-10 | 2022-08-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 119107,
+  "num_followers": 119283,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGMyODkyOWQyNzVjMTVmODgxMTJlZmExNWYwMDRlZDYy",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMGZhMWY4NjhkNjRiNDNjMDZjNmViMmYzOTVkNmI4Zjkw",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+      },
+      "artists": [
+        {
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+        }
+      ],
+      "duration_ms": 339933,
+      "name": "Mi Ag\u00fcita Amarilla",
+      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+        "name": "Caja de Canciones",
+        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
       "artists": [
         {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Mi Ag\u00fcita Amarilla",
-      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+      "duration_ms": 210893,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -775,22 +791,6 @@
       "duration_ms": 259786,
       "name": "Juegos de Amor",
       "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
-        "name": "Caja de Canciones",
-        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0"
     },
     {
       "added_at": "2021-02-24 17:08:59",

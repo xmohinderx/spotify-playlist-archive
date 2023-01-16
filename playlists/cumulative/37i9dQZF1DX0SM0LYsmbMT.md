@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,301 songs - 5 day 7 hr 20 min
+3,302 songs - 5 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Across the valley](https://open.spotify.com/track/37FTjS7kvGkvw4ftZpO59H) | [l'Outlander](https://open.spotify.com/artist/5tvVRGHiqZjsZDIYvLDdl5) | [Across the valley](https://open.spotify.com/album/4B68R4nArFnb2cgqCUz3Iq) | 2:28 | 2020-12-11 | 2021-03-02 |
 | [Actually Urgent](https://open.spotify.com/track/1eK24FCLgi5Z5zWWdVwfso) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Actually Urgent](https://open.spotify.com/album/5ifLueEAuHLdiaa48LXZEG) | 1:40 | 2022-01-20 | 2022-09-23 |
 | [Adriatica](https://open.spotify.com/track/37k4ukRm7nCkyU6ymyCx0t) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Adriatica](https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3) | 2:24 | 2021-09-10 | 2022-01-21 |
+| [Adrift](https://open.spotify.com/track/1cTBFPIJNSK17JMXoKqVpo) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Adrift](https://open.spotify.com/album/4CtzJMnMngbZaje4tDnh9l) | 2:09 | 2023-01-12 |  |
 | [Adu](https://open.spotify.com/track/54D5XaShAOfQ4O8djPa100) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Adu](https://open.spotify.com/album/5wqZksUCwHNWIGpbP7fiTw) | 1:57 | 2021-09-18 | 2022-05-06 |
 | [adventure](https://open.spotify.com/track/3HD6cDH3fcqHxVttXzdOPn) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [still healing](https://open.spotify.com/album/0pbuKZHDvypvVbcUJTvqaj) | 2:31 | 2019-05-26\* | 2019-12-07 |
 | [Aerosol](https://open.spotify.com/track/06gskiAwHi6wWsmN8j3xSd) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY), [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Aerosol](https://open.spotify.com/album/7w0gF4WaSGMVOWOSksqMk9) | 1:54 | 2020-08-24 | 2021-04-16 |
@@ -922,7 +923,7 @@
 | [Fiends](https://open.spotify.com/track/2UC7ogj95wFTT36NJGLZVe) | [Apfel Gee](https://open.spotify.com/artist/1Mzr3jTJ4ZmhUvjMUlSNEV), [Orlando Rosé](https://open.spotify.com/artist/2E30iFPJsZc9aWS9J2FZHN) | [Life From The Stu'](https://open.spotify.com/album/5RzAcEUVo9UIc32BQkelCv) | 3:31 | 2020-08-08 | 2021-01-15 |
 | [Fifth Avenue](https://open.spotify.com/track/7oiGnvkD0sqFVPNpdIyRFP) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Fifth Avenue](https://open.spotify.com/album/1EVXfBIuKYoiTR4AhrSRz0) | 2:18 | 2021-06-12 | 2021-09-24 |
 | [Fig Trees](https://open.spotify.com/track/7IHckA5OxvDkRTWbDAypZV) | [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Before Sunrise](https://open.spotify.com/album/7cxJCQu8OtMUEMFcHsC5Hl) | 2:43 | 2021-03-14 | 2021-05-28 |
-| [Finally Found U](https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/4uelHunUFz6K88hoByIBmR) | 2:03 | 2022-11-17 | 2022-11-21 |
+| [Finally Found U](https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/4uelHunUFz6K88hoByIBmR) | 2:03 | 2022-11-17 |  |
 | [Finally Found U](https://open.spotify.com/track/7pcYD5IINF1iaIR02Tc8Lf) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/6n4oS9aPtBxTACflyQGjsj) | 2:03 | 2022-11-03 | 2022-11-20 |
 | [Fiore](https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Fiore](https://open.spotify.com/album/5js8xUKFDM0d1MugbsOIdb) | 2:21 | 2021-05-07 | 2021-07-09 |
 | [Fips Loves Peaches](https://open.spotify.com/track/0PdqDic11pv7Wrl1fXsAXY) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Fips Loves Peaches](https://open.spotify.com/album/2UWIUlmBWJvBQouIPWLRQF) | 2:04 | 2020-05-25 | 2020-07-31 |
@@ -2151,7 +2152,7 @@
 | [Paradise Bay](https://open.spotify.com/track/27rdXsSBcpc1Hs6PEQgGNb) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Paradise Bay](https://open.spotify.com/album/2WtdLUXGDMsp1mPFZMo5Hx) | 1:02 | 2022-09-22 | 2022-11-04 |
 | [paradiso](https://open.spotify.com/track/4j4zi8Yi4Btl93w0TOzkhH) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Beats with Brothers, Vol\. 4](https://open.spotify.com/album/1mDqqn7OUI2WJmn2HvMTGD) | 2:15 | 2021-07-02 | 2021-08-06 |
 | [Parallel](https://open.spotify.com/track/2G1fPj8kstbC9wPMZGRJF2) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Parallel](https://open.spotify.com/album/7dovWsJ3gARl8rOzNj0Gp6) | 1:28 | 2022-05-12 | 2022-06-17 |
-| [Parallel](https://open.spotify.com/track/4Tr3RgG7XrLgbfXKUMJQP5) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Parallel](https://open.spotify.com/album/1u9RPIrOqbAZkb4hmHXUAC) | 2:40 | 2021-07-17 |  |
+| [Parallel](https://open.spotify.com/track/4Tr3RgG7XrLgbfXKUMJQP5) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Parallel](https://open.spotify.com/album/1u9RPIrOqbAZkb4hmHXUAC) | 2:40 | 2021-07-17 | 2023-01-16 |
 | [Paris](https://open.spotify.com/track/4iXGlh1ll5c1eFiOTEz9zf) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [Paris](https://open.spotify.com/album/0jjb3Bioy82WVl0By5feVO) | 2:27 | 2019-05-26\* | 2019-06-15 |
 | [Pariscentric](https://open.spotify.com/track/3xQvG7jYaxHmJ0hFaf7r1n) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Pariscentric](https://open.spotify.com/album/6Nitbj8xQkoLb6tanW2KDH) | 2:00 | 2020-02-11 | 2020-05-19 |
 | [Park Petrol](https://open.spotify.com/track/3rZn7R8ZBPn16MOmNn4gjI) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Park Petrol](https://open.spotify.com/album/6GPjqXoK5l7ybDc7kKVeCo) | 2:34 | 2021-04-04 | 2021-08-27 |
@@ -3291,7 +3292,7 @@
 | [Your Love](https://open.spotify.com/track/1ehlPAd9LL7wTbA2mRNkzq) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/58pBJEPnNvKwR2IrKiQiW3) | 2:18 | 2022-11-17 |  |
 | [Your Love](https://open.spotify.com/track/3xom10uoqJkepRQVRuXzKM) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/5I5QLxHhtAG4XZAMwrLECe) | 2:18 | 2022-03-24 | 2022-11-20 |
 | [Yucca](https://open.spotify.com/track/2l2VhcUOu7reM8FuefmYot) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Yucca](https://open.spotify.com/album/1HNrE1zGLz0WakaGj0J0ry) | 2:08 | 2021-06-05 | 2022-04-01 |
-| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 |  |
+| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 | 2023-01-16 |
 | [Yume](https://open.spotify.com/track/00MqUOs251nhIMylhkHr8K) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Yume](https://open.spotify.com/album/1ChtM7N6WHf5Lyq37IwszZ) | 1:41 | 2022-07-21 | 2022-09-23 |
 | [z](https://open.spotify.com/track/1eWiV1OR3IGbInORESHF66) | [Jopez](https://open.spotify.com/artist/3qooMZibvBeHw1K1hfm5vz) | [z](https://open.spotify.com/album/366KfG46QfihcMKsPnyr0U) | 2:29 | 2020-12-01 | 2021-01-04 |
 | [Zairi](https://open.spotify.com/track/0BkjeckjiuLr9W5sa1YcE3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Zairi](https://open.spotify.com/album/6wXugGXotXqibuOVzXTAM6) | 2:05 | 2022-09-15 |  |

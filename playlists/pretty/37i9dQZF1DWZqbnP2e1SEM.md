@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,415 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,403 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 82 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
 | 83 | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \- Remix](https://open.spotify.com/track/09nPy5k6stAMSmnYqrTaqv) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \[Remix\]](https://open.spotify.com/album/6KMYCz8o1hv068w8Fyb7mt) | 2:53 |
 | 84 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 |
-| 85 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
-| 86 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
+| 85 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
+| 86 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
 | 87 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
 | 88 | [Every Single Time \(with Silky\)](https://open.spotify.com/track/61drLfij7yoXMTYIY8088V) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Every Single Time \(with Silky\)](https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX) | 2:47 |
 | 89 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 |
 | 100 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 
-Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDc3YjM2ZGI0MmM3NzdiZGVlN2Q0ZDA2ZGM1YzhkNDlh`
+Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDc2NTU5MzZmNzVhY2JhOGU3MTNkNzU1MjliMTBjZWYz`

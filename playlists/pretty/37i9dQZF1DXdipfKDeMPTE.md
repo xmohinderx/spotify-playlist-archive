@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,489 likes - 276 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,527 likes - 276 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 56 | [paris](https://open.spotify.com/track/70pmjmW5fmcKl2jA1JWHvj) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [paris](https://open.spotify.com/album/2WlvbIwWLEwkflo74OMKQS) | 2:15 |
 | 57 | [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 |
 | 58 | [Moonlight over Berlin](https://open.spotify.com/track/7xlsc2DKFeGVpX5j75IedC) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Moonlight over Berlin](https://open.spotify.com/album/3vWziBwLsv2STXfJR2wnnJ) | 2:25 |
-| 59 | [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 |
+| 59 | [Seven Seas](https://open.spotify.com/track/58QEUVMhf4ngIuJbmect7Y) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/2QcGmtIa9PTcwai3NlSedF) | 2:27 |
 | 60 | [Bhutan](https://open.spotify.com/track/6tz5m79w0m4fYEuSFSP5zR) | [Lil Weggis](https://open.spotify.com/artist/6FbvA8gHMGNtk5v7zYX7IV) | [Bhutan](https://open.spotify.com/album/5pEUFCOP2yRIxakTK3W5hU) | 1:51 |
 | 61 | [Moonlight Sonata](https://open.spotify.com/track/4Rjyl9EtVoXTf5cXiBr2R3) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Moonlight Sonata](https://open.spotify.com/album/0fFzxBcaCHEXRa4BI07oCp) | 2:45 |
 | 62 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 275 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 |
 | 276 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |
 
-Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMGNhNzNiY2ViMTQ0M2U5MmYzNDQ3NDExMmZmMjk0Mzk4`
+Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDAyZjcyYjE1MjA2ZGZlNGU1MWFmZDU4YmFiZTcwNTJm`

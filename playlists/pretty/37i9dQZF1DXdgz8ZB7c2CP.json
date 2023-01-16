@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring music by Pauline Herr.",
-  "num_followers": 738550,
+  "num_followers": 738639,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDMzMTgyMjE3OWY5ZTU0MmVhZjQzYzcxOTNjYTQxY2Iz",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQ3MmViODk1ODZlMTlmYjU2YmFkZDRhOWU5MTk2ZWRh",
   "tracks": [
     {
       "added_at": "2022-12-21 16:54:11",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Sensations (Whethan Remix)",
-        "url": "https://open.spotify.com/album/61c6h1JqtXdWF2Ivygls4d"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 231272,
-      "name": "Sensations - Whethan Remix",
-      "url": "https://open.spotify.com/track/3Rhbpb5OUI4BbK580AUpew"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Sensations (Whethan Remix)",
+        "url": "https://open.spotify.com/album/61c6h1JqtXdWF2Ivygls4d"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 231272,
+      "name": "Sensations - Whethan Remix",
+      "url": "https://open.spotify.com/track/3Rhbpb5OUI4BbK580AUpew"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "A Taste of Hope",
+        "url": "https://open.spotify.com/album/5pJrszvENBXyggrnxJ9IsF"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 223281,
+      "name": "A Taste of Hope",
+      "url": "https://open.spotify.com/track/2jXxVzLf4eiVEnQTz7RxUq"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "You Should Run",
         "url": "https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 299255,
       "name": "You Should Run",
       "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "A Taste of Hope",
-        "url": "https://open.spotify.com/album/5pJrszvENBXyggrnxJ9IsF"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 223281,
-      "name": "A Taste of Hope",
-      "url": "https://open.spotify.com/track/2jXxVzLf4eiVEnQTz7RxUq"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "A Place Where Mountains Hide",
-        "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
-      },
-      "artists": [
-        {
-          "name": "acloudyskye",
-          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "A Drowning Cry",
-      "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Rooms on the Ark",
         "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
       },
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Kids (feat. dawsonLIED)",
-        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+        "name": "A Place Where Mountains Hide",
+        "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
       },
       "artists": [
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "dawsonLIED",
-          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
+          "name": "acloudyskye",
+          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Kids (feat. dawsonLIED)",
-      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
+      "duration_ms": 253333,
+      "name": "A Drowning Cry",
+      "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1271,6 +1251,26 @@
       "duration_ms": 223961,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "Kids (feat. dawsonLIED)",
+        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Kids (feat. dawsonLIED)",
+      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1347,22 +1347,42 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "PILLARS ///",
-        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "MOONZz",
-          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
         }
       ],
-      "duration_ms": 205989,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
+      "duration_ms": 259660,
+      "name": "Something Wonderful",
+      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/5SBJTWXuATqUi9pzhK5MnH"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Rando",
+          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/4heGpp2Hkh0xyTnwduAPxc"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1387,6 +1407,26 @@
       "duration_ms": 211200,
       "name": "Escape Reality",
       "url": "https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "PILLARS ///",
+        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        }
+      ],
+      "duration_ms": 205989,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1427,46 +1467,6 @@
       "duration_ms": 185142,
       "name": "FLOW IN YOU",
       "url": "https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 259660,
-      "name": "Something Wonderful",
-      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/5SBJTWXuATqUi9pzhK5MnH"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Rando",
-          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/4heGpp2Hkh0xyTnwduAPxc"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Open Blinds",
-        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Open Blinds",
-      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Sticky Love",
         "url": "https://open.spotify.com/album/3g0rJ4Y6CGySTQK1L8j2Op"
       },
@@ -1599,38 +1583,18 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "Blueberry",
-        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
+        "name": "Open Blinds",
+        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
       },
       "artists": [
         {
-          "name": "Direct",
-          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
-        },
-        {
-          "name": "Exist Strategy",
-          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
+      "duration_ms": 255579,
+      "name": "Open Blinds",
+      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1651,6 +1615,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "Mess With Me",
         "url": "https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6"
       },
@@ -1667,18 +1647,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "\u200ekinder \u200eopposites",
-        "url": "https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ"
+        "name": "Blueberry",
+        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Exist Strategy",
+          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
         }
       ],
-      "duration_ms": 102400,
-      "name": "\u200ekinder \u200eopposites",
-      "url": "https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI"
+      "duration_ms": 212840,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1699,6 +1683,22 @@
       "duration_ms": 177947,
       "name": "Mind",
       "url": "https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "\u200ekinder \u200eopposites",
+        "url": "https://open.spotify.com/album/6BVsvhJucDYyb9LhM1MzcQ"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "\u200ekinder \u200eopposites",
+      "url": "https://open.spotify.com/track/3MYGkr4LPB4erhr97GnHbI"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
-        "name": "kora",
-        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 282870,
-      "name": "kora",
-      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/044FEBDoSpn23zEBgb41E0"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 240666,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5QBB6vLewAk62JW9NiWOOR"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
+        "name": "kora",
+        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 282870,
+      "name": "kora",
+      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "MOON WALK",
+        "url": "https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        }
+      ],
+      "duration_ms": 156553,
+      "name": "MOON WALK",
+      "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "gold",
         "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 222866,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "MOON WALK",
-        "url": "https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        }
-      ],
-      "duration_ms": 156553,
-      "name": "MOON WALK",
-      "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "All Glows",
+        "url": "https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "I Love You, Keep Going (The Remixes)",
         "url": "https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 177103,
       "name": "Under the Same Stars - Sweater Beats Remix",
       "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "All Glows",
-        "url": "https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad"
     },
     {
       "added_at": "2022-12-21 16:54:11",
@@ -2279,6 +2279,26 @@
     {
       "added_at": "2022-12-21 16:54:11",
       "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Rome",
+          "url": "https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 171129,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
+    },
+    {
+      "added_at": "2022-12-21 16:54:11",
+      "album": {
         "name": "Radiate",
         "url": "https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv"
       },
@@ -2307,26 +2327,6 @@
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"
-    },
-    {
-      "added_at": "2022-12-21 16:54:11",
-      "album": {
-        "name": "I Need",
-        "url": "https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX"
-      },
-      "artists": [
-        {
-          "name": "Sasha Rome",
-          "url": "https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 171129,
-      "name": "I Need",
-      "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
     },
     {
       "added_at": "2022-12-21 16:54:11",

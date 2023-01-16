@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-224 songs - 8 hr 50 min
+225 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,12 @@
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 |  |
 | [Barry](https://open.spotify.com/track/1AkNp3Q3ygwZrTZ20TBuTw) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz) | [Timbits III \- Last Timbit of the Night](https://open.spotify.com/album/77DdAbZ2rKTZwCnD537QNt) | 3:44 | 2022-04-15 | 2022-07-19 |
 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 | 2022-04-15 | 2022-07-28 |
-| [belas](https://open.spotify.com/track/4AiI4vY2SnkfGN6MbZpXtf) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 3:01 | 2022-04-15 |  |
+| [belas](https://open.spotify.com/track/4AiI4vY2SnkfGN6MbZpXtf) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 3:01 | 2022-04-15 | 2023-01-16 |
 | [Birth](https://open.spotify.com/track/2IuahHLicmQfUD0JgZk5ME) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Birth](https://open.spotify.com/album/2SxPIjuvVoJiDM673eB7hU) | 2:39 | 2022-04-15 | 2022-07-28 |
 | [Brazilian Samurai](https://open.spotify.com/track/6ITLE7JzvrfBwsFqbGtWoL) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brazilian Samurai](https://open.spotify.com/album/4lotT58cTAdgciKcWdSl8W) | 2:41 | 2022-04-15 | 2022-07-29 |
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
-| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2023-01-08 |
+| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 |  |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 |  |
 | [Clouds on My Bed](https://open.spotify.com/track/1pab9zVbWB1AsOknBXifbd) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:32 | 2022-04-15 | 2022-07-04 |
@@ -130,7 +130,7 @@
 | [nagashi](https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:49 | 2022-04-15 |  |
 | [Night Drive](https://open.spotify.com/track/5yrnPW4ebZU5p74qH90wsi) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Night Drive](https://open.spotify.com/album/7zNZKPJW5rqwuNuQw42dly) | 1:04 | 2022-04-15 | 2022-07-29 |
 | [Nightflower](https://open.spotify.com/track/0c4oYO95j7bdgiODBXeFQR) | [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o), [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO) | [Nightflower](https://open.spotify.com/album/6m24MTdY8rMYdEKWxOJh0w) | 1:26 | 2022-04-15 | 2022-07-29 |
-| [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 |  |
+| [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 | 2023-01-16 |
 | [Nostalgia](https://open.spotify.com/track/6OgXPYyiTAV2bdbYrB1aGs) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 |  |
 | [Old Town](https://open.spotify.com/track/1Ly9DQ9qgelrGZX6TZvjr9) | [Hussain Ali](https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Old Town](https://open.spotify.com/album/2oPxjmBzJCnXDntOnVHzuX) | 3:30 | 2022-04-15 | 2022-07-29 |
@@ -227,6 +227,7 @@
 | [we used to talk every night](https://open.spotify.com/track/0tqIvb0b7WpOYMYJR2Ef38) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/4qSrP99f58y212MoMioGu0) | 2:02 | 2022-04-15 | 2022-12-08 |
 | [what does hiphop mean to you](https://open.spotify.com/track/7qFb8eLt503uCdvhUmlmvS) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [beat tape 06](https://open.spotify.com/album/5zpXXNH6qDDCeLPS6hLO3Y) | 2:03 | 2022-04-15 | 2022-07-25 |
 | [when the sun goes down](https://open.spotify.com/track/6uGuRIuiW7QBnSOuCELiIy) | [Aschen](https://open.spotify.com/artist/2EbcgO69SwHoTLvjsi9OZt) | [when the sun goes down](https://open.spotify.com/album/7el5zexVmDu0HKUf5s3xXH) | 1:48 | 2022-04-15 | 2022-07-29 |
+| [Where I Met You](https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY) | 2:21 | 2022-04-15 |  |
 | [Where I Met You](https://open.spotify.com/track/2AuHTUSBMMNVHeO93a6n25) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/5ytO2NvW7eW9ABV5RcyvDI) | 2:21 | 2022-04-15 | 2022-07-28 |
 | [Windows](https://open.spotify.com/track/2uoeJVAbt8T7ll0DwuWJUP) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Windows](https://open.spotify.com/album/1QRuZsLFV72Mawubk2QsMe) | 1:10 | 2022-04-15 | 2022-07-29 |
 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 | 2022-04-15 | 2022-07-29 |

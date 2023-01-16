@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-250 songs - 21 hr 14 min
+251 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-11-10 | 2022-12-08 |
 | [Almost Blue](https://open.spotify.com/track/5VMVG1XzdiIY8dGnwaKiDJ) | [Fay Claassen](https://open.spotify.com/artist/5NRdz3sJhdfzGhHE9zK5Lz) | [Sings Two Portraits Of Chet Baker](https://open.spotify.com/album/7CgSA98wX3HgocA6IL5F9T) | 5:36 | 2022-05-18 | 2022-08-27 |
 | [Alone Together](https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 6:49 | 2022-05-18 | 2022-11-11 |
+| [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-10 | 2022-12-24 |
 | [Autumn Leaves](https://open.spotify.com/track/4cBpmIjCDJ9k5o0EHaDZkp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole \- Unforgettable](https://open.spotify.com/album/5UF70dBT0xrMvQkPj4nJqk) | 2:41 | 2022-05-18 | 2022-06-23 |
 | [B Minor Waltz \- Remastered 2003](https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 3:16 | 2022-05-18 |  |
@@ -176,7 +177,7 @@
 | [Re: Person I Knew](https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:43 | 2022-05-18 | 2022-06-23 |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-11-10 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-11-10 |  |
-| [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-05-18 |  |
+| [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-05-18 | 2023-01-16 |
 | [Sad Story](https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw) | [Sad Story](https://open.spotify.com/album/7EozYiaqWtSWnQ1l0gaqVH) | 5:30 | 2022-08-26 | 2022-10-27 |
 | [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2022-12-01 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-05-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,365 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,350 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 15 | [Vertrau dir nicht](https://open.spotify.com/track/0rc5Xe21tVqyPlIzfRFOQp) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Vertrau dir nicht](https://open.spotify.com/album/0zjzXGObG8eQ8XYO28qWhg) | 2:41 |
 | 16 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
-| 17 | [Wach](https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Wach](https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7) | 2:39 |
-| 18 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
-| 19 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
-| 20 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
+| 17 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
+| 18 | [Wach](https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Wach](https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7) | 2:39 |
+| 19 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
+| 20 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
 | 21 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
 | 22 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 |
 | 23 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Gnxta Love](https://open.spotify.com/track/6ZiepO0OmSYOEI6WRhuw5K) | [Dimi Rompos](https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL) | [Gnxta Love](https://open.spotify.com/album/2sx1blo3dHoC3itrX3yBxD) | 3:07 |
 | 50 | [Villain \- Live Version](https://open.spotify.com/track/6FXyKhbMs5lEnoBgGiq8bY) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain \(Live Version\)](https://open.spotify.com/album/229KTGQ0nvTlk2Apx2sGkB) | 5:14 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDFiZmIwZDYwMDJjNWEzYjlhMzZiMTUxMWExYWVmMTky`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGE5YjM1MTUzOGYyY2U4MzJkYWE0N2ZmOTFjYWYwMjRm`

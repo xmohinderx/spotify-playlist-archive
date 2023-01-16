@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 60187,
+  "num_followers": 60337,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMDM5MmQ1YTQxNGQ4MGE1YTE3YzdkNDkxMTM4ODU3ZTVh",
+  "snapshot_id": "MTY2ODY5NjMyNSwwMDAwMDAwMGM1NjgyNTE0NWViMGU2ZmQxMzNjMjRmYTQyZTIyZDQw",
   "tracks": [
     {
       "added_at": "2022-11-17 14:45:25",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Ry Cooder",
-        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Available Space",
-      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "Best - Southern Blues",
         "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 237680,
       "name": "Taylor's Rock",
       "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Ry Cooder",
+        "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Available Space",
+      "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
     },
     {
       "added_at": "2022-11-17 14:45:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-17 14:45:25",
       "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
-    },
-    {
-      "added_at": "2022-11-17 14:45:25",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
+    },
+    {
+      "added_at": "2022-11-17 14:45:25",
+      "album": {
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
     },
     {
       "added_at": "2022-11-17 14:45:25",

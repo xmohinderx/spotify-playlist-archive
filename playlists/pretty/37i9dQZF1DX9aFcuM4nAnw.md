@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 15 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
 | 16 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 17 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 |
-| 18 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
-| 19 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
+| 18 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
+| 19 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
 | 20 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 |
 | 21 | [The First I love You](https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:26 |
 | 22 | [Elegia \- 2015 Remaster](https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life](https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB) | 4:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
 | 75 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDNhMGU5NTZmYzZjZDdmYzQ3YmI0NmJkYWEwODBiNDEx`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDAyZDgyZjk2NDFhN2VhMzMyOTFjNDYzZDNhZGE1YTVl`

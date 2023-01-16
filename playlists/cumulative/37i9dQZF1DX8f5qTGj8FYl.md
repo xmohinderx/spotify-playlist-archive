@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-213 songs - 14 hr 55 min
+214 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2020-11-13 |  |
 | [Bounce: pts I + II](https://open.spotify.com/track/4CewWsIgEbKcSBtrgi0T9o) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/6U0q62N1S9dRXLNDE6PigD) | 5:33 | 2020-11-13 | 2022-07-29 |
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2020-11-13 | 2022-11-07 |
-| [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 | 2020-11-13 |  |
+| [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 | 2020-11-13 | 2023-01-16 |
 | [Bruise Cruise](https://open.spotify.com/track/7HhEOS1ofdOux6MjupAjV1) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Bruise Cruise](https://open.spotify.com/album/1nqoZShtqXAOyP8h0a5wlS) | 2:13 | 2021-10-22 | 2022-07-29 |
 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 | 2022-02-25 | 2023-01-14 |
 | [Call Your Mom](https://open.spotify.com/track/2PiYyDEaXrT5PtJxJE3l7E) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [I Told You So](https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4) | 3:59 | 2020-11-13 |  |
@@ -158,6 +158,7 @@
 | [Prime \(Electric Kiss\)](https://open.spotify.com/track/2LdeIrenmyRV7zYpLzyfgE) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [contributions \(Side B\)](https://open.spotify.com/album/1SQOJ3Biss7BCXmhQQhmok) | 3:04 | 2022-05-06 | 2022-07-02 |
 | [PROG](https://open.spotify.com/track/6oHXksqLTLGNTBb24g1tRy) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [WINTER](https://open.spotify.com/album/5GRKKSeFR3jo08wsmvTZFa) | 2:06 | 2023-01-06 |  |
 | [Prospect Park West](https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [Prospect Park West](https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ) | 2:56 | 2022-07-08 |  |
+| [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 | 2022-04-01 |  |
 | [Psychic Powers](https://open.spotify.com/track/5xhQ3UWq2LhlYKFy1G1kY5) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/3JfCmBfzyP1Na1ZYOblBCz) | 2:38 | 2022-04-01 | 2022-12-30 |
 | [Return of the Haggis](https://open.spotify.com/track/2EijA4bczPGQ43cdx9qfdp) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [What Comes to Mind](https://open.spotify.com/album/530KNZYoofT4NHsueeogDI) | 4:10 | 2020-11-13 | 2022-07-08 |
 | [Return of the Son of Switchblade](https://open.spotify.com/track/4TJoZj7r0VUtlNQrkXwpna) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Return of the Son of Switchblade](https://open.spotify.com/album/7LK5KbUs9DXpzCJiLv8ZJs) | 3:32 | 2021-06-18 | 2022-07-29 |

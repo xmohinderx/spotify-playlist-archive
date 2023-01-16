@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 19810,
+  "num_followers": 19847,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDlkNDM2MTRhMzJmZWM1N2Y0MTkwOWYxM2VkNzg4ZjQx",
+  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDJjZGUyZDA4ODllMjNmYjRhOTA5MWRhYmRkYTJkNzU4",
   "tracks": [
     {
       "added_at": "2022-11-03 19:39:49",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Swap For A Swap (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/6SaGt9q4tJi6HSFRbahDHh"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 230511,
       "name": "Swap For A Swap (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6zWUG46uJdW4OensV1Oo7B"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Rosary",
         "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf"
+        "name": "Gangsta Movie",
+        "url": "https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX"
       },
       "artists": [
         {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w"
+      "duration_ms": 133333,
+      "name": "Rich $outh Sider",
+      "url": "https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -411,22 +427,6 @@
       "duration_ms": 138725,
       "name": "For Me",
       "url": "https://open.spotify.com/track/59wsqc9aVywLF487u24T6a"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Gangsta Movie",
-        "url": "https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX"
-      },
-      "artists": [
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Rich $outh Sider",
-      "url": "https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -463,26 +463,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Grimey Park",
-        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
       },
       "artists": [
         {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
         }
       ],
-      "duration_ms": 163350,
-      "name": "Grimey Park",
-      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
+      "duration_ms": 213861,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -547,18 +539,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
+        "name": "Grimey Park",
+        "url": "https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF"
       },
       "artists": [
         {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
         }
       ],
-      "duration_ms": 213861,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB"
+      "duration_ms": 163350,
+      "name": "Grimey Park",
+      "url": "https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c"
-      },
-      "artists": [
-        {
-          "name": "xBValentine",
-          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
-        },
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 135809,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Tonta",
         "url": "https://open.spotify.com/album/4l7qWzkUUbs0u2394k8U3a"
       },
@@ -675,6 +655,22 @@
       "duration_ms": 144000,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/5IwH7OOuzUozuGAB7Cf1yz"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Free Smoke",
+        "url": "https://open.spotify.com/album/2vV9pj9ofjpHuJe4EW8DIF"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Free Smoke",
+      "url": "https://open.spotify.com/track/5413IRm3nmvujyJiEZ8foy"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -699,6 +695,42 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/60fjnVP2cNnusvwPSMpF4c"
+      },
+      "artists": [
+        {
+          "name": "xBValentine",
+          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 135809,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/3bINLdpXM79obFwY6pESAS"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Gang Coast",
+        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 196608,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "SUPER RICA",
         "url": "https://open.spotify.com/album/3LgdemFTfdon9ptcVqbNuM"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 173164,
       "name": "SUPER RICA",
       "url": "https://open.spotify.com/track/12bxE3e4YZ5ofZdytpzDPn"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Free Smoke",
-        "url": "https://open.spotify.com/album/2vV9pj9ofjpHuJe4EW8DIF"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Free Smoke",
-      "url": "https://open.spotify.com/track/5413IRm3nmvujyJiEZ8foy"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -747,22 +763,6 @@
       "duration_ms": 176485,
       "name": "Drug Dealerz",
       "url": "https://open.spotify.com/track/1bESLbwe0ssCAbTkVwwPcS"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Gang Coast",
-        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "The Man Who Fell To Earth",
-        "url": "https://open.spotify.com/album/7JL67si0UZNoev6kwD4jAY"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 137273,
-      "name": "Shattered",
-      "url": "https://open.spotify.com/track/0w2YKaOL31NhORK7fvhUAQ"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 250000,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "The Man Who Fell To Earth",
+        "url": "https://open.spotify.com/album/7JL67si0UZNoev6kwD4jAY"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 137273,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/0w2YKaOL31NhORK7fvhUAQ"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Kap On Edge",
+        "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Tyra Banks",
+      "url": "https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Street Lights",
         "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 153934,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Kap On Edge",
-        "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Tyra Banks",
-      "url": "https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Smile Now",
+        "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 170514,
+      "name": "Smile Now",
+      "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "From The Gravel",
         "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 135959,
       "name": "Palo De Santo",
       "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Smile Now",
-        "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 170514,
-      "name": "Smile Now",
-      "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
     },
     {
       "added_at": "2022-11-03 19:39:49",

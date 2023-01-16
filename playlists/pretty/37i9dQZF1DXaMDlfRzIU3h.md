@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMDlfRzIU3h.md) - [plain]
 
 > Featuring Bizarrap, Anuel AA, Rauw Alejandro & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

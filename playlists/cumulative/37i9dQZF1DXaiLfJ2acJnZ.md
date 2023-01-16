@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-221 songs - 11 hr 39 min
+222 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Defeated](https://open.spotify.com/track/75Y2syEzwawmsPHJ0AgJur) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Defeated](https://open.spotify.com/album/3fjzcW8rUHomLk7Kx2a34F) | 3:03 | 2021-11-25 | 2022-01-22 |
 | [Distraction](https://open.spotify.com/track/7u2kKqLEszpUyIPbErP2aP) | [Lydia Ford](https://open.spotify.com/artist/2pC5evGCBphU1KuCK8MoS5) | [All or Nothing](https://open.spotify.com/album/23rfVUiMkwD26CpQdDVl8P) | 3:01 | 2021-11-25 | 2022-06-08 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2021-11-25 | 2023-01-07 |
-| [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 | 2022-09-23 |  |
+| [East End Coast](https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:46 | 2022-10-28 |  |
+| [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 | 2022-09-23 | 2023-01-16 |
 | [East End Coast](https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy) | 3:46 | 2022-09-23 | 2022-10-13 |
 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 | 2021-11-25 |  |
 | [Echo](https://open.spotify.com/track/06jqRie1u71Czn4BXQ6h7Y) | [Eva Campbell](https://open.spotify.com/artist/0JfXRez9odpHlpntvtt5qS) | [Echo](https://open.spotify.com/album/3cRSdGUirmdloX4kjmBrJY) | 3:07 | 2022-01-21 | 2022-07-29 |

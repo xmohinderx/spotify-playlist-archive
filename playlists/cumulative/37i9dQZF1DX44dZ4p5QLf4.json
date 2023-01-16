@@ -5316,10 +5316,28 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 289946,
       "name": "Told you so",
       "url": "https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj"
+    },
+    {
+      "album": {
+        "name": "To be naive",
+        "url": "https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6"
+      },
+      "artists": [
+        {
+          "name": "Adja",
+          "url": "https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289946,
+      "name": "Told you so",
+      "url": "https://open.spotify.com/track/6pZpkqgCRWSDGfkZHRbP0e"
     },
     {
       "album": {

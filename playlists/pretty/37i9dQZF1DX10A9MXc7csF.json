@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Omar Rodriquez ",
-  "num_followers": 96995,
+  "num_followers": 97015,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNzYzMSwwMDAwMDAwMDI4YjhlMjA0YWU0OWY1MzliODA3MTEyNzUxYWIxMTc5",
+  "snapshot_id": "MTY3MzYyNzYzMSwwMDAwMDAwMDFlYmNkNWVhZWRhMTU4ZGVjNWUyZDcwMWMxYTZhYWM0",
   "tracks": [
     {
       "added_at": "2023-01-13 16:33:51",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Manzana en el Mapa",
-        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
-      },
-      "artists": [
-        {
-          "name": "Tony Loya",
-          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 183501,
-      "name": "Manzana en el Mapa",
-      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Ya Me Va Mejor",
         "url": "https://open.spotify.com/album/3RgShSLXoIuOWKEgziNjEx"
       },
@@ -675,6 +655,26 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
+        "name": "Manzana en el Mapa",
+        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 183501,
+      "name": "Manzana en el Mapa",
+      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
         "name": "Una Linda Canci\u00f3n",
         "url": "https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 268557,
       "name": "Una Linda Canci\u00f3n",
       "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "Puro Pa' Delante",
+        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 153679,
+      "name": "Puro Pa' Delante",
+      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Ya Te Borre",
-        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 205269,
-      "name": "Ya Te Borre",
-      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Ve Nada Mas",
         "url": "https://open.spotify.com/album/1jRUDpdNrA8N1tK13bLsry"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 190314,
       "name": "Ve Nada Mas",
       "url": "https://open.spotify.com/track/4Y1F0pOIXmClD85dHLBW8D"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "Ya Te Borre",
+        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
+      },
+      "artists": [
+        {
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
+        }
+      ],
+      "duration_ms": 205269,
+      "name": "Ya Te Borre",
+      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Mi Coraz\u00f3n Lloro",
-        "url": "https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy"
-      },
-      "artists": [
-        {
-          "name": "Jonatan Fuentes",
-          "url": "https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "Mi Coraz\u00f3n Lloro",
-      "url": "https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Hoodboys",
         "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Puro Pa' Delante",
-        "url": "https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B"
+        "name": "Mi Coraz\u00f3n Lloro",
+        "url": "https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Jonatan Fuentes",
+          "url": "https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG"
         }
       ],
-      "duration_ms": 153679,
-      "name": "Puro Pa' Delante",
-      "url": "https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8"
+      "duration_ms": 172546,
+      "name": "Mi Coraz\u00f3n Lloro",
+      "url": "https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Ganas de Amarte",
-        "url": "https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nueva Liga",
-          "url": "https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk"
-        }
-      ],
-      "duration_ms": 203710,
-      "name": "Ganas de Amarte",
-      "url": "https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Te Mereces A Mi",
         "url": "https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 140354,
       "name": "Te Mereces A Mi",
       "url": "https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "Ganas de Amarte",
+        "url": "https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nueva Liga",
+          "url": "https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Ganas de Amarte",
+      "url": "https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 173294,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Estilo Palazuelos",
         "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 155821,
       "name": "Estilo Palazuelos",
       "url": "https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 173294,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "El Pollero",
-        "url": "https://open.spotify.com/album/5HqTNH8UkhBWWr3H6amZ8C"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "El Pollero",
-      "url": "https://open.spotify.com/track/4ThjCHeQomkKoHcCBEenWR"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Precavido",
         "url": "https://open.spotify.com/album/4qCTImRLK3QxDT2bziOAwO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 194154,
       "name": "Precavido",
       "url": "https://open.spotify.com/track/5DI9CQ9cvvOnIlA5HDH3Qa"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "El Pollero",
+        "url": "https://open.spotify.com/album/5HqTNH8UkhBWWr3H6amZ8C"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "El Pollero",
+      "url": "https://open.spotify.com/track/4ThjCHeQomkKoHcCBEenWR"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1139,6 +1139,26 @@
       "duration_ms": 207999,
       "name": "Hasta Arriba",
       "url": "https://open.spotify.com/track/721YplUtlKxxxh5sDIWYda"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "SUR 99",
+        "url": "https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Primera Elegancia",
+          "url": "https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "SUR 99",
+      "url": "https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1231,22 +1251,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "Una Ocasi\u00f3n De Verano",
-        "url": "https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 139648,
-      "name": "Una Ocasi\u00f3n De Verano",
-      "url": "https://open.spotify.com/track/3rMfRM6oZDISCraYfSBUND"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "El Morro De La Cuadra",
         "url": "https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG"
       },
@@ -1259,6 +1263,22 @@
       "duration_ms": 95586,
       "name": "El Morro De La Cuadra",
       "url": "https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "Una Ocasi\u00f3n De Verano",
+        "url": "https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 139648,
+      "name": "Una Ocasi\u00f3n De Verano",
+      "url": "https://open.spotify.com/track/3rMfRM6oZDISCraYfSBUND"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1291,26 +1311,6 @@
       "duration_ms": 206112,
       "name": "Me Dicen El Flako",
       "url": "https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
-        "name": "SUR 99",
-        "url": "https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5"
-      },
-      "artists": [
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        },
-        {
-          "name": "Primera Elegancia",
-          "url": "https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "SUR 99",
-      "url": "https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T"
     },
     {
       "added_at": "2023-01-13 16:33:51",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-13 16:33:51",
       "album": {
-        "name": "El Patio del Recreo",
-        "url": "https://open.spotify.com/album/3TaL6RfqObbnteKNqTkXxl"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Laguna",
-          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
-        }
-      ],
-      "duration_ms": 259545,
-      "name": "El Patio del Recreo",
-      "url": "https://open.spotify.com/track/57euVTGPIu9ctFHs5PvjNV"
-    },
-    {
-      "added_at": "2023-01-13 16:33:51",
-      "album": {
         "name": "Tu Forma",
         "url": "https://open.spotify.com/album/387B38c0gvCoycIJTWZ3Cb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 115000,
       "name": "Tu Forma",
       "url": "https://open.spotify.com/track/0K6oPQDNwG2rMxRuZzWnrz"
+    },
+    {
+      "added_at": "2023-01-13 16:33:51",
+      "album": {
+        "name": "El Patio del Recreo",
+        "url": "https://open.spotify.com/album/3TaL6RfqObbnteKNqTkXxl"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Laguna",
+          "url": "https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "El Patio del Recreo",
+      "url": "https://open.spotify.com/track/57euVTGPIu9ctFHs5PvjNV"
     },
     {
       "added_at": "2023-01-13 16:33:51",

@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-121 songs - 11 hr 4 min
+122 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Sacred Rituals](https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel) | [Jonas Sjøvaag](https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT), [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m) | [Ancient Land, New Territory](https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe) | 7:39 | 2022-08-12 |  |
 | [Salme](https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 8:58 | 2022-06-01 |  |
 | [Seasons' Change](https://open.spotify.com/track/39qOYqccZpJBs8gHb8EkPy) | [Armen Donelian](https://open.spotify.com/artist/68zxZ3Dwy30yeV3rGTRat8), [Carl Morten Iversen](https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq) | [Trio '87](https://open.spotify.com/album/42T6V1P8cpUAlyZ3xfq5zs) | 5:44 | 2022-06-01 | 2022-09-26 |
-| [Seaweed](https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe) | [Trondheim Jazz Orchestra](https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw), [Albatrosh](https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR) | [Tree House](https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG) | 7:29 | 2022-06-01 |  |
+| [Seaweed](https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe) | [Trondheim Jazz Orchestra](https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw), [Albatrosh](https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR) | [Tree House](https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG) | 7:29 | 2022-06-01 | 2023-01-16 |
 | [Silence](https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J) | [Anders Hagberg](https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ), [Johannes Lundberg](https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG) | [Silence](https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ) | 4:41 | 2022-06-01 |  |
 | [Slaraffenland](https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN) | [Jakob Dinesen](https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0) | [One Kiss Too Many](https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM) | 3:20 | 2022-06-01 |  |
 | [Slow Fox](https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I) | [Tore Johansen](https://open.spotify.com/artist/54avVjmKZsborJSxzfYttt), [Vigleik Storaas](https://open.spotify.com/artist/7lDE36judogNbn12iCXQce), [Ole Morten Vågan](https://open.spotify.com/artist/5ZYJVTtkOgQLZaa5QqgRJn) | [Rainbow Session](https://open.spotify.com/album/5MHtrcpYvw5zqwOGBvYe9p) | 4:54 | 2022-06-01 | 2022-09-01 |
@@ -128,6 +128,7 @@
 | [Waves](https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh) | [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1) | [Waves](https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN) | 5:46 | 2022-06-01 |  |
 | [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2022-10-13 |  |
 | [Winx](https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 5:07 | 2022-06-01 |  |
+| [Woodland Walk](https://open.spotify.com/track/74JHnbsnMhSPFC2G6VrJL7) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [Woodland Walk](https://open.spotify.com/album/4JVdhRW1q0fDqCqfpQnFuB) | 5:19 | 2023-01-05 |  |
 | [Øyne](https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE), [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Øyne](https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS) | 3:30 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

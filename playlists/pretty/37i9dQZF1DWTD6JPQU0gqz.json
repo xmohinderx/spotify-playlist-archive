@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44863,
+  "num_followers": 44865,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMDMxZGQzNTI4ODY4MzYyNWI3MGI0NmQ1Y2MwZDg3MzQ1",
+  "snapshot_id": "MTY2NjgyNDU2NCwwMDAwMDAwMDU0ODg1MTRjMDAyN2Q5NTk5ODBkNmZjZjVjYjFhNzUx",
   "tracks": [
     {
       "added_at": "2022-09-13 13:20:57",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
-      "added_at": "2023-01-15 01:02:31",
+      "added_at": "2023-01-16 00:19:53",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
     },
     {
-      "added_at": "2023-01-15 01:02:31",
+      "added_at": "2023-01-16 00:19:53",
       "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6"
-      },
-      "artists": [
-        {
-          "name": "Amara La Negra",
-          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6"
+      },
+      "artists": [
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
-      "added_at": "2023-01-15 01:02:31",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 170481,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
-    },
-    {
       "added_at": "2022-09-13 13:20:57",
       "album": {
         "name": "ChocQuib House",
@@ -919,6 +903,22 @@
       "duration_ms": 200685,
       "name": "No Vuelvas a M\u00ed",
       "url": "https://open.spotify.com/track/0QtpKLa62AfLe5m0L2x3Gr"
+    },
+    {
+      "added_at": "2023-01-16 00:19:53",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 170481,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
     },
     {
       "added_at": "2022-09-13 13:20:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "ABUC",
         "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 225173,
       "name": "Afro Mambo",
       "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2022-09-13 13:20:57",

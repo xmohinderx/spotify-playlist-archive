@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 174166,
+  "num_followers": 174221,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGI5MmQxNDJlODdkYzYzOGRmYWE0YTkwYWIwNTgxZjc0",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA3ZjE3YTM0Mjg0MGIyYzQ2MzhiZjljZmI1MDYxYTRj",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 229426,
       "name": "breathe again",
       "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Under the Pepper Tree",
-        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 131248,
-      "name": "Night Singing",
-      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Quicksand EP",
-        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "Endless Running Out of Time",
-      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Quicksand EP",
+        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Endless Running Out of Time",
+      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "The Parting Glass (feat. Darlingside)",
         "url": "https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 171499,
       "name": "The Parting Glass (feat. Darlingside)",
       "url": "https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Over That Road I'm Bound",
-        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
-      },
-      "artists": [
-        {
-          "name": "Joachim Cooder",
-          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Over That Road I'm Bound To Go",
-      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Over That Road I'm Bound",
+        "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
+      },
+      "artists": [
+        {
+          "name": "Joachim Cooder",
+          "url": "https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Over That Road I'm Bound To Go",
+      "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Arkansas",
         "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1635,22 +1651,6 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2022-02-25 19:00:55",

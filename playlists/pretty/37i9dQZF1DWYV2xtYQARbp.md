@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,586 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,602 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 22 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
 | 23 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
 | 24 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
-| 25 | [Shakey Puddin'](https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN) | [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Root Damage](https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf) | 3:25 |
-| 26 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
+| 25 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
+| 26 | [Shakey Puddin'](https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN) | [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Root Damage](https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf) | 3:25 |
 | 27 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
 | 28 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |
 | 29 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 36 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
 | 37 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 38 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 |
-| 39 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
-| 40 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
+| 39 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
+| 40 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
 | 41 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
 | 42 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
 | 43 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMGU3MWY0NzY2NjZlNzMxNjdkZDMyNjA2YjkxYjI2Yzdj`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMGFiYWJjNDVmNzJkZjg4ZjA5NTE1YWI5ZTNiNThiNDc3`

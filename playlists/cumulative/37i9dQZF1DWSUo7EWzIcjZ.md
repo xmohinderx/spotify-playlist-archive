@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-379 songs - 1 day 3 hr 55 min
+380 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [La Faldita](https://open.spotify.com/track/6vdT2tWueaglX1g7yfa5yg) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Merengue Party Vol\. 2](https://open.spotify.com/album/2ZrtjCxnJAFwIXbrct78sZ) | 3:50 | 2021-02-02 | 2022-07-29 |
 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 | 2021-02-02 |  |
 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 | 2021-02-02 | 2022-07-27 |
+| [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 | 2021-02-02 |  |
 | [La Loba](https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:19 | 2021-02-02 |  |
 | [La Loba](https://open.spotify.com/track/0T0UiFcWu7Up3jjtcZwQ5p) | [Miriam y Las Chicas](https://open.spotify.com/artist/4Y4lp6GSau5wrFp5otreG9) | [Nueva Vida](https://open.spotify.com/album/2l9A7QT8GhT6VxF1y8OsMn) | 4:20 | 2021-02-02 |  |
 | [La Loba](https://open.spotify.com/track/2yQz1dYR7wuKv023Rym41w) | [Miriam y Las Chicas](https://open.spotify.com/artist/4Y4lp6GSau5wrFp5otreG9) | [Nueva Vida](https://open.spotify.com/album/3MWZxuFygPYefQns1GzVBO) | 4:20 | 2021-02-02 | 2022-10-15 |
@@ -362,7 +363,7 @@
 | [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 | 2021-02-02 | 2022-10-23 |
 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 | 2021-02-02 |  |
 | [Un Sobrinito de Champagne](https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [Caricias](https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig) | 3:34 | 2021-02-02 |  |
-| [Una Fotografia](https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:07 | 2021-02-02 |  |
+| [Una Fotografia](https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:07 | 2021-02-02 | 2023-01-16 |
 | [Vete y Dile](https://open.spotify.com/track/2qlsW9JoDmXNyM7odbFxmn) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/2EQqKxpUQUnqFXgcavxRap) | 4:51 | 2021-02-02 | 2022-07-27 |
 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2021-02-02 |  |
 | [Vete Y Dile](https://open.spotify.com/track/1iLUBSgZa6UpvxMMnwn4AP) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete Y Dile](https://open.spotify.com/album/2YCyR7ThO9WYIrQVGVPWex) | 4:56 | 2021-02-02 | 2022-07-22 |

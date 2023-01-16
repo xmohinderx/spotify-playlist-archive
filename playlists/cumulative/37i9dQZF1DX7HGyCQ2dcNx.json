@@ -414,6 +414,36 @@
     {
       "album": {
         "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/1vrGYhTYdFAtxbC5UeUDDb"
+      },
+      "artists": [
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1sghPHx2AsbFUhlyQzkWHI"
+    },
+    {
+      "album": {
+        "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/62HvdfrJyULSlryudl5iO6"
       },
       "artists": [
@@ -436,7 +466,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 287226,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4mYG9quN0JnwiXzku5aqdI"

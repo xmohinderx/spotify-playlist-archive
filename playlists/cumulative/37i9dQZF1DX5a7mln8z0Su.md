@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-205 songs - 11 hr 37 min
+206 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [If It's Not You](https://open.spotify.com/track/4fAXE9nsJzUaw4UFs2uvAy) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [If It's Not You](https://open.spotify.com/album/4KOaX6kkTP3SQ2emD2ir0P) | 2:59 | 2022-05-11 | 2022-07-19 |
 | [In My Dream](https://open.spotify.com/track/7cqRIDtEEOTXbwoIzAK40z) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [In My Dream](https://open.spotify.com/album/4Al4Mk1fC8FrF9l5uuaPuy) | 2:49 | 2022-05-11 | 2022-07-29 |
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-05-11 | 2022-07-27 |
-| [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-04 |  |
+| [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-04 | 2023-01-16 |
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |
@@ -99,6 +99,7 @@
 | [layoff \(feat\. Churry\)](https://open.spotify.com/track/6Nw61ToXv3kwGyEOiobt3q) | [Layton](https://open.spotify.com/artist/2YQOlJnew5D6w1lWqIUBXE), [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [layoff](https://open.spotify.com/album/5Bd7lzlhF329D4gEHYBv69) | 3:49 | 2022-06-20 | 2022-06-30 |
 | [Leave](https://open.spotify.com/track/4AmbGf0dfkPzPgBChdl4Sg) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Leave](https://open.spotify.com/album/1IoT9EPJG4bYJkdrMiAIHI) | 3:05 | 2022-07-08 | 2022-07-19 |
 | [Let Me Down](https://open.spotify.com/track/0HrVdAB56WP6UBZq3vjbeC) | [DAB19](https://open.spotify.com/artist/5UdyE3s0FtqyDMWNGkQvOu) | [Let Me Down](https://open.spotify.com/album/3s9egKRlYRZtDYLjmW9Onk) | 4:18 | 2022-05-11 | 2022-07-04 |
+| [Letter](https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm) | [Letter](https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5) | 3:42 | 2023-01-16 |  |
 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 | 2022-06-18 |  |
 | [Like Fools We Love Us](https://open.spotify.com/track/55lJg4Nh0Em8AmIIPy1Fhz) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [EROS](https://open.spotify.com/album/13ZPRwkvm5Lo9j6XZK0aHD) | 3:18 | 2022-05-11 | 2022-07-29 |
 | [Lily, Lily](https://open.spotify.com/track/25wqVVzflzgeO10OHwhpzr) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:18 | 2022-05-11 | 2022-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: M83",
-  "num_followers": 2214699,
+  "num_followers": 2214733,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY1MzE2OSwwMDAwMDAwMDlhYzU0NDNjOWE5M2NiMjQxN2Y5NTdlZTA1OTFjNDkw",
+  "snapshot_id": "MTY3MzY1MzE2OSwwMDAwMDAwMGI3NTNhOTkwMjFlZjQ5NGJlNDVlYjc0MzY4NWNlY2Iy",
   "tracks": [
     {
       "added_at": "2023-01-13 01:31:39",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-13 23:39:29",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2023-01-13 23:39:29",
-      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
+    },
+    {
+      "added_at": "2023-01-13 23:39:29",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2023-01-13 23:39:29",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
-    },
-    {
-      "added_at": "2023-01-13 01:31:39",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2023-01-13 01:31:39",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "added_at": "2023-01-13 23:39:29",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
-      "added_at": "2023-01-13 01:31:39",
+      "added_at": "2023-01-13 23:39:29",
       "album": {
-        "name": "Skinny Ape",
-        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 281258,
-      "name": "Skinny Ape",
-      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+      "duration_ms": 68000,
+      "name": "2516",
+      "url": "https://open.spotify.com/track/0R6sz2EUOMSM3qaZHEpG63"
     },
     {
       "added_at": "2023-01-13 01:31:39",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
+      "added_at": "2023-01-13 01:31:39",
+      "album": {
         "name": "Keep It Tucked",
         "url": "https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 173576,
       "name": "Keep It Tucked",
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
-    },
-    {
-      "added_at": "2023-01-13 23:39:29",
-      "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 68000,
-      "name": "2516",
-      "url": "https://open.spotify.com/track/0R6sz2EUOMSM3qaZHEpG63"
     },
     {
       "added_at": "2023-01-13 01:31:39",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2023-01-13 01:31:39",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187788,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+    },
+    {
+      "added_at": "2023-01-13 01:31:39",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2023-01-13 01:31:39",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
-    },
-    {
-      "added_at": "2023-01-13 01:31:39",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
         }
       ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
     },
     {
       "added_at": "2023-01-13 01:31:39",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2023-01-13 01:31:39",
+      "album": {
         "name": "Today (can't help but cry)",
         "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-13 01:31:39",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2023-01-13 01:31:39",
-      "album": {
         "name": "Get Inspired",
         "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+    },
+    {
+      "added_at": "2023-01-13 01:31:39",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-01-13 01:31:39",

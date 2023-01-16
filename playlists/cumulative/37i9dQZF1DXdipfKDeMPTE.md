@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-436 songs - 16 hr 18 min
+437 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2022-05-20 |  |
 | [Segundi](https://open.spotify.com/track/2nxl8OxEJVrQLpUGFiYiqo) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Segundi](https://open.spotify.com/album/5M16glnrF2da7Wcl7xr9V7) | 2:44 | 2022-05-20 |  |
 | [Serene](https://open.spotify.com/track/7c5AVhL9bDKTrSsaYDHNpW) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Serene](https://open.spotify.com/album/1jgDDthw4uOqZRxNwYkZ4o) | 1:58 | 2022-05-20 |  |
-| [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 | 2022-11-25 |  |
+| [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 | 2022-11-25 | 2023-01-16 |
+| [Seven Seas](https://open.spotify.com/track/58QEUVMhf4ngIuJbmect7Y) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/2QcGmtIa9PTcwai3NlSedF) | 2:27 | 2023-01-13 |  |
 | [Shala](https://open.spotify.com/track/6fP9jLkiUxZ4NIFUDDLCK4) | [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv) | [Shala](https://open.spotify.com/album/1G7G6StRY16dbgtufoS1oY) | 2:12 | 2022-08-05 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2022-05-20 | 2022-11-26 |
 | [Side Focus](https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Magic City](https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN) | 1:55 | 2022-05-20 |  |

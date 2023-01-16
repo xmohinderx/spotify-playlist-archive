@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Gustav, Noah
 
-589 songs - 1 day 4 hr 30 min
+590 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [washing off the blood](https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [washing off the blood](https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf) | 2:54 | 2022-08-18 | 2022-09-02 |
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-09-22 | 2022-10-08 |
 | [We Are The People \- Southstar Remix](https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Matrix](https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9) | 3:58 | 2022-08-11 | 2022-11-02 |
-| [we are the people tekkno](https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn) | 3:50 | 2022-12-08 |  |
+| [We Are The People Techno \- Remix](https://open.spotify.com/track/248MpVDbkrSpgjdZ8pfcPP) | [Xanemusic](https://open.spotify.com/artist/6QSOpFwMSqDj21HVu34Wm1) | [We Are The People Techno \(Remix\)](https://open.spotify.com/album/4Hukrn7HacRfU9cqm7QPcm) | 3:50 | 2023-01-12 |  |
+| [we are the people tekkno](https://open.spotify.com/track/3gINWpBZCz4kBNF4sWTWqw) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/1fhroOApt0VfVEP7NCYOsn) | 3:50 | 2022-12-08 | 2023-01-16 |
 | [we are the people tekkno](https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [we are the people tekkno](https://open.spotify.com/album/6YJvCTm0tziFeOreNxlJMq) | 3:50 | 2022-12-08 | 2022-12-15 |
 | [we are the people tekkno](https://open.spotify.com/track/3EV1iE8AiP8MXoho8UzxA0) | [tekknoland](https://open.spotify.com/artist/7vYoYckHpYCUe5z99Lwf9L) | [we are the people tekkno](https://open.spotify.com/album/4TdaJANR5MT5c0gkgflUCh) | 3:50 | 2022-12-15 | 2022-12-17 |
 | [we are the people tekkno](https://open.spotify.com/track/1hssEGVsUD0OKVEeGMQMFG) | [THE TEKKNO MAN](https://open.spotify.com/artist/683bTfXC9teIb3VtPKncCG) | [we are the people tekkno](https://open.spotify.com/album/5q2CDkRLsIyajM0pR5fzeX) | 3:50 | 2022-12-13 | 2022-12-16 |

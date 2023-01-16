@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de enero 2023",
-  "num_followers": 1509441,
+  "num_followers": 1509490,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNzA2NCwwMDAwMDAwMGY2NmMwZjlmOGRlM2Y1MTM5NTQyZTkwMTcxMTc5OGZk",
+  "snapshot_id": "MTY3MzYyNzA2NCwwMDAwMDAwMDI4YWZhZDNhMzdhMTY1OTI0Y2EzZTMzZDUzMTg1Mzgy",
   "tracks": [
     {
       "added_at": "2023-01-12 16:30:19",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-01-04 15:36:28",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 221359,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
+    },
+    {
+      "added_at": "2023-01-04 15:36:28",
+      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
-    },
-    {
-      "added_at": "2023-01-04 15:36:28",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 221359,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
     },
     {
       "added_at": "2023-01-04 15:36:28",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-04 15:36:28",
       "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "added_at": "2023-01-04 15:36:28",
+      "album": {
         "name": "Aroma",
         "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 189500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
-    },
-    {
-      "added_at": "2023-01-04 15:36:28",
-      "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2023-01-04 15:36:28",

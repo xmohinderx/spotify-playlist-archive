@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 355493,
       "name": "Ego Killah",
       "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
@@ -3324,6 +3324,24 @@
       "duration_ms": 321355,
       "name": "Labels",
       "url": "https://open.spotify.com/track/42MNRpMr4bwE5zIMzvcO3s"
+    },
+    {
+      "album": {
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347266,
+      "name": "Lady (Ezra Collective Version)",
+      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
     },
     {
       "album": {
@@ -6880,7 +6898,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"

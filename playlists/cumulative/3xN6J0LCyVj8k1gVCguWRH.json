@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "A Dreamer",
+        "url": "https://open.spotify.com/album/76zFj3JcVuBwRxnirC9y3r"
+      },
+      "artists": [
+        {
+          "name": "Cabela and Schmitt",
+          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293683,
+      "name": "A Dreamer",
+      "url": "https://open.spotify.com/track/2odz4s5CDDODlVh1P00H6V"
+    },
+    {
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },

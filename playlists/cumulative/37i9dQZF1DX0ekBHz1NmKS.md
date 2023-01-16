@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-617 songs - 1 day 8 hr 43 min
+618 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ABYSS](https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [ABYSS](https://open.spotify.com/album/5SO5qSja0Nm03HJcnJWzBq) | 2:08 | 2022-03-10 | 2022-05-08 |
 | [Afterlife](https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c) | [Siqu](https://open.spotify.com/artist/29naRiyir00pkFnYm5H2X2) | [Afterlife](https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx) | 2:38 | 2022-03-10 | 2022-06-24 |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
-| [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 |  |
+| [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 | 2023-01-16 |
 | [Aldrig Nu](https://open.spotify.com/track/3qoMs4kUASB2z2wTyO8hJf) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Aldrig Nu](https://open.spotify.com/album/5RO32hFSccBxgZkxHxOwuo) | 3:50 | 2021-12-16 | 2022-03-11 |
 | [Aldrig Nånsin](https://open.spotify.com/track/4RJEkGx7A2cBPAbpZ97EhF) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Aldrig Nånsin](https://open.spotify.com/album/3PcrPJevf4LpzSnsHYyADS) | 3:06 | 2021-12-16 | 2022-03-11 |
 | [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 | 2022-04-01 | 2022-11-01 |
@@ -229,6 +229,7 @@
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-17 | 2022-09-16 |
 | [Helan går](https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Helan går](https://open.spotify.com/album/6Bzcl46KbEPJLQAUYYcC9T) | 3:15 | 2022-05-05 | 2022-09-30 |
 | [Hello Life](https://open.spotify.com/track/65Ze1JjeWsYW8BtMjpJDJg) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry \[pt\. 1\]](https://open.spotify.com/album/5r4LuaBBNNEYpJCPWFeLCU) | 3:58 | 2022-03-04 | 2022-05-13 |
+| [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 |  |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-23 | 2022-06-25 |

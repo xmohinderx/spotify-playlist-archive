@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 102546,
+  "num_followers": 102594,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzMTMyNiwwMDAwMDAwMGNlZjYzZmVlYTdjYzY1MGE2Y2RhN2IwN2JlMmM3Yzhl",
+  "snapshot_id": "MTY3MzYzMTMyNiwwMDAwMDAwMGI0YmY5MzNmYjg5NWEyN2Q0MGZjZTkyZWI1MTczYTFl",
   "tracks": [
     {
       "added_at": "2023-01-13 17:35:26",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "Dumebi (Becky G Remix)",
-        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Dumebi - Becky G Remix",
-      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
+        "name": "Dumebi (Becky G Remix)",
+        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Dumebi - Becky G Remix",
+      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
     },
     {
       "added_at": "2023-01-13 17:35:26",

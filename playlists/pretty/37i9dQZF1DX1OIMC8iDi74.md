@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,395 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,462 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 48 | [Fatal Attraction \(feat\. Reese LAFLARE\)](https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 4:30 |
 | 49 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 |
 | 50 | [Only Be Me](https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl) | 3:28 |
-| 51 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 |
-| 52 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 |
-| 53 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
-| 54 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
-| 55 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
+| 51 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 |
+| 52 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
+| 53 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 |
+| 54 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
+| 55 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
 | 56 | [I Do Coke](https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 3:46 |
 | 57 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 58 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 97 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 |
 | 98 | [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 |
-| 99 | [Dale Vuelta](https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [episcool](https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4) | [Dale Vuelta](https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD) | 3:00 |
-| 100 | [No Chill](https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:58 |
+| 99 | [No Chill](https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:58 |
+| 100 | [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDM3NmZlYjEwMjA4MmYwNTRkODMyODUxNmZlMmNiMjFh`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGZjMjVlZWNkMzlmYzYzMzI1M2E5NTMzNTY1ODIzZDUx`

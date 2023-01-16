@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,242 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,210 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 20 | [Joy to the World \(with Georgia Mass Choir\)](https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:41 |
 | 21 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 22 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
-| 23 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
-| 24 | [Sleigh Ride](https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Sleigh Ride \(Remixes\)](https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1) | 3:44 |
+| 23 | [Sleigh Ride](https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Sleigh Ride \(Remixes\)](https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1) | 3:44 |
+| 24 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
 | 25 | [Love You More At Christmas Time](https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Love You More At Christmas Time](https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye) | 3:25 |
 | 26 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
 | 27 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 62 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 4:35 |
 | 63 | [Santa Baby \(with Summer Walker\)](https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:20 |
 | 64 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
-| 65 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
-| 66 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
+| 65 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
+| 66 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 67 | [Winter Wonderland](https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Merry Christmas from Andra Day](https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT) | 3:14 |
 | 68 | [Give Love On Christmas Day](https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy) | 4:09 |
 | 69 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 75 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDc5MjdjN2QxZDJkYWJlYjI4YmQyMjFmYTMxZjIzNWJk`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDAxMmE2Mjk4YzhmZDA3ZGM2OTkxOWQ1MGE5Y2QxNTk3`

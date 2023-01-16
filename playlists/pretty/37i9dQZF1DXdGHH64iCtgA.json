@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 57497,
+  "num_followers": 57559,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDI2ODY5NCwwMDAwMDAwMGU0ZWM2NzIyMmM2OWNiY2JmOGZjOTU5MmM3ZTVjM2Ux",
+  "snapshot_id": "MTY3MDI2ODY5NCwwMDAwMDAwMDdhMGNiNDAzOGZhMDc5MDM3NWM1ZTE5OTE3NDkxMGE2",
   "tracks": [
     {
       "added_at": "2022-12-05 19:31:34",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "REBELS NEVER DIE",
-        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 245624,
-      "name": "BLACK MAGIC",
-      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
+        "name": "REBELS NEVER DIE",
+        "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "BLACK MAGIC",
+      "url": "https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 216360,
       "name": "Boylife in EU",
       "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
+        "name": "DANCEHALL",
+        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "PLACES",
+      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 191537,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
-        "name": "DANCEHALL",
-        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "PLACES",
-      "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "TASTY",
-        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 230780,
-      "name": "TASTY - Boys Noize Remix",
-      "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
@@ -931,22 +911,22 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "First Album (2009 Reissue)",
-        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+        "name": "TASTY",
+        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
       },
       "artists": [
         {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         },
         {
-          "name": "The Hacker",
-          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 319493,
-      "name": "1982",
-      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+      "duration_ms": 230780,
+      "name": "TASTY - Boys Noize Remix",
+      "url": "https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -963,6 +943,26 @@
       "duration_ms": 156093,
       "name": "Naked City",
       "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Pain In The Ass",
         "url": "https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 400373,
       "name": "Pain In The Ass - Original Mix",
       "url": "https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Play In The Dark",
         "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2022-12-05 19:31:34",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-12-05 19:31:34",
       "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
-    },
-    {
-      "added_at": "2022-12-05 19:31:34",
-      "album": {
         "name": "Like A Good Old Friend",
         "url": "https://open.spotify.com/album/0S7gwzr5kWmKpEuVdQtqip"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 218906,
       "name": "Like A Good Old Friend",
       "url": "https://open.spotify.com/track/3pYKObrBdzSqIt1PtWfJAh"
+    },
+    {
+      "added_at": "2022-12-05 19:31:34",
+      "album": {
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2022-12-05 19:31:34",

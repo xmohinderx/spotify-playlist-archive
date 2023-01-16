@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,811 likes - 55 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,897 likes - 55 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 6 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 7 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 |
 | 8 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 |
-| 9 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 |
+| 9 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 |
 | 10 | [Untitled \#3 \- Samskeyti](https://open.spotify.com/track/1QUiA9aecDOOnf32A9ZrtW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [\( \)](https://open.spotify.com/album/3FR8CV7OSyZDnxneavnh8t) | 6:33 |
-| 11 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 |
+| 11 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 |
 | 12 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
 | 13 | [Waking Up](https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Lone Survivor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA) | 4:50 |
 | 14 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 17 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 |
 | 18 | [The River](https://open.spotify.com/track/4rhmXU8skfmVs6DoDMTkIl) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds: Echoes of the Eye \(Original Game Soundtrack\)](https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs) | 2:43 |
 | 19 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 20 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
-| 21 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 |
+| 20 | [Requiem](https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Reanimation](https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy) | 2:12 |
+| 21 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
 | 22 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 23 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 |
 | 24 | [The First Glimmer of Wind](https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [James](https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z) | 5:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 54 | [The Sun In The Trees](https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Into The Mountains](https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15) | 3:23 |
 | 55 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDUxOTI0MGJhNTFmMjhkYzZkZDdmNDlkZjU5OTRkOTRj`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDJhNGVkMjljMTM3MGMwOTk1NDEzOTNiYTNjMDQ1Mjgz`

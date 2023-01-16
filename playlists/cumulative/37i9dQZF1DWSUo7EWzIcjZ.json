@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Mis Exitos Vol.1",
+        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+      },
+      "artists": [
+        {
+          "name": "Richie Cepeda",
+          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
+    },
+    {
+      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -6488,7 +6506,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 247200,
       "name": "Una Fotografia",
       "url": "https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB"

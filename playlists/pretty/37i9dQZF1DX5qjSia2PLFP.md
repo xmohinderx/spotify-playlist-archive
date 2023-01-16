@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Luke Bar$
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,556 likes - 53 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,574 likes - 53 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 11 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 |
 | 12 | [My Heart](https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [My Heart](https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2) | 1:44 |
 | 13 | [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 |
-| 14 | [Imaginary Friend](https://open.spotify.com/track/6L2QU0UQqEBxbOiaKUJmiE) | [Tae Dawg](https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN) | [Imaginary Friend](https://open.spotify.com/album/3bSVNfpgs4OasLqpvgJoeE) | 2:15 |
+| 14 | [Imaginary Friend](https://open.spotify.com/track/1lyDZiu6WTr6dz7u0WlF9V) | [Tae Dawg](https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN) | [Imaginary Friend](https://open.spotify.com/album/4MpBNT6byruj9SkRbLIpbJ) | 2:15 |
 | 15 | [Kim Possible](https://open.spotify.com/track/2DGnABzkL00nPLJnBWKmWi) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Kim Possible](https://open.spotify.com/album/4Frrw8EkIDu80AzDpZ99St) | 2:59 |
 | 16 | [Wish I Knew](https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Wish I Knew](https://open.spotify.com/album/2dgFS2T4BTuoewTy6MjpiD) | 2:25 |
 | 17 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 52 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |
 | 53 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 |
 
-Snapshot ID: `MTY3MzU4OTI2NCwwMDAwMDAwMDBhNWRkYjU2NzQ3NjJlNjQ2N2Y1NGQ3Y2Y3MDhlZTAx`
+Snapshot ID: `MTY3MzU4OTI2NCwwMDAwMDAwMGRhOGNjNTNhYmMyMDk3MTgwYTRmMzM0YWFjZjU5YzU3`

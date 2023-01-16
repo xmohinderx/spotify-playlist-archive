@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 67992,
+  "num_followers": 68032,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMGNkMzk3OGVlMDMyYWIzOTkzM2Y2YjA3MWRjZTk1OGQ1",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDk0ZTk4MGRjOTNhOGNhZWU0NmMxZjY5YmFlNzljMTQ0",
   "tracks": [
     {
       "added_at": "2023-01-06 17:11:17",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Black Myself",
         "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 201193,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 316048,
-      "name": "Dodge City",
-      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Cruel Old World",
         "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 172747,
       "name": "Cruel Old World",
       "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 316048,
+      "name": "Dodge City",
+      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     },
     {
       "added_at": "2023-01-06 17:11:17",

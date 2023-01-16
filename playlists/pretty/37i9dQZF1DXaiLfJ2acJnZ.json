@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36064,
+  "num_followers": 36080,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGY1ZjQ5MDhhMTM0OTNiNGEwZmRiOTM1OWNlMGIzY2Ex",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGFiZTljYjQ3ZDk5MTIxNjk0NmFiM2NmM2RjZGFhZTk3",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Georgia",
         "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "There\u2019s Nothing But Space, Man!",
         "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 128364,
-      "name": "Charlie Be Quiet!",
-      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -401,7 +385,23 @@
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 128364,
+      "name": "Charlie Be Quiet!",
+      "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
+    },
+    {
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
       "added_at": "2022-10-28 20:58:08",
       "album": {
         "name": "Feet Don't Fail Me Now",
@@ -559,6 +543,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2023-01-16 00:42:08",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
-      "added_at": "2023-01-15 01:15:33",
+      "added_at": "2023-01-16 00:42:08",
       "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Whole",
         "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 174466,
       "name": "Whole",
       "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "East End Coast",
-        "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "My 100",
         "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
+    },
+    {
+      "added_at": "2023-01-16 00:42:08",
+      "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -995,22 +995,6 @@
       "duration_ms": 147381,
       "name": "Ain't Got No Friends",
       "url": "https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U"
-    },
-    {
-      "added_at": "2023-01-15 01:15:33",
-      "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 188792,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1195,6 +1179,22 @@
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
     },
     {
       "added_at": "2022-10-28 20:58:08",

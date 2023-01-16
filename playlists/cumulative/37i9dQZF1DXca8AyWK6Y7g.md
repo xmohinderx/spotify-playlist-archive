@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,465 songs - 3 day 2 hr 55 min
+1,466 songs - 3 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-03-12 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2022-11-12 |
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
+| [2020s](https://open.spotify.com/track/0TLsJGWkuTUFZIIRuLNJDO) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [2020s](https://open.spotify.com/album/0VGKDlG0R7b8G7ETtzaeIW) | 2:32 | 2023-01-13 |  |
 | [24](https://open.spotify.com/track/6sbS9RK7IGaIpZYSGoXOkZ) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [24](https://open.spotify.com/album/0yJBFZGs5rhzwmezCKlprX) | 3:05 | 2019-05-26\* | 2020-04-04 |
 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-04-23 | 2021-11-20 |
 | [25X](https://open.spotify.com/track/4eoS4VxtZHeBvGIY3oB5Sx) | [shmavana shmantos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [25X](https://open.spotify.com/album/7xy3lPOkLQeQgj4wodcxN1) | 2:22 | 2022-02-18 | 2022-05-14 |
@@ -771,7 +772,7 @@
 | [Like Home](https://open.spotify.com/track/4yf12uq8vpmBePwRbTYJib) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [GGFOUR](https://open.spotify.com/album/09n5FwLDoFRlzVvwyLhjMD) | 3:25 | 2019-07-27 | 2021-05-13 |
 | [Like Summer](https://open.spotify.com/track/3innRzfJF3RMcZbXv6It28) | [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Like Summer / Nothing Beyond](https://open.spotify.com/album/2PZ7bnYRX9sOawrIAKeGdT) | 5:36 | 2020-06-12 | 2021-10-12 |
 | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/track/2ay96C6SLNv9urvXKD3ecB) | [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [LiLBiTcH \(feat\. Rico Nasty & Soleima\)](https://open.spotify.com/album/6WQTNgQPCS6GApd4cWQUTB) | 2:15 | 2021-02-22 | 2021-05-24 |
-| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 |  |
+| [Line](https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/5wFOIRtz2zAN3RA8DcVO7K) | 3:16 | 2022-05-20 | 2023-01-16 |
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-05-11 | 2021-10-14 |
 | [LMK](https://open.spotify.com/track/0efL46uAuNEfukXQYsbPlX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/7J4rvxMkuQ2JZSVEdK4iTq) | 3:08 | 2020-06-12 | 2020-09-25 |

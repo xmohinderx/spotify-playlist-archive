@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: ماجد الرسلاني
 
-181 songs - 12 hr 18 min
+182 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-11-17 |  |
 | [Wetha Yaani](https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa) | [Nasser Naaif](https://open.spotify.com/artist/33bjbNhbiBxt1GoUQeYl96) | [Wetha Yaani](https://open.spotify.com/album/0tRiqBGwVie1KHRqABqXOU) | 3:17 | 2023-01-11 |  |
 | [Wfr Alathar](https://open.spotify.com/track/7AByqTA1IoxIjUYODUrjK9) | [Emarat Art](https://open.spotify.com/artist/2HBZw1oHSJLodozzPFVV7k) | [Golo](https://open.spotify.com/album/5eYv9T9otfSlmJOIjNhDEA) | 5:24 | 2022-10-27 |  |
+| [Wtemshi](https://open.spotify.com/track/45NyIkdO8ekR4ExNEExbl3) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Wtemshi](https://open.spotify.com/album/3CU7jIMrqIu3sTMuOdWacn) | 4:24 | 2023-01-15 |  |
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 | 2022-08-27 |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-01 | 2022-11-08 |
 | [Ya Hazzah](https://open.spotify.com/track/4tV8tnkKmJCrwcahK0wmPw) | [Hamad Alameri](https://open.spotify.com/artist/7jAccRfAodnAyF3D9kQ4lo) | [Ya Hazzah](https://open.spotify.com/album/0ZImrERkWcbMs5F1G96DJA) | 4:32 | 2022-02-17 | 2022-07-07 |

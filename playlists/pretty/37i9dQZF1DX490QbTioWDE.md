@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,492 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,356 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 30 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
 | 31 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 |
 | 32 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
-| 33 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
-| 34 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 |
+| 33 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 |
+| 34 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 35 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
 | 36 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 37 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 |
 | 38 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
 | 39 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 |
 | 40 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
-| 41 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
-| 42 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
+| 41 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
+| 42 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
 | 43 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
 | 44 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 |
 | 45 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 | 98 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
 | 99 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
-| 100 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
+| 100 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 |
 
-Snapshot ID: `MTY3MzYyMDA3NywwMDAwMDAwMDc2MjdkZWIxMDk4YTFkZTJhMjkxMzc2MDIzY2UxZDI4`
+Snapshot ID: `MTY3MzYyMDA3NywwMDAwMDAwMDc1YmMzYWUxODExMTkyZGQ1ZGU0MjYxNmMxZjdlNmJk`

@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Coi Leray
 
-299 songs - 14 hr 38 min
+300 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-10-15 |  |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-02-21 |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 |  |
+| [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-15 |  |
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-05-06 | 2022-07-09 |
 | [Hit A Lic](https://open.spotify.com/track/2SZEyd9wrT7bEq1LHquJEM) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Your Highness](https://open.spotify.com/album/70CYyqTKk7NDwx2Y5kwkcH) | 2:39 | 2022-01-09 | 2022-02-26 |
 | [HOT](https://open.spotify.com/track/38gSLIGyzkLKykkG4S72v5) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HOT](https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz) | 2:33 | 2022-12-09 |  |

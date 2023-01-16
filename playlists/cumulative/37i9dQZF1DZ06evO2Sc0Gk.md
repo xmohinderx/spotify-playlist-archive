@@ -4,11 +4,12 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 54 min
+99 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 | 2021-12-28 | 2022-12-20 |
+| [Abracadabra](https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:15 | 2023-01-15 |  |
 | [Accra to Lagos](https://open.spotify.com/track/0WvsGQtjaCJAS8P1EoqkQs) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:55 | 2022-05-16 | 2022-10-11 |
 | [Accra to Lagos](https://open.spotify.com/track/3awa4nM82t3LJePKfIxchz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life Is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ) | 2:55 | 2021-12-28 | 2022-05-08 |
 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 | 2021-12-28 |  |
@@ -105,6 +106,6 @@
 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 | 2021-12-28 | 2022-12-13 |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-10 |  |
 | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd) | [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/album/19rxMCwjmwPQ4espwyH3Kr) | 3:20 | 2022-01-30 |  |
-| [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 |  |
+| [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 | 2023-01-16 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,685 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,718 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 48 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 |
 | 49 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 |
 | 50 | [Fireflies](https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp) | [University of Rochester Midnight Ramblers](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) | [Best of BOCA: The First 20 Years](https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs) | 3:38 |
-| 51 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 |
-| 52 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
+| 51 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 |
+| 52 | [Defying Gravity](https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv) | [Washington University Stereotypes](https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt) | [Tongue Tied](https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP) | 3:52 |
 | 53 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 |
 | 54 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 55 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 56 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 57 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGEzMTc1NDk0YjNjZGVkNTZhNjUwZjQ0MTAxY2Q3ZmQ2`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDE1ZTY4NWQ0NTAwZTA3ZmRjOWVlOWYyYTJiMmUwMjQ4`

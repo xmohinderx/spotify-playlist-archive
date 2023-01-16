@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 55174,
+  "num_followers": 55284,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNzY1NCwwMDAwMDAwMDFjN2YxNmU5MjExMzQyNzIwYzhjZjM0ZmJlMjg4MTY3",
+  "snapshot_id": "MTY3MjQyNzY1NCwwMDAwMDAwMDI0OTRhYWZlOGZkNzYwOGMxODAzNmExNWNmY2Q1OTEy",
   "tracks": [
     {
       "added_at": "2022-12-30 18:30:31",
@@ -246,6 +246,10 @@
         {
           "name": "Ruth B.",
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         },
         {
           "name": "slater",
@@ -847,22 +851,18 @@
     {
       "added_at": "2022-12-30 18:30:31",
       "album": {
-        "name": "c\u00f3mo quieres que me enfade",
-        "url": "https://open.spotify.com/album/1zVgjMZ9dOV8deVpLNxqeD"
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
       "artists": [
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        },
-        {
-          "name": "ROJAZ",
-          "url": "https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 160250,
-      "name": "c\u00f3mo quieres que me enfade",
-      "url": "https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC"
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2022-12-30 18:30:31",
@@ -883,18 +883,22 @@
     {
       "added_at": "2022-12-30 18:30:31",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+        "name": "c\u00f3mo quieres que me enfade",
+        "url": "https://open.spotify.com/album/1zVgjMZ9dOV8deVpLNxqeD"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        },
+        {
+          "name": "ROJAZ",
+          "url": "https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 160250,
+      "name": "c\u00f3mo quieres que me enfade",
+      "url": "https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC"
     },
     {
       "added_at": "2022-12-30 18:30:31",

@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50473,
+  "num_followers": 50498,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDU2MjkwOTI4MTg5Y2QyNzljNDk4ZTRkNmZlZDBmZjBh",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDgyYWIzYzYxMWM5ZjkzNTJlOTk0MjM2ODljMmM1NTBj",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-15 01:33:45",
+      "added_at": "2023-01-16 01:20:18",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
@@ -437,7 +421,23 @@
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2023-01-15 01:33:45",
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
+    },
+    {
+      "added_at": "2023-01-16 01:20:18",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 89293,
+      "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
+      "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -589,23 +605,7 @@
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 89293,
-      "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
-      "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
-    },
-    {
-      "added_at": "2023-01-15 01:33:45",
+      "added_at": "2023-01-16 01:20:18",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-15 01:33:45",
+      "added_at": "2023-01-16 01:20:18",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
+        "name": "The Youth Of Today",
+        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
       },
       "artists": [
         {
-          "name": "Fernando Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
         }
       ],
-      "duration_ms": 132840,
-      "name": "I Wish I Had a Hundred Years",
-      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
+      "duration_ms": 204222,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Youth Of Today",
-        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+        "name": "A Monster Calls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
       },
       "artists": [
         {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
         }
       ],
-      "duration_ms": 204222,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+      "duration_ms": 132840,
+      "name": "I Wish I Had a Hundred Years",
+      "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-15 01:33:45",
-      "album": {
-        "name": "Let Me Sing and I'm Happy",
-        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Diamonds Are Forever",
-      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
-    },
-    {
       "added_at": "2022-09-07 09:54:53",
       "album": {
         "name": "Profumo di donna (Original Motion Picture Soundtrack)",
@@ -1323,6 +1307,22 @@
       "duration_ms": 217186,
       "name": "Che Vuole Questa Musica Stasera",
       "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
+    },
+    {
+      "added_at": "2023-01-16 01:20:18",
+      "album": {
+        "name": "Let Me Sing and I'm Happy",
+        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Never Ending Story",
         "url": "https://open.spotify.com/album/6ufy7fmrQRv2sh2cJI5GES"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 210013,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/2IAQnOWKWjj1iA166KznVd"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1537,23 +1537,7 @@
       "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
     },
     {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2023-01-15 01:33:45",
+      "added_at": "2023-01-16 01:20:18",
       "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -1583,6 +1583,26 @@
       "duration_ms": 161500,
       "name": "Highschool Lover",
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Amarcord (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "duration_ms": 127786,
+      "name": "Amarcord",
+      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1607,26 +1627,6 @@
       "duration_ms": 91080,
       "name": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Amarcord (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        },
-        {
-          "name": "Carlo Savina",
-          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
-        }
-      ],
-      "duration_ms": 127786,
-      "name": "Amarcord",
-      "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
     },
     {
       "added_at": "2022-09-07 09:54:53",

@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: CRUCiAL STAR\ud06c\ub8e8\uc15c\uc2a4\ud0c0)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 172726,
+  "num_followers": 172811,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQyOTAwMSwwMDAwMDAwMDIxYWY0N2FjMWNkNzVmNjQ3Nzk5M2IwZTNkM2IxM2Yx",
+  "snapshot_id": "MTY3MzQyOTAwMSwwMDAwMDAwMDcxMzE0M2NmNThjZWE2NTE4ZjliMDEyZWE0YzNmMzM3",
   "tracks": [
     {
       "added_at": "2023-01-11 09:23:21",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Alone (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -351,22 +371,38 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Alone (Feat. LeeHi)",
-      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -391,58 +427,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "Nerdy Love",
-        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Nerdy Love",
-      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 205003,
-      "name": "illa illa",
-      "url": "https://open.spotify.com/track/02UxgpMd5uzA9h39tN7v3x"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 205003,
+      "name": "illa illa",
+      "url": "https://open.spotify.com/track/02UxgpMd5uzA9h39tN7v3x"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
+        "name": "hug me tight",
+        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 127612,
+      "name": "hug me tight",
+      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199506,
       "name": "Joker (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "hug me tight",
-        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 127612,
-      "name": "hug me tight",
-      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "PROTOTYPE RESEARCH #0063",
         "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 181800,
       "name": "My pleasure Is That You Ride The Bentley",
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -939,26 +955,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -975,22 +971,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
       "artists": [
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         },
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 135120,
-      "name": "Don\u2032t do That",
-      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "FREAK LIKE ME",
-        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         }
       ],
-      "duration_ms": 167706,
-      "name": "FREAK LIKE ME",
-      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 216293,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
+        "name": "COCO BOTTLE",
+        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 187889,
+      "name": "COCO BOTTLE",
+      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "COCO BOTTLE",
-        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 187889,
-      "name": "COCO BOTTLE",
-      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1763,46 +1763,6 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 200900,
-      "name": "Have A Little Fun",
-      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
       },
@@ -1819,38 +1779,22 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
         }
       ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
-    },
-    {
-      "added_at": "2023-01-11 09:23:21",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+      "duration_ms": 228066,
+      "name": "California Love (feat. JENO of NCT)",
+      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1879,22 +1823,42 @@
     {
       "added_at": "2023-01-11 09:23:21",
       "album": {
-        "name": "Make A Fool",
-        "url": "https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "Claire Hau",
-          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         },
         {
-          "name": "KEYMAKER",
-          "url": "https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Make A Fool",
-      "url": "https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 200900,
+      "name": "Have A Little Fun",
+      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
     },
     {
       "added_at": "2023-01-11 09:23:21",
@@ -1911,6 +1875,42 @@
       "duration_ms": 170520,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2023-01-11 09:23:21",
+      "album": {
+        "name": "Make A Fool",
+        "url": "https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        },
+        {
+          "name": "KEYMAKER",
+          "url": "https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Make A Fool",
+      "url": "https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr"
     },
     {
       "added_at": "2023-01-11 09:23:21",

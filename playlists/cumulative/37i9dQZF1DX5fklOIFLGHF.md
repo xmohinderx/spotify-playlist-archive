@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-270 songs - 17 hr 57 min
+271 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-08 |  |
 | [Naufrago](https://open.spotify.com/track/71V8zf39OwEpP54LQp3Bgo) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Surcando](https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n) | 3:38 | 2022-05-20 | 2022-07-29 |
 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 | 2022-05-20 |  |
-| [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 | 2022-05-20 |  |
+| [No Te Imaginas](https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No Te Imaginas](https://open.spotify.com/album/3HVgc5TzbVgLBA77uOevdv) | 3:26 | 2022-05-20 | 2023-01-16 |
 | [Noche de Rock](https://open.spotify.com/track/6PNwXxUpvti9wg6YrAHpYS) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Todo para Ser Feliz](https://open.spotify.com/album/6Fi5vaAjftLNztATYex34a) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [Nos dijimos todo](https://open.spotify.com/track/5i9BN55sSR94Lfdes8seDp) | [Once Tiros](https://open.spotify.com/artist/7w79n5kCkTEaewxNBynvhM) | [Imán](https://open.spotify.com/album/0JVFqH6RjuRpECnOovHqcH) | 3:32 | 2022-05-20 | 2022-07-28 |
 | [Nos Fuimos Estrellando](https://open.spotify.com/track/02Zx2yRpH55cyY5zGg2kMz) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Socio](https://open.spotify.com/album/3v18zEGUXrKojqrfZTIl16) | 4:06 | 2022-07-01 | 2022-07-29 |
@@ -272,6 +272,7 @@
 | [Voy](https://open.spotify.com/track/25q67SbyQAN3X6V8vKDw5C) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [Voy](https://open.spotify.com/album/14w0Fgd6L5OtsUsYvQc2oh) | 3:37 | 2022-05-20 | 2022-07-29 |
 | [Voz en Mi Cabeza](https://open.spotify.com/track/6Z2r66G06TMpeuZpz9DfJz) | [Interferencia](https://open.spotify.com/artist/4a0SjDR2G5p3wOL3Wp2QKa) | [Voz en Mi Cabeza](https://open.spotify.com/album/6zFN3Hn3ucFZWHDscKZ6Ek) | 4:47 | 2022-07-08 | 2022-07-29 |
 | [Vuelve](https://open.spotify.com/track/3RRttS6eFjDaPMGaSM4HCF) | [Sordromo](https://open.spotify.com/artist/0rIPrzD0oGKrG2JF5bNwXb) | [Aquí..\. Ahora...](https://open.spotify.com/album/7iweYlNNAtQfH2uKdze8HI) | 4:43 | 2022-05-20 | 2022-07-23 |
+| [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2022-12-16 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-07-08 | 2023-01-13 |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-07-08 |  |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2022-07-08 |  |

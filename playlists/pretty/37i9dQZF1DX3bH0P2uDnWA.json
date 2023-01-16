@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 323679,
+  "num_followers": 323836,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDU1N2JlNGQ0YTIzZWFmNmE0ZjBiNThiOTdiYjVmNGU2",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGUyZWIwNzQ1ZTE4ODJmN2ZhMTMxYTAzMjgyNjRiMTUx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -353,20 +353,20 @@
       "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
       },
       "artists": [
         {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
         }
       ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
       },
       "artists": [
         {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 192741,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
+    },
+    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -703,22 +719,6 @@
       "duration_ms": 170619,
       "name": "Boring 20s",
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 192741,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -787,6 +787,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Shocking Miss Emerald The Remixes",
         "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
       },
@@ -841,22 +857,6 @@
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "What Lana Says",
-        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
-      },
-      "artists": [
-        {
-          "name": "Proleter",
-          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "What Lana Says",
-      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "Get This (Bang Bang)",
@@ -891,18 +891,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+        "name": "What Lana Says",
+        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
       },
       "artists": [
         {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
         }
       ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+      "duration_ms": 279200,
+      "name": "What Lana Says",
+      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1225,6 +1225,22 @@
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Big Blue Swing",
+        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "duration_ms": 227127,
+      "name": "Big Blue Swing",
+      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
@@ -1245,20 +1261,36 @@
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2021-05-28 04:00:00",
       "album": {
-        "name": "Big Blue Swing",
-        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
       },
       "artists": [
         {
-          "name": "Tape Five",
-          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
         }
       ],
-      "duration_ms": 227127,
-      "name": "Big Blue Swing",
-      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
+      "duration_ms": 164257,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1283,38 +1315,6 @@
       "duration_ms": 209346,
       "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
       "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     },
     {
       "added_at": "2020-10-30 09:06:04",

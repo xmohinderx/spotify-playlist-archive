@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Mimi Webb, Fredo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,675 likes - 132 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,793 likes - 132 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 79 | [The Lows](https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Lows](https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf) | 2:50 |
 | 80 | [Clout](https://open.spotify.com/track/5e6MO8u3hEICNZxOGJFFxN) | [Jook](https://open.spotify.com/artist/7tRjoxpYG6ROVXj0PS6lud), [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Clout](https://open.spotify.com/album/4pMM9wGwEyWm3EjLFrKWSV) | 3:23 |
 | 81 | [So What?](https://open.spotify.com/track/2Q5VYvBaOm66kYLpSMrBRo) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/7usvzO394IoZs6wRmO0ysZ) | 2:44 |
-| 82 | [PSYCHE\_extended\_](https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:13 |
+| 82 | [PSYCHE\_extended\_ft\_snowy\_prod.pholo](https://open.spotify.com/track/5KSKPRRBmpjh383AYBCsiw) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:13 |
 | 83 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 |
 | 84 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
 | 85 | [I Fucking Love Dance Music \(feat\. GLASGOW KI$$\)](https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [GLASGOW KI$$](https://open.spotify.com/artist/0cETXeV47AtPH8Yuzm79Yj) | [I Fucking Love Dance Music \(feat\. GLASGOW KI$$\)](https://open.spotify.com/album/5JHu6XWFumcF3aT1P0B6pP) | 2:49 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 110 | [Into the Trap](https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Into the Trap](https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE) | 3:52 |
 | 111 | [LET GO](https://open.spotify.com/track/0IRvKqa9DsM5XOVsd0mHVe) | [Nine Six Honcho](https://open.spotify.com/artist/2yuV3GZ9qOYgBYIA2HxR8M) | [LET GO](https://open.spotify.com/album/4bERqgsenNNjtfvAmNgXwZ) | 2:13 |
 | 112 | [Deja Vu](https://open.spotify.com/track/0oApb9ELsx0V780nm3Yenz) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Deja Vu](https://open.spotify.com/album/0L8yGXWUHvfzYjXADj2gCV) | 2:17 |
-| 113 | [vertigo](https://open.spotify.com/track/4NrMRkvdqYlEVgxBm8kPfL) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [vertigo](https://open.spotify.com/album/6ycSM8AJEiW89wi8CBbItO) | 2:45 |
+| 113 | [vertigo](https://open.spotify.com/track/37QxBluoFPXI230lb27OwZ) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/3ydLktsjKvKeWx5V4NdnnR) | 2:45 |
 | 114 | [Never Go Far](https://open.spotify.com/track/0ADvsAM5CMS3YSkmy2LYWi) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Never Go Far](https://open.spotify.com/album/0jXfcMrX9iv5GLA3vqW1HZ) | 3:41 |
 | 115 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 |
 | 116 | [BBB](https://open.spotify.com/track/4Z71eFlaeu1EnLEO01x0Bn) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Full Circle](https://open.spotify.com/album/0pi018H8imEg6FetPw0afM) | 2:46 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 131 | [garden ghosts](https://open.spotify.com/track/0vi2mGOi4tQQWvzFzR51tQ) | [Sarah McCreedy](https://open.spotify.com/artist/5bWGFe8kM0mQLEUZhfMqpC), [AOIBHA](https://open.spotify.com/artist/1JQePmAx9vPWhhAzmSOVIS) | [garden ghosts](https://open.spotify.com/album/1TNfcCkt7xsH9wvkZnvuJD) | 3:44 |
 | 132 | [re\-location.zip](https://open.spotify.com/track/6feXynMqVk5bDRbGoaVc76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [re\-location.zip](https://open.spotify.com/album/64yu54eInEkJ8EpbSln86I) | 4:58 |
 
-Snapshot ID: `MTY3MzU2ODkxOCwwMDAwMDAwMGE5MjQ5ZTYxNDZlMTRiZTI0OWI3ZDZmMDg5OGRkNjAy`
+Snapshot ID: `MTY3MzU2ODkxOCwwMDAwMDAwMDg5MjdmOTM3OWQyNDI3MzUwZDI3YTI1ZDhhZGYyMTMy`

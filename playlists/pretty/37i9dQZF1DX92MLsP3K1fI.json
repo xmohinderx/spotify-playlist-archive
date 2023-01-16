@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alex Hoyer en portada.",
-  "num_followers": 57608,
+  "num_followers": 57686,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ3NzA3MywwMDAwMDAwMDM5NjY0ZDcwMjk4NWFjNWUwYmU1Mzk4ZmJiNDI5NDU1",
+  "snapshot_id": "MTY3MTQ3NzA3MywwMDAwMDAwMDU3YjdjZjUxZTk0NjAxZDIxZTliNDE4ZWVlMjgxNWI0",
   "tracks": [
     {
       "added_at": "2022-12-19 19:11:13",
@@ -663,6 +663,38 @@
     {
       "added_at": "2022-12-19 19:11:13",
       "album": {
+        "name": "TERMINAMOS",
+        "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "TERMINAMOS",
+      "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
+    },
+    {
+      "added_at": "2022-12-19 19:11:13",
+      "album": {
+        "name": "CHTM",
+        "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "CHTM",
+      "url": "https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI"
+    },
+    {
+      "added_at": "2022-12-19 19:11:13",
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -687,38 +719,6 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
-    },
-    {
-      "added_at": "2022-12-19 19:11:13",
-      "album": {
-        "name": "CHTM",
-        "url": "https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "CHTM",
-      "url": "https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI"
-    },
-    {
-      "added_at": "2022-12-19 19:11:13",
-      "album": {
-        "name": "TERMINAMOS",
-        "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
-        }
-      ],
-      "duration_ms": 157927,
-      "name": "TERMINAMOS",
-      "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
     },
     {
       "added_at": "2022-12-19 19:11:13",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-12-19 19:11:13",
       "album": {
-        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 229144,
-      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
-    },
-    {
-      "added_at": "2022-12-19 19:11:13",
-      "album": {
         "name": "Ya No Dueles",
         "url": "https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 168000,
       "name": "Ya No Dueles",
       "url": "https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3"
+    },
+    {
+      "added_at": "2022-12-19 19:11:13",
+      "album": {
+        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 229144,
+      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
     },
     {
       "added_at": "2022-12-19 19:11:13",

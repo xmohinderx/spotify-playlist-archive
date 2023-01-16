@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 143 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 499 likes - 143 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 28 | [Pt\. II\-Blues to Be There \- Live](https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 7:09 |
 | 29 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 |
 | 30 | [Midriff](https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:51 |
-| 31 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
-| 32 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
+| 31 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
+| 32 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
 | 33 | [Clementine](https://open.spotify.com/track/1Wi7jbwmHDnGKl8eymwcBt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:40 |
 | 34 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 |
 | 35 | [Multi\-Colored Blue](https://open.spotify.com/track/3TvP5l10j5Rq01glGi4lRp) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6xfAdEYFj8SY5is9L7gj2t) | 6:30 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc4OTU3NDEsMDAwMDAwMDBlYzgwN2M1NDdhMjRlYTQzYTViYmVlYTQxZDU4ZmM2NQ==`
+Snapshot ID: `Mjc4OTcxODEsMDAwMDAwMDA5MGNmN2I3MmJlMjJlZjNiYjQxODY2NDY4ZjM5YWY4Nw==`

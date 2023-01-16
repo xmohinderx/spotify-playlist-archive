@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-399 songs - 22 hr 48 min
+400 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2022-04-21 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-01 | 2022-04-18 |
 | [Amor de Verano](https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Amor de Verano](https://open.spotify.com/album/1KDE0rBIiV7nUkSwV0GvzZ) | 2:31 | 2022-01-07 | 2022-07-29 |
-| [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-23 |  |
+| [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-23 | 2023-01-16 |
 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 | 2022-01-07 |  |
 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 | 2022-07-15 |  |
 | [Amor Ferrari](https://open.spotify.com/track/3ViCo830vp2M3LIqf6Ye9t) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Amor Ferrari](https://open.spotify.com/album/0GUaxQlU4NARZQ585sbPM1) | 2:45 | 2022-01-07 | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [Fuimos](https://open.spotify.com/track/4C8QXT8QEsQO5D2FLyilN1) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/1Ajzi28vHUyf7Dyv7rZAOR) | 3:33 | 2022-01-07 | 2022-07-29 |
 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 | 2022-07-29 | 2022-08-06 |
 | [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2022-01-07 | 2022-12-22 |
+| [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 | 2022-12-23 |  |
 | [Fumar](https://open.spotify.com/track/7gCu2tqv6pGqBhL6mz0emO) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [520 Hz](https://open.spotify.com/album/7xyyGUj1nyOxxOx7lmUo0o) | 4:08 | 2022-04-01 | 2022-04-08 |
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2022-01-07 |  |
 | [Ganas de extrañarte](https://open.spotify.com/track/6vA1BVXzOKNKmOV54lYrP7) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 0:32 | 2022-04-01 | 2022-04-21 |

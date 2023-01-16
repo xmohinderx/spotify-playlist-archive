@@ -4,12 +4,13 @@
 
 > Moody electronica for the night time hours
 
-81 songs - 6 hr 28 min
+82 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2022-12-01 |  |
 | [All Together, Here Together](https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [All Together, Here Together](https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx) | 3:58 | 2022-12-01 |  |
+| [Be With U](https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Be With U](https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw) | 9:11 | 2023-01-13 |  |
 | [Berwyn \(all that i got is you\)](https://open.spotify.com/track/7JuPXIoPE7yZGNQEfKc68x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Guante](https://open.spotify.com/artist/5p9zQL75ZiIbZHkgl4xoA0) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 3:40 | 2022-12-01 | 2023-01-13 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-12-01 |  |
 | [Bleu \- Radio Edit](https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Bleu](https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid) | 3:48 | 2022-12-01 |  |
@@ -50,7 +51,7 @@
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-12-01 |  |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-12-01 |  |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-12-01 |  |
-| [Natural](https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:59 | 2022-12-01 |  |
+| [Natural](https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:59 | 2022-12-01 | 2023-01-16 |
 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 | 2022-12-01 | 2023-01-13 |
 | [Old Love](https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Old Love / The Silence in Between](https://open.spotify.com/album/7lzmVCDtNyrnJuzurcmB4p) | 3:30 | 2022-12-01 | 2023-01-13 |
 | [Only If U](https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Only If U](https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN) | 5:14 | 2022-12-01 | 2022-12-16 |

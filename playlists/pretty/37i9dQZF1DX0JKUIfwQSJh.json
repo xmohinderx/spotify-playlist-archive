@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 816761,
+  "num_followers": 816988,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMDcwY2YzMDdkYWY0MWQ1MzZlNmQ1MjljMWI5YjAzZTYx",
+  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGMzMGNiNWE3ODU5ZmIxOTU5OTBmMjNmNGE4NTAxYjBl",
   "tracks": [
     {
       "added_at": "2021-07-09 04:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Where You Lead",
+      "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 310773,
       "name": "Famous Blue Raincoat",
       "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Where You Lead",
-      "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "Solitude Standing",
-        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
         "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
         "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 129573,
       "name": "Cosmic Empire - Day 2 Demo / Take 1",
       "url": "https://open.spotify.com/track/3M50AuTabW54Mc8Xey5Qlq"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Solitude Standing",
+        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
     },
     {
       "added_at": "2021-07-09 04:01:00",

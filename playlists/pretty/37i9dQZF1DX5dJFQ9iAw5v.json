@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 29576,
+  "num_followers": 29583,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDVmYzM3NDAyNGViZjViNGMyOGI1ODAxYWNhYjcxODE5",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGFlMmM3MTQ3ZDMyNTgwZTdhZWE5MjEyMGM4NWEyZGE4",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
         "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 198960,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Jazz Argentino",
         "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 303186,
       "name": "Una Abeja Durmiente",
       "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "En Busca de la Tierra Sin Mal",
-      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
+      },
+      "artists": [
+        {
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "En Busca de la Tierra Sin Mal",
+      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
       "artists": [
         {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
         }
       ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -863,34 +863,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
       "artists": [
         {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
         }
       ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 347200,
-      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
-      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 188345,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 347200,
+      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
+      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
-        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
-      },
-      "artists": [
-        {
-          "name": "Nestor Astarita",
-          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
-        },
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 413595,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
+        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+      },
+      "artists": [
+        {
+          "name": "Nestor Astarita",
+          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 413595,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1239,26 +1239,6 @@
       "duration_ms": 324506,
       "name": "Pretos",
       "url": "https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 232706,
       "name": "9 de Copas",
       "url": "https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2022-11-18 03:00:00",

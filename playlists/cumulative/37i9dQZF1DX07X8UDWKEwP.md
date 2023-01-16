@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-190 songs - 11 hr 38 min
+191 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 | 2022-01-01 | 2022-03-26 |
 | [No Puedo](https://open.spotify.com/track/02OLLxwUuwBKo7ZeoSks1E) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [No Puedo](https://open.spotify.com/album/4dd10L0mNEGrOpkKzTHjCW) | 3:43 | 2022-01-01 | 2022-06-30 |
 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 | 2022-09-09 |  |
-| [Nunca](https://open.spotify.com/track/67w8Zi9hnvt2TeATaBFfHC) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Nunca](https://open.spotify.com/album/6zBXJPqYoXyX3wOcVhn7RS) | 4:00 | 2022-07-19 |  |
+| [Nunca](https://open.spotify.com/track/67w8Zi9hnvt2TeATaBFfHC) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Nunca](https://open.spotify.com/album/6zBXJPqYoXyX3wOcVhn7RS) | 4:00 | 2022-07-19 | 2023-01-16 |
 | [Olor a Kush \- Merengue](https://open.spotify.com/track/4ic68ItCjS1yyO6IgLs9s0) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Olor a Kush \(Merengue\)](https://open.spotify.com/album/4QNc3T3uQhNg6nncMnqXsY) | 2:52 | 2022-04-29 | 2022-06-30 |
 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 | 2022-06-29 |  |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-28 | 2022-06-30 |
@@ -184,6 +184,7 @@
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-04-29 | 2022-06-30 |
 | [Un Minuto Mas](https://open.spotify.com/track/4mAA0PR2CAs2AUvkFa1kbo) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Un Minuto Mas](https://open.spotify.com/album/11VqlQPChAvgagBbMkIDTc) | 2:29 | 2022-01-01 | 2022-01-29 |
 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 | 2022-01-01 | 2022-06-30 |
+| [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-13 |  |
 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-06-29 | 2023-01-14 |
 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 | 2022-06-29 |  |
 | [Vuelve](https://open.spotify.com/track/1KJMygl0P4TmlwTYO0zVHD) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Vuelve](https://open.spotify.com/album/07fsh2oj0AY397J3WPs6sG) | 2:46 | 2022-06-29 |  |

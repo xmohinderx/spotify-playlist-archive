@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 5036,
+  "num_followers": 5037,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDBiZjI4ZWJmMDg4NTQxYzdiYjhmOWZhYzk4NTFjZmY4",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGJlNTI2MTVkOTFhZjI3NGY4MTE4YTVhNjYxNTAxZjgz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Io Fuori",
         "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 349462,
       "name": "Ti voglio",
       "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Nuda",
+        "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
+      },
+      "artists": [
+        {
+          "name": "Lilith Primavera",
+          "url": "https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019"
+        },
+        {
+          "name": "La Tosa",
+          "url": "https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl"
+        }
+      ],
+      "duration_ms": 196940,
+      "name": "Amami - La Tosa Disco Remix",
+      "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "BatBox",
         "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
       },
@@ -1235,22 +1255,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Comet",
-        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
-      },
-      "artists": [
-        {
-          "name": "L I M",
-          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
-        }
-      ],
-      "duration_ms": 261795,
-      "name": "Comet",
-      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Beirut Remixed",
-        "url": "https://open.spotify.com/album/6FpwepbGYV3lvb1r2vvexd"
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
       "artists": [
         {
-          "name": "Mashrou' Leila",
-          "url": "https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m"
-        },
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/40fRpgJArQvrzJaaWdRCxt"
+          "name": "L I M",
+          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
         }
       ],
-      "duration_ms": 416130,
-      "name": "Embembelelah - Jade's DiscoSpaceDrumBuka Remix",
-      "url": "https://open.spotify.com/track/3EF49wVK8jbE8GajPYLExm"
+      "duration_ms": 261795,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
     }
   ],
   "unique_name": "Pride Italia",

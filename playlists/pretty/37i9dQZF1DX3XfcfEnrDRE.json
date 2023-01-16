@@ -1,15 +1,15 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 218670,
+  "num_followers": 218791,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDc1NGUxZDJiOTY1MDNlOGE1OWE5YmZiNGFlNjE2N2Vk",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMGY3MWE2MGU5ZDY2MjljYmQzMzI0ZjU5ZDEzZTFhMTc3",
   "tracks": [
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Life After Death",
         "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "LION: Live From The Loft",
         "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Baptized Imagination",
         "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Still Mighty",
         "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
-      "album": {
-        "name": "Brother Jack",
-        "url": "https://open.spotify.com/album/5prLglkfDSZNCswJ2xzbqn"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Brother Jack",
-      "url": "https://open.spotify.com/track/7cbBje7fa1gj3IpOLcwCMt"
-    },
-    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
         "name": "River",
@@ -421,7 +405,23 @@
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "Brother Jack",
+        "url": "https://open.spotify.com/album/5prLglkfDSZNCswJ2xzbqn"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Brother Jack",
+      "url": "https://open.spotify.com/track/7cbBje7fa1gj3IpOLcwCMt"
+    },
+    {
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
@@ -491,21 +491,25 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+        "name": "Way, Truth, Life",
+        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
       "artists": [
         {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Naomi Mae",
+          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
         }
       ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+      "duration_ms": 173500,
+      "name": "Way, Truth, Life",
+      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
@@ -523,22 +527,18 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Way, Truth, Life",
-        "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Naomi Mae",
-          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Way, Truth, Life",
-      "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Stages Of A Breakdown",
-        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Raise Up",
-      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 138846,
       "name": "Where To Find Me",
       "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Stages Of A Breakdown",
+        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
@@ -709,23 +709,7 @@
       "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
-      "album": {
-        "name": "Not So Sure",
-        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
-    },
-    {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
@@ -739,6 +723,22 @@
       "duration_ms": 159780,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
+    },
+    {
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "Not So Sure",
+        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
@@ -791,6 +791,22 @@
       "duration_ms": 262254,
       "name": "Run - Twenty Version",
       "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -807,22 +823,6 @@
       "duration_ms": 255118,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-01-15 01:00:35",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "right here",
         "url": "https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3"
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+    },
+    {
       "added_at": "2022-11-11 10:17:01",
       "album": {
         "name": "OLDER",
@@ -1125,20 +1141,20 @@
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+        "name": "Move of Heaven",
+        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
       },
       "artists": [
         {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
         }
       ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+      "duration_ms": 339706,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1157,23 +1173,7 @@
       "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
-      "album": {
-        "name": "Move of Heaven",
-        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
-    },
-    {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Keep Hopin'",
         "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
@@ -1187,6 +1187,22 @@
       "duration_ms": 167076,
       "name": "Keep Hopin'",
       "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
+    },
+    {
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/67yFf6I36cedx6RhT17l6J"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 215247,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/77rhVt2gkXW7ERW9SJDNRu"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1203,22 +1219,6 @@
       "duration_ms": 217500,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
-    },
-    {
-      "added_at": "2023-01-15 01:00:35",
-      "album": {
-        "name": "I'm Alive",
-        "url": "https://open.spotify.com/album/67yFf6I36cedx6RhT17l6J"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 215247,
-      "name": "I'm Alive",
-      "url": "https://open.spotify.com/track/77rhVt2gkXW7ERW9SJDNRu"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "My Heart Alone",
         "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "interrobang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2WUV0q5eiPIUrodm5t6EMP"
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
         }
       ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1493,7 +1493,23 @@
       "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
@@ -1513,7 +1529,7 @@
       "url": "https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Give My All",
         "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
@@ -1547,6 +1563,26 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
+    },
+    {
+      "added_at": "2022-11-11 10:17:01",
+      "album": {
         "name": "Rapzilla.com Presents: Freshmen 2021",
         "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
       },
@@ -1567,22 +1603,18 @@
     {
       "added_at": "2022-11-11 10:17:01",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
       },
       "artists": [
         {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-11-11 10:17:01",
@@ -1609,39 +1641,7 @@
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
     },
     {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
-    },
-    {
-      "added_at": "2022-11-11 10:17:01",
-      "album": {
-        "name": "hard to dream",
-        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        }
-      ],
-      "duration_ms": 232061,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
-    },
-    {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Carlo Rossi (Love in the Face of Great Danger)",
         "url": "https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F"
@@ -1657,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB"
     },
     {
-      "added_at": "2023-01-15 01:00:35",
+      "added_at": "2023-01-16 01:18:26",
       "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6"

@@ -6,7 +6,7 @@
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQ3NCw3YzY5ZmFjMGVjYjA1NTQ5MDVjOGZmMDk2N2IyZTdhMjdiNWU2NTQx",
+  "snapshot_id": "MjQ3NSxlMzA0N2VhMjM0ODkxYWRiMGFiN2E3YmY3MDJkODI5MzRkNWQwN2Jj",
   "tracks": [
     {
       "added_at": "2023-01-13 08:27:38",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-01-13 08:27:38",
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/62M0d5Gt4HhZeztUX67VTg"
+      },
+      "artists": [
+        {
+          "name": "Call Me Loop",
+          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
+        }
+      ],
+      "duration_ms": 157199,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/5mJnOW2Sio4t01yuRag05n"
+    },
+    {
+      "added_at": "2023-01-13 08:27:38",
+      "album": {
         "name": "What You Say?",
         "url": "https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 163382,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4pY4Zir04fny1BkqA6X8Ih"
-    },
-    {
-      "added_at": "2023-01-13 08:27:38",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/62M0d5Gt4HhZeztUX67VTg"
-      },
-      "artists": [
-        {
-          "name": "Call Me Loop",
-          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
-        }
-      ],
-      "duration_ms": 157199,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/5mJnOW2Sio4t01yuRag05n"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie music\. Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,714 likes - 68 songs - 3 hr 57 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,708 likes - 68 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

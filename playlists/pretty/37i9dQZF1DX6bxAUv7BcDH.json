@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 6,
+  "num_followers": 7,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMGQxMDJlOThmZjBkNThlZDVlNDI3ZjAyMzNjNzY3MDVh",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDljNTYxNjllNmE4NWU0ODJlNjZmYzgwZjEyYTM0NzVl",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Some People's Lives",
-        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Sailing / Poor Shirley (Digital 45)",
         "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 255453,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Some People's Lives",
+        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 217893,
       "name": "The Shadow of Your Smile (Love Theme from \"The Sandpiper\")",
       "url": "https://open.spotify.com/track/66YI4JFp7BcMcepibGprsN"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",

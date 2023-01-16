@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1147264,
+  "num_followers": 1147871,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzOTAyOSwwMDAwMDAwMDM3NDIxOGZlNDgwZDExZDY1YzIyMjk1NzRlMTY0ZDFj",
+  "snapshot_id": "MTY3MzUzOTAyOSwwMDAwMDAwMGIxMTgzZDk2MWQ2ZTg5ZmVjNzY3ZDA5NDM4MTVhYzk1",
   "tracks": [
     {
       "added_at": "2023-01-02 23:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k"
     },
     {
-      "added_at": "2023-01-15 00:21:39",
+      "added_at": "2023-01-16 01:05:34",
       "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/0vBOyqICis94fkSwJbfUeF"
     },
     {
-      "added_at": "2023-01-15 00:21:39",
+      "added_at": "2023-01-16 01:05:34",
       "album": {
         "name": "Free Fall",
         "url": "https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/0R2KmlsyojxoYG8wxcd5XX"
     },
     {
-      "added_at": "2023-01-15 00:21:39",
+      "added_at": "2023-01-16 01:05:34",
       "album": {
         "name": "Ketamine Klappers",
         "url": "https://open.spotify.com/album/3AJga5CGI2yGDb6yxc0exd"
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Primal Energy (Defqon.1 2020 Anthem)",
+        "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 316800,
+      "name": "Primal Energy - Defqon.1 2020 Anthem",
+      "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Primal Energy (Defqon.1 2020 Anthem)",
-        "url": "https://open.spotify.com/album/4JSAVsJOCKiUiEAiYrNWAx"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 316800,
-      "name": "Primal Energy - Defqon.1 2020 Anthem",
-      "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
       },
       "artists": [
         {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 244133,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+      "duration_ms": 174603,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/69XAJqiyCPEEdnlnkZThVE"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
         }
       ],
-      "duration_ms": 174603,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
+      "duration_ms": 244133,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/6VbjWwsZY6T10MSLs6FBkt"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 197939,
+      "name": "Renaissance Of Rave",
+      "url": "https://open.spotify.com/track/4Pz8GNHkByRlPSnhBK0Qj9"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Everything is a Lie",
         "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 242400,
       "name": "Everything is a Lie",
       "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/6VbjWwsZY6T10MSLs6FBkt"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 197939,
-      "name": "Renaissance Of Rave",
-      "url": "https://open.spotify.com/track/4Pz8GNHkByRlPSnhBK0Qj9"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/0Smj1yoAnscJeGEPCJIUNl"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 241032,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1P0mcQCTn85NY7I1cKFVZh"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Superstring (Aftershock Remix)",
         "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 144020,
       "name": "Superstring - Aftershock Remix",
       "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/0Smj1yoAnscJeGEPCJIUNl"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 241032,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1P0mcQCTn85NY7I1cKFVZh"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Lose It All",
-        "url": "https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Lose It All",
-      "url": "https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -2227,18 +2207,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7DjLttCTgkKZklPe6GFwBt"
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT"
       },
       "artists": [
         {
-          "name": "Neolux",
-          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
         }
       ],
-      "duration_ms": 187341,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/5wsET7UzdeLwvTkAkVytut"
+      "duration_ms": 208000,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2259,6 +2243,22 @@
       "duration_ms": 234021,
       "name": "Fiyaaah!",
       "url": "https://open.spotify.com/track/1gWAtvmMbhH6WPLes1swNh"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7DjLttCTgkKZklPe6GFwBt"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "duration_ms": 187341,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/5wsET7UzdeLwvTkAkVytut"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Shabaka",
-        "url": "https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL"
-      },
-      "artists": [
-        {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
-        },
-        {
-          "name": "Sickddellz",
-          "url": "https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Shabaka",
-      "url": "https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Moonlight Shadow (Stereo Faces Remix)",
         "url": "https://open.spotify.com/album/1fFhG0MqQUxtnBHUr2N1tt"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 177656,
       "name": "Moonlight Shadow - Stereo Faces Remix",
       "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Shabaka",
+        "url": "https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        },
+        {
+          "name": "Sickddellz",
+          "url": "https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Shabaka",
+      "url": "https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2435,8 +2435,8 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Deep In My Soul",
-        "url": "https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL"
+        "name": "Harder Generation",
+        "url": "https://open.spotify.com/album/0RuAiwFc8pPxBqxMuqGAFf"
       },
       "artists": [
         {
@@ -2444,9 +2444,9 @@
           "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Deep In My Soul",
-      "url": "https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy"
+      "duration_ms": 219200,
+      "name": "Harder Generation",
+      "url": "https://open.spotify.com/track/6iLMS7BoubufyLfSf2PUpy"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2579,8 +2579,8 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Harder Generation",
-        "url": "https://open.spotify.com/album/0RuAiwFc8pPxBqxMuqGAFf"
+        "name": "Deep In My Soul",
+        "url": "https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL"
       },
       "artists": [
         {
@@ -2588,9 +2588,9 @@
           "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Harder Generation",
-      "url": "https://open.spotify.com/track/6iLMS7BoubufyLfSf2PUpy"
+      "duration_ms": 241600,
+      "name": "Deep In My Soul",
+      "url": "https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2703,58 +2703,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4"
-      },
-      "artists": [
-        {
-          "name": "Project One",
-          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Luminosity - Edit",
-      "url": "https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/3StePv0Tk2zKECoflkvmp7"
-      },
-      "artists": [
-        {
-          "name": "Withard",
-          "url": "https://open.spotify.com/artist/5ZuSArM7XZsg76J6aDu2ZH"
-        },
-        {
-          "name": "Quickdrop",
-          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
-        }
-      ],
-      "duration_ms": 165011,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/4gobxfa0JUTV1riZfyHSqm"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Set Myself Free",
-        "url": "https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        }
-      ],
-      "duration_ms": 227612,
-      "name": "Set Myself Free",
-      "url": "https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Time Is Now (I AM HARDSTYLE In Concert Theme)",
         "url": "https://open.spotify.com/album/5ofmI3ZQPC9xBFUoHcAh5r"
       },
@@ -2779,6 +2727,58 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4"
+      },
+      "artists": [
+        {
+          "name": "Project One",
+          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Luminosity - Edit",
+      "url": "https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Set Myself Free",
+        "url": "https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "duration_ms": 227612,
+      "name": "Set Myself Free",
+      "url": "https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/3StePv0Tk2zKECoflkvmp7"
+      },
+      "artists": [
+        {
+          "name": "Withard",
+          "url": "https://open.spotify.com/artist/5ZuSArM7XZsg76J6aDu2ZH"
+        },
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        }
+      ],
+      "duration_ms": 165011,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/4gobxfa0JUTV1riZfyHSqm"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Stereo Love (Dark Rehab Remix)",
         "url": "https://open.spotify.com/album/0DtKJsBKbUIoMoHhInLfwn"
       },
@@ -2799,30 +2799,6 @@
       "duration_ms": 206352,
       "name": "Stereo Love - Dark Rehab Remix",
       "url": "https://open.spotify.com/track/7y6r9UBkaWSproYktbdPkz"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "See You",
-        "url": "https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 254901,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -2859,6 +2835,30 @@
       "duration_ms": 288000,
       "name": "Break Free (Official Decibel Outdoor 2022 Anthem)",
       "url": "https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "See You",
+        "url": "https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 254901,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Fire And Ice (Radio Edit)",
-        "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
-      },
-      "artists": [
-        {
-          "name": "MYST",
-          "url": "https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Fire And Ice - Radio Edit",
-      "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 270000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Fire And Ice (Radio Edit)",
+        "url": "https://open.spotify.com/album/2ondbr9eOLVOgfyENFNE1x"
+      },
+      "artists": [
+        {
+          "name": "MYST",
+          "url": "https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Fire And Ice - Radio Edit",
+      "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3079,22 +3079,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Get Loose",
-        "url": "https://open.spotify.com/album/48ymeFuWASkiOSoSji8ywr"
-      },
-      "artists": [
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/4DLgVhC0mlsNu4rjs9K6Ir"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "The Hymn Of Nivoria",
         "url": "https://open.spotify.com/album/0PtV7fwlczsaljzUDngApT"
       },
@@ -3111,22 +3095,18 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Shake The Ground (feat. Noubya)",
-        "url": "https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW"
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/48ymeFuWASkiOSoSji8ywr"
       },
       "artists": [
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Noubya",
-          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Shake The Ground",
-      "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
+      "duration_ms": 174375,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/4DLgVhC0mlsNu4rjs9K6Ir"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3147,6 +3127,26 @@
       "duration_ms": 226500,
       "name": "WARHORN (E1: To War We Go)",
       "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Shake The Ground (feat. Noubya)",
+        "url": "https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Noubya",
+          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Shake The Ground",
+      "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3211,22 +3211,38 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq"
+        "name": "Faith Of This World (Original Mix)",
+        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
       },
       "artists": [
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
         }
       ],
-      "duration_ms": 225200,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h"
+      "duration_ms": 242616,
+      "name": "Faith Of This World - Original Mix",
+      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/5g6d9G4UPWzRTEcBk1YW5Q"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/06sDYT7KiqoZiWH8Setpgw"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3255,22 +3271,6 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/5g6d9G4UPWzRTEcBk1YW5Q"
-      },
-      "artists": [
-        {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/06sDYT7KiqoZiWH8Setpgw"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/6ZwW3ENnDYQqafmExvEhuy"
       },
@@ -3283,6 +3283,42 @@
       "duration_ms": 201804,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/0ZFbjz111lD5ZmCweY4iV9"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Make Some Noise",
+        "url": "https://open.spotify.com/album/4c1QAsOQnZBVFuthKRbkN3"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah"
+        }
+      ],
+      "duration_ms": 189868,
+      "name": "Make Some Noise",
+      "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3307,26 +3343,6 @@
       "duration_ms": 201864,
       "name": "Ready To Rave - Bass Modulators Remix",
       "url": "https://open.spotify.com/track/42IQMsJSe76cd8GkJ0hPUh"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Faith Of This World (Original Mix)",
-        "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        }
-      ],
-      "duration_ms": 242616,
-      "name": "Faith Of This World - Original Mix",
-      "url": "https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3363,22 +3379,6 @@
       "duration_ms": 229940,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6jOnJuuHrAo8TER3UhfVsN"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Make Some Noise",
-        "url": "https://open.spotify.com/album/4c1QAsOQnZBVFuthKRbkN3"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah"
-        }
-      ],
-      "duration_ms": 189868,
-      "name": "Make Some Noise",
-      "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3619,6 +3619,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Bodyshock",
+        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "duration_ms": 178717,
+      "name": "Bodyshock",
+      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "You Spin Me Round (Like a Record)",
         "url": "https://open.spotify.com/album/3L9VIe49H6NTvF2pxjsfaN"
       },
@@ -3659,22 +3675,6 @@
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Bodyshock",
-        "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
-      },
-      "artists": [
-        {
-          "name": "Mandy",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        }
-      ],
-      "duration_ms": 178717,
-      "name": "Bodyshock",
-      "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3775,6 +3775,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "TMY",
+        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
+      },
+      "artists": [
+        {
+          "name": "Scabtik",
+          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "TMY",
+      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA"
       },
@@ -3799,34 +3815,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "TMY",
-        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
+        "name": "Watch Us Die",
+        "url": "https://open.spotify.com/album/20VqjNmHRnP4YgoutY2VvY"
       },
       "artists": [
         {
-          "name": "Scabtik",
-          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
-        }
-      ],
-      "duration_ms": 159998,
-      "name": "TMY",
-      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/0brzA3lWqdb7UuTY7YxNYx"
-      },
-      "artists": [
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
         {
-          "name": "The Pitcher",
-          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+          "name": "Juuls",
+          "url": "https://open.spotify.com/artist/6rweqo57D993dY8dBCDYUd"
         }
       ],
-      "duration_ms": 175496,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM"
+      "duration_ms": 196162,
+      "name": "Watch Us Die",
+      "url": "https://open.spotify.com/track/74as9DvHT2hAWpbbw4ewWA"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3847,22 +3851,18 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "Watch Us Die",
-        "url": "https://open.spotify.com/album/20VqjNmHRnP4YgoutY2VvY"
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/0brzA3lWqdb7UuTY7YxNYx"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Juuls",
-          "url": "https://open.spotify.com/artist/6rweqo57D993dY8dBCDYUd"
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Watch Us Die",
-      "url": "https://open.spotify.com/track/74as9DvHT2hAWpbbw4ewWA"
+      "duration_ms": 175496,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3923,8 +3923,8 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/60nKbamPD9dVEy8KLWwn1Z"
+        "name": "Kingdom Comes",
+        "url": "https://open.spotify.com/album/4d6cq051HQEbbU1hvepc7I"
       },
       "artists": [
         {
@@ -3932,13 +3932,13 @@
           "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
         },
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
         }
       ],
-      "duration_ms": 238400,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/5SdosZFiok1BS9LkWexfFQ"
+      "duration_ms": 218157,
+      "name": "Kingdom Comes",
+      "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
     },
     {
       "added_at": "2023-01-02 23:00:00",
@@ -3963,6 +3963,22 @@
     {
       "added_at": "2023-01-02 23:00:00",
       "album": {
+        "name": "Snatch",
+        "url": "https://open.spotify.com/album/0msKhN4mG47SotMWEqzqoo"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Snatch",
+      "url": "https://open.spotify.com/track/0yTzy8hWBrN0rLlM7oUF7L"
+    },
+    {
+      "added_at": "2023-01-02 23:00:00",
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/4bN61KgB2gz5X3re39tTWV"
       },
@@ -3979,22 +3995,6 @@
       "duration_ms": 326955,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/30xpBHCKlX7TPGuCAqqs07"
-    },
-    {
-      "added_at": "2023-01-02 23:00:00",
-      "album": {
-        "name": "Snatch",
-        "url": "https://open.spotify.com/album/0msKhN4mG47SotMWEqzqoo"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Snatch",
-      "url": "https://open.spotify.com/track/0yTzy8hWBrN0rLlM7oUF7L"
     }
   ],
   "unique_name": "Hardstyle Bangers",

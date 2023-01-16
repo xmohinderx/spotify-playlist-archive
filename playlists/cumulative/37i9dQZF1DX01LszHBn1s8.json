@@ -3358,6 +3358,10 @@
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         },
         {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
           "name": "slater",
           "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
@@ -5502,7 +5506,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 171750,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/6wpk1zTTTXD7O64vL7TodM"
@@ -5524,6 +5528,28 @@
       "duration_ms": 171808,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (Party Party) (Remix)",
+        "url": "https://open.spotify.com/album/0FRow91LCygMthx8yIEBVf"
+      },
+      "artists": [
+        {
+          "name": "Muppet DJ",
+          "url": "https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny"
+        },
+        {
+          "name": "SECA Records",
+          "url": "https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171755,
+      "name": "Give It To Me (Party Party) - Remix",
+      "url": "https://open.spotify.com/track/17B3JX4cJdnY0jEkZPjNMO"
     },
     {
       "album": {
@@ -7158,6 +7184,10 @@
         {
           "name": "Ruth B.",
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         },
         {
           "name": "slater",

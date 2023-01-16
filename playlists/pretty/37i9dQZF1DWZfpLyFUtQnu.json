@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 40423,
+  "num_followers": 40522,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDQ0NmVlYzQ0MDUyYzA0MGZiZWY0ZmRjOWIxOGRkMWI1",
+  "snapshot_id": "MTY3MDMzODY5NCwwMDAwMDAwMDI4OTE2YjMxNzVkZGYyMmIwMTM3YWQwNTNiOTY2YTNk",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Effet miroir",
         "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 158800,
       "name": "Demain c'est toi",
       "url": "https://open.spotify.com/track/1gyeYL3RaqMaJK23IJH7QA"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "The Songs (Acoustic)",
-        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 231835,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "La tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 258826,
       "name": "Prendre un enfant",
       "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "The Songs (Acoustic)",
+        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 231835,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
+        "name": "Je ne chante pas pour passer le temps",
+        "url": "https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 201280,
       "name": "beau-papa (acoustique)",
       "url": "https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
-        "name": "Je ne chante pas pour passer le temps",
-        "url": "https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Louane",
-        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Bruxelles (Version acoustique)",
         "url": "https://open.spotify.com/album/2UA3lHDTFLYMAXH7nj2gp5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 178680,
       "name": "Bruxelles - Version acoustique",
       "url": "https://open.spotify.com/track/7qfS3qSvzl7A2lBjlr6W4z"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
     }
   ],
   "unique_name": "Douce France",

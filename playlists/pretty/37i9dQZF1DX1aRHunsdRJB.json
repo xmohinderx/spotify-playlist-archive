@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8594,
+  "num_followers": 8599,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGM2ZDQ4Njc2NWVlNGNjNGUzMDQwMGY0MzNkNWExZGRj",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGEzZDYyZjcxZDk1NjJiY2RiNjQ4NDM5MDNjNTZmYmQz",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wileside Government",
-        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 202332,
-      "name": "Wileside Government",
-      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 230711,
       "name": "Captain",
       "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Private Zess",
-        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
-      },
-      "artists": [
-        {
-          "name": "K Lion",
-          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
-        },
-        {
-          "name": "LR",
-          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Private Zess",
-      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Private Zess",
+        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
+      },
+      "artists": [
+        {
+          "name": "K Lion",
+          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+        },
+        {
+          "name": "LR",
+          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Private Zess",
+      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca Virgin",
         "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+        "name": "Arch & Bend Riddim Reloaded",
+        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
       },
       "artists": [
         {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 184800,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Arch & Bend Riddim Reloaded",
-        "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 136663,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Bend Yuh Back",
+        "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Bend Yuh Back",
+      "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca Gold 2012",
         "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 230769,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Bend Yuh Back",
-        "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Bend Yuh Back",
-      "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
     },
     {
       "added_at": "2022-02-24 18:00:00",

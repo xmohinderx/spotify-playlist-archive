@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,491 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,424 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 47 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
 | 48 | [Last Christmas](https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Last Christmas](https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ) | 2:56 |
 | 49 | [All Together For Christmas](https://open.spotify.com/track/3YMMOyhpzFsinzVW3y0O9r) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [All Together For Christmas](https://open.spotify.com/album/2LYEIFEikRasmPpiluVZjJ) | 2:57 |
-| 50 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
-| 51 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 50 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 |
+| 51 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 | 52 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 |
-| 53 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 |
-| 54 | [Last Christmas](https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Last Christmas](https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B) | 3:07 |
+| 53 | [Last Christmas](https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Last Christmas](https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B) | 3:07 |
+| 54 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 |
 | 55 | [Favorite Christmas Song](https://open.spotify.com/track/4Q3yYPlcjuQ2umodTkdMeR) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [Favorite Christmas Song](https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB) | 3:25 |
 | 56 | [The Banister Bough](https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc) | 4:09 |
 | 57 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 76 | [Can't Wait Till Christmas](https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Can't Wait Till Christmas](https://open.spotify.com/album/2P5W3sdpuzWJ7C9dvHjiQA) | 3:41 |
 | 77 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [They Don’t Make Them Like That Anymore](https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt) | 3:36 |
 | 78 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 |
-| 79 | [A Time For Having Fun](https://open.spotify.com/track/6FHTUfMGuIZTf2wX9L4opW) | [Johnny Reid](https://open.spotify.com/artist/2QnCvSa46mN4Wi4gDVdnso) | [A Time For Having Fun](https://open.spotify.com/album/3snfS8FOsuVHuLQNNskIHu) | 3:02 |
-| 80 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 79 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 |
+| 80 | [A Time For Having Fun](https://open.spotify.com/track/6FHTUfMGuIZTf2wX9L4opW) | [Johnny Reid](https://open.spotify.com/artist/2QnCvSa46mN4Wi4gDVdnso) | [A Time For Having Fun](https://open.spotify.com/album/3snfS8FOsuVHuLQNNskIHu) | 3:02 |
 | 81 | [Love Is Christmas](https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [O Holy Night](https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv) | 4:14 |
 | 82 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 |
 | 83 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 | 100 | [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGUxNmRhMTNkNjUwMjc5NjM4Nzk1NTZiNTc5ODMxNTVh`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDE1NWI3NWUzNjY0YTY0OTk1N2RmMTcwMDgyODJiYjdk`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 215651,
+  "num_followers": 215898,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDQ4ODg0MGFhYmJkZmQ3N2IxMDE5YTg5YmE3ZDExNzQ0",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDYwY2I0ODQzYWU1NWQwZjcwZDcyYzY3NTI0ZmMyZjlk",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Necropolis",
-        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },
       "artists": [
         {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        },
-        {
-          "name": "Maciej Taff",
-          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Fight Fire With Fire",
-      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -747,18 +743,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+        "name": "Necropolis",
+        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        },
+        {
+          "name": "Maciej Taff",
+          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
         }
       ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+      "duration_ms": 245853,
+      "name": "Fight Fire With Fire",
+      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Born Dead",
         "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 268240,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Riddles, Ruins & Revelations",
         "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 240693,
       "name": "God of Thunder",
       "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Tainted Love",
-        "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 182188,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Hidden Treasures",
         "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 183360,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 182188,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf"
     },
     {
       "added_at": "2022-12-16 05:00:00",

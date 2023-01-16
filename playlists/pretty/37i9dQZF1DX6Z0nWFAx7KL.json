@@ -1,15 +1,15 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 28391,
+  "num_followers": 28423,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQ2MCwwMDAwMDAwMDc0YzdmNjE3Y2QyZmIzY2I2ZDg2YzI5MDlmZjVlYzMz",
+  "snapshot_id": "MTY3MzU2NDQ2MCwwMDAwMDAwMGQwMDljOGU0NDI1OTY2ZTZmMmM4YzM2Yzc5YWIxODA3",
   "tracks": [
     {
-      "added_at": "2023-01-15 00:43:51",
+      "added_at": "2023-01-16 01:06:22",
       "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
-      "added_at": "2023-01-15 00:43:51",
+      "added_at": "2023-01-16 01:06:22",
       "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
@@ -195,26 +195,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -615,30 +615,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Who's Holding You",
-        "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Dario Rodriguez",
-          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 161478,
-      "name": "Who's Holding You",
-      "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
       },
@@ -671,6 +647,46 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Who's Holding You",
+        "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Dario Rodriguez",
+          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 161478,
+      "name": "Who's Holding You",
+      "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "In The Sun",
-      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -787,6 +787,30 @@
       "duration_ms": 132927,
       "name": "I Blame You",
       "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -843,30 +867,6 @@
       "duration_ms": 156923,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "All The Highs (Alternate Versions)",
-        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 231543,
-      "name": "All The Highs - Slowed",
-      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 164000,
       "name": "Escaping",
       "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "All The Highs (Alternate Versions)",
+        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 231543,
+      "name": "All The Highs - Slowed",
+      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Feelings After Dark (feat. NISHA)",
-        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "HARBER",
-          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
-        },
-        {
-          "name": "NISHA",
-          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Feelings After Dark (feat. NISHA)",
-      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Echo [Cha\u00ebl Remix]",
         "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 153442,
       "name": "Echo [Cha\u00ebl Remix]",
       "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Feelings After Dark (feat. NISHA)",
+        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "HARBER",
+          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
+        },
+        {
+          "name": "NISHA",
+          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "Feelings After Dark (feat. NISHA)",
+      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 184000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 171696,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
-      },
-      "artists": [
-        {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Winter's Going",
         "url": "https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 200981,
       "name": "Winter's Going",
       "url": "https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
+      },
+      "artists": [
+        {
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
     },
     {
       "added_at": "2022-12-29 23:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2022-12-29 23:00:00",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        }
-      ],
-      "duration_ms": 126147,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
-    },
-    {
-      "added_at": "2022-12-29 23:00:00",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+    },
+    {
+      "added_at": "2022-12-29 23:00:00",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
     }
   ],
   "unique_name": "Dance Chill",

@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 291212,
+  "num_followers": 291318,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDM4ZTJiMWJjYTVjMTMxZmUxNDc4ZTBlMmJkZGI5OTEx",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGRkOTk3Y2JmMGY1MDUyMWIzMGMzNjA2YTM3OGJjMzQ5",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Look Easy",
         "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 165219,
       "name": "Look Easy",
       "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Debold",
-      "url": "https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
-      },
-      "artists": [
-        {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Moves EP",
         "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+      },
+      "artists": [
+        {
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",

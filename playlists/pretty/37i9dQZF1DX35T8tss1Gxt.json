@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 166470,
+  "num_followers": 166549,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGI0YmQ5M2FkMGQ1MWZkNzU4MTFhYmY5MTJjYWRmNWFj",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDc4ZjMxYWQzMmU0NDE3NzliZGMzOTE4MDdjNjlhOTg3",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Learning to Forgive",
-        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Learning to Forgive",
-      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "The Vow",
         "url": "https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 250909,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Learning to Forgive",
+        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Learning to Forgive",
+      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "God Made",
-        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "God Made",
-      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 210000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "God Made",
+        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "God Made",
+      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Rescue (Reimagined)",
-        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 195679,
-      "name": "Rescue (Reimagined)",
-      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Rescue (Reimagined)",
+        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 195679,
+      "name": "Rescue (Reimagined)",
+      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -1667,6 +1667,26 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "GUIDE MY HEART",
+        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
+      },
+      "artists": [
+        {
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 143671,
+      "name": "GUIDE MY HEART",
+      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1747,22 +1767,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "GUIDE MY HEART",
-        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
+        "name": "Hold It All Together",
+        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
       },
       "artists": [
         {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 143671,
-      "name": "GUIDE MY HEART",
-      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+      "duration_ms": 158000,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "No One's Gonna Save Me",
         "url": "https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "It's Giving",
-        "url": "https://open.spotify.com/album/3whj47mfFAS2jRc7pm0Bb8"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
       "artists": [
         {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 155898,
-      "name": "It's Giving",
-      "url": "https://open.spotify.com/track/2cOqrRTZKyhhPJgPeg3edl"
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2022-07-17 05:38:31",

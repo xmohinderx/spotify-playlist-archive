@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 
 > The artist's latest and greatest hits\. Lo nuevo y lo esencial de Jose\. ¡Leggo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,446 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,480 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HGyCQ2dcNx.md) - [plain]
 | 104 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1rYC34UUszS0QzzECNRhYb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/album/67LA6sxeFjVaL1Vex4CSgr) | 2:40 |
 | 105 | [Siempre Papi Nunca Inpapi](https://open.spotify.com/track/2N8qVDq1MI0wKHngJMLlbZ) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Siempre Papi Nunca Inpapi](https://open.spotify.com/album/0uslLaLu4G196V20sr6QGU) | 3:25 |
 | 106 | [Ven y Hazlo Tú \(feat\. Arcángel\)](https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ven y Hazlo Tú \(feat\. Arcángel\)](https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99) | 4:22 |
-| 107 | [Bajo Cero](https://open.spotify.com/track/4mYG9quN0JnwiXzku5aqdI) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Bajo Cero](https://open.spotify.com/album/62HvdfrJyULSlryudl5iO6) | 4:47 |
+| 107 | [Bajo Cero](https://open.spotify.com/track/1sghPHx2AsbFUhlyQzkWHI) | [Sky](https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Bajo Cero](https://open.spotify.com/album/1vrGYhTYdFAtxbC5UeUDDb) | 4:47 |
 | 108 | [Caliente \(feat\. J Balvin\)](https://open.spotify.com/track/7zjxmI7AldHmhWfFozqv3t) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mi Movimiento](https://open.spotify.com/album/52E77HSrg85k7NrRkKTGT1) | 3:26 |
 
-Snapshot ID: `MTY3MDQ1NzUzOCwwMDAwMDAwMDM5MjBmMDcxMWE2NzhlNDk4NWZjZDMxYTE0NTNiYzc2`
+Snapshot ID: `MTY3MDQ1NzUzOCwwMDAwMDAwMDc4ZTA2MGEwMzVjZTdiOTE2NGE4MjQ0MDViOTgwZjc5`

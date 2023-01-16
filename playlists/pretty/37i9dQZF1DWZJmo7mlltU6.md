@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Benny Sings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,586 likes - 104 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,656 likes - 104 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 76 | [Daydreaming](https://open.spotify.com/track/4xYO8xc0uFW7llfl8eVUsa) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Daydreaming](https://open.spotify.com/album/3anhcoDOhGxzV63Y65S4Bf) | 4:03 |
 | 77 | [you make me miserable](https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [you make me miserable](https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY) | 2:43 |
 | 78 | [Love Is More](https://open.spotify.com/track/2a0SCFj0jawy90EKzYpuYX) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 4:22 |
-| 79 | [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 |
+| 79 | [Joe](https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:07 |
 | 80 | [Sunset on the Sea](https://open.spotify.com/track/2FsIGULAZW8CyXy8uYAHVZ) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [Sunset on the Sea](https://open.spotify.com/album/6l5gV8fLPmyMkS2qnVtMwf) | 4:54 |
 | 81 | [Take It Slow](https://open.spotify.com/track/0THqLeWUw42CnoFTn2MHkg) | [CHALUN](https://open.spotify.com/artist/3R3z4GdVkA1pGRoTAlLZGv), [Summer Will End](https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY) | [Take It Slow](https://open.spotify.com/album/5wKgMc3RXVAMtgxrRz61sP) | 3:17 |
 | 82 | [Take My Hug](https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Take My Hug](https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ) | 4:01 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 103 | [Moka](https://open.spotify.com/track/29wABTlHrUEAMfBprQnOrc) | [elito](https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR) | [Moka](https://open.spotify.com/album/2eOEkG7khZpeipSQzlreCt) | 3:16 |
 | 104 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDIzOGY1ZThhYzhkMTVjZDhkN2M2NjQ4MzA5ZTZiMTk3`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDc0YmNmNTlkYWU0NzE2NzNlMjUwMTQ2Y2M3ZjM3OTdj`

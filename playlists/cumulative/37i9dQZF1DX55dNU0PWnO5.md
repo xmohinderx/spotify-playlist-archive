@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-287 songs - 17 hr 38 min
+288 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aesthetics](https://open.spotify.com/track/6NFK9JpsD1M2YauNoEIdFG) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:39 | 2022-12-09 |  |
 | [Afro Blue](https://open.spotify.com/track/0if7xE45Jdg7QiJcXqMA12) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Satin Doll](https://open.spotify.com/album/3U2s9YywNQ7kA5TNgEFHyM) | 3:15 | 2021-01-29 | 2022-01-13 |
 | [Afro Blue](https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Afro Blue](https://open.spotify.com/album/6Pxk9yPJlLqh8vTYg68YTu) | 3:15 | 2021-01-29 | 2022-03-15 |
-| [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 | 2021-04-09 |  |
+| [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 | 2021-04-09 | 2023-01-16 |
 | [Agua de Jamaica](https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS) | 6:17 | 2022-03-25 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs) | [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL), [Bruce Kirkwood](https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg) | [Alive](https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL) | 3:13 | 2022-04-29 |  |
 | [All Around \- Renegades Of Jazz Remix](https://open.spotify.com/track/0oHGooJ4QhVPM5WgW4cfJA) | [sUb\_modU](https://open.spotify.com/artist/3MOhyXjeW761VKMXRqmqH9), [Renegades Of Jazz](https://open.spotify.com/artist/4l0ICV3hSM0CArAK2aN5Ls) | [Gravity \(Renegades Of Jazz & V.B\. Kühl Remixes\)](https://open.spotify.com/album/6FS3N2KVn3LQvMrHGM39kw) | 5:12 | 2022-04-01 | 2022-07-29 |
@@ -188,6 +188,7 @@
 | [Overflow](https://open.spotify.com/track/0ZguEgsT8UkEPTj5AlF2Tu) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M) | [Overflow](https://open.spotify.com/album/3otqlVjwUCJ2S7xJnwbjQN) | 3:32 | 2021-10-08 | 2022-07-29 |
 | [Pace \- Moses Boyd Remix](https://open.spotify.com/track/4AscXCE8UnyE13Q5ZyqPb9) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Pace \(Moses Boyd Remix\)](https://open.spotify.com/album/0QAyWwWqPWrhObhsrjVFGE) | 5:12 | 2021-09-03 | 2022-07-28 |
 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 | 2021-02-26 |  |
+| [Pathways](https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Howard B Thy Name 7](https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Pathways](https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4) | 3:29 | 2022-08-12 |  |
 | [Photographs](https://open.spotify.com/track/12oArgqvzZ2la4EzrhyooN) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Photographs](https://open.spotify.com/album/69YJTAqZvYkGlhkAvsisJM) | 2:29 | 2023-01-06 |  |
 | [Pineapple](https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:16 | 2021-01-29 | 2022-03-17 |
 | [Pinwheel](https://open.spotify.com/track/36ZQaiSc52GUIbw5YbFUHU) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [THREESIXTY](https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5) | [Pinwheel](https://open.spotify.com/album/1pJM4OcGvYHxAuzEm5Akmv) | 4:06 | 2022-02-18 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ❤️‍🩹 in cover: ANSIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,818 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,827 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 39 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 |
 | 40 | [Un Bacio](https://open.spotify.com/track/0aKVAk3tDuvtENyQJJTIcm) | [Nayv](https://open.spotify.com/artist/25alJcXxllT6w5Zu8rjWNK) | [Un Bacio](https://open.spotify.com/album/6HePoa5devScemotcjLRLA) | 2:27 |
 | 41 | [AMAREGGIANTE](https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [AMAREGGIANTE](https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s) | 2:10 |
-| 42 | [La città che odi](https://open.spotify.com/track/7D0sjlRoNiruzLMOSjwbWz) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [La città che odi](https://open.spotify.com/album/6nn80cWrKmyThtnV8YvzoU) | 2:47 |
+| 42 | [LA CITTA' CHE ODI](https://open.spotify.com/track/7D0sjlRoNiruzLMOSjwbWz) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [LA CITTA' CHE ODI](https://open.spotify.com/album/6nn80cWrKmyThtnV8YvzoU) | 2:47 |
 | 43 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 |
 | 44 | [Solo come un cane](https://open.spotify.com/track/7uqxz5qUAtgugvxlpQ0EA2) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Solo come un cane](https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9) | 3:23 |
 | 45 | [Grandi](https://open.spotify.com/track/5bF188CDCytSLpTz0sCFNe) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI](https://open.spotify.com/album/73NIgIPuF8VnZk719sgVaF) | 2:58 |

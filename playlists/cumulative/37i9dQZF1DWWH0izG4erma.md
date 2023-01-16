@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: HARDY
 
-209 songs - 12 hr 11 min
+210 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 |  |
 | [Alive and Well](https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Alive and Well](https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF) | 3:18 | 2021-11-01 | 2022-07-28 |
 | [All I Can Think About Lately](https://open.spotify.com/track/5pkNN8QrCbPAvgh0QAfupx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [All I Can Think About Lately](https://open.spotify.com/album/3JrC0f2pdNHKs2Fx8xK0AW) | 3:46 | 2022-03-25 | 2022-07-09 |
+| [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 | 2023-01-13 |  |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-11-01 | 2023-01-07 |
 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 | 2021-11-01 |  |
 | [Amen](https://open.spotify.com/track/6jSebdcbIlp0GaBwpsYSRl) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Amen](https://open.spotify.com/album/7uWlZ5GhRBdSOzZuCrc37u) | 3:52 | 2021-11-01 | 2022-08-20 |
@@ -61,7 +62,7 @@
 | [Die Rockin](https://open.spotify.com/track/6TIBQ6xqAEbcTDcnXJqgVT) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Die Rockin](https://open.spotify.com/album/67oVAfnRY3Qw1B4285CAOR) | 3:24 | 2021-11-01 | 2022-04-29 |
 | [Die Too Young](https://open.spotify.com/track/2VhtuodYYG5YZCWRMKWk5o) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Die Too Young](https://open.spotify.com/album/6VmV8giZGESZ25E0mZrKFU) | 3:46 | 2022-06-03 | 2022-07-09 |
 | [DLTGYD](https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [DLTGYD](https://open.spotify.com/album/7FnG6OJfxnWf3YdYqt4jv9) | 4:30 | 2021-11-01 | 2022-01-29 |
-| [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 | 2022-07-08 |  |
+| [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 | 2022-07-08 | 2023-01-16 |
 | [Doghouse](https://open.spotify.com/track/2BqlDDr1IykiGe6JvlMCd5) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [Doghouse](https://open.spotify.com/album/5FsoKIJS8g2erLSvmRQrnb) | 3:15 | 2022-03-25 | 2022-07-10 |
 | [Doin' Fine](https://open.spotify.com/track/4N16l8wn8N29P8mbTwjix3) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Doin' Fine](https://open.spotify.com/album/1MZVeLNshWOFIuz8VLv7Vn) | 2:58 | 2021-11-01 | 2022-01-22 |
 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 | 2021-11-01 |  |

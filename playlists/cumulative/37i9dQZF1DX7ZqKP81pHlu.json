@@ -104,6 +104,28 @@
     {
       "album": {
         "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/3SdLDzpUj36FVAebMkJX0z"
+      },
+      "artists": [
+        {
+          "name": "Foufa Torino",
+          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+        },
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2dwIrKXerOuFVQyermZ5SO"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf"
       },
       "artists": [
@@ -118,7 +140,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 258782,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC"

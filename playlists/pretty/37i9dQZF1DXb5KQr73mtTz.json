@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 7981,
+  "num_followers": 8012,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQ2NiwwMDAwMDAwMGNhNmFiMmNlYTEzYjAyNDZkOWE2MWQ4Nzk4NTExMWYw",
+  "snapshot_id": "MTY3MzU4MjQ2NiwwMDAwMDAwMGRjNDk1OTQwM2Q0MDU3ZDRlMTExMjA5YWI4ODAyNGRk",
   "tracks": [
     {
       "added_at": "2023-01-10 08:41:27",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-01-10 08:41:27",
       "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2023-01-10 08:41:27",
+      "album": {
         "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
         "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2023-01-10 08:41:27",
-      "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2023-01-10 08:41:27",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-01-10 08:41:27",
       "album": {
-        "name": "STAR",
-        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 261850,
-      "name": "How about you",
-      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
-    },
-    {
-      "added_at": "2023-01-10 08:41:27",
-      "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2023-01-10 08:41:27",
-      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -747,6 +715,38 @@
     {
       "added_at": "2023-01-10 08:41:27",
       "album": {
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2023-01-10 08:41:27",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 261850,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G"
+    },
+    {
+      "added_at": "2023-01-10 08:41:27",
+      "album": {
         "name": "girl in red",
         "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
       },
@@ -761,10 +761,10 @@
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
     },
     {
-      "added_at": "2023-01-10 08:41:27",
+      "added_at": "2023-01-16 00:50:48",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+        "name": "The last stop of our pain",
+        "url": "https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC"
       },
       "artists": [
         {
@@ -772,12 +772,12 @@
           "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+      "duration_ms": 252000,
+      "name": "The last stop of our pain",
+      "url": "https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS"
     },
     {
-      "added_at": "2023-01-15 01:06:00",
+      "added_at": "2023-01-16 00:50:48",
       "album": {
         "name": "No movie series : A bar with emotions OST",
         "url": "https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J"

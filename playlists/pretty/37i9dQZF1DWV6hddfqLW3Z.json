@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 717816,
+  "num_followers": 718018,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDZjYWI0YmY5ZGVkMTY5NDU0MDMzNGVkZWFhYTAwOTg2",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGM3MDA1ZjU1MGIzODAxMmRjNmIzYzA5YTYwZGRlMGE0",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 189002,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
-      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -315,6 +295,42 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 189002,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
+      "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Ao Nordeste do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 217573,
       "name": "Flor da Pele",
       "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Palavras No Corpo",
-        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 242054,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "postcard from Rio",
         "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 166916,
       "name": "saudade",
       "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Palavras No Corpo",
+        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 242054,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
     },
     {
       "added_at": "2022-11-25 03:00:00",

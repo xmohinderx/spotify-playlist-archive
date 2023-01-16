@@ -4,7 +4,7 @@
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 10 min
+51 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Antes Me Gustabas](https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:25 | 2023-01-14 |  |
 | [Bajando en la Esquina](https://open.spotify.com/track/2TQxrmwp570FOy45G5Au53) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 2:42 | 2023-01-14 |  |
 | [Buscando Amor en la Calle](https://open.spotify.com/track/36qNWwZLVrAoKTlS1QDEel) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:31 | 2023-01-14 |  |
-| [Camino del Corazón \- En Vivo](https://open.spotify.com/track/1NfU4PeExNXqHh1vT2ytiT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:37 | 2023-01-14 |  |
+| [Camino del Corazón \- En Vivo](https://open.spotify.com/track/1NfU4PeExNXqHh1vT2ytiT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:37 | 2023-01-14 | 2023-01-16 |
 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 | 2023-01-14 |  |
 | [Como las Hojas](https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 4:05 | 2023-01-14 |  |
 | [Debe Haber un Lugar](https://open.spotify.com/track/5c0ZzLnCkk4Hqp3kXy8lYS) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 3:41 | 2023-01-14 |  |
@@ -56,6 +56,7 @@
 | [Tuve un Sueño](https://open.spotify.com/track/3ppByciySUKj5peYAhF9fu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 3:13 | 2023-01-14 |  |
 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 | 2023-01-14 |  |
 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 | 2023-01-14 |  |
+| [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 | 2023-01-15 |  |
 | [Y Es por Eso Que Me Voy](https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 4:24 | 2023-01-14 |  |
 | [Yayo](https://open.spotify.com/track/1SpQUbVwRRo4hbrgJxSKwI) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/2TSkUQe12aXNJakjM5HSNA) | 3:58 | 2023-01-14 |  |
 

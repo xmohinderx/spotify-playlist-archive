@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-466 songs - 1 day 5 hr 46 min
+467 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 | 2022-10-19 |
 | [Irony \- From CrosSing](https://open.spotify.com/track/61zeExliFdY7LIiAYAFKW7) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Irony \- From CrosSing](https://open.spotify.com/album/1RkwCpcgPJkwaXFIeGRxt4) | 4:19 | 2022-10-25 | 2022-11-23 |
 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 | 2022-10-25 | 2022-10-27 |
+| [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-15 |  |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 | 2022-08-24 |
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 | 2022-10-28 |
@@ -292,7 +293,7 @@
 | [なんだなんなんだ!](https://open.spotify.com/track/4vjKgV2rjD38Xs0L2RSDaU) | [Mikako Komatsu](https://open.spotify.com/artist/4gzfRfkcrQ3Lle7ONpYZJO) | [なんだなんなんだ!](https://open.spotify.com/album/7eMqKpD3zmKrWaII7GMSVr) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [はじまりのサイン](https://open.spotify.com/track/0gDwPtNkiPPMvnfPddX9AG) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [はじまりのサイン](https://open.spotify.com/album/4ARKEbQec1IrJdYfzUHp7V) | 4:35 | 2022-05-28 | 2022-07-06 |
 | [はじまるウェルカム](https://open.spotify.com/track/3BYyDFrS4xqUan6Nj8RibC) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [はじまるウェルカム](https://open.spotify.com/album/4e9uuyu1Gpz8X098DMZU9j) | 3:46 | 2022-10-04 | 2022-11-09 |
-| [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2022-10-01 |  |
+| [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2022-10-01 | 2023-01-16 |
 | [ひとりごつ](https://open.spotify.com/track/0lEH5AatlbJJlELJglP0kP) | [ハチワレ\(CV:田中 誠人\)](https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe) | [ひとりごつ](https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA) | 1:30 | 2022-06-23 | 2022-07-27 |
 | [ひとりごつ \- バンドVer.](https://open.spotify.com/track/1lJxVW33lV1KDEN8sH9PSf) | [ハチワレ\(CV:田中 誠人\)](https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe) | [ひとりごつ](https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA) | 1:20 | 2022-06-13 | 2022-06-24 |
 | [ふたりピノキオ](https://open.spotify.com/track/0dJxpvpyvzKFhCJQTBFPXl) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふたりピノキオ](https://open.spotify.com/album/1Dcj7qqMLo1xYPYLpHVqbI) | 3:42 | 2022-07-14 | 2022-07-29 |

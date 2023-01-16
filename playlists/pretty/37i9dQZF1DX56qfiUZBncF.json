@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 374941,
+  "num_followers": 374959,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDg4NjI3Y2Y5MmM3ZDVmYWM3YWZkMzA2ZWQ5NDhlNzNm",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDA3ZThhZDk2MTM5NjA4Yjc4MTU5YmVmZjI5NzkwYTVk",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -447,22 +431,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Why Do We Shake In The Cold?",
-        "url": "https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Back To My Bed",
-      "url": "https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -479,6 +447,38 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Why Do We Shake In The Cold?",
+        "url": "https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Back To My Bed",
+      "url": "https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "something more",
+        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "something more",
+      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -599,22 +615,6 @@
       "duration_ms": 184795,
       "name": "No Ordinary",
       "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "something more",
-        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "something more",
-      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -707,18 +723,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+        "name": "Awaken (Feel Alive)",
+        "url": "https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+      "duration_ms": 180204,
+      "name": "Awaken (Feel Alive)",
+      "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -751,26 +771,6 @@
       "duration_ms": 260866,
       "name": "Surprise Yourself",
       "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Awaken (Feel Alive)",
-        "url": "https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180204,
-      "name": "Awaken (Feel Alive)",
-      "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Boy in Jeans",
         "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 212866,
       "name": "Corners Of My Mind",
       "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        },
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
-        }
-      ],
-      "duration_ms": 247934,
-      "name": "Emotion feat. Wild Nothing",
-      "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
@@ -1127,34 +1107,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
+        "name": "Romantic Images",
+        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
       "artists": [
         {
-          "name": "Sam Sure",
-          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
-      },
-      "artists": [
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        },
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 268000,
-      "name": "I Can't Believe I Had You",
-      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
+      "duration_ms": 247934,
+      "name": "Emotion feat. Wild Nothing",
+      "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1175,6 +1143,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "I Can't Believe I Had You",
+      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
+      },
+      "artists": [
+        {
+          "name": "Sam Sure",
+          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
+        }
+      ],
+      "duration_ms": 192792,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "6 Letters",
+        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "6 Letters",
+      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Frail State Of Mind",
         "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 219483,
       "name": "Old T-Shirt (feat. koby)",
       "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "6 Letters",
-        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
-      },
-      "artists": [
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 166469,
-      "name": "6 Letters",
-      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 235464,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 175862,
       "name": "Heart - Alternative Version",
       "url": "https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 183988,
       "name": "Sweet Summer Sweat",
       "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+        "name": "River's Song",
+        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
       },
       "artists": [
         {
-          "name": "Oceanic",
-          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
+      "duration_ms": 248946,
+      "name": "River's Song",
+      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
     }
   ],
   "unique_name": "Creativity Boost",

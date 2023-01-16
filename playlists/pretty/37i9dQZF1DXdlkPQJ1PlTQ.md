@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 
 > 2022's must hear episodes, hand\-picked by Spotify Podcast Editorial
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,361 likes - 12 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,359 likes - 12 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

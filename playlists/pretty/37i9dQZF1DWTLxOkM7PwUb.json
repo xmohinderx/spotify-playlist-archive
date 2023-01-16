@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 3984,
+  "num_followers": 4072,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDgwNzZmMzNjNTk3NTgzZWQ3YjU3N2M4NTBmMTBlMzYy",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGQ0OGQxYWEwMWE4NjBlZGZlMjBmMGExMzk3OGI3ZjRj",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 181554,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 181554,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -911,30 +911,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 268794,
-      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
-      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 270973,
       "name": "Sigues Preguntando - Remix",
       "url": "https://open.spotify.com/track/6MYyeb4z85EVKDOyY6Od5X"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+        "url": "https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 268794,
+      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+      "url": "https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Depues De Las 3",
-        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Depues De Las 3",
-      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 200000,
       "name": "C\u00f3mo D\u00edmelo",
       "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Depues De Las 3",
+        "url": "https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Depues De Las 3",
+      "url": "https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 185196,
       "name": "Si No Fue Asi",
       "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 235720,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "CARAMELOS",
         "url": "https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2022-12-09 03:00:00",

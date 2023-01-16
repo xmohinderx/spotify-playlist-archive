@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 28286,
+  "num_followers": 28374,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDYxYzI1NGZiYjU0YjBiNjc1Y2FmMmRmN2ZmM2U3ZjBk",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDc4N2Y4OGM1M2RhMTM3NWI3NjQyMjM2YTFiMjZmYTcy",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -579,38 +579,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "There's an Overflow",
-        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "There's an Overflow",
-      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Olorun Agbaye - You Are Mighty",
         "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 438744,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
-    },
-    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Winning",
@@ -771,6 +755,22 @@
       "duration_ms": 360486,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "Always Win (Solo Version)",
+        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 300562,
+      "name": "Always Win (Solo Version)",
+      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Always Win (Solo Version)",
-        "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 300562,
-      "name": "Always Win (Solo Version)",
-      "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
     },
     {
       "added_at": "2022-09-09 09:05:38",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "Greatest Lord",
+        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 208466,
       "name": "Who Else (Single Mix)",
       "url": "https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Greatest Lord",
-        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "King of Glory",
-      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1255,6 +1255,38 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 454040,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Billion Words",
         "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
       },
@@ -1289,54 +1321,6 @@
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
     },
     {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 454040,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Declaring His Power (Live)",
-        "url": "https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw"
-      },
-      "artists": [
-        {
-          "name": "Muyiwa & Riversongz",
-          "url": "https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb"
-        }
-      ],
-      "duration_ms": 317840,
-      "name": "Your Majesty - Live",
-      "url": "https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Great is Your Faithfulness",
@@ -1359,6 +1343,22 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Declaring His Power (Live)",
+        "url": "https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw"
+      },
+      "artists": [
+        {
+          "name": "Muyiwa & Riversongz",
+          "url": "https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb"
+        }
+      ],
+      "duration_ms": 317840,
+      "name": "Your Majesty - Live",
+      "url": "https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ"
     },
     {
       "added_at": "2022-06-09 11:11:30",

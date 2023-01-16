@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lily Goodman & DOE",
-  "num_followers": 115300,
+  "num_followers": 115361,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMDU0MmFmNDRhZTA2YWE3NDc2NzBiNmJkN2U2MzI2MjMw",
+  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMDIwNTYzODE5MTMyOTNjMGQ2MDYxMTA3NDFmMTg0ZWQ5",
   "tracks": [
     {
       "added_at": "2023-01-13 07:19:44",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "No Es Raro (Remix)",
         "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 315276,
       "name": "No Es Raro - Remix",
       "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Poderoso",
-      "url": "https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Te seguir\u00e9",
+        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 302149,
+      "name": "Te seguir\u00e9",
+      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Todo Es Posible",
         "url": "https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Te seguir\u00e9",
-        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+        "name": "Cantamos Aleluya",
+        "url": "https://open.spotify.com/album/55QVEwg1mR9RlVruia1OdW"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "Gerson Jonatan",
+          "url": "https://open.spotify.com/artist/1RisNAkda3zmR5N98baXzn"
         }
       ],
-      "duration_ms": 302149,
-      "name": "Te seguir\u00e9",
-      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+      "duration_ms": 211343,
+      "name": "Cantamos Aleluya",
+      "url": "https://open.spotify.com/track/695DcQ2eOukDMeu2rorNEa"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Cantamos Aleluya",
-        "url": "https://open.spotify.com/album/55QVEwg1mR9RlVruia1OdW"
+        "name": "ETERNOS",
+        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
       },
       "artists": [
         {
-          "name": "Gerson Jonatan",
-          "url": "https://open.spotify.com/artist/1RisNAkda3zmR5N98baXzn"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 211343,
-      "name": "Cantamos Aleluya",
-      "url": "https://open.spotify.com/track/695DcQ2eOukDMeu2rorNEa"
+      "duration_ms": 159508,
+      "name": "ETERNOS",
+      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -755,22 +771,6 @@
       "duration_ms": 165000,
       "name": "Amor, Amor, Amor - En vivo",
       "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "ETERNOS",
-        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 159508,
-      "name": "ETERNOS",
-      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "En el estudio con Manny Montes Vol. 4",
-        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
+        "name": "Yahweh Se Manifestar\u00e1",
+        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
       },
       "artists": [
         {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
         }
       ],
-      "duration_ms": 193333,
-      "name": "En el estudio con Manny Montes Vol. 4",
-      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
+      "duration_ms": 227330,
+      "name": "Yahweh Se Manifestar\u00e1",
+      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Yahweh Se Manifestar\u00e1",
-        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
+        "name": "En el estudio con Manny Montes Vol. 4",
+        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
       },
       "artists": [
         {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         }
       ],
-      "duration_ms": 227330,
-      "name": "Yahweh Se Manifestar\u00e1",
-      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
+      "duration_ms": 193333,
+      "name": "En el estudio con Manny Montes Vol. 4",
+      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Yo Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 197498,
-      "name": "Yo estuve ah\u00ed",
-      "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Prendio",
         "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "1996 (En Vivo)",
-        "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
+        "name": "Yo Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
       },
       "artists": [
         {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 358665,
-      "name": "Hay una Esperanza - En Vivo",
-      "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"
+      "duration_ms": 197498,
+      "name": "Yo estuve ah\u00ed",
+      "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -995,6 +979,38 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Bendecio",
+        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Bendecio",
+      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "1996 (En Vivo)",
+        "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "duration_ms": 358665,
+      "name": "Hay una Esperanza - En Vivo",
+      "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Hola Jes\u00fas",
         "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 198750,
       "name": "Hola Jes\u00fas",
       "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "Bendecio",
-        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Bendecio",
-      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Disfruta La Vida",
-        "url": "https://open.spotify.com/album/3ghiRPzWjaVBsRL2xgEluS"
-      },
-      "artists": [
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Disfruta La Vida",
-      "url": "https://open.spotify.com/track/4xwvgKoDNkhXhmKpPJWru0"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Como fuego",
         "url": "https://open.spotify.com/album/4FGTqRDztDeVermnA0nDod"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 216255,
       "name": "Como fuego",
       "url": "https://open.spotify.com/track/7vqQ82TNU2xrvF8kJatgX2"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "Disfruta La Vida",
+        "url": "https://open.spotify.com/album/3ghiRPzWjaVBsRL2xgEluS"
+      },
+      "artists": [
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Disfruta La Vida",
+      "url": "https://open.spotify.com/track/4xwvgKoDNkhXhmKpPJWru0"
     },
     {
       "added_at": "2023-01-13 07:19:44",

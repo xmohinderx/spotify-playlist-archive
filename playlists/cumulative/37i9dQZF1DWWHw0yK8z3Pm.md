@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Zach Bryan
 
-218 songs - 13 hr 31 min
+219 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [I'm Not Alone](https://open.spotify.com/track/0DQ9q4oTx0W01x0Nqd8f9I) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0) | 5:07 | 2022-05-13 | 2022-07-20 |
 | [If I Break](https://open.spotify.com/track/3Qya3SWiOk2Xg50uTz7pBS) | [B.Knox](https://open.spotify.com/artist/2EzhJiy4cDc3bZW5GSQ5X1) | [If I Break](https://open.spotify.com/album/23yHTTnSHZA1ZV5xQmIU4C) | 3:34 | 2022-05-13 | 2022-06-25 |
 | [If It Comes in the Morning](https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [If It Comes in the Morning](https://open.spotify.com/album/6yBuW4QLmb2rigEMoC1A60) | 4:05 | 2022-05-13 | 2022-06-18 |
-| [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 |  |
+| [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 | 2023-01-16 |
+| [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 | 2022-12-16 |  |
 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 | 2022-07-22 |  |
 | [Ink & the Ash](https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR) | [JJ and The Pillars](https://open.spotify.com/artist/79g9vsMMooAco9g2SGq4ja) | [Ink & the Ash](https://open.spotify.com/album/61FTErQNMScnIupkWWDwo7) | 3:38 | 2022-05-13 |  |
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 |  |

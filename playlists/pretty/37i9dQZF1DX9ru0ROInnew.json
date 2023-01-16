@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 77903,
+  "num_followers": 77989,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDIwOGU4YzRmMTQ0ZTVjZTg5Mzk5YmIwZTZjZGY0N2M5",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGQ1MDM3N2ExMTVlN2IwNzhlODU4NTY0YmI4ZjcwNTQ1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Toda Remix",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 367680,
       "name": "Toda Remix - Remix",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Subimos de Rango",
         "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 266091,
       "name": "Subimos de Rango",
       "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1339,6 +1339,26 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1443,26 +1463,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Sauce Boy Freestyle II",
-        "url": "https://open.spotify.com/album/2pcCqi8WObUR9hm6M60DuZ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Sauce Boy Freestyle II",
-      "url": "https://open.spotify.com/track/10PPCNpNG7JwZwtBMg0r6E"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "LowKey",
         "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 193027,
       "name": "LowKey",
       "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Sauce Boy Freestyle II",
+        "url": "https://open.spotify.com/album/2pcCqi8WObUR9hm6M60DuZ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Sauce Boy Freestyle II",
+      "url": "https://open.spotify.com/track/10PPCNpNG7JwZwtBMg0r6E"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1659,34 +1659,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "La Verdadera Vuelta",
         "url": "https://open.spotify.com/album/1N9uoPv76ac3oi8XXqJPop"
       },
@@ -1723,6 +1695,26 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Oscuridad (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
         "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
       },
@@ -1743,22 +1735,30 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Oscuridad (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "\u00bfQuien Tu Eres?",
+      "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -2451,22 +2467,6 @@
       "duration_ms": 190207,
       "name": "Puesto Pa' Guerrial",
       "url": "https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "\u00bfQuien Tu Eres?",
-      "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
     },
     {
       "added_at": "2023-01-09 06:14:13",

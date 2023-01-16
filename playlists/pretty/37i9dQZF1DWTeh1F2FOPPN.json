@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 15486,
+  "num_followers": 15645,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDQ5MWEwNGM1MWE2Y2RmNDg4YzM1NWM0OTNjMDQyZjZh",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDNjNzA1NTViNmEwNmQwZTE4NTA0NDU2YTEwODM0NTBj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "If",
-      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
     },
     {
       "added_at": "2022-10-01 16:54:27",

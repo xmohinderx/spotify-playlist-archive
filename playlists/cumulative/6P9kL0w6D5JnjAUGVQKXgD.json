@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2020-06-08",
+      "date_removed": null,
       "duration_ms": 146601,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg"
@@ -7744,7 +7744,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 149523,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2uhAFOeTwJpRMEKMlqId5L"
@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-28",
+      "date_removed": null,
       "duration_ms": 325714,
       "name": "Faith (feat. Marlena Shaw)",
       "url": "https://open.spotify.com/track/6TLUvU36Phy9kt6NxAWQuw"
@@ -16686,7 +16686,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 175238,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/3s2eG9xSDGyd705tT0hD43"
@@ -20566,7 +20566,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
@@ -22142,7 +22142,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 185046,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh"
@@ -25182,10 +25182,36 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 160008,
       "name": "Summer on You",
       "url": "https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn"
+    },
+    {
+      "album": {
+        "name": "Summertime Sadness",
+        "url": "https://open.spotify.com/album/3XT84kjfKzFuCMKAqRZdRN"
+      },
+      "artists": [
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "LIINII",
+          "url": "https://open.spotify.com/artist/3NQqBSVanWYYIa7Y7deMgA"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161406,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/5BEkEUIQfXc7VTKQ3Y0yKM"
     },
     {
       "album": {
@@ -26070,7 +26096,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -28738,7 +28764,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 161010,
       "name": "West LA",
       "url": "https://open.spotify.com/track/7rYFnWDmZgvPD3k2yxriBE"

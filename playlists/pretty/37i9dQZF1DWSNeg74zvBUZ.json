@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18378,
+  "num_followers": 18377,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMGJlYjJlMWEzODhhZDYzOTdmMDdhZTc0YmUzZTMzOGE0",
+  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDdhZTMwZjhjYzY5MzhiZjE2OTY4NzkyNzgwM2VkYTgy",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -311,18 +311,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 236040,
-      "name": "Nami",
-      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+      "duration_ms": 251066,
+      "name": "Poa Alpina",
+      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -343,18 +343,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 251066,
-      "name": "Poa Alpina",
-      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+      "duration_ms": 236040,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
-      "added_at": "2022-02-18 05:44:17",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Who Are You",
@@ -439,6 +423,22 @@
       "duration_ms": 124265,
       "name": "The Hostess",
       "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
+    },
+    {
+      "added_at": "2022-02-18 05:44:17",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2021-09-10 04:35:25",

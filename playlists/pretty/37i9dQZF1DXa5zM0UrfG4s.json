@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 92435,
+  "num_followers": 92481,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGFhMGQ4NTJmM2ZhMGRkN2Y5ZDcyOTJjYTc0ZTdhZDA4",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDU4NDc4ZjMyMDE5NmVkMGJhMWI5MmYxYTE2NDdlOWFi",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Ungkar med dobbelseng",
         "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
@@ -691,38 +711,6 @@
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "S\u00e6la P\u00e5",
-        "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Morten Ramm",
-          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
-        },
-        {
-          "name": "Mr. Pimp-Lotion",
-          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
-        },
-        {
-          "name": "Roy Harrytassen",
-          "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
-        },
-        {
-          "name": "DJ Dan",
-          "url": "https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "S\u00e6la P\u00e5",
-      "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -763,22 +751,34 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+        "name": "S\u00e6la P\u00e5",
+        "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Morten Ramm",
+          "url": "https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud"
+        },
+        {
+          "name": "Mr. Pimp-Lotion",
+          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
+        },
+        {
+          "name": "Roy Harrytassen",
+          "url": "https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz"
+        },
+        {
+          "name": "DJ Dan",
+          "url": "https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+      "duration_ms": 179016,
+      "name": "S\u00e6la P\u00e5",
+      "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "N\u00e5 Koser Vi Oss",
-        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "N\u00e5 Koser Vi Oss",
-      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1083,26 +1083,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Helt Sykt VOL2",
-        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+        "name": "Denne Sommer\u00b4n",
+        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
       },
       "artists": [
         {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
         }
       ],
-      "duration_ms": 185884,
-      "name": "En Siste Gang",
-      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
+      "duration_ms": 160720,
+      "name": "Denne Sommer\u00b4n",
+      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1127,18 +1119,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Denne Sommer\u00b4n",
-        "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
       "artists": [
         {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Denne Sommer\u00b4n",
-      "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "H\u00d6RRU BARTENDER",
+        "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "duration_ms": 145925,
+      "name": "H\u00d6RRU BARTENDER",
+      "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "En f\u00e5r v\u00e6re som en er",
         "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
       },
@@ -1299,22 +1319,6 @@
       "duration_ms": 148173,
       "name": "RUN IT BACK",
       "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Kentucky",
-        "url": "https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7"
-      },
-      "artists": [
-        {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
-        }
-      ],
-      "duration_ms": 163140,
-      "name": "Kentucky",
-      "url": "https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

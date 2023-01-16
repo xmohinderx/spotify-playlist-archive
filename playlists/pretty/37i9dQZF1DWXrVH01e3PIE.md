@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Arse & Midel en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,442 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,597 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VUO \(OvO\)](https://open.spotify.com/track/4o91jzdQwj2hQOsYeMuk6M) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p) | [VUO \(OvO\)](https://open.spotify.com/album/5iUfeuEOSHZJanLJmWq0nd) | 3:12 |
+| 1 | [VUO \(OvO\)](https://open.spotify.com/track/4o91jzdQwj2hQOsYeMuk6M) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [NoPhotoPlease](https://open.spotify.com/artist/609sHPsDjyCtCIwrdzdfB4) | [VUO \(OvO\)](https://open.spotify.com/album/5iUfeuEOSHZJanLJmWq0nd) | 3:12 |
 | 2 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 |
 | 3 | [Mi Culpa](https://open.spotify.com/track/42SE13NYBeYw9r10PUwz7U) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Culpa](https://open.spotify.com/album/6Njm2qMYJeUNt6AXfMCTkR) | 3:30 |
 | 4 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 |

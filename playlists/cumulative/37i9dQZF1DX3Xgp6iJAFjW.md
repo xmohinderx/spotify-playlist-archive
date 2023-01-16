@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-134 songs - 9 hr 6 min
+135 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [El Rondon](https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:34 | 2022-11-25 |  |
 | [El Santo Nombre de Jesus](https://open.spotify.com/track/5R3ZA98XR11HeuZFDLR59S) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Navidad](https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp) | 2:18 | 2022-12-18 | 2023-01-10 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 | 2022-11-25 |  |
+| [Eso Es Navidad \- Aguinaldo Cayeyano](https://open.spotify.com/track/24jcp1EzuQG2esEJxBnrc3) | [Luis Miranda](https://open.spotify.com/artist/197zNqqJ78Awm1Y45O4zkv) | [De Parranda con Don Luis](https://open.spotify.com/album/6Wd576TdlOYVGVVOpEszgp) | 3:28 | 2022-12-18 |  |
 | [Esta Navidad](https://open.spotify.com/track/3QpjPW3xd80XDkCk9ktQWd) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:38 | 2022-12-18 |  |
 | [Esta Navidad](https://open.spotify.com/track/101Q3ixoTRBwkQqxISFzr8) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:17 | 2022-11-25 |  |
 | [Esta Navidad](https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 4:13 | 2022-11-25 |  |
@@ -104,7 +105,7 @@
 | [Mi Burrito Sabanero](https://open.spotify.com/track/28CjlMRoxzAfOZn4xLtPFE) | [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR), [Freddy Bailon](https://open.spotify.com/artist/0ESKplh2Ij1mnqLPBEVFEg), [Claudette Bailon](https://open.spotify.com/artist/2vY0NRoqIMLAONc7BDA6m7), [Beau Harper](https://open.spotify.com/artist/6ZPbnYYAIkLm4yWlOYfAV8), [Jet Marie](https://open.spotify.com/artist/2rjwCF0hFlm3cWhWOERBCI) | [New Tradiciones](https://open.spotify.com/album/5v1TBoDdIpAYApHIESFKVl) | 4:32 | 2022-11-25 |  |
 | [Mi Navidad No Se Apaga](https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Mi Navidad No Se Apaga](https://open.spotify.com/album/29vshU5rVpWYdzJvim2952) | 3:09 | 2022-11-25 |  |
 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 | 2022-11-25 |  |
-| [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 | 2022-11-25 |  |
+| [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 | 2022-11-25 | 2023-01-16 |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-11-25 |  |
 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 |  |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 73889,
+  "num_followers": 73947,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDEyYjM1YWYyNzYzY2QyMTU4YzAxNTViYjY4YmY5ZDFl",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDk5NThmMzUzMWE3Y2ZjZTc0OGY4NDc2OWVlZDMyYzMy",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -363,22 +363,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
       "artists": [
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
         }
       ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+      "duration_ms": 341106,
+      "name": "Tedra",
+      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -399,18 +395,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
       "artists": [
         {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
         }
       ],
-      "duration_ms": 341106,
-      "name": "Tedra",
-      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -483,34 +483,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        },
-        {
-          "name": "Justin Cholewski",
-          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "No Ufo's (Original Version)",
         "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
       },
@@ -543,6 +515,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 432586,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -563,22 +551,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 334959,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        },
+        {
+          "name": "Justin Cholewski",
+          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
@@ -695,6 +675,22 @@
       "duration_ms": 400579,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Best of Techno (Compilation Tracks)",
+        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -719,18 +715,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Best of Techno (Compilation Tracks)",
-        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
       "artists": [
         {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Throw",
-      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -807,42 +807,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Detroit Love Vol. 2 (DJ Mix)",
         "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
       },
@@ -863,6 +827,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
         "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 411999,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     }
   ],
   "unique_name": "Detroit Techno",

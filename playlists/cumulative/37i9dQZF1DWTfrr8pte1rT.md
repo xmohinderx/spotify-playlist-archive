@@ -4,7 +4,7 @@
 
 > 
 
-263 songs - 15 hr 9 min
+264 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:28 | 2022-06-24 |  |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-05-13 |  |
 | [LOVE ME](https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ) | 3:24 | 2021-12-10 |  |
+| [LOVE ME HATE ME \- VIP](https://open.spotify.com/track/3vM9GmGlJxPnFTPuBffPOD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [NEW BREED \(DELUXE VIP\)](https://open.spotify.com/album/0RTU6XjmR2EBcY8rJwUgs9) | 3:18 | 2023-01-13 |  |
 | [Love You For All Time](https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Love You For All Time](https://open.spotify.com/album/0nQSAZ1UORnjj5L3SVkCkm) | 2:37 | 2022-04-01 | 2022-11-12 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-10 |  |
 | [Mad Love](https://open.spotify.com/track/0J2EcQZQUsmUzO5YFXz7PS) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/0JP9RVQrQJ4Da54nfOJWJs) | 2:28 | 2022-06-24 | 2022-12-30 |
@@ -155,7 +156,7 @@
 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Medulla \- Barren Gates Remix](https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt), [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Medulla \(Barren Gates Remix\)](https://open.spotify.com/album/0XF4M7GOmdrOouV87cKcLd) | 4:08 | 2021-12-10 | 2022-07-29 |
 | [Modern Guy \- grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Modern Guy \(grandson remix\)](https://open.spotify.com/album/2jSPvTo1wN8DKMIKZS6fzT) | 2:18 | 2021-12-10 | 2022-06-25 |
-| [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 |  |
+| [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2023-01-16 |
 | [My Head](https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC), [Listing](https://open.spotify.com/artist/2KFVbDcO6wEgFaecVXDMhw) | [Bloom](https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV) | 4:30 | 2021-12-10 | 2022-01-27 |
 | [My Name Is Thunder](https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [The Great Electronic Swindle](https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi) | 2:47 | 2021-12-10 |  |
 | [Never Change \- Sullivan King Remix](https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Never Change \(Sullivan King Remix\)](https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K) | 4:28 | 2022-07-08 |  |

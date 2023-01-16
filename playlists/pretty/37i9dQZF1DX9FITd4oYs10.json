@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14896,
+  "num_followers": 14906,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMDE1ZjBkZTdmZjU0ZmU5MzJjZmUwMjMxY2JmOGYzNzhi",
+  "snapshot_id": "MTY3MTU3MDg3MCwwMDAwMDAwMDBiNmJhNzk3OWEzYzhiN2E2YmIzNDJmNGFjMzEyMTUw",
   "tracks": [
     {
       "added_at": "2022-12-20 21:14:29",
@@ -1179,34 +1179,6 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "The Cypher Deffect 2",
-        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        },
-        {
-          "name": "Spinardi",
-          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
-        },
-        {
-          "name": "Chayco",
-          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
-        }
-      ],
-      "duration_ms": 335907,
-      "name": "The Cypher Deffect 2",
-      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
-    },
-    {
-      "added_at": "2022-12-20 21:14:29",
-      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -1235,6 +1207,34 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
+    },
+    {
+      "added_at": "2022-12-20 21:14:29",
+      "album": {
+        "name": "The Cypher Deffect 2",
+        "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "Chayco",
+          "url": "https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk"
+        }
+      ],
+      "duration_ms": 335907,
+      "name": "The Cypher Deffect 2",
+      "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
     },
     {
       "added_at": "2022-12-20 21:14:29",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+        "name": "Estilo Vagabundo",
+        "url": "https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+      "duration_ms": 300042,
+      "name": "Estilo Vagabundo 1",
+      "url": "https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa"
     },
     {
       "added_at": "2022-12-20 21:14:29",
@@ -1355,22 +1359,18 @@
     {
       "added_at": "2022-12-20 21:14:29",
       "album": {
-        "name": "Estilo Vagabundo",
-        "url": "https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ"
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
       },
       "artists": [
         {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 300042,
-      "name": "Estilo Vagabundo 1",
-      "url": "https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa"
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

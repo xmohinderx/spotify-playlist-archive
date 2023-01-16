@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "51 Lex Presents: Olu Ebube",
+        "url": "https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478786,
+      "name": "Olu Ebube (Ibo Language)",
+      "url": "https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6"
+    },
+    {
+      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },

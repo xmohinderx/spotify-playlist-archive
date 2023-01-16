@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 452876,
+  "num_followers": 453875,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIxNjQyNCwwMDAwMDAwMDc4MzU0N2Q3Mjg4OTg2Y2E4MTMxZGRkYTI2MjZjZmI3",
+  "snapshot_id": "MTY3MjIxNjQyNCwwMDAwMDAwMGRhZTZiNzNlM2I2NDg1YjI1NmI4ZDg1OWUyODNmMzg1",
   "tracks": [
     {
       "added_at": "2022-12-28 08:33:44",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "AD MARE",
-        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 172936,
-      "name": "O.O",
-      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
-    },
-    {
-      "added_at": "2022-12-28 08:33:44",
-      "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 240440,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "added_at": "2022-12-28 08:33:44",
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "THE WORLD EP.1 : MOVEMENT",
-        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 207921,
-      "name": "Guerrilla",
-      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+      "duration_ms": 195306,
+      "name": "HIP",
+      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -727,34 +727,18 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "reality in BLACK",
-        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+        "name": "THE WORLD EP.1 : MOVEMENT",
+        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 195306,
-      "name": "HIP",
-      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
-    },
-    {
-      "added_at": "2022-12-28 08:33:44",
-      "album": {
-        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
-        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "HEYDAY (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
+      "duration_ms": 207921,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -771,6 +755,22 @@
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "added_at": "2022-12-28 08:33:44",
+      "album": {
+        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
+        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "HEYDAY (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
-        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Ready to love",
-      "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
+        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+      "duration_ms": 186760,
+      "name": "Ready to love",
+      "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
-        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 207299,
-      "name": "Pretty U",
-      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
-    },
-    {
-      "added_at": "2022-12-28 08:33:44",
-      "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 209392,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
+    },
+    {
+      "added_at": "2022-12-28 08:33:44",
+      "album": {
+        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
+        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 207299,
+      "name": "Pretty U",
+      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "BLOCKBUSTER",
-        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
-      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
-    },
-    {
-      "added_at": "2022-12-28 08:33:44",
-      "album": {
         "name": "DISHARMONY : FIND OUT",
         "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 192093,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
+    },
+    {
+      "added_at": "2022-12-28 08:33:44",
+      "album": {
+        "name": "BLOCKBUSTER",
+        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
+      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
     },
     {
       "added_at": "2022-12-28 08:33:44",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-12-28 08:33:44",
       "album": {
-        "name": "Hello, world!",
-        "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
-    },
-    {
-      "added_at": "2022-12-28 08:33:44",
-      "album": {
         "name": "Just right",
         "url": "https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 222398,
       "name": "\ub531 \uc88b\uc544(Just right)",
       "url": "https://open.spotify.com/track/4ER58qECydWokIsgqtysWu"
+    },
+    {
+      "added_at": "2022-12-28 08:33:44",
+      "album": {
+        "name": "Hello, world!",
+        "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
     },
     {
       "added_at": "2022-12-28 08:33:44",

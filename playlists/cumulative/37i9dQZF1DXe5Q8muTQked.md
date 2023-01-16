@@ -4,13 +4,13 @@
 
 > Kick back with the perfect mix of covers.
 
-630 songs - 1 day 14 hr 50 min
+631 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It for You](https://open.spotify.com/track/4FAzFBlN4ELscUtvKeZhE1) | [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Grace](https://open.spotify.com/album/0eIem2MhkpeUpaPpxhMN2D) | 2:03 | 2021-10-20 | 2022-07-29 |
 | [\(Everything I Do\) I Do It for You](https://open.spotify.com/track/4Sope1x1EUQiWPyCMKFRRN) | [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Grace](https://open.spotify.com/album/13u5Dj3JQCowv1LH94I5xQ) | 2:03 | 2022-06-10 |  |
-| [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 3:05 | 2022-06-10 |  |
+| [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 3:05 | 2022-06-10 | 2023-01-16 |
 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-10-20 | 2022-07-29 |
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2021-10-20 | 2022-07-29 |
 | [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2022-06-10 |  |
@@ -178,6 +178,7 @@
 | [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 | 2021-10-20 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/1JiHcWvhF1CKccD8H3oiFm) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Stay Awake](https://open.spotify.com/album/0JAZgcmrevl34g6mwSJdzl) | 3:42 | 2021-10-20 | 2022-07-29 |
 | [Everybody Wants To Rule The World \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 2:35 | 2022-06-10 |  |
+| [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-06-10 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-10-20 | 2022-07-29 |
 | [Fade Into You](https://open.spotify.com/track/05CQBqtPTeNq33iNe8Ref3) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade Into You](https://open.spotify.com/album/5UZCROva2W30N7KbQay4zw) | 4:34 | 2021-10-20 | 2022-07-29 |
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-10-20 | 2022-07-29 |

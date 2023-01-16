@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-334 songs - 20 hr 35 min
+335 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-23 | 2022-10-15 |
 | [Aunque No Sea Yo](https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Aunque No Sea Yo](https://open.spotify.com/album/74j5XhF4zIq06Y4Hq6zRtp) | 3:34 | 2022-01-27 | 2022-02-25 |
+| [Añada de lea](https://open.spotify.com/track/6XM7pJJhWqpxwgShVMi8ka) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Añada de lea](https://open.spotify.com/album/3FyQhJHpCaIcI7FmcPOSy5) | 3:05 | 2023-01-06 |  |
 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 | 2022-10-28 | 2022-11-27 |
 | [Bajo el Sol](https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Bajo el Sol](https://open.spotify.com/album/4WWqEiDQgLONs0riUE0jw7) | 4:16 | 2021-12-24 | 2022-06-04 |
 | [Barquito de Nuez](https://open.spotify.com/track/2HvJIb21JD31EXUwhBHmu7) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Barquito de Nuez](https://open.spotify.com/album/5KAhzUae1qtsIzZTVfVj9y) | 2:58 | 2022-02-04 | 2022-05-12 |
@@ -233,7 +234,7 @@
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
-| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 |  |
+| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-01-16 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |

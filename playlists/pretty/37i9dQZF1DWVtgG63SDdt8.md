@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,653 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,852 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 8 | [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE WORSHIP](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 |
 | 9 | [Fighting For My Heart \- Live](https://open.spotify.com/track/4QEbQWmAA7ea8tr4pURJC6) | [Songs From the Soil](https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH), [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Noel Robinson](https://open.spotify.com/artist/6NPIZtY6oJzY4q35IRa1Xa) | [Fighting For My Heart \(Live\)](https://open.spotify.com/album/1ne0Z0XBLxXVBCsTDzZJ9t) | 6:55 |
 | 10 | [Blessed Hope](https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC) | [Vive Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Blessed Hope](https://open.spotify.com/album/2op3eogwOF5fW5PlpokiNn) | 6:14 |
-| 11 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0i8DDeHnEar6DzJ2rrplhN), [Rozanne Hodgetts](https://open.spotify.com/artist/2xPeC88bL62e6Ef9QTgL8O) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
+| 11 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/2xPeC88bL62e6Ef9QTgL8O) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
 | 12 | [Worthy is Your Name \- Radio Version](https://open.spotify.com/track/0R6NgaTDzy8XW6NnnYxqO4) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Worthy is Your Name \(Radio Version\)](https://open.spotify.com/album/2GlgxDE0YfHVpMWsRcxl5o) | 4:57 |
 | 13 | [The Dove \- Live](https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Dove \(Live\)](https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV) | 9:55 |
 | 14 | [I Need Jesus](https://open.spotify.com/track/6OQUy2kUs7rRGQ20GY9Oyx) | [Impact Worship](https://open.spotify.com/artist/0ayHAggupHmLNoTP6ThfZ4), [Emilia Owens](https://open.spotify.com/artist/3KWzeRK75zkBYGmE4zmc9d) | [I Need Jesus](https://open.spotify.com/album/6mOpOwBY2t3LHuaDkwEPhZ) | 9:17 |

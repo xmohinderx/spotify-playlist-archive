@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 30951,
+  "num_followers": 31014,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDRkNDU5YmI2MzMwMTdkYWVkMjIzYjJjZWIxZDM0YjMy",
+  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDJkOGY1OTBmZDRjMzZhZjNkMTNmMjY2MTdiNzFlZGJh",
   "tracks": [
     {
       "added_at": "2023-01-10 17:34:17",
@@ -259,6 +259,30 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+      },
+      "artists": [
+        {
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Piano-Blues & Boogie-Woogie",
         "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
       },
@@ -287,30 +311,6 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
-      },
-      "artists": [
-        {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Piano Brotherhood (feat. Dani Gugolz, Peter M\u00fcller)",
         "url": "https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -747,6 +747,42 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie, Vol. 4",
         "url": "https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P"
       },
@@ -779,42 +815,6 @@
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Bobby Robinson Story Volume One",
-        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
         }
       ],
-      "duration_ms": 145278,
-      "name": "Shake Baby Shake",
-      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -967,18 +967,34 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+        "name": "The Bobby Robinson Story Volume One",
+        "url": "https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG"
       },
       "artists": [
         {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
+      "duration_ms": 145278,
+      "name": "Shake Baby Shake",
+      "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Keep It Coming",
+        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
+      },
+      "artists": [
+        {
+          "name": "Esben Just",
+          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1011,22 +1027,6 @@
       "duration_ms": 150973,
       "name": "Marie",
       "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Keep It Coming",
-        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
-      },
-      "artists": [
-        {
-          "name": "Esben Just",
-          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
     },
     {
       "added_at": "2023-01-10 17:34:17",

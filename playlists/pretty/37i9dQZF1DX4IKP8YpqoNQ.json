@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 22369,
+  "num_followers": 22388,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDc1MjY5N2ZlMTBkZGNkYWRlMTA0YmQ5NWFiNzJlOGVm",
+  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMGY3NDNhNjUwNDE1ZWI2M2UxNWU2NmIwMjQ2NGUzODA0",
   "tracks": [
     {
       "added_at": "2023-01-09 13:08:27",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Super Duper Love",
-        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "It's A Man's Man's Man's World - Live",
-      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 271666,
       "name": "You've Got a Friend - Live",
       "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Super Duper Love",
+        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 215715,
+      "name": "It's A Man's Man's Man's World - Live",
+      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 513875,
-      "name": "Love & Hate - Live From Spotify London",
-      "url": "https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U"
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 513875,
+      "name": "Love & Hate - Live From Spotify London",
+      "url": "https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+        "name": "19",
+        "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
+      "duration_ms": 212026,
+      "name": "Right As Rain - Live at Hotel Cafe",
+      "url": "https://open.spotify.com/track/1qMsnFyutQSZQheQcp3uAl"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -375,22 +391,6 @@
       "duration_ms": 388293,
       "name": "Boogie Nights / All Night - Live Version",
       "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Right As Rain - Live at Hotel Cafe",
-      "url": "https://open.spotify.com/track/1qMsnFyutQSZQheQcp3uAl"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210600,
       "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 374236,
-      "name": "Ain't Nobody - Live",
-      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 211202,
       "name": "First Began - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 374236,
+      "name": "Ain't Nobody - Live",
+      "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -879,6 +879,30 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "The HamilTones",
+          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+        }
+      ],
+      "duration_ms": 452500,
+      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
+      "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -931,30 +955,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "The HamilTones",
-          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
-        }
-      ],
-      "duration_ms": 452500,
-      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
-      "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 310091,
+      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
+      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Life on Planet Groove",
         "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
@@ -1035,42 +1055,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Lalah Hathaway Live!",
-        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
-      },
-      "artists": [
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Little Ghetto Boy (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 310091,
-      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
-      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
         "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 253183,
       "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
       "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Lalah Hathaway Live!",
+        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Little Ghetto Boy (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 469625,
       "name": "Black Man In A White World - Live From Spotify London",
       "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1259,6 +1243,22 @@
       "duration_ms": 381626,
       "name": "Let's Get It On - Live At The London Palladium/1976",
       "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+        "name": "Invisible Chains Live from Nyc",
+        "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Raul Mid\u00f3n",
+          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Let's Stay Together - Live",
-      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+      "duration_ms": 572680,
+      "name": "Sunshine \"I Can Fly\" (Live)",
+      "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
     }
   ],
   "unique_name": "Soul Live",

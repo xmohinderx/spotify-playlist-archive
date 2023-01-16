@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23365,
+  "num_followers": 23350,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDFiZmIwZDYwMDJjNWEzYjlhMzZiMTUxMWExYWVmMTky",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMGE5YjM1MTUzOGYyY2U4MzJkYWE0N2ZmOTFjYWYwMjRm",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
+        "name": "Analog Girl in a Digital World",
+        "url": "https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 375106,
+      "name": "Analog Girl in a Digital World",
+      "url": "https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
         "name": "Wach",
         "url": "https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 364800,
       "name": "Das Boot",
       "url": "https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
-        "name": "Analog Girl in a Digital World",
-        "url": "https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 375106,
-      "name": "Analog Girl in a Digital World",
-      "url": "https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes"
     },
     {
       "added_at": "2023-01-03 23:00:00",

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-208 songs - 13 hr 41 min
+209 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Midnight sun](https://open.spotify.com/track/46B34DWj7HjB4eEKHFa5sB) | [Marvin](https://open.spotify.com/artist/5Ge2wlLiHJlpzMSnbGkbpO) | [Nostalgia](https://open.spotify.com/album/2t0ynhYs5QkYMorNReZJSC) | 3:19 | 2022-07-08 | 2022-07-25 |
 | [Milky Way](https://open.spotify.com/track/7uYP73T6rByUNYL8RE7kiF) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Milky Way](https://open.spotify.com/album/7xiwhKvFNNeThDoLP4oRTy) | 3:53 | 2022-05-11 | 2022-06-06 |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-18 | 2022-10-06 |
-| [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 |  |
+| [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2023-01-16 |
 | [MONOLOGUE](https://open.spotify.com/track/3voGBHMWnfdodTDRtScUIp) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Refresh project](https://open.spotify.com/album/3ikVmbEKal0oTteXvYuOz0) | 4:16 | 2022-06-13 | 2022-07-29 |
 | [Moody Mode \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/track/6TG4E3aDfxmsb7h8CX5MSK) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Kim Dae Hyeok 김대혁](https://open.spotify.com/artist/5Idmwqf7qWP3IBo3ayAgmG) | [Moody Mode \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/album/4Wg1qv5YnV56VWPsY8cHl0) | 4:06 | 2022-05-11 | 2022-06-03 |
 | [Moving On](https://open.spotify.com/track/3xnfq1zoQOMlQUWhcQdByU) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:57 | 2022-05-11 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 | 2022-07-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/6m2mG267Dck8xcEmUPrEAt) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/1kjaqaxbXPiLuFNTCIdJCa) | 4:18 | 2022-05-11 | 2022-07-25 |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-09 |  |
+| [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-16 |  |
 | [The night I drew you](https://open.spotify.com/track/27eU3lE6mbGK0GKqhypHH0) | [Youth Library](https://open.spotify.com/artist/5dXZbHN0uyD3Ds6lnJW1uF), [YAEBIN](https://open.spotify.com/artist/1NmZh9t8XzyL3gk2rRUojp) | [Youth Library EP.7](https://open.spotify.com/album/0TfiyUqKOxNm3ysgBEzc2r) | 4:26 | 2022-05-11 | 2022-07-25 |
 | [The Road](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:15 | 2022-05-11 |  |
 | [The Snowman](https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 3:56 | 2022-05-11 | 2022-07-29 |

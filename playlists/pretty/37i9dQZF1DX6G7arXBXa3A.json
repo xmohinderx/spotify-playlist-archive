@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 376586,
+  "num_followers": 376652,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGM3ZDBhOTNlNjM0OGMyYTNhNjljNWYwOWJiOWZjNWY2",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGUxZDdmN2MyNGU5MmUzY2Y5NDFmZjIzZTA1YmE2ZGQ2",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -873,20 +873,24 @@
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "1967",
-        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
       "artists": [
         {
-          "name": "Maynard Ferguson Orchestra",
-          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
         }
       ],
-      "duration_ms": 378466,
-      "name": "Whisper Not",
-      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
+      "duration_ms": 300845,
+      "name": "Brother J",
+      "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
     }
   ],
   "unique_name": "Big Band",

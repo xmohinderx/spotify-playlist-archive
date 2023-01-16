@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,223 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,285 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 28 | [Somos Varios](https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv) | 4:16 |
 | 29 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
 | 30 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
-| 31 | [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 |
-| 32 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
+| 31 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
+| 32 | [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 |
 | 33 | [Todo Porque Te Amo](https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Un Viaje Diferente](https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP) | 3:42 |
 | 34 | [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 |
 | 35 | [Barbie Ven](https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 50 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDBiMjYxNGI4ODNkZjZlYTA4NGQxMzExYWY0NjM1MDJk`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMGQ4YWFmY2U4NGFhYzc3NDQ1M2E0MGM4YjNmYzAyODg1`

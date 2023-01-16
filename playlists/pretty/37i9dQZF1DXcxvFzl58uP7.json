@@ -1,13 +1,29 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Clairo",
-  "num_followers": 1046423,
+  "num_followers": 1046962,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0MjQ1MywwMDAwMDAwMGIyZDFmOWFhM2E2MTAzOTk3ODIwZTRhYmNmODA5ODE3",
+  "snapshot_id": "MTY3MzU0MjQ1MywwMDAwMDAwMGQ0YzIwNjEyYTFmM2M0NTFhNmVlOGRiODEyNDI0NTJk",
   "tracks": [
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "feel u",
-        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
-      },
-      "artists": [
-        {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
-        }
-      ],
-      "duration_ms": 150670,
-      "name": "feel u",
-      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
         "name": "Moonlight/Rare",
         "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+        "name": "feel u",
+        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
       },
       "artists": [
         {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
         }
       ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+      "duration_ms": 150670,
+      "name": "feel u",
+      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1067,6 +1051,22 @@
       "duration_ms": 179815,
       "name": "Spiracle",
       "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
       },
       "artists": [
         {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
         "name": "It's Been a Little Heavy Lately",
         "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/53ksH4ivfT1cNJYe2ZJYvb"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/1qja4itnsquIxIofomg2PE"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
+      "added_at": "2023-01-16 01:20:03",
+      "album": {
+        "name": "endlessly",
+        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
+    },
+    {
       "added_at": "2022-12-21 18:39:33",
       "album": {
         "name": "a place we can always go.",
@@ -1259,22 +1275,6 @@
       "duration_ms": 100750,
       "name": "kissing girls",
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
-    },
-    {
-      "added_at": "2023-01-15 01:15:28",
-      "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+      "duration_ms": 160870,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1491,22 +1507,6 @@
       "duration_ms": 188786,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 160870,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2022-12-21 18:39:33",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-12-21 18:39:33",
       "album": {
+        "name": "Six Speed",
+        "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Six Speed",
+      "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+    },
+    {
+      "added_at": "2022-12-21 18:39:33",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy"
-    },
-    {
-      "added_at": "2022-12-21 18:39:33",
-      "album": {
-        "name": "Six Speed",
-        "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
-      },
-      "artists": [
-        {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Six Speed",
-      "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
     },
     {
       "added_at": "2022-12-21 18:39:33",

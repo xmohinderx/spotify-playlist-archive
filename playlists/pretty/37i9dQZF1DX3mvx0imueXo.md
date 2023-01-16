@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,763 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,826 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 27 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 28 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
 | 29 | [The Wicked](https://open.spotify.com/track/306Z0s3TVHyD0cSPJusjht) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [The Wicked](https://open.spotify.com/album/6Jn6m73eCgN5bQHXAJxNdL) | 4:08 |
-| 30 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
-| 31 | [A9 Link Up](https://open.spotify.com/track/2eW02aiQxbVc0BQJmtIUgJ) | [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A9Ace](https://open.spotify.com/artist/3nVH9A3fJlrtQh1s3Ft2QW), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Trapboy](https://open.spotify.com/artist/2BSxtUp2AXy2TI3DAkjLdL), [A9Kebz](https://open.spotify.com/artist/1JoKldB4InGY6KzojY4JcS), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [92 Degrees](https://open.spotify.com/album/1O9BGpevVroU42SklvVhQ5) | 3:44 |
+| 30 | [A9 Link Up](https://open.spotify.com/track/2eW02aiQxbVc0BQJmtIUgJ) | [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A9Ace](https://open.spotify.com/artist/3nVH9A3fJlrtQh1s3Ft2QW), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Trapboy](https://open.spotify.com/artist/2BSxtUp2AXy2TI3DAkjLdL), [A9Kebz](https://open.spotify.com/artist/1JoKldB4InGY6KzojY4JcS), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [92 Degrees](https://open.spotify.com/album/1O9BGpevVroU42SklvVhQ5) | 3:44 |
+| 31 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Junior Demus](https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
 | 32 | [The Feeling \(feat\. Johnny Cosmic\)](https://open.spotify.com/track/5DUmNxW374v827lIgnlsZO) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:32 |
 | 33 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
 | 34 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
 | 50 | [Maths Test](https://open.spotify.com/track/38sCQWp7j7lrzCxANN35du) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:52 |
 
-Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMGJlYTI3YjkzNDExOThlOTkzNDkwODYxMGY0Nzk5ZjE4`
+Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDI5NmQyZTc1NWMyYTUwYjkwOWMyNzE2NWY3Yzg3M2Q0`

@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 224020,
+  "num_followers": 224090,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMDcyMDc3Y2UwYjI0ZDE5MWE0NWE2OTA3ZjNiZDUzOTdi",
+  "snapshot_id": "MTY1ODc4NDk1NSwwMDAwMDAwMGFhMGZlZTkzMzZhNDhhNWUwZTQ0ZTVhZTY5OWMxNGY0",
   "tracks": [
     {
       "added_at": "2022-07-25 21:35:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "New Kind Of Feeling",
         "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171640,
       "name": "I Just Fall In Love Again",
       "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "This Way Is My Way",
-        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 134226,
-      "name": "Snowbird",
-      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "Rocky Mountain Music",
         "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 142773,
       "name": "Two Dollars in the Jukebox - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "George Jones - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 187373,
       "name": "The Grand Tour",
       "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
-      },
-      "artists": [
-        {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
         "name": "The Essential Ray Price",
         "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 227786,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+      },
+      "artists": [
+        {
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
+    },
+    {
+      "added_at": "2022-07-25 21:35:55",
+      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 138800,
       "name": "Her Name Is...",
       "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
-    },
-    {
-      "added_at": "2022-07-25 21:35:55",
-      "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Johnny Rodriguez",
+          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
         }
       ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
+      "duration_ms": 157746,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf"
     },
     {
       "added_at": "2022-07-25 21:35:55",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-07-25 21:35:55",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE"
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
       },
       "artists": [
         {
-          "name": "Johnny Rodriguez",
-          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 157746,
-      "name": "Pass Me By",
-      "url": "https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf"
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2022-07-25 21:35:55",

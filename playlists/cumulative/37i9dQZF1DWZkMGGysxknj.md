@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-247 songs - 13 hr 57 min
+248 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Feel It Still](https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Feel It Still](https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu) | 3:15 | 2021-07-16 | 2022-11-13 |
 | [Feels \- Acoustic](https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Feels](https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9) | 3:34 | 2021-07-16 |  |
 | [Fever](https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Fever](https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim) | 3:56 | 2021-07-16 |  |
-| [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 |  |
+| [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-07-16 | 2023-01-16 |
 | [Fix You](https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 3:12 | 2021-07-16 | 2023-01-15 |
 | [Flowers](https://open.spotify.com/track/0Ys9zkCKuGpBO9wHBG30Jj) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/0T7mEuUdWxVECRH3LIt4EE) | 2:19 | 2021-07-16 | 2022-10-15 |
 | [Flowers](https://open.spotify.com/track/1i888NGaVHKEZX8ooyKMJv) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Disturbing Body](https://open.spotify.com/album/769s0o4Q4cWxhN3cJUYnHS) | 2:19 | 2021-07-16 |  |
@@ -193,6 +193,7 @@
 | [Sleepless](https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:22 | 2021-07-16 |  |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/79MRWFDPHHPaaiohbBN7iF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/6sfk1SGJdv9vpFmTniMvnS) | 5:04 | 2021-07-16 | 2022-07-29 |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/25pzMvqGiIohddpNq2ople) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/5T7JDiglCGAWK9qgxEqk0S) | 5:04 | 2021-07-16 | 2022-12-25 |
+| [Softly \- Mahogany Sessions](https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm) | 5:04 | 2021-07-16 |  |
 | [Solo](https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Solo](https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB) | 3:18 | 2021-07-16 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 | 2021-07-16 |  |
 | [Somos](https://open.spotify.com/track/48MdFin9PVpumCOlHsO0xZ) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Somos](https://open.spotify.com/album/0iUo9bQTSCSZapCcLS3rqF) | 3:43 | 2021-07-16 | 2022-07-29 |
