@@ -4,7 +4,7 @@
 
 > The biggest metal songs of the 2000s\. Cover: System Of A Down
 
-247 songs - 18 hr 11 min
+248 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,13 @@
 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 | 2022-01-03 |  |
 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 | 2022-04-13 |  |
 | [Here To Stay](https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ) | 4:30 | 2022-01-03 | 2022-07-29 |
+| [Hole in the Earth](https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:09 | 2022-11-22 |  |
 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 | 2022-07-13 |  |
 | [House of Sleep](https://open.spotify.com/track/5fwLhOTBbP9xx6wC45EBt3) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Eclipse](https://open.spotify.com/album/7nGfDXOctevBtRZwhKl3At) | 4:15 | 2022-07-13 | 2022-07-15 |
 | [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 | 2022-01-03 | 2022-07-25 |
 | [Hurting Not Helping](https://open.spotify.com/track/6OVzJOLKXD2Cg5XurQdyfr) | [Bury Your Dead](https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D) | [It's Nothing Personal](https://open.spotify.com/album/76neRFrYuXCWCSt7STdcTn) | 4:10 | 2022-07-13 | 2022-07-15 |
 | [Hyperdrive!](https://open.spotify.com/track/1Mju1koP7vTo5llp8r2tGc) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Ziltoid the Omniscient](https://open.spotify.com/album/6YjSKoG1zWPa3Ooa2tmkpy) | 3:47 | 2022-03-31 | 2022-04-21 |
-| [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 | 2022-07-13 |  |
+| [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 | 2022-07-13 | 2023-01-17 |
 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 | 2022-07-13 | 2022-07-15 |
 | [I Don't Care](https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gonthier](https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:57 | 2022-04-13 |  |
 | [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-04-13 | 2022-09-17 |

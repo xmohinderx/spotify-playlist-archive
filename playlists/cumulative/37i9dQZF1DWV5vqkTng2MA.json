@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 195609,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4VvGTLSffmfxIQk1GkccST"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 198293,
       "name": "Midnight Wine",
       "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 146200,
       "name": "Never Had Nobody Like You",
       "url": "https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt"
@@ -2404,6 +2404,24 @@
       "duration_ms": 245986,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7DM3hMeOT4yFdzzLJZiafD"
+    },
+    {
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
     },
     {
       "album": {
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"

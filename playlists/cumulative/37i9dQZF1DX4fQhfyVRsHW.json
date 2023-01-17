@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Delightful Waves",
+        "url": "https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194437,
+      "name": "Delightful Waves",
+      "url": "https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2"
+    },
+    {
+      "album": {
         "name": "Depths of the Andaman",
         "url": "https://open.spotify.com/album/4nod12TTbsMj6l4yrEFzkh"
       },
@@ -1856,6 +1874,24 @@
       "duration_ms": 202000,
       "name": "Star Fall",
       "url": "https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA"
+    },
+    {
+      "album": {
+        "name": "Stationnaire",
+        "url": "https://open.spotify.com/album/2ayrYWlBwDikrEJY4Mfsuw"
+      },
+      "artists": [
+        {
+          "name": "Pierrette Tremblay",
+          "url": "https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stationnaire",
+      "url": "https://open.spotify.com/track/7vOLV9xqknZUrhKrlzDkXe"
     },
     {
       "album": {

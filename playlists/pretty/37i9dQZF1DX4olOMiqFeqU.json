@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2343774,
+  "num_followers": 2344341,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMGQ4ZjE4MzU5NDAwNTliNzY3OWJiMDk4ZDBjZTY3MTFm",
+  "snapshot_id": "MTY3MjgxMzg3MCwwMDAwMDAwMDNjNDE3N2QzYmQxNjFmNGRjOTQxYzY3MTIyN2EwNTY3",
   "tracks": [
     {
       "added_at": "2023-01-04 06:31:10",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Tahanan",
-        "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 293727,
-      "name": "Tahanan",
-      "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Pa-umaga",
         "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
@@ -151,6 +135,38 @@
       "duration_ms": 189019,
       "name": "Pa-umaga",
       "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 293727,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -171,18 +187,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Unang Sayaw",
-        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
       "artists": [
         {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 278008,
-      "name": "Unang Sayaw",
-      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -223,18 +239,18 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -251,22 +267,6 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -299,6 +299,38 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 325590,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -339,22 +371,6 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 325590,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
         "name": "Ngayong Gabi",
         "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 277098,
       "name": "Sana - Single Version",
       "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
+        "name": "Noon Time Show",
+        "url": "https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "duration_ms": 364106,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
         "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
       },
@@ -803,18 +819,34 @@
     {
       "added_at": "2023-01-04 06:31:10",
       "album": {
-        "name": "Noon Time Show",
-        "url": "https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H"
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
       },
       "artists": [
         {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 364106,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+    },
+    {
+      "added_at": "2023-01-04 06:31:10",
+      "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
     },
     {
       "added_at": "2023-01-04 06:31:10",
@@ -831,38 +863,6 @@
       "duration_ms": 450333,
       "name": "Ang Huling El Bimbo",
       "url": "https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "So Slow",
-      "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
-    },
-    {
-      "added_at": "2023-01-04 06:31:10",
-      "album": {
-        "name": "Christian Bautista",
-        "url": "https://open.spotify.com/album/0qEwvzXNVsPFK7eftFej7Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Bautista",
-          "url": "https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "The Way You Look at Me",
-      "url": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC"
     }
   ],
   "unique_name": "OPM Favorites",

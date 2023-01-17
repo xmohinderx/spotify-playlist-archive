@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eliane Fernandes",
-  "num_followers": 57687,
+  "num_followers": 57732,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjE3OSwwMDAwMDAwMGEyNGZjN2YyMjliY2ZmODJhYjJiMTAyMGMyYTQwZjNj",
+  "snapshot_id": "MTY3MzU4MjE3OSwwMDAwMDAwMDgyOTcwOTYyZTFhZDAxMDdmMjIzNzYxMzBlZmQ5NTBl",
   "tracks": [
     {
       "added_at": "2023-01-13 03:56:19",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
+        "name": "Est\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 352533,
+      "name": "Est\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
         "name": "Vou Deixar na Cruz",
         "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Foi a M\u00e3o de Deus",
-        "url": "https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 408181,
-      "name": "Foi a M\u00e3o de Deus",
-      "url": "https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 289264,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Foi a M\u00e3o de Deus",
+        "url": "https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 408181,
+      "name": "Foi a M\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Onde Est\u00e1 Sua F\u00e9?",
-        "url": "https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 308096,
-      "name": "Onde Est\u00e1 Sua F\u00e9?",
-      "url": "https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "O Processo",
         "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Est\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d"
+        "name": "Onde Est\u00e1 Sua F\u00e9?",
+        "url": "https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem"
       },
       "artists": [
         {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 352533,
-      "name": "Est\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF"
+      "duration_ms": 308096,
+      "name": "Onde Est\u00e1 Sua F\u00e9?",
+      "url": "https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -319,6 +319,22 @@
       "duration_ms": 310635,
       "name": "Despreocupa",
       "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Pode Dormir Tranquilo",
-        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 288457,
-      "name": "Pode Dormir Tranquilo",
-      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Vou Marcar Tua Hist\u00f3ria",
         "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 346495,
       "name": "Recursos",
       "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Ele N\u00e3o Mudou",
+        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 269183,
+      "name": "Ele N\u00e3o Mudou",
+      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -559,42 +579,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Ele N\u00e3o Mudou",
-        "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 269183,
-      "name": "Ele N\u00e3o Mudou",
-      "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
-        "name": "S\u00f3 Faz Ajudar",
-        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 267983,
-      "name": "S\u00f3 Faz Ajudar",
-      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Quem \u00e9 Voc\u00ea",
         "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 312938,
       "name": "Vem Senhor",
       "url": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "O Noivo Vir\u00e1",
-        "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Sou Deus",
         "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "O Noivo Vir\u00e1",
+        "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "T\u00e1 Gerando",
         "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 274773,
       "name": "T\u00e1 Gerando",
       "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "T\u00e1 Passando",
         "url": "https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Aguenta Firme",
-        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
       "artists": [
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 278314,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -979,6 +963,22 @@
       "duration_ms": 377500,
       "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Aguenta Firme",
+        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 278314,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Um Sobrevivente",
-        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        }
-      ],
-      "duration_ms": 301162,
-      "name": "Um Sobrevivente",
-      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "O Desfecho",
         "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
       },
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+        "name": "Um Sobrevivente",
+        "url": "https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
         }
       ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+      "duration_ms": 301162,
+      "name": "Um Sobrevivente",
+      "url": "https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Eu Cheguei",
+        "url": "https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 236572,
+      "name": "Eu Cheguei",
+      "url": "https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Eu Cheguei",
-        "url": "https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 236572,
-      "name": "Eu Cheguei",
-      "url": "https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Basta uma Palavra",
         "url": "https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 239523,
       "name": "Basta uma Palavra",
       "url": "https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Chore pra Deus",
         "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
+        "name": "Nada Vai Te Faltar",
+        "url": "https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d"
+      },
+      "artists": [
+        {
+          "name": "Neide Martins",
+          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
+        }
+      ],
+      "duration_ms": 319936,
+      "name": "Nada Vai Te Faltar",
+      "url": "https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
         "name": "Aquietai-Vos",
         "url": "https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Nada Vai Te Faltar",
-        "url": "https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d"
+        "name": "Ele Te Escolheu",
+        "url": "https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn"
       },
       "artists": [
         {
-          "name": "Neide Martins",
-          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 319936,
-      "name": "Nada Vai Te Faltar",
-      "url": "https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj"
+      "duration_ms": 240000,
+      "name": "Ele Te Escolheu",
+      "url": "https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1407,22 +1423,6 @@
       "duration_ms": 310504,
       "name": "Deus \u00c9, Deus Est\u00e1, Deus Faz",
       "url": "https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
-        "name": "Ele Te Escolheu",
-        "url": "https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ele Te Escolheu",
-      "url": "https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b"
     },
     {
       "added_at": "2023-01-13 03:56:19",

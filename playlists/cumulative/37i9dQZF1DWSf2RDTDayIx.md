@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-321 songs - 17 hr 14 min
+322 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Life Goes On](https://open.spotify.com/track/15Vlfa18uD2w98YG5zX7Pb) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On](https://open.spotify.com/album/4gQ2RlVnWDZ61Y8fTJTap5) | 2:49 | 2021-12-03 | 2022-01-08 |
 | [Life's Too Short](https://open.spotify.com/track/326yOKaTPs91elL1KW794F) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [FITZ](https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB) | [Life's Too Short](https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm) | 3:31 | 2021-12-03 |  |
 | [Light Up My Life](https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Light Up My Life](https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW) | 2:24 | 2021-12-03 |  |
+| [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 | 2023-01-06 |  |
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2022-01-07 | 2022-07-09 |
 | [Lights Up \(feat\. Channel Tres\) \- Myd Remix](https://open.spotify.com/track/5B1JcoxYjVjRNt2ZJyraJT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(feat\. Channel Tres\) \[Myd Remix\]](https://open.spotify.com/album/6uf2MqhxoUOvQ8tyUWOLk8) | 3:35 | 2022-01-07 | 2022-07-29 |
 | [Like I Do](https://open.spotify.com/track/72yOVhxkfd9lgp4Q0EaJTK) | [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Brooke Tomlinson](https://open.spotify.com/artist/5spaLjG6DJVXfqlYSskx9C) | [Like I Do](https://open.spotify.com/album/08pYrUzqYdf4kJjtsHTEjc) | 2:50 | 2021-12-03 | 2022-01-08 |
@@ -276,7 +277,7 @@
 | [Take Me Back](https://open.spotify.com/track/6tBQwbubOllLrJgkh3utw2) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Take Me Back](https://open.spotify.com/album/5SsKV34TZECeZsU0tAEZb3) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take Your Time](https://open.spotify.com/track/3AygCrAj6TZZ6mGkcvD9To) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Take Your Time](https://open.spotify.com/album/6HBagEXptqThTlMQnxSchh) | 3:06 | 2021-12-03 | 2022-01-08 |
-| [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 |  |
+| [Tears For Later](https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Tears For Later](https://open.spotify.com/album/79k3hCGte01bmCcvPDEdwO) | 2:46 | 2021-12-03 | 2023-01-17 |
 | [Tell Me Something Good](https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5) | 4:09 | 2022-01-28 | 2022-07-29 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-07-22 |  |
 | [Temptation](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation](https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ) | 3:12 | 2022-11-18 |  |

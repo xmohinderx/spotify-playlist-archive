@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-271 songs - 18 hr 1 min
+272 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Himno de los Conductores Imprudentes](https://open.spotify.com/track/0DG1pFBluidrtYQbqCBpfn) | [Los Tontos](https://open.spotify.com/artist/6WMidNwOwRxIMeUlhe1ZF6) | [Los Tontos](https://open.spotify.com/album/1LZORzh4MfqNnl84fY0KwR) | 2:43 | 2022-07-01 | 2022-07-08 |
 | [Historias del Ayer](https://open.spotify.com/track/6z1rsdWp4weaG6Vk44lg5X) | [Hijos de la Marea](https://open.spotify.com/artist/61jpCm2O5kIdfbzAj58dwB) | [Historias del Ayer](https://open.spotify.com/album/6Wvi9J4hX2jzVhHvFWkq1g) | 3:33 | 2022-07-08 | 2022-07-24 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-07-08 |  |
-| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 |  |
+| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 | 2023-01-17 |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2022-07-08 |  |
 | [Iluminador](https://open.spotify.com/track/0OHjA32vvt6SplJuExyjYy) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Iluminador](https://open.spotify.com/album/02NrzFWfOi6fwcDGLd2Fat) | 3:16 | 2022-07-01 | 2022-07-24 |
 | [Ilusión](https://open.spotify.com/track/7sxwjqjRzpfXSyLCBrhU25) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9) | [Ilusión](https://open.spotify.com/album/2HugFbm25jbXhGeD2bQwXO) | 3:57 | 2022-07-08 | 2022-07-29 |
@@ -234,6 +234,7 @@
 | [Superhéroes](https://open.spotify.com/track/6RA3Qq8YcT92IgcgIipigE) | [Martín Rosito](https://open.spotify.com/artist/6lyFcWleIV9hy1Xl5FmSJn), [Garo Arakelián](https://open.spotify.com/artist/2PTDMiM5qpGaHuy03Rkk5K) | [Superhéroes](https://open.spotify.com/album/0GRPrw5VBuKbW2IqXQlLv3) | 3:44 | 2022-07-08 | 2022-07-11 |
 | [Surtido](https://open.spotify.com/track/61Vz32W74Ty0OwM8KGeSud) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Surtido](https://open.spotify.com/album/2mCfQzd2pUWD1l71xRIP0E) | 3:38 | 2022-12-02 | 2022-12-17 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-07-08 |  |
+| [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 | 2022-12-16 |  |
 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-07-08 | 2023-01-13 |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2022-07-08 |  |
 | [Sí Sí Valor](https://open.spotify.com/track/1ZHrub2uSgbY1iMsuk7pCS) | [Buenos Muchachos](https://open.spotify.com/artist/4FQG5l6GOTXcsF7BuA62l2) | [Vendrás a Verte Morir](https://open.spotify.com/album/1E06gw8wltIDjqNbHVrfkc) | 4:44 | 2022-07-08 | 2022-07-24 |

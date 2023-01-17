@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1179,
+  "num_followers": 1183,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzE0MCwwMDAwMDAwMDJjYjBlYTRhZDUzZGE4N2YzZmI3MTBiNzUyYjEzMDU4",
+  "snapshot_id": "MTY3MzU1NzE0MCwwMDAwMDAwMDAwMWM5NjI0ZGY4ZDkwOTFhYmU1MWIxNjA0MjJhMjNj",
   "tracks": [
     {
       "added_at": "2023-01-12 20:59:00",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+    },
+    {
       "added_at": "2022-12-02 05:04:10",
       "album": {
         "name": "Love Marijuana",
@@ -179,22 +195,6 @@
       "duration_ms": 228040,
       "name": "Love Marijuana",
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -239,22 +239,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -279,22 +275,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Thank God",
         "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 180172,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -391,6 +391,26 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kiki Kyogamba",
         "url": "https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy"
       },
@@ -413,20 +433,20 @@
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
     },
     {
-      "added_at": "2022-12-09 12:00:13",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
       },
       "artists": [
         {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -447,42 +467,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 135965,
       "name": "4 U",
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2022-12-09 12:00:13",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2022-12-16 11:22:34",
@@ -527,6 +527,30 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Omu",
+        "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "Omu",
+      "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -583,30 +607,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Omu",
-        "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "Omu",
-      "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2022-11-25 11:45:40",
@@ -677,6 +661,38 @@
       "url": "https://open.spotify.com/track/0ODPGfGEXmbJNAplpT0qwJ"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Boss Lady",
@@ -691,6 +707,22 @@
       "duration_ms": 178754,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -711,22 +743,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Star Gal",
+        "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Where I Go",
         "url": "https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L"
       },
@@ -883,22 +903,6 @@
       "duration_ms": 235558,
       "name": "Extra Mile",
       "url": "https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Afro Wavy 3",
-        "url": "https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ"
-      },
-      "artists": [
-        {
-          "name": "Ill Gee",
-          "url": "https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW"
-        }
-      ],
-      "duration_ms": 112566,
-      "name": "Body Goals",
-      "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"
     }
   ],
   "unique_name": "Made In Uganda",

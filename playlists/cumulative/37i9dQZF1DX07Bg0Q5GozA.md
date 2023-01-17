@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Tensnake, DRAMA
 
-166 songs - 13 hr 25 min
+167 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Broken \- Jacques Lu Cont Mix](https://open.spotify.com/track/4Ovys7emm2gWoPUynSKJdS) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jacques Lu Cont](https://open.spotify.com/artist/4SINYGzldpKMExpCjseS9o) | [Broken \(Remixes\)](https://open.spotify.com/album/6ggsZZrmUNFR7NxPC8X9sN) | 4:09 | 2022-12-15 | 2023-01-06 |
 | [butterfly \(so free\)](https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [butterfly \(so free\)](https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO) | 3:06 | 2022-12-15 |  |
 | [Carbon Dioxide](https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Carbon Dioxide](https://open.spotify.com/album/6anWFtYOzbbEs8It4Lpi4V) | 4:51 | 2022-12-15 |  |
-| [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 | 2022-12-15 |  |
+| [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 | 2022-12-15 | 2023-01-17 |
+| [Clara \(the night is dark\)](https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:38 | 2023-01-12 |  |
 | [Closer to My Heart](https://open.spotify.com/track/0nGyc26fHbXzMCDwykT5PG) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:43 | 2022-12-30 | 2023-01-02 |
 | [Colder & Closer \- Suzanne Kraft Remix](https://open.spotify.com/track/4znP6MIqYAC4fxTmNNUo7w) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Colder & Closer \(Suzanne Kraft Remix\)](https://open.spotify.com/album/2GuHFXi1T14JxlCcJFOvcn) | 5:07 | 2022-12-30 | 2023-01-02 |
 | [Concierge D'armour](https://open.spotify.com/track/6MfeULMRXuJYD1yVD0Ayql) | [Pollyester](https://open.spotify.com/artist/64CdWLzo1oex97cHIvM0mE) | [Earthly Powers](https://open.spotify.com/album/31GvnXY9raQoa26DTyfyUE) | 4:22 | 2022-12-30 | 2023-01-02 |

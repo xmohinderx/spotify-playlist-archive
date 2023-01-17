@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 20050,
+  "num_followers": 20094,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMGI3NmVkNWFlOGVmZjAyMTRiZjA5MWI3MDc5MGE3NjRl",
+  "snapshot_id": "MTY3MDQ1NzAzMSwwMDAwMDAwMGQ4ZTI4MjZhNDgwMmExN2FkMWJiNzIxYzg2ZjhiZTY2",
   "tracks": [
     {
       "added_at": "2022-12-07 23:50:31",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 150333,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -235,6 +235,26 @@
       "duration_ms": 172160,
       "name": "Suspenso Infernal",
       "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
+        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 178651,
+      "name": "Siluetas",
+      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -283,26 +303,6 @@
       "duration_ms": 211866,
       "name": "Bemba Color\u00e1",
       "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
-        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 178651,
-      "name": "Siluetas",
-      "url": "https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "Vicente Fernandez",
+        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "El Remedio",
+      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Vicente Fernandez",
-        "url": "https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "El Remedio",
-      "url": "https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Para Mi Siempre Amor...",
         "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Muchacha Bonita",
-      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 244493,
       "name": "Agua Con Sal",
       "url": "https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "Ya no llores",
         "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+      "duration_ms": 181452,
+      "name": "Tengo Diecisiete A\u00f1os - Remastered",
+      "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 181452,
-      "name": "Tengo Diecisiete A\u00f1os - Remastered",
-      "url": "https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3"
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -739,22 +755,6 @@
       "duration_ms": 136280,
       "name": "El Gran Tom\u00e1s (Norman)",
       "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -807,6 +807,38 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
+        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
+        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
+      },
+      "artists": [
+        {
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Shimmy Shimmy Ko Ko Bop",
+      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "22 \u00c9xitos de Oro, vol. 4",
+        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devoluci\u00f3n",
+      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
         "name": "Los Exitos de Oro de Los Crazy Boy's",
         "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 216426,
       "name": "Acomp\u00e1\u00f1ame",
       "url": "https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "22 \u00c9xitos de Oro, vol. 4",
-        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devoluci\u00f3n",
-      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Shimmy Shimmy Ko Ko Bop",
-      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-07 23:50:31",
       "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Que Hiciste",
-      "url": "https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
         "name": "Versiones Originales Vol.2",
         "url": "https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK"
       },
@@ -983,6 +967,54 @@
       "duration_ms": 191053,
       "name": "Herencia Gitana",
       "url": "https://open.spotify.com/track/71OaY7celWpuQh00OlDrls"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Olvidate",
+        "url": "https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW"
+      },
+      "artists": [
+        {
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Me Siento Loco",
+      "url": "https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Que Hiciste",
+      "url": "https://open.spotify.com/track/4AraDm5Gw0YqA90Z8IPWtn"
+    },
+    {
+      "added_at": "2022-12-07 23:50:31",
+      "album": {
+        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
+        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Y Su Piano",
+          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
     },
     {
       "added_at": "2022-12-07 23:50:31",
@@ -1047,38 +1079,6 @@
       "duration_ms": 185093,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/1vve0rYomwnvFct5ptRQrf"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Armando Manzanero, Su Piano y Su M\u00fasica",
-        "url": "https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Y Su Piano",
-          "url": "https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by"
-    },
-    {
-      "added_at": "2022-12-07 23:50:31",
-      "album": {
-        "name": "Olvidate",
-        "url": "https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Me Siento Loco",
-      "url": "https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz"
     },
     {
       "added_at": "2022-12-07 23:50:31",

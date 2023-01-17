@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: VEDO
 
-397 songs - 21 hr 19 min
+398 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 | 2022-09-23 |  |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 |  |
 | [Bad at Love](https://open.spotify.com/track/3XfJoRcy4VvU6bWp2oznGB) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad at Love](https://open.spotify.com/album/0PlLJYgvrYIKLkfaAKd4aT) | 3:04 | 2022-03-25 | 2022-04-21 |
-| [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-08-05 |  |
+| [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-08-05 | 2023-01-17 |
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-08-05 | 2022-10-13 |
 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 | 2022-09-02 |  |
 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 | 2022-03-25 | 2022-04-16 |
@@ -192,6 +192,7 @@
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-12-15 | 2022-10-13 |
 | [IDGAF](https://open.spotify.com/track/2bNXO8JjQZY2PkIFJ3XyuB) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties \(Deluxe\)](https://open.spotify.com/album/0bD5bkHCUBQcf6sNg8aRcd) | 2:48 | 2021-12-15 | 2022-04-06 |
 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-09-30 | 2023-01-01 |
+| [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-09-30 |  |
 | [If Pretty Was A Person](https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo) | [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [If Pretty Was A Person](https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T) | 2:36 | 2022-11-18 | 2022-12-29 |
 | [In My Corner](https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Aura III](https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF) | 3:08 | 2021-12-15 | 2022-10-03 |
 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 | 2022-08-05 |  |

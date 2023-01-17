@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Morning Energy",
+        "url": "https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Path",
+          "url": "https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD"
+        },
+        {
+          "name": "The Slumbering One",
+          "url": "https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Morning Energy",
+      "url": "https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL"
+    },
+    {
+      "album": {
         "name": "My Pace (Remix)",
         "url": "https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j"
       },
@@ -3048,6 +3070,28 @@
       "duration_ms": 106666,
       "name": "Welcome to the Four Seasons",
       "url": "https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
+      },
+      "artists": [
+        {
+          "name": "Tsugi-Hagi",
+          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
+        },
+        {
+          "name": "Republyric",
+          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Whales",
+      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
     },
     {
       "album": {

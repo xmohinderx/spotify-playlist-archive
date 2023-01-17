@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-86 songs - 5 hr 19 min
+87 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 | 2022-09-01 |  |
 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 | 2021-12-01 |  |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-12-01 |  |
+| [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 |  |
 | [Chaka Chakalathi \(From "Galatta Kalyaanam"\)](https://open.spotify.com/track/5uYBDSIUfUZ4B8ZgbpxNFs) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chaka Chakalathi \(From "Galatta Kalyaanam"\)](https://open.spotify.com/album/6ngMEHSBHNt4KcgJwDhNEx) | 4:29 | 2021-12-01 | 2022-11-15 |
 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 | 2021-12-01 |  |
 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 | 2022-12-09 |  |

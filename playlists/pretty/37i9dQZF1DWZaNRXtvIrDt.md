@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Memphis LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,954 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,960 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 2 | [Nice To See You](https://open.spotify.com/track/29h1JvmqLYta6weden9cIm) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Nice To See You](https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc) | 5:02 |
-| 3 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 |
-| 4 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 |
+| 3 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 |
+| 4 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
 | 5 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
-| 6 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
-| 7 | [Before The Storm](https://open.spotify.com/track/6fLnDbhsPQhdMrjiC033Vs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [11:11](https://open.spotify.com/album/5B9sSoX03fSWm4kqIVQVLT) | 5:08 |
-| 8 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 |
-| 9 | [Brush Strokes](https://open.spotify.com/track/3A7GzxUNDUtNPLpMoeRqvv) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Brush Strokes](https://open.spotify.com/album/3ltU22i5RjQWW4e1OYz4A3) | 4:35 |
-| 10 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 |
-| 11 | [Groove And Walk](https://open.spotify.com/track/0fpmdAr87qvYL0ydH4t3ao) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [Body 22](https://open.spotify.com/album/1AHlFWZl76aQlJ8ZmZPt9r) | 4:08 |
-| 12 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 |
-| 13 | [When I’m With U](https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [All Nyte](https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz) | 4:10 |
-| 14 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
-| 15 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
-| 16 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
-| 17 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 |
-| 18 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
+| 6 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 |
+| 7 | [Residential Advisor](https://open.spotify.com/track/5HIodb5frj7GelmmE134cI) | [James Pepper](https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy) | [Club Trax Vol.1 \- EP](https://open.spotify.com/album/3cXuzE41KPgJDgYdvIsXbv) | 6:20 |
+| 8 | [Before The Storm](https://open.spotify.com/track/6fLnDbhsPQhdMrjiC033Vs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [11:11](https://open.spotify.com/album/5B9sSoX03fSWm4kqIVQVLT) | 5:08 |
+| 9 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 |
+| 10 | [Cool Down](https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema) | [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [Cool Down](https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w) | 5:08 |
+| 11 | [Brush Strokes](https://open.spotify.com/track/3A7GzxUNDUtNPLpMoeRqvv) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Brush Strokes](https://open.spotify.com/album/3ltU22i5RjQWW4e1OYz4A3) | 4:35 |
+| 12 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
+| 13 | [Groove And Walk](https://open.spotify.com/track/0fpmdAr87qvYL0ydH4t3ao) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [Body 22](https://open.spotify.com/album/1AHlFWZl76aQlJ8ZmZPt9r) | 4:08 |
+| 14 | [When I’m With U](https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [All Nyte](https://open.spotify.com/album/4Oi3OBwa6ncXogbV6VdDBz) | 4:10 |
+| 15 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
+| 16 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
+| 17 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 |
+| 18 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 |
 | 19 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 |
 | 20 | [Summer Ghost](https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Summer Ghost](https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe) | 5:10 |
 | 21 | [Al\-Duqqi](https://open.spotify.com/track/7rbVUjN7DrpP1i1fwzCTRR) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Immigrant](https://open.spotify.com/album/0ZDQ0XnPQHZ0FnZcs1pWnm) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Switched Up](https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq) | [Jbox](https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77) | [Switched Up](https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98) | 3:14 |
 | 80 | [All Over This Party \- salute Remix](https://open.spotify.com/track/74y9q95NblVSvnurtU62WR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [All Over This Party \(salute Remix\)](https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY) | 3:08 |
 
-Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMDgwOWEzODVkOTU5ZTNhZTRjN2EzZGY1ZDMyNWI0OWQx`
+Snapshot ID: `MTY3Mzg0NjIzNSwwMDAwMDAwMDY4NjU3Nzk3ZjQ3OWFiMDAwMmZhNzExMzY4MzA3N2Nk`

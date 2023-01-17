@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 491573,
+  "num_followers": 491682,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA0NDE4MCwwMDAwMDAwMGM4ODI3Y2E3ZjA3NGYxMzM5NmU5ZWM2ZTIyNDYzZjUw",
+  "snapshot_id": "MTY3MzA0NDE4MCwwMDAwMDAwMDQzYWUzNDQxOWFkNGY5ZmI2NDY0Zjk1NmVkMDUwNDU4",
   "tracks": [
     {
       "added_at": "2023-01-06 22:29:40",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -143,18 +159,54 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3"
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 233544,
+      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Spanish Grease",
+        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Spanish Grease",
+      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -183,58 +235,6 @@
       "duration_ms": 139986,
       "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
       "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 233544,
-      "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Spanish Grease",
-        "url": "https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Spanish Grease",
-      "url": "https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
         "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 161306,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
-        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
-      },
-      "artists": [
-        {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
-      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
+        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
+      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "Tito Rodr\u00edguez Hits",
         "url": "https://open.spotify.com/album/6BREh4QnMOfkiqlAh1x8re"
       },
@@ -431,6 +431,38 @@
       "duration_ms": 180746,
       "name": "Cuando, Cuando, Cuando",
       "url": "https://open.spotify.com/track/0xobZv425cgZbr6Z7Kqvbn"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Herb Alpert Presents",
+        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -471,58 +503,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Herb Alpert Presents",
-        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Spanish Rice",
-        "url": "https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        },
-        {
-          "name": "Chico O'Farrill",
-          "url": "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "Spanish Rice",
-      "url": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 269400,
       "name": "Mi ni\u00f1a Lola",
       "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Spanish Rice",
+        "url": "https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        },
+        {
+          "name": "Chico O'Farrill",
+          "url": "https://open.spotify.com/artist/7LwWCGCEfh4OWWwDoeEsvw"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "Spanish Rice",
+      "url": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 522080,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/62qut4QWc4SptIRYikqvBK"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Poncho At Montreux",
-        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 404680,
-      "name": "El Shing-A-Ling",
-      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
         "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 446040,
       "name": "Yeah!",
       "url": "https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Poncho At Montreux",
+        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 404680,
+      "name": "El Shing-A-Ling",
+      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 300986,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/160BOfvWG2QLinvT8hUbT7"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "To Know Without Knowing",
         "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
       },
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 300986,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/160BOfvWG2QLinvT8hUbT7"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Conga Blue",
         "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/79dhjqvk5LOW1Ah1dQDGgU"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Dig My Feeling",
         "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/79dhjqvk5LOW1Ah1dQDGgU"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
       },
@@ -1123,6 +1123,30 @@
       "duration_ms": 396226,
       "name": "Como Traigo La Yuca - Live",
       "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Vicente Amigo",
+          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1187,30 +1211,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+      },
+      "artists": [
+        {
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "The Champ",
         "url": "https://open.spotify.com/album/5557uVa3RBihCiSlb6Lq0a"
       },
@@ -1307,42 +1327,6 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
-      },
-      "artists": [
-        {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
         "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
       "artists": [
         {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
       "artists": [
         {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
         }
       ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "El Sonido Nuevo",
+        "url": "https://open.spotify.com/album/4rzynODIi4mNflsICsYZoX"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 438800,
+      "name": "Los Bandidos",
+      "url": "https://open.spotify.com/track/5SciHsLkumLoGnSLFiQILV"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
         "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
@@ -1527,22 +1547,6 @@
       "duration_ms": 198533,
       "name": "The Fool On The Hill",
       "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1587,6 +1591,22 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+      },
+      "artists": [
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
         "name": "The Latin Bit (Remastered)",
         "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
       },
@@ -1599,6 +1619,22 @@
       "duration_ms": 352693,
       "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
       "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
+    },
+    {
+      "added_at": "2023-01-06 22:29:40",
+      "album": {
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1647,22 +1683,26 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "El Sonido Nuevo",
-        "url": "https://open.spotify.com/album/4rzynODIi4mNflsICsYZoX"
+        "name": "Tr\u00edo Oriental",
+        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
         },
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Fabi\u00e1n Miodownik",
+          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
         }
       ],
-      "duration_ms": 438800,
-      "name": "Los Bandidos",
-      "url": "https://open.spotify.com/track/5SciHsLkumLoGnSLFiQILV"
+      "duration_ms": 130346,
+      "name": "La Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1695,30 +1735,6 @@
       "duration_ms": 353840,
       "name": "Soul Bourgeoisie",
       "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Tr\u00edo Oriental",
-        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
-      },
-      "artists": [
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        },
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        },
-        {
-          "name": "Fabi\u00e1n Miodownik",
-          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
-        }
-      ],
-      "duration_ms": 130346,
-      "name": "La Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
     },
     {
       "added_at": "2023-01-06 22:29:40",
@@ -1815,50 +1831,38 @@
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Plays The Contemporary Music Of Mexico And Brazil",
-        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 170653,
-      "name": "Se E Tarde, Me Perdoa",
-      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2023-01-06 22:29:40",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
-    },
-    {
-      "added_at": "2023-01-06 22:29:40",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
         {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+      "duration_ms": 289986,
+      "name": "Descarga Vald\u00e9s",
+      "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
     }
   ],
   "unique_name": "Latin Jazz",

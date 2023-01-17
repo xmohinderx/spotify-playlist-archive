@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Tania Dominguez\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,520 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,526 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 15 | [Sábanas Mojadas](https://open.spotify.com/track/4zXAxx7dfk74nN8VQLn9p5) | [Alexxzandro](https://open.spotify.com/artist/4uFSptT61DCmQY8E48punv), [MNYLOW](https://open.spotify.com/artist/7baYWc35aEW5aDL0WMwxxD) | [Sábanas Mojadas](https://open.spotify.com/album/5WGFrugNZzsCPOwU7U7G1w) | 3:12 |
 | 16 | [x ti x mi](https://open.spotify.com/track/5IOOB5ZNstaEQojP90rMqj) | [AP](https://open.spotify.com/artist/6OhGAPSt61AnHEuErt6Tw2) | [x ti x mi](https://open.spotify.com/album/1KjZuOuXLOqNoQHUn86S1c) | 2:48 |
 | 17 | [Catarsis](https://open.spotify.com/track/5Rpr0s58mhOsnwKT43KjdX) | [Lil Angello](https://open.spotify.com/artist/3ceK16nh5xlEJgEf7BRa0l), [Cruzzado](https://open.spotify.com/artist/5AGLl0nGdrvt3g62sZBWVz) | [Catarsis](https://open.spotify.com/album/6pYvnUSTdMUoxkw2iP2foK) | 3:27 |
-| 18 | [Pobre Diabla](https://open.spotify.com/track/2mQT64uWpty58GkWKaXGeR) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Pobre Diabla](https://open.spotify.com/album/4NKxmZKe5QJC8ktxNuQYnC) | 2:47 |
-| 19 | [Vis a Vis](https://open.spotify.com/track/79kc74yzs4SAO67JUg5mxF) | [Caramba](https://open.spotify.com/artist/6udqYxFfkpqiWWOd84pd5Z) | [Vis a Vis](https://open.spotify.com/album/4ETZCK2it5kYYcPqeuiP6G) | 3:45 |
-| 20 | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/track/5crpZ1WK6HHlZsSA4fRny9) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse) | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd) | 2:44 |
+| 18 | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/track/5crpZ1WK6HHlZsSA4fRny9) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse) | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd) | 2:44 |
+| 19 | [Pobre Diabla](https://open.spotify.com/track/2mQT64uWpty58GkWKaXGeR) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Pobre Diabla](https://open.spotify.com/album/4NKxmZKe5QJC8ktxNuQYnC) | 2:47 |
+| 20 | [Vis a Vis](https://open.spotify.com/track/79kc74yzs4SAO67JUg5mxF) | [Caramba](https://open.spotify.com/artist/6udqYxFfkpqiWWOd84pd5Z) | [Vis a Vis](https://open.spotify.com/album/4ETZCK2it5kYYcPqeuiP6G) | 3:45 |
 | 21 | [Volver a Verte](https://open.spotify.com/track/22WlMDCW6ESoWOdpNSzvsA) | [Jota Taborda](https://open.spotify.com/artist/0D2Az4CC8VhYnNuiXX1qvM), [Orquesta La Central](https://open.spotify.com/artist/1KlFuGgeFCBe09jhko5a75) | [Volver a Verte](https://open.spotify.com/album/2L12a7a6djd5lykCQDtoSu) | 2:48 |
 | 22 | [Noche Fria](https://open.spotify.com/track/6V5gYKBRPIlU1c14yf4G8b) | [Edmundo](https://open.spotify.com/artist/0tx5BBRYJzQzY84ThxLEtu) | [Noche Fria](https://open.spotify.com/album/3KCsV51EuIW9DLG0c3Q5Jc) | 2:35 |
 | 23 | [SALIÓ EL SOL](https://open.spotify.com/track/01MYnmiGiS72uFRJduLSOa) | [PCAS](https://open.spotify.com/artist/7zmFV5etYHA7DYuJYJZXvh) | [SALIÓ EL SOL](https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD) | 2:30 |
-| 24 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
-| 25 | [Tonight we Dance](https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx) | [Jon Clasic](https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv), [Dj Limbo Latino](https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb) | [Tonight we Dance](https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx) | 3:37 |
+| 24 | [Tonight we Dance](https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx) | [Jon Clasic](https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv), [Dj Limbo Latino](https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb) | [Tonight we Dance](https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx) | 3:37 |
+| 25 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 |
 | 26 | [Mosca](https://open.spotify.com/track/5lSnbAo7GD1wdvez82WQAo) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Mosca](https://open.spotify.com/album/6WzbbHdyk1mh4HKlbQc5H3) | 2:43 |
 | 27 | [La Luz](https://open.spotify.com/track/3oUn1sqlF9oQJLgVqjI7yU) | [Taino](https://open.spotify.com/artist/3dx2T1ppxx6OgzzNS2n0jE) | [La Luz](https://open.spotify.com/album/4StmdKVErU6J7nma9s4bVT) | 2:46 |
 | 28 | [Majalca](https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V) | [Charlie Gahu](https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs) | [Majalca](https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O) | 2:58 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 35 | [Yo No Te Creo](https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL) | [Melissa Ciani](https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u) | [Yo No Te Creo](https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp) | 3:08 |
 | 36 | [Viajera](https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf) | 2:51 |
 | 37 | [AUCH](https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg) | [Marco Gordiano](https://open.spotify.com/artist/0C2DioA7LLMoIpWwdnlOMY), [Mane Zavala](https://open.spotify.com/artist/2oAjxTmKnRKNwyq6FvjtdY), [Guiza](https://open.spotify.com/artist/5WWOCNWvqOYLTreVl1esP4) | [AUCH](https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q) | 3:06 |
-| 38 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 |
-| 39 | [Como Tú](https://open.spotify.com/track/4gaC3jGd5fLaodTP8GSlDy) | [Sol Makena](https://open.spotify.com/artist/7tfxg0TmkcYyzq87WwcPL3) | [Como Tú](https://open.spotify.com/album/1DVkLElUfsqWWop0zRNLRc) | 2:30 |
+| 38 | [Como Tú](https://open.spotify.com/track/4gaC3jGd5fLaodTP8GSlDy) | [Sol Makena](https://open.spotify.com/artist/7tfxg0TmkcYyzq87WwcPL3) | [Como Tú](https://open.spotify.com/album/1DVkLElUfsqWWop0zRNLRc) | 2:30 |
+| 39 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 |
 | 40 | [Preso](https://open.spotify.com/track/3obRRx177ZtTshN4Nc9MVA) | [Nanii R](https://open.spotify.com/artist/6AzOB4lvlONBDZherdXTRy) | [Preso](https://open.spotify.com/album/12HYmS6k4VYpSrmF4x9PrV) | 3:03 |
 | 41 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 |
 
-Snapshot ID: `MTY3MzU1MzMzNCwwMDAwMDAwMDcyNTRkYzBhNTNhOTg3MmM0ZWVlZTIzN2VjNWU4Yjg2`
+Snapshot ID: `MTY3MzU1MzMzNCwwMDAwMDAwMDc0M2MwNTkxYjdmMmQ3MDNmYTdmNTI0OWI0YTIxYTI1`

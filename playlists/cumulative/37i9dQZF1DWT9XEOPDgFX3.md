@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 
-285 songs - 18 hr 11 min
+286 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Hawks](https://open.spotify.com/track/6VskgbUMKUrhlrliKtWza7) | [Jodi](https://open.spotify.com/artist/3RBTPtXcwJncQGphGFRFJp) | [Hawks](https://open.spotify.com/album/6cITGU0F8XKxQT3cYB0IlS) | 3:31 | 2022-04-13 | 2022-07-29 |
 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 | 2022-04-13 | 2022-07-29 |
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2022-01-21 |  |
-| [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 | 2022-01-21 |  |
+| [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 | 2022-01-21 | 2023-01-17 |
 | [Holding You There](https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU) | [Georgia Duncan](https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG) | [The Light](https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU) | 2:47 | 2022-04-13 | 2022-07-22 |
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 |  |
 | [Hoops](https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Less Ready to Go](https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa) | 4:27 | 2022-01-21 |  |
@@ -134,6 +134,7 @@
 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 | 2022-04-29 |  |
 | [It Wasn't Me](https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [It Wasn't Me](https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2022-04-13 | 2022-11-13 |
+| [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 | 2023-01-13 |  |
 | [J'ai Trouvé](https://open.spotify.com/track/0KUf5uKTbVtAlBlgxNT8Di) | [Renée Reed](https://open.spotify.com/artist/1Zq3ZkZ654wC7BtZ6zoDKE) | [J’ai rêvé](https://open.spotify.com/album/1CEQBvfSqx8RTRNQv2027u) | 3:34 | 2022-04-13 | 2022-07-27 |
 | [Jenny](https://open.spotify.com/track/2elR3YPD59tkJYEkHP8IOa) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Jenny](https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV) | 3:40 | 2022-04-29 | 2022-07-27 |
 | [Jenny](https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 3:40 | 2022-04-29 |  |

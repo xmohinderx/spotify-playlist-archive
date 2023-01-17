@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-439 songs - 17 hr 55 min
+440 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
 | [Fallin' in Love](https://open.spotify.com/track/3UREhjLw6D1yJ4n83GbNkp) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Fallin' in Love](https://open.spotify.com/album/55AmgdUcDxjSQJWvGZqVbZ) | 3:19 | 2019-05-26\* | 2022-04-18 |
 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 | 2020-01-14 | 2022-10-15 |
-| [Fanatic \- Instrumental](https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n) | 3:30 | 2022-11-17 |  |
+| [Fanatic \- Instrumental](https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n) | 3:30 | 2022-11-17 | 2023-01-17 |
 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 | 2019-05-26\* |  |
 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 | 2022-12-08 |
 | [Favorite Sause](https://open.spotify.com/track/2uUNTBmq2VBW1UMJcAqOEn) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Favorite Sause](https://open.spotify.com/album/5mdVpX2SpB24YHfRXhcm8G) | 1:48 | 2020-01-14 | 2021-10-28 |
@@ -228,6 +228,7 @@
 | [Lotus Lake](https://open.spotify.com/track/7gMaYxpTpNIhJXjZYAGX9D) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Lotus Lake](https://open.spotify.com/album/1xpUOi63PRKviztUFM7Jv2) | 1:57 | 2020-06-29 | 2021-10-24 |
 | [Love Books](https://open.spotify.com/track/4AKFwlJskhbQSAKX7WZiFv) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love Books](https://open.spotify.com/album/46Wsl5Mj5MSBuKzBSsGA6F) | 2:02 | 2019-05-26\* | 2019-06-15 |
 | [Love Letter](https://open.spotify.com/track/5jSL7kbq81gOtD1QUOAAwB) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Love Letter](https://open.spotify.com/album/03gEl4GdfDFvbt9Ff3nUmi) | 1:56 | 2020-01-14 | 2022-07-28 |
+| [Love Letter](https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 1:56 | 2023-01-12 |  |
 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 | 2022-07-28 | 2022-11-20 |
 | [Loveofmine](https://open.spotify.com/track/17axGpHVTMbKHKh0z0JCXt) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Synchronicty](https://open.spotify.com/album/4QN6IgCdZjGE8SQK63ef7R) | 3:07 | 2021-08-04 | 2021-10-29 |
 | [Mad Skillz](https://open.spotify.com/track/6TjxqtYXNC0TIhq03rDJ9n) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Mad Skillz](https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj) | 2:31 | 2020-08-30 | 2022-07-28 |

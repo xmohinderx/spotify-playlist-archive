@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tensnake, DRAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,557 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,555 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 34 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 |
 | 35 | [Kiss \- Konstantin Sibold & Colyn Alternative Edit](https://open.spotify.com/track/52tHzOpQApOba7kNJ4oc1q) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Kiss \(Remixes\)](https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x) | 7:33 |
 | 36 | [All Comes Crashing \- CVCHE Remix](https://open.spotify.com/track/3HJmf591A9KspqCVPEiUja) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [CVCHE](https://open.spotify.com/artist/0AVoyEEWwMPhMIiBujqkQP) | [All Comes Crashing \(CVCHE Remix\)](https://open.spotify.com/album/7pySoRsn8T7Msc6i53ItAI) | 4:55 |
-| 37 | [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 |
+| 37 | [Clara \(the night is dark\)](https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:38 |
 | 38 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 |
 | 39 | [save on love \- Edit](https://open.spotify.com/track/77tjTonIkxPWPN1pL3j7O0) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [save on love \- Edit](https://open.spotify.com/album/3roGcRRiXKiszUHXLpKeZ3) | 4:49 |
 | 40 | [Only For Tonight](https://open.spotify.com/track/1vwCNbCIahe4HsmfZim45D) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Only For Tonight](https://open.spotify.com/album/5YpxkZZNn65hT9WpJt6Ym6) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 | 75 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 
-Snapshot ID: `MTY3MzU2NDQwMCwwMDAwMDAwMDRjOTQxOTM2N2NlMzcxM2E5YzVkMDIxYmVjYTc2ZjRm`
+Snapshot ID: `MTY3MzU2NDQwMCwwMDAwMDAwMDE1NGUwMDJjMDcxMDkzMWRhNjE3MmRjNmNjYjQ3Yjg4`

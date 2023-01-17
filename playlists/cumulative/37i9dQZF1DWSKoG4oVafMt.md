@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-688 songs - 1 day 13 hr 20 min
+690 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 | 2022-05-11 |
 | [Booha](https://open.spotify.com/track/5CR2hzFNlLu73njqzTYRJK) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Coz Of God](https://open.spotify.com/album/6d7e4beGEuqCCyCc7sU7ni) | 3:14 | 2022-07-27 | 2022-08-18 |
 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 | 2022-08-18 |
+| [Broken](https://open.spotify.com/track/7uEkoc0qfsKHnkSK7hltYj) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Broken](https://open.spotify.com/album/2WOMoY21Pn4T1sFuPMa0rF) | 2:54 | 2023-01-16 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-06 |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
 | [Bulleshah Warga](https://open.spotify.com/track/44sMnbzkIroONTHzX8GxZG) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Bulleshah Warga](https://open.spotify.com/album/3aqhzQfGsWkFrP7sfIzDme) | 3:59 | 2022-09-06 | 2022-09-16 |
@@ -197,6 +198,7 @@
 | [Gallan Ni Hundia](https://open.spotify.com/track/1BAp3kOCQ3MrgK02X6xH4J) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Gallan Ni Hundia](https://open.spotify.com/album/4GnGg7884OxdoyAxQRNCFW) | 3:55 | 2022-05-20 | 2022-07-06 |
 | [Gallan Pyar Di \("Ishq Haazir Hai"\)](https://open.spotify.com/track/5zWAzazKKQzfnEWNUisOag) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Gallan Pyar Di \("Ishq Haazir Hai"\)](https://open.spotify.com/album/6P1pFnyl5VBCBjWc0mzfHi) | 3:00 | 2022-08-31 |  |
 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 | 2022-03-29 |  |
+| [Geet Lagdai](https://open.spotify.com/track/4iQOHCJsh7uYgq52NCpO3T) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:59 | 2023-01-16 |  |
 | [Gehri Akh](https://open.spotify.com/track/0pqTSGAe2FtV7mMAg3zVFX) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 3:39 | 2022-07-18 | 2022-08-18 |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-07-13 |  |
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |

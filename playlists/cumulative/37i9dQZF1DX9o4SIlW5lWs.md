@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-276 songs - 15 hr 51 min
+277 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2022-12-07 |
 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 | 2022-06-17 |  |
 | [Adiós Amor](https://open.spotify.com/track/0tC1zHCNIMpzv9Q44rTdmf) | [Juan José Piedrabuena](https://open.spotify.com/artist/4p0y36j62bcbAG6Hl0DjUe) | [Adiós Amor](https://open.spotify.com/album/2yIoKg3iN3oXgG8L4zx2fE) | 4:38 | 2022-04-01 | 2022-06-03 |
-| [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 |  |
+| [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 | 2023-01-17 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/5rsFQUSjouRx188w4O0xMm) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Ahora Que Te Vas](https://open.spotify.com/album/40XAu7HbtYFVUxTP32UyFj) | 2:45 | 2022-07-15 | 2022-07-23 |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-01-14 | 2022-07-28 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 |  |
@@ -69,6 +69,7 @@
 | [Detente](https://open.spotify.com/track/0WrzoYSsOWbQ3b4ZFiD21m) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Detente](https://open.spotify.com/album/0G2y3AhSTSVYaQZbCz8yBi) | 3:05 | 2022-04-08 | 2022-05-20 |
 | [Dile](https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Dile](https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9) | 2:55 | 2022-12-16 |  |
 | [Dile Tu \- En Vivo](https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Éxitos de Siempre \(En Vivo\)](https://open.spotify.com/album/5CprFOLiFLLU2EDC3BOUB6) | 2:00 | 2022-01-21 | 2022-07-12 |
+| [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 | 2023-01-06 |  |
 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 | 2022-09-18 |
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
 | [Duele](https://open.spotify.com/track/0uphJWk7TaEOMVYirZnulQ) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Momentos II](https://open.spotify.com/album/05IbVYCdIMsr9KU7Z0ZVhB) | 3:00 | 2022-12-24 | 2023-01-06 |

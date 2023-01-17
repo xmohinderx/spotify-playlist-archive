@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-179 songs - 14 hr 40 min
+181 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Midnight](https://open.spotify.com/track/6eIgX83EFYk0zUnCznpxq1) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Kenji Kihara](https://open.spotify.com/artist/56NSyAdmTubt4VsZ4SOVJ8) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:45 | 2021-12-22 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2021-12-22 |  |
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 |  |
+| [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 | 2023-01-16 |  |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-08-17 |  |
 | [Nacre Meadow](https://open.spotify.com/track/2aVgJE85GexucuDrHeyfeL) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Nacre Meadow](https://open.spotify.com/album/7pCr6UqsBdMdSpT0yNHREw) | 6:08 | 2021-12-22 | 2022-07-29 |
 | [Nacre Meadow](https://open.spotify.com/track/4LsbhJynQnbJNRht8bfbge) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Nacre Meadow](https://open.spotify.com/album/0LP8jLgSA7KrViKmQPv1TU) | 6:08 | 2022-07-08 |  |
@@ -171,6 +172,7 @@
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |
 | [Welcome to the Four Seasons](https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:46 | 2021-12-22 |  |
+| [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-16 |  |
 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 | 2021-12-22 |  |
 | [When you wake up](https://open.spotify.com/track/187SW6fgMUcjJbLUCEbPhr) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Beauty Sleep Aroma \-beautiful morning\- recommended by an aroma therapist](https://open.spotify.com/album/4QKtfFBTibqhnZb4GnLp6G) | 6:02 | 2022-07-08 | 2022-08-13 |
 | [Whisper at a Party](https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 6:56 | 2021-12-22 |  |

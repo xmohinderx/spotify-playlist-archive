@@ -4,7 +4,7 @@
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-113 songs - 8 hr 10 min
+114 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Sentimental Venus](https://open.spotify.com/track/4YoWOWGLUFWBS1j4xwh9V3) | [Iori Minase \(CV: Rie Kugimiya\)](https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd), [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K), [Mizuki Makabe \(CV: Rika Abe\)](https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE), [Rio Momose \(CV: Rikako Yamaguchi\)](https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 05](https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ) | 3:51 | 2022-12-16 |  |
 | [Shamrock Vivace](https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct) | [CLEVER CLOVER](https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:14 | 2022-12-16 |  |
 | [Silent Joker](https://open.spotify.com/track/526ugCcexvFqSQtegPdXOL) | [真壁瑞希 \(CV.阿部里果\)](https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 05](https://open.spotify.com/album/0BW5PROQs9hfHFrPtuuRZP) | 4:43 | 2022-12-16 |  |
-| [Super Duper](https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [Nao Yokoyama \(CV: Yui Watanabe\)](https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf) | [THE IDOLM@STER MILLION THE@TER WAVE 07 Jus\-2\-Mint](https://open.spotify.com/album/7mihuPl9XKNe5EbrWmf9Gs) | 4:10 | 2022-12-20 |  |
+| [Super Duper](https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [Nao Yokoyama \(CV: Yui Watanabe\)](https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf) | [THE IDOLM@STER MILLION THE@TER WAVE 07 Jus\-2\-Mint](https://open.spotify.com/album/7mihuPl9XKNe5EbrWmf9Gs) | 4:10 | 2022-12-20 | 2023-01-17 |
 | [Super Lover](https://open.spotify.com/track/5CKZKAat1cJhMTRtSx2KJA) | [横山奈緒 \(CV.渡部優衣\)](https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED) | [THE IDOLM@STER LIVE THE@TER HARMONY 05](https://open.spotify.com/album/2vsCygKagHpff8Gha6cdt2) | 4:11 | 2022-12-16 | 2022-12-24 |
 | [SUPER SIZE LOVE!!](https://open.spotify.com/track/79Ah4ajRgiVmIhZHGXQRSA) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq) | [THE IDOLM@STER LIVE THE@TER HARMONY 08](https://open.spotify.com/album/3AofVLjSvyjU1Bz3fvzvL5) | 4:08 | 2022-12-16 | 2022-12-18 |
 | [Sweet Sweet Soul](https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti) | [大神 環 \(CV.稲川英里\)](https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U), [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7) | [THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody](https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH) | 4:52 | 2022-12-16 | 2023-01-14 |
@@ -120,6 +120,7 @@
 | [素敵なキセキ](https://open.spotify.com/track/62bsYbqAdghw5FLcIwWjeM) | [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 03](https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6) | 4:10 | 2022-12-16 | 2022-12-20 |
 | [花ざかりWeekend](https://open.spotify.com/track/0R3Qg0gGEq2f1xfHCllnFq) | [Kaori Sakuramori \(CV: Arisa Kori\)](https://open.spotify.com/artist/1u7UKyQSfX3KIelFAagFMn), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F) | [THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury](https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA) | 4:12 | 2022-12-16 |  |
 | [追憶のサンドグラス](https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 06](https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi) | 4:09 | 2022-12-16 | 2023-01-02 |
+| [週末だけのハーレクイン](https://open.spotify.com/track/5eiVhNY1hfrj5JZOa9xGJb) | [百瀬莉緒 \(CV.山口立花子\)](https://open.spotify.com/artist/0TdlTDm9kd5UbOXSqNV3KP) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04](https://open.spotify.com/album/2l4xAEwb0RUwI9waodLEwM) | 4:09 | 2023-01-13 |  |
 | [餞の鳥](https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb) | [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal](https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17) | 5:00 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-12-17. Prior content cannot be recovered.

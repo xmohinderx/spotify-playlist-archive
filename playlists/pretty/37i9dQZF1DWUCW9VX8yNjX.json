@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 74059,
+  "num_followers": 74109,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDFlNTQyZjk4NTMzM2U2M2QwNmJiMDc0YjhjNmU3NDQy",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMGEyMTg4MzJjNjdiYzNmNzhkNzllMmY0NjA5MWZjMzNk",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -139,6 +139,26 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "S\u00e9 Que Te Duele",
+      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Viva Duets",
         "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
       },
@@ -175,6 +195,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Sigue la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/0U3QvaIc8vhmmr0eiIp7hk"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -199,42 +235,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "S\u00e9 Que Te Duele",
-      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Sigue la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/0U3QvaIc8vhmmr0eiIp7hk"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "M\u00edo",
         "url": "https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Es La Diferencia",
-        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 188893,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Es La Diferencia",
+        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Sigue la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Esta Vida (Qu\u00e9 Bonita Es Esta Vida)",
+      "url": "https://open.spotify.com/track/7nR0urmFhXgbKeqYHkTQLd"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 254600,
       "name": "Canta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3npbtkmTdUlRxGFxViDD0K"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Sigue la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Esta Vida (Qu\u00e9 Bonita Es Esta Vida)",
-      "url": "https://open.spotify.com/track/7nR0urmFhXgbKeqYHkTQLd"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 180386,
       "name": "Las Botas de Charro",
       "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "Te Voy a Perder",
-      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Entre El Amor Y Yo",
         "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 206533,
       "name": "Bohemio de Afici\u00f3n",
       "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 250226,
+      "name": "Te Voy a Perder",
+      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1139,34 +1139,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Am\u00e9rica Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
-        },
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        },
-        {
-          "name": "Valentina Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Confidencias Reales (En Vivo Desde El Teatro Real)",
         "url": "https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP"
       },
@@ -1199,6 +1171,34 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Am\u00e9rica Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "Valentina Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 176813,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "A Mis 80's",
+        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 160613,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
+      "duration_ms": 180529,
+      "name": "Cuando Me Digas",
+      "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1607,22 +1623,6 @@
       "duration_ms": 211319,
       "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
       "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "A Mis 80's",
-        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180529,
-      "name": "Cuando Me Digas",
-      "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+        "name": "Muriendo de Amor",
+        "url": "https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236426,
-      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
+      "duration_ms": 174426,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: blond
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,007 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,121 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [La vieille maison](https://open.spotify.com/track/2VeWiX4VpEh5FlSqAI8ZxH) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [La vieille maison](https://open.spotify.com/album/7zROrFoCzMu9OVTEEFVAia) | 3:07 |
 | 50 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 |
 
-Snapshot ID: `MTY3MzU2NDQ2MCwwMDAwMDAwMDlhOWFhMThjYjkxNGFiMWNlY2VhN2JmYmI4ZDMyZmY4`
+Snapshot ID: `MTY3Mzg2NTA2MCwwMDAwMDAwMDBiNjg3NDIyYWZiNTNjNTVlZTkxMjE3OGU1NGFkMDQx`

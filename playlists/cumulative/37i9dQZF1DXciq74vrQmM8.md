@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. KID BRUNSWICK
 
-412 songs - 19 hr 22 min
+413 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [I Really Like You pt2](https://open.spotify.com/track/01RpmdGOUoBzrLsC46BSyv) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 7:03 | 2022-04-19 | 2022-04-29 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-11-11 |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-27 | 2022-07-29 |
-| [I Walk Alone](https://open.spotify.com/track/3Na7kN9eIAbKvk92W4kdZ7) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Kid Carrillo](https://open.spotify.com/artist/0VVdOJecUbGnpL4n3pgswJ), [Nataliaa](https://open.spotify.com/artist/6L3gJE5CbFUeZY0PNya1Q8) | [I Walk Alone](https://open.spotify.com/album/7wY6USlOWZL3wUJkI0aSVx) | 3:05 | 2023-01-13 |  |
+| [I Walk Alone](https://open.spotify.com/track/3Na7kN9eIAbKvk92W4kdZ7) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Kid Carrillo](https://open.spotify.com/artist/0VVdOJecUbGnpL4n3pgswJ), [Nataliaa](https://open.spotify.com/artist/27IA0FAUWyGLiT4q7QnUoY) | [I Walk Alone](https://open.spotify.com/album/7wY6USlOWZL3wUJkI0aSVx) | 3:05 | 2023-01-13 |  |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-25 | 2022-09-16 |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2022-04-19 | 2022-04-29 |
 | [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 | 2022-10-13 |  |
@@ -223,6 +223,7 @@
 | [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Lazarus](https://open.spotify.com/track/6YeICQ526RnheZIr61Y5tj) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL), [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Lazarus](https://open.spotify.com/album/2ubFTHV87OkwQr4Xc9bxBc) | 3:13 | 2022-12-02 |  |
 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2022-04-19 | 2022-04-29 |
+| [LET IT GO](https://open.spotify.com/track/3EsHPsCsmjav3XcqBibcMM) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LET IT GO](https://open.spotify.com/album/0pyPK2kPiSxG4KrBmWsGQt) | 2:07 | 2023-01-16 |  |
 | [Let Me Speak](https://open.spotify.com/track/0lZz6LCbnGLe47YzXpxKiZ) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5DZ1ibBuyjMqbAWuCCDfUn) | 3:43 | 2022-08-18 | 2022-10-19 |
 | [Let Me Speak](https://open.spotify.com/track/238baqXmB5xRxuyaz6Nr6r) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5vBbMzRTrlu3qxu244QGmc) | 3:43 | 2022-10-13 | 2022-11-11 |
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-11 |  |

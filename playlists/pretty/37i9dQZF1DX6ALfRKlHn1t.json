@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1012529,
+  "num_followers": 1012691,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGMxMjgyN2UwODI4YTQzZDZmYjUyMjJlZmJlM2M5MDFi",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDMzZDJlYzBhNDVkNmIzMWM2MDkxNDQxMTY4OTE2ODA4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 313684,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -515,6 +515,38 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -547,38 +579,6 @@
       "duration_ms": 218763,
       "name": "Sober Up (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Greatest Hits '93 - '03",
-        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Trip Tape",
-        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Coast Modern",
         "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 225394,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Trip Tape",
+        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Apocalypse Whenever",
-        "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 220580,
-      "name": "Baby Blue Shades",
-      "url": "https://open.spotify.com/track/2bCFAFxw6uLRu3Mk1jF9E0"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Apocalypse Whenever",
+        "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 220580,
+      "name": "Baby Blue Shades",
+      "url": "https://open.spotify.com/track/2bCFAFxw6uLRu3Mk1jF9E0"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Fountain Tropical EP",
         "url": "https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205065,
       "name": "Straight Jacket",
       "url": "https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "They Might've Even Loved Me",
-        "url": "https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1"
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
       "artists": [
         {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 235653,
-      "name": "Milk & Coffee",
-      "url": "https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF"
+      "duration_ms": 214040,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+        "name": "They Might've Even Loved Me",
+        "url": "https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1"
+      "duration_ms": 235653,
+      "name": "Milk & Coffee",
+      "url": "https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Hollow Life",
-      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 136940,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1227,22 +1195,34 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I Wanna Be Your High",
-        "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
       },
       "artists": [
         {
-          "name": "Chad Tepper",
-          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
-        },
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 187500,
-      "name": "I Wanna Be Your High",
-      "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
+      "duration_ms": 136940,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Hollow Life",
+      "url": "https://open.spotify.com/track/2dq863fgcwToMdBxaPlyyT"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 211764,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "I Wanna Be Your High",
+        "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "I Wanna Be Your High",
+      "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Follow Your Heart",
         "url": "https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 176280,
       "name": "Monday",
       "url": "https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 239195,
-      "name": "u dont kno me",
-      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Slum Beach Denny",
+        "url": "https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix"
+      },
+      "artists": [
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        }
+      ],
+      "duration_ms": 240728,
+      "name": "Life's 2 Short",
+      "url": "https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Slum Beach Denny",
-        "url": "https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix"
-      },
-      "artists": [
-        {
-          "name": "DENM",
-          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
-        }
-      ],
-      "duration_ms": 240728,
-      "name": "Life's 2 Short",
-      "url": "https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Under My Influence",
-        "url": "https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 214339,
-      "name": "801",
-      "url": "https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Under My Influence",
+        "url": "https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 214339,
+      "name": "801",
+      "url": "https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 196720,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2022-10-07 04:01:00",

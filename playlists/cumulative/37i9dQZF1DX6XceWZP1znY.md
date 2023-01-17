@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-668 songs - 1 day 20 hr 31 min
+669 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [ありがとうはこっちの言葉](https://open.spotify.com/track/4eN3aVT6RhsL0ZLwjDbAak) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [ありがとうはこっちの言葉](https://open.spotify.com/album/7Md2XT2lxVfuLkYyhaxoFA) | 5:08 | 2022-06-07 | 2022-06-28 |
 | [ありがとうはこっちの言葉 \- TV version](https://open.spotify.com/track/6Dx3xrAn5TCawnPvJeAlni) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [ありがとうはこっちの言葉 \(TV version\)](https://open.spotify.com/album/0xWrafqt3zmnZ1t5rlpUTd) | 1:30 | 2022-06-07 | 2022-07-23 |
 | [いちごサンセット](https://open.spotify.com/track/5pNaPdDwd4qO5w4WdiQMdo) | [佐々木秀鳴 \(CV: 白井悠介\)](https://open.spotify.com/artist/6KHOb5QpPRa2dr7KkNzbTi), [宮野由美 \(CV: 斉藤壮馬\)](https://open.spotify.com/artist/2aQ8vyNKM9jjKjERPwNAbG) | [TVアニメ「佐々木と宮野」キャラクターソングシングル](https://open.spotify.com/album/1QIbp10K38N4c1dAbtEd5L) | 3:52 | 2022-06-07 | 2022-07-25 |
-| [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-11-22 |  |
+| [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-11-22 | 2023-01-17 |
 | [いのちの名前 \- from CrosSing](https://open.spotify.com/track/4vZAPywqbFrLjq7lnclHve) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [いのちの名前 \- from CrosSing](https://open.spotify.com/album/6qJ7DoGzkCdwAEHKLaQhQV) | 4:27 | 2022-06-07 | 2022-07-27 |
 | [おもいでしりとり](https://open.spotify.com/track/21I2N3whjE3lanhe0CuJNH) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [おもいでしりとり](https://open.spotify.com/album/3NBlrlTK609r4bxaM7ouIZ) | 4:23 | 2022-06-07 | 2022-07-28 |
 | [おんなじキモチ。](https://open.spotify.com/track/0qZwT6DB43GEOgJErhyosc) | [安野希世乃](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [TVアニメーション「異世界食堂2」オープニングテーマ おんなじキモチ。](https://open.spotify.com/album/2xJlJXn7bZ4uLn3qfWeH7t) | 4:14 | 2022-06-07 | 2022-07-27 |
@@ -389,6 +389,7 @@
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-07 | 2022-07-28 |
 | [この夢が醒めるまで](https://open.spotify.com/track/7i6gJOOf0oDDYW9xOyVjmN) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [この夢が醒めるまで](https://open.spotify.com/album/34JbQD8aevlVqawJdBkzHb) | 4:13 | 2022-06-07 | 2022-07-23 |
 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-06-07 | 2022-10-10 |
+| [しるし](https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [しるし](https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM) | 4:12 | 2023-01-07 |  |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-06-07 | 2022-11-13 |
 | [すべてがそこにありますように。](https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [すべてがそこにありますように。](https://open.spotify.com/album/0jXyshoedPS2dP4xTBtsiK) | 3:44 | 2022-11-22 | 2022-12-01 |
 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 | 2022-06-07 | 2022-07-10 |

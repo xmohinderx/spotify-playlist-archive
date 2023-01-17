@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
-  "num_followers": 102594,
+  "num_followers": 102647,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzMTMyNiwwMDAwMDAwMGI0YmY5MzNmYjg5NWEyN2Q0MGZjZTkyZWI1MTczYTFl",
+  "snapshot_id": "MTY3MzYzMTMyNiwwMDAwMDAwMDM5YzI0OTQ5YWI1YzllMGNjNmZmMDU0ZDZiMmJmN2Jj",
   "tracks": [
     {
       "added_at": "2023-01-13 17:35:26",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-01-13 17:35:26",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 273370,
       "name": "Mimosas - Remix",
       "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-01-13 17:35:26",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
         "name": "Diggy Dee (Remix)",
         "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Flavors 2",
         "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
       },
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "Te Gusta",
-        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
-      },
-      "artists": [
-        {
-          "name": "Young \"D\"",
-          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "Te Gusta",
-      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1355,22 +1331,26 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "Popor\u00f3",
-        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
+        "name": "Te Gusta",
+        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
       },
       "artists": [
         {
-          "name": "Preto Show",
-          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+          "name": "Young \"D\"",
+          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
         },
         {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
         }
       ],
-      "duration_ms": 169396,
-      "name": "Popor\u00f3",
-      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
+      "duration_ms": 206538,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
     },
     {
       "added_at": "2023-01-13 17:35:26",
@@ -1415,6 +1395,22 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
+        "name": "AFRICAN LOVER",
+        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SOLO CON MI CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
         "name": "LOML (feat. Olamide)",
         "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
@@ -1455,22 +1451,6 @@
     {
       "added_at": "2023-01-13 17:35:26",
       "album": {
-        "name": "AFRICAN LOVER",
-        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SOLO CON MI CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
-    },
-    {
-      "added_at": "2023-01-13 17:35:26",
-      "album": {
         "name": "Mare Mare",
         "url": "https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 197210,
       "name": "Mare Mare",
       "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
+    },
+    {
+      "added_at": "2023-01-13 17:35:26",
+      "album": {
+        "name": "LoLo (Remix) [feat. Farina]",
+        "url": "https://open.spotify.com/album/2x2JPCp6svGwi8zHO6Y0fU"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 166730,
+      "name": "LoLo (Remix) [feat. Farina]",
+      "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
     }
   ],
   "unique_name": "Afro Ritmo",

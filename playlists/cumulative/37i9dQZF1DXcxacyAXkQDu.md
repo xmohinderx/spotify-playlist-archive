@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-830 songs - 2 day 1 hr 19 min
+833 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/track/4q1WaJZoHTtojqDHX8QvaC) | [VAX](https://open.spotify.com/artist/6cQVcprcYDxGM79YmyCkcQ), [Teddy Sky](https://open.spotify.com/artist/6D0UYqXOF2HFQOet85VDKd) | [Fireproof \(feat\. Teddy Sky\)](https://open.spotify.com/album/1vsaHaeuDcnd9YufInpKfp) | 3:11 | 2022-07-08 |  |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [First World Problems](https://open.spotify.com/track/5pk0D7voN6I6LMxxQN3Gep) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [First World Problems](https://open.spotify.com/album/6EIqTH2TYoIUkJMBYBdtv9) | 4:23 | 2022-03-24 | 2022-07-05 |
+| [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 | 2023-01-17 |  |
 | [Float On](https://open.spotify.com/track/6rJUWBi2vx7eIH9xpWLlnw) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Float On](https://open.spotify.com/album/2Eg7IqlvuuG72VUuYhkqB8) | 3:16 | 2021-12-21 |  |
 | [Fly Angel](https://open.spotify.com/track/5WBKRhaotj41GrLwmfyDs7) | [Samuel Scott McCumber](https://open.spotify.com/artist/3kjqCOTD5l4VTHHOzX2W83) | [Fly Angel](https://open.spotify.com/album/6yPR2MXZ9PPWOWHNcvRr1h) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [Fly When I Fall](https://open.spotify.com/track/6lT0DHecA1thspBEZX2X1y) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Fly When I Fall](https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv) | 4:10 | 2021-12-21 | 2022-07-29 |
@@ -479,7 +480,7 @@
 | [My Sweet Refuge](https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man \(Deluxe Edition\)](https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4) | 4:41 | 2022-07-08 |  |
 | [My Sweet Refuge](https://open.spotify.com/track/5WSrFZDktb5vcAaIzA8yTM) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man](https://open.spotify.com/album/21uBF2LXMqVlpKs8FI1Sb4) | 4:41 | 2021-12-21 | 2022-07-29 |
 | [Naked as We Came](https://open.spotify.com/track/1lUdXbhl6u6QMQZRTAhlWW) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/40bJA5hz3vopupCqHK7fJ3) | 2:32 | 2022-03-24 | 2022-04-21 |
-| [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 |  |
+| [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 | 2023-01-17 |
 | [Needles & Pins](https://open.spotify.com/track/6YsIOlnBb3JnF68QWAhWhe) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/1enXA6aO8SpkOjkSEsTyeP) | 3:50 | 2022-02-24 | 2022-07-28 |
 | [Nervous](https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe\)](https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Never Knew](https://open.spotify.com/track/1T0g6ac7Q28IfWAeWGN7I4) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Mexico](https://open.spotify.com/album/7heBUz2kwgoidiFcaplSqF) | 3:40 | 2021-12-21 | 2022-11-13 |
@@ -555,7 +556,8 @@
 | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/0IZXC3mHpIdPZMZratBAfr) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/71niOtZr7nQKgl5sFMEFda) | 3:06 | 2021-12-21 |  |
 | [Pure](https://open.spotify.com/track/67UAImj4r5ZfCwhpsTvn5l) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Pure](https://open.spotify.com/album/561lTJChTJZwqiJLEiGmLe) | 4:11 | 2022-01-07 | 2022-07-24 |
 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 | 2022-03-24 | 2022-04-20 |
-| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2021-12-21 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2021-12-21 | 2023-01-17 |
+| [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2023-01-17 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2021-12-21 |  |
 | [Rainbow](https://open.spotify.com/track/5C1FM56hBj76tK4CFPEi7A) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/2nbaIZHfhRXEkmADZ9jSzG) | 3:51 | 2022-10-07 |  |
 | [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-12-21 | 2022-10-15 |
@@ -634,7 +636,7 @@
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-05-13 |  |
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-03-24 |  |
 | [Sorry](https://open.spotify.com/track/4I31rrRGFCv9OB5ynrVoM8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/4tvxP0caxdRMXVMca0t9uH) | 3:32 | 2022-03-24 | 2022-04-21 |
-| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 |  |
+| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 | 2023-01-17 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-07-08 |  |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |
@@ -643,6 +645,7 @@
 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 | 2023-01-15 |
 | [Stars](https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe) | [Traveling John](https://open.spotify.com/artist/6AfxRBowNEDZpYKmoWcBm9) | [Stars](https://open.spotify.com/album/2OHOBLjEHxYSXIK5S0rbCA) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2022-03-24 | 2022-04-02 |
+| [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2023-01-06 |  |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-12-21 | 2022-12-25 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 | 2022-08-23 |
 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 | 2022-02-24 | 2022-12-25 |

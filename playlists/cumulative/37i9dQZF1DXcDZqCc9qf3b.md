@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Princess Power.
 
-106 songs - 4 hr 30 min
+107 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-08 | 2022-10-13 |
 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 | 2022-04-08 |  |
 | [Music, Music Everywhere!](https://open.spotify.com/track/0Iks9tSmrtVI8kOnMrfmve) | [Jake Gyllenhaal](https://open.spotify.com/artist/2bwGbnyOkPVvEkIH5ePcLa), [John Mulaney](https://open.spotify.com/artist/5K6CrtQfpRipgTDZbaSj7k), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/6voftk1KiRATintCChjvrW) | 5:17 | 2022-04-08 | 2022-07-09 |
+| [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2) | 1:54 | 2023-01-16 |  |
 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz) | 2:36 | 2022-10-12 |  |
 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ) | 2:36 | 2022-06-17 | 2022-11-18 |
 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 | 2022-04-08 |  |

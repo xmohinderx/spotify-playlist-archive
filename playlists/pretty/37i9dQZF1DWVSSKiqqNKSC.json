@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 199033,
+  "num_followers": 199161,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMDViMjJlNDQ4ODFmYjVjOWM4MDFlYTBjNGFjYjk3YzQ2",
+  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMGMzODg1MjBjNzllNjcxM2E0ZjM3MzE4YjYxYWIzNWUw",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -147,6 +147,38 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "De Cuba a Per\u00fa",
         "url": "https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep"
       },
@@ -183,18 +215,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
         }
       ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+      "duration_ms": 396440,
+      "name": "Amor verdadero",
+      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -211,38 +243,6 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "Amor verdadero",
-      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
-        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Mc",
-          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Guachineo",
-      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Contra Todos los Pron\u00f3sticos",
         "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 387973,
       "name": "El Aguila",
       "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
+        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Mc",
+          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Guachineo",
+      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -615,6 +615,26 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Latin Fitness 2015 (Workout Party Music - Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise)",
         "url": "https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Consumelo",
-        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
+        "name": "De La Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "Barbaro Fines Fortes",
+          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Consumelo",
-      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
+      "duration_ms": 302746,
+      "name": "El Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -723,6 +723,42 @@
       "duration_ms": 360957,
       "name": "Qu\u00e9 Sorpresa",
       "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Consumelo",
+        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Consumelo",
+      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 342373,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -747,18 +783,34 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "De La Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
       },
       "artists": [
         {
-          "name": "Barbaro Fines Fortes",
-          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 302746,
-      "name": "El Cuchi Cuchi",
-      "url": "https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4"
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -775,26 +827,6 @@
       "duration_ms": 288506,
       "name": "Temba, Tumba, Timba",
       "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -827,38 +859,6 @@
       "duration_ms": 226873,
       "name": "Represent",
       "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
-        "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "Marcando la Distancia",
-      "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     }
   ],
   "unique_name": "Salsa Cubana",

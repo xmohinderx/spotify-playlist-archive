@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-147 songs - 13 hr 25 min
+148 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 |  |
 | [Industry \(Green Light/Fun Night Breaks Mix\) \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 | 2021-09-01 | 2022-07-28 |
-| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 |  |
+| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 | 2023-01-17 |
 | [It Feels Good](https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [It Feels Good](https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h) | 4:26 | 2021-09-01 | 2022-07-29 |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2021-09-01 |  |
 | [Jerky Rhythm](https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL) | [Erotic Drum Band](https://open.spotify.com/artist/3cziflTbMxH9cQY4RvhtVg) | [Action 78](https://open.spotify.com/album/3O0VpTEdahLcXgx6KJsQlI) | 9:10 | 2021-09-01 | 2022-07-28 |
@@ -104,6 +104,7 @@
 | [People Are All That We Have](https://open.spotify.com/track/6wysLEBaxlsaHvL0FyvD1u) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [People Are All That We Have](https://open.spotify.com/album/05ymzuHJPM2fbhnExw0K4N) | 8:53 | 2021-09-01 | 2022-07-29 |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-09-01 |  |
 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2021-09-01 | 2023-01-06 |
+| [Pool Party Music](https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:07 | 2021-09-01 |  |
 | [Pose](https://open.spotify.com/track/2b06hoCTKogMazNvtbCjQC) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [Pose](https://open.spotify.com/album/2yC5omuXyoEwVSTzJZMcLY) | 4:26 | 2021-09-01 | 2022-07-28 |
 | [Power To The People](https://open.spotify.com/track/0uxohsqS7JLISPsCnWI1gj) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 7:01 | 2021-09-01 | 2022-07-25 |
 | [Pretty Face \- 12" Version](https://open.spotify.com/track/574uq1y82QgKJfAX4LEO1t) | [Stinger J.](https://open.spotify.com/artist/3g9j8j65o6WhNWDlrCY7XP) | [Pretty Face](https://open.spotify.com/album/0a2iikoBJyhdqjZ5a9z6oA) | 6:41 | 2021-09-01 | 2022-07-29 |

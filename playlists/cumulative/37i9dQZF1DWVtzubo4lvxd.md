@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-225 songs - 8 hr 52 min
+226 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 | 2022-04-15 |  |
 | [TIMES](https://open.spotify.com/track/1U7XPqYnmrcodq6JLkAeWO) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 1:22 | 2022-04-15 | 2022-06-16 |
 | [train ride home](https://open.spotify.com/track/57ArrGYCgOg4TkWNFG2SJw) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:18 | 2022-04-15 | 2022-11-25 |
+| [train ride home](https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:18 | 2022-04-15 |  |
 | [Tumbleup](https://open.spotify.com/track/3EHkSFhEGzGav41IolQ6Cd) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Tumbleup](https://open.spotify.com/album/4GhZoS9GOTg9XgqroRTIWu) | 1:55 | 2022-04-15 | 2022-07-29 |
 | [Vanilla Sky](https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Vanilla Sky](https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD) | 2:03 | 2022-04-15 | 2022-07-29 |
 | [VELVET](https://open.spotify.com/track/0ZrNnOjqxHEZK3zSvxfGU2) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [VELVET](https://open.spotify.com/album/0llJUZuRj0zrcOUQRjXcSw) | 2:05 | 2022-04-15 | 2022-07-29 |
@@ -227,7 +228,7 @@
 | [we used to talk every night](https://open.spotify.com/track/0tqIvb0b7WpOYMYJR2Ef38) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/4qSrP99f58y212MoMioGu0) | 2:02 | 2022-04-15 | 2022-12-08 |
 | [what does hiphop mean to you](https://open.spotify.com/track/7qFb8eLt503uCdvhUmlmvS) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [beat tape 06](https://open.spotify.com/album/5zpXXNH6qDDCeLPS6hLO3Y) | 2:03 | 2022-04-15 | 2022-07-25 |
 | [when the sun goes down](https://open.spotify.com/track/6uGuRIuiW7QBnSOuCELiIy) | [Aschen](https://open.spotify.com/artist/2EbcgO69SwHoTLvjsi9OZt) | [when the sun goes down](https://open.spotify.com/album/7el5zexVmDu0HKUf5s3xXH) | 1:48 | 2022-04-15 | 2022-07-29 |
-| [Where I Met You](https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY) | 2:21 | 2022-04-15 |  |
+| [Where I Met You](https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY) | 2:21 | 2022-04-15 | 2023-01-17 |
 | [Where I Met You](https://open.spotify.com/track/2AuHTUSBMMNVHeO93a6n25) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Where I Met You](https://open.spotify.com/album/5ytO2NvW7eW9ABV5RcyvDI) | 2:21 | 2022-04-15 | 2022-07-28 |
 | [Windows](https://open.spotify.com/track/2uoeJVAbt8T7ll0DwuWJUP) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Windows](https://open.spotify.com/album/1QRuZsLFV72Mawubk2QsMe) | 1:10 | 2022-04-15 | 2022-07-29 |
 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 | 2022-04-15 | 2022-07-29 |

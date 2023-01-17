@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+    },
+    {
+      "album": {
         "name": "Dreaming Wide Awake",
         "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 105721,
       "name": "Red",
       "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"

@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53182,
+  "num_followers": 53192,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDQwMmJhN2IxODU1MzNiYTJmNTQ3ZjlmODQwMTRiYzEw",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDBkY2Y0MGE0ZWJlOTEwMGI0MDVjZjQ3OWM5NmU4MDFi",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Dark Folk, Vol.1",
         "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "El Momento Perfecto",
         "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
       },
@@ -223,26 +223,6 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -263,6 +243,26 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Brillando",
         "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "i only want you when i'm fucked up",
-        "url": "https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO"
-      },
-      "artists": [
-        {
-          "name": "Quelle Rox",
-          "url": "https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "i only want you when i'm fucked up",
-      "url": "https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Pa Poderte Ver",
         "url": "https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 166207,
       "name": "Pa Poderte Ver",
       "url": "https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "i only want you when i'm fucked up",
+        "url": "https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO"
+      },
+      "artists": [
+        {
+          "name": "Quelle Rox",
+          "url": "https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "i only want you when i'm fucked up",
+      "url": "https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "miel <3",
-        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "miel <3",
-      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Cualquiera",
         "url": "https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 211169,
       "name": "Cualquiera",
       "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "miel <3",
+        "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "miel <3",
+      "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Planes para Hoy",
+        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Planes para Hoy",
-        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Marinero",
         "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 204562,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 161531,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Los Viernes",
         "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 199386,
       "name": "Los Viernes",
       "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Postre",
-        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Postre",
-      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Mira Ni\u00f1ita",
-        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 268793,
-      "name": "Mira Ni\u00f1ita",
-      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Mira Ni\u00f1ita",
+        "url": "https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 268793,
+      "name": "Mira Ni\u00f1ita",
+      "url": "https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "El Poder del Mar",
-        "url": "https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 276874,
-      "name": "Frontera",
-      "url": "https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 164641,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "El Poder del Mar",
+        "url": "https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 276874,
+      "name": "Frontera",
+      "url": "https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Ojos de Camello",
-        "url": "https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj"
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
       },
       "artists": [
         {
-          "name": "Reno Rojas",
-          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
-        },
-        {
-          "name": "Alex Serhan",
-          "url": "https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF"
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
         }
       ],
-      "duration_ms": 213227,
-      "name": "Ojos de Camello",
-      "url": "https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa"
+      "duration_ms": 178723,
+      "name": "Todo el D\u00eda Loca",
+      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
+        "name": "Ojos de Camello",
+        "url": "https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj"
       },
       "artists": [
         {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        },
+        {
+          "name": "Alex Serhan",
+          "url": "https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Todo el D\u00eda Loca",
-      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
+      "duration_ms": 213227,
+      "name": "Ojos de Camello",
+      "url": "https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa"
     },
     {
       "added_at": "2022-11-11 21:41:34",

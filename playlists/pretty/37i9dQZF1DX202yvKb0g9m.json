@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 72905,
+  "num_followers": 73085,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDljY2M1NmJiMTViNTFmMzA5YThlOGU5OWU5NzhjYTMw",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDFkOWI3MzBlMDc0YzIyZWViZGM2ZTg4ZGIxYWE5ZTgz",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Music and Lights",
-      "url": "https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Rip It Up",
         "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 320413,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Music and Lights",
+      "url": "https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh"
     },
     {
       "added_at": "2021-10-22 11:07:27",

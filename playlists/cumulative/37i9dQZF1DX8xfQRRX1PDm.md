@@ -4,7 +4,7 @@
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Ranveer & Deepika
 
-141 songs - 8 hr 14 min
+142 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Miss Hairan \(From "Heropanti 2"\)](https://open.spotify.com/track/1niXceDRMxRJlj79HIXUhf) | [Tiger Shroff](https://open.spotify.com/artist/3fRSA5zbD43VMmgwW84rOo), [Nisa Shetty](https://open.spotify.com/artist/5mPcXUcwGFVBPnGU63jZaw), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Miss Hairan \(From "Heropanti 2"\)](https://open.spotify.com/album/0GBHjhmhvier79Mmz82JJu) | 3:34 | 2022-04-08 | 2023-01-14 |
 | [Morni Banke \(From "Badhaai Ho"\)](https://open.spotify.com/track/2Wu9PNpLUCBl3W1GaPqkhl) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [Morni Banke \(From "Badhaai Ho"\)](https://open.spotify.com/album/1lTV7wbMeSmLrBOjf42FER) | 3:18 | 2021-11-30 |  |
 | [Mummy Nu Pasand](https://open.spotify.com/track/3T0KcbL448JvlX81gazhAd) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jai Mummy Di](https://open.spotify.com/album/1TMCwsNUq63F8u5RzdBpBC) | 3:04 | 2021-03-16 |  |
+| [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 | 2023-01-16 |  |
 | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW) | 2:56 | 2021-01-29\* |  |
 | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/album/1i4dE3ZSEKUVNA85Lr5nbA) | 3:34 | 2022-03-29 |  |
 | [Naagin](https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Naagin](https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag) | 2:37 | 2021-01-29\* | 2021-04-08 |

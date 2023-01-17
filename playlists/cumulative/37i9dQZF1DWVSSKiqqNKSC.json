@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
@@ -2208,6 +2208,24 @@
       "duration_ms": 342373,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
+    },
+    {
+      "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
     },
     {
       "album": {

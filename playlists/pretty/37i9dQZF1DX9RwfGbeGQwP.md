@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,741 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,077 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -447,7 +447,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 437 | [sloe](https://open.spotify.com/track/2CHP4QnEwOIPCOmtTEKZH3) | [static breather](https://open.spotify.com/artist/7Cs5V32aCaZI0kSYXSk30A) | [sloe](https://open.spotify.com/album/2lCN8iMb7UsSYkJyglOWBg) | 1:47 |
 | 438 | [Elements](https://open.spotify.com/track/0uNrnth4JqQOXiKn1ygieq) | [Jonny Mysto](https://open.spotify.com/artist/2zZdmQJgvvy3lOMyQUx8Cv) | [Elements](https://open.spotify.com/album/2BQZYRwu1R15b6q3DOq0cG) | 1:59 |
 | 439 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 |
-| 440 | [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 |
+| 440 | [DRS Train](https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [DRS Train](https://open.spotify.com/album/4zH6GmLfiVbrk36Ab0MyvG) | 1:50 |
 | 441 | [Du Bon Pain](https://open.spotify.com/track/2ZTZ2Wi5D6EbFbkF4Gtn3D) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Du Bon Pain](https://open.spotify.com/album/7bsFmQLW9EBELlsTWOTJrN) | 1:50 |
 | 442 | [mosaic maker](https://open.spotify.com/track/3oOFrBFkh8vvEOhBgzB9PR) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [mosaic maker](https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR) | 2:31 |
 | 443 | [Omakase](https://open.spotify.com/track/75eiia6TRFAdCyuOPXz5pu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Omakase](https://open.spotify.com/album/7wJG3t1ysfns8bi4mI4cLX) | 2:31 |

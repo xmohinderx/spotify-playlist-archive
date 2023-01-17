@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Paul Carrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,146 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,182 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 47 | [Cryin' Won´t Help You](https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Cryin’ Won’t Help You](https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO) | 4:29 |
 | 48 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 |
 | 49 | [Rondo Arménien](https://open.spotify.com/track/32kaDw2jHXYRv6kzdO04fP) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [Rondo Arménien](https://open.spotify.com/album/0OC1TmbTXnMP46k0SmZ7TT) | 3:00 |
+| 50 | [Trucmuche](https://open.spotify.com/track/3NW4eGNqozQfGVV7sFzKVo) | [Samuel Strouk](https://open.spotify.com/artist/12h3jiJmfpd9NK2FTN9VYy), [Jérémie Arranger](https://open.spotify.com/artist/1M6MezxT5xyINMC8egxjqx), [François Salque](https://open.spotify.com/artist/0fW8GvidjXGHw0xy7xXTJJ), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Trucmuche](https://open.spotify.com/album/755vMWmkmZKIJ9FCaE4exf) | 4:02 |
 
-Snapshot ID: `MTY3MzU2NDQ2MCwwMDAwMDAwMGRmMWQ4YjYxYmZiM2ZmMmEyZmU4YTQ2Y2Y5YmIyMjgy`
+Snapshot ID: `MTY3Mzg2Mjk3NywwMDAwMDAwMGExYzc4MWM2ZjFmNmJjODdmM2E4YmM5OWU0OGYwZmY4`

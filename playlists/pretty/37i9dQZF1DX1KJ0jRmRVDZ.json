@@ -1,15 +1,15 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 73519,
+  "num_followers": 73649,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NjM1NCwwMDAwMDAwMDRmOGY0MWIyZjJhODhlMGU4MmQyYzg3ZThjNGQ3ODQw",
+  "snapshot_id": "MTY3MzM2NjM1NCwwMDAwMDAwMGQ4ZWNiM2YzMjE5MzA5ZWJjNDI4M2Q3ZjQ4ZDU1YzRm",
   "tracks": [
     {
-      "added_at": "2023-01-16 01:09:46",
+      "added_at": "2023-01-17 01:04:01",
       "album": {
         "name": "Bokurano",
         "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
     },
     {
-      "added_at": "2023-01-16 01:09:46",
+      "added_at": "2023-01-17 01:04:01",
       "album": {
         "name": "Warauna!",
         "url": "https://open.spotify.com/album/2bB5INyPxfWwVeFg5Y7fIO"
@@ -487,54 +487,6 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "Honjitsu no Shotai",
-        "url": "https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq"
-      },
-      "artists": [
-        {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Honjitsu no Shotai",
-      "url": "https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
         "name": "Forgery",
         "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
       },
@@ -567,6 +519,54 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
+        "name": "Honjitsu no Shotai",
+        "url": "https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Honjitsu no Shotai",
+      "url": "https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
         "name": "Rebellion",
         "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
       },
@@ -579,58 +579,6 @@
       "duration_ms": 178064,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 249273,
-      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
-        "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        },
-        {
-          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
-        }
-      ],
-      "duration_ms": 217429,
-      "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
-      "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
-        "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
-        "url": "https://open.spotify.com/album/4CshPlm8d2bqFetd98dfSQ"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u8c37\u5fd7\u9f8d",
-          "url": "https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -651,18 +599,34 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u30e9\u30f4\u30a3 (\u3059\u308a\u3043 Ver.)",
-        "url": "https://open.spotify.com/album/3ZFcnCHeDpf7W65zhyuGBM"
+        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
       },
       "artists": [
         {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 180000,
-      "name": "\u30e9\u30f4\u30a3 - \u3059\u308a\u3043 ver.",
-      "url": "https://open.spotify.com/track/4KFPgXmv9DaAOud3uEp9bJ"
+      "duration_ms": 249273,
+      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/4CshPlm8d2bqFetd98dfSQ"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u8c37\u5fd7\u9f8d",
+          "url": "https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "\u7a7a\u6d1e\u30b5\u30a4\u30dc\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/1AItWfHcNkmXpvTgxt33xp"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -683,18 +647,18 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "Rain, Rain Go Away!",
-        "url": "https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg"
+        "name": "\u30e9\u30f4\u30a3 (\u3059\u308a\u3043 Ver.)",
+        "url": "https://open.spotify.com/album/3ZFcnCHeDpf7W65zhyuGBM"
       },
       "artists": [
         {
-          "name": "Tota",
-          "url": "https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F"
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
         }
       ],
-      "duration_ms": 254139,
-      "name": "Rain, Rain Go Away!",
-      "url": "https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4"
+      "duration_ms": 180000,
+      "name": "\u30e9\u30f4\u30a3 - \u3059\u308a\u3043 ver.",
+      "url": "https://open.spotify.com/track/4KFPgXmv9DaAOud3uEp9bJ"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -711,6 +675,42 @@
       "duration_ms": 221643,
       "name": "Shirayuki",
       "url": "https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "Rain, Rain Go Away!",
+        "url": "https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F"
+        }
+      ],
+      "duration_ms": 254139,
+      "name": "Rain, Rain Go Away!",
+      "url": "https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
+        "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
+      "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "THE BOOK 2",
-        "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
+        "name": "\u8272\u5f69",
+        "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 201626,
-      "name": "\u3082\u3057\u3082\u547d\u304c\u63cf\u3051\u305f\u3089",
-      "url": "https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6"
+      "duration_ms": 181266,
+      "name": "\u611b\u3092\u89e3\u304f",
+      "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "Bubble (feat. Uta)",
-        "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        },
-        {
-          "name": "Uta",
-          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Bubble (feat. Uta)",
-      "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
-    },
-    {
-      "added_at": "2023-01-05 15:00:00",
-      "album": {
         "name": "\u9283\u306e\u90e8\u54c1",
         "url": "https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB"
       },
@@ -811,6 +791,22 @@
       "duration_ms": 154823,
       "name": "\u9283\u306e\u90e8\u54c1",
       "url": "https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw"
+    },
+    {
+      "added_at": "2023-01-05 15:00:00",
+      "album": {
+        "name": "\u707c\u71b1\u306b\u3066\u7d14\u60c5(wii-wii-woo)",
+        "url": "https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 228220,
+      "name": "\u707c\u71b1\u306b\u3066\u7d14\u60c5(wii-wii-woo)",
+      "url": "https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7"
     },
     {
       "added_at": "2023-01-05 15:00:00",
@@ -831,18 +827,22 @@
     {
       "added_at": "2023-01-05 15:00:00",
       "album": {
-        "name": "\u8272\u5f69",
-        "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
+        "name": "Bubble (feat. Uta)",
+        "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Uta",
+          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
         }
       ],
-      "duration_ms": 181266,
-      "name": "\u611b\u3092\u89e3\u304f",
-      "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
+      "duration_ms": 226874,
+      "name": "Bubble (feat. Uta)",
+      "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
     },
     {
       "added_at": "2023-01-05 15:00:00",

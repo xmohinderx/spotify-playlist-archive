@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-201 songs - 16 hr 19 min
+202 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,9 +118,10 @@
 | [Mala Mujer](https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Colección de Oro](https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh) | 3:52 | 2020-08-25 | 2022-11-13 |
 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 | 2020-08-25 |  |
 | [Marcando La Distancia](https://open.spotify.com/track/0txizV883uXWqJEyxxJHrp) | [Manolito Simonet y su Trabuco](https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv) | 5:41 | 2020-08-25 | 2022-07-29 |
-| [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 | 2020-08-25 |  |
+| [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 | 2020-08-25 | 2023-01-17 |
 | [Me Dicen Cuba](https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 4:58 | 2020-08-25 |  |
 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 | 2020-08-25 |  |
+| [Me Quedo Contigo](https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i) | 3:21 | 2020-08-25 |  |
 | [Me Quedo Contigo](https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6) | 3:21 | 2020-08-25 | 2023-01-14 |
 | [Me Quedo Contigo](https://open.spotify.com/track/46vkxSDE2mKEDjRjt48gUj) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/16QGmbXuGq7E8lSXkriGdS) | 3:21 | 2020-08-25 | 2022-07-21 |
 | [Me Quedo Contigo](https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Amor Bonito](https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI) | 3:23 | 2020-08-25 | 2022-12-17 |

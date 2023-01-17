@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,726 likes - 157 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,730 likes - 157 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 60 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 |
 | 61 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 |
 | 62 | [Rollercoaster](https://open.spotify.com/track/1fowwO5FLJpv7Suxf0vOC6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [whinn](https://open.spotify.com/artist/3R9yGzKCvht9vUyRyV3tU9), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Rollercoaster](https://open.spotify.com/album/3AyZzhTDxJ0sl7XECu6NUL) | 3:12 |
-| 63 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 |
+| 63 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 64 | [But, I'm Tied](https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [But, I'm Tied](https://open.spotify.com/album/5OJiEIOVS1vJiLDW7oRpvo) | 2:30 |
 | 65 | [Paradise \- Remix](https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise \(Remix\)](https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu) | 3:16 |
 | 66 | [Holy Sun](https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM) | 4:23 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 156 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 |
 | 157 | [Omw](https://open.spotify.com/track/7CanFKpPTEgaxqIu6RXBIf) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 3:58 |
 
-Snapshot ID: `MTY3MzUxOTUzMiwwMDAwMDAwMDYxNGRhMTgyN2MyYmYxYTBkN2QxZWQwMjI3NDljOGYz`
+Snapshot ID: `MTY3MzUxOTUzMiwwMDAwMDAwMDY5MDAwYTNhMjZjMjhhNDIzZjAwODE4N2FiYjM2NGMw`

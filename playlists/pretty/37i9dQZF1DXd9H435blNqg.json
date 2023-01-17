@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 30823,
+  "num_followers": 30891,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGQyZDQ2OGE2ZDlmZTRkM2JhODgxM2RhNjUyZGU3MGNk",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDZmYWQwNWIzYzczODI3M2FkMjU1NzQ3NTAxYjQ4Yzk3",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Stay Wild",
-        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Stay Wild",
-      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Desert Dreams",
         "url": "https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Stay Wild",
+        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Stay Wild",
+      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "A Light That Never Dies",
         "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 173366,
       "name": "The Ballad of Johnny",
       "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Satellite Man",
+        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
+      },
+      "artists": [
+        {
+          "name": "Satellite and the Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        }
+      ],
+      "duration_ms": 180432,
+      "name": "Satellite Man",
+      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -191,22 +207,6 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Satellite Man",
-        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
-      },
-      "artists": [
-        {
-          "name": "Satellite and the Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
-        }
-      ],
-      "duration_ms": 180432,
-      "name": "Satellite Man",
-      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 185597,
       "name": "Get Gone",
       "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Sand Castles",
         "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Fix Your Face",
+      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:45:43",

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1015113,
+  "num_followers": 1015688,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDJhZTY0MTkwY2U1ZGE1ZWM0MWRhMzYwODBkZTU2NzY1",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDE4YTFjOWUwMGUzMTExNzE3ZjI4MTdjM2M5OWZiYjEz",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -337,38 +337,6 @@
       "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "To Know You Is To Love You",
@@ -387,6 +355,38 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -419,18 +435,18 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Love Struck Baby",
-      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -463,22 +479,6 @@
       "duration_ms": 314880,
       "name": "Be Careful With a Fool",
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Live And Well",
-        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 517400,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Walking By Myself",
-      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "My Feeling For the Blues",
@@ -627,6 +611,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Walking By Myself",
+      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 399173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Two Bugs and a Roach",
@@ -931,6 +915,22 @@
       "duration_ms": 183026,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 399173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
     },
     {
       "added_at": "2021-06-18 04:29:20",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Son Seals Blues Band",
@@ -1123,6 +1107,22 @@
       "duration_ms": 362400,
       "name": "Now That I'm Down",
       "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
     },
     {
       "added_at": "2018-03-29 19:44:07",

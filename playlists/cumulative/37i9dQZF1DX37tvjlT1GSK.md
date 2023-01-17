@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Ulices Chaidez en portada.
 
-174 songs - 9 hr 23 min
+175 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,8 +133,9 @@
 | [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 | 2022-07-01 | 2022-07-19 |
 | [Porque No Esta De Mas \(En Vivo\)](https://open.spotify.com/track/7KYx8ouGzjSCPIL9cNhO4Y) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Porque No Esta De Mas \(En Vivo\)](https://open.spotify.com/album/6B0WdTGPO2O4XlluKcnc5K) | 3:48 | 2022-11-03 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-18 |  |
+| [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 | 2023-01-13 |  |
 | [Que Vas a Hacer](https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Que Vas a Hacer](https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF) | 3:05 | 2022-12-02 |  |
-| [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-04-15 |  |
+| [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 | 2022-04-15 | 2023-01-17 |
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-07-01 | 2022-07-29 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2021-12-27 |  |
 | [Quién Se Apunta](https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Quién Se Apunta](https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO) | 3:13 | 2022-05-13 |  |

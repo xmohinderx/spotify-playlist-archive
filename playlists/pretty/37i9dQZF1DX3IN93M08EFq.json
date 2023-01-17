@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58122,
+  "num_followers": 58123,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGY2OGFhNmQ1MDNiYzA2NWE5NjA1NWU4Yjc3YTY3ZjYw",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGZmMWQ1MzllMzI3NGE1NjZhNDExZDdlNGVkNTA3ZmRk",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121880,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "D.A.N.C.E - Radio Edit",
-      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "The Essential Paul Simon",
         "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Up the Bracket",
-        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 160280,
-      "name": "Time for Heroes",
-      "url": "https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz"
+      "duration_ms": 211880,
+      "name": "D.A.N.C.E - Radio Edit",
+      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -651,6 +635,22 @@
       "duration_ms": 155373,
       "name": "Man Must Dance",
       "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Up the Bracket",
+        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Time for Heroes",
+      "url": "https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz"
     },
     {
       "added_at": "2021-06-15 09:25:05",

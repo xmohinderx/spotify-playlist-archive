@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,083 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,302 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 40 | [\(One of Those\) Crazy Girls](https://open.spotify.com/track/15aWN1NkuRKKMRJZqgmFQ3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:32 |
 | 41 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 
-Snapshot ID: `Mjc4OTY1NjQsMDAwMDAwMDA2NjhlZGU3YzRlZGQ5YzA4Y2VkZTg3OGVjMTY4NzZkYg==`
+Snapshot ID: `Mjc4OTc5OTIsMDAwMDAwMDA2YzJlOTRhNjI2NGQ0NDZlOGIyZDk4YjVhNjEyNmMzMA==`

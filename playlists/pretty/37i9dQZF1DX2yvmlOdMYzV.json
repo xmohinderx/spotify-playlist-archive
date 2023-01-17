@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 840320,
+  "num_followers": 841022,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1MTg3MywwMDAwMDAwMDI3YmI3NzUxMmNiNzFhMzgxNDc2YzE4ZWExNWNjNzFm",
+  "snapshot_id": "MTY3MzU1MTg3MywwMDAwMDAwMGYyMzA3ODEyYzE1MDFlMWQ2MzI3MDExY2M4NTI1YTg2",
   "tracks": [
     {
       "added_at": "2023-01-12 19:31:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Lost In June - EP",
-        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 239767,
-      "name": "Heavenly Mother",
-      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
+      "duration_ms": 181831,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -495,6 +479,22 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Lost In June - EP",
+        "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 239767,
+      "name": "Heavenly Mother",
+      "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "aiMless",
-        "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 200214,
-      "name": "Waiting For (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Flight 99",
         "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "aiMless",
+        "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 200214,
+      "name": "Waiting For (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "Magic 8ball",
+        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 263554,
+      "name": "Where U Goin' Tonight?",
+      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "Magic 8ball",
-        "url": "https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 263554,
-      "name": "Where U Goin' Tonight?",
-      "url": "https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 237699,
       "name": "Fair Chance",
       "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "You Can't Steal My Joy",
+        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 154426,
+      "name": "Space is the Place",
+      "url": "https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1071,34 +1087,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "You Can't Steal My Joy",
-        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
+        "name": "Golden pt. 2 (feat. Mereba)",
+        "url": "https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 154426,
-      "name": "Space is the Place",
-      "url": "https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        },
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time - Demo",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+      "duration_ms": 137647,
+      "name": "Golden pt. 2 (feat. Mereba)",
+      "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Golden pt. 2 (feat. Mereba)",
-        "url": "https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy"
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
         }
       ],
-      "duration_ms": 137647,
-      "name": "Golden pt. 2 (feat. Mereba)",
-      "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time - Demo",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 225541,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "No Romance",
-        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 237235,
-      "name": "No Romance",
-      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "An Orange Colored Day",
         "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 161800,
       "name": "Letters from the Imaginary",
       "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "No Romance",
+        "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 237235,
+      "name": "No Romance",
+      "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
     },
     {
       "added_at": "2023-01-12 19:31:13",

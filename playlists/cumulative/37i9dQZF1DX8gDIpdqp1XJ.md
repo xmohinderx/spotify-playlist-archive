@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-657 songs - 1 day 19 hr 49 min
+658 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Fever](https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq) | 2:54 | 2022-09-02 |  |
 | [Fiddle Lake](https://open.spotify.com/track/4tpnfEPUy0N3CLw8RN5jky) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Fiddle Lake](https://open.spotify.com/album/1kMZIZxQmPCDr1mKUcJQcD) | 3:36 | 2022-04-20 | 2022-06-04 |
 | [Find My Way \(feat\. Beck\)](https://open.spotify.com/track/4c8smavpayWzKMgLze3m7w) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 4:53 | 2021-06-04 | 2022-07-30 |
+| [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 |  |
 | [Find Yourself](https://open.spotify.com/track/4a0f7rpm3Z8hgrOR1IZXxb) | [Jacco Gardner](https://open.spotify.com/artist/5RfKXXQQn2OhZiT5iSggZn) | [Hypnophobia](https://open.spotify.com/album/3PDgKBSnMy41T0IDRqIudq) | 3:34 | 2021-04-02 | 2022-04-15 |
 | [Fine Dining](https://open.spotify.com/track/2FN79Ig7uR7ZUmI7lzOx6U) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Fine Dining](https://open.spotify.com/album/1Yc49Ui5FLyXXwWVl9xOda) | 2:35 | 2021-06-04 | 2022-04-16 |
 | [First Class](https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:46 | 2022-04-20 | 2022-07-12 |
@@ -458,7 +459,7 @@
 | [Plane Ride](https://open.spotify.com/track/7ptgy3upIcNWTo5jPdRtAG) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Plane Ride](https://open.spotify.com/album/4W8ZoUgykmVYpOJQTOXu9e) | 3:59 | 2021-04-02 | 2022-04-17 |
 | [Polvo de diamantes](https://open.spotify.com/track/1nin943ESpUGkceZE0hueD) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [Polvo de diamantes](https://open.spotify.com/album/2rJcykZe2isoW44xBKjynM) | 5:16 | 2021-09-10 | 2022-04-18 |
 | [Post Mortem Debugging](https://open.spotify.com/track/6QjieXJmF0K9GdpREPxUl9) | [Cactus?](https://open.spotify.com/artist/5Hi8a6gHwKemLmHVXMkCif) | [Post Mortem Debugging](https://open.spotify.com/album/7Bb8M9dPhPr4mjINqs0fm4) | 2:49 | 2021-04-02 | 2022-04-20 |
-| [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-03-08 |  |
+| [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-03-08 | 2023-01-17 |
 | [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 | 2021-04-02 | 2022-07-10 |
 | [Prester John](https://open.spotify.com/track/0VDJzLBQw9SABBURyQjDvW) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Time Skiffs](https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv) | 6:29 | 2022-07-11 | 2022-09-24 |
 | [Projector](https://open.spotify.com/track/0A4qt2A6Ay5LfI2sPMPYPP) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/77QwEK7kLbyAcILjcAB6Nt) | 4:25 | 2021-10-08 | 2022-07-09 |

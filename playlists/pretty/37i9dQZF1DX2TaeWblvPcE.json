@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 5619,
+  "num_followers": 5629,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGZjY2QwMmJhNzUwZGY5YTRiNTJjNjljZjMwNzdiMWIz",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDM5OTRkNjA3NWUyMTQ3NzNiMjNlYjk2NDI4Njg5MGVm",
   "tracks": [
     {
       "added_at": "2022-03-28 09:08:38",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 318360,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
         "name": "Heart Shaker",
         "url": "https://open.spotify.com/album/2vmqxFc48LkzwJXbY5Rhw7"
       },
@@ -119,38 +135,6 @@
       "duration_ms": 251517,
       "name": "Stardust love song (Inst.)",
       "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
-        "name": "The Best of BTS | Piano Cover Collection",
-        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 318360,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset - Instrumental",
-      "url": "https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -187,6 +171,26 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "duration_ms": 290078,
+      "name": "Sad Ending",
+      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
         "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
       },
@@ -219,22 +223,18 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
       },
       "artists": [
         {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 290078,
-      "name": "Sad Ending",
-      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+      "duration_ms": 216734,
+      "name": "Sunset - Instrumental",
+      "url": "https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -271,6 +271,26 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "duration_ms": 202566,
+      "name": "Be a Flame",
+      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
         "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
         "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
@@ -283,22 +303,6 @@
       "duration_ms": 170746,
       "name": "Say I Love U - Instrumental",
       "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Please Don't Cry - Instrumental",
-      "url": "https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -335,22 +339,18 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47"
       },
       "artists": [
         {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 202566,
-      "name": "Be a Flame",
-      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
+      "duration_ms": 235293,
+      "name": "Please Don't Cry - Instrumental",
+      "url": "https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Orbit - Instrumental",
-      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
         "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 232055,
       "name": "Feel Special (Sad Ver.)",
       "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 253045,
-      "name": "With My Tears - Instrumental",
-      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 253045,
+      "name": "With My Tears - Instrumental",
+      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
         "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
         "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "Romance is a Bonus Book OST Part.4",
-        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
       },
       "artists": [
         {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
         }
       ],
-      "duration_ms": 227936,
-      "name": "I pray (Inst.) (Instrumental)",
-      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
+      "duration_ms": 229600,
+      "name": "I Fall In Love - Instrumental",
+      "url": "https://open.spotify.com/track/42QFImERzyMNzljmaOLYrK"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
         }
       ],
-      "duration_ms": 229600,
-      "name": "I Fall In Love - Instrumental",
-      "url": "https://open.spotify.com/track/42QFImERzyMNzljmaOLYrK"
+      "duration_ms": 227936,
+      "name": "I pray (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
-      },
-      "artists": [
-        {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
-        }
-      ],
-      "duration_ms": 298699,
-      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
-      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 245367,
       "name": "Bravo, My Life! - Instrumental",
       "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 298699,
+      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
+      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
     },
     {
-      "added_at": "2023-01-16 00:59:39",
+      "added_at": "2023-01-17 00:57:29",
       "album": {
         "name": "K-pop Reimaginings",
         "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 418375,
+      "name": "EYES , NOSE ,LIPS - Piano Version",
+      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
+    },
+    {
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
         "name": "When the Camellia Blooms (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/2KNWyrKE9ltZRXUzO7x0tw"
       },
@@ -1235,38 +1251,6 @@
     {
       "added_at": "2022-03-28 09:08:38",
       "album": {
-        "name": "I Still Need You",
-        "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
-      },
-      "artists": [
-        {
-          "name": "Panini Brunch",
-          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "I Still Need You - Instrumental",
-      "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 418375,
-      "name": "EYES , NOSE ,LIPS - Piano Version",
-      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
         "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
       },
@@ -1281,7 +1265,23 @@
       "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
     },
     {
-      "added_at": "2023-01-16 00:59:39",
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
+        "name": "I Still Need You",
+        "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
+      },
+      "artists": [
+        {
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "I Still Need You - Instrumental",
+      "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
+    },
+    {
+      "added_at": "2023-01-17 00:57:29",
       "album": {
         "name": "K-pop Reimaginings",
         "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
@@ -1313,7 +1313,23 @@
       "url": "https://open.spotify.com/track/2lLLwAQTq5P4yCj8qTw0GI"
     },
     {
-      "added_at": "2023-01-16 00:59:39",
+      "added_at": "2022-03-28 09:08:38",
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "added_at": "2023-01-17 00:57:29",
       "album": {
         "name": "K-pop Reimaginings",
         "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
@@ -1329,7 +1345,7 @@
       "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
-      "added_at": "2023-01-16 00:59:39",
+      "added_at": "2023-01-17 00:57:29",
       "album": {
         "name": "K-pop Reimaginings",
         "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
@@ -1356,9 +1372,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 314345,
-      "name": "LOVE SCENARIO - Piano Version",
-      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+      "duration_ms": 322781,
+      "name": "LET'S NOT FALL IN LOVE - Piano Version",
+      "url": "https://open.spotify.com/track/2hDtzaVii5jWrzYt105chl"
     },
     {
       "added_at": "2022-03-28 09:08:38",
@@ -1375,22 +1391,6 @@
       "duration_ms": 258292,
       "name": "DON'T WANNA CRY - Piano Version",
       "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
-    },
-    {
-      "added_at": "2022-03-28 09:08:38",
-      "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 322781,
-      "name": "LET'S NOT FALL IN LOVE - Piano Version",
-      "url": "https://open.spotify.com/track/2hDtzaVii5jWrzYt105chl"
     },
     {
       "added_at": "2022-03-28 09:08:38",

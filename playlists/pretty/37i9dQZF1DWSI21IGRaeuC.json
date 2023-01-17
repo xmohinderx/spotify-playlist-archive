@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 13803,
+  "num_followers": 13856,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGI5MzBmNGY0OTliM2M5OWY4YjQxMDdjZjNmOWY1OWUx",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGEyNjM4NDMyNDQ5ZGE5ZGM0ZTI0ZmY4ZGM0NjIzMmU0",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Alley Rave",
@@ -549,6 +533,22 @@
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "YAP EP",
@@ -563,22 +563,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2022-07-08 17:12:43",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 382439,
-      "name": "Femme",
-      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -601,6 +585,38 @@
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
     },
     {
+      "added_at": "2022-07-08 17:12:43",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 382439,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -619,22 +635,6 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2022-06-03 18:11:27",

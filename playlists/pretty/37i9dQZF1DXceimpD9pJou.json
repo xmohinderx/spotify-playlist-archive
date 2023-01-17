@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lily Goodman & DOE",
-  "num_followers": 115361,
+  "num_followers": 115440,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMDIwNTYzODE5MTMyOTNjMGQ2MDYxMTA3NDFmMTg0ZWQ5",
+  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMDQxZDQ4YjZiYTBhODU1YTlkM2RlNjJjMzY5MTFmMWMx",
   "tracks": [
     {
       "added_at": "2023-01-13 07:19:44",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Te seguir\u00e9",
+        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 302149,
+      "name": "Te seguir\u00e9",
+      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Dios Es la Vuelta",
         "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Te seguir\u00e9",
-        "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
+        "name": "Cantamos Aleluya",
+        "url": "https://open.spotify.com/album/55QVEwg1mR9RlVruia1OdW"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "Gerson Jonatan",
+          "url": "https://open.spotify.com/artist/1RisNAkda3zmR5N98baXzn"
         }
       ],
-      "duration_ms": 302149,
-      "name": "Te seguir\u00e9",
-      "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+      "duration_ms": 211343,
+      "name": "Cantamos Aleluya",
+      "url": "https://open.spotify.com/track/695DcQ2eOukDMeu2rorNEa"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Cantamos Aleluya",
-        "url": "https://open.spotify.com/album/55QVEwg1mR9RlVruia1OdW"
-      },
-      "artists": [
-        {
-          "name": "Gerson Jonatan",
-          "url": "https://open.spotify.com/artist/1RisNAkda3zmR5N98baXzn"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Cantamos Aleluya",
-      "url": "https://open.spotify.com/track/695DcQ2eOukDMeu2rorNEa"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Esperar\u00e9 en ti SE\u00d1OR",
         "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 313222,
       "name": "Esperar\u00e9 en ti SE\u00d1OR",
       "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "ETERNOS",
+        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 159508,
+      "name": "ETERNOS",
+      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -739,22 +755,6 @@
       "duration_ms": 169000,
       "name": "Alegre",
       "url": "https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "ETERNOS",
-        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 159508,
-      "name": "ETERNOS",
-      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Pa' que Son Las Guitarras",
-        "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos",
-          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
-        },
-        {
-          "name": "Grupo Respaldo",
-          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
-        }
-      ],
-      "duration_ms": 193956,
-      "name": "Pa' que Son Las Guitarras",
-      "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Yahweh Se Manifestar\u00e1",
         "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 204458,
       "name": "rosa de amor",
       "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "Pa' que Son Las Guitarras",
+        "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
+        },
+        {
+          "name": "Grupo Respaldo",
+          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
+        }
+      ],
+      "duration_ms": 193956,
+      "name": "Pa' que Son Las Guitarras",
+      "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Yo Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 197498,
+      "name": "Yo estuve ah\u00ed",
+      "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Su Sangre",
         "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Yo Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 197498,
-      "name": "Yo estuve ah\u00ed",
-      "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Sal y Vive",
         "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Presumirte",
-        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
-        }
-      ],
-      "duration_ms": 185494,
-      "name": "Presumirte",
-      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Bendecio",
         "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "1996 (En Vivo)",
-        "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
+        "name": "Presumirte",
+        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
       },
       "artists": [
         {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
         }
       ],
-      "duration_ms": 358665,
-      "name": "Hay una Esperanza - En Vivo",
-      "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"
+      "duration_ms": 185494,
+      "name": "Presumirte",
+      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "1996 (En Vivo)",
+        "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "duration_ms": 358665,
+      "name": "Hay una Esperanza - En Vivo",
+      "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Naci\u00f3 El Salvador",
         "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 227897,
       "name": "Naci\u00f3 El Salvador",
       "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "El Robo",
-        "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        },
-        {
-          "name": "Disc\u00edpulo the blessed",
-          "url": "https://open.spotify.com/artist/1SHizpkWESQzIMJrTotQsD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "El Robo",
-      "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1083,6 +1063,26 @@
       "duration_ms": 206392,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "El Robo",
+        "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Disc\u00edpulo the blessed",
+          "url": "https://open.spotify.com/artist/1SHizpkWESQzIMJrTotQsD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "El Robo",
+      "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
     },
     {
       "added_at": "2023-01-13 07:19:44",

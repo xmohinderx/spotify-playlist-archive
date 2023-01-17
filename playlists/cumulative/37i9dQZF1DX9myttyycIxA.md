@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Miss Grit
 
-770 songs - 1 day 20 hr 2 min
+771 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Dizzy](https://open.spotify.com/track/3z9BIZNLWWGlta78pY2kd2) | [Tennis System](https://open.spotify.com/artist/2ChSBG1Njjt2SQ2Lt5dziF) | [Autophobia](https://open.spotify.com/album/4GJULEg4ykZYEt5lfq6Fdp) | 3:37 | 2022-05-06 | 2022-07-09 |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-02 | 2022-10-14 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-05 | 2022-04-29 |
+| [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-13 |  |
 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 | 2022-08-17 |  |
 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 | 2022-10-28 |  |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |
@@ -510,7 +511,7 @@
 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 | 2022-10-21 |  |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-10 | 2022-11-11 |
 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 | 2022-07-08 | 2022-09-24 |
-| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 |  |
+| [One Day](https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/0dGR8p2HbuqWS5F7fdxnXU) | 4:27 | 2022-05-24 | 2023-01-17 |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-22 |  |
 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 | 2021-11-12 | 2022-04-20 |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-09-03 | 2022-03-27 |

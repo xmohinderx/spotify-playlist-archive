@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Jasper Tygner
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,039 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,090 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 22 | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 |
 | 23 | [Can't Stop Thinking About You](https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Can’t Stop Thinking About You](https://open.spotify.com/album/75HTnkSTvIf4r4UtOjRLKo) | 3:45 |
 | 24 | [Massive](https://open.spotify.com/track/7cbzuRgdV64qeeG1iYzuxz) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Massive](https://open.spotify.com/album/2AuYnhDnzFPzWuqq0hAgRv) | 2:52 |
-| 25 | [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 |
+| 25 | [Clara \(the night is dark\)](https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:38 |
 | 26 | [I Love Me](https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [I Love Me](https://open.spotify.com/album/4MwQFH45LvWQUdFQbT1cIF) | 3:25 |
 | 27 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 |
 | 28 | [Hide & Seek](https://open.spotify.com/track/6vnPFsCT41OXitO00YmthV) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Hide & Seek](https://open.spotify.com/album/4t6z31agWvxw2UQm535hCF) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 79 | [Speedy Gs](https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Speedy Gs](https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo) | 3:46 |
 | 80 | [Mirage](https://open.spotify.com/track/2XMtuYlrbRPmQJUlR3vrvb) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Mirage](https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc) | 3:38 |
 
-Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMDMxZTM3ODM0NmU0Y2EzZDFmODAwYzY2M2YyMjk5NGMw`
+Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMGRhNTRhM2E1YTE3YjdhN2JlYTAyYjdkZjgwMzRjZTcw`

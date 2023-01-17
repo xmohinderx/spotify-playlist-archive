@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Américo portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,818 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,862 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 18 | [La Suavecita \- En Vivo](https://open.spotify.com/track/5WQKHn081d3EPjvwWVykq1) | [Tam Y Tex](https://open.spotify.com/artist/1oSgaSJIKnhKXA2o8s5fdQ) | [La Suavecita \(En Vivo\)](https://open.spotify.com/album/1LuSlHNNJ8xTvJNje6ukDJ) | 4:07 |
 | 19 | [Tu Carcel](https://open.spotify.com/track/7MIcKNbuTio8e72o21uxoO) | [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr) | [Tu Carcel](https://open.spotify.com/album/6QBzX3IxTcpIOtr7tPUskG) | 4:32 |
 | 20 | [La Pollera Colorá](https://open.spotify.com/track/3RfvId97bsH43x5L9aLUUP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Cumbia Sobre el Mar](https://open.spotify.com/album/3GK8NOMS3bnYxPhCS4QzkH) | 1:00 |
-| 21 | [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 |
+| 21 | [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 |
 | 22 | [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 |
 | 23 | [Mix Corazón de Piedra \(Sé Apagó el Amor/Espinas y Dolor/Corazon Piedra\)](https://open.spotify.com/track/1Ubp8F88DBbJhAFSD3qxog) | [Corazon Sensual](https://open.spotify.com/artist/2ShsVLkEsU1qNrA5GvSUZB) | [Mix Corazón de Piedra \(Sé Apagó el Amor/Espinas y Dolor/Corazon Piedra\)](https://open.spotify.com/album/5TXDfW7NdMHacGMtzgZYLg) | 7:18 |
 | 24 | [No Te Ilusiones Conmigo](https://open.spotify.com/track/0P62U7TX9ja46t94ywzqPP) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Roberto Blades](https://open.spotify.com/artist/5Uo0AosPDGZ5J2fz5lY4dI) | [No Te Ilusiones Conmigo](https://open.spotify.com/album/0ZrkZwxOBW80p21XkfT9Ri) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
 | 50 | [No Te Confundas](https://open.spotify.com/track/5ZOLvkyS5xkkfzLe9ytDmQ) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [No Te Confundas](https://open.spotify.com/album/1of5ndRyyQ4LjADe7wlO9U) | 3:20 |
 
-Snapshot ID: `MTY3MzU4OTYwMCwwMDAwMDAwMDc5MTdhMjExNGU5MTYyY2JiMTdkNzcyN2U1NjA5OTVi`
+Snapshot ID: `MTY3MzU4OTYwMCwwMDAwMDAwMGRmOWIyZTQ1MDQzMzk3MGQzNWEwYmExYzdiNDNlNWQ4`

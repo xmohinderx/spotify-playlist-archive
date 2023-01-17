@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-211 songs - 12 hr 47 min
+212 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-09-09 |  |
 | [In Touch \(feat\. Daul\)](https://open.spotify.com/track/6XPY03nLWtiZOIkTs2IBjN) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [In Touch \(feat\. Daul\)](https://open.spotify.com/album/5ewjsi9Fd4yMPsdaUus5VY) | 3:41 | 2022-09-09 | 2022-09-16 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-09 |  |
-| [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-12 |  |
+| [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-12 | 2023-01-17 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-09-09 | 2022-10-13 |
+| [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 | 2023-01-12 |  |
 | [It's Complete \- 2022 Mix](https://open.spotify.com/track/6RqQUx2nAfP864X9IEGOY7) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Labfunk \(21st Anniversary Edition\)](https://open.spotify.com/album/0iTL9FP05unP4iwBbciHPx) | 7:15 | 2022-12-15 |  |
 | [It's Okay \- Lakim Remix](https://open.spotify.com/track/1rcUxbqjw9FTohyDqDNSDo) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M), [Lakim](https://open.spotify.com/artist/6kncomCdQQz8jvnf7djNZI) | [It's Okay \(Lakim Remix\)](https://open.spotify.com/album/73PwPDPqrNGF6RwJ2JJDtM) | 3:16 | 2022-09-09 |  |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Armani White
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,235 likes - 98 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,389 likes - 98 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

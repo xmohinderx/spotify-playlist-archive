@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 482079,
+  "num_followers": 482252,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDQ3NWQ0MjFiOTBmNDQxMWJjYWVjYzE3NDFhOWE0NDlj",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDkyZGVmMGFiNTlkNTNjN2NmNGUyZWU5ZjkzNTRkZWE3",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Great Big Blue",
         "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Raspberry Jam",
+        "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Raspberry Jam",
+      "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The French Press",
-        "url": "https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn"
-      },
-      "artists": [
-        {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
-        }
-      ],
-      "duration_ms": 326807,
-      "name": "French Press",
-      "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -539,34 +539,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+        "name": "The French Press",
+        "url": "https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
         }
       ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Raspberry Jam",
-        "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 228306,
-      "name": "Raspberry Jam",
-      "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+      "duration_ms": 326807,
+      "name": "French Press",
+      "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -587,6 +571,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Idle Labor",
         "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Rocky",
         "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
       },
@@ -615,6 +631,22 @@
       "duration_ms": 166000,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -647,38 +679,6 @@
       "duration_ms": 196728,
       "name": "City Club",
       "url": "https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Tomorrow Is Alright",
-        "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
-      },
-      "artists": [
-        {
-          "name": "Sonny & The Sunsets",
-          "url": "https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Too Young to Burn",
-      "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "The Babe Rainbow",
         "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 156811,
       "name": "Johny Says Stay Cool",
       "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Tomorrow Is Alright",
+        "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
+      },
+      "artists": [
+        {
+          "name": "Sonny & The Sunsets",
+          "url": "https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Too Young to Burn",
+      "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
     },
     {
       "added_at": "2022-09-22 19:11:53",

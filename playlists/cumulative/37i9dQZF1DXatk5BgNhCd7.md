@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Américo portada.
 
-678 songs - 1 day 16 hr 57 min
+679 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,8 @@
 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2022-09-02 | 2022-09-24 |
 | [Tu Turrito](https://open.spotify.com/track/2mb7V5a6iKg1FDo1je1lue) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Turrito](https://open.spotify.com/album/2iJHjdSr4OGX5FipBFCYl3) | 2:42 | 2022-07-22 | 2022-08-06 |
 | [Tu y Yo](https://open.spotify.com/track/5S9mqdZW3zgcwYI4mdmnf8) | [Charly El Cumbiero](https://open.spotify.com/artist/5R8NeeSoWnyXhaUffi1umV) | [Tu y Yo](https://open.spotify.com/album/3hlrr2zCa1Cv276sjCjv15) | 2:50 | 2022-11-04 | 2022-11-12 |
-| [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 |  |
+| [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 | 2023-01-17 |
+| [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 | 2023-01-13 |  |
 | [Tus Pasos](https://open.spotify.com/track/47TuuyV39wPgmFp1FOKLLv) | [Valsi](https://open.spotify.com/artist/04vVNmaKhinxxW4eCJIyX7) | [Tus Pasos](https://open.spotify.com/album/1p858a5EAfm1cvDKwXceen) | 2:27 | 2022-06-03 | 2022-07-02 |
 | [Tú no te Imaginas](https://open.spotify.com/track/6K7ABNdo8uxztJxrBPdmbJ) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Tú no te Imaginas](https://open.spotify.com/album/17HIue6wl9xnB9VLuch9dG) | 2:43 | 2022-05-27 | 2022-08-13 |
 | [Tú y Yo](https://open.spotify.com/track/2pOyGffUJGMYMOwBMuGp9A) | [Dezä](https://open.spotify.com/artist/33xFSM46z4vpFiOCtaSct6), [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Tú y Yo](https://open.spotify.com/album/1nCBjPmIMOl44buXxgJovD) | 2:44 | 2022-05-27 | 2022-06-11 |

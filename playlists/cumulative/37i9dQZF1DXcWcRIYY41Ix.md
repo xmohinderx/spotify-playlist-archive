@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-335 songs - 20 hr 38 min
+336 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [La Profecía](https://open.spotify.com/track/4SalVML4kHX3Kjlbq24EgZ) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [La Profecía](https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x) | 3:37 | 2021-12-24 | 2022-07-29 |
 | [La Quimerita](https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [La Quimerita](https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9) | 3:10 | 2021-12-24 | 2022-01-13 |
 | [la raíz](https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la raíz](https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh) | 3:44 | 2022-10-15 |  |
-| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 |  |
+| [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 |  |
@@ -203,6 +203,7 @@
 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 | 2021-12-24 |  |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
+| [Nada Importa](https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [Nada Importa](https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b) | 3:16 | 2023-01-16 |  |
 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 | 2021-12-24 |  |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-12-24 |  |
 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2022-08-19 | 2022-09-10 |

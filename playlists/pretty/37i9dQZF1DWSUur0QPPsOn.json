@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nnekaenergy/\">Nneka Onuorah</a>",
-  "num_followers": 260608,
+  "num_followers": 260700,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMGQ4N2Q1YmRlZDk2OTU4N2FmZTU3ZGEwZGIzZTU2Yjhm",
+  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDVmMzhjMzIyYzllMzZlODIzYWM0YzAyZDhkNTg0ODdk",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 116727,
-      "name": "ENERGY (feat. Beam)",
-      "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Crunk Juice",
         "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
       },
@@ -183,22 +163,6 @@
       "duration_ms": 260600,
       "name": "Lovers And Friends",
       "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity",
-      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -227,18 +191,38 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 284640,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
+      "duration_ms": 116727,
+      "name": "ENERGY (feat. Beam)",
+      "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity",
+      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -263,6 +247,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "DS2 (Deluxe)",
         "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 237400,
       "name": "F*ck Up Some Commas",
       "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 260769,
-      "name": "HEATED",
-      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+      "duration_ms": 260769,
+      "name": "HEATED",
+      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -423,6 +407,38 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 219866,
       "name": "Unpredictable (feat. Ludacris) - Main",
       "url": "https://open.spotify.com/track/3UNrtRxBBlWE70SjxnOo02"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "More Than A Woman",
-      "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "We Are Young Money",
         "url": "https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 313400,
       "name": "EveryGirl In The World",
       "url": "https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "More Than A Woman",
+      "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -551,6 +551,22 @@
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 281506,
       "name": "Top of the World (feat. Mase)",
       "url": "https://open.spotify.com/track/6BxiFSFVzviEqe2eIaruLV"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Jazz Ballads Classics",
-        "url": "https://open.spotify.com/album/4OcFF1pGg0qK5xBIJXgQmP"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/69aOeHaVpr4dxUWBW6F4Rb"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "So Fly (feat. Yung Joc)",
         "url": "https://open.spotify.com/album/10GMezP4TsViIvzulxCR8b"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 213655,
       "name": "Watch Out for the Big Girl",
       "url": "https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Jazz Ballads Classics",
+        "url": "https://open.spotify.com/album/4OcFF1pGg0qK5xBIJXgQmP"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/69aOeHaVpr4dxUWBW6F4Rb"
     }
   ],
   "unique_name": "Taste",

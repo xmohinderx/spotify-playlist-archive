@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 396164,
+  "num_followers": 396310,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGY5ZjdjYzMzZGY4ZjQ1NDZhYTQxOWVlMzhmMjczYWVh",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGZkYTM4MDMyYmJiNTBlZWIxNWRiZTA1OWMzMWVjNGIx",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -291,54 +291,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 186718,
-      "name": "Gettin' By",
-      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "From Austin",
-        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "From Austin",
-      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb"
-      },
-      "artists": [
-        {
-          "name": "Bri Bagwell",
-          "url": "https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/2HegYbfmMFwIIAjvMIc7e8"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Wild Palomino",
         "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
       },
@@ -359,6 +311,54 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb"
+      },
+      "artists": [
+        {
+          "name": "Bri Bagwell",
+          "url": "https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/2HegYbfmMFwIIAjvMIc7e8"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 186718,
+      "name": "Gettin' By",
+      "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
       "artists": [
         {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 238177,
-      "name": "Tears the Size of Texas",
-      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 285525,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "She Goes Home (Dirty Breakup Song)",
         "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
       },
@@ -879,6 +879,38 @@
       "duration_ms": 199666,
       "name": "She Goes Home (Dirty Breakup Song)",
       "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Took the Fall",
+        "url": "https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "Took the Fall",
+      "url": "https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -903,34 +935,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Took the Fall",
-        "url": "https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4"
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
         }
       ],
-      "duration_ms": 216585,
-      "name": "Took the Fall",
-      "url": "https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 211515,
       "name": "'Til I See You Again",
       "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Chisholm Trail",
+        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
+      },
+      "artists": [
+        {
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Chisholm Trail",
+      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 279115,
       "name": "Don't It Make You Wanna Dance?",
       "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Chisholm Trail",
-        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
-      },
-      "artists": [
-        {
-          "name": "Dalton Torres",
-          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Chisholm Trail",
-      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "What Else Can She Do",
-        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "jackson",
-      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "West Texas Is The Best Texas",
         "url": "https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 223013,
       "name": "West Texas Is The Best Texas",
       "url": "https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Cowboys Don't Cry",
         "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
       },
@@ -1323,50 +1291,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Cowboys Don't Change",
-        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
       },
       "artists": [
         {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 212670,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Longcut",
-        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 200556,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Whiskey Miss Me",
-        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kay",
-          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
-        }
-      ],
-      "duration_ms": 180162,
-      "name": "Whiskey Miss Me",
-      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1387,22 +1323,66 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Who Am I to Judge",
-        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
+        "name": "Cowboys Don't Change",
+        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
       },
       "artists": [
         {
-          "name": "Logan Jahnke",
-          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
         }
       ],
-      "duration_ms": 232267,
-      "name": "Who Am I to Judge",
-      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
+      "duration_ms": 212670,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Whiskey Miss Me",
+        "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kay",
+          "url": "https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc"
+        }
+      ],
+      "duration_ms": 180162,
+      "name": "Whiskey Miss Me",
+      "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Longcut",
+        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 200556,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1423,6 +1403,26 @@
       "duration_ms": 272880,
       "name": "Harder Stuff",
       "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Who Am I to Judge",
+        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
+      },
+      "artists": [
+        {
+          "name": "Logan Jahnke",
+          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 232267,
+      "name": "Who Am I to Judge",
+      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
-      },
-      "artists": [
-        {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
-        }
-      ],
-      "duration_ms": 268707,
-      "name": "Sick and Tired",
-      "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Know That by Now",
-        "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 241929,
-      "name": "Know That by Now",
-      "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
+      "duration_ms": 268707,
+      "name": "Sick and Tired",
+      "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Know That by Now",
+        "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 241929,
+      "name": "Know That by Now",
+      "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "What's Your Drinkin' Song",
         "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
       },
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Fair Weather Cowboy",
-        "url": "https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 203156,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2023-01-13 05:00:00",

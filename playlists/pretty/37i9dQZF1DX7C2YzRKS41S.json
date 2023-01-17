@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 67581,
+  "num_followers": 67639,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMGE1NzRlNzIxMjBkZTMzNTE4MWY0ZGQzMjdhZmNmZGFi",
+  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMDQxOWM4NTA2OTg5YmViOGMzODVhZTdhZGU0M2E1NjNi",
   "tracks": [
     {
       "added_at": "2023-01-13 04:40:08",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
-        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 264438,
-      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
-      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 258373,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Featherstone",
-      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Featherstone",
+      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "Simples",
         "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 170409,
       "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
       "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Long Time Ago",
-        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
-      },
-      "artists": [
-        {
-          "name": "Current Swell",
-          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Long Time Ago",
-      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 225273,
+      "name": "I Went Hunting",
+      "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "Better Part of Me",
         "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 226146,
       "name": "Better Part of Me",
       "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 225273,
-      "name": "I Went Hunting",
-      "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
+        "name": "Cafun\u00e9",
+        "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 122970,
+      "name": "Cafun\u00e9",
+      "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Cafun\u00e9",
-        "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 122970,
-      "name": "Cafun\u00e9",
-      "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
     },
     {
       "added_at": "2023-01-13 04:40:08",

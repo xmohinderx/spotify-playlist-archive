@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Stryper",
-  "num_followers": 104659,
+  "num_followers": 104741,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMDJkMWFhZWZkNTU1OTk4ZjhjZTk0MTJmNmJkNzFlYTYz",
+  "snapshot_id": "MTY2NzAyNzU2NCwwMDAwMDAwMGU5ZGJlNGEwODY2YTRkNzU1NzczZmUzNmJjMDQ3Zjg4",
   "tracks": [
     {
       "added_at": "2022-10-29 07:12:44",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Three Nails",
-        "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
-      },
-      "artists": [
-        {
-          "name": "Set for the Fall",
-          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
-        }
-      ],
-      "duration_ms": 210511,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "EXILE",
         "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 256893,
       "name": "ANOTHER PLACE",
       "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Three Nails",
+        "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
+      },
+      "artists": [
+        {
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
+        }
+      ],
+      "duration_ms": 210511,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Outlive",
-        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Cold Winter Sun",
-      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 304813,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Outlive",
+        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Cold Winter Sun",
+      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
+        "name": "A Mirror Dimly",
+        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
+      "duration_ms": 338333,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "A Mirror Dimly",
-        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 338333,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
-      },
-      "artists": [
-        {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
-        }
-      ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+      },
+      "artists": [
+        {
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+        }
+      ],
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl"
-      },
-      "artists": [
-        {
-          "name": "Ashes Remain",
-          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
-        }
-      ],
-      "duration_ms": 223011,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 254866,
       "name": "Balconies",
       "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl"
+      },
+      "artists": [
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        }
+      ],
+      "duration_ms": 223011,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
-      },
-      "artists": [
-        {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        },
-        {
-          "name": "Ryan Kirby",
-          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
-        }
-      ],
-      "duration_ms": 237522,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
+      },
+      "artists": [
+        {
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        },
+        {
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
+        }
+      ],
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
-      },
-      "artists": [
-        {
-          "name": "The Letter Black",
-          "url": "https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG"
-        }
-      ],
-      "duration_ms": 225490,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200176,
       "name": "Feel",
       "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
+      },
+      "artists": [
+        {
+          "name": "The Letter Black",
+          "url": "https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG"
+        }
+      ],
+      "duration_ms": 225490,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
         "name": "Melancholy Machines",
         "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
-      },
-      "artists": [
-        {
-          "name": "I Am Spartacus",
-          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
         "name": "Pennell",
         "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 333370,
       "name": "Send Forth Laborers",
       "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
+      },
+      "artists": [
+        {
+          "name": "I Am Spartacus",
+          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
     },
     {
       "added_at": "2022-10-29 07:12:44",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-10-29 07:12:44",
       "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 376119,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
+    },
+    {
+      "added_at": "2022-10-29 07:12:44",
+      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2022-10-29 07:12:44",
-      "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     }
   ],
   "unique_name": "Top Christian Rock",

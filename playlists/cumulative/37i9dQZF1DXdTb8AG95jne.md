@@ -2,7 +2,7 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CCOLA\(꼴라\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Jang Soo Bin\(장수빈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
 543 songs - 1 day 9 hr 13 min
 
@@ -459,7 +459,7 @@
 | [THE](https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [JIAN](https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb) | [ARE YOU THERE](https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU) | 3:37 | 2021-12-12 | 2022-07-29 |
 | [The Best Days](https://open.spotify.com/track/5c6hk38nrbJBRsEUfq7lpH) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Best Days](https://open.spotify.com/album/6wOER8VYJcmahoUs4jVNCV) | 4:48 | 2022-03-31 | 2022-04-20 |
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-15 |
-| [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-12 |  |
+| [The last stop of our pain](https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC) | 4:12 | 2023-01-11 |  |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2022-03-31 |  |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |
 | [The Promise of Summer](https://open.spotify.com/track/4Gte5M0Oe0tNTlxjFf9lJb) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Every you, in Every moment](https://open.spotify.com/album/0eahpcOKvJV4KqQLYT3yE2) | 4:29 | 2022-03-31 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-224 songs - 13 hr 38 min
+225 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Nest](https://open.spotify.com/track/1tF0s3w15QwAstjAwZefU7) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/2VSX4uQxgeaB6tEYdQgv7D) | 1:35 | 2022-10-21 |  |
 | [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 | 2022-07-22 | 2022-10-13 |
 | [Nest](https://open.spotify.com/track/2lrHZUfgnVMPmFLEwXR8CD) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/4K1bUcDd62JYkD2AJ7zQ2H) | 1:35 | 2020-12-08\* | 2022-07-29 |
-| [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 |  |
+| [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 | 2023-01-17 |
 | [Neume](https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/3zClJLuzmzdBzc2XhaJJE5) | 5:17 | 2020-12-08\* | 2022-07-29 |
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-12-08\* | 2021-03-06 |
 | [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
@@ -231,6 +231,7 @@
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 |  |
 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 | 2022-12-30 |  |
 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 |  |
+| [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 
 \*This playlist was first scraped on 2020-12-08. Prior content cannot be recovered.

@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Thani Aalu",
+        "url": "https://open.spotify.com/album/1NVjX9xo0vtuW15E3P7jBQ"
+      },
+      "artists": [
+        {
+          "name": "RANCH IN VEGAM",
+          "url": "https://open.spotify.com/artist/5HkFSk43UzSWA8I3o6BEn2"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Thani Aalu",
+      "url": "https://open.spotify.com/track/7vQh7Cxd7QUeqhVbdSaC03"
+    },
+    {
+      "album": {
         "name": "Throgam",
         "url": "https://open.spotify.com/album/3IOQs8vCKRJv8TV6ks1tah"
       },

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,447 songs - 3 day 4 hr 9 min
+1,449 songs - 3 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-20 |
 | [Bad Friend](https://open.spotify.com/track/1xqypUOvcTFkO3kSmBlXhW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Bad Friend](https://open.spotify.com/album/4U0ZcYH0W4fesyOURlQpMd) | 3:28 | 2020-10-20 | 2022-04-10 |
 | [Bad Juice](https://open.spotify.com/track/3zdEqUFjEh8GjEvraSk2aq) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Bad Juice](https://open.spotify.com/album/2G1HO3erXavGXFhZUOW0AG) | 3:42 | 2022-09-09 | 2022-09-17 |
-| [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-12-09 |  |
+| [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-12-09 | 2023-01-17 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-25 | 2022-04-19 |
 | [Balcony](https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 2:31 | 2022-12-09 |  |
 | [Balenciaga](https://open.spotify.com/track/7y7ExXQ8gjfE9x2toP7YbJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Balenciaga](https://open.spotify.com/album/1a2UoM4rHjI9Q4KvEJeuFk) | 3:28 | 2020-10-20 | 2021-06-03 |
@@ -207,7 +207,7 @@
 | [BULLYING BOYS](https://open.spotify.com/track/7GGrpWD9evnHjnk2oCeRZk) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [BULLYING BOYS](https://open.spotify.com/album/0pu1qrkfI32iz5MrVaxV4n) | 3:45 | 2020-10-20 | 2021-05-27 |
 | [Bummerland](https://open.spotify.com/track/3QCMUnmMaqokrfNZes4D6S) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bummerland](https://open.spotify.com/album/5XIgmuIwLIkDr5mO4tEFpP) | 3:09 | 2020-10-13\* | 2021-05-24 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-06-30 |
-| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 |  |
+| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2023-01-17 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-20 | 2021-01-15 |
 | [Busy Boy](https://open.spotify.com/track/3YvF7itMxKrlezMRKpkfdD) | [Mark Johns](https://open.spotify.com/artist/6zMEGo7y1noMoUEcQfIRCT) | [Busy Boy](https://open.spotify.com/album/3z9eUWFyWVUsrvHZ6GphpI) | 2:28 | 2021-02-23 | 2021-03-06 |
 | [but i love you](https://open.spotify.com/track/43W2o7HEEYpj56vrkV7SpY) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [but i love you](https://open.spotify.com/album/0oTvl2dWcSOaToatvwkmQi) | 2:39 | 2021-02-23 | 2021-05-27 |
@@ -766,6 +766,7 @@
 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 | 2022-06-24 |  |
 | [Let You Let Me Down](https://open.spotify.com/track/476tWNIROvxwoKxPVKt71E) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Let You Let Me Down](https://open.spotify.com/album/4MFwABGKohheRHL0JWg9cR) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2020-10-20 | 2021-06-03 |
+| [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-13 |  |
 | [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 |  |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
@@ -988,6 +989,7 @@
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-09-23 | 2022-10-13 |
+| [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 |  |
 | [Paper Mache World](https://open.spotify.com/track/7ai2SCMNgZQOSdxh5Oq9Ke) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You To Know](https://open.spotify.com/album/5zFw70dBof3n5bva2TcWQH) | 2:59 | 2020-11-20 | 2021-06-03 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2021-05-03 | 2021-06-03 |
 | [Papercuts](https://open.spotify.com/track/2X2zzq2qi2MqQb878Sw82q) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Papercuts](https://open.spotify.com/album/7wps4tNNOWDpLBiD9in4JI) | 2:52 | 2021-02-08 | 2021-03-21 |

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,942 songs - 4 day 15 hr 52 min
+1,943 songs - 4 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Borderline](https://open.spotify.com/track/1pqkDfPenFVhgFAPNUDl9z) | [Unknown Caller](https://open.spotify.com/artist/0gUKK02uECB18NoTtiZngb) | [Borderline](https://open.spotify.com/album/22Sg8gJ7WFWIlCRAnHjmls) | 3:44 | 2022-02-16 | 2022-03-05 |
 | [Boujee](https://open.spotify.com/track/30TzMOZcEhoXsiuGYJcsyL) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Boujee](https://open.spotify.com/album/0U5rXP5qSdUaBmsC5QkvAN) | 2:47 | 2021-07-09 | 2021-07-25 |
 | [Bounce](https://open.spotify.com/track/6J86qOETxcHr4amkwIH1n2) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi) | [Bounce](https://open.spotify.com/album/758oxRK41PTA9IKfrMglD3) | 2:40 | 2022-08-26 | 2022-09-11 |
+| [Boundaries](https://open.spotify.com/track/7adsrOCSymRDoPDmvQNC1O) | [Henry](https://open.spotify.com/artist/5Hu4L6ndNw9TU5EGnoZ6mh) | [Boundaries](https://open.spotify.com/album/74z57y34K6EzdQzSUhSfB0) | 3:08 | 2023-01-16 |  |
 | [Brand New Start](https://open.spotify.com/track/36qZCrxI7CeFTHSpqDlUi5) | [Kahnin](https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL) | [Brand New Start](https://open.spotify.com/album/6DwgdTYj8TJUcaOFjjPLYR) | 3:28 | 2019-11-24 | 2019-12-11 |
 | [Brass Knucklez](https://open.spotify.com/track/6ox5IgDFvwIhug8JROnKpv) | [Ultra Light Blazer](https://open.spotify.com/artist/7bqtCbbA1wh6fiCLKumVA2), [June Milo](https://open.spotify.com/artist/0x2e59oCxDZK2thnIEC1Ua), [Anthony Jambon](https://open.spotify.com/artist/3ZCNKeJLeNO59d5Q27VNQi) | [Brass Knucklez](https://open.spotify.com/album/1LdaKAhLwuBnVJk7w2OVNK) | 6:02 | 2021-04-17 | 2021-05-03 |
 | [Brave](https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 3:13 | 2021-07-12 | 2021-11-19 |

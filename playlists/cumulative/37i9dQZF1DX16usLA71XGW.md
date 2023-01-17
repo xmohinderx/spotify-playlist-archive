@@ -4,7 +4,7 @@
 
 > East Africa Queens in their music bag
 
-78 songs - 4 hr 6 min
+79 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 | 2022-07-18 |  |
 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 | 2022-07-18 |  |
 | [Jooli](https://open.spotify.com/track/2WZqtIHlTeusn6WHLx0aqN) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Malaika Jooli](https://open.spotify.com/album/4wlEyqYYUzfW23fbmmuq5r) | 3:06 | 2022-07-18 |  |
-| [KIKI](https://open.spotify.com/track/5HCMRyG7oBgUIFRmfjbREI) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [KIKI](https://open.spotify.com/album/35mBssVYgCOrIZRPkDEcpw) | 2:49 | 2022-07-18 |  |
+| [KIKI](https://open.spotify.com/track/5HCMRyG7oBgUIFRmfjbREI) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [KIKI](https://open.spotify.com/album/35mBssVYgCOrIZRPkDEcpw) | 2:49 | 2022-07-18 | 2023-01-17 |
 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-07-18 |  |
 | [La La](https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [La La](https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg) | 2:54 | 2022-07-18 |  |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
@@ -64,6 +64,7 @@
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-18 |  |
 | [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 | 2022-09-20 |  |
+| [Personal](https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Personal](https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi) | 2:15 | 2023-01-16 |  |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-07-18 | 2022-11-25 |
 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 | 2022-07-18 |  |
 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 | 2022-07-18 |  |

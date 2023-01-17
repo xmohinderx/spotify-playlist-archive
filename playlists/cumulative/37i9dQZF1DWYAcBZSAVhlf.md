@@ -4,7 +4,7 @@
 
 > The best feel\-good songs of the 1980s.
 
-190 songs - 12 hr 42 min
+191 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 | 2022-05-11 |  |
 | [Axel F \- From "Beverly Hills Cop"](https://open.spotify.com/track/2MXo0rStHudN4KrgJqz6bC) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [True Disco \(3 CD Set\)](https://open.spotify.com/album/4KpgD16YgavSq0RQYiADD5) | 3:01 | 2021-04-29 | 2022-04-21 |
 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2021-04-29 |  |
+| [Beautiful Boy \(Darling Boy\) \- 2010 Remastered](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Beautiful Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD) | 4:02 | 2023-01-16 |  |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2021-04-29 | 2022-11-13 |
 | [Break My Stride](https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:00 | 2021-04-29 |  |
 | [Call Me](https://open.spotify.com/track/5BG2gxrtwu1OSgXIhm5XEk) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno) | [Spagna & Spagna Greatest Hits](https://open.spotify.com/album/0k09ZVEEo2Kx1vusc1KB8b) | 4:05 | 2021-04-29 | 2022-07-29 |
@@ -125,7 +126,7 @@
 | [Our House](https://open.spotify.com/track/3rOD3MfHaXawznE0vrjM5B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [A Guided Tour Of Madness](https://open.spotify.com/album/0GWyRaEoYgcJ2sFBMgmrpm) | 3:23 | 2021-04-29 | 2022-07-29 |
 | [Perfect](https://open.spotify.com/track/29KiGwvYBw6JGQWrAlLhGg) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/62mLQgDQRUFS65hQZcsKhs) | 3:36 | 2021-04-29 | 2022-07-29 |
 | [Pump Up The Volume \(7"\)](https://open.spotify.com/track/369JKykZZr1qzv9pg5zAhz) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 4:10 | 2021-04-29 | 2022-04-20 |
-| [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 | 2021-04-29 |  |
+| [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 | 2021-04-29 | 2023-01-17 |
 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/69U1Mlh2xMxx3SGOL1mSXQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 3:56 | 2021-04-29 | 2022-07-20 |
 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 | 2021-04-29 |  |
 | [Roll With It](https://open.spotify.com/track/2QlPByrmEO9XciNBXCrawR) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Roll With It](https://open.spotify.com/album/6EGZHq3euiuESgxmzhIfSN) | 5:20 | 2021-04-29 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-163 songs - 9 hr 15 min
+164 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 | 2022-05-11 |  |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-11 | 2022-07-23 |
 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 | 2022-06-18 |  |
+| [Again & Again \(Feat\. KOYO\)](https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5) | [Leo](https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf), [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Again & Again](https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r) | 2:52 | 2023-01-13 |  |
 | [algorithm \(prod\. edenbyeden\)](https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ) | [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [algorithm](https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6) | 2:09 | 2022-06-13 | 2022-10-05 |
 | [At the Cinema](https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 3:50 | 2022-05-11 | 2022-07-22 |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-10-05 |  |
@@ -64,7 +65,7 @@
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2022-05-11 | 2022-07-24 |
 | [I Have A Crush On You \(feat\. Meriberry\)](https://open.spotify.com/track/2KCV2Iaug6B6ygEO5c2ZPa) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Meriberry](https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb) | [I Have A Crush On You](https://open.spotify.com/album/7izgPF1TAkWkm7G1QNqlLE) | 3:13 | 2022-07-04 | 2022-07-12 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-11-22 |  |
-| [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-12 |  |
+| [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-12 | 2023-01-17 |
 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 | 2022-05-11 | 2022-07-18 |
 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 | 2022-07-08 |  |
 | [I Study You 너를 공부해](https://open.spotify.com/track/6mVPTNUcuAay1HvkvEBtaP) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You 너를 공부해](https://open.spotify.com/album/1D776fV2xvMvigizWDnrqA) | 3:37 | 2022-05-11 | 2022-07-29 |

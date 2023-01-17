@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 93408,
+  "num_followers": 93485,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMGZjZDY0YmJlMTYyNzYyNTgxODk2NjllN2RjMTQ3YWY5",
+  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMDAzNzYyMjhlMTc5ZTliODNmODI3YjZmMTllYjI5NGM4",
   "tracks": [
     {
       "added_at": "2023-01-13 03:52:52",
@@ -183,6 +183,26 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Pode Morar Aqui (Remix)",
         "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 186666,
       "name": "Pode Morar Aqui - Remix",
       "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Andar Contigo",
-        "url": "https://open.spotify.com/album/7Cyt0hRJAhLfZMMVGrrQfM"
-      },
-      "artists": [
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        },
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Andar Contigo",
-      "url": "https://open.spotify.com/track/6G038atckWZUZ6q9QBBVo8"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Me Faz Viver",
         "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
       },
@@ -359,22 +339,38 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "S\u00f3 o Come\u00e7o (Remix)",
-        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
+        "name": "Andar Contigo",
+        "url": "https://open.spotify.com/album/7Cyt0hRJAhLfZMMVGrrQfM"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
         },
         {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
         }
       ],
-      "duration_ms": 243750,
-      "name": "S\u00f3 o Come\u00e7o - Remix",
-      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
+      "duration_ms": 159000,
+      "name": "Andar Contigo",
+      "url": "https://open.spotify.com/track/6G038atckWZUZ6q9QBBVo8"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+        "name": "S\u00f3 o Come\u00e7o (Remix)",
+        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
         }
       ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+      "duration_ms": 243750,
+      "name": "S\u00f3 o Come\u00e7o - Remix",
+      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
-        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
-      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Inunda Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4T4gaya0PRry3FOh8LV1RJ"
       },
@@ -539,30 +515,6 @@
       "duration_ms": 220142,
       "name": "Inunda Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0Rm97U2wWEzFGHnn8PGvWB"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "O Vazio",
-        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        },
-        {
-          "name": "Eduardo Vieira",
-          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "O Vazio",
-      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -591,6 +543,26 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "Loucura (Remix)",
+        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        }
+      ],
+      "duration_ms": 225519,
+      "name": "Loucura - Remix",
+      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Furioso Oceano (Remix)",
         "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
       },
@@ -611,22 +583,50 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Loucura (Remix)",
-        "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
+        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
+        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
       },
       "artists": [
         {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
         }
       ],
-      "duration_ms": 225519,
-      "name": "Loucura - Remix",
-      "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+      "duration_ms": 258750,
+      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
+      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "O Vazio",
+        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        },
+        {
+          "name": "Eduardo Vieira",
+          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "O Vazio",
+      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -655,74 +655,22 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Melhor Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Melhor Lugar - Remix",
-      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Joquebede (Remix) (feat. Israel Santos)",
-        "url": "https://open.spotify.com/album/6v0vHYaVvDokKshadgy3Qn"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
-        }
-      ],
-      "duration_ms": 117143,
-      "name": "Joquebede (Remix) (feat. Israel Santos)",
-      "url": "https://open.spotify.com/track/2zfeao3DVGHDktWIacU5JZ"
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -755,22 +703,22 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+        "name": "Melhor Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh"
       },
       "artists": [
         {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+      "duration_ms": 206250,
+      "name": "Melhor Lugar - Remix",
+      "url": "https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -795,6 +743,34 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "Joquebede (Remix) (feat. Israel Santos)",
+        "url": "https://open.spotify.com/album/6v0vHYaVvDokKshadgy3Qn"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+        }
+      ],
+      "duration_ms": 117143,
+      "name": "Joquebede (Remix) (feat. Israel Santos)",
+      "url": "https://open.spotify.com/track/2zfeao3DVGHDktWIacU5JZ"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -811,6 +787,78 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        },
+        {
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+        }
+      ],
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -859,50 +907,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
-        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Banda Rafah",
-          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
-      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Minha For\u00e7a",
         "url": "https://open.spotify.com/album/6LbhPjrzrWMvlLd2BlAHNb"
       },
@@ -927,46 +931,46 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
+        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
         },
         {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        },
-        {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+          "name": "Banda Rafah",
+          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
         }
       ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 195000,
+      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
+      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
     },
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+      "duration_ms": 161219,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -1067,26 +1071,22 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Like Water",
-        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         },
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
         }
       ],
-      "duration_ms": 161219,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "O Seu Amor \u00c9 (Remix)",
+        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
+      },
+      "artists": [
+        {
+          "name": "Dj Lucas Ninja",
+          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
+        },
+        {
+          "name": "Benito Vitorette",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "O Seu Amor \u00c9 - Remix",
+      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 241162,
       "name": "A Sua Chance",
       "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "O Seu Amor \u00c9 (Remix)",
-        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Ninja",
-          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
-        },
-        {
-          "name": "Benito Vitorette",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "O Seu Amor \u00c9 - Remix",
-      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Novo Lar",
         "url": "https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 212571,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-01-13 03:52:52",

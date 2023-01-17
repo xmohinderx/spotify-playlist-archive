@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Christian Alicea
 
-191 songs - 11 hr 41 min
+192 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [Bluetooth](https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bluetooth](https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj) | 2:40 | 2022-11-28 |  |
 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-07-19 |  |
 | [Cada Ves Te Extraño Más](https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/29O8xR6EgbPGmjCrwV7aB8) | 3:29 | 2022-07-19 | 2023-01-14 |
-| [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 | 2022-02-23 |  |
+| [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 | 2022-02-23 | 2023-01-17 |
 | [Compañera](https://open.spotify.com/track/1ncBiXsWxn69eLehmw0L59) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [The Romanze, Pt\. II](https://open.spotify.com/album/35ofKzduahGPv43eAtprrJ) | 3:40 | 2022-06-29 | 2023-01-14 |
 | [Compañera](https://open.spotify.com/track/4LalayMtx5CXPZsgFmfj6Q) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Compañera](https://open.spotify.com/album/0uPrUduyf1VaC7GqmfG70R) | 3:40 | 2022-03-25 | 2023-01-14 |
 | [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 | 2022-02-11 | 2022-06-30 |
 | [Confesión](https://open.spotify.com/track/2wH2cK76Vc3w3KmDGgfyiE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión \(Remix\)](https://open.spotify.com/album/5rfpFxvkE4fFfialHL5oQE) | 3:20 | 2022-06-29 | 2023-01-14 |
+| [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 | 2023-01-13 |  |
 | [Conocí a una Chica](https://open.spotify.com/track/5c0wqC9SuKeWKyQVVMhRCa) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Conocí a una Chica](https://open.spotify.com/album/4JeqXwg7LMHulJUN0rA9MS) | 2:31 | 2022-01-01 | 2022-03-26 |
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-07-19 |  |
 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 | 2022-06-29 |  |

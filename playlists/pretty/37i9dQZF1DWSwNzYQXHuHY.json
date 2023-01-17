@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5937,
+  "num_followers": 5968,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQ0MSwwMDAwMDAwMGRiNmE3MTk0ZTdjMTM2MWViNjBkNTc4YTc2YmJlZmZl",
+  "snapshot_id": "MTY3MzU4MjQ0MSwwMDAwMDAwMGNlMmY1ZGNlMmM0MWYwNTE3MTE5NGUyMzZkYTY3MjNj",
   "tracks": [
     {
       "added_at": "2023-01-13 04:00:41",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -343,38 +359,6 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Sweet (A Business Proposal OST Part.1)",
-        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Sweet (A Business Proposal OST Part.1)",
+        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
     },
     {
       "added_at": "2023-01-13 04:00:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 189093,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
     },
     {
       "added_at": "2023-01-13 04:00:41",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
         "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
         "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
     },
     {
       "added_at": "2023-01-13 04:00:41",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
       },
       "artists": [
         {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
+        },
+        {
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+      "duration_ms": 172500,
+      "name": "Again & Again (Feat. KOYO)",
+      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     }
   ],
   "unique_name": "\uc378",

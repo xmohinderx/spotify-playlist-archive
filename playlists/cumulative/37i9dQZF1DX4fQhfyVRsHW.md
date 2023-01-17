@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-125 songs - 6 hr 38 min
+127 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 | 2022-05-25 |  |
 | [Daybreak](https://open.spotify.com/track/5SnupCBChxbPv1rbzioIZK) | [Durma](https://open.spotify.com/artist/72SIhdZeLV1y5237YHyZot) | [Daybreak](https://open.spotify.com/album/2woY9tcBKK07rYw96yOTXD) | 3:29 | 2022-05-25 |  |
 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 | 2022-05-25 |  |
+| [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-01-16 |  |
 | [Depths of the Andaman](https://open.spotify.com/track/4mAz6ncZQSDOBshABwyPOa) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Depths of the Andaman](https://open.spotify.com/album/4nod12TTbsMj6l4yrEFzkh) | 3:16 | 2022-05-25 |  |
 | [Designer of Dreams](https://open.spotify.com/track/4rzLabiZZiwJghfwPDn6H9) | [Dream Design](https://open.spotify.com/artist/5QoS65KDcb9ygxrwK5d6Bc) | [Designer of Dreams](https://open.spotify.com/album/6JXO48KpeVsnIFwDYx2exI) | 2:54 | 2022-05-25 |  |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-11-11 |  |
@@ -111,6 +112,7 @@
 | [Spectral Stone](https://open.spotify.com/track/6Rus9WFFNWmwink9FBzhjw) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Spectral Stone](https://open.spotify.com/album/5nw8PE1qYifYIlNXHQesdl) | 3:20 | 2022-05-25 |  |
 | [Sprout Valley](https://open.spotify.com/track/1zq1IjSWVsKDPQ2OIzBMpl) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Sprout Valley](https://open.spotify.com/album/45CmZaGRiS4bduUG2BMUES) | 3:20 | 2022-05-25 |  |
 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 | 2022-05-25 |  |
+| [Stationnaire](https://open.spotify.com/track/7vOLV9xqknZUrhKrlzDkXe) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Stationnaire](https://open.spotify.com/album/2ayrYWlBwDikrEJY4Mfsuw) | 3:00 | 2023-01-16 |  |
 | [Still](https://open.spotify.com/track/0SHHwOs6JezA4WRfRveIYw) | [Pads of Nature](https://open.spotify.com/artist/0ekIzmtBVmt86kKA5tVt7Z) | [Pads With Easy Rain and Thunder](https://open.spotify.com/album/3cDhYgxxnUd4HB2V3DmNSX) | 2:59 | 2022-05-25 | 2022-09-15 |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2022-05-25 |  |
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2022-05-25 |  |

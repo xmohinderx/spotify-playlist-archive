@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 833533,
+  "num_followers": 833859,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDQwNDY3MjNmNGI1YTU5NWVkNjVkMTEwNjk5MjVhY2Zl",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDI4OTA4ZmExYjMwNzMwYjVmZjBhM2E4NGYzODU2MzY4",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -103,22 +103,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Sex & Food",
+        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 268333,
+      "name": "Hunnybee",
+      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -139,18 +135,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Sex & Food",
-        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 268333,
-      "name": "Hunnybee",
-      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Get A Good Look",
-        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Omnium Gatherum",
         "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Swim and Sleep (Like a Shark)",
+      "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 242504,
       "name": "Liberty Bell",
       "url": "https://open.spotify.com/track/62CfP87tk9IHEMfAI087tu"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Get A Good Look",
+        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -303,18 +319,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 165226,
-      "name": "Swim and Sleep (Like a Shark)",
-      "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
+      "duration_ms": 222920,
+      "name": "Part III",
+      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -331,22 +347,6 @@
       "duration_ms": 247615,
       "name": "Hard to Let Go",
       "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Part III",
-      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Metronomy Forever",
-        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Omnium Gatherum",
         "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 364599,
       "name": "Magenta Mountain",
       "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Metronomy Forever",
+        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 90127,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 90127,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "I Just Wanna",
         "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 167066,
       "name": "Lonely One",
       "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Saturdays",
+      "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Saturdays",
-      "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Oh Uncertainty! A Universe Despairs",
         "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
       },
@@ -737,20 +737,36 @@
       "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
+      "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "innerdialogue",
-        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "caaaaseyyyy",
-          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 296151,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -773,20 +789,20 @@
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-01-06 06:05:00",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "innerdialogue",
+        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
         }
       ],
-      "duration_ms": 188915,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+      "duration_ms": 296151,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
         }
       ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -851,6 +867,22 @@
       "duration_ms": 470092,
       "name": "Dripping Sun",
       "url": "https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -875,34 +907,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "The Garden Series",
+        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
         }
       ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
+      "duration_ms": 323200,
+      "name": "When I Get Home",
+      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -919,22 +935,6 @@
       "duration_ms": 289826,
       "name": "Heaven Is A Place",
       "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "The Garden Series",
-        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
-      },
-      "artists": [
-        {
-          "name": "Post Animal",
-          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "When I Get Home",
-      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/5S2GnpqCXt2z0EMAnlQrgj"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2023-01-06 06:05:00",
+      "album": {
+        "name": "Miracles (alt)",
+        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 210871,
+      "name": "Miracles3",
+      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1089,22 +1105,6 @@
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "Miracles (alt)",
-        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 210871,
-      "name": "Miracles3",
-      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Lean Into Life",
@@ -1119,6 +1119,22 @@
       "duration_ms": 276453,
       "name": "California",
       "url": "https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Ripe",
+        "url": "https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 145414,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM"
     },
     {
       "added_at": "2022-11-10 18:56:35",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Ripe",
-        "url": "https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 145414,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/4U3KyPSnGam6zjAgG1JDUM"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Where I Live",
         "url": "https://open.spotify.com/album/5G0IeQv7O6GjLYTcDDuEpM"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/6TDpf5z03JinsQV3wJGhNu"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1189,20 +1205,20 @@
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-01-11 03:59:23",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Top Steppa",
-      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+      "duration_ms": 274995,
+      "name": "Do You Love Her Now",
+      "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
     },
     {
       "added_at": "2022-12-16 05:09:00",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
     },
     {
-      "added_at": "2023-01-11 03:59:23",
-      "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 274995,
-      "name": "Do You Love Her Now",
-      "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "everything's worth it",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Optical Wealth + Fox in a Hole",
-        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
-      },
-      "artists": [
-        {
-          "name": "Cap'n Marble",
-          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Optical Wealth",
-      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Being No One, Going Nowhere",
         "url": "https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z"
       },
@@ -1351,22 +1335,6 @@
       "duration_ms": 276413,
       "name": "Maps",
       "url": "https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Optical Wealth + Fox in a Hole",
+        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
+      },
+      "artists": [
+        {
+          "name": "Cap'n Marble",
+          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Optical Wealth",
+      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Ultimate Painting",
         "url": "https://open.spotify.com/album/3ojQWhc1VMM1P5Y7Q2T9Ha"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 219129,
       "name": "Ultimate Painting",
       "url": "https://open.spotify.com/track/0lOVjiVqUQG3cuM4zQiTRo"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Find Out",
+        "url": "https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 148544,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1503,6 +1519,26 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Protean Threat",
+        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
+      },
+      "artists": [
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        },
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Edge of the Edge",
         "url": "https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc"
       },
@@ -1539,22 +1575,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Protean Threat",
-        "url": "https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI"
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
       },
       "artists": [
         {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        },
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
         }
       ],
-      "duration_ms": 167573,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
+      "duration_ms": 248084,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/3uwDwUlkHehAnlcza9gNBD"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        }
-      ],
-      "duration_ms": 248084,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/3ugfgZApxipgmFMaSZoYIe"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Blacklight Shine",
         "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
       },
@@ -1603,6 +1619,22 @@
       "duration_ms": 175657,
       "name": "Blacklight Shine",
       "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 200109,
+      "name": "New Humanity",
+      "url": "https://open.spotify.com/track/1OZya8zUz1XPYIrFmHbYTe"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1623,22 +1655,6 @@
       "duration_ms": 204880,
       "name": "HALOHEAD",
       "url": "https://open.spotify.com/track/0svx31qU41UZMV9qDA4H6S"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 200109,
-      "name": "New Humanity",
-      "url": "https://open.spotify.com/track/1OZya8zUz1XPYIrFmHbYTe"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1671,22 +1687,6 @@
       "duration_ms": 169583,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Postman b/w Magazine",
-        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Postman",
-      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     }
   ],
   "unique_name": "Modern Psychedelia",

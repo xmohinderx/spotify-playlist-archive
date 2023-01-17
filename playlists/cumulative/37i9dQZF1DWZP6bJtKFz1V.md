@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-481 songs - 1 day 1 hr 2 min
+483 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [C O O L Santa Ana](https://open.spotify.com/track/4EuHlO6U0SjsDUxdF4dJDy) | [Modern Original](https://open.spotify.com/artist/5lAerll3SRz5ATfhZfhGT6), [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [C O O L Santa Ana](https://open.spotify.com/album/0Ij15Oka2Kqeb9PSl7wpd9) | 3:33 | 2022-07-01 | 2022-07-28 |
 | [C'est La Vie](https://open.spotify.com/track/1cz61f96sBlapUOQHmLNFK) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [C'est La Vie](https://open.spotify.com/album/6NY94ZdXbzACNNuQcWIVlg) | 3:00 | 2022-10-28 | 2023-01-14 |
 | [Can You Handle My Love??](https://open.spotify.com/track/2wdVmZbRoJNNpY1vS0N8Lm) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [HEIGHTS](https://open.spotify.com/album/3ZDqOKvg2yuGzzImRjIrhK) | 4:16 | 2022-02-04 | 2022-03-12 |
-| [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2023-01-13 |  |
+| [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2023-01-13 | 2023-01-17 |
 | [Can't Be What You Think](https://open.spotify.com/track/42c4zQXbM14DbksotK3Cq7) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Can't Be What You Think](https://open.spotify.com/album/4wiyYbZodR1G7BY2V2GEW5) | 3:21 | 2022-02-04 | 2022-04-02 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 |  |
 | [Casey Got The Call](https://open.spotify.com/track/3ELNeZqM7jS7Z3emA3loCb) | [joshua epithet](https://open.spotify.com/artist/1uEUnojYYgIo87OiurJiNP) | [Casey Got The Call](https://open.spotify.com/album/3L8iaeiX1CnpXV5Nn2euMw) | 2:39 | 2022-07-08 | 2022-07-15 |
@@ -284,7 +284,7 @@
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-25 | 2022-10-29 |
 | [Mr Regular](https://open.spotify.com/track/1P4zbuZbTKc12UxXXZJohl) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Mr Regular](https://open.spotify.com/album/56ivqF23LdiQ6YYRhhdfXy) | 2:54 | 2022-07-22 | 2022-08-13 |
 | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/track/5GGeui401dCbJLVno3gYgM) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/album/47smPL4rALcoThyXAP5PCl) | 2:54 | 2022-06-03 | 2022-07-27 |
-| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2022-12-16 |  |
+| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2022-12-16 | 2023-01-17 |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-11-18 |  |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-03-11 |  |
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-27 | 2022-06-04 |
@@ -389,6 +389,7 @@
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-01 | 2022-07-23 |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 |  |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-01 | 2022-07-29 |
+| [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 | 2023-01-13 |  |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2022-10-07 |  |
 | [Supernatural](https://open.spotify.com/track/0YiCeKLuA8N6a8KimB4sNg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Supernatural](https://open.spotify.com/album/1z3JyDP4NBJEOmQiBw4wLt) | 3:19 | 2023-01-13 | 2023-01-15 |
 | [Surfing](https://open.spotify.com/track/2bb3HjKjiTIIGXcM1YbKIy) | [NO WIN](https://open.spotify.com/artist/232KKU6Bc8RDn1wIsojwKP) | [Surfing](https://open.spotify.com/album/2tulH8h7rcQrxmCBuLkAau) | 3:12 | 2022-06-03 | 2022-07-20 |
@@ -488,6 +489,7 @@
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-11-18 |  |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-22 | 2022-06-28 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-08 |
+| [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
 | [your mom](https://open.spotify.com/track/6rp15O3RvL5sOMjHfLjxTK) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [your mom](https://open.spotify.com/album/0MDDf0IrpoEaYU0sMJ98H4) | 3:20 | 2022-10-28 | 2023-01-14 |
 
 \*This playlist was first scraped on 2022-02-20. Prior content cannot be recovered.

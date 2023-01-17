@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-194 songs - 11 hr 54 min
+195 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 | 2023-01-15 |
 | [bird](https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb) | 3:36 | 2022-06-20 | 2022-06-26 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-06-20 | 2022-07-29 |
+| [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2023-01-13 |  |
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-20 | 2022-07-29 |
 | [Blurred](https://open.spotify.com/track/0H165WAu4RXTmfImjSss1l) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Blurred](https://open.spotify.com/album/4w1HNyFb86LwPEenptdChK) | 2:43 | 2022-06-29 | 2022-07-03 |
 | [broccoli](https://open.spotify.com/track/4yEVzCcmAnXteIXnxvJa2K) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [broccoli](https://open.spotify.com/album/75YETlrUfCEA2CMyCaPfzZ) | 4:47 | 2022-06-20 | 2022-07-17 |
@@ -185,7 +186,7 @@
 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 | 2022-08-19 | 2022-09-03 |
 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII) | 4:32 | 2022-06-20 | 2022-07-29 |
 | [When It Rains In Night](https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Thumbs Up!](https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH) | 4:04 | 2022-08-13 |  |
-| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-06-20 |  |
+| [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-06-20 | 2023-01-17 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2022-06-20 |  |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-26 |

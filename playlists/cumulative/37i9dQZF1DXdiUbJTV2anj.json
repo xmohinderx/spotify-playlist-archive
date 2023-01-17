@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Downer Part.2",
+        "url": "https://open.spotify.com/album/3SBsZ06WwMcqFU9tHPOSlV"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185930,
+      "name": "Yenta",
+      "url": "https://open.spotify.com/track/2Fm1b9cFtMU5e5AgUoYBkQ"
+    },
+    {
+      "album": {
         "name": "Yenta",
         "url": "https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs"
       },
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 189998,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt"

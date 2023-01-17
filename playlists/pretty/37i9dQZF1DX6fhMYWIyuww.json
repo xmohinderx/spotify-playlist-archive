@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 100591,
+  "num_followers": 100727,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJjYzc1NDEyNmZjY2MyMWI4MWQ0OThhNTVkYjZjZGQ3",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGE0N2NlODdkZGI3NmY0NDcyMzM2ZTIxNmY5YTdhNzhm",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Minute by Minute",
         "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -155,22 +155,6 @@
       "duration_ms": 257962,
       "name": "Peaceful Easy Feeling - 2013 Remaster",
       "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -251,6 +235,22 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Movin' Out (Anthony's Song)",
+      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Endless Flight",
@@ -431,22 +415,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "The Next Voice You Hear - The Best Of Jackson Browne",
         "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
@@ -463,18 +431,50 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Classic Masters",
-        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
       "artists": [
         {
-          "name": "Robert John",
-          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Sad Eyes - Remastered 2002",
-      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
       },
       "artists": [
         {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+          "name": "Robert John",
+          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
         }
       ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
+      "duration_ms": 253213,
+      "name": "Sad Eyes - Remastered 2002",
+      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 240693,
       "name": "Thunder Island",
       "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
-    },
-    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Moonlight Feels Right",
@@ -763,6 +747,22 @@
       "duration_ms": 221066,
       "name": "Moonlight Feels Right",
       "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
-      "added_at": "2022-03-31 19:29:02",
+      "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Dr. Heckle & Mr. Jive",
-        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
       },
       "artists": [
         {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 284720,
-      "name": "Love Is the Answer",
-      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
     },
     {
+      "added_at": "2022-03-31 19:29:02",
+      "album": {
+        "name": "Dr. Heckle & Mr. Jive",
+        "url": "https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Love Is the Answer",
+      "url": "https://open.spotify.com/track/2jto2mk883akXynLqkdung"
+    },
+    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Legend",
@@ -843,22 +859,6 @@
       "duration_ms": 294533,
       "name": "Heart Of The Night",
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "A Pirate Looks At Forty",
-      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
-      "added_at": "2022-01-26 21:27:23",
-      "album": {
-        "name": "Sleeping Gypsy",
-        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "The Lady Wants to Know",
-      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Changes In Latitudes, Changes In Attitudes",
@@ -987,6 +971,22 @@
       "duration_ms": 197333,
       "name": "Changes In Latitudes, Changes In Attitudes",
       "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+    },
+    {
+      "added_at": "2022-01-26 21:27:23",
+      "album": {
+        "name": "Sleeping Gypsy",
+        "url": "https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "The Lady Wants to Know",
+      "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC"
     },
     {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "A HOLE IN THE WALL",
+        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "MARGARITA",
+      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
+    },
+    {
       "added_at": "2022-03-31 19:29:02",
       "album": {
         "name": "Takin' It Easy",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "A HOLE IN THE WALL",
-        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
       },
       "artists": [
         {
-          "name": "Marc Jordan",
-          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 250173,
-      "name": "MARGARITA",
-      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Shadow Dancing",
         "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Trying To Reason With Hurricane Season",
+      "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1211,22 +1227,6 @@
       "duration_ms": 259040,
       "name": "Who's Right, Who's Wrong",
       "url": "https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "A-1-A",
-        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Trying To Reason With Hurricane Season",
-      "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
     },
     {
       "added_at": "2021-04-22 18:12:12",

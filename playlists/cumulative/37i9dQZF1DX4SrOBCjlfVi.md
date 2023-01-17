@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Gucci Mane, Armani White and more\. Cover: Moneybagg Yo & GloRilla
 
-2,100 songs - 4 day 2 hr 4 min
+2,101 songs - 4 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2005,6 +2005,7 @@
 | [Waldo](https://open.spotify.com/track/1c5hXcLYRcoceFi4zDQqV4) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [Waldo](https://open.spotify.com/album/2emwLEOENheaMwZnXvItID) | 2:28 | 2022-01-21 | 2022-02-05 |
 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 | 2022-09-16 | 2022-10-01 |
 | [Walk The Line](https://open.spotify.com/track/2s8Od2lfFMtwMoGKJIYDE9) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Walk The Line](https://open.spotify.com/album/238hxIpTZmLmDhG0Msp1CN) | 3:22 | 2022-03-11 | 2022-03-18 |
+| [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 | 2023-01-16 |  |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-01-25 | 2022-02-05 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-03 | 2022-06-18 |
 | [Walkstar](https://open.spotify.com/track/627lpqXYBNpNkYqCNzZwO2) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Walkstar](https://open.spotify.com/album/7ajTtHgMI6dW9PAAUejk3u) | 1:53 | 2022-12-02 | 2022-12-10 |

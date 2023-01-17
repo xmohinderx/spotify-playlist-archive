@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-511 songs - 1 day 7 hr 28 min
+512 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Electric Love](https://open.spotify.com/track/1CKS5yZ9XsAesSWW6obPzp) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Electric Love](https://open.spotify.com/album/3IvLlPa2AcBhm6jquZYYpt) | 3:42 | 2021-12-17 |  |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2022-07-09 |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
+| [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 |  |
 | [Enough for Me](https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Enough for Me](https://open.spotify.com/album/4RJviCzbAljHR4ZLKI71TF) | 3:53 | 2022-08-12 |  |
 | [Era](https://open.spotify.com/track/5X4LSyx1CyH0FJiJwQH29c) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Era](https://open.spotify.com/album/3utAPcjvEBKwAOto8dfG1u) | 3:06 | 2021-12-17 | 2022-02-26 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-22 | 2022-09-24 |
@@ -316,7 +317,7 @@
 | [New Beginning](https://open.spotify.com/track/3mSvm233eEIHKM51fsvhie) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [New Beginning](https://open.spotify.com/album/0krjoAvDBsUqcDwniaar7X) | 3:31 | 2022-03-25 | 2022-07-29 |
 | [New Horizons](https://open.spotify.com/track/4AujrygiEHw3PSVVXAdNy4) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [New Horizons](https://open.spotify.com/album/5LyP1m1U6twd5YtodHX1nU) | 5:55 | 2023-01-13 |  |
 | [Nexus Point](https://open.spotify.com/track/3P4lqTLBjHHIqszDF8xB8F) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Roland Klein](https://open.spotify.com/artist/1MhYX4C0j4yjUehkDm8tdw) | [Nexus Point](https://open.spotify.com/album/662G6dI2ixFAXUPOdZpCOJ) | 3:43 | 2022-06-10 | 2022-12-03 |
-| [Nezuko](https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi) | [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [Nezuko](https://open.spotify.com/album/5ij8C6XtKgnWwt7297q9ga) | 3:59 | 2022-06-24 |  |
+| [Nezuko](https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi) | [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [Nezuko](https://open.spotify.com/album/5ij8C6XtKgnWwt7297q9ga) | 3:59 | 2022-06-24 | 2023-01-17 |
 | [Night Travel \(feat\. Tom Smith\) \- Trance Wax Remix](https://open.spotify.com/track/1WMYS2BA6fxRaD97kywBE5) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Tom Smith](https://open.spotify.com/artist/22ZjvaisJlv6JVpHbeHunG) | [Nobody Is Not Loved, Remixes, Pt\. 1](https://open.spotify.com/album/1924zJTPx2ueAzi2p9wU2Y) | 5:05 | 2022-04-08 | 2022-04-22 |
 | [No Signs Of Life \(Talla 2XLC Mix\)](https://open.spotify.com/track/3nSYvbTmMi79EQH12ubrLb) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airfire](https://open.spotify.com/artist/1Ltdu3HG3V0ivZCDvwf9Am) | [No Signs Of Life \(Talla 2XLC Remix\)](https://open.spotify.com/album/4hNuGEUMRGKw87dhbvaA7B) | 3:32 | 2022-07-22 | 2022-08-17 |
 | [Nostalgia](https://open.spotify.com/track/3o6TLrBGPyCTUCD3t85ak6) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [Nostalgia](https://open.spotify.com/album/2oaVHqAGlAdbCo2xV0Lx9U) | 3:52 | 2022-05-27 | 2022-08-27 |

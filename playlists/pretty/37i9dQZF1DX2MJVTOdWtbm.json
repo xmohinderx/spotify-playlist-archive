@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 103307,
+  "num_followers": 103345,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjI4NCwwMDAwMDAwMDY5YzM4MDYyNTgyMDZkZTk3ZmE0M2FlNzQyM2RjNDc1",
+  "snapshot_id": "MTY3MzI0NjI4NCwwMDAwMDAwMDliNzEwNTRmNDJmYTE5MjFjNzY4YWE3OGQzMGRlZGJj",
   "tracks": [
     {
       "added_at": "2023-01-09 06:38:04",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -199,18 +183,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -227,6 +211,22 @@
       "duration_ms": 155586,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "Aj\u00e1",
         "url": "https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 142453,
       "name": "Aj\u00e1",
       "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Cabr\u00f3n",
         "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 174853,
       "name": "Limo",
       "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "esc\u00e1pate",
-        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 171477,
-      "name": "esc\u00e1pate",
-      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
         "name": "CU\u00c1NTO",
         "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
       },
@@ -1211,38 +1195,6 @@
       "duration_ms": 172430,
       "name": "CU\u00c1NTO",
       "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "Nela",
-        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Nela",
-      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1263,18 +1215,50 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
+        "name": "esc\u00e1pate",
+        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 211688,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
+      "duration_ms": 171477,
+      "name": "esc\u00e1pate",
+      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
-        "name": "Cerquita del Mar",
-        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Cerquita del Mar",
-      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
+      "duration_ms": 211688,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1347,22 +1331,6 @@
       "duration_ms": 174315,
       "name": "La Original",
       "url": "https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC"
-    },
-    {
-      "added_at": "2023-01-09 06:38:04",
-      "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2023-01-09 06:38:04",
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2023-01-09 06:38:04",
       "album": {
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 185520,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
+    },
+    {
+      "added_at": "2023-01-09 06:38:04",
+      "album": {
+        "name": "Cerquita del Mar",
+        "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Cerquita del Mar",
+      "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
     },
     {
       "added_at": "2023-01-09 06:38:04",

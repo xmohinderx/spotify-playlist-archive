@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23350,
+  "num_followers": 23340,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMGE5YjM1MTUzOGYyY2U4MzJkYWE0N2ZmOTFjYWYwMjRm",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDdiM2I0MjViOTBlZmE0ZjIzMzgzYzY5N2E4MTAzNzUw",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
+        "name": "Aber bei dir",
+        "url": "https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 146092,
+      "name": "Aber bei dir",
+      "url": "https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/0jOcIRZgPTfDN5C7QKmGUJ"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 197213,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2U7qb2oA4zNbZzF38rIo1N"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
-        "name": "Aber bei dir",
-        "url": "https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 146092,
-      "name": "Aber bei dir",
-      "url": "https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa"
     },
     {
       "added_at": "2023-01-03 23:00:00",

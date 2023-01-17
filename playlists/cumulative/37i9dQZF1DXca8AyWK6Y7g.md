@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,466 songs - 3 day 2 hr 58 min
+1,467 songs - 3 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,7 @@
 | [smh](https://open.spotify.com/track/6V2AuA7WxbBEDErRlbb20V) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [smh](https://open.spotify.com/album/4ysIWgICNiCKGwhEBKS85g) | 3:16 | 2021-04-21 | 2021-11-19 |
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-10-08 | 2022-01-08 |
 | [Smile](https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Smile](https://open.spotify.com/album/5gN92MuecXEnWHhf2C3Amd) | 3:23 | 2019-09-29 | 2021-05-16 |
-| [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 | 2022-12-02 |  |
+| [Smoke Signal](https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:32 | 2022-12-02 | 2023-01-17 |
 | [snakes](https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [achoo!](https://open.spotify.com/album/5jKZmUNJOPLqToPimNr41p) | 2:23 | 2022-04-01 | 2022-05-28 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-15 | 2022-08-27 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-02 |  |
@@ -1470,6 +1470,7 @@
 | [You Are Losing Me](https://open.spotify.com/track/2RZG69vGcBkMGZQf7JiO3v) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [You Are Losing Me](https://open.spotify.com/album/6oZI1hY0Xm2CYBA2Wvs2GA) | 3:27 | 2019-09-27 | 2020-04-18 |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
 | [YOUR GHOST](https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4) | [LOSS ANGELES: OVERDOSE](https://open.spotify.com/album/4J0gMzK8BpoGaNtHdTbH2W) | 2:53 | 2022-03-25 | 2022-05-14 |
+| [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-13 |  |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 | 2022-03-12 |
 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/1coz5IPrwKDDfCkIH0XnV8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/album/5OK2sna2808f7md7wQnSAh) | 4:26 | 2019-05-26\* | 2020-03-18 |
 | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/track/0rmyzkvYsf8BTIUbZqzh3r) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/album/0OFkJ9OmLuLHhMMx6c50Zq) | 3:10 | 2021-11-19 | 2021-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,366 likes - 63 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,402 likes - 63 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 24 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 |
 | 25 | [Ya Binti يا بنتي](https://open.spotify.com/track/26NE022e5BfYdvYh9okReN) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Ya Binti يا بنتي](https://open.spotify.com/album/49TmFXyLavSzC02TC1sbWg) | 4:03 |
 | 26 | [أغلاط](https://open.spotify.com/track/0nDgOVERfNUrwcLisM2S80) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [أغلاط](https://open.spotify.com/album/1FdXhZQfxKyqn1mldknNgT) | 3:02 |
-| 27 | [Sieli](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I) | [Sieli](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 |
+| 27 | [سيلي](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I), [بحر غازي](https://open.spotify.com/artist/46FaNQ24WNfMzWOVobepxY) | [سيلي](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 |
 | 28 | [Harramtou Bik Nouassi](https://open.spotify.com/track/0X98TbrviHZE701yHNPPEJ) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Harramtou Bik Nouassi](https://open.spotify.com/album/2QmHwn6lvPK84GTlFKdZDe) | 3:42 |
 | 29 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 |
 | 30 | [Wahna Kbar](https://open.spotify.com/track/7MUFWM9ColelDcWwUNpllS) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Wahna Kbar](https://open.spotify.com/album/3xGHjKsxftZypjhKbL8tA8) | 2:58 |

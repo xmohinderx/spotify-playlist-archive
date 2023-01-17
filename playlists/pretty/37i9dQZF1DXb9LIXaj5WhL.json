@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2278368,
+  "num_followers": 2278641,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMGEyYjg3MWM4MDViMzNhYzAwOTliYjBlZDIwMmY0OTRk",
+  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMDc0ODAzY2U2NjE1NzkzYzQ0YzVhODIwMDQ5YjRlMDk4",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "Plush - Acoustic",
-      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 316466,
       "name": "Crash into Me",
       "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Plush - Acoustic",
+      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "Foolish Games",
-      "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 261120,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "Foolish Games",
+      "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "Best 1991 - 2004",
         "url": "https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 324066,
       "name": "Kiss from a Rose - Acoustic",
       "url": "https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1135,6 +1151,22 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Pitseleh",
+      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     }
   ],
   "unique_name": "90s Acoustic",

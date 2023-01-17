@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Mike Bahía
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,689 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,815 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 76 | [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 |
 | 77 | [Quiero Saber](https://open.spotify.com/track/58bITP8kCWbCgSMR7pymTk) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/1yDStnQKSi1Tw11A38BFJc) | 4:07 |
 | 78 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
-| 79 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 |
+| 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDRmNDNjNjExYTBkZWI2NTI3Mzk1OGFjZDA5ZmVhODkw`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDNiMzY3NmQ3ZmVkOGIyOGNkMDk4YjlhNDYxNmMzZTli`

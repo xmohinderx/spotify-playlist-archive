@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,164 likes - 48 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,175 likes - 48 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 47 | [Wendy](https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:19 |
 | 48 | [Descendents](https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:44 |
 
-Snapshot ID: `Mjc4OTY1NjQsMDAwMDAwMDAyOGM5NjRhODNiNjU2Yzg4MzEyM2IzNGJlYzU3N2U3Yw==`
+Snapshot ID: `Mjc4OTc5OTEsMDAwMDAwMDAyNGJmNzZlMWRkMDI4M2JhMTcxYzIxY2I5N2MwMTc5Nw==`

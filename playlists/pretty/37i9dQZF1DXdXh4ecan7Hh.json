@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Lainey Wilson",
-  "num_followers": 110320,
+  "num_followers": 110337,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NzEwMCwwMDAwMDAwMGNkZDYxNDQzMWE5YTkwM2FiZDAyZjM3OTlhMmU0N2Nk",
+  "snapshot_id": "MTY3MzQ3NzEwMCwwMDAwMDAwMGEzMzVhOTc2OTk2ZGYzYTg3ZTFhZTc5ODdmNTM4NGEw",
   "tracks": [
     {
       "added_at": "2023-01-11 22:45:00",
@@ -116,6 +116,38 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
@@ -163,6 +195,22 @@
     {
       "added_at": "2023-01-11 22:45:00",
       "album": {
+        "name": "The Devil\u2019s Still Down in Georgia",
+        "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193702,
+      "name": "The Devil\u2019s Still Down in Georgia",
+      "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
@@ -179,54 +227,6 @@
       "duration_ms": 214655,
       "name": "House Fire (feat. The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "The Devil\u2019s Still Down in Georgia",
-        "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 193702,
-      "name": "The Devil\u2019s Still Down in Georgia",
-      "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-11 22:45:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 185331,
       "name": "Reasons (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 257787,
-      "name": "Liar Liar - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -1095,6 +1063,38 @@
       "duration_ms": 259430,
       "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 257787,
+      "name": "Liar Liar - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
     },
     {
       "added_at": "2023-01-11 22:45:00",

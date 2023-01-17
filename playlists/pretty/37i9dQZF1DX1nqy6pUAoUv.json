@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 174221,
+  "num_followers": 174253,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDA3ZjE3YTM0Mjg0MGIyYzQ2MzhiZjljZmI1MDYxYTRj",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg4Mzg2NjI2NzdkN2ExMTg3OTQwNTBjOTJmOWIzNzkz",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+        "name": "GREY",
+        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
+      "duration_ms": 211373,
+      "name": "Colour Me",
+      "url": "https://open.spotify.com/track/6MfsJgg1gTRxLbmh0ZZYi4"
     },
     {
       "added_at": "2022-02-25 19:11:37",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Ash & Stone",
         "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 171786,
       "name": "Behind the Light",
       "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "GREY",
-        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Colour Me",
-      "url": "https://open.spotify.com/track/6MfsJgg1gTRxLbmh0ZZYi4"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Vulture Prince",
-        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 462500,
-      "name": "Mohabbat",
-      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Front Row Seat to Earth",
-        "url": "https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Seven Words",
-      "url": "https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Front Row Seat to Earth",
+        "url": "https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Seven Words",
+      "url": "https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "The Parting Glass (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 171499,
-      "name": "The Parting Glass (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "The Parting Glass (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 171499,
+      "name": "The Parting Glass (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "If I Could Only Fly / True Love's Flame",
+        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        },
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "If I Could Only Fly",
+      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Over That Road I'm Bound",
         "url": "https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb"
       },
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "If I Could Only Fly / True Love's Flame",
-        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        },
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "If I Could Only Fly",
-      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Arkansas",
-        "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
-      },
-      "artists": [
-        {
-          "name": "John Oates",
-          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 249206,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Arkansas",
+        "url": "https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Arkansas",
+      "url": "https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
-        }
-      ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Beyond The Bloodhounds",
         "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+      },
+      "artists": [
+        {
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+        }
+      ],
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     }
   ],
   "unique_name": "Contemporary Folk",

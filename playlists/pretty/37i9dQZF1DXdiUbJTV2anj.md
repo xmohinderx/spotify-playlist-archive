@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Castle Rat
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,686 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,873 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 39 | [I Sing Alone](https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [I Sing Alone](https://open.spotify.com/album/0qxrvbiTs5U7exUPdyBlYP) | 3:33 |
 | 40 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 |
 | 41 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 |
-| 42 | [Yenta](https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs) | 3:09 |
+| 42 | [Yenta](https://open.spotify.com/track/2Fm1b9cFtMU5e5AgUoYBkQ) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.2](https://open.spotify.com/album/3SBsZ06WwMcqFU9tHPOSlV) | 3:05 |
 | 43 | [Burying Brightness](https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Burying Brightness](https://open.spotify.com/album/4B4bNthhcQ9ph657TTYsbG) | 3:27 |
 | 44 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 |
 | 45 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
 | 50 | [Chlorine Tears](https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Chlorine Tears](https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu) | 3:57 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGJhOGU2MTBjODg3ZTczOGE3YjVlMDg3ZjM0YmQwMjY1`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGY5NzA2ZDdlMTBlODhkZmEzNmVhY2VmODkyMWZlMDUy`

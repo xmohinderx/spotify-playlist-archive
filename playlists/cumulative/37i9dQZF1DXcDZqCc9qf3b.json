@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2"
+      },
+      "artists": [
+        {
+          "name": "EL3VATORS",
+          "url": "https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114963,
+      "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0"
+    },
+    {
+      "album": {
         "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
         "url": "https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz"
       },

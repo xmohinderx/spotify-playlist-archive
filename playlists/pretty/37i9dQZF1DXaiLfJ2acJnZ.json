@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 36080,
+  "num_followers": 36116,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMGFiZTljYjQ3ZDk5MTIxNjk0NmFiM2NmM2RjZGFhZTk3",
+  "snapshot_id": "MTY3MzAyNTc3NywwMDAwMDAwMDdmZTFiZDllNTExMmNiZjM4ZmFmOWU3OTc4YjdjOWM2",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Georgia",
         "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "There\u2019s Nothing But Space, Man!",
         "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
+      "added_at": "2023-01-17 01:35:12",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
       "added_at": "2022-10-28 20:58:08",
       "album": {
         "name": "Stick Season",
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 137352,
-      "name": "X&Y",
-      "url": "https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 137352,
+      "name": "X&Y",
+      "url": "https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
-    },
-    {
       "added_at": "2022-10-28 20:58:08",
       "album": {
         "name": "More",
@@ -787,6 +771,22 @@
       "duration_ms": 178520,
       "name": "say it",
       "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2023-01-17 01:35:12",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Pretty Face",
         "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
       },
@@ -951,21 +935,21 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "My 100",
-        "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
       },
       "artists": [
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         }
       ],
-      "duration_ms": 173640,
-      "name": "My 100",
-      "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
+      "duration_ms": 196682,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
     },
     {
-      "added_at": "2023-01-16 00:42:08",
+      "added_at": "2023-01-17 01:35:12",
       "album": {
         "name": "Phosphorescent",
         "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
@@ -979,6 +963,22 @@
       "duration_ms": 188792,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "My 100",
+        "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "My 100",
+      "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "DEACON",
         "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
     },
     {
       "added_at": "2022-10-28 20:58:08",

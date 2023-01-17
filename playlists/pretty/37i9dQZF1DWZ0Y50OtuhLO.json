@@ -1,12 +1,12 @@
 {
   "description": "Ana & Saff bring you the soundtrack to being to best version of you! #NYE2022",
-  "num_followers": 397749,
+  "num_followers": 397751,
   "original_name": "The Glow Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjE4NTg0OCwwMDAwMDAwMDEyNGJlNDg5ZTdkZTRjNDQzNGE5MmU2ZWY2ZGZlNmVh",
+  "snapshot_id": "MTY3MjE4NTg0OCwwMDAwMDAwMDVjNmYyMjc0OGYzYTA3ZDNjYTM5YWRmZWIwNWE2YjZi",
   "tracks": [
     {
       "added_at": "2022-12-24 00:00:00",
@@ -263,22 +263,18 @@
     {
       "added_at": "2022-12-24 00:00:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
       "added_at": "2022-12-24 00:00:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-12-24 00:00:00",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "added_at": "2022-12-24 00:00:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2022-12-24 00:00:00",
       "album": {
-        "name": "Don't Play",
-        "url": "https://open.spotify.com/album/707Yo7tTEf4TYZVIVde1uM"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/4I5bvu2KDsrCg0EWHIcvul"
-    },
-    {
-      "added_at": "2022-12-24 00:00:00",
-      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 172953,
       "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
       "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
+    },
+    {
+      "added_at": "2022-12-24 00:00:00",
+      "album": {
+        "name": "Don't Play",
+        "url": "https://open.spotify.com/album/707Yo7tTEf4TYZVIVde1uM"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/4I5bvu2KDsrCg0EWHIcvul"
     },
     {
       "added_at": "2022-12-24 00:00:00",

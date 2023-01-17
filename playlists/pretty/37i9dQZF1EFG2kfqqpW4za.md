@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 58 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 58 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 41 | [Sujeito Que Trabalha \- Ao Vivo](https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:12 |
 | 42 | [Reggae Music, Part\. 2](https://open.spotify.com/track/5LAGe0KdxSBOdMneQmtkIP) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8), [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Reggae Music, Part\. 2](https://open.spotify.com/album/034z5UZvukEOwvQM5Bbf6a) | 3:46 |
 | 43 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 |
-| 44 | [Deixa Ficar](https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Deixa Ficar](https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz) | 3:23 |
-| 45 | [Contei Até Três](https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Contei Até Três](https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB) | 3:26 |
+| 44 | [Contei Até Três](https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Contei Até Três](https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB) | 3:26 |
+| 45 | [Deixa Ficar](https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Deixa Ficar](https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz) | 3:23 |
 | 46 | [Pra Minha Gente \- Ao Vivo](https://open.spotify.com/track/1vnPHCB31rXkIgSinhWPKk) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Blessed Sessions \(Ao Vivo\)](https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5) | 3:19 |
 | 47 | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Vai Chover \(feat\. Hélio Bentes\)](https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A) | 4:30 |
 | 48 | [Embarque Nesse Trem](https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe) | [Dub Ataque](https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3), [Rico Neurótico](https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 4:18 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 57 | [Bob Rei](https://open.spotify.com/track/7kE6fG2ts21dvE5bnBNR2s) | [Diamba](https://open.spotify.com/artist/0LyH0e5DGvDiJTRCwi6EE7), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Fraternidade Musical Diamba](https://open.spotify.com/album/6Kjfm3aWl9mvxQnN3Bnc5M) | 4:28 |
 | 58 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `Mjc4OTcxODMsMDAwMDAwMDBmYTkxMjgxZDM3YmM5MDNmZDQ2NTgzMDYzMWMyOTM1ZA==`
+Snapshot ID: `Mjc4OTg2MjMsMDAwMDAwMDAyOGRkM2JhZDExOTE2NDRiM2U4OWE4ODg2ZTQ0N2QwMQ==`

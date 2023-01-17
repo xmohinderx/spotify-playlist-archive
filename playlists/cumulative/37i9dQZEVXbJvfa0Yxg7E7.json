@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 150000,
       "name": "Beklager (Guttaklubben)",
       "url": "https://open.spotify.com/track/2kPukYbkTVuvaNn4HhIPBW"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 201330,
       "name": "BlimE! - Den Ene",
       "url": "https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
@@ -7534,7 +7534,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 177266,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064"
@@ -8470,7 +8470,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 149240,
       "name": "Igjen",
       "url": "https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW"
@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 170281,
       "name": "Italia",
       "url": "https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23"
@@ -12348,7 +12348,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 178973,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF"
@@ -12488,6 +12488,28 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "album": {
+        "name": "Night In Oslo",
+        "url": "https://open.spotify.com/album/1oHyduyQgux6OrDUpSFdTU"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150359,
+      "name": "Night In Oslo",
+      "url": "https://open.spotify.com/track/4XnMxCBN6BQw6eUFXwUwKb"
     },
     {
       "album": {
@@ -12990,6 +13012,28 @@
       "duration_ms": 204336,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
+    },
+    {
+      "album": {
+        "name": "Olav Olav",
+        "url": "https://open.spotify.com/album/41Hk60CjfpiMR5KinMDyIj"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130162,
+      "name": "Olav Olav",
+      "url": "https://open.spotify.com/track/2NfhmhQIlkbzaLxuUoRoTG"
     },
     {
       "album": {
@@ -13978,6 +14022,24 @@
       "duration_ms": 181251,
       "name": "P\u00e5 Tur",
       "url": "https://open.spotify.com/track/4TwurN6O3mmNVXFj8m35wV"
+    },
+    {
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "album": {

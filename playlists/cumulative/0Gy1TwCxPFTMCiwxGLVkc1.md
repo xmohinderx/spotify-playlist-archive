@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-84 songs - 3 hr 44 min
+85 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-05-27 | 2022-10-26 |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
 | [Bright Lights](https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Bright Lights](https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3) | 4:22 | 2022-10-25 |  |
-| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 |  |
+| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 | 2023-01-17 |
 | [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-10-25 |  |
 | [Colors](https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X) | [Toys and Colors](https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K) | [Colors](https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1) | 2:13 | 2022-10-31 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/11aNnE6AFyuYbk4bSlHKFO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4) | 3:05 | 2022-05-27 | 2022-10-26 |
@@ -72,6 +72,7 @@
 | [Spideys Don't Give Up \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Spideys Don't Give Up \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ) | 0:59 | 2022-10-25 |  |
 | [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 | 2022-10-25 | 2022-11-08 |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-05-27 | 2022-10-26 |
+| [SuperKitty Call](https://open.spotify.com/track/7sNz8djgmg2wkZMN9ozQPv) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 2:04 | 2023-01-16 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-10-25 |  |
 | [The Aquathawn](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 | 2022-11-07 | 2022-12-06 |
 | [The Doc Is 10 \- From "Disney Junior Music: Doc McStuffins"](https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [The Doc Is 10 \(From "Disney Junior Music: Doc McStuffins"\)](https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada) | 2:09 | 2022-10-25 |  |

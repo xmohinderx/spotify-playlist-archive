@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: La Dani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,133 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,154 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi cama huele a ti](https://open.spotify.com/track/4s5kWwIvjdGROkGS2kQ38V) | [La Dani](https://open.spotify.com/artist/3TJq3RpStgVuYfSyZ1jQJS), [936](https://open.spotify.com/artist/4zbUEP4kM8M21YqMtWbP0v) | [Mi cama huele a ti](https://open.spotify.com/album/2PqaGm3QH7uXQfWs3nB0pt) | 2:07 |
-| 2 | [To Borrachos](https://open.spotify.com/track/22LIk5dy9vKKEOmBuozc6Y) | [Eva Puc](https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO), [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [To Borrachos](https://open.spotify.com/album/1UN3z7FDBA95Cj2xS0hYdT) | 2:40 |
-| 3 | [TK](https://open.spotify.com/track/4iPtYxmNRyirGxbA9tHM85) | [2001](https://open.spotify.com/artist/4ptSxeecnfuKKrOm7oCVPT) | [TK](https://open.spotify.com/album/08RDZE517heZAGdYviYRcu) | 2:26 |
-| 4 | [ANGELITOS](https://open.spotify.com/track/3QKrnBpFuDbyfj2dpKK1Ae) | [REWAY](https://open.spotify.com/artist/2zPKKlOYbIFo1OayeSLF9C) | [ANGELITOS](https://open.spotify.com/album/51jnFV59JskQyvcvfp0wHX) | 3:04 |
-| 5 | [NMDLV](https://open.spotify.com/track/4eAFArk45q3jk70ssY3jMf) | [Margielin](https://open.spotify.com/artist/0Kp2ACUPUbT5GK7gOo6M40) | [NMDLV](https://open.spotify.com/album/1UcPmHrhoOPtIwCTrYGpRF) | 3:58 |
-| 6 | [Betis](https://open.spotify.com/track/3Pc4wTHZmOP6TrqmZGHUSR) | [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX) | [Betis](https://open.spotify.com/album/1wZJgeR3nD9qCFu6Ft8oIc) | 3:36 |
-| 7 | [Llueve](https://open.spotify.com/track/0k1MYaKJFvChRAm3dx8Ce5) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Llueve](https://open.spotify.com/album/5twgYHYuQrtXvOzrcTBKJ3) | 3:00 |
-| 8 | [\#kiero](https://open.spotify.com/track/1xKeZ81xueH3YDv6UYomhK) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc), [naxito jüeves](https://open.spotify.com/artist/38y63ICG47Pee4vUkYlSET) | [\#kiero](https://open.spotify.com/album/6yleLldHHyxeqTlII0DCPK) | 2:31 |
-| 9 | [Todo esto](https://open.spotify.com/track/2CInTjiAuiDmXCu1KFwnje) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Todo esto](https://open.spotify.com/album/7x0iimj0cN4ydG2P9zk0dg) | 3:56 |
+| 2 | [TK](https://open.spotify.com/track/4iPtYxmNRyirGxbA9tHM85) | [2001](https://open.spotify.com/artist/4ptSxeecnfuKKrOm7oCVPT) | [TK](https://open.spotify.com/album/08RDZE517heZAGdYviYRcu) | 2:26 |
+| 3 | [ANGELITOS](https://open.spotify.com/track/3QKrnBpFuDbyfj2dpKK1Ae) | [REWAY](https://open.spotify.com/artist/2zPKKlOYbIFo1OayeSLF9C) | [ANGELITOS](https://open.spotify.com/album/51jnFV59JskQyvcvfp0wHX) | 3:04 |
+| 4 | [NMDLV](https://open.spotify.com/track/4eAFArk45q3jk70ssY3jMf) | [Margielin](https://open.spotify.com/artist/0Kp2ACUPUbT5GK7gOo6M40) | [NMDLV](https://open.spotify.com/album/1UcPmHrhoOPtIwCTrYGpRF) | 3:58 |
+| 5 | [Betis](https://open.spotify.com/track/3Pc4wTHZmOP6TrqmZGHUSR) | [MOL](https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX) | [Betis](https://open.spotify.com/album/1wZJgeR3nD9qCFu6Ft8oIc) | 3:36 |
+| 6 | [Llueve](https://open.spotify.com/track/0k1MYaKJFvChRAm3dx8Ce5) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Llueve](https://open.spotify.com/album/5twgYHYuQrtXvOzrcTBKJ3) | 3:00 |
+| 7 | [\#kiero](https://open.spotify.com/track/1xKeZ81xueH3YDv6UYomhK) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc), [naxito jüeves](https://open.spotify.com/artist/38y63ICG47Pee4vUkYlSET) | [\#kiero](https://open.spotify.com/album/6yleLldHHyxeqTlII0DCPK) | 2:31 |
+| 8 | [Todo esto](https://open.spotify.com/track/2CInTjiAuiDmXCu1KFwnje) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Todo esto](https://open.spotify.com/album/7x0iimj0cN4ydG2P9zk0dg) | 3:56 |
+| 9 | [To Borrachos](https://open.spotify.com/track/22LIk5dy9vKKEOmBuozc6Y) | [Eva Puc](https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO), [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [To Borrachos](https://open.spotify.com/album/1UN3z7FDBA95Cj2xS0hYdT) | 2:40 |
 | 10 | [La Ciudad](https://open.spotify.com/track/571JV3OrWg5HZEuGDdxNq7) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [La Ciudad](https://open.spotify.com/album/6dJj5TF606M4PxjOo8tk1t) | 4:16 |
 | 11 | [Collar con forma de corazón](https://open.spotify.com/track/1s4w5WU52NTVlTbUAW3ipE) | [Carlota](https://open.spotify.com/artist/7ieDG7FO3bPWJyP7EDYLvH) | [Collar con forma de corazón](https://open.spotify.com/album/5fEmPRTpPvAGBPfXVftA1B) | 2:51 |
 | 12 | [CARMÍN](https://open.spotify.com/track/5UguVNKNa1gJ7hQuIDQf3x) | [Karlitos](https://open.spotify.com/artist/4289hjOSjOgsQWtVTZXTKd) | [URBANÍA](https://open.spotify.com/album/3iQ0qBJHV40R0waujZc6T4) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Una Vida Sin Más](https://open.spotify.com/track/1qYGJN1mDashFt44AHYwZU) | [PÖLVORA](https://open.spotify.com/artist/37Wh3JdgQHZCTjNjZZyFZE) | [Una Vida Sin Más](https://open.spotify.com/album/49VXOMdjL92gYUDpGG2okQ) | 3:52 |
 | 50 | [Creyendo en los sueños](https://open.spotify.com/track/5Oinyfus0VwiJWlYJNAZRs) | [Haches](https://open.spotify.com/artist/09avX8Apk0um4wNEGog7RI) | [La vida que nos pasa](https://open.spotify.com/album/2oI51PVZrWalprhrzokrky) | 4:20 |
 
-Snapshot ID: `MTY3MzM5MTYwMCwwMDAwMDAwMDBmZmFlZWIyZWRlYTRhNjgwYTVhNTk0MzQxOTMyOThl`
+Snapshot ID: `MTY3Mzg2OTg1NywwMDAwMDAwMDM5MzY4MmNmM2E1MWE2OWI0MzhhZGQ0MWJkNGMxM2Ji`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,799 likes - 149 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,974 likes - 149 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 97 | [Chopper](https://open.spotify.com/track/0w7AG9UksTH3yHNzmMzwwq) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chopper](https://open.spotify.com/album/7ggLaz0nrCCM8Nwa6hCIqG) | 2:24 |
 | 98 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
 | 99 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 |
-| 100 | [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 |
+| 100 | [Club404](https://open.spotify.com/track/2m4A0JpCC4IMLD5RDVZLMv) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/5shgTl2IgyJyH8WIB8n1ig) | 2:43 |
 | 101 | [paint](https://open.spotify.com/track/28p37blBJxXtnAtl9ndjC0) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [tile & error](https://open.spotify.com/album/1kMqljBJ3CMhls6972lJ8H) | 2:32 |
 | 102 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [Drill](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 |
 | 103 | [Them](https://open.spotify.com/track/4ySBPKrqsXLY4Gwz0h2H2C) | [Thip Trong](https://open.spotify.com/artist/6vbequGJ52lQZ2u4ZfEjO2) | [Them / Daraba](https://open.spotify.com/album/4lZTUBQEIm2d2PwKHLU8Kq) | 2:38 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 148 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 | 149 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 |
 
-Snapshot ID: `MTY3MzAyMDUxMiwwMDAwMDAwMDQzOGQyZmM5MTExMmY4NTkxMWJlOGNjYjNjOWNjZWZi`
+Snapshot ID: `MTY3MzAyMDUxMiwwMDAwMDAwMDk5N2IxYjNiNzhlZTg3YjhkMjQ3YTEwZDBjMmRmY2Mz`

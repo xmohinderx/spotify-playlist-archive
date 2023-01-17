@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-202 songs - 12 hr 57 min
+203 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-07-14 | 2022-10-08 |
 | [I Try](https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT) | 4:17 | 2022-03-30 | 2022-07-29 |
 | [I Will Wait for You](https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8) | [Lisa Lovbrand](https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc) | [Let Me Love You](https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII) | 3:39 | 2022-08-19 |  |
+| [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 | 2023-01-12 |  |
 | [I'm Confessin'](https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 2:58 | 2022-08-19 | 2022-10-08 |
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e) | 2:35 | 2022-07-14 |  |
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/5gZeO99hPC7esm5oOqIllA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:35 | 2021-12-21 | 2022-07-29 |
@@ -144,7 +145,7 @@
 | [Peace \- First Sessions Demo](https://open.spotify.com/track/2FJKQdIBrHf89QIrPuSmoo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:51 | 2022-08-09 | 2022-10-08 |
 | [Pennies From Heaven \(with Michael Bublé\)](https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets](https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC) | 4:10 | 2021-12-21 |  |
 | [Place To Hide](https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Soul Eyes](https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9) | 3:44 | 2022-09-08 |  |
-| [Red](https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [As You Wish](https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG) | 1:45 | 2022-05-05 |  |
+| [Red](https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb) | [Cassidy Place](https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54) | [As You Wish](https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG) | 1:45 | 2022-05-05 | 2023-01-17 |
 | [Save Your Love for Me](https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [On Vacation](https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY) | 5:26 | 2021-12-21 |  |
 | [Say You'll Be There](https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [LIVING ROOM 2](https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy) | 3:37 | 2021-12-21 |  |
 | [Seven Years](https://open.spotify.com/track/39kuVkJjfRjXqUpAtkDItK) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:25 | 2022-02-24 | 2022-07-07 |

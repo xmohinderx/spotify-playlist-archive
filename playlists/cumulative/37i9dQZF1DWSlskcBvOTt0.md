@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-352 songs - 1 day 12 hr 39 min
+353 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Eu Topos](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Mimi Page](https://open.spotify.com/artist/1USUeNBNJcg7Of34Ix74lM) | [Eu Topos EP](https://open.spotify.com/album/5XCivT6plqzOBxohhuM7CJ) | 4:04 | 2021-04-21 | 2022-05-15 |
 | [Eunoia \- Original Mix](https://open.spotify.com/track/26btt4R7IRda2CHmuidTLM) | [Matan Caspi](https://open.spotify.com/artist/0vgVqK5WmUVzi4lozaSKWd) | [Eunoia](https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9) | 7:26 | 2021-10-01 | 2022-04-21 |
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |
-| [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 |  |
+| [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-10-28 | 2023-01-17 |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-24 | 2022-12-17 |
 | [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 |  |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 |  |
@@ -329,6 +329,7 @@
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-10-01 | 2023-01-14 |
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Unexpected \- Original Mix](https://open.spotify.com/track/6r51snBpocTojQyqiTvydG) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Unexpected](https://open.spotify.com/album/3fUMfl3s0VtOVWeRshPSGj) | 7:02 | 2022-07-01 | 2022-07-29 |
+| [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 | 2022-12-09 |  |
 | [Universal Love](https://open.spotify.com/track/3XkAYEddiASB6h8J0cwAt0) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 6:08 | 2022-07-01 | 2022-11-16 |
 | [Universal Love](https://open.spotify.com/track/531RaZXLyYi8ZiIpqSGjwJ) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 6:08 | 2022-07-01 | 2023-01-15 |
 | [Universal Love](https://open.spotify.com/track/7uJvzzUgt8CpkEduX4m1Sp) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Universal Love](https://open.spotify.com/album/0bGjyf76ywFnY5fMLRNLqV) | 6:08 | 2022-05-24 | 2022-10-17 |

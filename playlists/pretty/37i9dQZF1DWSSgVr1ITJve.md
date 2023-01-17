@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 ### [Afro Arab](https://open.spotify.com/playlist/37i9dQZF1DWSSgVr1ITJve)
 
-> Afro culture mixed with Arab vibes\. Cover: NORDO.
+> Afro culture mixed with Arab vibes\. Cover: kouz1
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,579 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,688 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 |
 | 2 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 |
 | 3 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
-| 4 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
+| 4 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
 | 5 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
 | 6 | [Man On Fire \- North Africa Remix](https://open.spotify.com/track/416C8Z5XpYe3Bw6ARnFieF) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Man On Fire \(North Africa Remix\)](https://open.spotify.com/album/3IdsPL40Zv0UQfWpCRoPtk) | 2:47 |
 | 7 | [Tab Tab](https://open.spotify.com/track/5DinnPLecFV8N9b5QuZc8D) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:15 |
-| 8 | [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 |
+| 8 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
 | 9 | [Malika](https://open.spotify.com/track/5zecrB7Yub6a6tHY3LFQq5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Malika](https://open.spotify.com/album/3uhcblhut5YjsCAt8XJKQ2) | 2:56 |
 | 10 | [Shwaya](https://open.spotify.com/track/5icfspjoebfUNF7gBYY8r0) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Don Fuego](https://open.spotify.com/artist/1yMnbFn2UuiDitvAcvPen5) | [Shwaya](https://open.spotify.com/album/7JiO5q933nOd6of0iMOg55) | 2:13 |
 | 11 | [Ma Nssit](https://open.spotify.com/track/1TV0wz0iAOiPMETEK8ywhl) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Kami Muzic](https://open.spotify.com/artist/7gwxgj3x9nJirsEwckTIms) | [Notalgie](https://open.spotify.com/album/6OqhouMSH01qp4CNl1VXYQ) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY3Mzc2MzU2MCwwMDAwMDAwMDhjZjAxNDEyYTdiYzA0ZWIyZmQ0NzlhYWE4MDExNGNj`
+Snapshot ID: `MTY3Mzg2NTkzMSwwMDAwMDAwMDg3MzI4MGRiOGE0MmVjMjNiMmQ1MDg3MjQ1NjA3NmI3`

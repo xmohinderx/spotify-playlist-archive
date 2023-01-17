@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 191800,
+  "num_followers": 191848,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDE1YjQwNjMyMDQwYjZjNDBkYzVhNGEyMTBhMjA5YTI5",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDY5YTRlMWJiMjQzY2JmMTc2MjIxYzYzNjkxNTRhMTY2",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -287,22 +287,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Through the Barricades (Remastered)",
-        "url": "https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 359768,
-      "name": "Through the Barricades - Remastered",
-      "url": "https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 302600,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Through the Barricades (Remastered)",
+        "url": "https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 359768,
+      "name": "Through the Barricades - Remastered",
+      "url": "https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -655,22 +655,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "This Woman's Work - 2018 Remaster",
-      "url": "https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 288200,
       "name": "I Hear You Now",
       "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "This Woman's Work - 2018 Remaster",
+      "url": "https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -943,6 +943,30 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Jeff Beck's Guitar Shop With Terry Bozzio And Tony Hymas (with Terry Bozzio & Tony Hymas)",
+        "url": "https://open.spotify.com/album/1JJtA0AmTd6N72qzbPOAjA"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "Terry Bozzio",
+          "url": "https://open.spotify.com/artist/4Mg2halT7xTynJTPbyddHr"
+        },
+        {
+          "name": "Tony Hymas",
+          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
+      "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Punch The Clock",
         "url": "https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 282973,
       "name": "Forbidden Colors",
       "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Jeff Beck's Guitar Shop With Terry Bozzio And Tony Hymas (with Terry Bozzio & Tony Hymas)",
-        "url": "https://open.spotify.com/album/1JJtA0AmTd6N72qzbPOAjA"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        },
-        {
-          "name": "Terry Bozzio",
-          "url": "https://open.spotify.com/artist/4Mg2halT7xTynJTPbyddHr"
-        },
-        {
-          "name": "Tony Hymas",
-          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
-      "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hats",
-        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
-      },
-      "artists": [
-        {
-          "name": "The Blue Nile",
-          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "From a Late Night Train",
-      "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Yellow Moon",
         "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Two Faces",
-      "url": "https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH"
+      "duration_ms": 239986,
+      "name": "From a Late Night Train",
+      "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Love Over Gold",
-        "url": "https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5"
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 406866,
-      "name": "Private Investigations",
-      "url": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
+      "duration_ms": 180960,
+      "name": "Two Faces",
+      "url": "https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1307,6 +1291,22 @@
       "duration_ms": 270666,
       "name": "I'll Find My Way Home - Remastered",
       "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Love Over Gold",
+        "url": "https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 406866,
+      "name": "Private Investigations",
+      "url": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
     }
   ],
   "unique_name": "Chilled 80s",

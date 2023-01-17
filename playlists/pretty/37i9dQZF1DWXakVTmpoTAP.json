@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGZiYTllZTFmOGE1ZmIxZGMwZDg0MWY3NGVkZTliM2Mz",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDk0OGRjZmQ0ZWM3NTkwM2Q4YjBkOTcxNTIzZDUzOWIz",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 245693,
       "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
       "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/3BgJSYve7Hvp80NZ6JWTmK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 251186,
       "name": "Father and Daughter",
       "url": "https://open.spotify.com/track/4aU1zq0W9Ftg1UAQSj4aHN"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2022-06-09 16:13:45",

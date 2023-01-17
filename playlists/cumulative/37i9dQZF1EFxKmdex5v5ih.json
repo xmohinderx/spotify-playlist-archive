@@ -1619,6 +1619,32 @@
     },
     {
       "album": {
+        "name": "The Burning Point Sessions",
+        "url": "https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3"
+      },
+      "artists": [
+        {
+          "name": "Slaus Brown-Paul",
+          "url": "https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5"
+        },
+        {
+          "name": "Shon Howard",
+          "url": "https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD"
+        },
+        {
+          "name": "Tony Medina",
+          "url": "https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317598,
+      "name": "Folding My Patience",
+      "url": "https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL"
+    },
+    {
+      "album": {
         "name": "Footprints",
         "url": "https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i"
       },
@@ -2988,7 +3014,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 186049,
       "name": "Memories (Karaoke Version) (Instrumental)",
       "url": "https://open.spotify.com/track/5TRVEQRx72bIBU9zOht3gO"

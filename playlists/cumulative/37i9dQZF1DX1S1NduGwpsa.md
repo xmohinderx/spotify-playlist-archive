@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Paul Carrack
 
-197 songs - 14 hr 27 min
+198 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 |  |
+| [Trucmuche](https://open.spotify.com/track/3NW4eGNqozQfGVV7sFzKVo) | [Samuel Strouk](https://open.spotify.com/artist/12h3jiJmfpd9NK2FTN9VYy), [Jérémie Arranger](https://open.spotify.com/artist/1M6MezxT5xyINMC8egxjqx), [François Salque](https://open.spotify.com/artist/0fW8GvidjXGHw0xy7xXTJJ), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Trucmuche](https://open.spotify.com/album/755vMWmkmZKIJ9FCaE4exf) | 4:02 | 2023-01-16 |  |
 | [Turning Around](https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Turning Around](https://open.spotify.com/album/1eQB09l2HbQH6fraSQIDxL) | 4:06 | 2022-04-14 | 2022-04-22 |
 | [Une Seule Etoile](https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Une Seule Etoile](https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz) | 3:43 | 2022-09-16 | 2022-12-09 |
 | [Until](https://open.spotify.com/track/2nh63pxeJEX6zXbxNYshCj) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Until](https://open.spotify.com/album/2XA39yUkkqgUHVu4pdblOx) | 6:31 | 2022-04-14 | 2022-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Grave Pleasures
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,512 likes - 305 songs - 19 hr 42 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,524 likes - 305 songs - 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

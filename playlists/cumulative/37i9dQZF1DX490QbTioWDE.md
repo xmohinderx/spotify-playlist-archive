@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-283 songs - 18 hr 47 min
+284 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Tu Nombre](https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Tu Nombre](https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj) | 3:24 | 2022-04-15 | 2022-08-13 |
 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2022-09-05 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 | 2021-12-24 |  |
-| [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 |  |
+| [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 | 2023-01-17 |
+| [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 | 2023-01-13 |  |
 | [Tú no te Imaginas](https://open.spotify.com/track/6K7ABNdo8uxztJxrBPdmbJ) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Tú no te Imaginas](https://open.spotify.com/album/17HIue6wl9xnB9VLuch9dG) | 2:43 | 2022-05-27 | 2022-06-15 |
 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 | 2021-12-24 |  |
 | [Un Perfecto Idiota](https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Un Perfecto Idiota](https://open.spotify.com/album/1GYYVySTRFlsNI2A50DfGR) | 4:02 | 2021-12-24 | 2022-07-29 |

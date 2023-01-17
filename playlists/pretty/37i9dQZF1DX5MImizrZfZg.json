@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 44087,
+  "num_followers": 44138,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGMzMDljMzZjYjkxYjliMmM4NjA1Nzc0NjNlMzQ1NDQz",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGNjYmY5OTVjZDJiYzY2ODgyYmNhOWNmYzdhOWJjMTEz",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Tequila Moon",
-        "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Tequila Moon",
-      "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 214986,
       "name": "Keepin' It Cool",
       "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Tequila Moon",
+        "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Tequila Moon",
+      "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Chillin'",
-        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 242000,
       "name": "11:58",
       "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Chillin'",
+        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Floor & More",
-      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Floor & More",
+      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
     },
     {
       "added_at": "2020-08-19 19:15:51",

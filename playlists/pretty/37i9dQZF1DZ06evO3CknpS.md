@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810 likes - 32 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 812 likes - 32 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 27 | [Doubt](https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve) | [Mikhail Glinka](https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 2:29 |
 | 28 | [Habanera](https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music and Memories: Clara Rockmore \(Bonus Album\)](https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv) | 2:59 |
 | 29 | [Commentary 2](https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j) | [Robert Sherman](https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 1:08 |
-| 30 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
-| 31 | [Concerto for Two Violins in D minor, BWV 1043.: 2: Largo](https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 7:23 |
+| 30 | [Concerto for Two Violins in D minor, BWV 1043.: 2: Largo](https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 7:23 |
+| 31 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 | 32 | [WNYC Radio Broadcast, September 12, 1995](https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ) | [Daviod Garland](https://open.spotify.com/artist/0CIXE3ZoSDRb6sE2Vr7fdV), [David Garland](https://open.spotify.com/artist/3oS1slqwJmcbNAngVjvXBR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 7:19 |
 
-Snapshot ID: `Mjc4OTY1NjQsMDAwMDAwMDBiNDRkM2ViNWVjYjkyYTJjNjBjYWYwZjIwN2ZjYzBkZA==`
+Snapshot ID: `Mjc4OTc5OTEsMDAwMDAwMDBiNGRiMjQxODBjZGI2MTMwYjE5MzA3ZjRlNmE4NjkzNw==`

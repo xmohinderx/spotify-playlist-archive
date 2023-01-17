@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
@@ -532,6 +532,24 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "album": {
+        "name": "Unis vers l'uni",
+        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182047,
+      "name": "La bo\u00eete de jazz",
+      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
     },
     {
       "album": {

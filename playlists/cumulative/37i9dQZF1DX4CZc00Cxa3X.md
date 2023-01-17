@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-180 songs - 14 hr 27 min
+181 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 | 2022-03-17 | 2022-07-27 |
-| [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 |  |
+| [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 | 2023-01-17 |
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
 | [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 | 2023-01-07 |
 | [I Know We Promised](https://open.spotify.com/track/5KUYsVRILcXhs2C5mwe8O5) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [I Know We Promised](https://open.spotify.com/album/1utZ4FvOpJto27aOpa7EBo) | 3:02 | 2022-03-17 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [Notwithstanding](https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:52 | 2022-03-30 | 2023-01-07 |
 | [Nótt \(Theta Waves\)](https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Nótt \(Theta Waves\)](https://open.spotify.com/album/3L1KvebprV9Eek8EC6BEPe) | 4:03 | 2022-03-17 | 2023-01-07 |
 | [Objects With Intent \- Heathered Pearls Remix](https://open.spotify.com/track/5LS0asKEyjsjXmbC4EYSlB) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY), [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Objects With Intent \(Heathered Pearls Remix\)](https://open.spotify.com/album/3ElI4A720abHnbeJi0Kf2P) | 4:35 | 2022-03-17 | 2022-09-21 |
+| [Of Woods and Seas](https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:25 | 2023-01-13 |  |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2022-03-17 |  |
 | [One Day Early](https://open.spotify.com/track/2XUYOwgUAVzxYNfZX4lPIj) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [One Day Early](https://open.spotify.com/album/4UPKKJk7iQsYauHS72tkeF) | 27:53 | 2022-03-17 | 2022-07-28 |
 | [Open Handed](https://open.spotify.com/track/7fBI4qaCF4LTisfqxyCjFX) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Open Handed](https://open.spotify.com/album/0OMRDlt8V9W7kjybKUbwSi) | 3:24 | 2022-10-04 |  |

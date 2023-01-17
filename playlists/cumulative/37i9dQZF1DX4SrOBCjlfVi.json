@@ -40455,6 +40455,24 @@
     },
     {
       "album": {
+        "name": "WALKED IN",
+        "url": "https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142843,
+      "name": "WALKED IN",
+      "url": "https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF"
+    },
+    {
+      "album": {
         "name": "Walkin",
         "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
       },

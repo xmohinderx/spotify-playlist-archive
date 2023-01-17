@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-200 songs - 12 hr 4 min
+201 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Sayonee \(From "Sayonee"\)](https://open.spotify.com/track/29i8dl5ip9Q7euX7qMX2r3) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Joy\-Anjan](https://open.spotify.com/artist/42WsTcnGljaqT11q4bmQ43), [Junoon Band](https://open.spotify.com/artist/3gMnHuNX4jxHEbHIJ9ga8g) | [Sayonee \(From "Sayonee"\)](https://open.spotify.com/album/4JTklpY1F9kqCBTdi5jkSt) | 6:32 | 2020-12-14 | 2022-04-19 |
 | [Senorita](https://open.spotify.com/track/2X43mUjx1b3Y2TPnRVU0oW) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Senorita](https://open.spotify.com/album/5UYxAn1wqzf3xOc1M9qxUe) | 3:33 | 2022-03-15 | 2022-04-19 |
 | [Shaitan Ka Saala \(From "Housefull 4"\)](https://open.spotify.com/track/7IAJzec1UxGYmNvbPTHbxx) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Shaitan Ka Saala \(From "Housefull 4"\)](https://open.spotify.com/album/7sxgA4JjytTlBrtI9VXPAf) | 2:27 | 2019-10-22 | 2022-01-14 |
+| [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 | 2023-01-16 |  |
 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 | 2020-01-22 |  |
 | [Shayad \- English Rendition](https://open.spotify.com/track/7xrq4MXCHy2cu3Ed9K9np0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Shayad \(English Rendition\)](https://open.spotify.com/album/4tqs0r2YVq8dgYULfNYbRd) | 2:41 | 2021-01-25\* | 2021-07-14 |
 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 | 2018-12-07 |  |

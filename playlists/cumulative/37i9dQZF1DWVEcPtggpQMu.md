@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=tzNMePiLT2KYspD7sMAzeQ">K.O</a>
 
-434 songs - 23 hr 25 min
+435 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Intlungu Remix](https://open.spotify.com/track/6w9FTHl4LgDtZOJj3P25vy) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [El Niño](https://open.spotify.com/artist/2L2WKbH89SpB6pWQhniUW2), [PZHO TKG](https://open.spotify.com/artist/7CX8mDtNA5CND5SEbuzvo3), [ProXnakemynd](https://open.spotify.com/artist/3Sqs1PXAznyM9P7Ul6bKRk), [Manqoba](https://open.spotify.com/artist/5ZSaQPLp5jheFwSB2Q5aDF), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [Intlungu Remix](https://open.spotify.com/album/54eiEB4wlj22HwR3HqsRQc) | 4:30 | 2022-09-22 | 2022-12-13 |
 | [INVASION OF DRILL](https://open.spotify.com/track/03DVqPdZQa65UNXyGGvwts) | [Breeze Zulu Bass King](https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q), [808RSA](https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz) | [INVASION OF DRILL](https://open.spotify.com/album/1CBthDD0B9ovr72AoNKmTw) | 3:12 | 2022-08-11 | 2022-12-13 |
 | [It Get Heavy](https://open.spotify.com/track/1quShxByXlkNEWB5hlF1XE) | [Bambi](https://open.spotify.com/artist/0Xb7fP5TfMhGEuRucG7etD), [Lone Steppa](https://open.spotify.com/artist/0HKrZnHB7llFrvJwTRdih0) | [It Get Heavy](https://open.spotify.com/album/1QaDBDsGVfWbB4vSu0DWs4) | 1:45 | 2022-07-14 | 2022-07-29 |
+| [ITS BAD](https://open.spotify.com/track/1o12jDDqYyG60zpxX1TAWZ) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Flow Jones Jnr.](https://open.spotify.com/artist/4NRgS7ZU0kOzMWavON0MZN), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [THIS IS RELIGION](https://open.spotify.com/album/5ITleVPjnTRzYudzWbBN8R) | 2:27 | 2023-01-16 |  |
 | [Ixesha](https://open.spotify.com/track/2PrVcYvmRp6vEPWZt4AJxw) | [Khanyisa](https://open.spotify.com/artist/0xjziBiIudUcmZgSMoaz5I), [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Ixesha](https://open.spotify.com/album/5ng75730JiwsV9T9goNGJc) | 5:06 | 2022-03-03 | 2022-03-11 |
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2022-12-12 |  |
 | [Javelin](https://open.spotify.com/track/6bcJBoJLsdvISi6M5c3O79) | [Ofentse](https://open.spotify.com/artist/0hzHRPp0UkdwoSVhWqUWai), [VenomRaps](https://open.spotify.com/artist/3SAqo6Io8ovagEFHDcsxMC), [Thekidsnextdoor](https://open.spotify.com/artist/3RShIcV5kdBbcpH1XN5im0) | [Javelin](https://open.spotify.com/album/2IVWmWqvOi89ICkMc1kzxF) | 2:58 | 2022-06-27 | 2022-10-15 |
@@ -414,7 +415,7 @@
 | [Utshintsho](https://open.spotify.com/track/4N0UBPgoVpoU3OPXuJejCm) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X) | [Utshintsho](https://open.spotify.com/album/58O1QRB8n1cyWrHtpCH0NW) | 3:46 | 2022-10-31 | 2022-12-13 |
 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 | 2022-02-17 | 2022-03-18 |
 | [Vent](https://open.spotify.com/track/1Bn5iMiuhU4M6hnsQ9V4SV) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Vent](https://open.spotify.com/album/6b0XECaGyxx0JyX5sXAcGZ) | 3:29 | 2022-03-24 | 2022-04-15 |
-| [VIBE ON 10](https://open.spotify.com/track/5shJtAMdfjAzlA87Chk5OP) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [Damaris Joi](https://open.spotify.com/artist/7p9lhAEkeQ3d47Sxf3RjJC) | [MIRROR MAN](https://open.spotify.com/album/3OLhIvb4x0YMyQX5UvcuRi) | 3:29 | 2022-12-12 |  |
+| [VIBE ON 10](https://open.spotify.com/track/5shJtAMdfjAzlA87Chk5OP) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [Damaris Joi](https://open.spotify.com/artist/7p9lhAEkeQ3d47Sxf3RjJC) | [MIRROR MAN](https://open.spotify.com/album/3OLhIvb4x0YMyQX5UvcuRi) | 3:29 | 2022-12-12 | 2023-01-17 |
 | [Vitamins](https://open.spotify.com/track/4FztaK6HdUFi5ueZmRIJa9) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Vitamins](https://open.spotify.com/album/7t4gK0sBLDkytTbcmknGWM) | 1:51 | 2022-10-31 | 2022-12-13 |
 | [Vuyani](https://open.spotify.com/track/4J5bRYtsXvl1fzpmt87O8A) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Vuyani Dyoli](https://open.spotify.com/artist/6aJDVHqSBpLoVHCeRskLNg) | [Vuyani](https://open.spotify.com/album/5YNzGQfVaYKJPIrMnCJO5w) | 3:51 | 2022-02-10 | 2022-02-25 |
 | [Wa Jaja Mos](https://open.spotify.com/track/2dYgMwFd6TSqwGDu51mhBD) | [Bugzito](https://open.spotify.com/artist/2v7qhEvWpiZpKIBPl2rI2t) | [The Backstory EP](https://open.spotify.com/album/1m2hkbaBvGBG0WmWL4W9S4) | 3:55 | 2022-01-20 | 2022-02-11 |

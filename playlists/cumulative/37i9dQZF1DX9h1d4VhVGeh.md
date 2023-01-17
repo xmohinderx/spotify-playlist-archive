@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-142 songs - 9 hr 33 min
+143 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Wahna Kbar](https://open.spotify.com/track/7MUFWM9ColelDcWwUNpllS) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Wahna Kbar](https://open.spotify.com/album/3xGHjKsxftZypjhKbL8tA8) | 2:58 | 2022-04-18 | 2022-07-29 |
 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 | 2022-04-18 |  |
 | [Warda Ala Warda](https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD) | [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ), [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl) | [K'lma](https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81) | 5:10 | 2022-04-18 |  |
-| [Waynak](https://open.spotify.com/track/7KxeaZEQT4veFHVh6SnnSZ) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Waynak](https://open.spotify.com/album/74HuIAmgPMU7aOtwGDe9fQ) | 3:12 | 2022-04-18 |  |
+| [Waynak](https://open.spotify.com/track/7KxeaZEQT4veFHVh6SnnSZ) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Waynak](https://open.spotify.com/album/74HuIAmgPMU7aOtwGDe9fQ) | 3:12 | 2022-04-18 | 2023-01-17 |
 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 | 2022-06-29 |  |
 | [Wea'younha](https://open.spotify.com/track/4B9c9mHAL3eyUc437FgA5I) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Rough Guide to the Music of Palestine](https://open.spotify.com/album/2ZttxeXOioCLAn8eSr42Cz) | 3:14 | 2022-04-18 | 2022-07-29 |
 | [Ween El\-Kalam](https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh) | 5:36 | 2022-06-29 |  |
@@ -128,6 +128,7 @@
 | [Weilak Acoustik](https://open.spotify.com/track/4KgIx5Q4uOK9RCjlg2LFvq) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/4KZZJt33c0qpR8mrOVEDEp) | 3:32 | 2022-04-18 | 2022-07-29 |
 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 | 2022-06-29 |  |
 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 | 2022-04-18 |  |
+| [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2023-01-16 |  |
 | [Ya Ana Ya Ana \- Live](https://open.spotify.com/track/4H065d2WS05Pig3f5u0ARg) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Shahrazad \(Live\)](https://open.spotify.com/album/7Bp5hg6TqzX9wcxBn3WEfR) | 2:32 | 2022-04-18 |  |
 | [Ya Bay \(Live\)](https://open.spotify.com/track/1e5Q8Pyr4iFRtMCEB4eCYP) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Aziz Maraka](https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY) | 6:09 | 2022-04-18 | 2022-07-29 |
 | [Ya Bay \- Live](https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay \- Live](https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq) | 6:10 | 2022-06-29 |  |

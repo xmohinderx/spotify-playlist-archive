@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Workout songs to get your blood pumping and confidence activated\. Listen here to rap and electronic bangers to power your workout and achieve the best you.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 89,181 likes - 53 songs - 2 hr 46 min
+[Digster](https://open.spotify.com/user/digster.fm) - 89,176 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 52 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
 | 53 | [Enemy](https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Cinematic Songs \(Vol\. 6\)](https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v) | 3:10 |
 
-Snapshot ID: `MTU1NywyMTczMDA5MGIyMjVhZjU0ZDNkMzc2NjU5OWU3N2RjNGY1ZGZiOWJj`
+Snapshot ID: `MTU2NyxjNTBjNGYzM2RlZTM4YzQzYzViYWNiNDM1NWQ4ZTFjNjc3YjQzOTUz`

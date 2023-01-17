@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 66089,
+  "num_followers": 66194,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDhiMzg2YjRiMmI4MjgyNzZhY2NkOTcyZDhmOTUzOTc0",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMGFiNWUzNDA3ZTJhN2ZiYzZhYTQxMjUyMTcwM2VlZDVk",
   "tracks": [
     {
       "added_at": "2023-01-13 00:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 297160,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Gee Baby Ain't I Good To You",
         "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 464040,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 297160,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Power of the Blues",
         "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -487,38 +487,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Come to Find",
         "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
@@ -551,6 +519,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Track Record",
         "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
@@ -655,38 +671,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "The Motown Years 1972-1976",
         "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
+        "name": "Mama's Still Got The Blues",
+        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
       },
       "artists": [
         {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
         }
       ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
+      "duration_ms": 133133,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "For Blind Willie",
         "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Mama's Still Got The Blues",
-        "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
     },
     {
       "added_at": "2023-01-13 00:01:00",

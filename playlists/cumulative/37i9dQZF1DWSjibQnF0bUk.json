@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 171135,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 215357,
       "name": "Girls Just Wanna Have Funds",
       "url": "https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF"
@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Nack",
+        "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "Nack",
+      "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
+    },
+    {
+      "album": {
         "name": "Nice (Kiss)",
         "url": "https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm"
       },
@@ -4736,6 +4754,24 @@
       "duration_ms": 166263,
       "name": "Rocking",
       "url": "https://open.spotify.com/track/0z0hrjBtCLS8WnQXWtKOWP"
+    },
+    {
+      "album": {
+        "name": "RTID (Rich Till I Die)",
+        "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "RTID (Rich Till I Die)",
+      "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
     },
     {
       "album": {
