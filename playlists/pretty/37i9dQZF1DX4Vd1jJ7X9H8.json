@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 214660,
+  "num_followers": 214960,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzgyMDMwMiwwMDAwMDAwMGZiYTI2ZGZhNDQ5NmNjNzJhZTM2ODlmYjVmZjU1Yzhl",
+  "snapshot_id": "MTY3MzgyMDMwMiwwMDAwMDAwMGU1YWJkNGVjNTk2ZTVhYTJhMmViMDRkZGRjNWY0NDk1",
   "tracks": [
     {
       "added_at": "2022-09-26 15:51:30",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
     },
     {
-      "added_at": "2023-01-11 15:44:49",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
       "added_at": "2022-09-26 15:51:30",
       "album": {
         "name": "Keeping Me Under",
@@ -775,6 +759,22 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2023-01-11 15:44:49",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa"
     },
     {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "6am",
@@ -1131,22 +1147,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1249,6 +1249,46 @@
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
+      "added_at": "2023-01-12 20:24:13",
+      "album": {
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
+    },
+    {
       "added_at": "2023-01-11 15:44:49",
       "album": {
         "name": "PULSE",
@@ -1283,22 +1323,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1343,6 +1367,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Marbled",
         "url": "https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7"
       },
@@ -1363,22 +1403,6 @@
       "duration_ms": 217777,
       "name": "Sex n' Drugs",
       "url": "https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1417,30 +1441,6 @@
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
-      "added_at": "2023-01-12 20:24:13",
-      "album": {
-        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
-    },
-    {
       "added_at": "2022-09-26 15:51:30",
       "album": {
         "name": "Cutie",
@@ -1457,20 +1457,20 @@
       "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
-      "added_at": "2023-01-15 22:05:02",
+      "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2022-10-28 13:36:00",
@@ -1495,6 +1495,22 @@
       "duration_ms": 175381,
       "name": "Electric Photograph",
       "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
+    },
+    {
+      "added_at": "2023-01-15 22:05:02",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1547,6 +1563,26 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Automatic (Orion Sun Remix)",
+        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
+      },
+      "artists": [
+        {
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 124736,
+      "name": "Automatic - Orion Sun Remix",
+      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1583,6 +1619,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -1599,18 +1651,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "YoSoyMatt (feat. Hermanu)",
+        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Hermanu",
+          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
         }
       ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+      "duration_ms": 237600,
+      "name": "YoSoyMatt (feat. Hermanu)",
+      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1639,46 +1695,6 @@
       "duration_ms": 147250,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Automatic (Orion Sun Remix)",
-        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
-      },
-      "artists": [
-        {
-          "name": "Spencer.",
-          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 124736,
-      "name": "Automatic - Orion Sun Remix",
-      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "YoSoyMatt (feat. Hermanu)",
-        "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Hermanu",
-          "url": "https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "YoSoyMatt (feat. Hermanu)",
-      "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1737,22 +1753,6 @@
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
     },
     {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 201376,
-      "name": "Dance Moves",
-      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Moment",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 201376,
+      "name": "Dance Moves",
+      "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-09-26 15:51:30",

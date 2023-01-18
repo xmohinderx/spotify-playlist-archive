@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521652,
+  "num_followers": 521667,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDkxODUzYmQ3OWNiNmQxNmJiOGNlOTc1NjNlNzMwY2Yy",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDg1MjU1OGNiOGRlYWIzZDkxZTI1NDYyNDkwMDM3NTZk",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -159,18 +159,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -195,18 +195,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Great Heights & Nosedives",
-        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 160831,
-      "name": "Playing Fiction",
-      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Sundressed & Nominee",
         "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Great Heights & Nosedives",
+        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
+      },
+      "artists": [
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        }
+      ],
+      "duration_ms": 160831,
+      "name": "Playing Fiction",
+      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 185419,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
     },
     {
       "added_at": "2020-11-20 21:27:18",

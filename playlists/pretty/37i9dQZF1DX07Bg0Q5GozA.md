@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tensnake, DRAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,555 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,554 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 18 | [The Touch](https://open.spotify.com/track/7EO5QmpN4VfJ17zIBvsB64) | [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Arude](https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9) | [The Touch](https://open.spotify.com/album/55VFscrTtQWEu1hnVQvqum) | 7:01 |
 | 19 | [Unity \- Agar Agar Remix](https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Unity \(Agar Agar Remix\)](https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K) | 4:29 |
 | 20 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 |
-| 21 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
+| 21 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 22 | [Better Now](https://open.spotify.com/track/5vSt6mrEG70ErDOzMn0PSb) | [Manics](https://open.spotify.com/artist/3myc8xWoGmD2tiQY9H9u1G) | [Better Now](https://open.spotify.com/album/1R1IOZTrZH80zO9c9IA7g5) | 3:54 |
 | 23 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 24 | [Wolf \- Boys Noize Remix](https://open.spotify.com/track/1cNQtla3jWus7dSwfJV1oG) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Wolf \(Boys Noize Remix\)](https://open.spotify.com/album/6sx8z31IKn73hte9q9SzyI) | 5:01 |

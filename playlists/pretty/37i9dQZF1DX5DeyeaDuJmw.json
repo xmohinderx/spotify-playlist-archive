@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 130121,
+  "num_followers": 130318,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGY4ZjM2ZDFiOTQzNzlkZGFmYjU2OTlkNjY0YWE2OTY0",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGJlM2ZiOGI4YWY1NTZmZTBmNDhiZTMyZGM0ZGJkYWVm",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Las Naik",
-        "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 175258,
-      "name": "Las Naik",
-      "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 173226,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Las Naik",
+        "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 175258,
+      "name": "Las Naik",
+      "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+        "url": "https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+      "url": "https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "PERREAMOS?",
-        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 184535,
-      "name": "XULITA (feat. Kaydy Cain)",
-      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Dime a Ver",
         "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
       },
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-        "url": "https://open.spotify.com/album/6ceuNvD4R9AQu0o0JMnUAY"
+        "name": "PERREAMOS?",
+        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         },
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
         }
       ],
-      "duration_ms": 133331,
-      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-      "url": "https://open.spotify.com/track/6jUfeQCpky6IodZg5OcstX"
+      "duration_ms": 184535,
+      "name": "XULITA (feat. Kaydy Cain)",
+      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
     },
     {
       "added_at": "2022-11-18 03:00:00",

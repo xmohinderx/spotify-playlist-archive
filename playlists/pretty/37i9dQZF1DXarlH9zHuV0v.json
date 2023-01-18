@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 236177,
+  "num_followers": 236143,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMGUxODhiZThhZWQ4YmJkZmI4ZWM3ODg1ZjgyYThmZjFm",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDI2ZjBmNGJlMmMwM2ZiNDhjZTY4OGE3NDRlNzgwZGE5",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
-        "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "This is Halloween - Pop Version",
-      "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 313453,
       "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
+        "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "This is Halloween - Pop Version",
+      "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "A Nightmare on My Street",
-      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Ghosts (Remixes)",
         "url": "https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228666,
       "name": "Sorry Sack Of Bones",
       "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
     },
     {
       "added_at": "2019-10-09 15:02:50",

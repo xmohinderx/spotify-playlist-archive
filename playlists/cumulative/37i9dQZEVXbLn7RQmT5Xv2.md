@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-559 songs - 1 day 7 hr 45 min
+560 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Benna Maad](https://open.spotify.com/track/6g7cuhVaVuf2XLruR5nnTW) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Benna Maad](https://open.spotify.com/album/05kVChSrcn5p8mLK2AgMOM) | 3:09 | 2022-07-27 | 2022-08-18 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-15 |
 | [Bestek Now](https://open.spotify.com/track/3e1PxagfpNmZl8HzssQl5F) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Samer](https://open.spotify.com/artist/6THSwxEoIFmnhD7egfn9IQ) | [Bestek Now](https://open.spotify.com/album/3KqaY5JHXtH69LXnS2VLOK) | 3:01 | 2021-03-29 | 2021-03-31 |
-| [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2021-12-26 | 2022-10-22 |
+| [Betadeen](https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Agzakhana](https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs) | 3:26 | 2021-12-26 |  |
 | [BIG MAFIA](https://open.spotify.com/track/428jaX27ZFdS1kvDu56YXX) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [BIG MAFIA](https://open.spotify.com/album/5IjFm7ZXWDHGJ5yYcMVNrC) | 3:28 | 2022-01-04 | 2022-01-08 |
 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 | 2022-07-03 | 2022-07-27 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-04-03 | 2022-04-22 |
@@ -95,7 +95,7 @@
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-08-19 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-16 | 2022-09-23 |
-| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-01 |  |
+| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-01 | 2023-01-18 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/4iozpxYS1GPH7wVLIY91o8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 3:38 | 2022-06-26 | 2022-07-07 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/6Lyq1XzcBbPSZv8VyYqxnP) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1YvBzGrS9sYfGKD2rQ7mhw) | 3:38 | 2022-06-25 | 2022-06-27 |
@@ -161,6 +161,7 @@
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-03-15 | 2022-04-08 |
 | [Fel Dalma Di Etwaladt](https://open.spotify.com/track/09R0Bomp99DJlhVrJ6Me0Z) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:37 | 2022-07-07 | 2022-07-11 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-04-06 |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-17 |  |
 | [Fokak](https://open.spotify.com/track/3VLykmyUx8XKraa9SWQgKO) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Fokak](https://open.spotify.com/album/7GBa5aHSXE6ngfAme8oTkD) | 3:32 | 2021-03-27\* | 2021-07-25 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [Free](https://open.spotify.com/track/6vRHVF61iN8TnMdoFBoE8f) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Free](https://open.spotify.com/album/285ImEOPFTpPC7W4U8CAsP) | 3:38 | 2021-03-27\* | 2022-06-11 |
@@ -498,7 +499,7 @@
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2021-10-22 | 2021-12-01 |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 |  |
 | [بعودة يا بلادى](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-03-22 | 2022-04-07 |
-| [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 |  |
+| [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 | 2023-01-18 |
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-03-24 | 2022-04-17 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 394202,
+  "num_followers": 394166,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDBmNDA4M2Y5NTQ2MmQzZmFkMGY4MmZlOWJmNmQ0NTcz",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGMwZjk1YWE0NTI4Y2I0MjYxNmYzMGY2Y2VjNDkwZDYx",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 177634,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Diamonds (feat. Aleyna Tilki)",
-        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Diamonds (feat. Aleyna Tilki)",
-      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Hair Toss, Arms Crossed",
         "url": "https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 168704,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Diamonds (feat. Aleyna Tilki)",
+        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Diamonds (feat. Aleyna Tilki)",
+      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2022-06-30 22:02:00",

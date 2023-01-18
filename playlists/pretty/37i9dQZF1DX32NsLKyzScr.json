@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2285213,
+  "num_followers": 2286151,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0MTYzOCwwMDAwMDAwMGM4NWMxMWZkOTkwMTk4ZmRmOWZlYzc0YjA5ZjM2NmMw",
+  "snapshot_id": "MTY3MzY0MTYzOCwwMDAwMDAwMGI0OWM3YzNiMmFjYWYwMzk2OTZmMjRiZmVmNzQ5YmU3",
   "tracks": [
     {
       "added_at": "2023-01-13 20:27:18",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
-        "name": "Anti-Hero (ILLENIUM Remix)",
-        "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Anti-Hero - ILLENIUM Remix",
-      "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1191,6 +1191,26 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
+        "name": "Anti-Hero (ILLENIUM Remix)",
+        "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Anti-Hero - ILLENIUM Remix",
+      "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1295,6 +1315,26 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
         "name": "When I Talk",
         "url": "https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET"
       },
@@ -1323,46 +1363,6 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 191098,
-      "name": "Somebody Like U",
-      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "Children - Radio Edit",
+      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 210853,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "Children - Radio Edit",
-      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Deep Sea (with R3HAB)",
-        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Deep Sea (with R3HAB)",
-      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
         "name": "Ininna Tora",
         "url": "https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G"
       },
@@ -1671,6 +1651,26 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
+        "name": "Deep Sea (with R3HAB)",
+        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Deep Sea (with R3HAB)",
+      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
-        "name": "God On The Weekend",
-        "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 180231,
-      "name": "God On The Weekend",
-      "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1731,22 +1715,18 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+        "name": "God On The Weekend",
+        "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+      "duration_ms": 180231,
+      "name": "God On The Weekend",
+      "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1771,6 +1751,26 @@
       "duration_ms": 146706,
       "name": "With My Friends",
       "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
         "name": "God Is a DJ",
         "url": "https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 159406,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Journey (Take Me Where You Wanna)",
-        "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Journey (Take Me Where You Wanna)",
-      "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
-    },
-    {
-      "added_at": "2023-01-13 20:27:18",
-      "album": {
         "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 186190,
       "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp"
+    },
+    {
+      "added_at": "2023-01-13 20:27:18",
+      "album": {
+        "name": "Journey (Take Me Where You Wanna)",
+        "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Journey (Take Me Where You Wanna)",
+      "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
     },
     {
       "added_at": "2023-01-13 20:27:18",
@@ -2119,22 +2119,18 @@
     {
       "added_at": "2023-01-13 20:27:18",
       "album": {
-        "name": "Kiss It Better",
-        "url": "https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m"
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 257055,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
     }
   ],
   "unique_name": "Power Hour",

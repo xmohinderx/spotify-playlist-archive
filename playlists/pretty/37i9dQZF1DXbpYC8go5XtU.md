@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,967 likes - 141 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,031 likes - 141 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 80 | [rainfall](https://open.spotify.com/track/39dhyocdtP2THBx7OG1pPn) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:09 |
 | 81 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 |
 | 82 | [Animal](https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6) | [Conor C\. Ellis](https://open.spotify.com/artist/2HR4D4z3iLHR57uszqD7mC) | [Soft Earth](https://open.spotify.com/album/7icKhOFCKAwpaLqXUzT68B) | 3:12 |
-| 83 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korosassu](https://open.spotify.com/artist/6qPn1ijyT49nZV6xjylFAx) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 |
+| 83 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 |
 | 84 | [Departure \(The Soul Longs for Freedom\)](https://open.spotify.com/track/72FZCwQOO0M7WZBEM4azIH) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Luminessence](https://open.spotify.com/album/6H1SJeFEtNGELRydkjyKwt) | 7:20 |
 | 85 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 |
 | 86 | [Night Bus](https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF) | 2:20 |

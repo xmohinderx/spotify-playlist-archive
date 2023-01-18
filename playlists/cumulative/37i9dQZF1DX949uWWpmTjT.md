@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-303 songs - 22 hr 20 min
+305 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-10 | 2022-11-30 |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-22 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 | 2021-12-03 | 2022-05-05 |
-| [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-10 |  |
+| [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-10 | 2023-01-18 |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-10 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-18 |  |
@@ -264,13 +264,14 @@
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-11-10 | 2023-01-11 |
 | [The Nearness Of You](https://open.spotify.com/track/6KeyhlDv6rDJwWzyiVp3DK) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [The Time Is Right](https://open.spotify.com/album/7rQ2t2e5qvrMbJwqHsTEDC) | 4:42 | 2021-12-03 | 2022-09-23 |
+| [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Sun Forgot To Shine This Morning](https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Lonely Lovers](https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD) | 2:40 | 2021-12-03 | 2022-11-11 |
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2021-12-03 | 2022-11-11 |
 | [The Wind In The Night](https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:02 | 2022-06-30 | 2022-11-11 |
 | [There's A Boat That's Leavin' Soon For New York \- From "Porgy And Bess"](https://open.spotify.com/track/6bfQCa9oirwmj84TJEsLYp) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:42 | 2022-01-27 | 2022-09-23 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-11-10 |  |
 | [Time On My Hands](https://open.spotify.com/track/0k0hexhhae8c7wrgr9d42v) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 1:36 | 2021-12-03 | 2022-11-11 |
-| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-11-10 |  |
+| [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-11-10 | 2023-01-18 |
 | [Tis Autumn](https://open.spotify.com/track/0LNmnKqqiIreCnb8BMowCr) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \[Keepnews Collection\]](https://open.spotify.com/album/22iexSLOOt0pQ4dtbPTyA9) | 5:18 | 2021-12-03 | 2022-07-29 |
 | [Tis Autumn](https://open.spotify.com/track/6g82W4awZ4ZqSs2jUT5goS) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 5:18 | 2022-06-30 | 2022-11-11 |
 | [Too Late Now](https://open.spotify.com/track/5MSV42dMBJZ21P8BxLCxum) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 8:54 | 2021-12-03 | 2022-11-11 |
@@ -282,6 +283,7 @@
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-10 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-11-10 | 2022-12-13 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
+| [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
 | [We kiss In A Shadow](https://open.spotify.com/track/3HXe31FkbH5MHNyNoUI222) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 6:47 | 2021-12-03 | 2022-07-29 |
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-11-10 | 2022-12-24 |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-11-10 | 2022-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,185 likes - 258 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,188 likes - 258 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 107 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 |
 | 108 | [Blow My Mind](https://open.spotify.com/track/6EezXKruq0dSlArA6WaYnp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:02 |
 | 109 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
-| 110 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 |
-| 111 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 110 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 111 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 |
 | 112 | [In Us I Believe \(feat\. ALMA\)](https://open.spotify.com/track/2sXGKXPb0lZq7CXGoSg3U5) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:27 |
 | 113 | [Stopped Believing In Santa](https://open.spotify.com/track/7ubY8IenhF5NZ5BBJBcTZ8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Stopped Believing In Santa](https://open.spotify.com/album/7my5qqD9eFJB33otwMTTxk) | 3:35 |
 | 114 | [Good Thing.](https://open.spotify.com/track/2mCLMdr0J2yBgPSL2gFVxc) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:30 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 257 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 258 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc4OTg2MjQsMDAwMDAwMDAzNTNlZDY3NWVjNDgyZjY1OGVjYjNhYzllMmE2ZjZjNA==`
+Snapshot ID: `Mjc5MDAwNjQsMDAwMDAwMDA2YWVkZmZiNGQzZjNhYTIxNGE2MjVhYjgxYWFhN2U1NQ==`

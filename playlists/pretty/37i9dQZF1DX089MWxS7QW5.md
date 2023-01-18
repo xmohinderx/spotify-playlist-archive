@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: MOON SUJIN\(문수진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,897 likes - 53 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,959 likes - 53 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

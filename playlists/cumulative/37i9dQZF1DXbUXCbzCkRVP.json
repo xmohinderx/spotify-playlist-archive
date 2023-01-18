@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+    },
+    {
+      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 564133,
       "name": "The Messiah Will Come",
       "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"

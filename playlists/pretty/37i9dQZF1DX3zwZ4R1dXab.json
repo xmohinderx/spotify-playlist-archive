@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 1179,
+  "num_followers": 1180,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzOTUzMCwwMDAwMDAwMDA1NzE3MWQ3YzlhOGM1MjZjYjVmOGM5ZTI1ZjU1ODFi",
+  "snapshot_id": "MTY3MTQzOTUzMCwwMDAwMDAwMDU4YmNiYTg0ZTU0YjM3MjhiZThiNGFmYjNmMWQ4ZDU1",
   "tracks": [
     {
       "added_at": "2022-11-30 10:57:15",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Raconteur",
-        "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
-      },
-      "artists": [
-        {
-          "name": "Dean Demir",
-          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
-        }
-      ],
-      "duration_ms": 107717,
-      "name": "Raconteur",
-      "url": "https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 139777,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Raconteur",
+        "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "duration_ms": 107717,
+      "name": "Raconteur",
+      "url": "https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
+        "name": "Apart, Together",
+        "url": "https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e"
+      },
+      "artists": [
+        {
+          "name": "Garreth Broke",
+          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+        }
+      ],
+      "duration_ms": 124074,
+      "name": "Apart, Together",
+      "url": "https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 126669,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
-        "name": "Light in the Mist",
-        "url": "https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU"
-      },
-      "artists": [
-        {
-          "name": "Anna Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
-        }
-      ],
-      "duration_ms": 240099,
-      "name": "Light in the Mist",
-      "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Apart, Together",
-        "url": "https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e"
+        "name": "Light in the Mist",
+        "url": "https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU"
       },
       "artists": [
         {
-          "name": "Garreth Broke",
-          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
         }
       ],
-      "duration_ms": 124074,
-      "name": "Apart, Together",
-      "url": "https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q"
+      "duration_ms": 240099,
+      "name": "Light in the Mist",
+      "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Comtemplating Still",
-        "url": "https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo"
-      },
-      "artists": [
-        {
-          "name": "Bree Arnold",
-          "url": "https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV"
-        }
-      ],
-      "duration_ms": 100472,
-      "name": "Comtemplating Still",
-      "url": "https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Silverstar",
         "url": "https://open.spotify.com/album/5bIFCJp1sNpoik82ui7CUE"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
-      },
-      "artists": [
-        {
-          "name": "Oliver \u00c9vilo",
-          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/041EqVueOI4pszWGJfKerh"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Weightless Again",
         "url": "https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 119946,
       "name": "On a Clear Day",
       "url": "https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Comtemplating Still",
+        "url": "https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo"
+      },
+      "artists": [
+        {
+          "name": "Bree Arnold",
+          "url": "https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV"
+        }
+      ],
+      "duration_ms": 100472,
+      "name": "Comtemplating Still",
+      "url": "https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00c9vilo",
+          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/041EqVueOI4pszWGJfKerh"
     },
     {
       "added_at": "2022-11-30 10:57:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
-      },
-      "artists": [
-        {
-          "name": "Christine Papst",
-          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Desiderium",
-      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Muddus",
         "url": "https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
+      },
+      "artists": [
+        {
+          "name": "Christine Papst",
+          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Desiderium",
+      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
         "name": "Vejlefjord",
         "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-30 10:57:15",
       "album": {
-        "name": "Story Time",
-        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
-      },
-      "artists": [
-        {
-          "name": "Jackson Love",
-          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
-        }
-      ],
-      "duration_ms": 129095,
-      "name": "Story Time",
-      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
-    },
-    {
-      "added_at": "2022-11-30 10:57:15",
-      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 150199,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
+    },
+    {
+      "added_at": "2022-11-30 10:57:15",
+      "album": {
+        "name": "Story Time",
+        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
+      },
+      "artists": [
+        {
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
+        }
+      ],
+      "duration_ms": 129095,
+      "name": "Story Time",
+      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
     },
     {
       "added_at": "2022-11-30 10:57:15",

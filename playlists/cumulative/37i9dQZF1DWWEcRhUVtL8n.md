@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,449 songs - 3 day 4 hr 16 min
+1,450 songs - 3 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-06-02 | 2022-04-12 |
 | [battery life](https://open.spotify.com/track/7i9C0Fz89IABSEVwJTTJ4F) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [battery life](https://open.spotify.com/album/5m5DBETxSlESf5kx30pnBx) | 3:54 | 2020-10-16 | 2021-01-15 |
 | [Be Sweet](https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Be Sweet](https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu) | 3:15 | 2021-03-06 | 2022-07-02 |
-| [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-09 |  |
+| [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-09 | 2023-01-18 |
 | [Beatrice](https://open.spotify.com/track/6Jvdy4iVwC03Y2Mw4M14R4) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [The Sun and Her Scorch](https://open.spotify.com/album/2gENobZzx4JDkAtCC15yrb) | 4:01 | 2020-10-13\* | 2021-06-03 |
 | [Believe](https://open.spotify.com/track/30rvG8w7qtOnsqiUk6JSvE) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Ul0gfTmSuXeNcF3ufnLZQ) | 4:12 | 2020-11-10 | 2021-05-26 |
 | [Belong](https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Belong](https://open.spotify.com/album/0JH3NgJkj2IKNxHpiK0wLh) | 3:06 | 2022-08-12 | 2022-08-20 |
@@ -1425,6 +1425,7 @@
 | [Word Problems](https://open.spotify.com/track/1qHNW4pILWzE7sZWN9smrH) | [Deborah's Child](https://open.spotify.com/artist/6UleRY4Q1BRd2gRmPjFCQF) | [Word Problems](https://open.spotify.com/album/4YLQashsa2iqJgzhvloAjt) | 2:33 | 2021-02-28 | 2021-03-22 |
 | [Words Ain't Enough](https://open.spotify.com/track/5hFGGQukKw4vKgxRg3KeBC) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/22Q7rFTYQyqwcgmpNJbjrP) | 2:04 | 2020-10-20 | 2021-05-28 |
 | [Work It On Out](https://open.spotify.com/track/2pPWGBZzE1h46lgYv6CgYn) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Bloom Baby Bloom](https://open.spotify.com/album/1OeU8CeNl7tLWNWrKTQ8QO) | 3:45 | 2021-05-06 | 2021-09-24 |
+| [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 |  |
 | [Worst Enemy](https://open.spotify.com/track/7CPdfsjklD8kToH2PMVJww) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Worst Enemy](https://open.spotify.com/album/11P429MEIOCg43pP5UEcBt) | 2:46 | 2021-03-09 | 2021-10-16 |
 | [Wrong One](https://open.spotify.com/track/54ufy2w9eH3AvOFiSCUYfE) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Wrong One](https://open.spotify.com/album/6Of2NtKzhbuxkbj3g2fBX9) | 3:37 | 2021-02-23 | 2021-02-28 |
 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 | 2021-09-24 | 2022-04-15 |

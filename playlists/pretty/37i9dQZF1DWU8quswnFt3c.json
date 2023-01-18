@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 860351,
+  "num_followers": 860298,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDEzMjVlN2YxMDBhOWU5Y2Y1MThlMzlmYWZhNWViYWUw",
+  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMGI0ODE3YTgxZDlhOWJjZjQxMmJhMTc5NmNiNmM4NDI5",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
-      "added_at": "2023-01-17 00:49:32",
+      "added_at": "2023-01-18 00:16:31",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
-      "added_at": "2023-01-17 00:49:32",
+      "added_at": "2023-01-18 00:16:31",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "\u4e88\u611f",
-        "url": "https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm"
-      },
-      "artists": [
-        {
-          "name": "Kaneko Ayano",
-          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
-        }
-      ],
-      "duration_ms": 163317,
-      "name": "\u4e88\u611f",
-      "url": "https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 193737,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "\u4e88\u611f",
+        "url": "https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm"
+      },
+      "artists": [
+        {
+          "name": "Kaneko Ayano",
+          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "\u4e88\u611f",
+      "url": "https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "kocham i t\u0119skni\u0119",
-        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "przestrze\u0144",
-      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "criminal",
         "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "kocham i t\u0119skni\u0119",
+        "url": "https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "przestrze\u0144",
+      "url": "https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A"
     },
     {
       "added_at": "2023-01-11 19:04:59",

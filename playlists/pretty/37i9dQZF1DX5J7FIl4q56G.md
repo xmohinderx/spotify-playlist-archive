@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Orgy
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,961 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,060 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 5 | [Dead Reckoning](https://open.spotify.com/track/4X91JzJfMO32JiyRe62Alv) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2), [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dead Reckoning](https://open.spotify.com/album/1b5aY62FMsQFQWzxVW7tcE) | 3:26 |
 | 6 | [Misery](https://open.spotify.com/track/6ZLv37A8gNSHNViRt5cCeT) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p), [Drama Club](https://open.spotify.com/artist/3hrpJE5afivJl3uncJ4SWW) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 3:45 |
 | 7 | [FREE YOUR MIND](https://open.spotify.com/track/2ExWqFNHCpFBnECrPsTEpG) | [John Wolfhooker](https://open.spotify.com/artist/7bIzIk6tTUrU1tTJUe3xiR), [REDZED](https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9) | [FREE YOUR MIND](https://open.spotify.com/album/0znoZSIV3n8OBGjmhHBGeu) | 3:17 |
-| 8 | [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 |
+| 8 | [Thrones of Blood](https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1) | 4:02 |
 | 9 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
 | 10 | [Antidote](https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Antidote](https://open.spotify.com/album/4HiUvBkIhOpAl9Td6OVYzB) | 3:28 |
 | 11 | [Argent Justice \(feat\. Suicide Silence, Emmure, Abbie Falls, Acranius, Angelmaker, Bodysnatcher, CABAL, Carcosa, Crown Magnetar, Paleface, ten56\. & Worm Shepherd\)](https://open.spotify.com/track/0JqIhXT2wn86q5uEvRErtn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk), [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU), [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG), [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG), [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G), [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx), [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii), [Worm Shepherd](https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73) | [Argent Justice \(feat\. Suicide Silence, Emmure, Abbie Falls, Acranius, Angelmaker, Bodysnatcher, CABAL, Carcosa, Crown Magnetar, Paleface, ten56\. & Worm Shepherd\)](https://open.spotify.com/album/5f6Y2dfmmZxaZuP14h90dq) | 7:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Elder King](https://open.spotify.com/track/65pbJnPWlpOniiYJ1ecJZj) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Elder King](https://open.spotify.com/album/3BBuJfAgosPP6pWEEFrndT) | 3:42 |
 | 50 | [Inner Beast](https://open.spotify.com/track/5yStP9j5A3KyhiVAvmOhhn) | [Phantom Elite](https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX) | [Inner Beast](https://open.spotify.com/album/4QzHbYhCujVgahXUzttLqx) | 3:37 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDZhMGQ4MDk0ZWUzZDY0Y2ZmZmIwZjEyMWZjYzYwZDlm`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDdlN2M1OTI1MDk0MGI4NjE4ZDUxMGI5YjgxMDAxN2Rh`

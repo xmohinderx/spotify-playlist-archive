@@ -4,7 +4,7 @@
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-110 songs - 8 hr 5 min
+111 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Move on now!](https://open.spotify.com/track/1KZRqYGQIYtunpB4rP8fC5) | [りすこ・わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/3V1w7NibxpgxACDxXEdSOw) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 4:08 | 2022-07-26 | 2022-07-29 |
 | [Move on now!](https://open.spotify.com/track/5eA0FmrA7BqFoBbVMMeI6y) | [りすこ・わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/3V1w7NibxpgxACDxXEdSOw) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:08 | 2022-07-26 |  |
 | [MUSIC of DREAM!!! \- ゆめ & ローラ ver.](https://open.spotify.com/track/3AC206qp83USlEzyLOxqht) | [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [りえ](https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM) | [アイカツ!シリーズ 10th Anniversary Album Vol.04「Rainbow Canvas」](https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05) | 4:43 | 2022-07-26 | 2022-11-01 |
+| [MY SHOW TIME!](https://open.spotify.com/track/0ShIS6k0PZGmYCWfF4J1aU) | [ななせ](https://open.spotify.com/artist/3yP6XSdPD6tAhQTONSVno0) | [アイカツ!シリーズ 10th Anniversary Album Vol.09「VERY MANY SEASONING」](https://open.spotify.com/album/3WsUPfnZwzMUrzAsajiI80) | 3:57 | 2022-07-26 |  |
 | [MY SHOW TIME!](https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm) | [ななせ from AIKATSU☆STARS!](https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS9](https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt) | 3:59 | 2022-07-26 | 2022-12-31 |
 | [Passion flower](https://open.spotify.com/track/0pHogoLzFML9lvNt9djEeX) | [みほ・もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4G8qvuUPtCtS7N5lh8ff6T) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS10](https://open.spotify.com/album/2dfuyEpPYmfXIF5CPerVFn) | 4:38 | 2022-07-26 |  |
 | [Poppin' Bubbles](https://open.spotify.com/track/0mEwQJaetVwDAOtGTLFZAG) | [みき・もな from AIKATSU☆STARS!](https://open.spotify.com/artist/4cv8ftdZBUU2HJruTwGh58) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 5:23 | 2022-07-26 | 2022-07-29 |
@@ -103,7 +104,7 @@
 | [ヒラリ/ヒトリ/キラリ](https://open.spotify.com/track/5HuThJGtSEP02RWmGKs7nX) | [わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS](https://open.spotify.com/artist/5hwNeskygEMGhykhX2ngk1) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:21 | 2022-07-26 |  |
 | [フレンド](https://open.spotify.com/track/1mGY3HOfA13wrZeKJkuNVD) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 3:47 | 2022-07-26 |  |
 | [ロンリー・グラヴィティ](https://open.spotify.com/track/2qUnxXj2L72362KAsJUHSj) | [るか・ななせ from AIKATSU☆STARS!](https://open.spotify.com/artist/1vXsGF5HQT6Qv6UHE4CrWo) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:15 | 2022-07-26 |  |
-| [同じ地球のしあわせに](https://open.spotify.com/track/3BGeFbvcdmJVEO2w566uRD) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 5:17 | 2022-07-26 |  |
+| [同じ地球のしあわせに](https://open.spotify.com/track/3BGeFbvcdmJVEO2w566uRD) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 5:17 | 2022-07-26 | 2023-01-18 |
 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 | 2022-07-26 | 2023-01-13 |
 | [星空のフロア](https://open.spotify.com/track/0terrJ6P2B9nRf2vI1feTw) | [わか from STAR☆ANIS](https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq), [るか from AIKATSU☆STARS!](https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA) | [スマホアプリ『アイカツ!フォトonステージ!!』コレクション](https://open.spotify.com/album/6BW54hyXnbexvC8DvpUmD6) | 4:46 | 2022-07-26 | 2022-07-29 |
 | [月夜のラグタイム](https://open.spotify.com/track/4QLodaKIU2wnBtcwwAMA3H) | [れみ・ゆな from STAR☆ANIS](https://open.spotify.com/artist/0DIHTuyfKtEawpwhs0fsha) | [スマホアプリ『アイカツ!フォトonステージ!!』コレクション](https://open.spotify.com/album/6BW54hyXnbexvC8DvpUmD6) | 3:18 | 2022-07-26 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 687063,
+  "num_followers": 687290,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzgxOTk3NywwMDAwMDAwMGVmNGZmMjc1MzY4ZmMyZWI3NzE1MWVmYzJiMDFkNmIw",
+  "snapshot_id": "MTY3MzgxOTk3NywwMDAwMDAwMGYyZjVlODU4YzFmMDY0YmY0YzVkZGI0MTE0NTVmYTRj",
   "tracks": [
     {
       "added_at": "2022-11-30 19:41:15",
@@ -173,24 +173,20 @@
       "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
+      "added_at": "2022-12-20 17:30:46",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4"
+        "name": "learn 2 swim",
+        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "Okthxbb",
-          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         }
       ],
-      "duration_ms": 224343,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
+      "duration_ms": 156800,
+      "name": "pg baby",
+      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -209,20 +205,24 @@
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
-      "added_at": "2022-12-20 17:30:46",
+      "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "learn 2 swim",
-        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4"
       },
       "artists": [
         {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "Okthxbb",
+          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
         }
       ],
-      "duration_ms": 156800,
-      "name": "pg baby",
-      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
+      "duration_ms": 224343,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "SINS",
-        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        }
-      ],
-      "duration_ms": 177952,
-      "name": "SINS",
-      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
-    },
-    {
       "added_at": "2023-01-04 14:50:34",
       "album": {
         "name": "Mamacita (feat. A$AP Rocky)",
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "SINS",
+        "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 177952,
+      "name": "SINS",
+      "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 199062,
       "name": "Sabrina (i am a party)",
       "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 124872,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -363,22 +379,6 @@
       "duration_ms": 159732,
       "name": "Buzzed",
       "url": "https://open.spotify.com/track/46vrZhwggdZuuZGwIQ80O3"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 124872,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -565,26 +565,6 @@
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "spend the money (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199669,
-      "name": "spend the money (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
@@ -607,6 +587,26 @@
       "duration_ms": 144484,
       "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
       "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM"
     },
     {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
       "added_at": "2023-01-06 15:46:40",
       "album": {
         "name": "I Just Wanna",
@@ -1003,22 +1019,6 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "play pretend",
-        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
-      },
-      "artists": [
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        }
-      ],
-      "duration_ms": 117774,
-      "name": "play pretend",
-      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
     },
     {
+      "added_at": "2023-01-11 03:58:35",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
+    },
+    {
       "added_at": "2022-11-30 19:41:15",
       "album": {
         "name": "Toyota Reckless",
@@ -1235,22 +1251,6 @@
       "duration_ms": 226833,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
-    },
-    {
-      "added_at": "2023-01-11 03:58:35",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Crush - Unfinished",
-      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
+        "name": "High Beams (JPEGMAFIA Remix)",
+        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157150,
+      "name": "High Beams - JPEGMAFIA Remix",
+      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
+    },
+    {
+      "added_at": "2022-11-30 19:41:15",
+      "album": {
         "name": "Impostor Syndrome",
         "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
-    },
-    {
-      "added_at": "2022-11-30 19:41:15",
-      "album": {
-        "name": "High Beams (JPEGMAFIA Remix)",
-        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157150,
-      "name": "High Beams - JPEGMAFIA Remix",
-      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "rave",
-        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
         }
       ],
-      "duration_ms": 170310,
-      "name": "ihy",
-      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
     },
     {
       "added_at": "2022-11-30 19:41:15",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-11-30 19:41:15",
       "album": {
-        "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
+        "name": "rave",
+        "url": "https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 177064,
-      "name": "Vest & Boxers",
-      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+      "duration_ms": 170310,
+      "name": "ihy",
+      "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
     },
     {
       "added_at": "2022-11-30 19:41:15",

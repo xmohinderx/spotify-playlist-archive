@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27110,
+  "num_followers": 27107,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDMwZGRmYmUzYjBjYzk1ZmFlYWIwOGMxMTRkY2U3NzVh",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDBjMmM1ZTJkM2NlNjA2OWI0OTg1NzJlYWFiZWM1Mzgz",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Easier \u2013 Remix (with Charlie Puth)",
         "url": "https://open.spotify.com/album/5h2ljtbTQqfbCg4nem00bf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 157325,
       "name": "Easier \u2013 Remix (with Charlie Puth)",
       "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Teenage Minds",
+      "url": "https://open.spotify.com/track/2anII3P3z1liigla0dKqrb"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Teenage Minds",
-      "url": "https://open.spotify.com/track/2anII3P3z1liigla0dKqrb"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Too Close",
-        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
-      },
-      "artists": [
-        {
-          "name": "Ria Mae",
-          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
-        },
-        {
-          "name": "Dan Talevski",
-          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
-        }
-      ],
-      "duration_ms": 147741,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "High On Your Love",
         "url": "https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 156283,
       "name": "High On Your Love",
       "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
+      },
+      "artists": [
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        },
+        {
+          "name": "Dan Talevski",
+          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
+        }
+      ],
+      "duration_ms": 147741,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
     }
   ],
   "unique_name": "After Work",

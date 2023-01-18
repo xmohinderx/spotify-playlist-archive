@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-600 songs - 1 day 9 hr 44 min
+601 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Savior \- Interlude](https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 2:32 | 2022-05-14 | 2022-05-16 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-06 | 2022-10-08 |
+| [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-17 |  |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2022-05-10 | 2022-05-15 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-06-17 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-15 | 2021-09-17 |
@@ -600,7 +601,7 @@
 | [תל אביב זה אני ואת](https://open.spotify.com/track/1miFtZ1QgGhVpVxbL76Y9g) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [תל אביב זה אני ואת](https://open.spotify.com/album/6lJ9pg55PjM6yYcX4a78JA) | 3:41 | 2021-03-27\* | 2021-05-03 |
 | [תל אביב זה אני ואת](https://open.spotify.com/track/406GxF9gnDjRwsy5wqLpOh) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [גנגסטרים על אמת](https://open.spotify.com/album/1G9CB4gjIIjEI8tKx49FGt) | 3:41 | 2021-06-03 | 2022-02-24 |
 | [תל אביב זה אני ואת](https://open.spotify.com/track/6ssR8XxeSyPytTMkSaJn9e) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [תל אביב זה אני ואת](https://open.spotify.com/album/1KyVY1Ich1xiE8CWTYnuIY) | 3:41 | 2021-05-03 | 2021-06-03 |
-| [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 |  |
+| [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 | 2023-01-18 |
 | [‏בלדה לביישן](https://open.spotify.com/track/78OGIZvj4bxG0lFis2cndH) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Soul J](https://open.spotify.com/artist/485QOZYo6QKTExsIOB1NZD) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:33 | 2021-09-26 | 2021-10-16 |
 | [‏גיבור](https://open.spotify.com/track/76Iqn87We9vQlpQo7ql5g2) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:56 | 2021-09-26 | 2021-10-09 |
 | [‏ערב טוב טרוריסטים](https://open.spotify.com/track/54XUp0MTopZmtHpqcpJnMp) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:18 | 2021-09-26 | 2021-10-10 |

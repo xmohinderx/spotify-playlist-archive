@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,902 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 31 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 |
 | 32 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
 | 33 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
-| 34 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
-| 35 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
+| 34 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
+| 35 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
 | 36 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
 | 37 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
 | 38 | [Flores No Mar \- Radio Edit](https://open.spotify.com/track/7Bi5S5rbQIGe57Ckq95AR1) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar \(Radio Edit\)](https://open.spotify.com/album/13pN5e0Jmu4CiQFJPHLJ4S) | 4:23 |
@@ -51,19 +51,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 41 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
 | 42 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
 | 43 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
-| 44 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 |
-| 45 | [Gayby](https://open.spotify.com/track/4beOP1YEY0RMmixXStaISR) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Homotopia](https://open.spotify.com/album/0Vfx8EEOmxX8RKaBqJNyuZ) | 2:54 |
+| 44 | [Gayby](https://open.spotify.com/track/4beOP1YEY0RMmixXStaISR) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Homotopia](https://open.spotify.com/album/0Vfx8EEOmxX8RKaBqJNyuZ) | 2:54 |
+| 45 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 |
 | 46 | [PLS](https://open.spotify.com/track/57xPM0jBBOp7veS1iRdhUK) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [PLS](https://open.spotify.com/album/22EjrJkCcqfRJxvpzrYFSi) | 3:09 |
 | 47 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 |
 | 48 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
 | 49 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 | 50 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 51 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/7fAIvRHDjuIZLK14loAHZn) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:11 |
-| 52 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
-| 53 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
-| 54 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
-| 55 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
-| 56 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 |
+| 52 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
+| 53 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
+| 54 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
+| 55 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 |
+| 56 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
 | 57 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
 | 58 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 |
 | 59 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 | 90 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDU5ZDViM2NkMGUwYjMxNTA3OTVlNDI1MTRlMWUwYjAw`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDkxZTk4Mzg0M2RmN2YwN2ZjZWI3ZDgzNWVmZTgwNjNl`

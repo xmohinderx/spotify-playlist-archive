@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-280 songs - 23 hr 54 min
+281 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Journey](https://open.spotify.com/track/1GIYpjzOEc5P3IYDdFnd1Y) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [A Journey](https://open.spotify.com/album/3V0YGFc0je36jletTUWoKZ) | 4:16 | 2022-01-23 | 2022-07-29 |
 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 | 2022-03-25 |  |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/7rQaMkOwhuHZqAM30JvSfY) | 2:54 | 2021-12-26 | 2022-01-12 |
-| [A1](https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C) | [Reinartz](https://open.spotify.com/artist/2NkrL5Vs3OZtvckPD0vPbg) | [Dances](https://open.spotify.com/album/6rtwIMPDxFz8xPwMOBUYoE) | 7:29 | 2022-03-18 |  |
+| [A1](https://open.spotify.com/track/1V99GNtTBLk3OrDmFYVz4C) | [Reinartz](https://open.spotify.com/artist/2NkrL5Vs3OZtvckPD0vPbg) | [Dances](https://open.spotify.com/album/6rtwIMPDxFz8xPwMOBUYoE) | 7:29 | 2022-03-18 | 2023-01-18 |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 | 2021-12-26 |  |
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 |  |
 | [Affiliate](https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9) | [Tangent](https://open.spotify.com/artist/1Ad0cOIi5d9YkVsRMLWegv), [Dryft](https://open.spotify.com/artist/15XyOjcwHR1BLzZDpcja9f) | [Acquiesce](https://open.spotify.com/album/7brmSCmB5orSsJgGJULcqx) | 4:08 | 2021-12-26 |  |
@@ -120,6 +120,7 @@
 | [Govenek](https://open.spotify.com/track/3HT7p7MSUFJwD9MlAA4kaP) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Claire's Lane](https://open.spotify.com/album/5fcy2JXXX8xhJdtsobGnzh) | 1:28 | 2022-05-06 |  |
 | [GRV Tr 5](https://open.spotify.com/track/1ynoJzY6xN6eKr9kR7IGYu) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/4AtCjI23fzcNJopMAyye7w) | 5:44 | 2022-01-14 | 2022-07-26 |
 | [GRV Tr 5](https://open.spotify.com/track/61Mg9i2VCSyqi6M3HdI6VY) | [TV Victor](https://open.spotify.com/artist/0djRJ1zrkgq8sN17i9NysU) | [GRV, Vol\. 3](https://open.spotify.com/album/6ZuQNAXKAVdBMzcPn3SdfX) | 5:44 | 2022-12-30 |  |
+| [Hang in There, Baby!](https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Falling but Not Alone](https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr) | 10:00 | 2023-01-16 |  |
 | [Hello Planta](https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hello Planta](https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG) | 2:08 | 2022-03-25 |  |
 | [Hemispheres](https://open.spotify.com/track/5DFz1J6RgHUofElCeqKs7X) | [Raffaele Grimaldi](https://open.spotify.com/artist/4OCjOBEzP8yTUPh6puX8ly) | [Hemispheres](https://open.spotify.com/album/2dNEqLIy8T2BOVfYSXFPS6) | 3:18 | 2022-04-01 | 2022-07-16 |
 | [Hero](https://open.spotify.com/track/40VFyL5gYhDm5natjBMaQ1) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp) | [Spring Snow](https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay) | 3:40 | 2021-12-26 |  |

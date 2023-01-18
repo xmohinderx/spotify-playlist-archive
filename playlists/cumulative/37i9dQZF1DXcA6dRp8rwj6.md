@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Armani White\)
 
-954 songs - 2 day 0 hr 45 min
+956 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Home](https://open.spotify.com/track/7jsO0c5SFIVHRY0fafblup) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Home](https://open.spotify.com/album/7xLpTxm7A7q9Y1kia1PDiQ) | 2:39 | 2022-12-15 |  |
 | [Homegurl 2.0](https://open.spotify.com/track/2TU1ftfPzJksJi62aXJpKs) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Homegurl 2.0](https://open.spotify.com/album/5FCr4x8iO8ugPfIXPcbdrC) | 4:39 | 2022-09-08 | 2022-10-28 |
 | [Homies](https://open.spotify.com/track/5TGpwRI20yTVyXF9O3erbT) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [Homies](https://open.spotify.com/album/4KJ54tCvlOF0rWqwbZznwK) | 4:18 | 2022-03-10 | 2022-04-01 |
+| [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 |  |
 | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/track/34hQD28WymyIZBJDZNh5zF) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/album/2mer205w0rPUj3mYvud2G8) | 3:52 | 2022-01-20 | 2022-01-28 |
 | [HOT PLANET](https://open.spotify.com/track/5DgL7Iz88RjLTYv0llQREe) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/2uu0WGNU7qSTfhhEMcY3aM) | 3:23 | 2022-12-01 |  |
 | [HOT PLANET](https://open.spotify.com/track/5zcKsnFo11Hh4sgZ7NTQrC) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/5zErQTgiVZNE5SpR1Pw2Ae) | 3:23 | 2022-12-01 | 2022-12-03 |
@@ -873,7 +874,8 @@
 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V) | 2:24 | 2022-03-03 | 2022-04-01 |
 | [Trapped Out](https://open.spotify.com/track/5rq1ZCN1lxneDZ2qc4gPwS) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj) | [Trapped Out](https://open.spotify.com/album/1svAp7AVvFhhEgYXayOgKo) | 2:18 | 2022-03-18 | 2022-04-01 |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-08-25 | 2022-09-30 |
-| [Trouble](https://open.spotify.com/track/4TKqWrhFFouJ2Q5iK9RJ8M) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Trouble](https://open.spotify.com/album/3pMkQn6wQMbHXoMkPhQLYc) | 3:15 | 2022-12-22 |  |
+| [Trouble](https://open.spotify.com/track/2im53A86xTJRwlT76xZtmZ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [YC\-TAPE: Vol\. 1](https://open.spotify.com/album/6MPI2822ba0at3s0xoqRrV) | 3:15 | 2023-01-17 |  |
+| [Trouble](https://open.spotify.com/track/4TKqWrhFFouJ2Q5iK9RJ8M) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Trouble](https://open.spotify.com/album/3pMkQn6wQMbHXoMkPhQLYc) | 3:15 | 2022-12-22 | 2023-01-18 |
 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 | 2022-03-24 | 2022-04-29 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-26 | 2022-07-15 |
 | [Trust](https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print \(Vol\. 2\)](https://open.spotify.com/album/47mj6zu9AiNejasZn1Qvou) | 3:26 | 2022-02-24 | 2022-03-18 |

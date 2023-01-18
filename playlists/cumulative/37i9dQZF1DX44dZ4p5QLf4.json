@@ -5324,7 +5324,7 @@
     {
       "album": {
         "name": "To be naive",
-        "url": "https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6"
+        "url": "https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X"
       },
       "artists": [
         {
@@ -5335,6 +5335,24 @@
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 289946,
+      "name": "Told you so",
+      "url": "https://open.spotify.com/track/2S5Ews7qHXfQTtbTPF7oB7"
+    },
+    {
+      "album": {
+        "name": "To be naive",
+        "url": "https://open.spotify.com/album/0Ddp9zslV54j4eN2ioKmD6"
+      },
+      "artists": [
+        {
+          "name": "Adja",
+          "url": "https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
       "duration_ms": 289946,
       "name": "Told you so",
       "url": "https://open.spotify.com/track/6pZpkqgCRWSDGfkZHRbP0e"

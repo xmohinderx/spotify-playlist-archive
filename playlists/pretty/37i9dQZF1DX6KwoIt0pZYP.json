@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 141029,
+  "num_followers": 141218,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDJmODA3OTBjMDFkMzhhZjA0NzQ0ODk2ZGU5ODhlYTFm",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGY5MTJiMWVkOTFhYTQzNDVjOTE0NDdjY2JjYTg5ZGZi",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "feelings are fatal",
+      "url": "https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        }
-      ],
-      "duration_ms": 194477,
-      "name": "You",
-      "url": "https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
+        "name": "You",
+        "url": "https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         }
       ],
-      "duration_ms": 124853,
-      "name": "feelings are fatal",
-      "url": "https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg"
+      "duration_ms": 194477,
+      "name": "You",
+      "url": "https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1179,6 +1179,34 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Good In Me",
+        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
+      },
+      "artists": [
+        {
+          "name": "Bones & The Boy",
+          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
+        },
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "Good In Me",
+      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1211,34 +1239,6 @@
       "duration_ms": 246000,
       "name": "\u7ae5\u8a71",
       "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Good In Me",
-        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
-      },
-      "artists": [
-        {
-          "name": "Bones & The Boy",
-          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
-        },
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "Yung Lee Records",
-          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
-        }
-      ],
-      "duration_ms": 148027,
-      "name": "Good In Me",
-      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "the world could end with you",
         "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 198404,
       "name": "vulnerable",
       "url": "https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
       "added_at": "2023-01-06 05:00:00",

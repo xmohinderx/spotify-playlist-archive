@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,222 likes - 72 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,287 likes - 72 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 71 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 72 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY3MzU3ODg2MCwwMDAwMDAwMDg4NmRhZDAxYzJhNzkzMTM5OTdhM2JmN2U1Zjk5ODUw`
+Snapshot ID: `MTY3MzkyMDcxNywwMDAwMDAwMDNiY2JhOGViMTlkNzg4ZjlmOThmODNjMmI4NWI4ZWYy`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-906 songs - 1 day 23 hr 18 min
+907 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [In Die Tijd](https://open.spotify.com/track/49RybLTXNA6OkhxDR1KRL9) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 3:06 | 2021-09-05 | 2021-09-09 |
 | [In M'n Bloed](https://open.spotify.com/track/3hzxm5yFiOKeZ5f24Q9hsq) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [In M'n Bloed](https://open.spotify.com/album/4koKtBIFT0l7okXvUz5mB9) | 2:42 | 2021-12-12 | 2022-04-13 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-02 | 2022-04-10 |
-| [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 | 2023-01-13 |  |
+| [In Spanje](https://open.spotify.com/track/1DpObbBLTCbJ3V6pLupYwx) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/4UMnM0krqMe7sxVuibS9Sk) | 2:59 | 2023-01-17 |  |
+| [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 | 2023-01-13 | 2023-01-18 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-09-05 | 2021-09-08 |
 | [In The Dark](https://open.spotify.com/track/75UUG6x5zQe0gCVOiQpa6X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/1mUPmcxUJ2z7e0c5X6qDul) | 3:05 | 2022-03-27 | 2022-06-15 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-30 | 2022-12-04 |

@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,467 songs - 3 day 3 hr 1 min
+1,468 songs - 3 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,7 +941,7 @@
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
 | [Oh Please \- APRE Remix](https://open.spotify.com/track/0KAMo9j8CwDz4sLSkFeFF3) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Oh Please \(APRE Remix\)](https://open.spotify.com/album/5CNgptw1SOnGoNjc7JCeW9) | 3:36 | 2020-06-29 | 2021-05-27 |
 | [OH WELL](https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [OH WELL](https://open.spotify.com/album/2AGtYibeIFAnUVQadCVr16) | 2:54 | 2021-11-12 | 2022-07-02 |
-| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 |  |
+| [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2023-01-18 |
 | [Olivia](https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/549bnGNWELv0hpPC1aydth) | 2:51 | 2022-02-11 | 2022-03-26 |
 | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/track/5bJ85yWElOJ1Oswqn2pbUU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Eastern Bloc](https://open.spotify.com/artist/08QUxi3UpepdGtIbqf7GMv) | [On My Mind \(Eastern Bloc Remix\)](https://open.spotify.com/album/65kpdPtuxe1ThNz8us1JwF) | 3:14 | 2019-09-06 | 2020-04-24 |
 | [On My Side](https://open.spotify.com/track/5hRVBXMn6TFyOncZTYl7ej) | [Hounded](https://open.spotify.com/artist/0ttHbJjRLbyrOgRy0oUMug), [Savoi](https://open.spotify.com/artist/4dRRQxDsUXpBkGqjS7vNcO) | [On My Side \(feat\. Savoi\)](https://open.spotify.com/album/5PCo30Irlzv3HTIZYae18C) | 3:04 | 2019-05-26\* | 2019-06-15 |
@@ -1061,6 +1061,7 @@
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-18 | 2022-01-08 |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-05 | 2022-01-15 |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-28 | 2021-10-20 |
+| [Rookie of The Year](https://open.spotify.com/track/1Ku0LoTU1UV607hRvIBKI1) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Rookie of The Year](https://open.spotify.com/album/6V82UbeQKRMRWFhepzpMeP) | 2:22 | 2023-01-13 |  |
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |

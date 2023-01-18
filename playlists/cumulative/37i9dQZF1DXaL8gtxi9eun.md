@@ -2,7 +2,7 @@
 
 ### [Best of Arab Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Most adored pop hits from the Middle East and North Africa\. Cover: Ramy Sabry
+> Most adored pop hits from the Middle East and North Africa\. Cover: Assala & Asma Lmnawar
 
 123 songs - 7 hr 24 min
 

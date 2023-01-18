@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: SOLE
 
-178 songs - 9 hr 41 min
+180 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-11 |  |
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-11 |  |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-25 |  |
+| [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 |  |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-11-03 |  |
 | [i \(Feat\. DON MALIK\)](https://open.spotify.com/track/7IphAtdrtngWKPWRRHmDtC) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [i](https://open.spotify.com/album/1WWfi7sIM78ZN4st2ezuE4) | 2:59 | 2022-04-20 | 2022-06-18 |
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-18 | 2022-07-05 |
@@ -98,6 +99,7 @@
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-20 | 2022-07-05 |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-30 | 2022-03-11 |
 | [MAKE U DANCE \(feat\. EUNHA\)](https://open.spotify.com/track/1ncwp4dnCgJ51kBXk3FeZu) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/30YRh92OdilNbDqsLrg90V) | 2:37 | 2022-11-30 | 2023-01-12 |
+| [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 | 2023-01-17 |  |
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-13 | 2023-01-12 |
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-04-20 | 2022-05-12 |
 | [Maybe We](https://open.spotify.com/track/1KWwXwgA8fsuKbuwsZiZxV) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Maybe We \(With ESQUIRE KOREA\)](https://open.spotify.com/album/4sj9phZFZN2lHLvb56u2fJ) | 3:13 | 2022-04-20 | 2022-09-06 |

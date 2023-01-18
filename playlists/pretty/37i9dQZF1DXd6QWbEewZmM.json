@@ -1,12 +1,12 @@
 {
   "description": "IYKYK \ud83d\udc94\ud83e\udd40",
-  "num_followers": 193368,
+  "num_followers": 193668,
   "original_name": "#SadCuhHours \ud83e\udd7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDExNiwwMDAwMDAwMGIwMzEyZDc2ZWQ4Y2VjOTU2MTdjYTdjNThiYTk0Yzc4",
+  "snapshot_id": "MTY3MzI0NDExNiwwMDAwMDAwMGFlMTcyNzdmNjIxMmM3Zjc5YWNjOWM5NjQxNDMxYjBh",
   "tracks": [
     {
       "added_at": "2023-01-09 06:01:56",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Mil Gracias Por Existir",
-        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 225541,
-      "name": "Mil Gracias Por Existir",
-      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Te Vas A Recordar",
         "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
       },
@@ -719,22 +699,6 @@
       "duration_ms": 154992,
       "name": "Te Vas A Recordar",
       "url": "https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Regresa Mami",
-      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -755,18 +719,38 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Y Cambi\u00f3 Mi Suerte",
-        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 185637,
-      "name": "Y Cambi\u00f3 Mi Suerte",
-      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
+      "duration_ms": 214626,
+      "name": "Regresa Mami",
+      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Mil Gracias Por Existir",
+        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 225541,
+      "name": "Mil Gracias Por Existir",
+      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -783,6 +767,22 @@
       "duration_ms": 225000,
       "name": "El Due\u00f1o De Tu Amor",
       "url": "https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Y Cambi\u00f3 Mi Suerte",
+        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 185637,
+      "name": "Y Cambi\u00f3 Mi Suerte",
+      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 233096,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Te Comparto",
-        "url": "https://open.spotify.com/album/1sfZR0lmp3Sod5fxSfUVnt"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 175011,
-      "name": "Lluvia En Tus Pesta\u00f1as",
-      "url": "https://open.spotify.com/track/2Uh5SkZN7O0F1vk3EyvjQS"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Perfecta En Mis Ojos",
         "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Te Comparto",
+        "url": "https://open.spotify.com/album/1sfZR0lmp3Sod5fxSfUVnt"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 175011,
+      "name": "Lluvia En Tus Pesta\u00f1as",
+      "url": "https://open.spotify.com/track/2Uh5SkZN7O0F1vk3EyvjQS"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 197107,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
+        "name": "Era El \u00danico",
+        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Era El \u00danico",
+      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        }
+      ],
+      "duration_ms": 141199,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
         "name": "Sad Boy Shit",
         "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
       },
@@ -1219,26 +1255,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 141199,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Era El \u00danico",
-        "url": "https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I"
+        "name": "Good Vibes Buenas Vibras",
+        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
       "artists": [
         {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 130375,
-      "name": "Era El \u00danico",
-      "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
+      "duration_ms": 194329,
+      "name": "Antes y Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1283,22 +1299,6 @@
       "duration_ms": 187250,
       "name": "Zaguf Roma",
       "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Good Vibes Buenas Vibras",
-        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194329,
-      "name": "Antes y Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Es Diferente",
-        "url": "https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 243029,
-      "name": "Es Diferente",
-      "url": "https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -1387,8 +1355,24 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Eres Tu / </3",
-        "url": "https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx"
+        "name": "Es Diferente",
+        "url": "https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 243029,
+      "name": "Es Diferente",
+      "url": "https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
       },
       "artists": [
         {
@@ -1396,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 205634,
-      "name": "Eres Tu / </3",
-      "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
+      "duration_ms": 191005,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 149851,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 149851,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 209583,
       "name": "Quiero Ser",
       "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
-      },
-      "artists": [
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "Eres Tu / </3",
+        "url": "https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+      "duration_ms": 205634,
+      "name": "Eres Tu / </3",
+      "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
         "name": "2 De La",
         "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 220570,
-      "name": "Videos y Fotos",
-      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Hasta Pronto",
         "url": "https://open.spotify.com/album/4wpjiK4emEvKH6dCbh35NY"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 159499,
       "name": "Hasta la Eternidad",
       "url": "https://open.spotify.com/track/3nfrlJKyK8uLNY02ftdP0t"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 220570,
+      "name": "Videos y Fotos",
+      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
     },
     {
       "added_at": "2023-01-09 06:01:56",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-01-09 06:01:56",
       "album": {
-        "name": "Ya Te Borre",
-        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 205269,
-      "name": "Ya Te Borre",
-      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
-    },
-    {
-      "added_at": "2023-01-09 06:01:56",
-      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 218801,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1"
+    },
+    {
+      "added_at": "2023-01-09 06:01:56",
+      "album": {
+        "name": "Ya Te Borre",
+        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
+      },
+      "artists": [
+        {
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
+        }
+      ],
+      "duration_ms": 205269,
+      "name": "Ya Te Borre",
+      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
     },
     {
       "added_at": "2023-01-09 06:01:56",

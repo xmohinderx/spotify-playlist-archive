@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 24158,
+  "num_followers": 24246,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGMxNTFlNzNhZDFlMGYzNjQwMDhhZTNiYjUzZmY4NzZm",
+  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGM5NGEzMTZjZWJhYjZkOWI4NWVlMjk2YzRmZjM5ZmZl",
   "tracks": [
     {
       "added_at": "2023-01-12 03:03:40",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Waves",
-        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Love Fade",
-      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dead Kids R.I.P. City",
-        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
-      },
-      "artists": [
-        {
-          "name": "Soft Kill",
-          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Out of Line",
@@ -703,18 +687,34 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Despondent Transponder",
-        "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
+        "name": "Dead Kids R.I.P. City",
+        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
       "artists": [
         {
-          "name": "Fleeting Joys",
-          "url": "https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH"
+          "name": "Soft Kill",
+          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
         }
       ],
-      "duration_ms": 270094,
-      "name": "Go and Come Back",
-      "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
+      "duration_ms": 151560,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Urban Twilight (Remaster)",
+        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
+      },
+      "artists": [
+        {
+          "name": "Oeil",
+          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
+        }
+      ],
+      "duration_ms": 230197,
+      "name": "Strawberry Cream",
+      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
+        "name": "Despondent Transponder",
+        "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
       },
       "artists": [
         {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
+          "name": "Fleeting Joys",
+          "url": "https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH"
         }
       ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+      "duration_ms": 270094,
+      "name": "Go and Come Back",
+      "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2022-08-03 04:20:04",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
       },
       "artists": [
         {
-          "name": "Muted Color",
-          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 241548,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2023-01-04 01:56:44",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-08-03 04:20:04",
       "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Muted Color",
+          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
         }
       ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
+      "duration_ms": 241548,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-05-03 02:08:01",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+        "name": "Destiny XL",
+        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
         }
       ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+      "duration_ms": 189673,
+      "name": "eightball",
+      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2022-05-03 02:08:01",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Destiny XL",
-        "url": "https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
       "artists": [
         {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 189673,
-      "name": "eightball",
-      "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2022-09-21 00:37:05",

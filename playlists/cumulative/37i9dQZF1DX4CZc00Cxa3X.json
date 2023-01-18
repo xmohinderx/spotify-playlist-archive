@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "livet v\u00e4nder inte \u00e5ter",
+        "url": "https://open.spotify.com/album/0766LNMjLhl18EfZCTtiyV"
+      },
+      "artists": [
+        {
+          "name": "Purl",
+          "url": "https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380365,
+      "name": "livet v\u00e4nder inte \u00e5ter",
+      "url": "https://open.spotify.com/track/3tDO7zUfpwGsxF8MnfWxTw"
+    },
+    {
+      "album": {
         "name": "Love Is The Tune",
         "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 198000,
       "name": "Swim Twice",
       "url": "https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk"

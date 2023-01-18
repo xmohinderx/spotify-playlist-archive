@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-472 songs - 1 day 4 hr 36 min
+473 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Beatin’ tha Breaks \- Freddie Joachim Remix](https://open.spotify.com/track/4pL8MP37x4cMmXk6Tcn1dS) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Future Disco: Beach Life](https://open.spotify.com/album/7BQpUHRGyTvl6q5gOj0vAz) | 4:08 | 2021-12-16 | 2022-07-01 |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox) | 4:22 | 2021-12-16 | 2022-04-21 |
 | [Believe in Me](https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w) | 4:05 | 2021-12-16 | 2022-11-19 |
+| [Believe in Me](https://open.spotify.com/track/7q74lDbsPKSGMdRizk4wel) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/4sasyQ5OjNav1kDNWgjX1V) | 4:05 | 2023-01-07 |  |
 | [Best Worst Year](https://open.spotify.com/track/1vPaaWXnB5pXneMmHSMnRF) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Best Worst Year](https://open.spotify.com/album/2bOC8Kmndkb29jbZppo9La) | 4:38 | 2021-12-16 | 2022-07-29 |
 | [Best Worst Year](https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Best Worst Year](https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb) | 4:38 | 2022-07-26 |  |
 | [Betcha Wouldn't Hurt Me](https://open.spotify.com/track/5UCaHq0Qlm42mbmVp4V4rk) | [Full](https://open.spotify.com/artist/3Js4yADMefFaRhcph3hzI1), [Donna Gardier](https://open.spotify.com/artist/6KJqxb49RobIlpjjqQpdIH) | [Chinese Whispers](https://open.spotify.com/album/73505dh2ferYxsV5VCs2em) | 3:14 | 2021-12-16 | 2022-04-20 |
@@ -475,7 +476,7 @@
 | [You Made Us Change](https://open.spotify.com/track/2JcM6vLgip99pfWjzyQi6H) | [Ephemerals](https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w) | [Nothin Is Easy](https://open.spotify.com/album/2wYrfd1Plq1Bh6ePTi78LA) | 3:25 | 2022-11-11 |  |
 | [You Make My Life a Better Place](https://open.spotify.com/track/0Mio3cXD3Wts4NdrNMhe4Z) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/095mf0n8Q8VK9dEtfIKPLZ) | 3:52 | 2021-12-16 | 2022-02-05 |
 | [You Want The Sun](https://open.spotify.com/track/0JRNPoITcFcNSTRErs8moc) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 3:31 | 2021-12-16 | 2022-07-29 |
-| [You Want the Sun](https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/0bI8EkjX0m9HXgbgZOJPi5) | 3:31 | 2022-09-26 |  |
+| [You Want the Sun](https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/0bI8EkjX0m9HXgbgZOJPi5) | 3:31 | 2022-09-26 | 2023-01-18 |
 | [You Want the Sun](https://open.spotify.com/track/5jJiLM2kRsGKG8zUWFIQgk) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/3m3AAnmKoWoxuqDKWG5NlB) | 3:31 | 2022-07-26 | 2022-07-31 |
 | [You're so Fine](https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 2:53 | 2021-12-16 |  |
 | [ギター](https://open.spotify.com/track/0bwwuOZT6pUeSbmep11qjx) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [曽我部恵一](https://open.spotify.com/album/7ImJZrXzZ0iHf7BoUDw2Xk) | 2:55 | 2021-12-16 | 2022-07-27 |

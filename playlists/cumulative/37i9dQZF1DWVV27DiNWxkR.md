@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
 
-306 songs - 20 hr 55 min
+308 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/7MLLTqoZCJBmdTTXeu6KAX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Running Mascara](https://open.spotify.com/album/0vObC0SXGS7yP7yD2uCGaQ) | 5:24 | 2022-09-02 | 2022-11-14 |
 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 | 2022-07-15 |  |
 | [Horizon](https://open.spotify.com/track/1I55KLlJlGi3fyiA650Oxz) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/1bHFgyItmSogZKb5fWOefI) | 4:09 | 2019-09-29\* | 2022-04-10 |
+| [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2023-01-17 |  |
 | [Hypocrite](https://open.spotify.com/track/3drzLw3ZV2fWlPWWzTCFaf) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [Is It](https://open.spotify.com/album/0864AmBdZhscuSvdkkEF0O) | 2:24 | 2019-10-26 | 2022-05-03 |
 | [I Could Have Lied](https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:04 | 2020-08-30 | 2020-09-11 |
 | [I Don't Hate You](https://open.spotify.com/track/20s3N7bTMvi7vmkdbD6c3N) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Life Was Coming In Through The Blinds \- EP](https://open.spotify.com/album/4ogpv7TzscavhV52O42oCd) | 3:57 | 2019-09-29\* | 2020-07-01 |
@@ -231,6 +232,7 @@
 | [Sober II \(Melodrama\)](https://open.spotify.com/track/54ucfuN596MU25jQD3KjCL) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:58 | 2020-08-30 | 2020-09-11 |
 | [some more good news \(that's all we need\)](https://open.spotify.com/track/75lqLt7uX9ygRkJRx2HNfS) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [demoitis](https://open.spotify.com/album/0aB8CKycOAEEQoZ0W2SI7E) | 3:45 | 2019-12-27 | 2022-04-10 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2019-09-29\* |  |
+| [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2023-01-17 |  |
 | [Star Treatment](https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:54 | 2020-08-30 | 2020-09-11 |
 | [Starfish and Coffee](https://open.spotify.com/track/0cr1UXsH8XdUfrpvxHCane) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 2:50 | 2020-08-30 | 2020-09-11 |
 | [Stay Down](https://open.spotify.com/track/1C8jHaMeJeXLjrN9Ys7qk1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 4:00 | 2019-09-29\* | 2020-07-01 |

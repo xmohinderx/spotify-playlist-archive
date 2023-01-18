@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 141849,
+  "num_followers": 141901,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDM2NzI2ODA4MWNiNGNjMWY5YmRiNzlhN2YxZTRiYjUx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDc3YzRlYTRkNjg1YzJjMTNmYzI5MWExNmUyZmVjOWNj",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "invisible string",
-      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "This Is What It Feels Like",
@@ -199,6 +183,22 @@
       "duration_ms": 217368,
       "name": "Rockland",
       "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Little Runaway",
-        "url": "https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 179564,
-      "name": "Little Runaway",
-      "url": "https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Little Runaway",
+        "url": "https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 179564,
+      "name": "Little Runaway",
+      "url": "https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1013,7 +1013,23 @@
       "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
-      "added_at": "2023-01-17 01:25:43",
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
+    },
+    {
+      "added_at": "2023-01-18 01:33:08",
       "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
@@ -1035,22 +1051,6 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
       "added_at": "2021-03-02 01:07:20",
       "album": {
         "name": "Awake Me (Acoustic)",
@@ -1197,20 +1213,20 @@
       "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
+      "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
       },
       "artists": [
         {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
         }
       ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+      "duration_ms": 114120,
+      "name": "Crater Lake",
+      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
     },
     {
       "added_at": "2021-03-02 01:12:38",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "Crater Lake",
-      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 228500,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Phoebe Told Me",
+        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "Phoebe Told Me",
+      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1279,22 +1295,6 @@
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Phoebe Told Me",
-        "url": "https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "Phoebe Told Me",
-      "url": "https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "Rachel Baiman",
-          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 189626,
-      "name": "I Could've Been Your Lover Too",
-      "url": "https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA"
+      "duration_ms": 181880,
+      "name": "Save This Heart",
+      "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
     }
   ],
   "unique_name": "Women of Acoustic",

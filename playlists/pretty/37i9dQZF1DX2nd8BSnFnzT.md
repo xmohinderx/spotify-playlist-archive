@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,163 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,180 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PITTYNANDO](https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas](https://open.spotify.com/album/32twh3w8ohRnmxqlsxbxDq) | 3:43 |
 | 2 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
 | 3 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 |
-| 4 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 |
+| 4 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 |
 | 5 | [Solidão que Nada](https://open.spotify.com/track/46EyKw0EOH4qeqQy80XMtm) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Barão 40 \(De Luxe\)](https://open.spotify.com/album/3CXJqomBAVSchsGaa2bwzO) | 3:24 |
 | 6 | [Clareia Noite](https://open.spotify.com/track/5zdeS32UZEyon1A0Tfgur0) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [Clareia Noite](https://open.spotify.com/album/3TybTngzxvufa0YQmvJVBL) | 3:43 |
 | 7 | [O Que Estou Fazendo Agora](https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [O Que Estou Fazendo Agora](https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe) | 3:21 |

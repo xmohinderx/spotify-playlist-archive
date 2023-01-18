@@ -2085,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "Dancing With a Ghost",
+        "url": "https://open.spotify.com/album/0IIe0PZJqN2hCyuulakNg7"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        },
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170292,
+      "name": "Dancing With a Ghost",
+      "url": "https://open.spotify.com/track/5090OxlmjmJr2QjYnYPl06"
+    },
+    {
+      "album": {
         "name": "Dancing with a Ghost",
         "url": "https://open.spotify.com/album/3Mt2TpYN932IIhiQMgbGVa"
       },
@@ -3592,7 +3618,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 178514,
       "name": "Gonna Need Ya",
       "url": "https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3"
@@ -4260,7 +4286,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 157304,
       "name": "Hold On To The Night",
       "url": "https://open.spotify.com/track/2Ou5bIxrNTwNFrwfNaOr3R"
@@ -6480,6 +6506,32 @@
       "duration_ms": 147904,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf"
+    },
+    {
+      "album": {
+        "name": "Matter of Time (Deepend Remix)",
+        "url": "https://open.spotify.com/album/4RVcYGRLef8g3PLEuTLDfm"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Matter of Time - Deepend Remix",
+      "url": "https://open.spotify.com/track/3JzqZV4ALUxonpQheJjbLk"
     },
     {
       "album": {

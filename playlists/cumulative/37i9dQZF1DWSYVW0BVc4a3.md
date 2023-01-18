@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Dom Dolla
 
-321 songs - 1 day 0 hr 59 min
+322 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-15 | 2022-12-02 |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/track/23TU00ZacXcRMkL4iclubv) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Sam Phay](https://open.spotify.com/artist/0zTCoyOV9kZ4RNUWpZsLTb) | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/album/1OmjAxwm3U3mxCEkYAioMX) | 4:27 | 2022-08-18 | 2022-08-20 |
-| [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4) | 5:56 | 2022-08-18 |  |
+| [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4) | 5:56 | 2022-08-18 | 2023-01-18 |
 | [Don't Make Sense](https://open.spotify.com/track/3yMf03Q6Vqr1cXIYdUo1Mz) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Don't Make Sense](https://open.spotify.com/album/2ePUvWGz3ZKUUIGOZ0eFZl) | 6:12 | 2022-12-15 | 2023-01-06 |
 | [Don't You Know](https://open.spotify.com/track/3wcgQtIGQ4QTTI3VLpmKzN) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ) | [Don't You Know](https://open.spotify.com/album/45nc2W02MspKjeAIGwIvz8) | 2:55 | 2022-08-18 | 2022-12-09 |
 | [DoNe WIth U](https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [DoNe WIth U](https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl) | 3:19 | 2022-08-25 | 2022-10-29 |
@@ -176,6 +176,7 @@
 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 | 2022-10-13 |  |
 | [Make It Happen \- Dom Dolla Remix](https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:27 | 2022-08-18 |  |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-18 | 2022-09-24 |
+| [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 | 2023-01-12 |  |
 | [Masai](https://open.spotify.com/track/61UMUNZBTRzuxFIQ0NLzza) | [MATIRAMIC](https://open.spotify.com/artist/10o35TYZ71XeQl05l4KVcJ) | [Masai](https://open.spotify.com/album/2n3I1VOEwgxQ0EQASu0LJd) | 8:41 | 2022-12-27 | 2023-01-02 |
 | [MC Tip](https://open.spotify.com/track/7vY3fkvCfJpisPjGpHnl1t) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [MC Tip](https://open.spotify.com/album/2C7Kyc7qBemwdB7WL31nIc) | 5:07 | 2022-11-10 | 2022-12-06 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-08-18 | 2022-08-20 |

@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-364 songs - 1 day 0 hr 13 min
+365 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2021-11-30 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 | 2021-11-26 | 2022-12-24 |
-| [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-10 |  |
+| [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-10 | 2023-01-18 |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-01-05 |  |
 | [Comme Il Faut](https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comme il faut](https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz) | 3:42 | 2022-03-03 | 2022-10-08 |
 | [Con Alba](https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Moon Time](https://open.spotify.com/album/5us4c8ltJbJGlyhpHzXIG3) | 3:17 | 2021-07-02 |  |
@@ -280,6 +280,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/42yJPYOs9v9OikUdrJyHTj) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Cheek To Cheek](https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde) | 3:43 | 2020-10-20\* | 2021-01-21 |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-17 |  |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/3I9jByU1f1o45YfxPrsCWI) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Somewhere Over the Rainbow](https://open.spotify.com/album/2zTKHtbXJclLO5YKvLTITF) | 2:57 | 2021-03-26 | 2022-06-30 |
+| [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-01-12 |  |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-04-26 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/5CmFCnkDItoN2FcUHNCCQB) | [Alice Cobb Duo](https://open.spotify.com/artist/50DBOiVfP6gTuXQdsRNXN7) | [You Can't Go Home Again](https://open.spotify.com/album/4VnPvwTo3sGRxTWvdVbd3y) | 6:20 | 2020-11-05 | 2022-08-14 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-29 |  |

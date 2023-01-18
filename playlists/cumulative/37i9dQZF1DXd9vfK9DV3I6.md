@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-230 songs - 17 hr 8 min
+231 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Enta Omry Remix 2022](https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Enta Omry Remix 2022](https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG) | 4:38 | 2022-06-27 |  |
 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 | 2022-01-31 |  |
 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |
+| [Ethnique](https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4) | [Yusuf Ekşioğlu](https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv) | [Ethnique](https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4) | 2:47 | 2023-01-13 |  |
 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 | 2020-10-18\* |  |
 | [Fade Away](https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away](https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7) | 2:38 | 2022-10-27 |  |
 | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT) | 2:38 | 2021-07-10 | 2022-10-30 |
@@ -146,7 +147,7 @@
 | [Mosaïque](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/0CyW2YVJhur4mWOSSSUFU6) | 3:41 | 2022-06-27 |  |
 | [Mosaïque](https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb) | 3:41 | 2020-10-18\* | 2022-07-29 |
 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
-| [Moultan](https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Solstice Sessions](https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI) | 7:14 | 2022-06-27 |  |
+| [Moultan](https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Solstice Sessions](https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI) | 7:14 | 2022-06-27 | 2023-01-18 |
 | [Moultan \- Original Mix](https://open.spotify.com/track/1iwcs9HYCGkineRo2ya52m) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Buddha\-Bar & The Soul Brothers: Solstice Sessions](https://open.spotify.com/album/1krKGZgC2zL5cGmMzgYigK) | 7:14 | 2020-10-18\* | 2022-07-29 |
 | [Move On](https://open.spotify.com/track/5jYntKRDo21t5sEQHx8OM2) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Move On](https://open.spotify.com/album/4GngckWbcK6cWopdBoWLdg) | 4:07 | 2022-05-19 | 2022-10-15 |
 | [Mra ou Mermora](https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Roots LP](https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR) | 3:44 | 2020-10-18\* |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 295587,
+  "num_followers": 295697,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDEwOWExMDZiMjM4OGE3YmJlMDk2ZmYyOWExYzEzODBl",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDcwMTdmOGNlNmNkNDJhYmJkYzNjNjQxZTRhNjA2ZGNj",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Golden Dandelions (Acoustic)",
         "url": "https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 163120,
       "name": "Synchronize - Acoustic Version",
       "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "Supernatural (Acoustic)",
+        "url": "https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+      "duration_ms": 186013,
+      "name": "Supernatural - Acoustic",
+      "url": "https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn"
     }
   ],
   "unique_name": "Stripped Down",

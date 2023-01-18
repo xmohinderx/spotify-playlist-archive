@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 199535,
+  "num_followers": 199634,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDViMDBkOWY5YTQzNzljZDkwYWZjODIxOTZhMDFiMTZm",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDFlMDk2ZGIyYTFiNmJmOTUxNGVkN2UzOWJhZThlYzBj",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Merengue y Sentimiento",
         "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 230546,
       "name": "Amorcito Enfermito",
       "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2022-10-25 23:01:25",

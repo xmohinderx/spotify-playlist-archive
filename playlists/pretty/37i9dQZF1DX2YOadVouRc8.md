@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,150 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,180 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 55 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
 | 56 | [Fight For You](https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q) | [Naomi Achu](https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Fight For You](https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67) | 3:28 |
 | 57 | [Your Love \(Mogbe\)](https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Afro Nation](https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:40 |
-| 58 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
-| 59 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 |
+| 58 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 |
+| 59 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
 | 60 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
 | 61 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 |
 | 62 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 71 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 |
 | 72 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 |
 | 73 | [Better Days](https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 3:07 |
-| 74 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 |
-| 75 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 |
+| 74 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 |
+| 75 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 |
 | 76 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 | 77 | [Brunch](https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Brunch](https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec) | 3:01 |
 | 78 | [Feeling](https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [4 Play](https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ) | 2:23 |
 | 79 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
 | 80 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 |
 
-Snapshot ID: `MTY3MzU2NDQwMCwwMDAwMDAwMDgwZDBlNDBkZjE3NjNlMmQzZjJiOGEzNTlkYTIxZDBh`
+Snapshot ID: `MTY3MzU2NDQwMCwwMDAwMDAwMGExMzZiOWUzMjE1MzA0YzBhN2M4ODQyNjAzYTU4ZGNh`

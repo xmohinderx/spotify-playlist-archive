@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 235256,
       "name": "Frenemy",
       "url": "https://open.spotify.com/track/1WzMnzTmdWbJZ3OhizMtbX"
@@ -5382,7 +5382,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 179172,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
@@ -6959,6 +6959,28 @@
     },
     {
       "album": {
+        "name": "\u5b64\u55ae",
+        "url": "https://open.spotify.com/album/0Vk2WBEn7dT72mv2s1G9bk"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145768,
+      "name": "\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/78CCQf4q1XDiBxNQCU3Tg4"
+    },
+    {
+      "album": {
         "name": "\u5b64\u7368\u75c5",
         "url": "https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY"
       },
@@ -8480,7 +8502,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "\u7aae\u4eba\u7684\u8594\u8587",
       "url": "https://open.spotify.com/track/0mOa18v5rXhg8CRTPQIe3u"

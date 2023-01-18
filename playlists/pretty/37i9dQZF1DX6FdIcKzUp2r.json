@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 191848,
+  "num_followers": 191926,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDY5YTRlMWJiMjQzY2JmMTc2MjIxYzYzNjkxNTRhMTY2",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDA3NTQ5N2M0MmZlMmZkNjVjNWM3YjhiMTIzOTY1MmMx",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stay on These Roads",
-        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "There's Never a Forever Thing",
-      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Sailing / Poor Shirley (Digital 45)",
         "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 255453,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Stay on These Roads",
+        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "There's Never a Forever Thing",
+      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -815,22 +815,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318773,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/2Ybk2o6v6vqbLcRkPS7m2F"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202906,
       "name": "Lady Marian - Remastered 2003",
       "url": "https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318773,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Captain of Her Heart (Radio Version)",
-        "url": "https://open.spotify.com/album/5oOBMhtW7txojzTblbiGRV"
-      },
-      "artists": [
-        {
-          "name": "Double",
-          "url": "https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2"
-        }
-      ],
-      "duration_ms": 238943,
-      "name": "The Captain of Her Heart - Radio Version",
-      "url": "https://open.spotify.com/track/36NiEVgYkR3njVyydBphXV"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 295093,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE"
-      },
-      "artists": [
-        {
-          "name": "The Communards",
-          "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "For a Friend",
-      "url": "https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -963,6 +931,38 @@
       "duration_ms": 292666,
       "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
       "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Captain of Her Heart (Radio Version)",
+        "url": "https://open.spotify.com/album/5oOBMhtW7txojzTblbiGRV"
+      },
+      "artists": [
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2"
+        }
+      ],
+      "duration_ms": 238943,
+      "name": "The Captain of Her Heart - Radio Version",
+      "url": "https://open.spotify.com/track/36NiEVgYkR3njVyydBphXV"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE"
+      },
+      "artists": [
+        {
+          "name": "The Communards",
+          "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "For a Friend",
+      "url": "https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35"
     },
     {
       "added_at": "2018-12-12 11:36:39",

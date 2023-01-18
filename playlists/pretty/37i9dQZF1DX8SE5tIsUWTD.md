@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,724 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,787 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 12 | [Egypt Strut](https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm) | [Salah Ragab](https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq), [The Cairo Jazz Band](https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe) | [Egyptian Jazz](https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0) | 4:55 |
 | 13 | [Ana Damir El Motakallim](https://open.spotify.com/track/7JNyr6lS7KF2m2we2HEfZI) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 11:42 |
 | 14 | [Alech](https://open.spotify.com/track/5IMvEsOBkkOAGzjgOniDsj) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn) | 3:26 |
-| 15 | [Mafatshi Leh](https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 2:50 |
+| 15 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 |
 | 16 | [Saat Alfarah](https://open.spotify.com/track/0KLq4a5LFOA904uLu9y3QZ) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 4:46 |
 | 17 | [Sid Redad](https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ) | 3:02 |
-| 18 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 |
+| 18 | [Mafatshi Leh](https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 2:50 |
 | 19 | [La silence des cendres](https://open.spotify.com/track/3mpuDiQ0brVA4D1mT6wwL8) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 3:14 |
 | 20 | [I Love You Lina](https://open.spotify.com/track/6IhBgvc14BmE9MAx3P9JZa) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:30 |
 | 21 | [Soleil Soleil](https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 50 | [Albaki](https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 7:06 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGJhNTk4MzMyMjZlZDRjYmYzMmM1N2IzZjBkMmJkZjRl`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGEzOWQ3NWM4ODFhMWYwOGIxYjJmY2Q2YzNkZjE1YTMy`

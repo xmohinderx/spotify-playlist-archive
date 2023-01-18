@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,990 likes - 49 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,007 likes - 49 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 24 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
 | 25 | [Why We Sing](https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:47 |
 | 26 | [I Do Worship \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [The Essential John P\. Kee](https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy) | 5:26 |
-| 27 | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/track/70O4lnaxr3stKaPAZOHSgj) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Nicole Harris](https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8) | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/album/63Dts9ir6pyJiLrlPB0PBL) | 3:48 |
+| 27 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
 | 28 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 |
-| 29 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
+| 29 | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/track/70O4lnaxr3stKaPAZOHSgj) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Nicole Harris](https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8) | [You're Doing It All Again \(Radio Edit\) \[Live\] \(feat\. Nicole Harris\)](https://open.spotify.com/album/63Dts9ir6pyJiLrlPB0PBL) | 3:48 |
 | 30 | [I Won't Let Go \- Live](https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:52 |
 | 31 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
 | 32 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 49 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
 
-Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDJiMzVlNzYzOGVmMGY1OWU2OTQ3YzQyNTM1MzI3NWVi`
+Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMGY1OTE1ZmY3NmNiZDhlNWU2MjNkODA4NGI0YWM2Zjdi`

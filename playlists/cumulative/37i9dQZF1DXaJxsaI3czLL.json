@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 120799,
       "name": "I Love You More.",
       "url": "https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
@@ -2404,6 +2404,24 @@
       "duration_ms": 301693,
       "name": "\u8857\u8def\u6a39",
       "url": "https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn"
+    },
+    {
+      "album": {
+        "name": "\u9280\u3061\u3083\u3093/Sea song-324P REMIX-",
+        "url": "https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3043\u306a\u3068\u30eb\u30fc\u30c1",
+          "url": "https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261125,
+      "name": "\u9280\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX"
     },
     {
       "album": {

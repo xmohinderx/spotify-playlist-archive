@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-268 songs - 16 hr 43 min
+269 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bicycle Day](https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [Bicycle Day](https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH) | 3:34 | 2022-09-30 | 2022-11-17 |
 | [Blinking](https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Blinking](https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-12-09 | 2022-07-27 |
-| [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-21 |  |
+| [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 | 2022-07-21 | 2023-01-18 |
 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 | 2021-12-09 |  |
 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 | 2022-07-21 |  |
 | [Blurred](https://open.spotify.com/track/6hwFQPg7zY7qOqJHAfFeMC) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/1bNmr6gWbxLy9HBkpS51x7) | 5:05 | 2022-04-14 | 2022-04-21 |
@@ -207,6 +207,7 @@
 | [Rue de l’Enfer](https://open.spotify.com/track/7Ljo9b3ERb9b41aqP7e2KX) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [Rue de l’Enfer](https://open.spotify.com/album/7ffaZ6KcBJxOxC4zGyAo8S) | 3:00 | 2022-01-14 | 2022-03-22 |
 | [Run Away With Me](https://open.spotify.com/track/76KAUp0X4bt8APttco8Zb0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/1tYHjJ50WowcNvDTLdf6Wo) | 4:07 | 2022-04-14 | 2022-04-21 |
 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2022-09-28 |  |
+| [Same Kind of People](https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Same Kind of People](https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz) | 4:02 | 2023-01-12 |  |
 | [Same Light](https://open.spotify.com/track/2bWkBLuzrH7g1HcB833se9) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Same Light](https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm) | 2:36 | 2022-01-14 | 2022-07-29 |
 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 | 2022-07-21 |  |
 | [Save Me From Your Kindness](https://open.spotify.com/track/6TFMXG62kwrJjTnEVQKrl7) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [No Words Left](https://open.spotify.com/album/7dH9UtNVY8jKjZie4207uk) | 3:47 | 2022-04-14 | 2022-04-20 |

@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 88000,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6oU0ts0UfSzBAxKsd0pPdN"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 252000,
       "name": "Bengala",
       "url": "https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd"
@@ -2371,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Nanai",
+        "url": "https://open.spotify.com/album/73HBLirEmtxzVgwdkNjgVD"
+      },
+      "artists": [
+        {
+          "name": "Anier",
+          "url": "https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS"
+        },
+        {
+          "name": "SOTAN",
+          "url": "https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172982,
+      "name": "Nanai",
+      "url": "https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN"
+    },
+    {
+      "album": {
         "name": "No Hay Manera",
         "url": "https://open.spotify.com/album/1eR5vOALWMjXkehzm3tfyj"
       },
@@ -3138,7 +3160,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 134399,
       "name": "Siddhartha",
       "url": "https://open.spotify.com/track/5K0xCHlMysYNnBVckJY1yi"
@@ -3168,6 +3190,28 @@
       "duration_ms": 186537,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A"
+    },
+    {
+      "album": {
+        "name": "Smokin' Loud",
+        "url": "https://open.spotify.com/album/7G9mS8OL44JTMd9vGKoRas"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Bombony Montana",
+          "url": "https://open.spotify.com/artist/5sIpYN3jl80npXJ3GkcWG5"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Smokin Loud",
+      "url": "https://open.spotify.com/track/1gS0Q8S8jOaetLdL4Ji798"
     },
     {
       "album": {
@@ -3414,6 +3458,28 @@
       "duration_ms": 239288,
       "name": "Todo bien",
       "url": "https://open.spotify.com/track/1WicXfvMtWi6FRMaTFyLH7"
+    },
+    {
+      "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/0NzEhTxou6gnm7WPvT5VgZ"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/5SSZq4JOkw3sWpwBpcqPoK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-109 songs - 6 hr 46 min
+111 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 | 2022-10-09 | 2023-01-11 |
 | [Abracadabra](https://open.spotify.com/track/2dwIrKXerOuFVQyermZ5SO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/3SdLDzpUj36FVAebMkJX0z) | 4:18 | 2023-01-13 |  |
 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 | 2023-01-16 |
-| [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 | 2022-06-02 |  |
+| [Achfa](https://open.spotify.com/track/0Q7rY5KgKlvmBjvYYMpEFM) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/5C8huomQsXZdimYXBFQxEw) | 3:40 | 2023-01-13 |  |
+| [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 | 2022-06-02 | 2023-01-18 |
 | [Achfa](https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha) | 3:40 | 2022-07-27 | 2023-01-12 |
 | [Adieu c'est fini](https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Adieu c'est fini](https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q) | 6:32 | 2022-05-26 | 2022-08-20 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 |  |
@@ -73,7 +74,8 @@
 | [Manimane](https://open.spotify.com/track/6cVOmhvrfTFGw6h8bEU3Rl) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Manimane](https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9) | 3:09 | 2022-02-07 |  |
 | [Marsilia](https://open.spotify.com/track/35hzpvo3JS4NbOMpvC9vAN) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Marsilia](https://open.spotify.com/album/077lukkBWt0j9J7PfZRM0p) | 2:49 | 2021-12-09 |  |
 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 | 2021-12-09 |  |
-| [Mazalna](https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz) | 3:22 | 2022-09-04 |  |
+| [Mazalna](https://open.spotify.com/track/2sDK5bXfWaIpJdYdQJwXJK) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/2Y2EHx5dXgd1UEWn2xP8EQ) | 3:22 | 2023-01-13 |  |
+| [Mazalna](https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz) | 3:22 | 2022-09-04 | 2023-01-18 |
 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 | 2022-07-27 |  |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-12-09 | 2023-01-12 |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2021-12-09 | 2022-01-28 |

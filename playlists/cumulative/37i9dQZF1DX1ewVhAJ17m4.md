@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: All Time Low
 
-225 songs - 11 hr 1 min
+226 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,9 +215,10 @@
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-12-20 | 2022-02-22 |
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2022-12-26 |
 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 |  |
+| [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-13 |  |
 | [TOMMY TOOK A PICTURE](https://open.spotify.com/track/09AL4W5rR6pqo6ljrSpAOC) | [Signals Midwest](https://open.spotify.com/artist/16AdioxYOukoGrCeLV9QGF) | [TOMMY TOOK A PICTURE](https://open.spotify.com/album/4nPAjMPwRyacsRTQ42spJa) | 2:46 | 2022-04-04 | 2022-08-19 |
 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 | 2022-08-25 | 2022-11-11 |
-| [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2021-12-20 |  |
+| [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2021-12-20 | 2023-01-18 |
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-13 |  |
 | [UNCOMPLICATED](https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [UNCOMPLICATED](https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn) | 2:29 | 2021-12-20 |  |
 | [Unstoppable](https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Unstoppable](https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt) | 3:05 | 2022-10-21 |  |

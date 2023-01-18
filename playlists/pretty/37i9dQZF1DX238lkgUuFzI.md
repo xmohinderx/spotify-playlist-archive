@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,202 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,240 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 15 | [Flesh](https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 1:19 |
 | 16 | [FAIR GAME](https://open.spotify.com/track/1jnkNenBPVSYumGDYfwcYs) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 2:46 |
 | 17 | [My Mother Wants Me Dead](https://open.spotify.com/track/04rzwxnFGsFYeP3rqE1s3U) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 1:45 |
-| 18 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 18 | [I Really Fucked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 19 | [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 |
 | 20 | [The Void Stares Back](https://open.spotify.com/track/22lCyX2trHjfaFiNrzxpZr) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/2puIthwRPxgxmRUe7YQgTN) | 3:51 |
 | 21 | [POSSESS ME](https://open.spotify.com/track/2b1XeiXd3imcaPLMLGGIej) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:00 |

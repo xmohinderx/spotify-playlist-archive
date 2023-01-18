@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238028,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I"
+    },
+    {
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -408,7 +430,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 107442,
       "name": "Como Si No Importara",
       "url": "https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA"
@@ -1008,6 +1030,24 @@
       "duration_ms": 204601,
       "name": "Desordenada",
       "url": "https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ"
+    },
+    {
+      "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "album": {
@@ -2205,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Libertad Provisoria",
+        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Libertad Provisoria",
+      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
+    },
+    {
+      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/4EFaPLKwbFhzBy9GWVcT75"
       },
@@ -2636,7 +2694,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 196588,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
@@ -3347,6 +3405,32 @@
     },
     {
       "album": {
+        "name": "Olvidarte de Mi Jamas Podras",
+        "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
+      },
+      "artists": [
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        },
+        {
+          "name": "Taweno",
+          "url": "https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Olvidarte de Mi Jamas Podras",
+      "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+    },
+    {
+      "album": {
         "name": "\u00danicos",
         "url": "https://open.spotify.com/album/3703IuXxRRdEYSgBUeBljK"
       },
@@ -3416,7 +3500,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 266000,
       "name": "Olv\u00eddate - Cuarteto",
       "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
@@ -4988,7 +5072,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 193000,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09"
@@ -5166,6 +5250,24 @@
       "duration_ms": 68300,
       "name": "Violeta - En Vivo",
       "url": "https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk"
+    },
+    {
+      "album": {
+        "name": "Arriba las Palmas (En Vivo)",
+        "url": "https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68300,
+      "name": "Violeta - En Vivo",
+      "url": "https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo"
     },
     {
       "album": {

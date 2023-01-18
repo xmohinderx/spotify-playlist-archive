@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: 7ARI
 
-80 songs - 4 hr 21 min
+81 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [BASSIR](https://open.spotify.com/track/4hRA3vfdnueQ1jUtzXVyKX) | [LMEHDI](https://open.spotify.com/artist/0harAEshGekJSaQaEXI8D9) | [BASSIR](https://open.spotify.com/album/5TE2KUnFdyyiSua2e5Z3hC) | 2:12 | 2022-12-29 |  |
 | [BEAST MODE](https://open.spotify.com/track/0SQPT4wCGUqS2xecqBSwjl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:26 | 2022-11-14 | 2022-12-30 |
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 |  |
-| [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 |  |
+| [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 | 2023-01-18 |
 | [Business](https://open.spotify.com/track/0m329rtCU8m21ddjEjn9qB) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Business](https://open.spotify.com/album/6dImfvOvOjXN6x9WB1IUvH) | 3:06 | 2022-11-14 | 2022-11-19 |
 | [Casablanca](https://open.spotify.com/track/5rXsQFfmIDaUtRpyoPpxLM) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Casablanca](https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr) | 3:13 | 2022-11-14 |  |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 |  |
@@ -43,6 +43,7 @@
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-11-14 |  |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 |  |
+| [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 |  |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-11-14 | 2022-11-26 |
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 |  |

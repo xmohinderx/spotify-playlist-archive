@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,883 likes - 44 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,317 likes - 44 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 43 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 |
 | 44 | [All Hope Is Gone](https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:44 |
 
-Snapshot ID: `Mjc4OTc5OTEsMDAwMDAwMDAzZWQ0YmZjYjg2MDQyMTQ2N2ZkMTY5MDNjMzE2ZDcxYQ==`
+Snapshot ID: `Mjc4OTk0MjAsMDAwMDAwMDAyY2I4ODk3ZGNhNTY2N2Y2NjM5OTI1Y2E0ZGI3NGE4ZA==`

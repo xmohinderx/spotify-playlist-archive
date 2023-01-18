@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,192 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,255 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 20 | [Assault \(Angra\)](https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Assault \(Angra\)](https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU) | 4:29 |
 | 21 | [Fio a Fio](https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Fio a Fio](https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5) | 2:58 |
 | 22 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 |
-| 23 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
-| 24 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
+| 23 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 |
+| 24 | [Oi Né](https://open.spotify.com/track/430wwaLM5dZXhY4h7QJH0I) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Oi Né](https://open.spotify.com/album/5KSCMOcGXILOqcIO1YhiKk) | 2:50 |
 | 25 | [Chega de Falar de Ice](https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Chega de Falar de Ice](https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg) | 2:57 |
 | 26 | [Ok Baby](https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [Ok Baby](https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9) | 2:44 |
 | 27 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 60 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMGMyYTY1ZGRhMjY4NWUzYjNhNTkwNjNiMWMzZDkwMmVi`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDM4MDI3NjUwNWU0YmM4ZmZhYjE0NTgwMDFlYTUwZDRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Miso\(미소\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,162 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,183 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 44 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
 | 45 | [Circle Mind \(feat\. Dbo\)](https://open.spotify.com/track/32aPXAGrLPmZahHtGMw4r6) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Circle Mind](https://open.spotify.com/album/2yVFgP5puQ82LFsEj1e7F4) | 2:28 |
 | 46 | [LIMBO \(feat\. Swervy\)](https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [BOBO](https://open.spotify.com/album/4WS73BYKxWkfs30vPUhcuj) | 2:15 |
-| 47 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
-| 48 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 47 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 48 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 | 49 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
 | 50 | [It Was All a Dream](https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:16 |
 
-Snapshot ID: `MTY3MzM2NTc2OCwwMDAwMDAwMDhkMzc2OWJkNTFhZWVlYmFjMTRkZDhkMGUwYTEwYjY4`
+Snapshot ID: `MTY3MzM2NTc2OCwwMDAwMDAwMDQ4ODc1NWU5NmIwNmNiMDg1NWRmZWI4ZmQwNGEzOWY3`

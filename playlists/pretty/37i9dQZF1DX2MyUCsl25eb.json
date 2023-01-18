@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 974424,
+  "num_followers": 974636,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGI4ZTBiOTNhZTUwZTBmZTViYWIyODM4OTQ0ZGZhM2Uw",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGM0MGM3NTEzNjFiYmY5YTQ1NTk5YTQwNTA0ODQyZDll",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "leave me",
+        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 220539,
+      "name": "leave me",
+      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -511,22 +527,6 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "leave me",
-        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 220539,
-      "name": "leave me",
-      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Jude's Song",
-        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 137079,
-      "name": "Jude's Song",
-      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -609,20 +609,36 @@
       "url": "https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+        "name": "Jude's Song",
+        "url": "https://open.spotify.com/album/6rp0vpNf14iZJ1QCDJfHo9"
       },
       "artists": [
         {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         }
       ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+      "duration_ms": 137079,
+      "name": "Jude's Song",
+      "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -643,22 +659,6 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Believer",
@@ -763,6 +747,22 @@
       "duration_ms": 263253,
       "name": "Believer",
       "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -973,36 +973,20 @@
       "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Fat Funny Friend (sadder)",
-        "url": "https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY"
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Fat Funny Friend (sadder)",
-      "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 211843,
-      "name": "MUSCLE MEMORY",
-      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 211843,
+      "name": "MUSCLE MEMORY",
+      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+      "duration_ms": 163360,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1121,36 +1121,20 @@
       "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Always Almost",
-        "url": "https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM"
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Always Almost",
-      "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Always Almost",
+        "url": "https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Always Almost",
+      "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "The Good Parts",
-      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -1227,6 +1211,22 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "The Good Parts",
+      "url": "https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5"
     },
     {
       "added_at": "2022-06-24 04:02:00",

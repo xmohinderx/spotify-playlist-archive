@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,948 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,033 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 31 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
 | 32 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
 | 33 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
-| 34 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
-| 35 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
+| 34 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
+| 35 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
 | 36 | [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 |
 | 37 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 |
 | 38 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 | 50 | [Straight Up](https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [A Ray of Hope](https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1) | 4:39 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDgyM2U0Y2RmNmRiM2ExZTU4ODhmYWVmNmQwYTc1YWY3`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDdlZmJmODcxNTc4MzE2NGFmZjZhNDI0Nzg4NzIzNjFh`

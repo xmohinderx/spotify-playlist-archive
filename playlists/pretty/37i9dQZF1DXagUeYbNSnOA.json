@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Tania Dominguez. Updates every Wednesday.",
-  "num_followers": 168526,
+  "num_followers": 168534,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1MzMzNCwwMDAwMDAwMDc0M2MwNTkxYjdmMmQ3MDNmYTdmNTI0OWI0YTIxYTI1",
+  "snapshot_id": "MTY3MzU1MzMzNCwwMDAwMDAwMDJiODUzOTJiZDg2ZDhhODA1Yzc4M2JhOWY3MTJkZmRj",
   "tracks": [
     {
       "added_at": "2023-01-12 19:55:34",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-12 19:55:34",
       "album": {
-        "name": "Pobre Diabla",
-        "url": "https://open.spotify.com/album/4NKxmZKe5QJC8ktxNuQYnC"
-      },
-      "artists": [
-        {
-          "name": "Lalezka",
-          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "Pobre Diabla",
-      "url": "https://open.spotify.com/track/2mQT64uWpty58GkWKaXGeR"
-    },
-    {
-      "added_at": "2023-01-12 19:55:34",
-      "album": {
         "name": "Vis a Vis",
         "url": "https://open.spotify.com/album/4ETZCK2it5kYYcPqeuiP6G"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 225624,
       "name": "Vis a Vis",
       "url": "https://open.spotify.com/track/79kc74yzs4SAO67JUg5mxF"
+    },
+    {
+      "added_at": "2023-01-12 19:55:34",
+      "album": {
+        "name": "Pobre Diabla",
+        "url": "https://open.spotify.com/album/4NKxmZKe5QJC8ktxNuQYnC"
+      },
+      "artists": [
+        {
+          "name": "Lalezka",
+          "url": "https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/2mQT64uWpty58GkWKaXGeR"
     },
     {
       "added_at": "2023-01-12 19:55:34",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-12 19:55:34",
       "album": {
-        "name": "Majalca",
-        "url": "https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Gahu",
-          "url": "https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Majalca",
-      "url": "https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V"
-    },
-    {
-      "added_at": "2023-01-12 19:55:34",
-      "album": {
         "name": "La Idea de Ti",
         "url": "https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 312891,
       "name": "La Idea de Ti",
       "url": "https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd"
+    },
+    {
+      "added_at": "2023-01-12 19:55:34",
+      "album": {
+        "name": "Majalca",
+        "url": "https://open.spotify.com/album/3iCr5j5ifLIUObeqOIYh2O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gahu",
+          "url": "https://open.spotify.com/artist/3islmKtuqjWUCx2Et7xBCs"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Majalca",
+      "url": "https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V"
     },
     {
       "added_at": "2023-01-12 19:55:34",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-12 19:55:34",
       "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 171405,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl"
-    },
-    {
-      "added_at": "2023-01-12 19:55:34",
-      "album": {
         "name": "AUCH",
         "url": "https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 186032,
       "name": "AUCH",
       "url": "https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg"
+    },
+    {
+      "added_at": "2023-01-12 19:55:34",
+      "album": {
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 171405,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl"
     },
     {
       "added_at": "2023-01-12 19:55:34",

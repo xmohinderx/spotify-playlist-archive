@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,311 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,457 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 16 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 17 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 18 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
-| 19 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
-| 20 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
+| 19 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
+| 20 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 21 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 22 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
 | 23 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 67 | [I Believe In Miracles](https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funk / Soul / Disco](https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj) | 2:57 |
 | 68 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 |
 | 69 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
-| 70 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
-| 71 | [Whistle Bump](https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Love Island](https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT) | 4:32 |
+| 70 | [Whistle Bump](https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Love Island](https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT) | 4:32 |
+| 71 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 72 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
 | 73 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 |
 | 74 | [Heaven of My Life \- Full Length Album Mix](https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Miracles \(Original Album and Rare Tracks\)](https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r) | 5:38 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 76 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
 | 77 | [Enjoy Your Life](https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:16 |
 | 78 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
-| 79 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
-| 80 | [For Your Precious Love](https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:38 |
+| 79 | [For Your Precious Love](https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:38 |
+| 80 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
 | 81 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 |
 | 82 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
 | 83 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Lypso Illusion](https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n) | 4:44 |
 | 100 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 
-Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDhmN2UxNGY1MmZkN2I0OGZlODJjZWZlNWNhMDIxN2Ri`
+Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDI0ODAwNjI2YmQ2NWEwMDFlYjliYzIwNWEzODYwMGNl`

@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Duckwrth",
-  "num_followers": 911340,
+  "num_followers": 911728,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDVhYjAxMjI5MDJiYjRkYzhkMGJlYjc4OWNjMDY1NzM5",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGNlNjM4MTUwYTgxOTMwZDlmYTQxNjg3ZWFjYzNlZTIx",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -327,18 +327,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "TM",
-        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 198293,
-      "name": "NEW SHOES",
-      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -399,26 +403,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "SHOTS! (WITH DENZEL CURRY)",
         "url": "https://open.spotify.com/album/6MjsNxUERlhYyccLTaMtfS"
       },
@@ -459,26 +443,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
@@ -499,6 +463,42 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "TM",
+        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "NEW SHOES",
+      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 132746,
-      "name": "RZA",
-      "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Dear Life",
         "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 153750,
       "name": "Dear Life",
       "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 132746,
+      "name": "RZA",
+      "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Willing To Trust",
-        "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 282053,
-      "name": "Willing To Trust (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "A Bar About a Bar",
-        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+        "name": "Willing To Trust",
+        "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 65480,
-      "name": "A Bar About a Bar",
-      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+      "duration_ms": 282053,
+      "name": "Willing To Trust (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
     },
     {
       "added_at": "2023-01-13 05:00:00",

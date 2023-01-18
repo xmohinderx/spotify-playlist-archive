@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,444 likes - 104 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,459 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 19 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
 | 20 | [PLAYA'S CIRCLE](https://open.spotify.com/track/4t2xvZq61Ww2hpdvP1JoRw) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PLAYA'S CIRCLE](https://open.spotify.com/album/0rE1mS53R8ACLjHbeQKCNl) | 3:28 |
 | 21 | [So Easy Wenn Du Da Bisch \- FRANZ Remix](https://open.spotify.com/track/39FMoMqGtNqF4ut0mwjpz4) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24), [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [So Easy Wenn Du Da Bisch \(FRANZ Remix\)](https://open.spotify.com/album/7513ulZ2IlRP7YSFKsHMCu) | 2:50 |
-| 22 | [Meer fahren](https://open.spotify.com/track/1lqcZN0Gmlg8XeWpp996Xl) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/7rpUPj1XDs9hXOeppLX1Gl) | 3:41 |
+| 22 | [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/3yS8i28eQBQ5pMTajqctPE) | 3:41 |
 | 23 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
 | 24 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 |
 | 25 | [Heartbreaks](https://open.spotify.com/track/2XDS8ycI3PtXHv8x21Q2DY) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Alle Hassen Montag](https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY) | [Heartbreaks](https://open.spotify.com/album/0YztKqJaUavgKgW90Ohgcd) | 2:35 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |
 | 104 | [Die mittleren Jahre](https://open.spotify.com/track/14VkZ4FuAtQt04UbbXLvp4) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Die mittleren Jahre](https://open.spotify.com/album/0jPJBQuxkyB3Hab4J2VBil) | 2:54 |
 
-Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMGVkMzk5NWY1N2JjMWE1Y2YwMGE2ZmZlZGZjODAyYjJi`
+Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDJjOTljZDQ1ZDYxM2RlNDM0MTc5YmJiMTc3ZTgzZTVh`

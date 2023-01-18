@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,688 likes - 37 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,712 likes - 37 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 36 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 |
 | 37 | [Shotgun](https://open.spotify.com/track/2KlgVJHyLEzEI4aBiGptij) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:08 |
 
-Snapshot ID: `Mjc4OTc5OTEsMDAwMDAwMDBmNjg4MDYwMDQ3NGYzOWYyYzVmY2RlY2VjYTc0NDk4NA==`
+Snapshot ID: `Mjc4OTk0MjAsMDAwMDAwMDBiZmU4NDUwZWYwZjNhMDQ1MGEzMWI2OTk2OWExNmU3Yw==`

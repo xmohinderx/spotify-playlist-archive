@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1244007,
+  "num_followers": 1244145,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxMTIwMCwwMDAwMDAwMGRjNzc0ZWQ0ZTQxMzkxZmRmODAyMDE3Zjc3MzkyNTRm",
+  "snapshot_id": "MTY3MzYxMTIwMCwwMDAwMDAwMGI1NmE0YThjYTVhYjVhN2EzNzU5OWE2MTdlYTFiMGEw",
   "tracks": [
     {
       "added_at": "2023-01-13 12:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-01-13 12:00:00",
       "album": {
-        "name": "Left & Right",
-        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Left & Right",
-      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2023-01-13 12:00:00",
@@ -927,22 +923,6 @@
     {
       "added_at": "2023-01-13 12:00:00",
       "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133212,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
-    },
-    {
-      "added_at": "2023-01-13 12:00:00",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2023-01-13 12:00:00",
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
     },
     {
       "added_at": "2023-01-13 12:00:00",

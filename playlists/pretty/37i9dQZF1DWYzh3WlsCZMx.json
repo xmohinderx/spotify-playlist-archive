@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 8960,
+  "num_followers": 9051,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDY5MjE4OWViNmIzZTY2ZmEyYzQxNDc2MThkNDQxOWZl",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQ0N2YzNDBiY2M3YWIzZWM3ODFkNDVjZDVmYzdjNTRi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Who Don't Like Dollaz",
+        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
+      },
+      "artists": [
+        {
+          "name": "Zoey Dollaz",
+          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
+        }
+      ],
+      "duration_ms": 193358,
+      "name": "Blow a Check",
+      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 193657,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Who Don't Like Dollaz",
-        "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
-      },
-      "artists": [
-        {
-          "name": "Zoey Dollaz",
-          "url": "https://open.spotify.com/artist/39Uhf21aJFjMLus1j0YGT8"
-        }
-      ],
-      "duration_ms": 193358,
-      "name": "Blow a Check",
-      "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

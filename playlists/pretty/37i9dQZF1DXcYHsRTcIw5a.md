@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,900 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,968 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 7 | [Weather Report](https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Cultural Things](https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO) | 2:25 |
 | 8 | [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 |
 | 9 | [Lost Without You](https://open.spotify.com/track/3TeLqdhzHB9cuFbaKlNvgm) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/4UGon6PLiaTnceOnsT1uM3) | 2:02 |
-| 10 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
-| 11 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
+| 10 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
+| 11 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
 | 12 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 13 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
 | 14 | [True True True](https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials \(Platinum Edition\)](https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 50 | [Always Together](https://open.spotify.com/track/5sNukxsSD2RkxS4tVGsUY7) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:45 |
 
-Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDA1OWEyYmMwMjhiODZmM2U0YmE4Nzg1NGM3N2M0ZGIw`
+Snapshot ID: `MTY0ODQ5NzUzNiwwMDAwMDAwMDFhN2FjYjY3NTc5OGRkYTdmNWM2ZTdiZDFkZDRkMTJi`

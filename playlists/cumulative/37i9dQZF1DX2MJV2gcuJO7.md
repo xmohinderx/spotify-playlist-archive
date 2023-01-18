@@ -4,7 +4,7 @@
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-91 songs - 4 hr 9 min
+92 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [天然](https://open.spotify.com/track/1agQw5O1HfTkfSFPGqMLXA) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅰ](https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE) | 1:21 | 2022-07-12 |  |
 | [子の成長](https://open.spotify.com/track/6vTCpVZejtWHyDvUjTUef1) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:00 | 2022-07-12 |  |
 | [家族](https://open.spotify.com/track/0WDI60wWIN2lY8eARtE1J7) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:16 | 2022-07-12 |  |
+| [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 |  |
 | [嵐の前の静けさ](https://open.spotify.com/track/4v0didZBKkRwHYcMHbnAMK) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:05 | 2022-07-12 |  |
 | [強がりLOSER](https://open.spotify.com/track/7sAlxL9fyoU635YEaOIz5D) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [強がりLOSER](https://open.spotify.com/album/2iIs0WLspaWeNAMiZS6JnM) | 3:48 | 2022-07-12 |  |
 | [強敵出現](https://open.spotify.com/track/22YWPspiezSt5jNmiUElwE) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 2:13 | 2022-07-12 |  |

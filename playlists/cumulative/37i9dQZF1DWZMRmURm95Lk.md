@@ -2,7 +2,7 @@
 
 ### [Radici Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> 
+> Beat e rime, oggi come una volta\. Mezzosangue in cover.
 
 248 songs - 14 hr 57 min
 

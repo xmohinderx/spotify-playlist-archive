@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 18726,
+  "num_followers": 18749,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGI1NjE3MTU3NDdhMzFkOThkMGUwYzM4OWFiYTNlODM2",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGYyMzgxODYwZDgwOTJiNzc5MmY3MzI2OWI1YzQ4Njhm",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -103,22 +103,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Big Legged Woman",
-      "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 231880,
       "name": "Signs, High Times",
       "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Big Legged Woman",
+      "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "I'm a Bluesman",
+        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "What Are You Doin' to Me",
+      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I'm a Bluesman",
-        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "What Are You Doin' to Me",
-      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -539,38 +555,6 @@
       "duration_ms": 288360,
       "name": "Come To Mama",
       "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 228667,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,6 +605,38 @@
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 228667,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Let's Roll",
@@ -635,42 +651,6 @@
       "duration_ms": 210773,
       "name": "Lie No Better",
       "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "LaDonna Gales",
-          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Take Me Just As I Am",
-      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,18 +735,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+        "name": "Give It Back",
+        "url": "https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Hamilton Loomis",
+          "url": "https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Stop On By",
-      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+      "duration_ms": 279460,
+      "name": "Give It Back",
+      "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -785,24 +769,40 @@
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Give It Back",
-        "url": "https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
       "artists": [
         {
-          "name": "Hamilton Loomis",
-          "url": "https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         },
         {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
         }
       ],
-      "duration_ms": 279460,
-      "name": "Give It Back",
-      "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Stop On By",
+      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
       "added_at": "2022-08-19 04:02:00",

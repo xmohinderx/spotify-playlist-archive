@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xvwVpqXVS8.md) - [plain]
 
 > "Not Past It" host Simone Polanen shares her favorite serotonin\-boosting songs to dance to\. Cover: Simone Polanen
 
-[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 21 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,6 +28,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xvwVpqXVS8.md) - [plain]
 | 18 | [Ala Eih](https://open.spotify.com/track/49oUnuBRWXCGfvjsegGgwm) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Aweeny Beek](https://open.spotify.com/album/1J4MjWC0FIb4v6HzghTBiP) | 3:42 |
 | 19 | [I Feel Love](https://open.spotify.com/track/4rS63BySQrdWuTswkkZ5iS) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 8:13 |
 | 20 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
-| 21 | [The Paris Hilton Sex Tape](https://open.spotify.com/episode/32iPDgapksonc6GNuigeWY) | [Not Past It ](https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2) | [Not Past It ](https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2) | 21:56 |
 
 Snapshot ID: `MTY2NDkxOTA3OSwwMDAwMDAwMDQ0MmZiZWU0MGNiZTM3ZDQ1NDY0ODY2NTg2MzAwYzlm`

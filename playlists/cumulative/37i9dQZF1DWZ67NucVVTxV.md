@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-183 songs - 8 hr 56 min
+184 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Fit](https://open.spotify.com/track/4uMaERdYKmWCTpbTSlwHPh) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Fit](https://open.spotify.com/album/2lOpfxIDLxNywuvmfYPxIH) | 2:58 | 2022-04-07 | 2022-08-06 |
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2021-11-11 |  |
 | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk) | 3:52 | 2022-05-19 | 2022-08-06 |
-| [Game Changer \(Dike\)](https://open.spotify.com/track/60SqwQhxwfnlTjLLOxjIpi) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3BWXMGlLYJrtzcY44uNNcI) | 2:42 | 2022-12-02 |  |
+| [Game Changer \(Dike\)](https://open.spotify.com/track/60SqwQhxwfnlTjLLOxjIpi) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3BWXMGlLYJrtzcY44uNNcI) | 2:42 | 2022-12-02 | 2023-01-18 |
+| [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2022-12-02 |  |
 | [Get My Money Right](https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get My Money Right](https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z) | 2:57 | 2022-06-30 | 2022-10-14 |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-14 |
 | [Go Hard](https://open.spotify.com/track/0MQ5OfIujoBV1D6MmQkTUp) | [Mo'Gunz](https://open.spotify.com/artist/51uO29xURTztKkoKSG1fA7), [IDVH](https://open.spotify.com/artist/2qcqlQCkD2OXhCIKEGQRja) | [Go Hard](https://open.spotify.com/album/0qtfszOOxWhtQlfXR7jESB) | 3:28 | 2022-08-12 | 2022-09-24 |

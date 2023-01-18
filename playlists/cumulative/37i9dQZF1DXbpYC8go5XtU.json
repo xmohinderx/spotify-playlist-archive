@@ -2997,24 +2997,6 @@
     },
     {
       "album": {
-        "name": "Watching",
-        "url": "https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5"
-      },
-      "artists": [
-        {
-          "name": "Korosassu",
-          "url": "https://open.spotify.com/artist/6qPn1ijyT49nZV6xjylFAx"
-        }
-      ],
-      "date_added": "2023-01-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 306000,
-      "name": "Watching",
-      "url": "https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK"
-    },
-    {
-      "album": {
         "name": "Gradients",
         "url": "https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni"
       },
@@ -3030,6 +3012,24 @@
       "duration_ms": 306000,
       "name": "Watching",
       "url": "https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz"
+    },
+    {
+      "album": {
+        "name": "Watching",
+        "url": "https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5"
+      },
+      "artists": [
+        {
+          "name": "Korossasu",
+          "url": "https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK"
     },
     {
       "album": {

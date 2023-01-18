@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 49394,
+  "num_followers": 49409,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NjE4MiwwMDAwMDAwMGMyNzM0M2ZiYTMxYmNjNzUzZmQ1MDNlMjljZDA1MjI5",
+  "snapshot_id": "MTY2Njk3NjE4MiwwMDAwMDAwMGYxZTBkMzNlOWVmMmY4NjY5MzQ1YTRmZmQwYjFjNGNj",
   "tracks": [
     {
       "added_at": "2022-06-14 11:36:51",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "Rainfall (Praise You)",
         "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
@@ -831,30 +831,6 @@
     {
       "added_at": "2022-06-14 11:36:51",
       "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
-    },
-    {
-      "added_at": "2022-06-14 11:36:51",
-      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -883,6 +859,30 @@
     {
       "added_at": "2022-06-14 11:36:51",
       "album": {
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+    },
+    {
+      "added_at": "2022-06-14 11:36:51",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -901,24 +901,24 @@
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
-      "added_at": "2023-01-17 01:11:41",
+      "added_at": "2022-06-14 11:36:51",
       "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 176930,
-      "name": "Picture in my mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+      "duration_ms": 168053,
+      "name": "Beg For You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
     },
     {
       "added_at": "2022-06-14 11:36:51",
@@ -941,24 +941,24 @@
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
     },
     {
-      "added_at": "2022-06-14 11:36:51",
+      "added_at": "2023-01-18 01:12:05",
       "album": {
-        "name": "Beg For You (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 168053,
-      "name": "Beg For You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2022-06-14 11:36:51",

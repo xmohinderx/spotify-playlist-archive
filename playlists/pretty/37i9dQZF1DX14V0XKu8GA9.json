@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 19890,
+  "num_followers": 19941,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMGJjZWY5ZTZlNGJjNzliYjE4NTJhM2Y1NjljNzg3ZjI3",
+  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDcwNWE1ZGM1ZTYyZGJjY2ViYmY4ZTNhMzZmN2NlYTQw",
   "tracks": [
     {
       "added_at": "2022-11-03 19:39:49",
@@ -763,18 +763,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SUPER RICA",
-        "url": "https://open.spotify.com/album/3LgdemFTfdon9ptcVqbNuM"
+        "name": "Barrio God Vol 2",
+        "url": "https://open.spotify.com/album/2z00wn9AXrX3bg458qGXc4"
       },
       "artists": [
         {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        },
+        {
+          "name": "Southside Hoodlum",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
         }
       ],
-      "duration_ms": 173164,
-      "name": "SUPER RICA",
-      "url": "https://open.spotify.com/track/12bxE3e4YZ5ofZdytpzDPn"
+      "duration_ms": 173600,
+      "name": "Barrio Babyzz",
+      "url": "https://open.spotify.com/track/05BIhSLRLS48IaDlsPSC9V"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -799,22 +803,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Barrio God Vol 2",
-        "url": "https://open.spotify.com/album/2z00wn9AXrX3bg458qGXc4"
+        "name": "SUPER RICA",
+        "url": "https://open.spotify.com/album/3LgdemFTfdon9ptcVqbNuM"
       },
       "artists": [
         {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Southside Hoodlum",
-          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
         }
       ],
-      "duration_ms": 173600,
-      "name": "Barrio Babyzz",
-      "url": "https://open.spotify.com/track/05BIhSLRLS48IaDlsPSC9V"
+      "duration_ms": 173164,
+      "name": "SUPER RICA",
+      "url": "https://open.spotify.com/track/12bxE3e4YZ5ofZdytpzDPn"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "N.Y Minute",
-        "url": "https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "N.Y Minute",
-      "url": "https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "64",
         "url": "https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 137052,
       "name": "64",
       "url": "https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "N.Y Minute",
+        "url": "https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "N.Y Minute",
+      "url": "https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1039,38 +1039,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Smile Now",
-        "url": "https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 170514,
-      "name": "Smile Now",
-      "url": "https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Vivir...",
-        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 135959,
-      "name": "Palo De Santo",
-      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "SPIDERCAT",
         "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
       },
@@ -1087,22 +1055,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+        "name": "Vivir...",
+        "url": "https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM"
       },
       "artists": [
         {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
         }
       ],
-      "duration_ms": 159653,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
+      "duration_ms": 135959,
+      "name": "Palo De Santo",
+      "url": "https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1127,6 +1091,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Preguntas (feat. D Smoke)",
         "url": "https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn"
       },
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Paid in Full",
-        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
-      },
-      "artists": [
-        {
-          "name": "Ybe",
-          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
-        }
-      ],
-      "duration_ms": 155344,
-      "name": "Paid in Full",
-      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "SAUCE ME UP PESO",
         "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
       },
@@ -1175,6 +1143,22 @@
       "duration_ms": 193028,
       "name": "SAUCE ME UP",
       "url": "https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Paid in Full",
+        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
+      },
+      "artists": [
+        {
+          "name": "Ybe",
+          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
+        }
+      ],
+      "duration_ms": 155344,
+      "name": "Paid in Full",
+      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "La Daisy",
+        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
+      },
+      "artists": [
+        {
+          "name": "DAISY SIMO",
+          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
+        }
+      ],
+      "duration_ms": 142308,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "No Chaser",
         "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
       },
@@ -1303,42 +1303,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "La Daisy",
-        "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
+        "name": "Badabing",
+        "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
       },
       "artists": [
         {
-          "name": "DAISY SIMO",
-          "url": "https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp"
-        }
-      ],
-      "duration_ms": 142308,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         },
         {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
         },
         {
-          "name": "Chris Obannon",
-          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 231338,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
+      "duration_ms": 185648,
+      "name": "Badabing",
+      "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1363,26 +1347,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Badabing",
-        "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
       },
       "artists": [
         {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
         },
         {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
         },
         {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+          "name": "Chris Obannon",
+          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
         }
       ],
-      "duration_ms": 185648,
-      "name": "Badabing",
-      "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
+      "duration_ms": 231338,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Gang Coast",
+        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 171462,
+      "name": "Smile Now",
+      "url": "https://open.spotify.com/track/7IYyYttteg7N0Ok6LwxEnb"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Barbacoa",
-        "url": "https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS"
+        "name": "Fuck The Yotes",
+        "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
       },
       "artists": [
         {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         }
       ],
-      "duration_ms": 114936,
-      "name": "Barbacoa",
-      "url": "https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij"
+      "duration_ms": 185986,
+      "name": "Fuck The Yotes",
+      "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

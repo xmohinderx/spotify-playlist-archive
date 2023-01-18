@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-129 songs - 7 hr 37 min
+130 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Father and Daughter](https://open.spotify.com/track/33Y8vzaSKolAZJWc7vwMCU) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Father and Daughter](https://open.spotify.com/album/1rMSqBZVqZpJA3B53YEIiz) | 3:25 | 2022-10-20 | 2022-12-14 |
 | [Floating Sun](https://open.spotify.com/track/1Wn1Q5T9m7mdvZvY46YNsW) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [The Gaze](https://open.spotify.com/album/7Cd4KJlQfeCEATCK92SswJ) | 2:28 | 2022-10-20 | 2022-11-23 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-10-20 |  |
-| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 |  |
+| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 | 2023-01-18 |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2022-10-20 |  |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-10-20 | 2022-12-14 |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2022-10-20 | 2022-12-15 |
@@ -100,8 +100,9 @@
 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 | 2022-10-20 | 2022-12-15 |
 | [Sing It With Me \- Acoustic](https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:41 | 2022-12-13 |  |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-10-20 | 2022-11-23 |
+| [Someday Some Morning](https://open.spotify.com/track/6UZJoEOgjx4aCGD6Oa5R6a) | [heybrowne](https://open.spotify.com/artist/7cgeB3Ko3DkBo2daWSHjVp) | [Someday Some Morning](https://open.spotify.com/album/4b948U1I6tj5UiIldls5Hg) | 3:43 | 2023-01-17 |  |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-12-14 |  |
-| [Sometimes You Can't Make It On Your Own \- Radio Edit / 96 BPM](https://open.spotify.com/track/5cav4hKIQvVjzooaL3c9V4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/album/0RkQnqzf23UlcTRaA3b8eq) | 4:50 | 2023-01-10 |  |
+| [Sometimes You Can't Make It On Your Own \- Radio Edit / 96 BPM](https://open.spotify.com/track/5cav4hKIQvVjzooaL3c9V4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/album/0RkQnqzf23UlcTRaA3b8eq) | 4:50 | 2023-01-10 | 2023-01-18 |
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 |  |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-14 |  |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-10-20 |  |

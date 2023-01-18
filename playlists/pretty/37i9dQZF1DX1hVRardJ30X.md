@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,476 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,752 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 |
 | 23 | [MFD](https://open.spotify.com/track/0jw9L7QvjqCavzMtquLKOS) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [MFD](https://open.spotify.com/album/4Bor5SNuJ51FlsqaNcXAkF) | 2:30 |
 | 24 | [Pegao](https://open.spotify.com/track/1s5OtespSHjidoiXpuspIO) | [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Pegao](https://open.spotify.com/album/4RXe248Ftb09XrdfZF4BbQ) | 2:54 |
-| 25 | [agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
+| 25 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
 | 26 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
 | 27 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 28 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aplaca Tus Berrinches](https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj) | 3:10 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [CONTIGO](https://open.spotify.com/track/37DhWVWxlCtpE4lfV2o158) | [J Mado](https://open.spotify.com/artist/3yQHlInOPu2JOb7YWXfShU), [Lucky Bossi](https://open.spotify.com/artist/7FyrtY79jiOXzAnVCGmegO) | [CONTIGO](https://open.spotify.com/album/1n0AnBysSgCtLDhZpxX8NR) | 2:43 |
 | 40 | [DIABLOJOXX](https://open.spotify.com/track/3QAgwAXSkMtI7LCoQRePdQ) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [DIABLOJOXX](https://open.spotify.com/album/5WuyTrjbodUDaZ3XoNw6wo) | 2:41 |
 | 41 | [Cristales](https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [Cristales](https://open.spotify.com/album/3jukn8Clx65sTJMLNWRUJC) | 3:03 |
-| 42 | [Ñuque Mapu \- Remix](https://open.spotify.com/track/12XnXKx4MvH2e8FgQoAErh) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5) | [Ñuque Mapu \(Remix\)](https://open.spotify.com/album/67QYUJVoMmjlcUMZ6TnFn7) | 8:16 |
+| 42 | [Ñuque Mapu \- Nintu Remix](https://open.spotify.com/track/12XnXKx4MvH2e8FgQoAErh) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5) | [Ñuque Mapu \(Nintu Remix\)](https://open.spotify.com/album/67QYUJVoMmjlcUMZ6TnFn7) | 8:16 |
 | 43 | [salvatore](https://open.spotify.com/track/2j1rf8gz82mPSUFYtZL4VK) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [salvatore](https://open.spotify.com/album/7kVT3L8cRYduktHOINNYgm) | 2:53 |
 | 44 | [Tocada y Fuga](https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0) | [Sergio Arau](https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Tocada y Fuga](https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS) | 3:40 |
 | 45 | [Sueño Loco](https://open.spotify.com/track/1J2NLBpKtFwMH4b3bWKYP8) | [Yoli Mayoli](https://open.spotify.com/artist/4bo28yAqyjKMHZJoac1RnR) | [Sueño Loco](https://open.spotify.com/album/3d2YSxQaHum0oH5wOGKq5S) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 108611,
+  "num_followers": 108707,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDA5OWEyMTViZGUzMjA1MmNiOWI0OGNlOWZjZDQ5MDYx",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGNlZmYwOWMyZGQwYWJmMGE4OTcxODUyNjllNGNjZTY0",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "100 Ton Chicken",
-        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
       "artists": [
         {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 268920,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "100 Ton Chicken",
+        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Don't Ask Me What I Say",
-      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
+      "duration_ms": 268920,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "As Safe As Yesterday Is",
         "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 230160,
       "name": "Highway (Killing Me) - 2016 Remaster",
       "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Deuce (50th Anniversary)",
-        "url": "https://open.spotify.com/album/4aCigoJ1Vh797W4FaPWIkU"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "In Your Town - Alternate Take 3",
-      "url": "https://open.spotify.com/track/29x3HEIlwM6qn6dEQgRKRa"
     }
   ],
   "unique_name": "Brit-Blues",

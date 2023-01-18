@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+    },
+    {
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 434533,
       "name": "Moultan",
       "url": "https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E"

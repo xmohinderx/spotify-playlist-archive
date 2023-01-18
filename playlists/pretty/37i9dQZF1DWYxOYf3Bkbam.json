@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 32674,
+  "num_followers": 32723,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDgyMTYyNTEwMjdlNjQ5NGMwZGZkZjRlNGE1OWU3MTQy",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDFmMDY5NzM1OWFkYzE1OTZkMzQwMGViMjZlMDhiYzkz",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Otras M\u00fasicas",
         "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 275026,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -595,6 +595,42 @@
       "duration_ms": 166480,
       "name": "Amanecer Campero",
       "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "20 Super\u00e9xitos Originales, Vol. 2",
+        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
+      },
+      "artists": [
+        {
+          "name": "Trio Cocomarola",
+          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Retorno",
+      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -635,42 +671,6 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "20 Super\u00e9xitos Originales, Vol. 2",
-        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
-      },
-      "artists": [
-        {
-          "name": "Trio Cocomarola",
-          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Retorno",
-      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "Domingo Rodriguez",
-          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Ah Mi Corrientes Por\u00e1",
-      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo en el Teatro Col\u00f3n)",
         "url": "https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
-      },
-      "artists": [
-        {
-          "name": "Los Troperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 208346,
       "name": "El Gaucho Gil",
       "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -832,13 +832,13 @@
       },
       "artists": [
         {
-          "name": "Mario Millan Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -848,13 +848,13 @@
       },
       "artists": [
         {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+          "name": "Mario Millan Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
         }
       ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "La Juventud Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
-      },
-      "artists": [
-        {
-          "name": "Potencia Chamamecera",
-          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
-        }
-      ],
-      "duration_ms": 252018,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 168666,
       "name": "Bien picadito",
       "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "duration_ms": 252018,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
       },
       "artists": [
         {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
         }
       ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
       },
       "artists": [
         {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "D\u00fao Cejas Sol\u00eds",
         "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
-        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
         }
       ],
-      "duration_ms": 260410,
-      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
-      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "Mi Estrella Perdida",
         "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 248320,
       "name": "Mi Estrella Perdida",
       "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Barrio la Toma",
+      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Barrio la Toma",
-      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Refugio de so\u00f1adores",
-        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
-      },
-      "artists": [
-        {
-          "name": "Rudi y Nini Flores",
-          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Refugio de so\u00f1adores",
-      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "El Gato Blanco",
+      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
     },
     {
       "added_at": "2022-12-23 03:00:00",

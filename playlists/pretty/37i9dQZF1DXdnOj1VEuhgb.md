@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,623 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,439 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 18 | [Kalite](https://open.spotify.com/track/6MHB3t0exyn1Ru5Xc3MSWJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/1fRw3jb22U6mI286bNCQ9X) | 2:08 |
 | 19 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 |
 | 20 | [İNATLA](https://open.spotify.com/track/5d1eOk5l7IRRLcvupApHi1) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [İNATLA](https://open.spotify.com/album/0pcQvIDHmRlWxi7JUg2vxr) | 2:09 |
-| 21 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 |
-| 22 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 |
-| 23 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 |
-| 24 | [SENIN UGRUNA](https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:02 |
-| 25 | [Switch](https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Switch](https://open.spotify.com/album/7GV0frbZRy8KayIzSDV68j) | 3:12 |
-| 26 | [OnlyFans](https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [OnlyFans](https://open.spotify.com/album/3h57TeSLK4QUzobHYeewag) | 2:25 |
-| 27 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 |
+| 21 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 |
+| 22 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 |
+| 23 | [SENIN UGRUNA](https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:02 |
+| 24 | [Switch](https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Switch](https://open.spotify.com/album/7GV0frbZRy8KayIzSDV68j) | 3:12 |
+| 25 | [OnlyFans](https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [OnlyFans](https://open.spotify.com/album/3h57TeSLK4QUzobHYeewag) | 2:25 |
+| 26 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 |
+| 27 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 |
 | 28 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 |
 | 29 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 |
 | 30 | [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 |
 | 50 | [Birader](https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/22M9cLH01VgxTweURPcVDi) | 3:24 |
 
-Snapshot ID: `MTY3Mzg5Mzc4MSwwMDAwMDAwMGUzNDFlZDdlZDI0NDk4NDM0MDdlMzA3Y2Y1NGY0ODAy`
+Snapshot ID: `MTY3Mzk0MDE3MSwwMDAwMDAwMGRiODY4MTVlZjk3ZDU1OWRkNDY1ODI1ZjI3M2M5MmUy`

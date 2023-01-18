@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 254346,
       "name": "again",
       "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 280466,
       "name": "Boku no Sensou",
       "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 254640,
       "name": "DADDY ! DADDY ! DO !",
       "url": "https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp"
@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "FightSong",
+        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208964,
+      "name": "FightSong",
+      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
+    },
+    {
+      "album": {
         "name": "final phase",
         "url": "https://open.spotify.com/album/0gtD6TUO5Q2ix4XRPABtTn"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 244493,
       "name": "FLY HIGH!!",
       "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
@@ -2819,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
+    },
+    {
+      "album": {
         "name": "katharsis",
         "url": "https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG"
       },
@@ -2834,6 +2870,24 @@
       "duration_ms": 266106,
       "name": "katharsis",
       "url": "https://open.spotify.com/track/7MtpXnAhLKdkXjoFaK95TB"
+    },
+    {
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193495,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
     },
     {
       "album": {
@@ -4512,7 +4566,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 132295,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
@@ -4920,6 +4974,24 @@
       "duration_ms": 322223,
       "name": "Small world",
       "url": "https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3"
+    },
+    {
+      "album": {
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264126,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
     },
     {
       "album": {
@@ -7372,7 +7444,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
@@ -9952,7 +10024,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 275000,
       "name": "\u708e",
       "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
@@ -10190,6 +10262,24 @@
       "duration_ms": 269260,
       "name": "\u7948\u308a\u306e\u5504",
       "url": "https://open.spotify.com/track/1bdukq5Iu0S63kxAz5sAaU"
+    },
+    {
+      "album": {
+        "name": "\u795d\u798f",
+        "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
     },
     {
       "album": {
@@ -10514,6 +10604,24 @@
       "duration_ms": 284133,
       "name": "\u822a\u6d77\u306e\u5504",
       "url": "https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs"
+    },
+    {
+      "album": {
+        "name": "\u8272\u5f69",
+        "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192175,
+      "name": "\u8272\u5f69",
+      "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
     },
     {
       "album": {

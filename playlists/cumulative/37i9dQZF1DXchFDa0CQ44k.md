@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 | 2021-08-25 | 2023-01-17 |
+| [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 | 2021-08-25 |  |
 | [Ah Ya Hanan](https://open.spotify.com/track/5rZUSiJgQUMoo6nGoyzj2d) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/5c039mRoeey949juDKC4Q0) | 3:21 | 2021-08-25 |  |
 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 | 2022-02-10 |  |
 | [Ahla Sabiyyi](https://open.spotify.com/track/3afdJsM0MGIHIFkaC7EIj1) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/1vxTv6FAZ462fyjdM1A0nc) | 3:49 | 2021-08-25 | 2022-07-29 |
@@ -43,7 +43,7 @@
 | [Habat el Tout](https://open.spotify.com/track/4xq2EfT9fmC4NNMpqKs5fS) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Layali Beirut, Vol\. One](https://open.spotify.com/album/66GKsmNEe9QnzqblW0CTnH) | 5:10 | 2021-08-25 |  |
 | [Habib Hebbak](https://open.spotify.com/track/4XGlYQTcgEHD1WbMgipNWI) | [Majd Moussaly](https://open.spotify.com/artist/2qE29yka4xvCI58mYGLEDG) | [Layali Beirut, Vol\. III](https://open.spotify.com/album/5jGAjPoPiqsjuOvb0IBTmr) | 4:07 | 2021-08-25 | 2023-01-17 |
 | [Hajar](https://open.spotify.com/track/5IzJpF3Y2FsVL1BuH7WUn6) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Hajar](https://open.spotify.com/album/2GDvWzv2KMO4ylGxXcVqfi) | 7:23 | 2021-08-25 | 2022-02-11 |
-| [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 | 2021-08-25 |  |
+| [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 | 2021-08-25 | 2023-01-18 |
 | [Haremni](https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg) | 3:57 | 2021-08-25 |  |
 | [Jafra](https://open.spotify.com/track/4hBjR0Tcigz3jxQ4zW3nNg) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 2:09 | 2021-08-25 |  |
 | [Jamala Wlo](https://open.spotify.com/track/1xPmf66wVpRcbGSpYqdQUB) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wlo](https://open.spotify.com/album/41yRmWG9UsNU5pO25tmUaG) | 5:36 | 2022-02-10 |  |

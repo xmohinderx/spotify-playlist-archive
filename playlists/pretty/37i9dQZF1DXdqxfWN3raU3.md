@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Jass Reyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,293 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,333 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 7 | [Grillz](https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Grillz](https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg) | 3:12 |
 | 8 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 |
 | 9 | [Dámelo](https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:03 |
-| 10 | [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 |
+| 10 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
 | 11 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 |
 | 12 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 |
 | 13 | [Wiken](https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wiken](https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 |
 | 100 | [Suave](https://open.spotify.com/track/17N1MnXZFLsv1tlGBNxFuW) | [Primoroso](https://open.spotify.com/artist/5n4Xu444iA1jWNbKnD545N), [Def Rabbit](https://open.spotify.com/artist/0z78KTlQp3IHGdAp9XqdIz) | [Suave](https://open.spotify.com/album/7yoJNr3DxenGB2TKDfS8Ai) | 3:19 |
 
-Snapshot ID: `MTY3MzYzNjAwMSwwMDAwMDAwMDE2NDI4MGQ1MWViMzZhNGJmZDIzOTNjYzg0ZmIzMjI5`
+Snapshot ID: `MTY3Mzk3NDA2NywwMDAwMDAwMDk1MGM4Zjk0NjlhMmI0NjUwYTJjN2NhYTFiYjYzMzI2`

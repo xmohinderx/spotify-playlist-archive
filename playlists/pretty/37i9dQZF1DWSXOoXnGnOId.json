@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 15165,
+  "num_followers": 15175,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDEzZDYxNmY5NTdlYjBhNjkzYWRmM2ViMWY5YjM5ZWIy",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDA1ZGQ4YzRiY2E2MzNhNzdhMmY1NzYyMmYxMGYxODFi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Feed The Fire (Kassian Remix)",
         "url": "https://open.spotify.com/album/7wxfJfJN8u2TrkP8dCpOgb"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 304013,
       "name": "Feed The Fire - Kassian Remix",
       "url": "https://open.spotify.com/track/4xpTM1MCKhY91OGiOhHNf5"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -783,34 +783,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
         "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
       },
@@ -835,6 +807,34 @@
       "duration_ms": 220194,
       "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
       "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Free Your Body (Noizu Remix)",
-        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 228070,
-      "name": "Free Your Body - Noizu Remix",
-      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Love Line (with Tinashe) [HUGEL Remix]",
         "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 145638,
       "name": "Love Line (with Tinashe) - HUGEL Remix",
       "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Free Your Body (Noizu Remix)",
+        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 228070,
+      "name": "Free Your Body - Noizu Remix",
+      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Show Me Love (Sander van Doorn Remix)",
-        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Show Me Love - Sander van Doorn Remix",
-      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1683,6 +1659,30 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Show Me Love (Sander van Doorn Remix)",
+        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Show Me Love - Sander van Doorn Remix",
+      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2051,30 +2051,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2103,6 +2079,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        }
+      ],
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -2123,6 +2123,26 @@
       "duration_ms": 259286,
       "name": "Nobody - Devault Remix",
       "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2171,26 +2191,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2211,6 +2211,30 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Cry (with John Martin) [Remixes]",
+        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        }
+      ],
+      "duration_ms": 233959,
+      "name": "Cry (with John Martin) - Trivecta Remix",
+      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,30 +2283,6 @@
       "duration_ms": 233974,
       "name": "Happy Where We Are - ilan Bluestone Remix",
       "url": "https://open.spotify.com/track/4StZuE3DEKcRZYMgdDxJuX"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Cry (with John Martin) [Remixes]",
-        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        }
-      ],
-      "duration_ms": 233959,
-      "name": "Cry (with John Martin) - Trivecta Remix",
-      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2355,30 +2355,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Stay Forever (feat. STRFKR) [Midnight Kids Remix]",
         "url": "https://open.spotify.com/album/5G6ltuCGkCy6urbM5PXBcQ"
       },
@@ -2399,6 +2375,30 @@
       "duration_ms": 228000,
       "name": "Stay Forever (feat. STRFKR) - Midnight Kids Remix",
       "url": "https://open.spotify.com/track/2cX3pmM6V6CbfIT1vJvYcO"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     }
   ],
   "unique_name": "mint Remix",

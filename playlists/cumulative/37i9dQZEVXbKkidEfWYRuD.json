@@ -3082,6 +3082,28 @@
     {
       "album": {
         "name": "GHOST!",
+        "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "GHOST!",
+      "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
+    },
+    {
+      "album": {
+        "name": "GHOST!",
         "url": "https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3"
       },
       "artists": [
@@ -3096,7 +3118,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
@@ -9028,7 +9050,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
@@ -10206,7 +10228,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 79354,
       "name": "\u0431\u043e\u0456 \u0441\u0442\u0443\u043b\u0438 \u043f\u0435\u043b\u044c\u043a\u0443",
       "url": "https://open.spotify.com/track/5ZNmRNEc0i3o8sP9NKqsvQ"
@@ -11108,7 +11130,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 201038,
       "name": "\u0412\u0456\u0434\u044c\u043c\u0438",
       "url": "https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG"
@@ -13824,7 +13846,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 115365,
       "name": "\u043c\u0430\u0448\u0430",
       "url": "https://open.spotify.com/track/64epifHS5CvRUVgKEDbRJm"
@@ -13972,7 +13994,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 158000,
       "name": "\u041c\u043e\u043d\u0440\u043e",
       "url": "https://open.spotify.com/track/5sQpS3fyw6VBpPioNlrCn1"
@@ -14370,7 +14392,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 202408,
       "name": "\u041d\u0435 \u0437\u0430\u0431\u0443\u0434\u0435\u043c \u0456 \u043d\u0435 \u043f\u0440\u043e\u0431\u0430\u0447\u0438\u043c",
       "url": "https://open.spotify.com/track/6KvQKU21c1ZGEoOajKfim0"
@@ -17042,7 +17064,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
@@ -17054,13 +17076,13 @@
       },
       "artists": [
         {
-          "name": "Quest Pistols Official",
-          "url": "https://open.spotify.com/artist/7s4ty16UZDDfKMYaVtJtWH"
+          "name": "Quest Pistols",
+          "url": "https://open.spotify.com/artist/21bKsZrHsq3UcdHgeaKH2l"
         }
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 168535,
       "name": "\u0422\u0438 \u043d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0430",
       "url": "https://open.spotify.com/track/7dpget8s2QN51jYbNqVYtG"

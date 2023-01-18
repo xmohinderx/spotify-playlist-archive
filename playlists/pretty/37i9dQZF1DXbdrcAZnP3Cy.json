@@ -1,15 +1,15 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 116067,
+  "num_followers": 116180,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMDM0NmU2MTZmYWE5ZDVmYWZhNzU2ZWY5MDUzMjQ2Zjhj",
+  "snapshot_id": "MTY3MDQ1ODg0NiwwMDAwMDAwMDMxMGQyMDU0ZjI1OTMwMmMyMDQzMWFkNWQzNjY3OGU3",
   "tracks": [
     {
-      "added_at": "2023-01-17 00:50:24",
+      "added_at": "2023-01-18 01:08:54",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
-      "added_at": "2023-01-17 00:50:24",
+      "added_at": "2023-01-18 01:08:54",
       "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "El Sonidito",
-        "url": "https://open.spotify.com/album/3BxWiuHL0AuFxpnVLTVmEC"
-      },
-      "artists": [
-        {
-          "name": "Hechizeros Band",
-          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "El Sonidito",
-      "url": "https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -873,7 +857,23 @@
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
     },
     {
-      "added_at": "2023-01-17 00:50:24",
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "El Sonidito",
+        "url": "https://open.spotify.com/album/3BxWiuHL0AuFxpnVLTVmEC"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "El Sonidito",
+      "url": "https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR"
+    },
+    {
+      "added_at": "2023-01-18 01:08:54",
       "album": {
         "name": "El Muchacho Alegre",
         "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-19 17:17:15",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2022-08-19 17:17:15",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2022-08-19 17:17:15",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2022-08-19 17:17:15",

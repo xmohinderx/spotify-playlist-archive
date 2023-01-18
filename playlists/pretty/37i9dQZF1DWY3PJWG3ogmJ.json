@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 513866,
+  "num_followers": 514400,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1Mjg0OCwwMDAwMDAwMGZlMzgzN2ZhYWYyMTlmM2M1ZThlZDhkMmIxOGMwMjhi",
+  "snapshot_id": "MTY3MTA1Mjg0OCwwMDAwMDAwMDQ2MWQyOTg3NjFkMDQzYzcyZGU4ZjJiMWMzMDNlODEz",
   "tracks": [
     {
       "added_at": "2022-12-14 21:20:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Fracture",
-        "url": "https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "The End of All We Know",
-      "url": "https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Dig Deep",
         "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
+        "name": "Fracture",
+        "url": "https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "The End of All We Know",
+      "url": "https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
         "name": "Human Target",
         "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 193120,
       "name": "Death Squad Anthem",
       "url": "https://open.spotify.com/track/3xZxgCiuO2UGN6bEmz6ZIu"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Unconquered",
+        "url": "https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U"
+      },
+      "artists": [
+        {
+          "name": "Kataklysm",
+          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Underneath the Scars",
+      "url": "https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -459,22 +475,6 @@
       "duration_ms": 274586,
       "name": "Born in Dissonance",
       "url": "https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
-        "name": "Unconquered",
-        "url": "https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U"
-      },
-      "artists": [
-        {
-          "name": "Kataklysm",
-          "url": "https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Underneath the Scars",
-      "url": "https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "To the Threshold",
-      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Here Comes The Boom",
         "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "To the Threshold",
+      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Elegy",
-        "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        },
-        {
-          "name": "Chuck Billy",
-          "url": "https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C"
-        }
-      ],
-      "duration_ms": 322153,
-      "name": "Blood in the Sands of Time",
-      "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Akudama",
         "url": "https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 210464,
       "name": "Take Me To Hell",
       "url": "https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Elegy",
+        "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        },
+        {
+          "name": "Chuck Billy",
+          "url": "https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C"
+        }
+      ],
+      "duration_ms": 322153,
+      "name": "Blood in the Sands of Time",
+      "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
+        "name": "The Battle of Yaldabaoth",
+        "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
+      },
+      "artists": [
+        {
+          "name": "Infant Annihilator",
+          "url": "https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR"
+        }
+      ],
+      "duration_ms": 166283,
+      "name": "Childchewer",
+      "url": "https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
         "name": "From the Unforgiving Arms of God",
         "url": "https://open.spotify.com/album/6k1SjXMBPH6LYBMrmqeNwq"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 173723,
       "name": "Necessary Death",
       "url": "https://open.spotify.com/track/7my2857xyhSzD4KsMIVCAG"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "This Heavy Void",
+        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 232634,
+      "name": "Black of My Eyes",
+      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -811,22 +843,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Firsthand Accounts",
-        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/1k1m4qTVfMyAspqCSxuIvu"
       },
@@ -843,6 +859,58 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
+        "name": "Firsthand Accounts",
+        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Keep Your Distance",
+        "url": "https://open.spotify.com/album/5a4uSrrtQF7USsbNxtQr5r"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        },
+        {
+          "name": "Bryan Garris",
+          "url": "https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe"
+        }
+      ],
+      "duration_ms": 171491,
+      "name": "Keep Your Distance",
+      "url": "https://open.spotify.com/track/02p1jKVOK2yzCBvRP3DCzX"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Behind The Crowd",
+        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "Behind the Crowd",
+      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
         "name": "Welcome to the West Coast",
         "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
       },
@@ -855,22 +923,6 @@
       "duration_ms": 189985,
       "name": "Lhhc",
       "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
-        "name": "This Heavy Void",
-        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 232634,
-      "name": "Black of My Eyes",
-      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -903,26 +955,6 @@
       "duration_ms": 190549,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
-        "name": "Keep Your Distance",
-        "url": "https://open.spotify.com/album/5a4uSrrtQF7USsbNxtQr5r"
-      },
-      "artists": [
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        },
-        {
-          "name": "Bryan Garris",
-          "url": "https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe"
-        }
-      ],
-      "duration_ms": 171491,
-      "name": "Keep Your Distance",
-      "url": "https://open.spotify.com/track/02p1jKVOK2yzCBvRP3DCzX"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -975,18 +1007,18 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Death Perception",
-        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
       "artists": [
         {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 154628,
-      "name": "Death Perception",
-      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
+      "duration_ms": 191746,
+      "name": "Nekketsu",
+      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Behind The Crowd",
-        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 194208,
-      "name": "Behind the Crowd",
-      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Posthuman",
         "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+        "name": "Death Perception",
+        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Nekketsu",
-      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+      "duration_ms": 154628,
+      "name": "Death Perception",
+      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Built from War",
-        "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
+        "name": "Life Is Pain",
+        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
       },
       "artists": [
         {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
         }
       ],
-      "duration_ms": 204661,
-      "name": "Built from War",
-      "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
+      "duration_ms": 174012,
+      "name": "Life Is Pain",
+      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Life Is Pain",
-        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
+        "name": "Built from War",
+        "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
       },
       "artists": [
         {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
         }
       ],
-      "duration_ms": 174012,
-      "name": "Life Is Pain",
-      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
+      "duration_ms": 204661,
+      "name": "Built from War",
+      "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 241767,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 291923,
       "name": "Obsidian",
       "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 241767,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Your World Won't Listen",
-        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
-      },
-      "artists": [
-        {
-          "name": "Cruel Hand",
-          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "The Level Above Human",
-        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
+        "name": "Your World Won't Listen",
+        "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
       },
       "artists": [
         {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+          "name": "Cruel Hand",
+          "url": "https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV"
         }
       ],
-      "duration_ms": 258245,
-      "name": "Invidious",
-      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
+      "duration_ms": 147000,
+      "name": "Decompose",
+      "url": "https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1519,6 +1519,22 @@
       "duration_ms": 79238,
       "name": "Fuck the Rules",
       "url": "https://open.spotify.com/track/6BVWv9XJIOYpb1rv1a2BzG"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "The Level Above Human",
+        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 258245,
+      "name": "Invidious",
+      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Monarch",
-        "url": "https://open.spotify.com/album/3H0H3YBTBTKLuGN36nmcrR"
-      },
-      "artists": [
-        {
-          "name": "Our Hollow, Our Home",
-          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
-        }
-      ],
-      "duration_ms": 207567,
-      "name": "Monarch",
-      "url": "https://open.spotify.com/track/5axywwd0Rf7S0kZjeVWTfb"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Realigion",
         "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
       },
@@ -1715,6 +1715,38 @@
       "duration_ms": 213533,
       "name": "At War with Love",
       "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "No Rest No Peace",
+        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
+      },
+      "artists": [
+        {
+          "name": "Katalepsy",
+          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
+        }
+      ],
+      "duration_ms": 266518,
+      "name": "No Rest No Peace",
+      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/3H0H3YBTBTKLuGN36nmcrR"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        }
+      ],
+      "duration_ms": 207567,
+      "name": "Monarch",
+      "url": "https://open.spotify.com/track/5axywwd0Rf7S0kZjeVWTfb"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1735,22 +1767,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "How To Live And How To Lose",
-        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
-      },
-      "artists": [
-        {
-          "name": "Octopus Montage",
-          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Brotherhood EP",
         "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
       },
@@ -1763,6 +1779,22 @@
       "duration_ms": 143493,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
+        "name": "How To Live And How To Lose",
+        "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
+      },
+      "artists": [
+        {
+          "name": "Octopus Montage",
+          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1803,22 +1835,6 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
-        "name": "Collapse",
-        "url": "https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F"
-      },
-      "artists": [
-        {
-          "name": "Heart Of A Coward",
-          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
-        }
-      ],
-      "duration_ms": 280683,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1835,6 +1851,22 @@
     {
       "added_at": "2022-12-14 21:20:48",
       "album": {
+        "name": "Collapse",
+        "url": "https://open.spotify.com/album/2JNh5Cr39keuBH7cJn3I7F"
+      },
+      "artists": [
+        {
+          "name": "Heart Of A Coward",
+          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
+        }
+      ],
+      "duration_ms": 280683,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/2lRlt0aNT2q7UU5WIhlFTp"
+    },
+    {
+      "added_at": "2022-12-14 21:20:48",
+      "album": {
         "name": "Your World Won't Listen",
         "url": "https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh"
       },
@@ -1847,22 +1879,6 @@
       "duration_ms": 145200,
       "name": "Too Far From That",
       "url": "https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
-        "name": "No Rest No Peace",
-        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
-      },
-      "artists": [
-        {
-          "name": "Katalepsy",
-          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
-        }
-      ],
-      "duration_ms": 266518,
-      "name": "No Rest No Peace",
-      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
     },
     {
       "added_at": "2022-12-14 21:20:48",
@@ -1947,22 +1963,6 @@
       "duration_ms": 168164,
       "name": "Strength to Draw the Line",
       "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
-    },
-    {
-      "added_at": "2022-12-14 21:20:48",
-      "album": {
-        "name": "All Hail The Void",
-        "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
-      },
-      "artists": [
-        {
-          "name": "Enabler",
-          "url": "https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI"
-        }
-      ],
-      "duration_ms": 216455,
-      "name": "All Hail the Void",
-      "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
     }
   ],
   "unique_name": "Extreme Metal Workout",

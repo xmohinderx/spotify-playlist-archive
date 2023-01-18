@@ -4,7 +4,7 @@
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Lefty SM & Beto Sierra en portada.
 
-100 songs - 5 hr 25 min
+101 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 | 2021-12-17 |  |
 | [Dos Mundos](https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dos Mundos](https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA) | 3:16 | 2021-12-17 | 2022-09-17 |
 | [Efecto Mariposa](https://open.spotify.com/track/6sErJfiVH5dhb6W6prhPZW) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Efecto Mariposa](https://open.spotify.com/album/33OHQsMub2C0AUTJtswuRg) | 2:20 | 2022-12-16 |  |
-| [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-02-04 |  |
+| [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-02-04 | 2023-01-18 |
+| [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 | 2022-02-04 |  |
 | [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-10-07 |  |
 | [El Canelo](https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Canelo](https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU) | 2:38 | 2022-09-09 | 2022-11-08 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 |  |

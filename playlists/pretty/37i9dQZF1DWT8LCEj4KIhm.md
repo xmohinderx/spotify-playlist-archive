@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,957 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,958 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 72 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
-| 75 | [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 |
+| 75 | [Oser aimer \- Dave Audé Pride Remix](https://open.spotify.com/track/38S02R6YsFzcinhk74QLyh) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Oser aimer \(Dave Audé Pride Remix\)](https://open.spotify.com/album/1m6POTZfzOnPRD6L7KLy6K) | 6:09 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDk1MDA5OTRjMTY5MmMwNzFkNjc1MTFhMzJlNjE4Zjg5`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDVhOWNjOGQ5YzAxMjE5ZGE4YzQ2ZWQ0ZDJjNDRhYzcx`

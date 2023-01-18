@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 37394,
+  "num_followers": 37487,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDQwMmViZmI2MDM5Njk0OWQ2NGZhYjlkOTdmYzc4Yzhl",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMGVjN2NmZGM5ZDYzMGNhODQ5ZGQ0MDcyOTAzZDQ5MjA5",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Strangers to Ourselves",
         "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 241655,
       "name": "Run",
       "url": "https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "I Love You, Honeybear",
-      "url": "https://open.spotify.com/track/5jLMFDMUkGpzIgPF2sxWkB"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 231467,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 278773,
+      "name": "I Love You, Honeybear",
+      "url": "https://open.spotify.com/track/5jLMFDMUkGpzIgPF2sxWkB"
     },
     {
       "added_at": "2021-09-14 05:14:45",

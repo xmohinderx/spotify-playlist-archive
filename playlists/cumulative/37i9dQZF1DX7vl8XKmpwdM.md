@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-87 songs - 5 hr 22 min
+88 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Meherezylaa \- From "Maanaadu"](https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Meherezylaa \(From "Maanaadu"\)](https://open.spotify.com/album/7sZ0rgDMsrmo98UY0z98c9) | 4:19 | 2021-12-01 |  |
 | [Mosalo Mosalu \- From "The Legend"](https://open.spotify.com/track/3ag1ImLPQDHjng5UogKWKd) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5) | [Mosalo Mosalu \(From "The Legend"\)](https://open.spotify.com/album/2yKqahOc07iCMLcQmpY4LZ) | 4:44 | 2022-04-09 | 2022-06-28 |
 | [Muqabla \(From "Street Dancer 3D"\) \[Tamil\]](https://open.spotify.com/track/2IwpPKgQGzXIjGdJza2chX) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Tamil\]](https://open.spotify.com/album/3Bg3fiWoS3JDC9mkCZ9XxU) | 2:56 | 2021-12-01 |  |
+| [Naadodi Mannan](https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Vaathi](https://open.spotify.com/album/788JAnrm2ALh2sMjTT7BuZ) | 3:23 | 2023-01-17 |  |
 | [Naan Siricha](https://open.spotify.com/track/3FRp7fZcmmXqn68iMmH8jB) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Gana Vinoth](https://open.spotify.com/artist/49Wry38kE5CrnzGGaRtT8q) | [Naan Sirithal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EDWe5j1Ytb2h0og0RvxOg) | 1:51 | 2021-12-01 | 2022-08-17 |
 | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/track/3huCRjAX12zNPxtX9JqX2X) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Naanga Vera Maari \(From "Valimai"\)](https://open.spotify.com/album/57EwhOeKmfQPDC7IUjKubv) | 4:14 | 2021-12-01 |  |
 | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Maragadhamani](https://open.spotify.com/artist/1bRcW8SnU3AKrhzxnbdR64) | [Naattu Koothu \(From "Rrr"\)](https://open.spotify.com/album/7DbivwZgoK0AXocXHom4RV) | 3:34 | 2021-12-01 |  |

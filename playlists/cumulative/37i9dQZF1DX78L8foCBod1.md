@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-130 songs - 9 hr 1 min
+131 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Chaos Drifters](https://open.spotify.com/track/0BkkNBgnKwn9fc1MFoGJKI) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:49 | 2022-06-07 |  |
 | [Christmas Scene](https://open.spotify.com/track/4AHDmsYiqHI5rXcWUOURpY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [narrative / NOISEofRAIN](https://open.spotify.com/album/05HlCEwQ6p8Z5NU0jM6ssq) | 4:47 | 2022-06-21 |  |
 | [Christmas Scene](https://open.spotify.com/track/6FCIgCWGvMcMukMKaPzLq3) | [SawanoHiroyuki\[nZk\]:mizuki & Tielle](https://open.spotify.com/artist/1W4ZTER8FDFj6AcABwH5Jh) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:47 | 2022-06-07 | 2022-07-29 |
+| [COLORs](https://open.spotify.com/track/4aqQN7pU0Razhap9AadWxh) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [V](https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA) | 2:50 | 2023-01-17 |  |
 | [DOA](https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:26 | 2022-06-21 |  |
 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 | 2022-06-07 | 2022-07-29 |
 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 | 2022-06-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "wiu vetin criminal",
-  "num_followers": 1043139,
+  "num_followers": 1043870,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM3ODE4MywwMDAwMDAwMDQyMjRmYjFhYzdhNWExNDI5NGY0ODI4M2Y3ZWM2NWE4",
+  "snapshot_id": "MTY3MzM3ODE4MywwMDAwMDAwMDNmZDM1MjMxMzk1ODQ2ZTZlYzdkZjc0MWIwYWNkOThj",
   "tracks": [
     {
       "added_at": "2023-01-10 19:16:23",
@@ -1083,6 +1083,42 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
+        "name": "Pagodeiro",
+        "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        }
+      ],
+      "duration_ms": 458666,
+      "name": "Pagodeiro",
+      "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
         "name": "Mil Motivos",
         "url": "https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim"
       },
@@ -1127,42 +1163,6 @@
       "duration_ms": 298666,
       "name": "Passar de Foguet\u00e3o 3 (feat. Mc Davi)",
       "url": "https://open.spotify.com/track/7fc2HkZHfB4ezhecqCnDa2"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
-        "name": "Pagodeiro",
-        "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        }
-      ],
-      "duration_ms": 458666,
-      "name": "Pagodeiro",
-      "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
     },
     {
       "added_at": "2023-01-10 19:16:23",
@@ -1359,6 +1359,34 @@
     {
       "added_at": "2023-01-10 19:16:23",
       "album": {
+        "name": "Cerol Finin",
+        "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 260178,
+      "name": "Cerol Finin",
+      "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
+    },
+    {
+      "added_at": "2023-01-10 19:16:23",
+      "album": {
         "name": "Pelo Momento",
         "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
       },
@@ -1387,34 +1415,6 @@
       "duration_ms": 167500,
       "name": "Pelo Momento",
       "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
-    },
-    {
-      "added_at": "2023-01-10 19:16:23",
-      "album": {
-        "name": "Cerol Finin",
-        "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 260178,
-      "name": "Cerol Finin",
-      "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
     },
     {
       "added_at": "2023-01-10 19:16:23",

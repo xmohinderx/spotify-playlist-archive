@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 3722,
+  "num_followers": 3752,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDVlNjRhOGIxNWY3YWE5ZjM2MzYzZjc3M2M4N2M0MTJh",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDhjNjNjZjhlOTEyMDdmYzRmM2Q2OTJlMGE1M2U3MGMx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 329426,
       "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     },
     {
       "added_at": "2022-10-01 16:57:49",

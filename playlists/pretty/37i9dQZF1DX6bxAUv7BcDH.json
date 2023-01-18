@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 7,
+  "num_followers": 8,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDc5OWZhMTEwMTk2ZTVmMWJkZjMxMTZmNjU1MTExMmRi",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDI2NWI5MGQwYzRiMGNiZTlmZmU1ODQ3MDU4YWI5ZTlk",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/3JoYvcDgsinWj0xCb4SaoC"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 243493,
       "name": "A Whole New World (Aladdin's Theme)",
       "url": "https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hello, Dolly!",
-      "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "The Way We Were",
         "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 211093,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hello, Dolly!",
+      "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -659,6 +659,22 @@
       "duration_ms": 125585,
       "name": "Moon River(Vocal Audrey Hepburn)",
       "url": "https://open.spotify.com/track/5iGleL7HpEThuuYQ3us2jh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Johnny Horton'S Greatest Hits",
         "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 173448,
       "name": "Stay With Me - Radio Edit",
       "url": "https://open.spotify.com/track/3C08A6WXAl2XAsI5hZtTSR"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",

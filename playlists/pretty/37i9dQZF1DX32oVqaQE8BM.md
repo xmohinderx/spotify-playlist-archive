@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,306 likes - 248 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,379 likes - 248 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 62 | [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 |
 | 63 | [Nothing But Love](https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Nothing But Love](https://open.spotify.com/album/4VAJ4cK6wAGBEeoC28bF20) | 2:34 |
 | 64 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 |
-| 65 | [silhoutte dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhoutte dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 |
+| 65 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 |
 | 66 | [Dial In](https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Call Me](https://open.spotify.com/album/6MD0V6Ap6pdO6trtrG8Vhg) | 2:59 |
 | 67 | [Highfall Mix](https://open.spotify.com/track/3UUUq3OtFKk5fJ5lLkZmE4) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [Highfall Mix](https://open.spotify.com/album/7JuiixIZSlhgNXIbyEXXXf) | 1:37 |
 | 68 | [Deep Meaning](https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Deep Meaning](https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5) | 3:00 |

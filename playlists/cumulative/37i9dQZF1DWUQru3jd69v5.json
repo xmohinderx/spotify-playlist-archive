@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 133714,
       "name": "ANTIPROIETTILE",
       "url": "https://open.spotify.com/track/4SitMb6MMZVkyLQo8MxuTL"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 129285,
       "name": "Hammamet (feat. Security & Kira)",
       "url": "https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH"
@@ -4621,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "MAROCCHINO",
+        "url": "https://open.spotify.com/album/7M4TSefJ6Y2PVL8C2b6yKF"
+      },
+      "artists": [
+        {
+          "name": "ABDO X MOCRO COPEN",
+          "url": "https://open.spotify.com/artist/6XJJBXTyzGlsVra2MMwfng"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152368,
+      "name": "MAROCCHINO",
+      "url": "https://open.spotify.com/track/4IyH9EhLiYQ10KIflvgCPA"
+    },
+    {
+      "album": {
         "name": "Martelli",
         "url": "https://open.spotify.com/album/44QVejjR4OABkqOxFet7Dt"
       },
@@ -5574,7 +5592,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 128000,
       "name": "Pegaso",
       "url": "https://open.spotify.com/track/5nAczxA6dirSZLz2X0YfUK"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 157105,
       "name": "Quello in cui credo",
       "url": "https://open.spotify.com/track/6VpAdAYfHP6epFVvONls3b"
@@ -6414,6 +6432,24 @@
       "duration_ms": 132660,
       "name": "RS6",
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
+    },
+    {
+      "album": {
+        "name": "R\u00e9alit\u00e9",
+        "url": "https://open.spotify.com/album/2DB5cZjeqKEkE8NRQ1xJJS"
+      },
+      "artists": [
+        {
+          "name": "Nuel",
+          "url": "https://open.spotify.com/artist/5E3PTmB24Rrp3XW9Xk2Ixs"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "R\u00e9alit\u00e9",
+      "url": "https://open.spotify.com/track/5A38jUFZ5wTSCmYycPGdrs"
     },
     {
       "album": {

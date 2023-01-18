@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 5813,
+  "num_followers": 6019,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGFhYzhhMGIzN2NkZjliODVjN2MyOWY0ZWE1ZTRjZDY0",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQ5MjVjOGMzMDI3YWE3NzI4MGE3Y2Y5MmYxMmIzMzM3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 231351,
       "name": "Deep Reverence (feat. Nipsey Hussle)",
       "url": "https://open.spotify.com/track/2CDcXWYWilHTXrsOXJza8n"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 200223,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
     },
     {
       "added_at": "2022-10-01 16:00:00",

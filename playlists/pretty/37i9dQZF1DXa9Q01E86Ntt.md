@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,738 likes - 62 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,010 likes - 62 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
-| 2 | [20211130](https://open.spotify.com/track/1QNI7DHjSVdRjHuNqeCaYc) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 5:22 |
-| 3 | [20211201](https://open.spotify.com/track/6m9T3udfB7T0pEDatisXuW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 5:32 |
-| 4 | [20220123](https://open.spotify.com/track/22E04NAB1zTWaivAGbF3VD) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 8:40 |
-| 5 | [20220202](https://open.spotify.com/track/6DxUMCX5YY7f2zMUifYlCD) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:22 |
-| 6 | [20220207](https://open.spotify.com/track/02SkBGmCpVDiwotTdei0Jg) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 7:01 |
-| 7 | [20220214](https://open.spotify.com/track/0YpGBLDpxu0UwNkKrdY87g) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 9:09 |
-| 8 | [20220302 \- sarabande](https://open.spotify.com/track/3TlsuAkWKWNFvYajQ9IBZQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 3:10 |
-| 9 | [20220302](https://open.spotify.com/track/6v7FajGonvSGnMOnn0HGe9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 2:52 |
-| 10 | [20220307](https://open.spotify.com/track/4RlZTxX4WlqyboBxsrmWDg) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 2:31 |
-| 11 | [20220404](https://open.spotify.com/track/5Pq43yDBVQLRYhPFj0Q2I6) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 2:26 |
-| 12 | [20220304](https://open.spotify.com/track/3jJ6hWSyM93XVKFJbAbhgT) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 1:08 |
+| 1 | [20210310](https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:53 |
+| 2 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 |
+| 3 | [20211201](https://open.spotify.com/track/0I0PsgtPWJQZ3CCLhZVdid) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:32 |
+| 4 | [20220123](https://open.spotify.com/track/6Xltbz4t2O90RlXTvopozY) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 8:40 |
+| 5 | [20220202](https://open.spotify.com/track/2sGeliCeI7XPYGgzNgBAEx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:22 |
+| 6 | [20220207](https://open.spotify.com/track/0u5YH19DTffJ7IAyCpnzJz) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 7:01 |
+| 7 | [20220214](https://open.spotify.com/track/7vLpc2i9HKDMxr2Gn5e5uJ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 9:09 |
+| 8 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 |
+| 9 | [20220302](https://open.spotify.com/track/380T94939pKNMPEAVsw3QJ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 2:52 |
+| 10 | [20220307](https://open.spotify.com/track/6XgKz6CPm5wpKMlQYwo2Oi) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 2:31 |
+| 11 | [20220404](https://open.spotify.com/track/1h0QKRX7WMuHSUDyzs9NNT) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 2:26 |
+| 12 | [20220304](https://open.spotify.com/track/3KNQ2XqFJwnPulIN8wpbxG) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 1:08 |
 | 13 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
 | 14 | [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 |
 | 15 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 61 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 62 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Exception \(Soundtrack from the Netflix Anime Series\)](https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ) | 3:48 |
 
-Snapshot ID: `MTY3MzkwNzMwNCwwMDAwMDAwMGZkMmUwNGQxNjk3MGY4YWE5OWIyZTkxNmRhNjU2MDA4`
+Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMDFjMTgxYzkxY2MxZjE3ZTVkMTY0MmEzNjdlNDY3ZWNk`

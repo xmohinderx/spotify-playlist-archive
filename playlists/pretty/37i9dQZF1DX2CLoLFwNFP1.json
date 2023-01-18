@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 12289,
+  "num_followers": 12379,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMGFlZWM3YmY5YzczMTY2YmRkMGIwZTgyZDM3YWE5Nzdj",
+  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMDE0Mzc5Zjk5ZDlkMGUxNjgxNGMzYzI4Zjc4MDAyOWM2",
   "tracks": [
     {
       "added_at": "2023-01-02 05:53:41",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "B.A.R.S, Vol. 1",
-        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 180800,
       "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "B.A.R.S, Vol. 1",
+        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 252367,
-      "name": "AQUAMAN",
-      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 225026,
       "name": "ALL IN (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 252367,
+      "name": "AQUAMAN",
+      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2079,6 +2079,38 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Dayday",
+          "url": "https://open.spotify.com/artist/2M6pSBXyVDYo0IjlbW8Jj2"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 322806,
+      "name": "Who You - Remix",
+      "url": "https://open.spotify.com/track/2ByIPJqORZEkOGrNbTgnCj"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -2119,38 +2151,6 @@
       "duration_ms": 362314,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
-        "name": "Scene Stealers",
-        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Dayday",
-          "url": "https://open.spotify.com/artist/2M6pSBXyVDYo0IjlbW8Jj2"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 322806,
-      "name": "Who You - Remix",
-      "url": "https://open.spotify.com/track/2ByIPJqORZEkOGrNbTgnCj"
     },
     {
       "added_at": "2023-01-02 05:53:41",

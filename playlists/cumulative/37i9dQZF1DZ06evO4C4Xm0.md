@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-101 songs - 8 hr 55 min
+102 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Backwater \- 2004 Digital Remaster](https://open.spotify.com/track/5LyWia3X6AJtosLJdSA6ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:43 | 2022-06-04 | 2022-10-09 |
 | [Becalmed \- 2004 Digital Remaster](https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:56 | 2022-05-29 | 2022-10-13 |
 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 | 2022-10-12 | 2022-10-17 |
-| [Burnt Umber](https://open.spotify.com/track/4cv26gwDWciRzeL7pzAXIV) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:15 | 2023-01-10 |  |
+| [Burnt Umber](https://open.spotify.com/track/4cv26gwDWciRzeL7pzAXIV) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:15 | 2023-01-10 | 2023-01-18 |
 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 | 2022-05-29 |  |
 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 | 2022-07-16 |  |
 | [Cinnabar](https://open.spotify.com/track/0C8tw0sO1aOWTGO2OyFVRn) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 3:20 | 2023-01-05 | 2023-01-17 |
@@ -99,6 +99,7 @@
 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-07-30 |  |
 | [These Small Noises](https://open.spotify.com/track/7kGKNGydrkDDo580fNWAaB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:22 | 2022-10-18 | 2022-11-05 |
 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 | 2022-05-29 | 2022-10-13 |
+| [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 | 2023-01-17 |  |
 | [Under Stars \- 2005 Mix](https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:30 | 2022-05-30 | 2022-10-13 |
 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 | 2022-08-16 |  |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2022-05-30 |  |

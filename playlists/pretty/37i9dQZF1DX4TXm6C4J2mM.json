@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156464,
+  "num_followers": 156457,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDc2NGFkNGM0YjIwZjZhZGZmZTA2ZjU4ODRlM2MwZDMw",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGM4NmQyNmNjZDgxZDBhYjE3NTgxNTc4MjM0YjY1MzIy",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "I Follow Rivers",
         "url": "https://open.spotify.com/album/1XMOxf7pF5UK8Rys9SFaBz"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 150720,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/4T8Cx2olPLZP4JgWNN4v1A"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
       "artists": [
         {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
         }
       ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -947,22 +951,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
+      },
+      "artists": [
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
+      },
+      "artists": [
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 158854,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "I'm Just Feelin' (Du Du Du)",
         "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 203040,
       "name": "Fingers Crossed - Until Dawn Remix",
       "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Fast Forward",
-        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
-      },
-      "artists": [
-        {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
-        }
-      ],
-      "duration_ms": 158854,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
     },
     {
       "added_at": "2022-11-10 23:00:00",

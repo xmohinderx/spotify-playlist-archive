@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,381 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,335 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 81 | [Love Is Christmas](https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [O Holy Night](https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv) | 4:14 |
 | 82 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 |
 | 83 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 |
-| 84 | [I'll Be There Christmas Eve](https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [I'll Be There Christmas Eve](https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD) | 4:14 |
-| 85 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
+| 84 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
+| 85 | [I'll Be There Christmas Eve](https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL) | [I'll Be There Christmas Eve](https://open.spotify.com/album/6lT8g9LU7RGGivYBYR8GvD) | 4:14 |
 | 86 | [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 |
 | 87 | [Moonshine & Mistletoe](https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine & Mistletoe](https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg) | 3:27 |
 | 88 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 |
 | 100 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGUwNTM4Y2M3ODkzNzlkNTMxNDNhNDY1NTI5NjNiMzY0`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDQzODYwMzE4MDhiZGYxMWJlNzk5ODFmYWQ0NzgyZTg2`

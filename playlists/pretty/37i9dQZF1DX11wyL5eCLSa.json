@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 138903,
+  "num_followers": 138953,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMDU5ZWVkNmJmZGUyNTA3MjY3OWY4YzdmNTU2YzYxN2Y5",
+  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMDQ4ODBhYmYzYmMyYzc5MTliYmNhMzYwNjUwYWJkODdl",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+      "duration_ms": 224085,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 224085,
-      "name": "Visita",
-      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -587,22 +587,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Gal\u00e1ctica",
-        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Gal\u00e1ctica",
-      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+      "duration_ms": 311720,
+      "name": "SKR",
+      "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -623,18 +619,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+        "name": "Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 311720,
-      "name": "SKR",
-      "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
+      "duration_ms": 207000,
+      "name": "Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -693,38 +693,6 @@
       "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
     },
     {
-      "added_at": "2022-09-27 21:37:51",
-      "album": {
-        "name": "De la Orqu\u00eddea y la Avispa",
-        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 407449,
-      "name": "De la Orqu\u00eddea y la Avispa",
-      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Punk",
@@ -745,36 +713,36 @@
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
     },
     {
-      "added_at": "2022-08-19 01:13:45",
-      "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "La Izquierda de la Noche",
-        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 219414,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+      "duration_ms": 257466,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
+    },
+    {
+      "added_at": "2022-09-27 21:37:51",
+      "album": {
+        "name": "De la Orqu\u00eddea y la Avispa",
+        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 407449,
+      "name": "De la Orqu\u00eddea y la Avispa",
+      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -795,18 +763,50 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
+        "name": "La Izquierda de la Noche",
+        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 257466,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
+      "duration_ms": 219414,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "added_at": "2022-08-19 01:13:45",
+      "album": {
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -855,26 +855,6 @@
       "duration_ms": 187693,
       "name": "C\u00e1llame",
       "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -977,6 +957,26 @@
       "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
     },
     {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
+    },
+    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW"
     },
     {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "Hasta Las Hifas, Un Micelio",
-        "url": "https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 274277,
-      "name": "Hasta Las Hifas, Un Micelio",
-      "url": "https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb"
-    },
-    {
       "added_at": "2022-08-13 00:31:24",
       "album": {
         "name": "Amygdalae / IQ Test",
@@ -1107,6 +1091,22 @@
       "duration_ms": 183653,
       "name": "California",
       "url": "https://open.spotify.com/track/5PbpA8xmXXbau3WeeLQw0p"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Hasta Las Hifas, Un Micelio",
+        "url": "https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 274277,
+      "name": "Hasta Las Hifas, Un Micelio",
+      "url": "https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Polvo C\u00f3smico",
-        "url": "https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY"
+        "name": "Lluvia de Fuego",
+        "url": "https://open.spotify.com/album/1Wp3tH8FxE60ofdJWAP106"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Polvo C\u00f3smico",
-      "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
+      "duration_ms": 207573,
+      "name": "Lluvia de Fuego",
+      "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
     },
     {
       "added_at": "2022-07-22 17:47:39",

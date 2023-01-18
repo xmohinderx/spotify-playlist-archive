@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA" > Odumodublvck </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,549 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,612 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 51 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 | 52 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
 | 53 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
-| 54 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 |
+| 54 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 55 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
 | 56 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 |
 | 57 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 |
-| 58 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
-| 59 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
-| 60 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
+| 58 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
+| 59 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 |
+| 60 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
 | 61 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 |
-| 62 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
+| 62 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
 | 63 | [Cram](https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Cram](https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi) | 2:54 |
 | 64 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
 | 65 | [Breathe](https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [GOLDEN](https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Rap Jesu](https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Rap Jesu](https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w) | 2:31 |
 | 70 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 |
 
-Snapshot ID: `MTY3MTM1NzczOSwwMDAwMDAwMGViYWJhZDhmNjBlMGFiMTBmZDI4ODZjZWYxMTI3Zjkw`
+Snapshot ID: `MTY3MTM1NzczOSwwMDAwMDAwMGYzYmIzOTkyM2IwOWVkODg4YWZmNjZkNGEyNTI2NjI2`

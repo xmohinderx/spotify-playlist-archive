@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 
 > Add some sabor to your summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,690 likes - 111 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,705 likes - 111 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 81 | [Salsa Pa' Olvidar las Penas \(feat\. Gilberto Santa Rosa\)](https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [25/7](https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG) | 4:58 |
 | 82 | [Arrebata](https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Arrebata](https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3) | 2:55 |
 | 83 | [La Plata \(Los Ángeles Azules Remix\) \(Feat\. Los Ángeles Azules, Lalo Ebratt\)](https://open.spotify.com/track/65qnIZCLVTYdnNxWMJQ3kj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata \(Los Ángeles Azules Remix\)](https://open.spotify.com/album/0ybT81ASDfAvIFKoWWPVr8) | 3:39 |
-| 84 | [Carne \- Merengue Electrónico Remix](https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne \(Merengue Electrónico Remix\)](https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO) | 3:25 |
-| 85 | [Cosita Linda](https://open.spotify.com/track/4J7oEi8YEEKqold6VImH1f) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Cosita Linda](https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa) | 2:42 |
+| 84 | [Cosita Linda](https://open.spotify.com/track/4J7oEi8YEEKqold6VImH1f) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Cosita Linda](https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa) | 2:42 |
+| 85 | [Carne \- Merengue Electrónico Remix](https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne \(Merengue Electrónico Remix\)](https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO) | 3:25 |
 | 86 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
 | 87 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
 | 88 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 110 | [El Fenómeno del Mambo](https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [El Fenómeno del Mambo](https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ) | 2:59 |
 | 111 | [Cosas](https://open.spotify.com/track/5dFI94deOPExXpWJftrQ4B) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Cu\-Cu\-Cu Cumbia!](https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH) | 3:04 |
 
-Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDFhY2I2ZjdmN2M4MTkwNDc2YTFlOTkzZjdhODJiYWVk`
+Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDc0ZDExNGY5YTBkNWEyYzg2OThjMTE4ZmNmNDYyM2Nm`

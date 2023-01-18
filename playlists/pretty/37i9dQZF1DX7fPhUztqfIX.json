@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 99594,
+  "num_followers": 99661,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDU3NjRlOGE5Njg5MzUzOGFjYzgyYjY0MzM1ZmIzNjQx",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDJhY2M5NTQwZmRiNzNiNDAyNGQ4MjQ2NzdhOTY4OWRi",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Reign (Live)",
-        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "You Reign - Live",
-      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "You Reign (Live)",
+        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "You Reign - Live",
+      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1651,26 +1651,6 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Mike Grayson",
-          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Oh The Wonder (feat. Mike Grayson)",
-      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Mike Grayson",
+          "url": "https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Oh The Wonder (feat. Mike Grayson)",
+      "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "King Jesus",
         "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
       },
@@ -1819,26 +1819,6 @@
       "duration_ms": 414698,
       "name": "King Jesus - Live",
       "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Setnick Sene",
-          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
-        }
-      ],
-      "duration_ms": 257812,
-      "name": "No One (feat. Setnick Sene)",
-      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1879,22 +1859,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Remember (Studio Version)",
-        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "I Remember - Studio Version",
-      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1907,6 +1871,42 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Setnick Sene",
+          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
+        }
+      ],
+      "duration_ms": 257812,
+      "name": "No One (feat. Setnick Sene)",
+      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Remember (Studio Version)",
+        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "I Remember - Studio Version",
+      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Living Proof (Live)",
-        "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
-      },
-      "artists": [
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Living Proof - Live",
-      "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Living Proof (Live)",
+        "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
+      },
+      "artists": [
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Living Proof - Live",
+      "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 420693,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
     },
     {
       "added_at": "2021-06-12 04:00:40",

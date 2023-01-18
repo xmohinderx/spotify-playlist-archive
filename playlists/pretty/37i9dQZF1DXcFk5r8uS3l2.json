@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 423321,
+  "num_followers": 423441,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGM4NjdkZjNmMGQ3MDJlNGEwZTFhODEwZDA2OGE1MGQ1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQwNGMwN2UyOGViYWYwYmVlNWVjNzQ1Y2U3M2ZiMmJh",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 216106,
       "name": "Malibu Man",
       "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Souled Out On You",
-      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "stripped back",
@@ -529,20 +513,20 @@
       "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
+      "duration_ms": 213093,
+      "name": "Souled Out On You",
+      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -559,6 +543,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 294933,
-      "name": "The Lengths",
-      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "If These Walls Could Talk",
@@ -759,6 +743,22 @@
       "duration_ms": 144985,
       "name": "Have a Ball",
       "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 294933,
+      "name": "The Lengths",
+      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Introducing Junior Kimbrough",
-        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Feels so Bad - Previously Unreleased Take",
-      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "When the Cellar Children See the Light of Day",
@@ -903,6 +887,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Introducing Junior Kimbrough",
+        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Feels so Bad - Previously Unreleased Take",
+      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "The Angels In Heaven Done Signed My Name",
+        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
+      },
+      "artists": [
+        {
+          "name": "Leo \"Bud\" Welch",
+          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
+        }
+      ],
+      "duration_ms": 165727,
+      "name": "Don't Let The Devil Ride",
+      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Angels In Heaven Done Signed My Name",
-        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
-      },
-      "artists": [
-        {
-          "name": "Leo \"Bud\" Welch",
-          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
-        }
-      ],
-      "duration_ms": 165727,
-      "name": "Don't Let The Devil Ride",
-      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
       "added_at": "2022-09-16 04:01:00",

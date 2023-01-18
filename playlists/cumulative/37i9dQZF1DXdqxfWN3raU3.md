@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Jass Reyes en portada.
 
-174 songs - 9 hr 22 min
+175 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Aunque Eso Está Mal](https://open.spotify.com/track/6I9aVdCh6umJ63BVzDksDh) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [FRANCO](https://open.spotify.com/artist/5qtLffWJkguvvZvZEPkEiU) | [Aunque Eso Está Mal](https://open.spotify.com/album/34akGcSedAxvJ5b9vFqkWN) | 2:49 | 2021-12-13 |  |
 | [Bad Trip](https://open.spotify.com/track/0ktNR6tVrELYHj26SM8a0K) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Bad Trip](https://open.spotify.com/album/17LuKgndkDuzwb7qm9wZ8P) | 1:50 | 2021-12-13 |  |
 | [Bandida](https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Bandida](https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN) | 3:53 | 2021-12-13 |  |
-| [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2021-12-13 |  |
+| [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2021-12-13 | 2023-01-18 |
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 | 2022-07-23 |
 | [Borrón Y Cuenta Nueva](https://open.spotify.com/track/5jvuhVvJZkNzQ2i72nmTn3) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Borrón Y Cuenta Nueva](https://open.spotify.com/album/2UOJpxiTPuECDKFkJs1G3Z) | 3:21 | 2023-01-05 |  |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
@@ -109,6 +109,7 @@
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-13 |  |
 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 | 2022-01-21 |  |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-12 |  |
+| [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 | 2023-01-17 |  |
 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 | 2021-12-13 | 2022-05-28 |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-01-12 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2021-12-13 | 2022-02-15 |

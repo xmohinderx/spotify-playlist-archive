@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 407308,
+  "num_followers": 407553,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMGQ3OGZhMDNhNDBjZWRiMDBhZDgyZjRmNTIyM2FmNDNk",
+  "snapshot_id": "MTY3Mjk1OTY2MCwwMDAwMDAwMDc3M2NhZTMxMzViNTIxYzY1MzAzYjdmMzVjZTBmZDMz",
   "tracks": [
     {
       "added_at": "2023-01-05 23:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 333772,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "You'll Understand",
         "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 417099,
       "name": "Talk to Me You'll Understand",
       "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 333772,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
-      },
-      "artists": [
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        }
-      ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/612PCusXpFlpdlg3sLupIA"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
       },
       "artists": [
         {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
         }
       ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -435,6 +419,22 @@
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
         "name": "Moon II Remixes Pt. II",
         "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
         "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 287767,
       "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
       "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "10Min JAM_V2",
         "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 99495,
       "name": "10Min JAM_V2",
       "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Mellow Mornings",
-        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        }
-      ],
-      "duration_ms": 154814,
-      "name": "Mellow Mornings",
-      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
-    },
-    {
-      "added_at": "2023-01-05 23:01:00",
-      "album": {
         "name": "Watarase",
         "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-01-05 23:01:00",
       "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+        "name": "Mellow Mornings",
+        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
       "artists": [
         {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
         }
       ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+      "duration_ms": 154814,
+      "name": "Mellow Mornings",
+      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
     },
     {
       "added_at": "2023-01-05 23:01:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-01-05 23:01:00",
+      "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2023-01-05 23:01:00",

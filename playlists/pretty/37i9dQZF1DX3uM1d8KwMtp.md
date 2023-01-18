@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 56 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,856 likes - 56 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 17 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 |
 | 18 | [Blind the Sun](https://open.spotify.com/track/3dFgpRHUx60es4nvmxw4jv) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Summer Sol V](https://open.spotify.com/album/2pAEE8ppIkSaDxcCQ5J5Cp) | 7:29 |
 | 19 | [It's Not Right](https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO) | 6:22 |
-| 20 | [Merhamet](https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA) | [Doğan Sezen](https://open.spotify.com/artist/15ly7L03FKUoQhUnGseqCR) | [Efsun](https://open.spotify.com/album/29KqM9Q8hLujjg6EE1N9gS) | 6:24 |
+| 20 | [Merhamet](https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA) | [Doğan Sezen](https://open.spotify.com/artist/15ly7L03FKUoQhUnGseqCR), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Cafe De Anatolia LOUNGE](https://open.spotify.com/artist/3sPrwtAbt5duadW7IHJf1O) | [Efsun](https://open.spotify.com/album/29KqM9Q8hLujjg6EE1N9gS) | 6:24 |
 | 21 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 |
 | 22 | [Try To Escape](https://open.spotify.com/track/6ITyiTkL7g1D2hXYeSUYkO) | [Jerry Spoon](https://open.spotify.com/artist/0m6eNLtH4LgmXWq9Sz5d0j) | [Try To Escape](https://open.spotify.com/album/6Qebev2T4obA2q6jA2ZTOD) | 5:43 |
 | 23 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |

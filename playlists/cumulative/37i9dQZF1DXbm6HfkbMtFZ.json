@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Bright Moments",
+        "url": "https://open.spotify.com/album/4sasyQ5OjNav1kDNWgjX1V"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245028,
+      "name": "Believe in Me",
+      "url": "https://open.spotify.com/track/7q74lDbsPKSGMdRizk4wel"
+    },
+    {
+      "album": {
         "name": "Best Worst Year",
         "url": "https://open.spotify.com/album/2bOC8Kmndkb29jbZppo9La"
       },
@@ -8754,7 +8772,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 211547,
       "name": "You Want the Sun",
       "url": "https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU"

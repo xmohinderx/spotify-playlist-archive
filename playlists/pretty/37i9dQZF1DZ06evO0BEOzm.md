@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,958 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,058 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [B.I.T.C.H.](https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.I.T.C.H.](https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4) | 3:03 |
 | 50 | [Freaky Girls \(feat\. SZA\)](https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:46 |
 | 51 | [NASTY \(feat\. Ashanti & Megan Thee Stallion\)](https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:35 |
-| 52 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 |
-| 53 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
+| 52 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
+| 53 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 |
 
-Snapshot ID: `Mjc4OTc5OTIsMDAwMDAwMDBmMGJkYWU1YTQzMDIwMmZmNzE4OGYzNGQ4NTRmYjYxYQ==`
+Snapshot ID: `Mjc4OTk0MjAsMDAwMDAwMDA1MDczOTczNDdkYTIzMmU0MjQzYWEzNjM3ZWQyNTQ1Yw==`

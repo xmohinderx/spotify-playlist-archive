@@ -2,7 +2,7 @@
 
 ### [scarf season](https://open.spotify.com/playlist/37i9dQZF1DX1WY4wcXo9Hn)
 
-> a maroon kind of mood
+> i can picture it after all these days
 
 105 songs - 6 hr 16 min
 

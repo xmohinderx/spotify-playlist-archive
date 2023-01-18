@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 52458,
+  "num_followers": 52600,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDgzOGVlOTkzYmFjNzg1YmFjNzkzMTNlMTJkMzhjNjBh",
+  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDNmMjRlMzg1NzdkNTA0ODNhZDdlMzg0NGM4NDEzMjM1",
   "tracks": [
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Three for Three",
         "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 318226,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2022-10-06 07:29:28",

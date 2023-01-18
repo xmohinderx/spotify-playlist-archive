@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-141 songs - 7 hr 2 min
+142 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-21 |  |
 | [Dream Away](https://open.spotify.com/track/2DDPIz36qdIcdDzRorKALC) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/62KphRkcxV7qVlCSmASAm9) | 2:04 | 2022-07-05 | 2022-07-29 |
-| [Dream Away](https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx) | 2:04 | 2022-07-19 |  |
+| [Dream Away](https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx) | 2:04 | 2022-07-19 | 2023-01-18 |
 | [Dreamcatcher](https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF) | [Silent Movement](https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw) | [Dreamcatcher](https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4) | 3:04 | 2022-07-19 | 2022-07-29 |
 | [Dreamstate](https://open.spotify.com/track/4WzPktrz71J6X0Rbm9KQlS) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/78168bttecze9M3zCxDAhx) | 2:43 | 2022-07-05 | 2022-07-29 |
 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 | 2022-07-19 |  |
@@ -66,6 +66,7 @@
 | [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 | 2022-07-19 |  |
 | [Hush](https://open.spotify.com/track/4YRRQ2lY39cU4XCCcqZEyo) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/3pZihjucLETpZCJnIMEtYm) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Inertia](https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inertia](https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV) | 3:01 | 2022-07-05 | 2022-07-26 |
+| [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-18 |  |
 | [Levitate](https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/52V9mKrjrDameJBbXroPua) | 2:40 | 2022-07-19 |  |
 | [Levitate](https://open.spotify.com/track/1hfB7lg8Uvu5ZKH3ZxvM8w) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/5U3qNi9R1qZVPCWV9o2XDA) | 2:40 | 2022-07-05 | 2022-07-29 |
 | [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 | 2022-07-05 |  |

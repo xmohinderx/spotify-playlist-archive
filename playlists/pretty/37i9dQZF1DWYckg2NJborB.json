@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDI4OWUwMWEyMjc4NGIzMWI0NGJmNjRmZjEzMjU4YTk0",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMGE0NGNmMzJkMzQ2ZjA1OTZmYmI3YjA4NzllNTJjZjc5",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -379,22 +379,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "The Book I Read - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Stars and Satellites",
         "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "The Book I Read - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Winter Wheat",
-        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
-      },
-      "artists": [
-        {
-          "name": "John K. Samson",
-          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
-        }
-      ],
-      "duration_ms": 203091,
-      "name": "Postdoc Blues",
-      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Winter Wheat",
+        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
+      },
+      "artists": [
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "duration_ms": 203091,
+      "name": "Postdoc Blues",
+      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "The Best Of The First 10 Years",
-        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Everyday I Write The Book",
-      "url": "https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Kning Disk 2005-2012 Box Set",
         "url": "https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Milton At Midnight",
-        "url": "https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x"
+        "name": "The Best Of The First 10 Years",
+        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
         }
       ],
-      "duration_ms": 346386,
-      "name": "Milton At Midnight",
-      "url": "https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd"
+      "duration_ms": 234853,
+      "name": "Everyday I Write The Book",
+      "url": "https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -791,6 +775,22 @@
       "duration_ms": 280933,
       "name": "Literature Lovers",
       "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Milton At Midnight",
+        "url": "https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 346386,
+      "name": "Milton At Midnight",
+      "url": "https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd"
     },
     {
       "added_at": "2018-12-10 14:56:06",

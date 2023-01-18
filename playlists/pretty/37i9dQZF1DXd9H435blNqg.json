@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 30891,
+  "num_followers": 30974,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDZmYWQwNWIzYzczODI3M2FkMjU1NzQ3NTAxYjQ4Yzk3",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGY3YjdhYzY1M2Q4YzgzYzg2M2Y1Zjg0ZjkxYzg0Zjdk",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Color Where You Are",
-        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        }
-      ],
-      "duration_ms": 227300,
-      "name": "Under the Big Top",
-      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Ain't Too Worried Yet",
         "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Color Where You Are",
+        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        }
+      ],
+      "duration_ms": 227300,
+      "name": "Under the Big Top",
+      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Say the Word",
-        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Get Yourself Some",
-      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Tell Your Mother",
         "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 214186,
       "name": "Tell Your Mother",
       "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Get Yourself Some",
+      "url": "https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
       },
       "artists": [
         {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Them That Matter Don't Mind",
-      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",

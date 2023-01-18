@@ -1,12 +1,12 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 432109,
+  "num_followers": 432288,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMGE2MTY2MjcyZjI1OWMwMzYzOWVmZGE1ZDQ5OGYxMWFl",
+  "snapshot_id": "MTY1ODQyMzAxOCwwMDAwMDAwMDRkZDUzYTNlZTI5MTYxM2JlZGY3NjQ1ODMzNzg2NTEx",
   "tracks": [
     {
       "added_at": "2022-07-21 17:03:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "This City",
         "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 194853,
       "name": "This City",
       "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -883,6 +883,26 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 207029,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -915,22 +935,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "13 Reasons Why (Season 2)",
-        "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -947,22 +951,18 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
+        "name": "13 Reasons Why (Season 2)",
+        "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 207029,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
+      "duration_ms": 210240,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
     },
     {
       "added_at": "2022-07-21 17:03:38",

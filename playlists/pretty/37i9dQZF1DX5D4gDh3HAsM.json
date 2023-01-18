@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 518926,
+  "num_followers": 518783,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDU1ZjI2ZmYwMGQzYTcyMjZjZTQ0ZTU2Nzc5ZWJhNTlj",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGVmMmM1ZWRlNDc0NDM2ZTdlMWZiMjYzNjBiNmZmMGRm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Simply Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Crescent City Christmas Card",
         "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172960,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Simply Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "duration_ms": 182852,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-144 songs - 13 hr 28 min
+145 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2022-11-23 | 2022-12-13 |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 |  |
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
+| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 |  |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 |  |
@@ -27,7 +28,7 @@
 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 | 2022-11-23 |  |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 |  |
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 |  |
-| [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 |  |
+| [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 | 2023-01-18 |
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-12-28 | 2023-01-06 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-11-23 |  |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-11-23 |  |

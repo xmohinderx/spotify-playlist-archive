@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-126 songs - 5 hr 57 min
+127 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1UL](https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [1UL](https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC) | 3:25 | 2022-05-12 |  |
 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 | 2021-09-23 | 2022-10-22 |
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2021-09-23 |  |
-| [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2022-01-18 |  |
+| [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2022-01-18 | 2023-01-18 |
 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2021-09-23 | 2022-10-25 |
 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2022-10-21 | 2023-01-05 |
 | [Be Nice 2 Me](https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO) | [0505blade](https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist) | [Be Nice 2 Me](https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8) | 2:07 | 2022-11-10 | 2022-11-25 |
@@ -114,6 +114,7 @@
 | [scawy monstews and nice spwites :3](https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O) | [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [scawy monstews and nice spwites :3](https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp) | 1:36 | 2021-09-23 |  |
 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-12-10 |  |
 | [serialkilled](https://open.spotify.com/track/50BnBMAaNwlFcedkifEjxi) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/34C3EC4r4pof6IiZdRtemr) | 1:47 | 2021-09-23 | 2022-05-13 |
+| [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 | 2023-01-18 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2021-09-23 | 2022-05-13 |
 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 | 2021-09-23 |  |
 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 | 2021-12-21 |  |

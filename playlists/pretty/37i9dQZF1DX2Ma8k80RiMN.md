@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360,853 likes - 40 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,943 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 33 | [Your Smile](https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire \(Expanded Edition\)](https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5) | 4:15 |
 | 34 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 |
 | 35 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
-| 36 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
-| 37 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
+| 36 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
+| 37 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
 | 38 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 | 39 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
 | 40 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 
-Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMDRlNTM3Y2NjZjNjYmM1ZTgxODA1MjRkZmMwMDBiYTAx`
+Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMDE1YzM0MmVjYjEzZmQxOTI1YTU5NWVlYzI1MDE0M2Y5`

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-155 songs - 16 hr 5 min
+156 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 | 2022-09-09 |
+| [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 | 2023-01-17 |  |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-06 |  |
 | [Garmi](https://open.spotify.com/track/6cCH4wUwLbCkCwYqQG2uPe) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Garmi](https://open.spotify.com/album/4ShGe12qbIrgWg62GwZl7i) | 6:26 | 2022-04-13 |  |
 | [Gate](https://open.spotify.com/track/64DQirKrhckZyaKJ0Xz30G) | [U108](https://open.spotify.com/artist/5gOlxIWquJASLrXLQhUVVh) | [Sutra of Heart](https://open.spotify.com/album/62i9NSc0cKmXcoght2GqwU) | 5:34 | 2022-04-28 |  |

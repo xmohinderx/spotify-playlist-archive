@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Sour Switchblade",
+        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148955,
+      "name": "Sour Switchblade",
+      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
+    },
+    {
+      "album": {
         "name": "Anxiety Angel",
         "url": "https://open.spotify.com/album/5ipcsit6PRtDh8Pdkt1wuv"
       },
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 201101,
       "name": "THAT BITCH",
       "url": "https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0"

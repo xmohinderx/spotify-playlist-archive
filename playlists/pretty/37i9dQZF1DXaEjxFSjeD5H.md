@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,738 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,760 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 14 | [Floresita](https://open.spotify.com/track/68oyMk9WvPVRIVSAWa5V7G) | [Merceron y Acerina](https://open.spotify.com/artist/4uUwbi4eyZLxoR2J8v2Ja3) | [Danzon](https://open.spotify.com/album/3qVi26P9QDNh5YlBaF6aEI) | 3:16 |
 | 15 | [Pancha Baila en Turcos](https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:08 |
 | 16 | [Mocambo](https://open.spotify.com/track/0on8z1fhBmY13qS34qSSnM) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 4:17 |
-| 17 | [Moliendo Café](https://open.spotify.com/track/1mRo2DqYRkchxYHMg6ng2u) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Moliendo Café](https://open.spotify.com/album/1HXvBAMUIJYDXtB9prveKb) | 3:07 |
-| 18 | [Almendra](https://open.spotify.com/track/09ijF559zM8MW5QNkyo7sO) | [Marimba Diosa del Sur](https://open.spotify.com/artist/33acB0ZZj42gHp6jiY0AiW) | [Danzones Con Marimba, Vol\. 1](https://open.spotify.com/album/7gJ1UlYDnHKPSEqrsdW2wV) | 2:16 |
+| 17 | [Almendra](https://open.spotify.com/track/09ijF559zM8MW5QNkyo7sO) | [Marimba Diosa del Sur](https://open.spotify.com/artist/33acB0ZZj42gHp6jiY0AiW) | [Danzones Con Marimba, Vol\. 1](https://open.spotify.com/album/7gJ1UlYDnHKPSEqrsdW2wV) | 2:16 |
+| 18 | [Moliendo Café](https://open.spotify.com/track/1mRo2DqYRkchxYHMg6ng2u) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Moliendo Café](https://open.spotify.com/album/1HXvBAMUIJYDXtB9prveKb) | 3:07 |
 | 19 | [Salón México](https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW) | 2:32 |
 | 20 | [Popurri Cha Cha Cha](https://open.spotify.com/track/2OmOONZmSrUjePmpBVvUzX) | [Orquesta de Mexico de Pedro Mendoza](https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp) | [Danzones Y Cha Cha Cha](https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d) | 3:09 |
 | 21 | [Zacatlan](https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 62 | [El Pichi](https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:48 |
 | 63 | [El Danubio Azul](https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 2:43 |
 | 64 | [Los Timbales de Acerina](https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 3:00 |
-| 65 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
-| 66 | [Agustín Lara](https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:36 |
+| 65 | [Agustín Lara](https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:36 |
+| 66 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
 | 67 | [Salón Casa Blanca](https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:49 |
 | 68 | [Humo en los Ojos](https://open.spotify.com/track/5ONyXiCDuwd1KVDUYUffuN) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:02 |
 | 69 | [Dos Pastillas de Tequila](https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 74 | [Dónde Estás Terrón](https://open.spotify.com/track/0uQFoFTqVAsZbB85s9xUbv) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:07 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDM4NjE4YTc1YTg3NDdmYjBmZmQ0ZGI4M2U0MjJlM2Ex`
+Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDcwNTdmMDJmYTYzNDMxNDNiNzM1MzY1MzkwYTRjOTgy`

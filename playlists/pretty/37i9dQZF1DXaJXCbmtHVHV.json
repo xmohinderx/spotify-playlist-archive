@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Tyler Hubbard",
-  "num_followers": 486146,
+  "num_followers": 486307,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDRjNTkxMWZjNTFhNzUwZGZlNDdlNjhhMDBiYWY0ZmYy",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDI5YzVmNzVhNTM3YzJhNWY2MzZkZGZiZGY3NjViMDRj",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Brown Eyes Baby",
         "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 224985,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Girl On Fire",
-        "url": "https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 173011,
-      "name": "Girl On Fire",
-      "url": "https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Worth A Shot (feat. Dierks Bentley)",
         "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 274520,
       "name": "Joy Of My Life",
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Girl On Fire",
+        "url": "https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 173011,
+      "name": "Girl On Fire",
+      "url": "https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Doin' This",
-        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 254181,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183573,
       "name": "Hate My Heart",
       "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "down home",
-        "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "down home",
-      "url": "https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Like I Love Country Music",
         "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "down home",
+        "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "down home",
+      "url": "https://open.spotify.com/track/6iai8D40xiwuktWrxcInt1"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Never Say Never (with Lainey Wilson)",
-        "url": "https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Never Say Never (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 186373,
       "name": "At the End of a Bar",
       "url": "https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Never Say Never (with Lainey Wilson)",
+        "url": "https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT"
     },
     {
       "added_at": "2023-01-13 05:00:00",

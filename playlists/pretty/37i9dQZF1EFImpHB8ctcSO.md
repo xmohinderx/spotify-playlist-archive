@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 108 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
 | 109 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
 | 110 | [David Denies](https://open.spotify.com/track/0lrEeTgkmLZUuAGZTkYiqP) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:49 |
-| 111 | [Could've Been Anyone](https://open.spotify.com/track/6Fx1WScVq5wcDFkq514k1t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:23 |
-| 112 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
+| 111 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
+| 112 | [Could've Been Anyone](https://open.spotify.com/track/6Fx1WScVq5wcDFkq514k1t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:23 |
 | 113 | [At the Frick Museum](https://open.spotify.com/track/7ig4rqo1tXp9nkdE8R3RlN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:03 |
 | 114 | [Home by Now](https://open.spotify.com/track/4x2NOPsxy7PZn080V9eBip) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:35 |
 | 115 | [Sugarcoated](https://open.spotify.com/track/1egjoO2XeAd9opUjmroymx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:40 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjc4OTg2MjUsMDAwMDAwMDA3ZWEzODNjM2E4YzhiMDFiNDFjNDRkMGEyZjQ2NjFmYg==`
+Snapshot ID: `Mjc5MDAwNjUsMDAwMDAwMDA4ZDZkZDRkNTQwM2U5YjhhODQyYzFlZjk1MmU2NWI3Mg==`

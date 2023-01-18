@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,700 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,788 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 9 | [Lovers And Friends](https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:20 |
 | 10 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
 | 11 | [ENERGY \(feat\. Beam\)](https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 1:56 |
-| 12 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
-| 13 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 12 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 13 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
 | 14 | [Try Again](https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:44 |
 | 15 | [F\*ck Up Some Commas](https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:57 |
 | 16 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 32 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
 | 33 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
 | 34 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 |
-| 35 | [Top of the World \(feat\. Mase\)](https://open.spotify.com/track/6BxiFSFVzviEqe2eIaruLV) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:41 |
-| 36 | [I'm A Hustla \- Street Mix/ Dirty Version](https://open.spotify.com/track/41D6aNNTmUUd7fWlVNWMN8) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v) | [I'm A Hustla](https://open.spotify.com/album/0bHhBV1joQxtUYcN5LPdq8) | 4:19 |
+| 35 | [I'm A Hustla \- Street Mix/ Dirty Version](https://open.spotify.com/track/41D6aNNTmUUd7fWlVNWMN8) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v) | [I'm A Hustla](https://open.spotify.com/album/0bHhBV1joQxtUYcN5LPdq8) | 4:19 |
+| 36 | [Top of the World \(feat\. Mase\)](https://open.spotify.com/track/6BxiFSFVzviEqe2eIaruLV) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:41 |
 | 37 | [More & More](https://open.spotify.com/track/3Yylgs7Ifs7vLQ84e71RFA) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [And Then...](https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD) | 3:43 |
 | 38 | [No One In the World](https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's R&B Love Songs](https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n) | 4:06 |
 | 39 | [I Got the Keys \(feat\. Jay\-Z & Future\)](https://open.spotify.com/track/51Nwg5wCDDiqcTntgJUlLo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Got the Keys \(feat\. Jay\-Z & Future\)](https://open.spotify.com/album/38yP2GRDDR9i6K8rWwx5gP) | 3:39 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 47 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 |
 | 48 | [Body and Soul](https://open.spotify.com/track/69aOeHaVpr4dxUWBW6F4Rb) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazz Ballads Classics](https://open.spotify.com/album/4OcFF1pGg0qK5xBIJXgQmP) | 5:42 |
 
-Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMDVmMzhjMzIyYzllMzZlODIzYWM0YzAyZDhkNTg0ODdk`
+Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMDIyNDU3YWVkMDE1ZDllZjUyMmU5YTIyMTVlZDVmODU0`

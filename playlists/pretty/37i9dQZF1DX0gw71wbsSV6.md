@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,294 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,313 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 32 | [サーカスナイト](https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [リトルメロディ](https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf) | 6:19 |
 | 33 | [Lovely](https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Lovely](https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1) | 2:56 |
 | 34 | [luv revolution](https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 1:49 |
-| 35 | [Wearing Blue](https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Wearing Blue](https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T) | 4:07 |
+| 35 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
 | 36 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 |
-| 37 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
+| 37 | [Wearing Blue](https://open.spotify.com/track/3aMyQ4wMj9lf1Pf5pvAPoP) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Wearing Blue](https://open.spotify.com/album/4bTluXwaRJR9HyKYeTpY4T) | 4:07 |
 | 38 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
 | 39 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
 | 40 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 |
 | 41 | [Muse](https://open.spotify.com/track/0XPi8CPAu3uznDyctGO4b3) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Muse](https://open.spotify.com/album/2fLg3v8eUI31hNR4BvCjIt) | 4:29 |
 | 42 | [June](https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [June](https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S) | 3:38 |
-| 43 | [ほととぎす \[杜鵑草\]](https://open.spotify.com/track/6o61wyTYwUKbXcyvWUj9cf) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [がらくた](https://open.spotify.com/album/05ADxsDCWkH1oVNO5WUPo5) | 5:46 |
-| 44 | [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 |
+| 43 | [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 |
+| 44 | [ほととぎす \[杜鵑草\]](https://open.spotify.com/track/6o61wyTYwUKbXcyvWUj9cf) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [がらくた](https://open.spotify.com/album/05ADxsDCWkH1oVNO5WUPo5) | 5:46 |
 | 45 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
 | 46 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 |
 | 47 | [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Found Me](https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Found Me](https://open.spotify.com/album/01zeKCZ5z10YZVvoBnMTta) | 3:03 |
 | 50 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGNhNWY3MDRiNzZiZTQ1YjBlYmVjYjdmZjBmN2U3NDQy`
+Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMGY1NGIwN2Q3NjIzMTIwYWFjMWRjMDU3MDFjZGFmZmU1`

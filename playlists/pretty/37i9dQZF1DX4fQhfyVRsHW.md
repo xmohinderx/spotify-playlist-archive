@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,019 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,058 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 88 | [Take Me To The Moon](https://open.spotify.com/track/5drHLBwFielOcquGuNIWgV) | [Kayleigh Nixon](https://open.spotify.com/artist/7BqpJHB5B3DUc9kiIgeoDL) | [Take Me To The Moon](https://open.spotify.com/album/4CAxN5Sxnnajk2aVq2xCI4) | 3:10 |
 | 89 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 |
 | 90 | [Coming Home](https://open.spotify.com/track/7aK0mcXTJ8SsDtXpELk19Z) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Positivity](https://open.spotify.com/album/716VE9ewUzN8m0TzuypI4W) | 3:20 |
-| 91 | [El canto de los pájaros](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Noche de Lluvia](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 |
+| 91 | [Looby Loo](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Natsuo Miyauchi](https://open.spotify.com/artist/5mY65Lrn8IWhyyDWIy7BjF) | [Five Little Speckled Frogs](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 |
 | 92 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 |
 | 93 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 |
 | 94 | [Embrace the Light](https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Embrace the Light](https://open.spotify.com/album/4O6JKe83iRSaZRKvXurpqG) | 3:06 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-690 songs - 1 day 13 hr 27 min
+692 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Diamond](https://open.spotify.com/track/4c7UDUrZj5P2yltoJslXHi) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Diamond](https://open.spotify.com/album/1KCr941XpGxiUNvDk1UerK) | 2:32 | 2022-09-02 |  |
 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 | 2022-01-11 | 2022-05-20 |
 | [Didaar](https://open.spotify.com/track/42jR51fiO0ezDddHJQx3C8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Didaar](https://open.spotify.com/album/5OCsHIkrlip8ZRhijkMb91) | 3:19 | 2022-12-08 |  |
+| [Dil Da Black](https://open.spotify.com/track/4Pgeqx1IIGAg3dk2cTvdPT) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Dil Da Black](https://open.spotify.com/album/48uEdxy96VLfJw0kGL4LjL) | 2:39 | 2023-01-17 |  |
 | [Dil De Kamre](https://open.spotify.com/track/0vXTsIh8hgfOm8n3ppWgsr) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Dil De Kamre](https://open.spotify.com/album/2WsBlkPIuwcQwJCZUDWmVW) | 2:26 | 2022-07-28 | 2022-12-16 |
 | [Dil Diyan Baatan](https://open.spotify.com/track/7w7w36WlNUGOY1cdtksqRT) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7), [Aanchal Sethi](https://open.spotify.com/artist/5UDXYKkOni0Dz2gAa3y34B) | [Dil Diyan Baatan](https://open.spotify.com/album/0rPsn2AW2FfdOFjL3tnFCR) | 3:56 | 2022-07-08 | 2022-07-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
@@ -255,6 +256,7 @@
 | [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E), [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 |  |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 |  |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
+| [Jatta Tere Warga](https://open.spotify.com/track/2Iqur6LUAk1tdcXqVBmdhE) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jatta Tere Warga](https://open.spotify.com/album/4iViwnZX5P5CpNGbsH2NPX) | 2:18 | 2023-01-17 |  |
 | [Jatta Ve](https://open.spotify.com/track/4quaGji0veFnE69rm9RUDi) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Jatta Ve](https://open.spotify.com/album/6Y6FuWImBPm7ySk9bdDe94) | 4:55 | 2022-02-04 | 2022-04-06 |
 | [Jattan Wali Gall](https://open.spotify.com/track/3PXsNKDpM3iZaliXiAJVEq) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Jattan Wali Gall](https://open.spotify.com/album/6VjC7C2tBxGCUXrvszqbGe) | 3:04 | 2022-11-11 |  |
 | [Jattiye](https://open.spotify.com/track/3UxN9a4acByejDEgrrCNVT) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Jattiye](https://open.spotify.com/album/2k1AtVajNAci4hb6Omtqvs) | 2:43 | 2022-08-31 | 2022-09-03 |

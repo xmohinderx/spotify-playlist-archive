@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: poptropicaslutz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,040 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,180 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 |
-| 2 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
-| 3 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 |
-| 4 | [starfruit](https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [starfruit](https://open.spotify.com/album/5AoomEUsHEC37DDjCJvAQu) | 3:21 |
-| 5 | [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 |
-| 6 | [offense mechanism](https://open.spotify.com/track/4Rgb4JMqW2WyTkseioLXi7) | [defsharp](https://open.spotify.com/artist/5fUV5J5Y5iGx9loIfKgRom) | [offense mechanism](https://open.spotify.com/album/3GVG5tPERhnalSNGlrxfyD) | 4:19 |
-| 7 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 |
+| 2 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 |
+| 3 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
+| 4 | [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 |
+| 5 | [offense mechanism](https://open.spotify.com/track/4Rgb4JMqW2WyTkseioLXi7) | [defsharp](https://open.spotify.com/artist/5fUV5J5Y5iGx9loIfKgRom) | [offense mechanism](https://open.spotify.com/album/3GVG5tPERhnalSNGlrxfyD) | 4:19 |
+| 6 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 |
+| 7 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 |
 | 8 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 9 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 |
-| 10 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
-| 11 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 |
-| 12 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
-| 13 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
-| 14 | [50/50](https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [50/50](https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY) | 2:48 |
-| 15 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 |
-| 16 | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7) | 2:37 |
-| 17 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
-| 18 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 |
-| 19 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 |
-| 20 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 |
-| 21 | [Muse](https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Muse](https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F) | 1:49 |
-| 22 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
+| 10 | [starfruit](https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [starfruit](https://open.spotify.com/album/5AoomEUsHEC37DDjCJvAQu) | 3:21 |
+| 11 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 |
+| 12 | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7) | 2:37 |
+| 13 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 |
+| 14 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
+| 15 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 |
+| 16 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 |
+| 17 | [50/50](https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [50/50](https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY) | 2:48 |
+| 18 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 |
+| 19 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
+| 20 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 |
+| 21 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 |
+| 22 | [Muse](https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Muse](https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F) | 1:49 |
 | 23 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
 | 24 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 |
 | 25 | [Shadows](https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Shadows](https://open.spotify.com/album/3X1ybNkRWynmnL3SikiTJL) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 59 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 |
 | 60 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGRlYWFmZTM3NTM0NDY3NTFiZDExM2U4ZWNjMTU5MTEy`
+Snapshot ID: `MTY3Mzk2OTczNCwwMDAwMDAwMDg4NzRjMzZjZmVlZGIzYWE3MjIyOWRhYTUyNzI4MzQ0`

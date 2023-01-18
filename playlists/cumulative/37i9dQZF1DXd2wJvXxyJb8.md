@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> q q eh birimbola?
+> A partir de hoje só leio em abril
 
 198 songs - 9 hr 9 min
 

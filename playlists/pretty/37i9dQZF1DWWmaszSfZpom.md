@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,658 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,682 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 36 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |
 | 37 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
 | 38 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
-| 39 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
-| 40 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
+| 39 | [Hold On](https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g) | [very man](https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR) | [Hold On](https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT) | 2:59 |
+| 40 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
 | 41 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
 | 42 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 43 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDgxYzlkZTY1MjcwM2I5ZTg0NmM3Y2VjYWFmMDRkYjg4`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDM3YzU0YmNhOTI4Njg1YjY2N2NiMzcxZGZiNjYwNGM4`

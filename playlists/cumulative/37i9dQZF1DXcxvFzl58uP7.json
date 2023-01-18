@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162575,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/46dUB7Ej08JAdpZmwSRs8E"
+    },
+    {
+      "album": {
         "name": "Built For This",
         "url": "https://open.spotify.com/album/6GBOLgT39B6LnKP2ky3O63"
       },
@@ -4082,7 +4100,7 @@
           "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "date_added": "2023-01-13",
+      "date_added": "2023-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 125793,
@@ -13074,7 +13092,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 219833,
       "name": "THE BOTTOM",
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"

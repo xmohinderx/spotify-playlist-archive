@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,676 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,724 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 12 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 |
 | 13 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 |
 | 14 | [Bondia](https://open.spotify.com/track/5fu9Sc4DNuvQMWo5BxmgKH) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:59 |
-| 15 | [Mazalna](https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz) | 3:22 |
+| 15 | [Mazalna](https://open.spotify.com/track/2sDK5bXfWaIpJdYdQJwXJK) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/2Y2EHx5dXgd1UEWn2xP8EQ) | 3:22 |
 | 16 | [Tal Sebri](https://open.spotify.com/track/4G7OIVLbpp7BnNrpDDVgPJ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Youcef Gdh](https://open.spotify.com/artist/5oO5vd9qs9GJ1bFE4OZbM9) | [Tal Sebri](https://open.spotify.com/album/7FitafHMcsT0DiYZY019Ih) | 3:22 |
 | 17 | [Jacuzzi](https://open.spotify.com/track/0tHcl65zImDRYFFRkfxrNz) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 3:05 |
 | 18 | [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 |
 | 19 | [Wahrani](https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Wahrani](https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep) | 2:43 |
 | 20 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 |
-| 21 | [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 |
+| 21 | [Achfa](https://open.spotify.com/track/0Q7rY5KgKlvmBjvYYMpEFM) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/5C8huomQsXZdimYXBFQxEw) | 3:40 |
 | 22 | [Hinata](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Hinata](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 |
 | 23 | [Liyam](https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Liyam](https://open.spotify.com/album/56kMBEY2KFd8ua913PoSq4) | 3:21 |
 | 24 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 |
 | 50 | [Nostalgia](https://open.spotify.com/track/4tEw6bifHyNYiWY04AA4AG) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/2oqxBfFJJmFRs2DQikkWjK) | 2:34 |
 
-Snapshot ID: `MTY3MzU5Nzc4NSwwMDAwMDAwMGU5ZmRlYWNjNGYzMzJmYjY4MjhkMTk0ZTc4ODllMGYz`
+Snapshot ID: `MTY3MzU5Nzc4NSwwMDAwMDAwMDhkYzNjODM2ZGMzYTYwYWNkZWM4OWNjMzczN2MxOWYy`

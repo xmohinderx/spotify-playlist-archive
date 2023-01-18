@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 239299,
+  "num_followers": 239603,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGM2MzNmYTY5M2NiMDY0YjVjNmU2YjExZGY3MmVmYWQ1",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDc2YTE2NzAwMzBiY2Q5YjEzYWE2NjM0MzgyZjAzZDdj",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
       "added_at": "2022-03-31 19:45:13",
       "album": {
         "name": "The Captain and Me",
@@ -667,6 +651,22 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
       "added_at": "2022-06-15 19:50:25",
       "album": {
         "name": "But Seriously, Folks...",
@@ -765,20 +749,20 @@
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
-      "added_at": "2022-03-04 19:14:07",
+      "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Van Halen II (Remastered)",
-        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 188083,
-      "name": "Dance the Night Away - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -795,6 +779,22 @@
       "duration_ms": 279360,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
+    },
+    {
+      "added_at": "2022-03-04 19:14:07",
+      "album": {
+        "name": "Van Halen II (Remastered)",
+        "url": "https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Dance the Night Away - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
     },
     {
       "added_at": "2022-03-04 19:00:59",

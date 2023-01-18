@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,018 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,029 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 22 | [Desafinado](https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:12 |
 | 23 | [Las colinas del priorato](https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Las colinas del priorato](https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot) | 1:31 |
 | 24 | [Asi Bailaba Cuba \- Instrumental](https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 5:33 |
-| 25 | [Señorita](https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB) | [Tony Soleno](https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd) | [Señorita](https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf) | 3:21 |
-| 26 | [Zéphyrine](https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:20 |
+| 25 | [Zéphyrine](https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:20 |
+| 26 | [Señorita](https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB) | [Tony Soleno](https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd) | [Señorita](https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf) | 3:21 |
 | 27 | [Tres Palabras](https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:43 |
-| 28 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
-| 29 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
+| 28 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
+| 29 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
 | 30 | [Suavecito / En Manzanillo Se Baila el Son \(Sones\)](https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w) | [Enrique Chia](https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9), [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Sones y Tradiciones \(feat\. Cachao\)](https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte) | 6:18 |
-| 31 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
+| 31 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
 | 32 | [Son de la Loma](https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:29 |
 | 33 | [La Paloma \- Yradier](https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 3:15 |
 | 34 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Señor Danzon](https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ) | [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [Bernardo Sassetti](https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf) | [Cuba Cuba](https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX) | 3:28 |
 | 50 | [One Note Samba](https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops \(Original Album Plus Bonus Tracks 1962\)](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:52 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDI3MWRjOTA0MGI4MGQ0NDg2MTg0ZTlhZjZkNmFhMDJm`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDg4MzA5ZWE2YWExNTRjYjU0M2NmOTFlZGNlZDcyNmY3`

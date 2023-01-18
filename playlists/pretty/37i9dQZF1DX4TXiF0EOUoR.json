@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 110651,
+  "num_followers": 110785,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGI0YmU4OWQ0YzlhYmE4OWUyNWE5MjkyMDI2NmU5Y2Iz",
+  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMDQzY2E1OTlhZWVkMWJiMjk1ZjY2MmNjYTlhNzA3Nzhj",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Zapateado Endemoniado",
         "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 168600,
       "name": "Orden\u0303ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "C\u00f3mo Me Duele",
-      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Me Gusta Todo De Ti",
         "url": "https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Que Bonito Es Lo Bonito",
         "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 166093,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 200305,
+      "name": "Huapango el Pistolero",
+      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -463,22 +479,6 @@
       "duration_ms": 509826,
       "name": "Popurr\u00ed: Las Vaquillas Cabronas",
       "url": "https://open.spotify.com/track/0mFUqKd7VxTNNMfHefoxwS"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 200305,
-      "name": "Huapango el Pistolero",
-      "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Aquel Amor (Desde Tingambato Michoacan)",
-        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
       },
       "artists": [
         {
-          "name": "Banda los Chirimoyos",
-          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 246903,
-      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+      "duration_ms": 198347,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/00UCfwswH8Tw9XMDxxvB5Y"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
         }
       ],
-      "duration_ms": 198347,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/00UCfwswH8Tw9XMDxxvB5Y"
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
       },
       "artists": [
         {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Las Huiliotas",
-      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
+      "duration_ms": 216163,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
         }
       ],
-      "duration_ms": 216163,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+      "duration_ms": 241946,
+      "name": "Las Huiliotas",
+      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
-      },
-      "artists": [
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+      },
+      "artists": [
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
+        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "El Tiliche",
+      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "El Toro Meko",
         "url": "https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
-        "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "El Tiliche",
-      "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Volver\u00e9",
         "url": "https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
       "artists": [
         {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
         }
       ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 161946,
       "name": "La Feria de Cali",
       "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "La Reyna de los Sones",
         "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202760,
       "name": "La Diana Ranchera",
       "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2022-12-30 18:59:47",

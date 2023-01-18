@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-130 songs - 9 hr 10 min
+131 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [hello](https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Amiko \(Original Soundtrack\)](https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w) | 4:00 | 2022-10-20 |  |
 | [Hibi no Tezawari](https://open.spotify.com/track/6ViBB1UJ6YTeIAbKR3KPRu) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hibi no Tezawari](https://open.spotify.com/album/2M9nbcQSeIYQbis8zj48Xz) | 4:30 | 2022-10-20 | 2022-11-02 |
 | [Higashi Yoshino](https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS), [Bioman](https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM) | [Villa Tereze](https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV) | 1:18 | 2022-10-20 |  |
-| [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 |  |
+| [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-01-18 |
 | [if you just smile\(もし君が微笑んだら\)](https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 6:11 | 2022-10-20 | 2022-11-09 |
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-11-08 | 2022-11-16 |
 | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO) | 5:57 | 2023-01-03 |  |
@@ -62,7 +62,7 @@
 | [Runaway](https://open.spotify.com/track/7vPO57xxaEwGwc44bDn71X) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Runaway](https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe) | 3:11 | 2022-10-20 | 2022-11-25 |
 | [Ruriiro no Chikyu \-Mirai eno Kokai Version\-](https://open.spotify.com/track/0lgRw4u5KMlocLsJCOtRWV) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Ruriiro no Chikyu \-Mirai eno Kokai Version\-](https://open.spotify.com/album/0em6bO9StjhA7BdMH8ZrLM) | 4:41 | 2022-10-25 | 2022-11-23 |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-20 | 2022-12-03 |
-| [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-29 | 2022-12-21 |
+| [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-29 |  |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 |  |
 | [Skiffle Song](https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [けものたちの名前](https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt) | 5:16 | 2022-10-20 | 2023-01-13 |
 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 | 2022-11-01 |  |
@@ -131,12 +131,13 @@
 | [瑠璃色の地球\(「この地球の日々たちへ」バージョン\)](https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Aoi Works II](https://open.spotify.com/album/64FUZjyuDC5S9siqurAmcs) | 4:09 | 2022-11-01 |  |
 | [眠れぬ夜は君のせい](https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [KISS IN THE SKY](https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD) | 5:22 | 2022-11-23 |  |
 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 | 2022-10-25 | 2023-01-04 |
-| [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 | 2022-10-20 |  |
+| [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 | 2022-10-20 | 2023-01-18 |
 | [糸](https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:07 | 2022-11-27 |  |
 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 | 2022-10-20 |  |
 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 | 2022-10-20 |  |
 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 | 2022-10-20 |  |
 | [街路樹](https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn) | [Tsuyoshi Nariyama](https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y) | [novelette](https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk) | 5:01 | 2022-10-20 |  |
+| [銀ちゃん](https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [銀ちゃん/Sea song\-324P REMIX\-](https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n) | 4:21 | 2023-01-17 |  |
 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 | 2022-10-20 |  |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 9255,
+  "num_followers": 9284,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5ODE5OCwwMDAwMDAwMGUxMWZiZmNhZWYzN2Y4OWFmMTVjY2Q5YzliYjQ0MzY5",
+  "snapshot_id": "MTY3MzU5ODE5OCwwMDAwMDAwMGNhY2FiYmQ1ZTQ3ZjAzYjcyNjExZmY5OGY2NDA2MWYy",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
-      "added_at": "2023-01-17 00:23:10",
+      "added_at": "2023-01-18 00:31:22",
       "album": {
         "name": "Koma",
         "url": "https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo"
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
+      "added_at": "2022-04-28 23:00:00",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Big Flexa",
@@ -369,22 +385,6 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
       "added_at": "2022-03-29 06:00:35",
       "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
+      "added_at": "2022-07-04 07:22:23",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-09-30 06:49:33",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Polongo",
-        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
-      },
-      "artists": [
-        {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Polongo",
-      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
-    },
-    {
       "added_at": "2022-11-18 11:45:01",
       "album": {
         "name": "KOTTO",
@@ -727,6 +711,22 @@
       "duration_ms": 230187,
       "name": "KOTTO",
       "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Polongo",
+        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Polongo",
+      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
     },
     {
       "added_at": "2022-10-07 12:08:55",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt"
     },
     {
+      "added_at": "2022-11-25 07:49:53",
+      "album": {
+        "name": "Holla Me",
+        "url": "https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 134594,
+      "name": "Holla Me",
+      "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
+    },
+    {
       "added_at": "2022-08-12 05:43:18",
       "album": {
         "name": "Jaiye Foreign",
@@ -837,20 +853,24 @@
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
-      "added_at": "2022-11-25 07:49:53",
+      "added_at": "2022-12-02 04:56:00",
       "album": {
-        "name": "Holla Me",
-        "url": "https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy"
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
       },
       "artists": [
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
         }
       ],
-      "duration_ms": 134594,
-      "name": "Holla Me",
-      "url": "https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR"
+      "duration_ms": 130477,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
     },
     {
       "added_at": "2022-07-25 06:25:14",
@@ -875,26 +895,6 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": "2022-12-02 04:56:00",
-      "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 130477,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1081,6 +1081,26 @@
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Turkey Nla",
+        "url": "https://open.spotify.com/album/2XuIjzprhWmIMOjSHdNMAL"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Turkey Nla (Remix)",
+      "url": "https://open.spotify.com/track/70u9ZcQTuh6Px72BpoQWIj"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "LITTLE & LEGENDARY",
@@ -1111,26 +1131,6 @@
       "duration_ms": 234404,
       "name": "Jaiye (Ihe Geme)",
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Turkey Nla",
-        "url": "https://open.spotify.com/album/2XuIjzprhWmIMOjSHdNMAL"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Turkey Nla (Remix)",
-      "url": "https://open.spotify.com/track/70u9ZcQTuh6Px72BpoQWIj"
     },
     {
       "added_at": "2022-08-12 05:43:18",

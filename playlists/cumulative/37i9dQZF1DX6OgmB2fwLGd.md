@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-516 songs - 21 hr 21 min
+517 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 | 2022-08-06 | 2022-08-31 |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-10-07 |  |
 | [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 | 2021-09-01 | 2022-02-19 |
+| [Hadley](https://open.spotify.com/track/04S2P8Gey35cemIoXpm5dq) | [Papo2oo4](https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2), [DJ Lucas](https://open.spotify.com/artist/59RfTIZiLYFmPWUDeQQkC3), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV), [Finesse Fresco](https://open.spotify.com/artist/0yognOOsFPVKGXhC4zXTF7) | [Continuous Improvement](https://open.spotify.com/album/3dBYOox9czS4KgF2pg3owz) | 2:54 | 2023-01-17 |  |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2021-11-12 | 2022-04-09 |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-21 |  |
 | [hell yeah](https://open.spotify.com/track/7GGE6Ye9dzjx1ANzDDqVNM) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [hell yeah](https://open.spotify.com/album/6NPKOCB3H4TGR6EfUcCxB6) | 1:58 | 2022-08-19 |  |
@@ -263,7 +264,7 @@
 | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/track/44jbVr6FfDXB6mbqyvS7ir) | [Shooter McShootem](https://open.spotify.com/artist/0iYOm5jZveoUVliLeAP8xE) | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/album/5AAdGxRnMIWBZ0K0BiWqci) | 3:08 | 2022-03-01 | 2022-04-26 |
 | [Ivy](https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/60jHOsOAVmUxXEt8AKQ6nc) | 2:00 | 2021-11-19 | 2022-02-26 |
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2021-12-03 | 2022-04-26 |
-| [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 | 2022-08-26 |  |
+| [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 | 2022-08-26 | 2023-01-18 |
 | [JELEEL JUICE!](https://open.spotify.com/track/2Diz85eMch17UsnrZ7Ci8q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [JELEEL JUICE!](https://open.spotify.com/album/4Pxe2pgK8vIFfBXjw1WEiT) | 1:44 | 2022-04-01 | 2022-04-20 |
 | [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 | 2022-06-07 | 2022-07-22 |
 | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Jesus Is The One \(I Got Depression\)](https://open.spotify.com/album/4M8vfAVCrE4H0Qg25TyYyz) | 1:52 | 2022-01-05 | 2022-02-26 |

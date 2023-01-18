@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5465\)
+## Playlists \(5467\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1307,6 +1307,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Disco Hi\-Life](/playlists/pretty/37i9dQZF1DXbS8bPVXXR2B.md)
 - [Discover Weekly \(@catzs\)](/playlists/pretty/37i9dQZEVXcJR8Ys0NBejf.md)
 - [Discover Weekly \(@mackorone\)](/playlists/pretty/37i9dQZEVXcRuMXvgjbNNg.md)
+- [Discover: New Latin Albums](/playlists/pretty/37i9dQZF1DWVxf0LotrLLG.md)
 - [Disney Christmas](/playlists/pretty/37i9dQZF1DX10JY0qJoWDu.md)
 - [Disney Classical](/playlists/pretty/37i9dQZF1DWVJd52AtCSiR.md)
 - [Disney Favorites](/playlists/pretty/37i9dQZF1DWVs8I62NcHks.md)
@@ -2358,6 +2359,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Las Románticas de Mamá](/playlists/pretty/37i9dQZF1DWZa22FVzx47m.md)
 - [Las Vegas Pool Party](/playlists/pretty/37i9dQZF1DXdMS2nFQ7EO0.md)
 - [Laser Disco](/playlists/pretty/37i9dQZF1DX11pUHJdXMnN.md)
+- [Late Night Beats](/playlists/pretty/37i9dQZF1DXdipfKDeMPTE.md)
 - [Late Night Jazz](/playlists/pretty/37i9dQZF1DX4wta20PHgwo.md)
 - [Late Night Nature](/playlists/pretty/37i9dQZF1DX709Kv0V067V.md)
 - [Latest Dance Tamil](/playlists/pretty/37i9dQZF1DX7vl8XKmpwdM.md)
@@ -2677,7 +2679,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Mood Swing](/playlists/pretty/37i9dQZF1DXalD3w3b88aW.md)
 - [Moody Mix](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md)
 - [MoogTube](/playlists/pretty/37i9dQZF1DWUG71vGUBGjh.md)
-- [Moonlight Beats](/playlists/pretty/37i9dQZF1DXdipfKDeMPTE.md)
 - [More Banjo!](/playlists/pretty/1W2XJETQjFYdzT4GuhBHmS.md)
 - [Morning Acoustic](/playlists/pretty/37i9dQZF1DXdd3gw5QVjt9.md)
 - [Morning Blues](/playlists/pretty/37i9dQZF1DX0vfpJ74tSuo.md)
@@ -2831,7 +2832,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [New Year's 2015](/playlists/pretty/2FjbiwWYHqEifO3VY5LYP8.md)
 - [New Year's Dance Floor](/playlists/pretty/37i9dQZF1DX1ZrmwZWFpDG.md)
 - [New Year's Eve 2023](/playlists/pretty/37i9dQZF1DX1YMPNuWL6BX.md)
-- [New Year's Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [New York Salsa](/playlists/pretty/37i9dQZF1DX27Dfa7kD6dg.md)
 - [New year's eve by Icona Pop](/playlists/pretty/3ukqAcaahACMyRzpkwHXew.md)
 - [Next Classical](/playlists/pretty/37i9dQZF1DX6Oqe1LC2A2s.md)
@@ -3036,6 +3036,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Perrear y Llorar](/playlists/pretty/37i9dQZF1DWXYWuNDAdJsw.md)
 - [Perreo Bellakoso](/playlists/pretty/37i9dQZF1DWUdsUUs0FzN4.md)
 - [Perreo City](/playlists/pretty/37i9dQZF1DWUlCmB8llCTB.md)
+- [Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Perreo Viral](/playlists/pretty/37i9dQZF1DX8vTpEmKeKvc.md)
 - [Perreo Workout](/playlists/pretty/37i9dQZF1DX9ZKyQHcEFXZ.md)
 - [Perreo a Poca Luz](/playlists/pretty/37i9dQZF1DX0SZWVrotKn1.md)
@@ -5229,7 +5230,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [bad bunny perreo mix](/playlists/pretty/37i9dQZF1DWWIAiOhAAyKX.md)
 - [badass](/playlists/pretty/37i9dQZF1DX2I7Ykltk83m.md)
 - [big on the internet](/playlists/pretty/37i9dQZF1DX5Vy6DFOcx00.md)
-- [blush](/playlists/pretty/549U15ndPwRlK1RkC5mZSD.md)
+- [blush](/playlists/pretty/37i9dQZF1DXcUY9O5yRihK.md)
+- [blush \(2\)](/playlists/pretty/549U15ndPwRlK1RkC5mZSD.md)
 - [bohemia tranqui](/playlists/pretty/37i9dQZF1DX27Vvs8ZCWJn.md)
 - [borderless](/playlists/pretty/37i9dQZF1DWZJmo7mlltU6.md)
 - [boys cast](/playlists/pretty/0kfqBZx9obUKiLVDwTqGly.md)

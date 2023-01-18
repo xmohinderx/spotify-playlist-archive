@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
-  "num_followers": 540659,
+  "num_followers": 540767,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODAwMCwwMDAwMDAwMGI5ZTk5NmFmZjExMTBkYmI4NTlhYWJiYTAyZTZlNzAx",
+  "snapshot_id": "MTY3MzU2ODAwMCwwMDAwMDAwMDY5ZjVmYTJmMTNlYWQzOTBiOWQyNDRlZDM5ZDkwMjgx",
   "tracks": [
     {
       "added_at": "2023-01-13 00:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -263,6 +259,26 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 217989,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 188374,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "is this what i look like?",
-        "url": "https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH"
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
       },
       "artists": [
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 154830,
-      "name": "Careless Kind",
-      "url": "https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz"
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+        "name": "is this what i look like?",
+        "url": "https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH"
       },
       "artists": [
         {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+      "duration_ms": 154830,
+      "name": "Careless Kind",
+      "url": "https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "SiCK ABOuT U",
         "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
       },
@@ -1103,34 +1103,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
         }
       ],
-      "duration_ms": 165682,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+      "duration_ms": 185070,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 138720,
       "name": "WE'RE NOT STRANGERS",
       "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/5roYKXhHbcu9zFQrsAbQgp"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 165682,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3sYPS9z6s8UkChnhztaV50"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Your Love Was My Drug Too",
-        "url": "https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5"
-      },
-      "artists": [
-        {
-          "name": "Dallas",
-          "url": "https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Your Love Was My Drug Too",
-      "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 193960,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Your Love Was My Drug Too",
+        "url": "https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5"
+      },
+      "artists": [
+        {
+          "name": "Dallas",
+          "url": "https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Your Love Was My Drug Too",
+      "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Tom in 03",
+        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 141671,
+      "name": "Tom in 03",
+      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 146000,
       "name": "Shaking Your Mind",
       "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

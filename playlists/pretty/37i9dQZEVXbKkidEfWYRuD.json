@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 21599,
+  "num_followers": 21642,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI3MTgxNDQzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI3MjY4NDkxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "POPSTAR",
-        "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
-      },
-      "artists": [
-        {
-          "name": "INSTASAMKA",
-          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
-        }
-      ],
-      "duration_ms": 119475,
-      "name": "\u0417\u0410 \u0414\u0415\u041d\u042c\u0413\u0418 \u0414\u0410",
-      "url": "https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln"
@@ -45,23 +29,23 @@
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
         }
       ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+      "duration_ms": 119475,
+      "name": "\u0417\u0410 \u0414\u0415\u041d\u042c\u0413\u0418 \u0414\u0410",
+      "url": "https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u041f\u0440\u043e\u0432\u0435\u043b\u0430 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u044e",
         "url": "https://open.spotify.com/album/7ER9vYZCXDjJ4C93fPJYyW"
@@ -77,7 +61,39 @@
       "url": "https://open.spotify.com/track/3h9XZd7ZON6LubTC3AqwzT"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
@@ -109,7 +125,55 @@
       "url": "https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0427\u0443\u0442\u0438 \u0433\u0456\u043c\u043d",
+        "url": "https://open.spotify.com/album/4CDvAEwF29rYx7Jg2bpl22"
+      },
+      "artists": [
+        {
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
+        }
+      ],
+      "duration_ms": 148192,
+      "name": "\u0427\u0443\u0442\u0438 \u0433\u0456\u043c\u043d",
+      "url": "https://open.spotify.com/track/4Yzlz45QgjUKZmN2KrK4AP"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "duration_ms": 144235,
+      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/72fSHT2Wo8DPHGlBvnYAKg"
@@ -129,71 +193,7 @@
       "url": "https://open.spotify.com/track/38ZskbGWFp79YXpjIT7hfs"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0427\u0443\u0442\u0438 \u0433\u0456\u043c\u043d",
-        "url": "https://open.spotify.com/album/4CDvAEwF29rYx7Jg2bpl22"
-      },
-      "artists": [
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 148192,
-      "name": "\u0427\u0443\u0442\u0438 \u0433\u0456\u043c\u043d",
-      "url": "https://open.spotify.com/track/4Yzlz45QgjUKZmN2KrK4AP"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Cassette",
-        "url": "https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF"
-      },
-      "artists": [
-        {
-          "name": "SadSvit",
-          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
-        }
-      ],
-      "duration_ms": 144235,
-      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Really Rich",
         "url": "https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/0ePYZtHRuP9NZqlkEDCaC4"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
@@ -253,7 +253,23 @@
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
+        "url": "https://open.spotify.com/album/00hex8Oa9MjhX3IVjj81sb"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 110526,
+      "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
+      "url": "https://open.spotify.com/track/7krNeHssTmY3ijTox4OBbD"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "5IVE",
         "url": "https://open.spotify.com/album/4YOwEVRxXTTnq5taJ3fT7J"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2kLmAwQCBSlvtcptioAoTv"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
@@ -285,27 +301,7 @@
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
-        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u0414\u043e\u0434\u043e\u043c\u0443 (feat. Skofka)",
-      "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
@@ -325,39 +321,7 @@
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
-        "url": "https://open.spotify.com/album/00hex8Oa9MjhX3IVjj81sb"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "\u0429\u043e\u0431 \u043d\u0435 \u0431\u0443\u043b\u043e",
-      "url": "https://open.spotify.com/track/7krNeHssTmY3ijTox4OBbD"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "mana break",
-        "url": "https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o"
-      },
-      "artists": [
-        {
-          "name": "zxcursed",
-          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
-        }
-      ],
-      "duration_ms": 93730,
-      "name": "mana break",
-      "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -373,71 +337,27 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo"
+        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
+        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+      "duration_ms": 216000,
+      "name": "\u0414\u043e\u0434\u043e\u043c\u0443 (feat. Skofka)",
+      "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Like A G6",
-        "url": "https://open.spotify.com/album/6jPVgoDrLrS7dfFH46RD6y"
-      },
-      "artists": [
-        {
-          "name": "Big Baby Tape",
-          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Like A G6",
-      "url": "https://open.spotify.com/track/5BY094QwLvZFh737Ytvgpy"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Never Broke Again",
-        "url": "https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI"
-      },
-      "artists": [
-        {
-          "name": "xxxmanera",
-          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
-        }
-      ],
-      "duration_ms": 108068,
-      "name": "Never Broke Again",
-      "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u0456\u043d\u0448\u0430 \u043b\u044e\u0431\u043e\u0432",
         "url": "https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg"
@@ -453,7 +373,119 @@
       "url": "https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Never Broke Again",
+        "url": "https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI"
+      },
+      "artists": [
+        {
+          "name": "xxxmanera",
+          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
+        }
+      ],
+      "duration_ms": 108068,
+      "name": "Never Broke Again",
+      "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "mana break",
+        "url": "https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o"
+      },
+      "artists": [
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        }
+      ],
+      "duration_ms": 93730,
+      "name": "mana break",
+      "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 115555,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Like A G6",
+        "url": "https://open.spotify.com/album/6jPVgoDrLrS7dfFH46RD6y"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/5BY094QwLvZFh737Ytvgpy"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
@@ -473,23 +505,107 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
+        "url": "https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
+      "url": "https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "GHOST!",
+        "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "GHOST!",
+      "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx"
+      },
+      "artists": [
+        {
+          "name": "100\u043b\u0438\u0446\u044f",
+          "url": "https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Stefania (Kalush Orchestra)",
         "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
@@ -509,75 +625,7 @@
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "GHOST!",
-        "url": "https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3"
-      },
-      "artists": [
-        {
-          "name": "phonk.me",
-          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
-        },
-        {
-          "name": "KIIXSHI",
-          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "GHOST!",
-      "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
@@ -597,23 +645,7 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
-        "url": "https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx"
-      },
-      "artists": [
-        {
-          "name": "100\u043b\u0438\u0446\u044f",
-          "url": "https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
-      "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -629,39 +661,7 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "POPSTAR",
-        "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
-      },
-      "artists": [
-        {
-          "name": "INSTASAMKA",
-          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
-        }
-      ],
-      "duration_ms": 138036,
-      "name": "POPSTAR",
-      "url": "https://open.spotify.com/track/7itGrDB969S4fJc4GDodiA"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
-        "url": "https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "\u0411\u0456\u043b\u044f \u0441\u0435\u0440\u0446\u044f",
-      "url": "https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u0414\u0443\u043c\u0438",
         "url": "https://open.spotify.com/album/2y2j37kI9RbPyLWZoCTtup"
@@ -697,107 +697,23 @@
       "url": "https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "DISORDER",
-        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
+        "name": "\u0414\u043e\u0432\u0431\u0443\u0448",
+        "url": "https://open.spotify.com/album/4yvze8pHGFIcEXZwd17hVs"
       },
       "artists": [
         {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+          "name": "Fiinka",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
         }
       ],
-      "duration_ms": 120428,
-      "name": "WASTE",
-      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+      "duration_ms": 180342,
+      "name": "\u0414\u043e\u0432\u0431\u0443\u0448",
+      "url": "https://open.spotify.com/track/4Z37y7sR5Y5LMGVyjabXhi"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u043c\u0430\u0448\u0430",
-        "url": "https://open.spotify.com/album/0wcEoN1N8t2IpmeFIRa3Fy"
-      },
-      "artists": [
-        {
-          "name": "\u041f\u041e\u041b\u041c\u0410\u0422\u0415\u0420\u0418",
-          "url": "https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1"
-        }
-      ],
-      "duration_ms": 115365,
-      "name": "\u043c\u0430\u0448\u0430",
-      "url": "https://open.spotify.com/track/64epifHS5CvRUVgKEDbRJm"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 115555,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
-        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
-      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "\u041c\u043e\u043d\u0440\u043e",
-        "url": "https://open.spotify.com/album/779yXJAnctvHVmTyucyR9z"
-      },
-      "artists": [
-        {
-          "name": "Slavik Pogosov",
-          "url": "https://open.spotify.com/artist/7ubYmOh5PslycthkShmKS6"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "\u041c\u043e\u043d\u0440\u043e",
-      "url": "https://open.spotify.com/track/5sQpS3fyw6VBpPioNlrCn1"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
-      "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u0411\u0456\u043b\u044f \u0442\u043e\u043f\u043e\u043b\u0456",
         "url": "https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy"
@@ -813,7 +729,7 @@
       "url": "https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
         "name": "\u0414\u0418\u041a\u0415 \u041f\u041e\u041b\u0415",
         "url": "https://open.spotify.com/album/2Nc1NT11EH82Cq1mtosJkm"
@@ -833,44 +749,120 @@
       "url": "https://open.spotify.com/track/7g9brrz6mR8dm1kwYFwnRx"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "AA LANGUAGE",
-        "url": "https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q"
+        "name": "\u0422\u0438 \u043d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0430",
+        "url": "https://open.spotify.com/album/3fZAPBR7C9J3OWsD9mO51N"
       },
       "artists": [
         {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "BUSHIDO ZHO",
-          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
-        },
-        {
-          "name": "ANIKV",
-          "url": "https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B"
+          "name": "Quest Pistols",
+          "url": "https://open.spotify.com/artist/21bKsZrHsq3UcdHgeaKH2l"
         }
       ],
-      "duration_ms": 132649,
-      "name": "\u0422\u0435\u0441\u043d\u043e",
-      "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
+      "duration_ms": 168535,
+      "name": "\u0422\u0438 \u043d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0430",
+      "url": "https://open.spotify.com/track/7dpget8s2QN51jYbNqVYtG"
     },
     {
-      "added_at": "2023-01-16 10:50:43",
+      "added_at": "2023-01-17 11:01:31",
       "album": {
-        "name": "\u0414\u043e\u0432\u0431\u0443\u0448",
-        "url": "https://open.spotify.com/album/4yvze8pHGFIcEXZwd17hVs"
+        "name": "\u0431\u043e\u0456 \u0441\u0442\u0443\u043b\u0438 \u043f\u0435\u043b\u044c\u043a\u0443",
+        "url": "https://open.spotify.com/album/5R6hstw0oWUTdJbehcdH8w"
       },
       "artists": [
         {
-          "name": "Fiinka",
-          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+          "name": "jockii druce",
+          "url": "https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94"
         }
       ],
-      "duration_ms": 180342,
-      "name": "\u0414\u043e\u0432\u0431\u0443\u0448",
-      "url": "https://open.spotify.com/track/4Z37y7sR5Y5LMGVyjabXhi"
+      "duration_ms": 79354,
+      "name": "\u0431\u043e\u0456 \u0441\u0442\u0443\u043b\u0438 \u043f\u0435\u043b\u044c\u043a\u0443",
+      "url": "https://open.spotify.com/track/5ZNmRNEc0i3o8sP9NKqsvQ"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "duration_ms": 138036,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/7itGrDB969S4fJc4GDodiA"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u041d\u0435 \u0437\u0430\u0431\u0443\u0434\u0435\u043c \u0456 \u043d\u0435 \u043f\u0440\u043e\u0431\u0430\u0447\u0438\u043c",
+        "url": "https://open.spotify.com/album/6ElyVVHCeBe0DPeHiVdCOf"
+      },
+      "artists": [
+        {
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
+        }
+      ],
+      "duration_ms": 202408,
+      "name": "\u041d\u0435 \u0437\u0430\u0431\u0443\u0434\u0435\u043c \u0456 \u043d\u0435 \u043f\u0440\u043e\u0431\u0430\u0447\u0438\u043c",
+      "url": "https://open.spotify.com/track/6KvQKU21c1ZGEoOajKfim0"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
+        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
+      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
+    },
+    {
+      "added_at": "2023-01-17 11:01:31",
+      "album": {
+        "name": "\u0412\u0456\u0434\u044c\u043c\u0438",
+        "url": "https://open.spotify.com/album/5BI2Pp4JUcfe47Dlbyp8Ah"
+      },
+      "artists": [
+        {
+          "name": "BALKON",
+          "url": "https://open.spotify.com/artist/3mRaoamjAyrixUbbej4KFu"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "\u0412\u0456\u0434\u044c\u043c\u0438",
+      "url": "https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

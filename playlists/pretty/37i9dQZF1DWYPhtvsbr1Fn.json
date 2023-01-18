@@ -1,12 +1,12 @@
 {
   "description": "resurging tracks coming in hot. cover: Lady Gaga",
-  "num_followers": 516,
+  "num_followers": 685,
   "original_name": "reheat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1MjIxNCwwMDAwMDAwMDViZGVkMzdlYzFmZWIxNmJhNWMzMDVkYzE1YTg0ZTNl",
+  "snapshot_id": "MTY3Mzk2NDY4MywwMDAwMDAwMGJkN2EzMmQyOWIzYTAxZDgwNmFlMWEzZDdkOWQyMzE0",
   "tracks": [
     {
       "added_at": "2023-01-12 19:36:53",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
+      "added_at": "2023-01-17 13:57:30",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
+      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
+    },
+    {
       "added_at": "2023-01-12 19:36:53",
       "album": {
         "name": "OK Computer",
@@ -407,22 +423,46 @@
     {
       "added_at": "2023-01-12 19:36:53",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
         {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": "2023-01-17 14:11:23",
+      "album": {
+        "name": "Flockaveli",
+        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "No Hands (feat. Roscoe Dash & Wale)",
+      "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
     },
     {
       "added_at": "2023-01-12 19:36:53",
@@ -451,22 +491,22 @@
     {
       "added_at": "2023-01-12 19:36:53",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
         },
         {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+      "duration_ms": 246573,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
     },
     {
       "added_at": "2023-01-12 19:36:53",

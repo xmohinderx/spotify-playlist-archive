@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-431 songs - 1 day 2 hr 52 min
+433 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-04 |  |
 | [Heiwa](https://open.spotify.com/track/2N4oiyHvkK6twOne6PqSzO) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Heiwa](https://open.spotify.com/album/6yxxttrP1qsdqnJA4qX3BX) | 5:42 | 2022-07-22 | 2022-07-29 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-21 | 2022-10-07 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-21 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-21 | 2023-01-18 |
 | [Hey Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 1:42 | 2020-12-21 | 2022-07-13 |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2022-07-22 |  |
 | [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2020-12-21 | 2022-04-21 |
@@ -205,7 +205,8 @@
 | [In Spite of Me](https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 2:34 | 2020-12-21 | 2022-04-13 |
 | [Innocent](https://open.spotify.com/track/6irqzozBaaBp1ZvbBnoxzr) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Innocent](https://open.spotify.com/album/4UXiWjp0DCb1g0GFWlPMfX) | 3:32 | 2020-12-21 | 2022-07-29 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-08-08 |  |
-| [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-01-04 |  |
+| [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2023-01-18 |  |
+| [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-01-04 | 2023-01-18 |
 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 | 2020-12-21 |  |
 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 | 2022-05-06 | 2022-07-09 |
 | [Je t'aime encore](https://open.spotify.com/track/0vQH42DnQe4F0i7uxlcY0t) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [L'Ère du Verseau](https://open.spotify.com/album/5iCfp2KefljOSPdRqpAvyW) | 3:34 | 2020-12-21 | 2022-04-19 |
@@ -294,6 +295,7 @@
 | [Pain](https://open.spotify.com/track/59IqCFx50pTdpyWa8mL7fh) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/2VnYbTdZ6uUSdCfh2UNNga) | 1:38 | 2021-05-25 | 2022-05-24 |
 | [Paperbacks](https://open.spotify.com/track/5wagMdtXxmWEiKXWqriCf9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/3XKYPIKMJfJLVUz68XIwSF) | 3:00 | 2020-12-21 | 2022-04-17 |
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-05-01 | 2022-07-21 |
+| [Patient](https://open.spotify.com/track/0EkFPnDsxNrEsXtQQp4lNv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Libbie](https://open.spotify.com/album/6ujyqyNoZfQP70wHlPwNlE) | 1:25 | 2023-01-04 |  |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 | 2022-07-29 |
 | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/4onPyHor2yOlVxCsIaGyHH) | 3:03 | 2020-12-21 | 2022-07-29 |
 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-618 songs - 1 day 8 hr 47 min
+619 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
-| [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 |  |
+| [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 | 2022-12-16 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
@@ -358,6 +358,7 @@
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
+| [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 |  |
 | [Morning](https://open.spotify.com/track/5NQ8oXv0nbpwUn51Nzu45H) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/2tJdPK9VjOY8XV6VM6s1Cy) | 2:54 | 2021-12-16 | 2022-02-09 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-05 | 2022-04-28 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 |  |

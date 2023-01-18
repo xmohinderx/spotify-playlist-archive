@@ -1,12 +1,12 @@
 {
   "description": "Alleen maar motion en good vibes. Cover: Bilal Wahib",
-  "num_followers": 308866,
+  "num_followers": 308904,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2MTYxNSwwMDAwMDAwMGU1NjI3MTk1ZTZlZjYwM2I3NWFlZmU4MGI2YWRmNTE2",
+  "snapshot_id": "MTY3Mzk0NTAxMiwwMDAwMDAwMGQ4YTBjN2QxYmZkZGFkZWVjMjBmZWEwODQzMzdiNTg0",
   "tracks": [
     {
       "added_at": "2023-01-13 21:22:24",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-01-13 21:22:24",
       "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2023-01-13 21:22:24",
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/3PpoGIk4czgWjtzo72L5lj"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 174063,
       "name": "Stars",
       "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
-    },
-    {
-      "added_at": "2023-01-13 21:22:24",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2023-01-13 21:22:24",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-01-13 21:22:24",
       "album": {
-        "name": "TGIF (No Dulling)",
-        "url": "https://open.spotify.com/album/39RisHj4vCJUxVRVPGRliq"
-      },
-      "artists": [
-        {
-          "name": "Sico Vox",
-          "url": "https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP"
-        },
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "TGIF (No Dulling)",
-      "url": "https://open.spotify.com/track/6cLdVU7fjmrKgW0xbcqd4I"
-    },
-    {
-      "added_at": "2023-01-13 21:22:24",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -659,26 +639,22 @@
     {
       "added_at": "2023-01-13 21:22:24",
       "album": {
-        "name": "Big Woman Thing",
-        "url": "https://open.spotify.com/album/115Wut67FRFDrDIM2CXFpY"
+        "name": "TGIF (No Dulling)",
+        "url": "https://open.spotify.com/album/39RisHj4vCJUxVRVPGRliq"
       },
       "artists": [
         {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+          "name": "Sico Vox",
+          "url": "https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP"
         },
         {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
         }
       ],
-      "duration_ms": 155744,
-      "name": "Big Woman Thing",
-      "url": "https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp"
+      "duration_ms": 155520,
+      "name": "TGIF (No Dulling)",
+      "url": "https://open.spotify.com/track/6cLdVU7fjmrKgW0xbcqd4I"
     },
     {
       "added_at": "2023-01-13 21:22:24",
@@ -763,6 +739,30 @@
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "added_at": "2023-01-13 21:22:24",
+      "album": {
+        "name": "Big Woman Thing",
+        "url": "https://open.spotify.com/album/115Wut67FRFDrDIM2CXFpY"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Big Woman Thing",
+      "url": "https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp"
     },
     {
       "added_at": "2023-01-13 21:22:24",

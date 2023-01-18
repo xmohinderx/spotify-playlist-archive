@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 122926,
       "name": "Autumn Sun",
       "url": "https://open.spotify.com/track/1L0hBjHsPmwT8vCEQYtAzi"
@@ -6890,7 +6890,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 114000,
       "name": "Bonsai Garden",
       "url": "https://open.spotify.com/track/4BWaechBN4YaXZQ8AAjE6J"
@@ -8970,7 +8970,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 113855,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb"
@@ -18312,7 +18312,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 123400,
       "name": "Finally Found U",
       "url": "https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM"
@@ -21124,6 +21124,24 @@
       "duration_ms": 104000,
       "name": "Girona Drive",
       "url": "https://open.spotify.com/track/6qVpS5B9PODYAyXOHmMB2L"
+    },
+    {
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/0jeKzlUjWR7u3dXaZhiBr0"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/5F7xMAUNCHmzy5stdZWvkO"
     },
     {
       "album": {
@@ -31606,7 +31624,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7rNefvFQ4Gxt4yCq3a7r6P"
@@ -47240,7 +47258,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 140741,
       "name": "Rising above",
       "url": "https://open.spotify.com/track/0ODoxQRBEKfiC9JEheGBbz"
@@ -55822,6 +55840,28 @@
       "duration_ms": 87333,
       "name": "Sunset Market",
       "url": "https://open.spotify.com/track/2Jrru8EcWDn4LO5BFx744p"
+    },
+    {
+      "album": {
+        "name": "sunset mood",
+        "url": "https://open.spotify.com/album/2lOCB1JJtlDsBXA8GiJqQS"
+      },
+      "artists": [
+        {
+          "name": "kanves",
+          "url": "https://open.spotify.com/artist/6xICg0uHM8M1I8AXgZcDBy"
+        },
+        {
+          "name": "middt",
+          "url": "https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116219,
+      "name": "Sunset Mood",
+      "url": "https://open.spotify.com/track/2lgYbvxD8zyKvwhDyXWAXZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 36144,
+  "num_followers": 36205,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDllZGYxMWI0OWI3ZmE1MzNhZDMxYWI0Yjc1MGU1Nzg0",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDU0ZmE0YTIzODRiMzkwYjQzNDI5MjBjMzRmYWE3MDgy",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "cells_",
-        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        }
-      ],
-      "duration_ms": 145376,
-      "name": "cells_",
-      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Cascade Symmetry",
         "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 204353,
       "name": "Cascade Symmetry",
       "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "cells_",
+        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        }
+      ],
+      "duration_ms": 145376,
+      "name": "cells_",
+      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Journey To The Underworld EP",
-        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 389000,
-      "name": "Dissolution",
-      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Journey To The Underworld EP",
+        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 389000,
+      "name": "Dissolution",
+      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -599,6 +599,38 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Let Night Come On Bells End The Day",
+        "url": "https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Garlands",
+      "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "wander into",
         "url": "https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21"
       },
@@ -631,38 +663,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Let Night Come On Bells End The Day",
-        "url": "https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Garlands",
-      "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "North of Roswell",
         "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+      },
+      "artists": [
+        {
+          "name": "Sunmoonstar",
+          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
+        }
+      ],
+      "duration_ms": 120280,
+      "name": "Sleepy Dragon",
+      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
         "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
-      },
-      "artists": [
-        {
-          "name": "Sunmoonstar",
-          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
-        }
-      ],
-      "duration_ms": 120280,
-      "name": "Sleepy Dragon",
-      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1099,6 +1099,38 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Aerious EP",
         "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Interlude 03",
         "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 199680,
       "name": "Interlude 03",
       "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Scene Memory 2",
         "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+        "name": "Chilltronica EP 3",
+        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
       },
       "artists": [
         {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+      "duration_ms": 234844,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1247,22 +1263,6 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Chilltronica EP 3",
-        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
     },
     {
       "added_at": "2022-10-04 14:14:28",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/549U15ndPwRlK1RkC5mZSD.md) - cumulative - [plain](/playlists/plain/549U15ndPwRlK1RkC5mZSD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/549U15ndPwRlK1RkC5mZSD)
 
-### [blush](https://open.spotify.com/playlist/549U15ndPwRlK1RkC5mZSD)
+### [blush \(2\)](https://open.spotify.com/playlist/549U15ndPwRlK1RkC5mZSD)
 
 > bossa vibes and a romantic daydream
 

@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "\u6642\u8a08\u53f0\u306e\u9418",
+        "url": "https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU"
+      },
+      "artists": [
+        {
+          "name": "Eastern Youth",
+          "url": "https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "\u6642\u8a08\u53f0\u306e\u9418",
+      "url": "https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ"
+    },
+    {
+      "album": {
         "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
       },

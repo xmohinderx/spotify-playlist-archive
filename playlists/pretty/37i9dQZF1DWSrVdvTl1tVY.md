@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Jasper Tygner
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,090 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,177 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 18 | [Verde](https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF) | 4:52 |
 | 19 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 20 | [Freefall \(feat\. Moxie Knox\) \- Edit](https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Freefall \(feat\. Moxie Knox\)](https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69) | 3:07 |
-| 21 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
+| 21 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 22 | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 |
 | 23 | [Can't Stop Thinking About You](https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Can’t Stop Thinking About You](https://open.spotify.com/album/75HTnkSTvIf4r4UtOjRLKo) | 3:45 |
 | 24 | [Massive](https://open.spotify.com/track/7cbzuRgdV64qeeG1iYzuxz) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Massive](https://open.spotify.com/album/2AuYnhDnzFPzWuqq0hAgRv) | 2:52 |

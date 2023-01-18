@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 297863,
+  "num_followers": 298428,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDhiOTM4MDRiZTRiY2NjZjdkYTVhMGQ4ZWY4N2YxMWUy",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDJhMzkzN2QyN2E2NTc4NzU1Nzc0ZDFjZjk2NTIwYzk2",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -75,6 +75,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
-      },
-      "artists": [
-        {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -859,26 +859,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Music & You",
-        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
-      },
-      "artists": [
-        {
-          "name": "Room 5",
-          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
-        },
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 200600,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/64I0O6ZipYryKte1cHA2EY"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Music & You",
+        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+      },
+      "artists": [
+        {
+          "name": "Room 5",
+          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+        },
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I'm Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1083,22 +1099,6 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I'm Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
         "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2021-04-29 18:40:15",

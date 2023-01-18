@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 199161,
+  "num_followers": 199273,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMGMzODg1MjBjNzllNjcxM2E0ZjM3MzE4YjYxYWIzNWUw",
+  "snapshot_id": "MTY3MjQyNDQ0NSwwMDAwMDAwMGU5NGU4Mjk1NDVlYmMzZWY2NTFiZTk4MTQ4MWFmYTc2",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Los Creadores Del Sonido",
-        "url": "https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl"
-      },
-      "artists": [
-        {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "La Llamada De Mi Ex",
-      "url": "https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Un beso",
         "url": "https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 242974,
       "name": "Un beso",
       "url": "https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Los Creadores Del Sonido",
+        "url": "https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "La Llamada De Mi Ex",
+      "url": "https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
@@ -675,6 +691,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "De La Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines Fortes",
+          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "El Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -695,18 +727,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "De La Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
+        "name": "Consumelo",
+        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
       },
       "artists": [
         {
-          "name": "Barbaro Fines Fortes",
-          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
         }
       ],
-      "duration_ms": 302746,
-      "name": "El Cuchi Cuchi",
-      "url": "https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4"
+      "duration_ms": 281893,
+      "name": "Consumelo",
+      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -727,38 +759,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Consumelo",
-        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Consumelo",
-      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 342373,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -783,50 +795,38 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Me Quedo Contigo",
-        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
         }
       ],
-      "duration_ms": 201231,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
+      "duration_ms": 226873,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
     },
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
         {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 288506,
-      "name": "Temba, Tumba, Timba",
-      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
+      "duration_ms": 342373,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -847,18 +847,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
       },
       "artists": [
         {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
         }
       ],
-      "duration_ms": 226873,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
+      "duration_ms": 288506,
+      "name": "Temba, Tumba, Timba",
+      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
     }
   ],
   "unique_name": "Salsa Cubana",

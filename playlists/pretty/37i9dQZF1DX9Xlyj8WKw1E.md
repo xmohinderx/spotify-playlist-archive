@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,473 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,475 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 2 | [One Time \(feat\. Jeezy\)](https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [One Time \(feat\. Jeezy\)](https://open.spotify.com/album/271gGCV1AglrQLAr1VsiAx) | 2:46 |
 | 3 | [Hanging With Wolves](https://open.spotify.com/track/5RBmSBME2JNHuCGe3dCGnm) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 3:25 |
 | 4 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 |
-| 5 | [Diamond in the Rough \- Remix](https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Diamond in the Rough \(Remix\)](https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL) | 2:21 |
+| 5 | [Diamond in the Rough \- Remix](https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Diamond in the Rough \(Remix\)](https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL) | 2:07 |
 | 6 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
 | 7 | [Changes \- Sped Up](https://open.spotify.com/track/1VObZqOx2tlK5WgItrL10x) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes \(Sped Up\)](https://open.spotify.com/album/6UlD8f21Tm3qP8Q4l1x37s) | 2:12 |
 | 8 | [Casa Lopez](https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Casa Lopez](https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9) | 4:03 |

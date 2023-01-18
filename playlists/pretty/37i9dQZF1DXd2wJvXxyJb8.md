@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> q q eh birimbola?
+> A partir de hoje só leio em abril
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,613 likes - 72 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,915 likes - 72 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 71 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 | 72 | [Desculpa Doutor](https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Desculpa Doutor](https://open.spotify.com/album/4gcVNBmXEvJs9JRg3gAtUw) | 2:52 |
 
-Snapshot ID: `MTY3Mzg3NjE3MiwwMDAwMDAwMGE4MDMyMjM5MTU3NjYyYjk1YmUzOTk1ZWQ1NTc5ZTI3`
+Snapshot ID: `MTY3Mzk3MDI1MSwwMDAwMDAwMGU5ZDkxYzdiZTA2MGFiNjJjYzM0Y2Q3ODk2NTkxYTky`

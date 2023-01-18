@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 850237,
+  "num_followers": 850639,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMDE5NGUxMGVjMmRkMjRhYWNkZTZjYWQ4OTkzOTkxNWQx",
+  "snapshot_id": "MTY3MzU4OTYwMCwwMDAwMDAwMGY5YTcwYThiOTA3MzQ0YmY5MjFlOTg3ZjlmZDJhNTli",
   "tracks": [
     {
       "added_at": "2023-01-06 06:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 114369,
       "name": "Me Sacaron Del Tenampa",
       "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Mo\u00f1os Negros",
-        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
+        "name": "Usted No Me Olvida",
+        "url": "https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
         }
       ],
-      "duration_ms": 202031,
-      "name": "Mo\u00f1os Negros",
-      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
+      "duration_ms": 193137,
+      "name": "Usted No Me Olvida",
+      "url": "https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Usted No Me Olvida",
-        "url": "https://open.spotify.com/album/5QKHBEpO54bTRj2PC8A0h6"
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
       },
       "artists": [
         {
-          "name": "Joaquin Guiller",
-          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 193137,
-      "name": "Usted No Me Olvida",
-      "url": "https://open.spotify.com/track/3GUqkrdLefqJmxVvN5Vgpv"
+      "duration_ms": 202031,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Mis Mejores Canciones",
-        "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2i7SlECYIAsT72FpLUU1Uj"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 131066,
       "name": "Cama de Piedra",
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Mis Mejores Canciones",
+        "url": "https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2i7SlECYIAsT72FpLUU1Uj"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Mexicanisimo",
         "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 131266,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 114733,
-      "name": "Ases y Tercia de Reyes",
-      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Canciones Populares",
         "url": "https://open.spotify.com/album/6mTzA7zGzLhmYSQycC8f09"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 195976,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5VTlMAQ0x9EdDyehNQor8D"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 114733,
+      "name": "Ases y Tercia de Reyes",
+      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
     },
     {
       "added_at": "2022-01-25 16:44:28",

@@ -3866,10 +3866,28 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 217858,
       "name": "Undone",
       "url": "https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45"
+    },
+    {
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217858,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Miley Cyrus
 
-4,847 songs - 10 day 7 hr 8 min
+4,848 songs - 10 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2766,7 +2766,8 @@
 | [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/6pKa9ZwiXrysumGnan5sFS) | 3:15 | 2022-10-20 | 2022-10-27 |
 | [Medusa](https://open.spotify.com/track/2qGF6Ip9MpiVD5UFhYxkko) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Medusa](https://open.spotify.com/album/00fUPMqGfKBFujvU8Zt1zM) | 2:50 | 2022-05-19 | 2022-05-27 |
 | [Meer](https://open.spotify.com/track/17HyAF6lexCp3Vovtyhovr) | [ZID](https://open.spotify.com/artist/6388aDqfUD73rIX2ThecHI) | [Meer](https://open.spotify.com/album/6vrU80LjGlsPqcE4zr1Skl) | 3:28 | 2022-11-17 | 2022-11-25 |
-| [Meer fahren](https://open.spotify.com/track/1lqcZN0Gmlg8XeWpp996Xl) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/7rpUPj1XDs9hXOeppLX1Gl) | 3:41 | 2023-01-13 |  |
+| [Meer fahren](https://open.spotify.com/track/1lqcZN0Gmlg8XeWpp996Xl) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/7rpUPj1XDs9hXOeppLX1Gl) | 3:41 | 2023-01-13 | 2023-01-18 |
+| [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/3yS8i28eQBQ5pMTajqctPE) | 3:41 | 2023-01-13 |  |
 | [Mehr für mich](https://open.spotify.com/track/41XjPG2XMRZbf88vA4E6F7) | [Laurenz](https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5), [Stevio](https://open.spotify.com/artist/3RN5xNByg87vUHz3D692lM) | [Mehr für mich](https://open.spotify.com/album/1srHm13AUN2BPPDgV0IgZT) | 2:21 | 2023-01-05 | 2023-01-13 |
 | [Mehr Liebe](https://open.spotify.com/track/5xfihzCcIG17TPpmApmKbw) | [K\-Fly](https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p), [Tim Schulz](https://open.spotify.com/artist/21rzx6lVcI7kO5XYpBJq0D) | [Mehr Liebe](https://open.spotify.com/album/6KIFKGiqUa4VX7Su0LKdJW) | 2:37 | 2022-06-30 | 2022-07-08 |
 | [Mehr von Dir](https://open.spotify.com/track/5VtRiKpekD4HgCk95LkV6c) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Mehr von Dir](https://open.spotify.com/album/0CynIKWTz1zlob0Q2Nmwx9) | 2:11 | 2022-06-16 | 2022-06-24 |

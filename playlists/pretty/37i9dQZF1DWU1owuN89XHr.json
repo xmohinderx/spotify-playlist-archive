@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 255577,
+  "num_followers": 255635,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDBjODRkYmEyMDVkZTRmMzAxNDIzOGNhYmM1NzA5ZTE2",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDk2NDJmNDA1MDllMmJiZTZkOGFlNDU0YTM2OWJiZGY1",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -659,22 +659,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Tren de los Regresos (Parada Especial)",
-        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
       "artists": [
         {
-          "name": "Yordano",
-          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
-        },
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 200520,
-      "name": "D\u00edas de Junio",
-      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
+      "duration_ms": 185617,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -695,18 +691,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
+        "name": "El Tren de los Regresos (Parada Especial)",
+        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Yordano",
+          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
+        },
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 185617,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
+      "duration_ms": 200520,
+      "name": "D\u00edas de Junio",
+      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
     },
     {
       "added_at": "2021-07-29 16:46:05",

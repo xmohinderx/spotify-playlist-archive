@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 188300,
+  "num_followers": 188753,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDA2OGZmODQyNzY4MGZmNzY4YTViODgxZjJhOWE0OGJi",
+  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDhhYzRjYzg5MTdjMDNkMGY2ZTZiZDJkOWQ5YzA0MWQw",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Young The Giant (Special Edition)",
-        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Young The Giant (Special Edition)",
+        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+      "duration_ms": 274320,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "Fitz and The Tantrums (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 274320,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 249382,
       "name": "Fire and the Flood",
       "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
-        "name": "Fitz and The Tantrums (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196026,
       "name": "Raspberry",
       "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 218600,
       "name": "Hot Blood",
       "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Kids In Love",
         "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 166893,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2022-11-18 12:00:00",

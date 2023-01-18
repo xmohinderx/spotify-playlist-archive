@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري في مكان واحد 😎<br/> ! غلاف: فليكس
+> أقوى أغاني الراب المصري في مكان واحد 😎<br/> ! غلاف: دبل زوكش مع ارسينك
 
-139 songs - 7 hr 12 min
+140 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [VALENTINO](https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [VALENTINO](https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4) | 2:37 | 2022-05-10 | 2022-07-29 |
 | [VALENTINO](https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:37 | 2022-07-28 | 2022-07-31 |
 | [Wasa3](https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wasa3](https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU) | 2:09 | 2022-09-27 | 2022-12-24 |
-| [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 |  |
+| [Ya Wa3dy](https://open.spotify.com/track/1DQFgzRwvvWuRFQYsKbE0P) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/5O803jOfSfDdSFbztbJ0aQ) | 3:01 | 2023-01-17 |  |
+| [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 | 2023-01-18 |
 | [YA7](https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [YA7](https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE) | 2:27 | 2022-09-13 | 2022-11-09 |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 | 2022-12-27 |

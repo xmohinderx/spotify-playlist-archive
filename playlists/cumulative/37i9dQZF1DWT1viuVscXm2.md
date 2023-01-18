@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-191 songs - 11 hr 22 min
+192 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2021-12-24 | 2022-07-29 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 | 2022-10-29 |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2021-12-24 |  |
-| [Amor De Historia](https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Desafiándolo Todo](https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK) | 3:04 | 2022-12-02 |  |
+| [Amor De Historia](https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Desafiándolo Todo](https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK) | 3:04 | 2022-12-02 | 2023-01-18 |
 | [Amor Secreto](https://open.spotify.com/track/2UQRIy37YblE8WzcdLTWhZ) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Amor Secreto](https://open.spotify.com/album/6FNhFtOYdyIvd17PlwJ81O) | 3:54 | 2021-12-24 | 2022-06-08 |
 | [AMOR, AMOR, AMOR](https://open.spotify.com/track/4yhOnSd2dwD43xMWREnV9m) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [AMOR, AMOR, AMOR](https://open.spotify.com/album/1NLKQfWrYokeq336G9eoyT) | 3:53 | 2021-12-24 | 2022-08-06 |
 | [Amores Como el Nuestro](https://open.spotify.com/track/5L1WfoJ8YhGsuNkyk3qLKF) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Dario y Su Grupo Angora](https://open.spotify.com/artist/25EjahuVJSUCDKUBZXZatX), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg), [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Amores Como el Nuestro](https://open.spotify.com/album/7KDE9e97Fl8HUpIr49THrz) | 5:54 | 2021-12-24 |  |
@@ -27,6 +27,7 @@
 | [Como Duele](https://open.spotify.com/track/6TVDxCfu42HRyqg8l7zb83) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Como Duele](https://open.spotify.com/album/1bcW10YPngWiOyatIHUOg1) | 4:07 | 2021-12-24 | 2022-01-29 |
 | [Como Hacer](https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Amarte](https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k) | 4:53 | 2021-12-24 |  |
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
+| [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-01-17 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 |  |
 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-12 |  |

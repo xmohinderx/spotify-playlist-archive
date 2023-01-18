@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-483 songs - 1 day 1 hr 6 min
+484 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-04-15 | 2022-07-23 |
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2022-02-04 | 2022-02-26 |
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-22 | 2022-07-29 |
-| [Apple Juice](https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:02 | 2023-01-13 |  |
+| [Apple Juice](https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:02 | 2023-01-13 | 2023-01-18 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2022-06-30 |
 | [Autopilot](https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Autopilot](https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f) | 3:20 | 2022-04-08 | 2022-05-07 |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-06-24 | 2022-10-08 |
@@ -126,6 +126,7 @@
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2022-08-06 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-25 | 2022-07-06 |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-15 | 2022-04-29 |
+| [down bad \- fanclubwallet, preloved Remix](https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe), [Preloved](https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw) | [down bad](https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ) | 3:09 | 2023-01-13 |  |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2022-02-04 | 2022-04-23 |
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-02-04 | 2022-03-12 |
 | [Dummy](https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy \(Deluxe\)](https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW) | 3:16 | 2022-11-18 |  |

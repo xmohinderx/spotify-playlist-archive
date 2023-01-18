@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. KID BRUNSWICK
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,447 likes - 86 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,561 likes - 86 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 6 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |
 | 7 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
 | 8 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
-| 9 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 9 | [I Really Fucked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 10 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
 | 11 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
 | 12 | [ATTENTION!](https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 |

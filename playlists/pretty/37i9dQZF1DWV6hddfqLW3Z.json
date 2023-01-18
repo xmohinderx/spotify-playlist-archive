@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 718339,
+  "num_followers": 718959,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDU0N2NmYTE3ZGE4NGQ1ZDBjNmI1OTkwMzgzMTZmMjYw",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDNhMjQyOTIxNmQ0N2NjYzE0YmFjNjdmNjdmYmEwMWZk",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Meus Caros Amigos",
-        "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
-      "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Meus Caros Amigos",
+        "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
+      "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Ao Nordeste do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk"
-      },
-      "artists": [
-        {
-          "name": "Rachell Luz",
-          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Flor da Pele",
-      "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 207933,
       "name": "I Don't Want To Talk About It",
       "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Ao Nordeste do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk"
+      },
+      "artists": [
+        {
+          "name": "Rachell Luz",
+          "url": "https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Flor da Pele",
+      "url": "https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi"
     },
     {
       "added_at": "2022-11-25 03:00:00",

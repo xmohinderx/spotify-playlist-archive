@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-182 songs - 10 hr 59 min
+183 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-10-20 | 2023-01-13 |
 | [ordinary people feat\. BIM](https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ordinary people feat\. BIM](https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A) | 4:33 | 2022-10-20 | 2022-10-28 |
 | [Outtake](https://open.spotify.com/track/0JmF2pTQ7gtev5VYvFfjYZ) | [OTOYURE DOGGIES](https://open.spotify.com/artist/0HnTh85AChN9GEsuxrCc32) | [Outtake](https://open.spotify.com/album/4qwjUig7VDyXZ6OPdxr5z2) | 3:41 | 2022-10-20 | 2022-11-30 |
+| [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 |  |
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-11-29 | 2022-12-02 |
 | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/track/1rYIL0KBb2u19Vmnlcje4x) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/album/6isB4u1HezmW9K8dMxr4Sw) | 4:31 | 2022-10-20 | 2022-12-07 |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-25 | 2022-11-01 |
@@ -130,7 +131,7 @@
 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 |  |
 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 | 2022-10-20 | 2022-11-30 |
 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 | 2022-10-20 | 2022-12-09 |
-| [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-10-20 |  |
+| [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-10-20 | 2023-01-18 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-11-29 | 2022-12-24 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2022-12-06 |  |
 | [Seed](https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi) | 4:08 | 2022-12-06 | 2022-12-08 |

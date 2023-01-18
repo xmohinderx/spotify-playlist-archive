@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-709 songs - 1 day 13 hr 43 min
+710 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Get Happy \(with Sam Smith\)](https://open.spotify.com/track/4J6xwl0UkdQOjAuV2gBAbl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg) | [Get Happy \(with Sam Smith\)](https://open.spotify.com/album/2kJ17tz3dcLPZVL4045pKa) | 2:52 | 2019-10-22 | 2020-01-02 |
 | [Get To Know You](https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Get To Know You](https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU) | 3:21 | 2019-11-16 | 2022-07-29 |
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-05-08 | 2021-06-16 |
+| [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-05 |  |
 | [Girl From Rio](https://open.spotify.com/track/2plRom0urixt6BE8t7kOhQ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Girl From Rio](https://open.spotify.com/album/4mMUHylk2hcCsxc2FursmJ) | 3:13 | 2021-05-04 | 2021-05-26 |
 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 | 2020-06-29 | 2021-02-06 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/0QVgZCAnasHo3TevIz7XLW) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Twelve Deadly Cyns...And Then Some](https://open.spotify.com/album/7nGN8ny3YbvegR1NkU2LqB) | 3:54 | 2019-07-10 | 2019-10-26 |
@@ -330,7 +331,7 @@
 | [I.F.L.Y.](https://open.spotify.com/track/4R9ATNRRl1uth17i5qDCc0) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I.F.L.Y.](https://open.spotify.com/album/5Q4g8NWSgDf0AEE0Vy7bz9) | 2:45 | 2019-07-20 | 2020-03-12 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D) | 2:55 | 2020-08-30 | 2020-11-20 |
 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 | 2019-05-26\* | 2020-01-01 |
-| [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-24 |  |
+| [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-24 | 2023-01-18 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2020-01-04 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 | 2023-01-11 |
 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 | 2020-06-12 | 2022-04-19 |

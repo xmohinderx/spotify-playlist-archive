@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,762 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,851 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [しっくおぶはうす! \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/6DLqDDyOYOxSDb93nzhH7R) | [オゾン](https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e) | [しっくおぶはうす!](https://open.spotify.com/album/5Tj8Bq7zfYSUAh4edMf10D) | 3:16 |
 | 50 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 
-Snapshot ID: `MTY3MzUzNzEzOCwwMDAwMDAwMGU3YTFiMGEwMWMyMDQzNTk0MGRhNDdjZTc3ZWYwZjlk`
+Snapshot ID: `MTY3Mzk2NzYwMCwwMDAwMDAwMGQxNjZhM2FiZTBiYmFlNDAyNTg2NzcxMTEzZjU0ZGQx`

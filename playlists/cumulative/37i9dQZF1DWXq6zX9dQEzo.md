@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-407 songs - 20 hr 29 min
+408 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-02-04 | 2022-04-30 |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2022-11-04 |  |
 | [GREAT](https://open.spotify.com/track/6OjIYgQpFbcg59lEgtZQsD) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [OUTSIDE](https://open.spotify.com/album/62XFRZYHaavaZAc1hDrhYX) | 2:02 | 2022-02-04 | 2022-05-29 |
-| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-01 |  |
+| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-01 | 2023-01-18 |
 | [Haha!](https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Haha!](https://open.spotify.com/album/6AnawoBHFzOSJRPqBhCNiW) | 1:58 | 2022-04-30 | 2022-10-02 |
 | [Hall of Fame](https://open.spotify.com/track/6vOrFSgl9uYHexljLl26E1) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 3:37 | 2022-02-04 | 2022-12-17 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2022-02-04 | 2022-04-30 |
@@ -359,6 +359,7 @@
 | [THESE DAYS](https://open.spotify.com/track/4Z8HzMnxUf6Ka3ItlTduyM) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [THESE DAYS](https://open.spotify.com/album/3kQr0KUMAAqR6AoeKaokpN) | 3:35 | 2022-08-06 | 2022-11-05 |
 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 | 2022-04-30 |  |
 | [This Is My Time](https://open.spotify.com/track/1woAdVjhICcmxIRlMeRCWk) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Marvel’s Spider\-Man: Miles Morales \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8) | 2:15 | 2022-02-04 | 2022-05-21 |
+| [This Time](https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK) | [Jesus Loves Electro](https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Worship](https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L) | 2:35 | 2022-12-16 |  |
 | [This World Is Not My Home](https://open.spotify.com/track/36Q3K9sJqgjCyGbHWW7u63) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [This World Is Not My Home](https://open.spotify.com/album/65rWZ61zIkHGrclFdek0bp) | 2:42 | 2022-02-04 | 2022-07-18 |
 | [Tightrope](https://open.spotify.com/track/4OFgV7VLucicq9q6Fii4Wy) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Tightrope](https://open.spotify.com/album/4Ux6A6SaLPueWDwfEemqwh) | 3:43 | 2022-02-04 | 2022-05-29 |
 | [Til The Day I Die](https://open.spotify.com/track/2v49NJk4EhgM4xVkNKrfqc) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:47 | 2022-02-04 | 2022-07-18 |

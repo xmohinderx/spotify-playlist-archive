@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1208240,
+  "num_followers": 1208558,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDAyOSwwMDAwMDAwMDdlNGVlNzhjZGM0N2JmNGEzOWY1ZjExYWRhMWUwMjA4",
+  "snapshot_id": "MTY2ODcwMDAyOSwwMDAwMDAwMDRhNTJjYjAzOGUzYzFlZmI5YzJjN2M4NTYyMGMzYmMz",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
     },
     {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
       "added_at": "2022-03-23 15:34:17",
       "album": {
         "name": "Weezer",
@@ -487,6 +471,22 @@
       "duration_ms": 305533,
       "name": "Undone - The Sweater Song",
       "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 220467,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 220467,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Where Have All The Merrymakers Gone?",
-        "url": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
-      },
-      "artists": [
-        {
-          "name": "Harvey Danger",
-          "url": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Flagpole Sitta",
-      "url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
-    },
-    {
       "added_at": "2022-03-23 15:34:17",
       "album": {
         "name": "Title Of Record (Expanded Edition)",
@@ -983,6 +967,22 @@
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Where Have All The Merrymakers Gone?",
+        "url": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
+      },
+      "artists": [
+        {
+          "name": "Harvey Danger",
+          "url": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Flagpole Sitta",
+      "url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "fear",
-        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
-      },
-      "artists": [
-        {
-          "name": "Toad The Wet Sprocket",
-          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Come On Feel The Lemonheads",
         "url": "https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 164706,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
     },
     {
       "added_at": "2021-12-21 12:24:03",

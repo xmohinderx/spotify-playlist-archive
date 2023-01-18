@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 215426,
       "name": "Always with Me",
       "url": "https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Falling into your eyes Record",
+        "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Figure",
+      "url": "https://open.spotify.com/track/19qpmFLSJXgyeYohRFGf17"
+    },
+    {
+      "album": {
         "name": "Hanako Oku Best ~ My Letters ~",
         "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 320493,
       "name": "Garnet",
       "url": "https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 336880,
       "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 303627,
       "name": "\u661f\u306e\u30af\u30ba \u03b1",
       "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
@@ -948,6 +966,24 @@
       "duration_ms": 290289,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u74f6",
+        "url": "https://open.spotify.com/album/5CcSSBfqlEaeQOX5SQpLbM"
+      },
+      "artists": [
+        {
+          "name": "mol-74",
+          "url": "https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232356,
+      "name": "\u82b1\u74f6",
+      "url": "https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1"
     },
     {
       "album": {

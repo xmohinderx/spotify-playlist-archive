@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Orgy
 
-2,463 songs - 6 day 22 hr 6 min
+2,464 songs - 6 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2187,7 +2187,8 @@
 | [This Ride Is Over](https://open.spotify.com/track/32DSAJM9iYh1ttfHMGutJS) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Against All Odds](https://open.spotify.com/album/7rfIMKlfNLx1acQlawJ27o) | 3:30 | 2022-11-11 | 2022-11-19 |
 | [Thousand Lifetimes](https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Thousand Lifetimes](https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6) | 3:12 | 2022-08-26 | 2022-09-03 |
 | [Three\-Headed Death Machine](https://open.spotify.com/track/5LQN5AzQl5chXtCnmQsZ6y) | [The Monolith Deathcult](https://open.spotify.com/artist/30R1cSs562qWPmRHZtmZom) | [Three\-Headed Death Machine](https://open.spotify.com/album/3bh9mq4hyD2NHx3wtkn9CV) | 4:41 | 2022-04-29 | 2022-05-06 |
-| [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-13 |  |
+| [Thrones of Blood](https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1) | 4:02 | 2023-01-13 |  |
+| [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-13 | 2023-01-18 |
 | [Throw Your Phone in the River](https://open.spotify.com/track/1kXZ7hvyRaLqmMlCofovvG) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [Throw Your Phone in the River](https://open.spotify.com/album/1tGRUI9RiQv5D7J0w5JGIe) | 2:01 | 2022-09-09 | 2022-09-17 |
 | [Thruster](https://open.spotify.com/track/38AhUim0YNNsdugknuBU8z) | [Ruby the Hatchet](https://open.spotify.com/artist/49evT9ZbNUmyT62Uh8qzGw) | [Thruster](https://open.spotify.com/album/2t1Bcwl4mAU07aZ7khjSYQ) | 5:07 | 2022-08-05 | 2022-08-13 |
 | [Thunder Kiss '65](https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Play It Forward](https://open.spotify.com/album/6b8LaKbz7KHurVKuGGh7ig) | 3:55 | 2022-08-26 | 2022-09-03 |

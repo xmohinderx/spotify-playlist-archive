@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/549U15ndPwRlK1RkC5mZSD.md) - [plain](/playlists/plain/549U15ndPwRlK1RkC5mZSD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/549U15ndPwRlK1RkC5mZSD)
 
-### [blush](https://open.spotify.com/playlist/549U15ndPwRlK1RkC5mZSD)
+### [blush \(2\)](https://open.spotify.com/playlist/549U15ndPwRlK1RkC5mZSD)
 
 > bossa vibes and a romantic daydream
 
-[Talia](https://open.spotify.com/user/karinski) - 25 likes - 51 songs - 2 hr 34 min
+[Talia](https://open.spotify.com/user/karinski) - 27 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

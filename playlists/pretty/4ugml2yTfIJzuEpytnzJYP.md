@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,958 likes - 25 songs - 1 hr 42 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,958 likes - 25 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sounds Like Color](https://open.spotify.com/track/0EVPBhEFx2UUAzwHLn5vf3) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sounds Like Color](https://open.spotify.com/album/61g9xbxFVVK2pBAwdUELkU) | 3:46 |
+| 1 | [I'm A Warrior](https://open.spotify.com/track/7hxQid9ZYmkZbqmyJtTtJ0) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I'm A Warrior](https://open.spotify.com/album/1MJUwXbIMpEsxVVLNlaaqC) | 2:53 |
 | 2 | [Grinding \- Nahlith Remix](https://open.spotify.com/track/5A7VhhhPFPC3xlGixoyunc) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Grinding Ft\. High Tara \(Nahlith Remix\)](https://open.spotify.com/album/3akEukoxSyKPt7JVjQMzgS) | 4:12 |
 | 3 | [SHINE DOWN](https://open.spotify.com/track/1aAlclWhROUKoVdb547Kdg) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [MUD](https://open.spotify.com/album/49inEnWo2ofCxEi2IFqVYj) | 3:24 |
-| 4 | [Shanti Dub \- Original Mix](https://open.spotify.com/track/356yAs0Ih4prXVDzPBnQIJ) | [David Starfire](https://open.spotify.com/artist/6nhEcP9sIqaoQ6hM5R55IB) | [Shanti Dub](https://open.spotify.com/album/3DJy66NJHwf3mmkkK51xfk) | 3:34 |
-| 5 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 |
+| 4 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 |
+| 5 | [Sounds Like Color](https://open.spotify.com/track/0EVPBhEFx2UUAzwHLn5vf3) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sounds Like Color](https://open.spotify.com/album/61g9xbxFVVK2pBAwdUELkU) | 3:46 |
 | 6 | [Manz](https://open.spotify.com/track/68EuLWerJTej8UmTonNieW) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [Manz](https://open.spotify.com/album/0rBfd8sMAXtcPqZqlYO4gg) | 3:42 |
 | 7 | [Giza](https://open.spotify.com/track/5gmxzQ95Dd67ShlXmfoi2C) | [Morillo](https://open.spotify.com/artist/6gKen78XIn1mdjEp3Gs84U) | [20 Years of Muti](https://open.spotify.com/album/6tZifHF3s2qaqzlPLZ83Kg) | 3:42 |
 | 8 | [Dale](https://open.spotify.com/track/3ynNOKWGmuFQiMksRibJyF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Dale](https://open.spotify.com/album/4UBgw4CAUuvngVEyYkHYi2) | 2:43 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 24 | [Blabba Mouth](https://open.spotify.com/track/3bD2otc9SMNu2xrTnb6uzk) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Lampa](https://open.spotify.com/artist/22zTDDhRWSaYtHlMHaz1Ej) | [DDD100](https://open.spotify.com/album/6jVJmsjVJchboBgsfWAPbj) | 6:17 |
 | 25 | [Lightwerker](https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag) | [Light Language](https://open.spotify.com/artist/2qkiYF4wgiIsQ4kF63YsmU) | [Lightwerker](https://open.spotify.com/album/2LY46CfGULckwMoDLi5gBo) | 3:25 |
 
-Snapshot ID: `MjEwOSwxYzlmMDgyNTBjN2UyNTlmN2M1ZjgwYjEzNDE5ZTc1ZDMwYjg5NmEz`
+Snapshot ID: `MjExMyxlNjE1ZDU2ZjMyOWEyMzc3MTU3YjliMzlhZDM2ODM2MWYzZDBmMWY0`

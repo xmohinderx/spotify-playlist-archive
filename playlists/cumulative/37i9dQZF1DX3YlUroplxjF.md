@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
 
-375 songs - 21 hr 46 min
+376 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Rat Race](https://open.spotify.com/track/6CbMNxRrRHkkZuaDghbzQ9) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji) | [Spirit Vessel](https://open.spotify.com/album/1pEScVSDs5cGNBgWX4L9B5) | 4:23 | 2021-11-30 | 2022-06-16 |
 | [Ratking](https://open.spotify.com/track/2fmcr45jShfpzCJXA3U9x6) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Ratking](https://open.spotify.com/album/0VTW6TdKknAXKnph2WjSIR) | 3:25 | 2021-11-30 | 2022-07-27 |
 | [RED](https://open.spotify.com/track/1hy8Zr9EEdmXNaMIhUbOwE) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/6a4UNDpur6wbXHvAuVvAgz) | 3:33 | 2021-11-30 | 2022-07-24 |
-| [Red](https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W) | 3:33 | 2022-04-01 |  |
+| [Red](https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W) | 3:33 | 2022-04-01 | 2023-01-18 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-11-30 |  |
 | [Resting in Pieces](https://open.spotify.com/track/1Ld6vffNPizhKhyp6t3a8Y) | [Tiny Stills](https://open.spotify.com/artist/14ALCznZ7yuCOfLk46eNxL) | [Resting in Pieces](https://open.spotify.com/album/6OCAuL2AY06JwLxYVD7UuX) | 3:07 | 2022-04-01 | 2022-04-19 |
 | [Retreat Syndrome](https://open.spotify.com/track/4qXdUWXB5C3ZEoRiLkqApM) | [We Never Learned To Live](https://open.spotify.com/artist/2crdUjsZoHulUnCCxmeP2a) | [Retreat Syndrome](https://open.spotify.com/album/6sjun9jLGiL9m1aGpBwwSd) | 2:42 | 2022-01-21 | 2022-05-17 |
@@ -382,6 +382,7 @@
 | [World Impact](https://open.spotify.com/track/7N0sq6MF9p763pX7jQ9auY) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [World Impact](https://open.spotify.com/album/5ZVvXfPvEcGb3qSQZTAjBh) | 2:17 | 2022-01-21 | 2022-07-28 |
 | [You Are Everything](https://open.spotify.com/track/6RJSpUgLZ46a9xO0F5oiLi) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 4:42 | 2021-11-30 | 2022-07-13 |
 | [Younger](https://open.spotify.com/track/6NR49l8DcbO30ag0YY9Hk0) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Younger](https://open.spotify.com/album/6kD41w7XeOUusooACNJqQ0) | 5:35 | 2022-03-11 | 2022-07-29 |
+| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-12-13 |  |
 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/2xdkdWe99CkSXWbP13BVqL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [{ The Dreamer’s Hotel }](https://open.spotify.com/album/7bT3NsOPXcY7czrzsRHopL) | 2:53 | 2021-11-30 | 2022-07-28 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

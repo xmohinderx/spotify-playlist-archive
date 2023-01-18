@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise 2023](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> "RADAR:Early Noise 2023"今年の10組発表！。Cover: なとり / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>/3/17 開催 Early Noise Night\#15プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
+> "RADAR:Early Noise 2023"今年の10組発表！ Cover: なとり / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-618 songs - 1 day 14 hr 34 min
+619 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-03 |
 | [Purpose](https://open.spotify.com/track/3YtGpYYI3RvOsyuJNjZrvK) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-01-12 |  |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-08-10 |
-| [RADAR:Early Noise 2023 \[Music+Talk Edition\]](https://open.spotify.com/episode/32kR2qVmRPGDFOaycVhJ0J) | [RADAR: Early Noise \[Music+Talk Edition\]](https://open.spotify.com/show/5ILS4cRYK00Zs2ISBiAWCF) | [RADAR: Early Noise \[Music+Talk Edition\]](https://open.spotify.com/show/5ILS4cRYK00Zs2ISBiAWCF) | 1:13:26 | 2023-01-14 |  |
+| [RADAR:Early Noise 2023 \[Music+Talk Edition\]](https://open.spotify.com/episode/32kR2qVmRPGDFOaycVhJ0J) | [RADAR: Early Noise \[Music+Talk Edition\]](https://open.spotify.com/show/5ILS4cRYK00Zs2ISBiAWCF) | [RADAR: Early Noise \[Music+Talk Edition\]](https://open.spotify.com/show/5ILS4cRYK00Zs2ISBiAWCF) | 1:13:26 | 2023-01-14 | 2023-01-18 |
 | [Radio Star](https://open.spotify.com/track/1YeYZVR8zjv8K7iABHP6sD) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/3Og5gta9zMnchjl4FX1RIe) | 3:02 | 2022-12-06 | 2022-12-08 |
 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 | 2022-12-06 | 2023-01-13 |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-09-27 | 2022-11-02 |
@@ -582,6 +582,7 @@
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [燦然と輝くとは](https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [燦然と輝くとは](https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS) | 1:14 | 2022-05-10 | 2022-06-01 |
 | [猫の夢](https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [生活](https://open.spotify.com/album/03KHIxSUNxT660ByeQGsOo) | 3:35 | 2022-11-15 | 2022-11-17 |
+| [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 |  |
 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 | 2022-02-17 | 2022-03-09 |
 | [環状線](https://open.spotify.com/track/55MGgoeXHe635Ll6v7yfqK) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [環状線](https://open.spotify.com/album/0MJDPHZAIryepqayFVJdaa) | 3:13 | 2022-02-17 | 2022-03-23 |
 | [疾走](https://open.spotify.com/track/7fUMzyKIcDPqH1I3x6S7IQ) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [四季](https://open.spotify.com/album/3D538Y6AW5YL16duTNXob3) | 2:34 | 2022-11-08 | 2022-11-10 |

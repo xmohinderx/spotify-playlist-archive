@@ -1663,6 +1663,32 @@
     },
     {
       "album": {
+        "name": "Get Out Here",
+        "url": "https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3"
+      },
+      "artists": [
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Josh Levoid",
+          "url": "https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E"
+        },
+        {
+          "name": "Maryqueen",
+          "url": "https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Get Out Here",
+      "url": "https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv"
       },

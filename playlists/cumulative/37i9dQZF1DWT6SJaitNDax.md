@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ">Pheelz</a>
 
-328 songs - 17 hr 43 min
+329 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Champion](https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:59 | 2021-09-10 | 2022-07-28 |
 | [Champion](https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:34 | 2022-03-25 | 2022-04-21 |
 | [CHOP N PRAY](https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [AFROSOUL \(Deluxe\)](https://open.spotify.com/album/69TI5V5QKajFC7ydxSbVgP) | 2:59 | 2021-09-10 | 2022-07-29 |
-| [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-08 |  |
+| [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-08 | 2023-01-18 |
 | [Come Over \(Remix\)](https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Come Over \(Remix\)](https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt) | 2:25 | 2021-09-10 |  |
 | [Comfortable \(feat\. Davido\)](https://open.spotify.com/track/0C91daZBEChlLpb8LLqojh) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Comfortable \(feat\. Davido\)](https://open.spotify.com/album/4615wavxmU3iwOfhzC8FoG) | 3:12 | 2021-09-10 | 2022-06-12 |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2021-09-10 |  |
@@ -136,6 +136,7 @@
 | [Going Out Of My Way \(feat\. Mr Eazi\)](https://open.spotify.com/track/1JbyI2lfSIBR93qjpsw9XR) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Going Out Of My Way \(feat\. Mr Eazi\)](https://open.spotify.com/album/6K63g4xz5N1P6TaoDKVuat) | 3:53 | 2022-03-25 | 2022-04-20 |
 | [Grandad](https://open.spotify.com/track/35Q5ldq74wOaAErCmL9OQZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:11 | 2021-09-10 | 2022-07-10 |
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2021-09-10 | 2022-07-29 |
+| [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 | 2022-08-19 |  |
 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5u85l53Y04W59OfzQUsQX6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:15 | 2021-09-10 | 2022-07-29 |
 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2022-03-25 | 2022-04-21 |
 | [Hey Boy](https://open.spotify.com/track/0ayMbitcsoK3YleIaIHw6Q) | [Precious](https://open.spotify.com/artist/4bVL2bLOv1PLQXHDWXNMPE), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Hey Boy](https://open.spotify.com/album/6np18qJXSyf09NF2HpWHyK) | 2:50 | 2022-03-25 | 2022-04-18 |

@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 42728,
+  "num_followers": 42794,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDA2MmIwMGRhMDI0MDM2MjBiZTQ5ZjgwMzViMjVhYjQ4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGI0MjIzZjFhNmNkZDhkMTkxMDAwMGQxM2ZmMTVjN2Zi",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Trilogy, Pt. 3: White",
-        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 308092,
-      "name": "Step into Love",
-      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Catalina Nights",
@@ -143,6 +127,22 @@
       "duration_ms": 244435,
       "name": "Catalina Nights",
       "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Trilogy, Pt. 3: White",
+        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 308092,
+      "name": "Step into Love",
+      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -361,26 +361,6 @@
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Movin' N Groovin",
-        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        },
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 264640,
-      "name": "Movin' N Groovin",
-      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -401,36 +381,24 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
+        "name": "Movin' N Groovin",
+        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
       },
       "artists": [
         {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
-      },
-      "artists": [
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        },
         {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
         }
       ],
-      "duration_ms": 230187,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
+      "duration_ms": 264640,
+      "name": "Movin' N Groovin",
+      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -451,6 +419,38 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "G-Stream 2-Turn It Up",
+        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "G-Wiggle",
+      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -631,6 +615,22 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -651,30 +651,6 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Ticket to Pittsburgh",
-        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 323500,
-      "name": "Ticket to Pittsburgh",
-      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -711,6 +687,30 @@
       "duration_ms": 210714,
       "name": "Driving All Night",
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Ticket to Pittsburgh",
+        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 323500,
+      "name": "Ticket to Pittsburgh",
+      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -761,6 +761,38 @@
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Amalfi",
+        "url": "https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "duration_ms": 231285,
+      "name": "Amalfi",
+      "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+    },
+    {
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Soul to Soul",
@@ -797,22 +829,6 @@
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     },
     {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Unspeakable",
-        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
-      },
-      "artists": [
-        {
-          "name": "Sam Rucker",
-          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
-        }
-      ],
-      "duration_ms": 226438,
-      "name": "Unspeakable",
-      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -831,22 +847,6 @@
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-09-02 04:02:00",

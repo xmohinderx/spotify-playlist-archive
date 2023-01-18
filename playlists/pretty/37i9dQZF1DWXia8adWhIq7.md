@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,837 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,891 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 32 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 |
 | 33 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 34 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
-| 35 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
-| 36 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
+| 35 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
+| 36 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
 | 37 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
 | 38 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
 | 39 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 |
 | 40 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 41 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
-| 42 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
-| 43 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
+| 42 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
+| 43 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
 | 44 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
 | 45 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
 | 46 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 48 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
 | 49 | [A Voz do Brasil \- Acústico](https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [A Voz do Brasil \(Acústico\)](https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO) | 3:00 |
 | 50 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
-| 51 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
-| 52 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 |
+| 51 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 |
+| 52 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
 | 53 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 54 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 |
 | 55 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 |
 | 80 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 
-Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMDQxZmVlZGQ0NDUwNTgyZTAzMzliNTFiNmJmZjMyMmJj`
+Snapshot ID: `MTY2NTcyNjgxOSwwMDAwMDAwMDFiNTg1Nzk2Nzg3NGZhNTNhMjU0YjJmYzlkMDMxMDBm`

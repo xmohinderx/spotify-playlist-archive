@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-186 songs - 11 hr 54 min
+187 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [33 “GOD”](https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [33 “GOD”](https://open.spotify.com/album/358KWP6KjgXI9JbViBTzqT) | 3:33 | 2021-10-29 | 2022-07-21 |
 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 | 2021-10-29 |  |
 | [A Light on in the Dark](https://open.spotify.com/track/3twsDwOH7Z0gbkO2PXaomc) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Green + Evergreen](https://open.spotify.com/album/1KF5khhNMhvHinCySJZumy) | 3:51 | 2021-10-29 | 2022-11-13 |
+| [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 | 2023-01-13 |  |
 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2021-10-29 |  |
 | [All That You Know](https://open.spotify.com/track/45dfUwQFVgKBi4aoPHi0Ie) | [Simon Herron](https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7) | [Demons](https://open.spotify.com/album/0F1lQyCTjW4fqDklftnmeW) | 3:28 | 2021-10-29 |  |
 | [All That You Know \- Original Mix](https://open.spotify.com/track/5rqTitryvvtrGgH6iUXKiF) | [Simon Herron](https://open.spotify.com/artist/4OFLcYqjZVL1Da9wRw0ur7) | [Demons](https://open.spotify.com/album/2b6ZouHCv8u2aSTlbCCCut) | 3:28 | 2021-10-29 | 2022-07-29 |
@@ -100,7 +101,7 @@
 | [Lost Boy](https://open.spotify.com/track/5fzPPZMT8HOKs4Vmvfmj2R) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down](https://open.spotify.com/album/1VPVbx0DN1TmWu8jftzc3a) | 0:53 | 2021-10-29 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:05 | 2021-10-29 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 | 2021-10-29 |  |
-| [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 | 2021-10-29 |  |
+| [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 | 2021-10-29 | 2023-01-18 |
 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 | 2021-10-29 |  |
 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 | 2021-10-29 | 2022-07-29 |
 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 | 2021-10-29 |  |

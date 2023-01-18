@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 376702,
+  "num_followers": 376740,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM4NTMzN2U4OWI1MGY5MmJlMDdlMGQwMjg2YzhlODgy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDgwMTgxZDZkMGQ5YTczMmEzNjU4ZWNhYTBiMWU3ZjQ0",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Atomic Mr Basie",
+        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Whirly-Bird",
+      "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Tony Bennett With Count Baise",
         "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Atomic Mr Basie",
-        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Whirly-Bird",
-      "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
     },
     {
       "added_at": "2020-03-06 16:28:56",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-658 songs - 1 day 19 hr 51 min
+659 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Chondromalacia Patella](https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Chondromalacia Patella](https://open.spotify.com/album/0iqxSiIsizsq6ivdiiUp2a) | 4:49 | 2021-06-04 | 2022-06-25 |
 | [Christopher Robbins](https://open.spotify.com/track/6fgq502hyer2fIcKBK1ZK3) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Christopher Robbins](https://open.spotify.com/album/1DGqjKTzMcPopGxJP7fvF3) | 3:45 | 2021-06-04 | 2022-07-09 |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-04-20 | 2022-07-23 |
-| [Clear](https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 3:27 | 2022-10-24 |  |
+| [Clear](https://open.spotify.com/track/2KMHi9GT4M2uNlDE727tg6) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 3:27 | 2022-10-24 | 2023-01-18 |
 | [Clear](https://open.spotify.com/track/5sJMfY7Cb0CbFEBRgTPTtx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 3:27 | 2022-07-11 | 2022-07-30 |
 | [Clear](https://open.spotify.com/track/6P7Oj48MpnXEB6ZfKgqepg) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Clear](https://open.spotify.com/album/0HRBmKyeF29CQXmZYJgwAw) | 3:27 | 2021-04-02 | 2022-04-18 |
 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-04-02 | 2022-11-02 |
@@ -212,6 +212,7 @@
 | [Funky I Like It](https://open.spotify.com/track/2TzbA0Z05WAYVI1xWm9Lrt) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/4nwL93zBjUWP4hnH5RnV0M) | 4:43 | 2021-04-02 | 2022-04-21 |
 | [Fuzz Jam](https://open.spotify.com/track/1HCryhiL05CN22G3YgWWlA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Fuzz Jam](https://open.spotify.com/album/2HCsaRqXdUTlqOIt0MZs2j) | 4:26 | 2021-11-19 | 2022-07-29 |
 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 | 2022-07-22 |  |
+| [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 |  |
 | [Gelin Halayı](https://open.spotify.com/track/3f5tPuiyvrq4zTw4brN3pM) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gelin Halayı / Dıv Dıv](https://open.spotify.com/album/6F8gxHLYlI7U6A2l5K1nxN) | 3:17 | 2021-04-02 | 2022-04-21 |
 | [Gemini](https://open.spotify.com/track/7DIUHY48PdWzeAryp7mR60) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Gemini](https://open.spotify.com/album/0hE1bU80M0xQ9K4ksIC88o) | 4:25 | 2021-04-02 | 2022-04-20 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-06-25 | 2022-07-30 |

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 736885,
+  "num_followers": 737011,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGE0NDVjZGE5Nzg2NmRmMGM4MzdlZDUwOTgxZTc0N2Fi",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGEzYzhjMWRiYWM5Y2IxZDhhZjlhOTg4NTAwZTlmMjA2",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Money",
@@ -831,22 +847,6 @@
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
       "added_at": "2022-10-21 04:00:00",

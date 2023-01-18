@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 14549,
+  "num_followers": 14612,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGViYWJhZDhmNjBlMGFiMTBmZDI4ODZjZWYxMTI3Zjkw",
+  "snapshot_id": "MTY3MTM1NzczOSwwMDAwMDAwMGYzYmIzOTkyM2IwOWVkODg4YWZmNjZkNGEyNTI2NjI2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1065,10 +1065,10 @@
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
-      "added_at": "2022-10-28 12:56:05",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
@@ -1076,13 +1076,13 @@
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1147,6 +1147,42 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Suliya",
+        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Suliya",
+      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
+    },
+    {
+      "added_at": "2022-10-28 12:56:05",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1171,46 +1207,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Symbiosis",
-        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
-        }
-      ],
-      "duration_ms": 249286,
-      "name": "Symbiosis",
-      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Omo X 100",
         "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Suliya",
-        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
+        "name": "Symbiosis",
+        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
       "artists": [
         {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
         }
       ],
-      "duration_ms": 131500,
-      "name": "Suliya",
-      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
+      "duration_ms": 249286,
+      "name": "Symbiosis",
+      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
       "added_at": "2022-06-09 23:00:00",

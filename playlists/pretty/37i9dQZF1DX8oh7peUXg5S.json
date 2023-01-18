@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 271578,
+  "num_followers": 271734,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDdlMmFmMDliZWY0MmY4MzYyOTAyZDlmMDhkOWFhOGVl",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDgyNTBiMzRlNGNjZTE1ZTNiNjljZjZlOTRkNGNlM2Jl",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "\u00daltimo Acto",
-        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Solo Otra Vez - Alone Again",
-      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "\u00daltimo Acto",
+        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Solo Otra Vez - Alone Again",
+      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/3N1e8LMjed69YN7GNrGfWA"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/3GADIvwz2JHNq0d6bHfZFG"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1275,54 +1291,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
-        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
-      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -1343,6 +1311,38 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
+        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
+      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Universo Abierto",
-        "url": "https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM"
+        "name": "Aunque t\u00fa no lo sepas",
+        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
       },
       "artists": [
         {
-          "name": "Carlos Chaouen",
-          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
+          "name": "Alba Rojas",
+          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
         }
       ],
-      "duration_ms": 278813,
-      "name": "No Me Canso",
-      "url": "https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE"
+      "duration_ms": 131343,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1763,34 +1763,38 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Aunque t\u00fa no lo sepas",
-        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
+        "name": "Universo Abierto",
+        "url": "https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM"
       },
       "artists": [
         {
-          "name": "Alba Rojas",
-          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
+          "name": "Carlos Chaouen",
+          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
         }
       ],
-      "duration_ms": 131343,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
+      "duration_ms": 278813,
+      "name": "No Me Canso",
+      "url": "https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE"
     },
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+        "name": "Conviene Saber (feat. Rozal\u00e9n)",
+        "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
       },
       "artists": [
         {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
+      "duration_ms": 250302,
+      "name": "Conviene Saber (feat. Rozal\u00e9n)",
+      "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
     }
   ],
   "unique_name": "Cantautores",

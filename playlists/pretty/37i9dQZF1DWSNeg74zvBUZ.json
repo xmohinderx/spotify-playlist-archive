@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18376,
+  "num_followers": 18375,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMGExZmRjYTc5MTdlZjQ0YTEyMGZhOGNlYWY4NWZkMjI4",
+  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDc2M2FjMzA4YjY5YTZkYjliODc5ZDAwMGE4NjU2NjM5",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
+      },
+      "artists": [
+        {
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
+        }
+      ],
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 314240,
       "name": "GREEN",
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2022-02-18 05:44:17",

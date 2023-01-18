@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33513,
+  "num_followers": 33529,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDI2MGY1MzgyNjFhYjQyZjI4OWU4YzY0OWQ2ZTZlNzZh",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDM1NjgyZWM3NDE3OGFmOTc2ZjkxZDk3NDI0Y2VlNmQ1",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Triggers",
-        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        }
-      ],
-      "duration_ms": 155314,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 120545,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Triggers",
+        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 155314,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
     },
     {
       "added_at": "2023-01-04 05:00:00",

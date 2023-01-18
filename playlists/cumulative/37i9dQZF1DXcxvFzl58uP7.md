@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Clairo
 
-817 songs - 1 day 18 hr 32 min
+818 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [broken cd](https://open.spotify.com/track/77cuLtsUljaHBNpG89GpqE) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:50 | 2022-09-14 | 2022-12-06 |
 | [Bruise Cruise](https://open.spotify.com/track/7j7lh4awlX5wI90tgnpfet) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Blood Loss](https://open.spotify.com/album/0YHwQqztCh7I0UiLLA0rp6) | 5:45 | 2019-07-30\* | 2021-05-27 |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2020-05-04 | 2022-04-26 |
+| [Bugs](https://open.spotify.com/track/46dUB7Ej08JAdpZmwSRs8E) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:42 | 2022-12-21 |  |
 | [Built For This](https://open.spotify.com/track/6r16wh66SWCMrHBOpZv2GW) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Built For This](https://open.spotify.com/album/6GBOLgT39B6LnKP2ky3O63) | 2:25 | 2021-03-26 | 2022-04-18 |
 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 | 2021-05-05 | 2021-08-23 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2021-03-08 | 2021-08-27 |
@@ -226,7 +227,7 @@
 | [ELECTRICITY](https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [ELECTRICITY](https://open.spotify.com/album/335otQsODkCfcukSFGUYoG) | 3:30 | 2021-07-02 | 2022-07-27 |
 | [ELEVEN11\_GTR\_SONG](https://open.spotify.com/track/3dJ9uVTlDV3az5bYtpWa7W) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [ELEVEN11\_GTR\_SONG](https://open.spotify.com/album/2TJINOYmOnGQcTpmoJKjTy) | 3:42 | 2021-04-29 | 2021-04-30 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2020-08-11 |  |
-| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2023-01-13 |  |
+| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2023-01-12 |  |
 | [Erase](https://open.spotify.com/track/4luBGXcgpFQPPAtcF4zEdv) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Erase](https://open.spotify.com/album/5CQJNJ3aHoWhegy4Xp7LcC) | 3:56 | 2019-07-30\* | 2021-05-26 |
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2019-07-31 | 2021-05-28 |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-04-28 | 2022-07-28 |
@@ -711,7 +712,7 @@
 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 | 2021-02-27 | 2022-11-26 |
 | [That's How It Goes](https://open.spotify.com/track/2RpDo48V4OfhOHFIseEt2A) | [Renwick](https://open.spotify.com/artist/4szIa4PxWNlublLR3FFocn) | [That's How It Goes](https://open.spotify.com/album/07UnJiWjpPPpP4uL1QuMI0) | 3:28 | 2019-07-31 | 2021-05-26 |
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-07-28 |
-| [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 | 2021-02-27 |  |
+| [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 | 2021-02-27 | 2023-01-18 |
 | [THE BOTTOM](https://open.spotify.com/track/5q4fICuQraX0rP42UrTWop) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [HEATWAVE](https://open.spotify.com/album/2w2EaxZJZx4xXXBh813SRB) | 3:39 | 2019-07-30\* | 2022-07-29 |
 | [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 | 2022-01-11 | 2022-07-27 |
 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2021-04-06 |  |

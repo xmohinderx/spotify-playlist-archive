@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 222161,
       "name": "Help Me Make It Through the Night (feat. Loren Allred)",
       "url": "https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3"
@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 282800,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
@@ -4356,6 +4356,24 @@
       "duration_ms": 194823,
       "name": "the road is narrow",
       "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "album": {
+        "name": "The Sorrow It Shows",
+        "url": "https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349160,
+      "name": "The Sorrow It Shows",
+      "url": "https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih"
     },
     {
       "album": {

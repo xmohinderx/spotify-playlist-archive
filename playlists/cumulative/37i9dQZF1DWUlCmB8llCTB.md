@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo King Savagge, AK4:20 & Paloma Mami.
 
-391 songs - 21 hr 45 min
+392 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-07-29 | 2022-08-20 |
 | [Bichiyal](https://open.spotify.com/track/6DwvPQUStsslrkVTSQnB9M) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Bichiyal](https://open.spotify.com/album/5aaDH1WH9oBYiVld6KvI2C) | 3:37 | 2021-12-24 | 2022-04-16 |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2021-12-24 | 2022-01-15 |
-| [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-09-08 |  |
+| [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-09-08 | 2023-01-18 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-24 | 2022-08-10 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 | 2022-11-05 |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-04 | 2022-05-07 |
@@ -173,6 +173,7 @@
 | [Jangueo](https://open.spotify.com/track/5TzKEqqKpPb2tbgpofiItm) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Jangueo](https://open.spotify.com/album/63YMOhWDb6PtPmQ9V4ygtP) | 3:17 | 2022-02-04 | 2022-02-09 |
 | [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-02-18 | 2022-08-27 |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-02 |  |
+| [Kela Toke \(feat\. Tunechikidd\)](https://open.spotify.com/track/3IF7RBvlQMiXBwl4c66QDg) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Diablo Santo](https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9) | 3:22 | 2023-01-17 |  |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-04-08 | 2022-12-10 |
 | [La Baby Del Año](https://open.spotify.com/track/4w3f8mPY9Wy2hxgDOOjXPZ) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [La Baby Del Año](https://open.spotify.com/album/6fh2VWEUZ2UMsctaeG8hfR) | 3:08 | 2022-03-18 | 2022-04-23 |
 | [La Busqué \(with Yandel & Rauw Alejandro\)](https://open.spotify.com/track/5nNcBfbJu1RjBoKplRPw5m) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 4:31 | 2021-12-24 | 2022-07-02 |

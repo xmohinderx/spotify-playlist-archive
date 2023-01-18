@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-225 songs - 11 hr 50 min
+226 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 |  |
 | [Freefalling](https://open.spotify.com/track/3rO1nOn3RTpDTkop8lCeY0) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Freefalling](https://open.spotify.com/album/0nBHpS95DU0znkctgMQ4Ty) | 2:33 | 2022-02-03 | 2022-09-15 |
 | [Game Over](https://open.spotify.com/track/1I7JfiqLXlKJN3FRBBdcSz) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Game Over](https://open.spotify.com/album/07EtgZaV0yshfe6Q3P6vKL) | 4:08 | 2022-02-03 |  |
+| [Get Out Here](https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Get Out Here](https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3) | 4:04 | 2023-01-17 |  |
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 |  |
 | [Give Up On You](https://open.spotify.com/track/1Ju1JMsx9zmVxAHYnt7Iv9) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Give Up On You](https://open.spotify.com/album/3fWEMGfQhcEp7rm0A2V5Ni) | 2:35 | 2022-02-03 | 2022-09-15 |
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 |  |

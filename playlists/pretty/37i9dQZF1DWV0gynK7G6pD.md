@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Benjamin Grosvenor
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,474 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,574 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 4 | [Élégie](https://open.spotify.com/track/4t9opZlYVkN78Rh29Pf0YQ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Élégie](https://open.spotify.com/album/3xV4YY0DnCwzArKvqI479e) | 4:13 |
 | 5 | [Above and Below](https://open.spotify.com/track/41hGgsiQlu4Pl5HMEy3LEY) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Above and Below](https://open.spotify.com/album/2lIlVEzjNcNAOb0InVAuZX) | 6:52 |
 | 6 | [Lullaby](https://open.spotify.com/track/3tyR75lUI4iQ7XaCKuNzbV) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Lullaby](https://open.spotify.com/album/5GC1d8SyPhYhNqVOEOXpPR) | 5:43 |
-| 7 | [Bright Edge Deep: Wicklow Also](https://open.spotify.com/track/6wp04Bg6tyLQCGGxhUkyWx) | [Sarah Neutkens](https://open.spotify.com/artist/1XTiWw2MAfqYUysBiPndJ1), [Alma Quartet](https://open.spotify.com/artist/5lJhsZi2j9Mq0Zklfub0LZ) | [Neutkens: Bright Edge Deep: Wicklow Also](https://open.spotify.com/album/2vF6BeXh3knRwy2eboO8f7) | 4:46 |
+| 7 | [Bright Edge Deep: Wicklow Also](https://open.spotify.com/track/6wp04Bg6tyLQCGGxhUkyWx) | [Sarah Neutkens](https://open.spotify.com/artist/1XTiWw2MAfqYUysBiPndJ1), [Alma Quartet Amsterdam](https://open.spotify.com/artist/4z2P3rgAvRJEfXfuUMo6nU) | [Neutkens: Bright Edge Deep: Wicklow Also](https://open.spotify.com/album/2vF6BeXh3knRwy2eboO8f7) | 4:46 |
 | 8 | [Sinfonietta, FP 141: III\. Andante cantabile](https://open.spotify.com/track/4vii1l0Y3VZB2IrVkbRSs1) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Alexandre Bloch](https://open.spotify.com/artist/62bapfSobIHcr52G8fAjlG) | [Poulenc: La voix humaine](https://open.spotify.com/album/1ncMb3XT16iUBExxwNuNiY) | 6:46 |
 | 9 | [Amazing Grace \- Arr\. for String Orchestra](https://open.spotify.com/track/6MCdiQLQpqn4hukdQmgdJS) | [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE) | [Amazing Grace \(Arr\. for String Orchestra\)](https://open.spotify.com/album/7knblhtSgAf9SRswWS1icz) | 6:22 |
 | 10 | [The River](https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [The River](https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35) | 3:29 |

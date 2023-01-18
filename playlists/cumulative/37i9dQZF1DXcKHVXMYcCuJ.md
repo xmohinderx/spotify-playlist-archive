@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/0poYizJ4mnXIG3Rnrc8USh) | [YOURCODENAMEIS:MILO](https://open.spotify.com/artist/4NxevFKr3yFvhjmHzx9LiC) | [Ignoto](https://open.spotify.com/album/34UIoBrgmO1KXzxM8ZZu7P) | 3:16 | 2021-12-15 | 2022-01-04 |
-| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 |  |
+| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 | 2023-01-18 |
 | [17 Years](https://open.spotify.com/track/0CMEuj4U1A5hvZWhVwwEOR) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/572ZIrqiAkorfgaZQ0Y78e) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 | 2022-11-02 |  |
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
@@ -103,7 +103,7 @@
 | [Gold](https://open.spotify.com/track/4Kx4tZHPRKg7DVFeyh9xMA) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [...And We Explode](https://open.spotify.com/album/1xnNpamKRzpuKyF4pWNdZd) | 2:45 | 2021-12-15 | 2022-07-27 |
 | [Great Escape](https://open.spotify.com/track/5Asy34XZ0sYoOI1DU44vze) | [Moneen](https://open.spotify.com/artist/4V5SMPpyCIxr6VpvJ5cWpp) | [The World I Want To Leave Behind](https://open.spotify.com/album/02dQ8nApLHZ6Sfyuv9cqxE) | 3:12 | 2022-04-15 | 2022-04-21 |
 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 | 2021-12-15 |  |
-| [Grounded](https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 2:33 | 2022-11-02 | 2022-11-13 |
+| [Grounded](https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 2:33 | 2022-11-02 |  |
 | [Gunman](https://open.spotify.com/track/1hreMeBwxRRmChwRSjP1Kk) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 4:45 | 2021-12-15 | 2022-09-22 |
 | [Hallelujah \(So Low\)](https://open.spotify.com/track/3aSqWoVZ18TK33qMgVUo0k) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Violence](https://open.spotify.com/album/7q0Fdj0jZDoYWIGWY64x3A) | 3:55 | 2022-01-11 | 2022-09-22 |
 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 | 2022-06-23 |  |

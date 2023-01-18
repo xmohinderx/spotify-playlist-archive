@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50516,
+  "num_followers": 50538,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGNmYWE3YTMwODgyYzYyY2IzNTRkMjc3MTE1OTQ3YTRj",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDgxNWI4MmMyYWQ4YTc3YTRiYmMyOTU2OTI0ZGQ4NWRh",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -239,6 +239,26 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "All For Us (from the HBO Original Series Euphoria)",
-        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The Batman",
-      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "A Monster Calls (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 132840,
       "name": "I Wish I Had a Hundred Years",
       "url": "https://open.spotify.com/track/5lb8hYTICPj3WGIiaW1qla"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The Batman",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
-      },
-      "artists": [
-        {
-          "name": "Steve Horner",
-          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Sign of the Times - Stripped",
-      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Dances With Wolves - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 137773,
       "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
       "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Steve Horner",
+          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Sign of the Times - Stripped",
+      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 101572,
+      "name": "Cambridge, 1963",
+      "url": "https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "Requiem for a Dream / OST",
         "url": "https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 101572,
-      "name": "Cambridge, 1963",
-      "url": "https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Soundtrack From Twin Peaks",
         "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 310013,
       "name": "Twin Peaks Theme - Instrumental",
       "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 102013,
-      "name": "Succession (Main Title Theme)",
-      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1309,7 +1293,23 @@
       "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Succession: Season 1 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 102013,
+      "name": "Succession (Main Title Theme)",
+      "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
+    },
+    {
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "First Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
       "artists": [
         {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 135106,
-      "name": "Quarantine",
-      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
+      "duration_ms": 158773,
+      "name": "Salamander Eyes",
+      "url": "https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+        "name": "First Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
       },
       "artists": [
         {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
       ],
-      "duration_ms": 158773,
-      "name": "Salamander Eyes",
-      "url": "https://open.spotify.com/track/4w0sBSIgy945h7TZE0FUbc"
+      "duration_ms": 135106,
+      "name": "Quarantine",
+      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1537,7 +1537,7 @@
       "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
     },
     {
-      "added_at": "2023-01-17 01:11:40",
+      "added_at": "2023-01-18 01:12:29",
       "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
@@ -1551,22 +1551,6 @@
       "duration_ms": 154493,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1587,6 +1571,22 @@
       "duration_ms": 127786,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2022-09-07 09:54:53",

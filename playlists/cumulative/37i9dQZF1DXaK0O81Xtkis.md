@@ -4,7 +4,7 @@
 
 > make it pop! cover: The 1975
 
-515 songs - 1 day 2 hr 9 min
+516 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 | 2022-09-03 |
 | [The Lows](https://open.spotify.com/track/3cBpzG7DTbm5w85KfuJUo7) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Lows](https://open.spotify.com/album/1oKZwEjUSRsqeACfHXcDgf) | 2:50 | 2023-01-13 |  |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-05 | 2022-08-06 |
-| [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 |  |
+| [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-01-18 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-18 | 2022-02-26 |
 | [THE WAY IT WAS](https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [THE WAY IT WAS](https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT) | 3:17 | 2021-10-29 | 2022-02-19 |
 | [The Way My Friends Feel About You](https://open.spotify.com/track/3m564D0kt8IZ08YZ2WCPE3) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [The Way My Friends Feel About You](https://open.spotify.com/album/7JttdErJ14yQqhIiCI0Djq) | 2:54 | 2022-04-01 | 2022-04-09 |
@@ -470,6 +470,7 @@
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-01-29 |
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-06 |  |
 | [This Time](https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Time](https://open.spotify.com/album/5ujq3EIdXLsz6TpXcsd7ze) | 2:13 | 2022-04-29 | 2022-07-16 |
+| [Throwback Tears](https://open.spotify.com/track/68Z7JAEz6ZSFJ9bA4KFGRg) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/5mNkXsJh0QVVEKIq9Rx1en) | 1:57 | 2023-01-17 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2023-01-14 |
 | [to be mine \(is to lose your mind\)](https://open.spotify.com/track/6WRoccjEMu5Nj5iOSm3LOX) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [to be mine \(is to lose your mind\)](https://open.spotify.com/album/4xT48QQILicoukeueJ1hXl) | 3:27 | 2021-10-29 | 2021-12-25 |
 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2022-07-01 | 2022-08-13 |

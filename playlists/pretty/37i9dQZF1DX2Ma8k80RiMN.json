@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1360853,
+  "num_followers": 1360943,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMDRlNTM3Y2NjZjNjYmM1ZTgxODA1MjRkZmMwMDBiYTAx",
+  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMDE1YzM0MmVjYjEzZmQxOTI1YTU5NWVlYzI1MDE0M2Y5",
   "tracks": [
     {
       "added_at": "2022-03-14 19:51:21",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 250586,
-      "name": "Can't Hide Love",
-      "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "The Wild Card",
         "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 257013,
       "name": "Anything For You",
       "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 250586,
+      "name": "Can't Hide Love",
+      "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
     },
     {
       "added_at": "2022-03-14 19:51:21",

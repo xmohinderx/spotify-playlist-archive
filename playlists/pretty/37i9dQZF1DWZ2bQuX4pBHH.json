@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan all in one playlist",
-  "num_followers": 205373,
+  "num_followers": 205514,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY5MjI1OSwwMDAwMDAwMDRlYjhlNmQxNTMwYTE1NTg5NTVkMTBhN2U2NjE0NmY3",
+  "snapshot_id": "MTY3MTY5MjI1OSwwMDAwMDAwMGRlODk2YzE0Zjc0NTBmN2Q1NmNiNDExOTk2MzcwZmNl",
   "tracks": [
     {
       "added_at": "2022-12-12 07:28:10",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R"
     },
     {
-      "added_at": "2023-01-17 01:09:01",
+      "added_at": "2023-01-18 00:30:11",
       "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
+        "name": "Rab Ne Bana Di Jodi (Original)",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 101799,
+      "name": "Tujh Mein Rab Dikhta Hai - Ii",
+      "url": "https://open.spotify.com/track/4Q3oEhpsDommo2naYhCpAl"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
         "name": "Main Hoon Na",
         "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 359253,
       "name": "Tumse Milke Dil Ka",
       "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
-        "name": "Rab Ne Bana Di Jodi (Original)",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 101799,
-      "name": "Tujh Mein Rab Dikhta Hai - Ii",
-      "url": "https://open.spotify.com/track/4Q3oEhpsDommo2naYhCpAl"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
+        "name": "Rab Ne Bana Di Jodi (Original)",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 263967,
+      "name": "Haule Haule",
+      "url": "https://open.spotify.com/track/2UKK9UEbKlykbmLVP1zWIQ"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 408133,
       "name": "Bole Chudiyan",
       "url": "https://open.spotify.com/track/1uzkWkIaWaxzHJgJ4Fy5rO"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
-        "name": "Rab Ne Bana Di Jodi (Original)",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
-      },
-      "artists": [
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 263967,
-      "name": "Haule Haule",
-      "url": "https://open.spotify.com/track/2UKK9UEbKlykbmLVP1zWIQ"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Baadshah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        }
-      ],
-      "duration_ms": 434300,
-      "name": "Woh Ladki Jo",
-      "url": "https://open.spotify.com/track/4A15QHUraE6rrP0Co6S3lG"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
         "name": "Om Shanti Om",
         "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
       },
@@ -395,6 +379,30 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
+        "name": "Kuch Kuch Hota Hai",
+        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "Kuch Kuch Hota Hai",
+      "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
         "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
       },
@@ -423,6 +431,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
+        "name": "Baadshah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "duration_ms": 434300,
+      "name": "Woh Ladki Jo",
+      "url": "https://open.spotify.com/track/4A15QHUraE6rrP0Co6S3lG"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
         "name": "Kuch Kuch Hota Hai",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 437693,
       "name": "Koi Mil Gaya",
       "url": "https://open.spotify.com/track/5L9fLNHSj5SuGvJRljdWJb"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
-        "name": "Kuch Kuch Hota Hai",
-        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Kuch Kuch Hota Hai",
-      "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -543,6 +543,30 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        }
+      ],
+      "duration_ms": 345558,
+      "name": "Gerua (From \"Dilwale\")",
+      "url": "https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
         "name": "Best of Bollywood Singers - Shaan & Vinod Rathod",
         "url": "https://open.spotify.com/album/0Lxd3NYjNrYFQXXS7S1wrf"
       },
@@ -555,26 +579,6 @@
       "duration_ms": 383375,
       "name": "Koi Na Koi Chahiye (From \"Deewana\")",
       "url": "https://open.spotify.com/track/3MgAwLCC0qsaAYS8nN06UV"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -599,26 +603,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 345558,
-      "name": "Gerua (From \"Dilwale\")",
-      "url": "https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5"
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -675,26 +675,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+        "name": "Rab Ne Bana Di Jodi (Original)",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "Anuradha",
-          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
-        },
-        {
-          "name": "Anupama",
-          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
+          "name": "Labh Janjua",
+          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
         }
       ],
-      "duration_ms": 405706,
-      "name": "Dil Se Re",
-      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
+      "duration_ms": 261015,
+      "name": "Dance Pe Chance",
+      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -723,22 +719,22 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Rab Ne Bana Di Jodi (Original)",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
       "artists": [
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Labh Janjua",
-          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 261015,
-      "name": "Dance Pe Chance",
-      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
+      "duration_ms": 290548,
+      "name": "Daayre",
+      "url": "https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -791,22 +787,26 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Anuradha",
+          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
+        },
+        {
+          "name": "Anupama",
+          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
         }
       ],
-      "duration_ms": 290548,
-      "name": "Daayre",
-      "url": "https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO"
+      "duration_ms": 405706,
+      "name": "Dil Se Re",
+      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Baadshah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        }
-      ],
-      "duration_ms": 399599,
-      "name": "Baadshah O Baadshah",
-      "url": "https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
         "name": "BIBA",
         "url": "https://open.spotify.com/album/0E3lOC2gnWVFMoXwKwkbQ8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 175721,
       "name": "BIBA",
       "url": "https://open.spotify.com/track/1gt8YXWknKt4sRNZ6SirVW"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
+        "name": "Baadshah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "duration_ms": 399599,
+      "name": "Baadshah O Baadshah",
+      "url": "https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Main Koi Aisa Geet Gaoon",
-      "url": "https://open.spotify.com/track/0WBClBemYPJR44H6uIn0kp"
-    },
-    {
-      "added_at": "2022-12-12 07:28:10",
-      "album": {
         "name": "Rab Ne Bana Di Jodi (Original)",
         "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 314546,
       "name": "Raat Ka Nasha",
       "url": "https://open.spotify.com/track/6c3Q6tMBsqucdb1TpPybGv"
+    },
+    {
+      "added_at": "2022-12-12 07:28:10",
+      "album": {
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Main Koi Aisa Geet Gaoon",
+      "url": "https://open.spotify.com/track/0WBClBemYPJR44H6uIn0kp"
     },
     {
       "added_at": "2022-12-12 07:28:10",
@@ -1307,18 +1307,26 @@
     {
       "added_at": "2022-12-12 07:28:10",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+        "name": "Asoka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz"
       },
       "artists": [
         {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Hema Sardesai",
+          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
         }
       ],
-      "duration_ms": 289373,
-      "name": "Chaand Taare",
-      "url": "https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9"
+      "duration_ms": 355960,
+      "name": "San Sanana",
+      "url": "https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB"
     },
     {
       "added_at": "2022-12-12 07:28:10",

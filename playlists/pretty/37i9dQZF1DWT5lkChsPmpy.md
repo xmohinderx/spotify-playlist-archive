@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,608 likes - 252 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,899 likes - 252 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 50 | [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 |
 | 51 | [Nothing But Love](https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Nothing But Love](https://open.spotify.com/album/4VAJ4cK6wAGBEeoC28bF20) | 2:34 |
 | 52 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 |
-| 53 | [silhoutte dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhoutte dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 |
+| 53 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 |
 | 54 | [logical!!](https://open.spotify.com/track/55FwE9jOLEiDhK4Wc8A9Ny) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [logical!!](https://open.spotify.com/album/0oSDmhPDn0OknqtH4Iknbi) | 2:03 |
 | 55 | [Finding Answers](https://open.spotify.com/track/1K1Hl2R6gOTZBfx6vAc2bE) | [Kenobig](https://open.spotify.com/artist/1YKfjPgzeaza19zUC9ZZAp) | [Finding Answers](https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg) | 2:12 |
 | 56 | [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 |

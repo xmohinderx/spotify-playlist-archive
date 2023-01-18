@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "COLORs",
+      "url": "https://open.spotify.com/track/4aqQN7pU0Razhap9AadWxh"
+    },
+    {
+      "album": {
         "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 24516,
+  "num_followers": 24576,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk2MzIwMCwwMDAwMDAwMGE3NzM5NzBlYzE2MzRmYjYwOWUzMDJiMDQ2NmZjY2E3",
+  "snapshot_id": "MTY3Mjk2MzIwMCwwMDAwMDAwMDU2ZDA1MjA2ZjdlNjk1NGU0NGI2MGUwMTQ4NTI5ZGYw",
   "tracks": [
     {
       "added_at": "2023-01-06 00:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
+        }
+      ],
+      "duration_ms": 153703,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
+    },
+    {
+      "added_at": "2023-01-06 00:00:00",
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
-    },
-    {
-      "added_at": "2023-01-06 00:00:00",
-      "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
     },
     {
       "added_at": "2023-01-06 00:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+        "name": "Scroll",
+        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
       },
       "artists": [
         {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+      "duration_ms": 157177,
+      "name": "Scroll",
+      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
     },
     {
       "added_at": "2023-01-06 00:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
-        "name": "Scroll",
-        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 157177,
-      "name": "Scroll",
-      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-01-06 00:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-06 00:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-01-06 00:00:00",
-      "album": {
         "name": "Ver\u00e3o Azul",
         "url": "https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 282411,
       "name": "Ver\u00e3o Azul - Encore Sessions",
       "url": "https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL"
+    },
+    {
+      "added_at": "2023-01-06 00:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2023-01-06 00:00:00",

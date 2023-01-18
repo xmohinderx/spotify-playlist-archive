@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 65555,
+  "num_followers": 65581,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDUxMjVkMTRjNjVlYzlkMjlhY2IyYTgxNTM4ZjFjMTVm",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDQwY2I3M2FlY2RiMmE0NmQ0MWM4ZDBiMmVhZTZjY2Rk",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Bror",
+        "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
       },
       "artists": [
         {
           "name": "Kristian Kristensen",
           "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+      "duration_ms": 194893,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -359,18 +363,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -391,42 +395,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Bror",
-        "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
         }
       ],
-      "duration_ms": 194893,
-      "name": "Bror",
-      "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Underlig Frihet",
-        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
-      },
-      "artists": [
-        {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        }
-      ],
-      "duration_ms": 265400,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -447,6 +427,26 @@
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Underlig Frihet",
+        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        }
+      ],
+      "duration_ms": 265400,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Hjarteskjell",
         "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195906,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -791,38 +791,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
-      },
-      "artists": [
-        {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "I huset med deg",
-        "url": "https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 203439,
-      "name": "I huset med deg",
-      "url": "https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
       },
@@ -839,18 +807,50 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
         }
       ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+        "url": "https://open.spotify.com/album/0u0bXmYCu6kuGzuZnKN8TZ"
+      },
+      "artists": [
+        {
+          "name": "deLillos",
+          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+      "url": "https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "I huset med deg",
+        "url": "https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 203439,
+      "name": "I huset med deg",
+      "url": "https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw"
     }
   ],
   "unique_name": "Norske viser",

@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-254 songs - 16 hr 52 min
+255 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/6tjpdYez3LQQnwNOWmHe6I) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/5zkxVrO0q1Kjx1qiMdRi2T) | 4:16 | 2022-06-29 |  |
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-06-29 |  |
 | [If I Were You](https://open.spotify.com/track/2VypcGKVwuSqdDiTJ45vZh) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [If I Were You](https://open.spotify.com/album/6NIfSU7m3WJ8j6zpFO50JA) | 3:36 | 2022-06-29 | 2022-10-29 |
-| [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2022-06-29 |  |
+| [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2022-06-29 | 2023-01-18 |
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-12 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-06-29 |  |
 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-29 |  |
@@ -174,6 +174,7 @@
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-06-29 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2022-12-01 |  |
+| [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 | 2023-01-12 |  |
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 |  |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-06-29 | 2022-11-25 |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-12 |  |

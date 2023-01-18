@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,623 likes - 37 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,189 likes - 36 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 32 | [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 |
 | 33 | [Poles Apart](https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 7:03 |
 | 34 | [The Final Cut](https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:42 |
-| 35 | [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 |
-| 36 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
-| 37 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
+| 35 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
+| 36 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
 
-Snapshot ID: `Mjc4OTc5OTEsMDAwMDAwMDAxNjE3NWYyNjAzYzBmOGIxZmU0OWM4Y2Y0YjI3OTlhYQ==`
+Snapshot ID: `Mjc4OTk0MjAsMDAwMDAwMDA4YTg3MGE0MzRlNTEwN2VlZTViMmIwOTkyNzcyMGZhZg==`

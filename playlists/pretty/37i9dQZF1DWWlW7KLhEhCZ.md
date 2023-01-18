@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Luccas Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,189 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,217 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 37 | [GLA](https://open.spotify.com/track/6jAyi0z7YVQ7cmBpkYhhph) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Maiky Dres](https://open.spotify.com/artist/2quIIcvyt2CtElA3UiHYFr), [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [GLA](https://open.spotify.com/album/2PJhEgeZ2nBZxL7w7S14vy) | 2:52 |
 | 38 | [Plug Fake](https://open.spotify.com/track/77OSKeSazmzUTefLereoLg) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Plug Fake](https://open.spotify.com/album/5D1zmtq5C7PGzXhEgBjs3X) | 2:20 |
 | 39 | [Esse É Meu Plano](https://open.spotify.com/track/54q3siAAog7qnLhUPnWvSr) | [Cattê](https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Marral](https://open.spotify.com/artist/3pAK11IqE1QSx1xf4nadtC) | [Esse É Meu Plano](https://open.spotify.com/album/4qitJOG6xFWm3h1HAVjeBa) | 2:45 |
-| 40 | [Malote](https://open.spotify.com/track/02jwXChHDbvP3TtGvjzZpd) | [Gupa](https://open.spotify.com/artist/0gPKZ63bZVVTekngQ0qLZt), [Errijorge](https://open.spotify.com/artist/5qIaSdndIosiPsZOmkHipG) | [GUIAS](https://open.spotify.com/album/1IcC5UBNjpQZvuSDXFtMEq) | 2:08 |
+| 40 | [Malote](https://open.spotify.com/track/02jwXChHDbvP3TtGvjzZpd) | [Gupa](https://open.spotify.com/artist/0gPKZ63bZVVTekngQ0qLZt), [Errijorge](https://open.spotify.com/artist/5qIaSdndIosiPsZOmkHipG), [prod.LM](https://open.spotify.com/artist/4SbIh2yblZ2yBOw9WwqF50) | [GUIAS](https://open.spotify.com/album/1IcC5UBNjpQZvuSDXFtMEq) | 2:08 |
 | 41 | [Bloco de Notas](https://open.spotify.com/track/3Th3ZBWT5qSEOKjGRMHv8K) | [Vinta](https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C) | [Bloco de Notas](https://open.spotify.com/album/75cf5PmOUTPxcn3ZHqtedz) | 2:56 |
 | 42 | [ZERO MANCADA](https://open.spotify.com/track/0bovoHi2a1wyj63PVAY9dj) | [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [ZERO MANCADA](https://open.spotify.com/album/1SE4EjN9qPKpUmqPWsc7og) | 2:25 |
 | 43 | [Tubo de Lança](https://open.spotify.com/track/3npXPVCw42oIzh701YkM90) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD) | [Tubo de Lança](https://open.spotify.com/album/3nP5nxztp0Pye1NzVcWA94) | 2:09 |

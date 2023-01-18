@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-291 songs - 19 hr 12 min
+292 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 | 2021-11-10 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 | 2022-06-03 | 2023-01-14 |
 | [Get Down Saturday Night](https://open.spotify.com/track/41vvfczE6ztmTNroUU8kfS) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [80s Summer Hits](https://open.spotify.com/album/3FkmAdgCpCzxHgo3lfhnGi) | 4:01 | 2022-08-02 | 2022-08-22 |
+| [Get Down Saturday Night](https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Saturday Songs](https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY) | 4:01 | 2022-12-02 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/2NHyfIeUIRucBcHhErA3pN) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [True Soul 3 CD Set](https://open.spotify.com/album/1MEa8G0PhyDJrwRrcJ5WQo) | 4:02 | 2021-11-10 | 2022-07-29 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-11-10 |  |
 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 | 2021-11-10 |  |
@@ -111,7 +112,7 @@
 | [He Loves Me](https://open.spotify.com/track/5TwXeLH9NzwpHlfMhjimZv) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 2:31 | 2022-06-03 | 2022-11-13 |
 | [He Wasn't Man Enough](https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:21 | 2021-11-10 | 2022-12-16 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-11-10 |  |
-| [Higher Higher](https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:18 | 2022-09-09 | 2023-01-17 |
+| [Higher Higher](https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:18 | 2022-09-09 |  |
 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 | 2022-08-02 |  |
 | [Holding On](https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 4:14 | 2022-06-03 | 2023-01-07 |
 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 | 2021-11-10 | 2022-07-29 |
@@ -217,7 +218,7 @@
 | [So Fine](https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:32 | 2021-11-10 |  |
 | [Soldier In The City](https://open.spotify.com/track/6FvunSnUTm1sxno4tJnSTw) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 3:25 | 2021-11-10 | 2022-07-29 |
 | [Somebody Else's Guy](https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Somebody Else's Guy](https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09) | 6:26 | 2022-08-02 |  |
-| [SoulMate](https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [SoulMate](https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX) | 3:16 | 2021-11-10 |  |
+| [SoulMate](https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [SoulMate](https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX) | 3:16 | 2021-11-10 | 2023-01-18 |
 | [Soulmate \(Heartstrings\)](https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [Love In Synthesis](https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf) | 3:28 | 2021-11-10 | 2023-01-04 |
 | [South of the River](https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:29 | 2022-11-07 |  |
 | [South of the River](https://open.spotify.com/track/5w3yxRRxy5pvZdUvBJF6ve) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:29 | 2021-11-10 | 2022-11-18 |
@@ -273,7 +274,7 @@
 | [Video Girl](https://open.spotify.com/track/7EIKw1M8ByLYq9ISRRmtnE) | [Daniel Price](https://open.spotify.com/artist/7FzTAoAvEVREt2FjsLisDP) | [Video Girl](https://open.spotify.com/album/606mNPrS5IZEyfD8t9YmDk) | 2:50 | 2022-03-28 | 2022-07-29 |
 | [Voodoo](https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9) | [Letters of Irrelevance](https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h) | 3:41 | 2022-05-11 |  |
 | [Wait For It](https://open.spotify.com/track/3qEqxHQFSR6aFH0GKkWKrm) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Wait For It \(from The Hamilton Mixtape\)](https://open.spotify.com/album/2k8Iz2HnwOVHAxFPpRXc6U) | 3:28 | 2021-11-10 | 2022-05-12 |
-| [Walk on the Wild Side](https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Between Thought And Expression](https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS) | 4:13 | 2022-01-20 |  |
+| [Walk on the Wild Side](https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Between Thought And Expression](https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS) | 4:13 | 2022-01-20 | 2023-01-18 |
 | [What Goes Around...Comes Around \- Radio Edit](https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [What Goes Around...Comes Around](https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo) | 5:13 | 2022-09-09 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2022-09-09 |  |
 | [Whatcha Gonna Do](https://open.spotify.com/track/23dPqeYWMu6PvfdA3JC7Kh) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [The Truth](https://open.spotify.com/album/2kH0ZJ5VuyBEBhKvnz9KHx) | 4:29 | 2022-10-28 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard hitting pop\. This is SALT\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,235 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,537 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 51 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 |
 | 52 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 |
 | 53 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
-| 54 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 54 | [I Really Fucked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 55 | [bitches get lonely](https://open.spotify.com/track/5cRaRnMOAogPowDitqkMKL) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [bitches get lonely](https://open.spotify.com/album/6JilLr2a8ifQBYaOxiedjN) | 2:31 |
 | 56 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 |
 | 57 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 |

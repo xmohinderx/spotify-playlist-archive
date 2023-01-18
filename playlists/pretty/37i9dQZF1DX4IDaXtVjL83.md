@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: DeVita, Gen Neo
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,476 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,701 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 2 | [Self Love](https://open.spotify.com/track/6pSCLFRN1QIJ4Rn0CDGwUC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Self Love](https://open.spotify.com/album/6YiGUfINmmOfD4zBZwagW8) | 3:49 |
 | 3 | [WHEN I MOVE \- Japanese Version](https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [WHEN I MOVE \(Japanese Version\)](https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd) | 2:58 |
 | 4 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 |
-| 5 | [POPPY](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 |
+| 5 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 |
 | 6 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 |
 | 7 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 |
 | 8 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |

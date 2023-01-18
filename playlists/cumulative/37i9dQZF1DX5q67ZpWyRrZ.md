@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> The best Indie tracks from the scene\. Cover \- Mitraz
+> The best Indie tracks from the scene\. Cover \- Rito Riba
 
-175 songs - 10 hr 12 min
+178 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,13 @@
 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2022-09-03 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI) | 3:41 | 2022-04-04 | 2022-04-26 |
-| [Aao Chalein](https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:05 | 2022-07-25 |  |
+| [Aao Chalein](https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:05 | 2022-07-25 | 2023-01-18 |
 | [Aao Chalein](https://open.spotify.com/track/4LX8OArGCZ3hS0imHepe83) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/4mMnTBM6r70UINlb5Ag6jA) | 3:05 | 2022-01-05 | 2022-07-29 |
 | [Aarzoo](https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Aarzoo](https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW) | 3:25 | 2021-12-06 | 2022-06-15 |
 | [Absolute](https://open.spotify.com/track/362kqwSxB52iW2t6LcPveG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Absolute](https://open.spotify.com/album/4UeiOPQE3Qxe8bo5U3jJZb) | 3:23 | 2021-12-06 | 2022-01-06 |
 | [Absolute](https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 3:23 | 2022-01-05 | 2022-03-22 |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2022-01-10 |  |
+| [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-01-17 |  |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-05-23 |  |
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2021-12-06 |  |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-23 | 2022-12-24 |
@@ -125,6 +126,7 @@
 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 | 2021-12-06 |  |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2021-12-06 |  |
 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 | 2021-12-06 | 2022-01-06 |
+| [Parda](https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Parda](https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6) | 3:12 | 2023-01-17 |  |
 | [Pardo](https://open.spotify.com/track/1cl1Wckhfp6MtydmHjVOyd) | [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Pardo](https://open.spotify.com/album/3RdqIXCoSYTHEXsJGHPwgT) | 3:46 | 2021-12-06 | 2022-08-10 |
 | [Parinda](https://open.spotify.com/track/2Pas1bpuA8riVr0BOTCpJx) | [Xubaan](https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ) | [Parinda](https://open.spotify.com/album/7705P7v2PKvpK7HZUd1SEc) | 4:41 | 2021-12-06 | 2022-05-24 |
 | [Pehli Baar Mile](https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Pehli Baar Mile](https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6) | 3:23 | 2022-12-22 |  |
@@ -147,6 +149,7 @@
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-20 |  |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2021-12-06 | 2022-01-06 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 |  |
+| [Shaayad](https://open.spotify.com/track/6ymoA9aCgqTyoQLIeR7vCX) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:28 | 2023-01-17 |  |
 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 | 2022-01-05 | 2022-05-24 |
 | [Shehzaada Shehzaadi](https://open.spotify.com/track/44cXOyWpfUAtRH6OdbG9xA) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Shehzaada Shehzaadi](https://open.spotify.com/album/3Zl7OMcAzHtC6tD7E30N7q) | 2:49 | 2022-01-05 | 2022-02-05 |
 | [Sitaara](https://open.spotify.com/track/1RRvJxYhx65qZJoJ4hKrIG) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Sitaara](https://open.spotify.com/album/6mVxCSUapeMqnhvitV8eGR) | 3:19 | 2021-12-06 | 2022-01-06 |

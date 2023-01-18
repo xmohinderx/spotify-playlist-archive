@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Lola Indigo & Luis Fonsi",
-  "num_followers": 268829,
+  "num_followers": 269036,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDhjZTc5Nzc2ZDI4ZWM5NmY2ZDdkMTc5MTcyZWQxYWM1",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDQ2MGVhMjA4OTgwNDJhNGM4OWVjMmYxOGRmMzM4Mjkw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -27,22 +27,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "La Esquina del Mall",
-        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
+        "name": "Mu\u00f1ecas",
+        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 207387,
-      "name": "La Esquina del Mall",
-      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
+      "duration_ms": 156318,
+      "name": "Mu\u00f1ecas",
+      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -63,6 +67,26 @@
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "La Esquina del Mall",
+        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "La Esquina del Mall",
+      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -95,30 +119,6 @@
       "duration_ms": 262309,
       "name": "AMOR DE CINE",
       "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Mu\u00f1ecas",
-        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 156318,
-      "name": "Mu\u00f1ecas",
-      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "NUNCA PASAR\u00c1",
-      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Bemaste",
         "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 144428,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "NUNCA PASAR\u00c1",
+      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Mil Maneras de Morir",
+        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mil Maneras de Morir",
+      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Mil Maneras de Morir",
-        "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Mil Maneras de Morir",
-      "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "La \u00daltima (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 176484,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 147149,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -499,6 +515,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Falsas Promesas",
         "url": "https://open.spotify.com/album/4NbpHL7tRAHNptRXQcsfak"
       },
@@ -523,18 +555,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "A Poca Luz",
-        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
+        "name": "fuiste",
+        "url": "https://open.spotify.com/album/1rrMseTyOHnWnU6dbqZC2A"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 147149,
-      "name": "A Poca Luz",
-      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
+      "duration_ms": 178064,
+      "name": "fuiste",
+      "url": "https://open.spotify.com/track/6eS0nYJ6XDrdZfkvUotzp3"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -559,18 +591,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "fuiste",
-        "url": "https://open.spotify.com/album/1rrMseTyOHnWnU6dbqZC2A"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         }
       ],
-      "duration_ms": 178064,
-      "name": "fuiste",
-      "url": "https://open.spotify.com/track/6eS0nYJ6XDrdZfkvUotzp3"
+      "duration_ms": 175200,
+      "name": "Buscando un Amor",
+      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -587,22 +619,6 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Buscando un Amor",
-      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 169933,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 182089,
       "name": "Chimbo",
       "url": "https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -711,6 +711,22 @@
       "duration_ms": 170400,
       "name": "Que Todo Sea Probar",
       "url": "https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fondo de Pantalla",
+        "url": "https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Fondo de Pantalla",
+      "url": "https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -763,26 +779,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "a tu manera",
-        "url": "https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "a tu manera",
-      "url": "https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
       },
@@ -795,58 +791,6 @@
       "duration_ms": 156623,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fondo de Pantalla",
-        "url": "https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Fondo de Pantalla",
-      "url": "https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -867,6 +811,42 @@
       "duration_ms": 183813,
       "name": "x ti - Remix",
       "url": "https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -935,6 +915,26 @@
       "duration_ms": 234041,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "a tu manera",
+        "url": "https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "a tu manera",
+      "url": "https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG"
     }
   ],
   "unique_name": "el nuevo pop",

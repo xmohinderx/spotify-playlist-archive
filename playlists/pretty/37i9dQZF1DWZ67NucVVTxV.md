@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,490 likes - 91 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,535 likes - 91 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 31 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
 | 32 | [Memories](https://open.spotify.com/track/79zKIZT7jEii0P5ZfKtgPX) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Memories](https://open.spotify.com/album/0BgalCTCs4Hitda1yc5LgJ) | 3:00 |
 | 33 | [Blessings](https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Kae's Study](https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV) | 2:40 |
-| 34 | [Game Changer \(Dike\)](https://open.spotify.com/track/60SqwQhxwfnlTjLLOxjIpi) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3BWXMGlLYJrtzcY44uNNcI) | 2:42 |
+| 34 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 |
 | 35 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 36 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 |
 | 37 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 90 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 |
 | 91 | [Non Stop](https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Non Stop](https://open.spotify.com/album/5MJX3wuUeSpFqqI3aRpIAn) | 2:50 |
 
-Snapshot ID: `MTY3MTM1OTI1NiwwMDAwMDAwMGYzYzg5ZGU5MjM3YTE3NWQ5YzhlMzYzYzE1ZWNkZjRh`
+Snapshot ID: `MTY3MTM1OTI1NiwwMDAwMDAwMDQ0MGNjMjYzZmFkYzQ1MDI0NWM4ZTE4NzYyYTU5MmUz`

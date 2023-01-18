@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973 likes - 69 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 980 likes - 69 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 4 | [Without You](https://open.spotify.com/track/1ukKYqHQScB2piFg3BPo5B) | [Les Indiscretes](https://open.spotify.com/artist/7IvBsdxPTKLRQFusK3KokR), [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi) | [Without You](https://open.spotify.com/album/7H6BtQAoejzI9TblUBWALn) | 7:15 |
 | 5 | [I Want You](https://open.spotify.com/track/4ZDTSzgw2enJ0LhQdG9lzk) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO) | [I Want You](https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q) | 3:46 |
 | 6 | [Hey Hey \- DF's Attention Vocal Mix](https://open.spotify.com/track/70UEWHNbuYCh70KK7QCNj3) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/1cDV081Kr7TEOO2OH2RFhH) | 7:15 |
-| 7 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
+| 7 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
 | 8 | [Head, Shoulders, Kneez & Toez \- Crazy Cousinz](https://open.spotify.com/track/7CyGnGFVThsF02CNcMyBr6) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 4:47 |
 | 9 | [Light It Up](https://open.spotify.com/track/1W8P1dDqUU31AU5NongE6d) | [Tripleset](https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC) | [Light It Up](https://open.spotify.com/album/2k4pNCMWbtSrPaS2P3IYT4) | 3:54 |
 | 10 | [Trumpet](https://open.spotify.com/track/1CrZemmAWNHJWIjAF7UJlO) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Trumpet](https://open.spotify.com/album/1PPQH9pk2g9QmignwevOsV) | 3:54 |

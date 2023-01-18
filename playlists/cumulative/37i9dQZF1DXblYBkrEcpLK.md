@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド\(Kessoku Band\) ©はまじあき／芳文社・アニプレックス
 
-373 songs - 1 day 1 hr 49 min
+374 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aimaimoko](https://open.spotify.com/track/4zovLpjPXahrbNoiSyqc6a) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [BLUE COMPASS](https://open.spotify.com/album/4b2Jc5WVnXW35FRkTzcIhl) | 4:21 | 2022-06-14 | 2022-07-10 |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-10-03 | 2022-11-13 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 |  |
-| [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2023-01-13 |  |
+| [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2023-01-13 | 2023-01-18 |
 | [ALIVE](https://open.spotify.com/track/5cLEdGMJj860k60T8u31VV) | [渡部恵子](https://open.spotify.com/artist/419949JhPv5FYsGemkudvB) | [ALIVE](https://open.spotify.com/album/54lGEHlJHsgt59WxNVIPg5) | 3:20 | 2022-06-14 | 2022-06-18 |
 | [anemone](https://open.spotify.com/track/2uVy8hdTxgEyzY0dJQ1Kf7) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Nebula](https://open.spotify.com/album/4LQVlXzxqW7leT6P0jYLnS) | 4:40 | 2022-06-21 | 2022-06-25 |
 | [ANIMA](https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:27 | 2022-06-24 | 2022-07-01 |
@@ -52,7 +52,7 @@
 | [dawn of infinity](https://open.spotify.com/track/6XGW8WSZ2ZFmvR2rUg2aAZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/5uhmrzAYZGmiIxXSClQ9Mk) | 4:53 | 2022-06-12 | 2022-07-20 |
 | [Day of Bright Sunshine](https://open.spotify.com/track/1e1N1EllYYZpMaOffVx2hK) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Day of Bright Sunshine](https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK) | 4:19 | 2022-06-09 | 2022-07-28 |
 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 | 2023-01-10 |  |
-| [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-13 |  |
+| [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2023-01-12 |  |
 | [Destiny Sky](https://open.spotify.com/track/6ZrUo8yKzHwTxFnL1ujuEr) | [若井 友希](https://open.spotify.com/artist/73JD6yDn5gO4yjoeAOmbwV) | [Destiny Sky](https://open.spotify.com/album/5n5KwJPFtcQVdzErwkuiMZ) | 5:13 | 2022-06-12 | 2022-06-15 |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-09 | 2022-07-29 |
 | [DONUT](https://open.spotify.com/track/3wW8vRIGlHd8AEWFGI62bT) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [SHiENA](https://open.spotify.com/album/1Y1WeX2E8wOiCtMidUcFzx) | 4:52 | 2022-06-14 | 2022-07-23 |
@@ -351,6 +351,7 @@
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |
+| [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2023-01-18 |  |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-06-09 | 2022-07-29 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-06-24 | 2022-07-25 |
@@ -362,7 +363,7 @@
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-09 | 2022-06-12 |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-06-09 |  |
 | [花に赤い糸](https://open.spotify.com/track/3pzx0iF5TZXNVgvXEJSzMB) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Peachy!](https://open.spotify.com/album/0WHIgko1oBSbayvwe9tdze) | 4:14 | 2022-06-14 | 2022-06-21 |
-| [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-13 |  |
+| [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-12 |  |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-06-14 | 2022-07-15 |
 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 | 2022-07-07 | 2022-07-25 |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-21 | 2022-06-25 |

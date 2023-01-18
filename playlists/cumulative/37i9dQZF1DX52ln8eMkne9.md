@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-242 songs - 18 hr 7 min
+243 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2021-12-17 | 2023-01-03 |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-22 |  |
 | [Happy Little Sunshine Beam](https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 4:56 | 2022-08-30 |  |
+| [Hate is the Basis \(of Love\)](https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-01-17 |  |
 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2022-08-31 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2021-12-17 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-02-18 |  |
@@ -229,7 +230,7 @@
 | [Violets for Your Furs](https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Violets for Your Furs](https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt) | 3:36 | 2022-12-30 |  |
 | [Wave](https://open.spotify.com/track/5BIVTo728wEfYS3xf29eYl) | [Goro Ito Ensemble](https://open.spotify.com/artist/6f7iXhB7uBGjVP8Rn79QGq) | [Amorozsofia \-Abstract João\-](https://open.spotify.com/album/5Mz5Z0GBfDnDnh3fCQITLG) | 4:40 | 2021-12-17 | 2022-09-15 |
 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 | 2021-12-17 | 2022-02-18 |
-| [What a Wonderful World](https://open.spotify.com/track/7a4zmOB89TE5AC3nAMwhMN) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:28 | 2021-12-17 |  |
+| [What a Wonderful World](https://open.spotify.com/track/7a4zmOB89TE5AC3nAMwhMN) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:28 | 2021-12-17 | 2023-01-18 |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2021-12-17 |  |
 | [What Else Can I Do](https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Way Down Low](https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR) | 4:44 | 2021-12-17 | 2022-07-29 |
 | [What Else Can I Do](https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Way Down Low](https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz) | 4:44 | 2022-08-16 | 2022-08-31 |

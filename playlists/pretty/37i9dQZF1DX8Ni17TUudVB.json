@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 132857,
+  "num_followers": 132903,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGRmYmMyNDA3MzdmYTQ4ZWI1ZTQ5MDdiM2JkY2EzMmQz",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGYyOWMyNzE1NGI4MDM1OWJkZWY0NDU3YjZlYmVmNDI1",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
       "added_at": "2022-12-13 22:14:31",
       "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
@@ -179,22 +195,6 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
       },
@@ -1307,6 +1307,46 @@
       "duration_ms": 170564,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Remember the Summer (feat. Karra)",
+        "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Frogmonster",
+          "url": "https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Remember the Summer (feat. Karra)",
+      "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1335,46 +1375,6 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Remember the Summer (feat. Karra)",
-        "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        },
-        {
-          "name": "Frogmonster",
-          "url": "https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp"
-        },
-        {
-          "name": "Karra",
-          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Remember the Summer (feat. Karra)",
-      "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
+      },
+      "artists": [
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
-      },
-      "artists": [
-        {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Death Rail",
+        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        }
+      ],
+      "duration_ms": 151112,
+      "name": "Death Rail",
+      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Death Rail",
-        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
-      },
-      "artists": [
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        }
-      ],
-      "duration_ms": 151112,
-      "name": "Death Rail",
-      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Back to the Oldskool",
-        "url": "https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Back to the Oldskool",
-      "url": "https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP"
+      "duration_ms": 150160,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
     }
   ],
   "unique_name": "Ejercicio Total",

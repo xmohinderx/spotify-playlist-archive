@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "'Mali' is on the cover of IndiEnglish. Stream now!",
+  "description": "Best of Indian English tracks. Cover- Mali",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -58,7 +58,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 296015,
       "name": "24 X 7",
       "url": "https://open.spotify.com/track/56coHZPjIURSxnHfEFDMXW"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 183214,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 188475,
       "name": "Chills",
       "url": "https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 165375,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/51JtkaZ5scmC6VH4PIZNQ1"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 180013,
       "name": "Just A Word",
       "url": "https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u"
@@ -1524,6 +1524,28 @@
       "duration_ms": 169200,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/29YHCfHLkqLLWcf8GhPnA0"
+    },
+    {
+      "album": {
+        "name": "lethal",
+        "url": "https://open.spotify.com/album/1W1tJsWC5eU7S7ll2BZF7x"
+      },
+      "artists": [
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V"
+        },
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158138,
+      "name": "lethal",
+      "url": "https://open.spotify.com/track/12qmluxUw80kMqzzhIDFyA"
     },
     {
       "album": {
@@ -2098,7 +2120,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 160743,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0UH9PHiyuPQoxSPweocyRc"
@@ -2258,7 +2280,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 210681,
       "name": "Silent Prayer",
       "url": "https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM"
@@ -2642,7 +2664,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 190322,
       "name": "UNO",
       "url": "https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8"

@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-201 songs - 12 hr 8 min
+202 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Kar Gayi Chull](https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:07 | 2019-02-06 |  |
 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 | 2021-01-25\* | 2021-07-14 |
 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-18 |  |
+| [Kesariya \- Lost Frequencies Remix](https://open.spotify.com/track/1lGM7rKw8G2Sz0DDuKL82f) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Kesariya \(Lost Frequencies Remix\)](https://open.spotify.com/album/2DjMuo6Tz2BfmvgA2p63a3) | 4:17 | 2023-01-17 |  |
 | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/track/46NYX9zIml71qtfYYjakTI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya Audio Teaser \(From "Brahmastra"\)](https://open.spotify.com/album/715BUKTdGdNjePHLhRltCT) | 0:44 | 2022-04-18 | 2022-07-21 |
 | [Khidki](https://open.spotify.com/track/2WRDVpd7mSK2rL0MwREuNX) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Khidki](https://open.spotify.com/album/0o3iCfVbYLIn6Ase53K2ts) | 4:07 | 2020-10-28 | 2022-04-19 |
 | [khoya sa](https://open.spotify.com/track/2yspDGJntwkUjvzjSbeqZg) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [khoya sa](https://open.spotify.com/album/6IiHRcLjSVjw20V5ctMCoU) | 3:14 | 2021-11-29 | 2022-08-05 |

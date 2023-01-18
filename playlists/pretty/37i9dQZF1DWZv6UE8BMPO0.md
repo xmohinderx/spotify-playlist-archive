@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,782 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,660 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 17 | [Silver Bells](https://open.spotify.com/track/5cT9UuSKWfCYbDCDQwS2aY) | [Art Silver Trio](https://open.spotify.com/artist/1IdNwXpBJIXak2tdHmICgT) | [Home For Christmas](https://open.spotify.com/album/1K6iFbZbde2NZetHrW1Jj0) | 4:09 |
 | 18 | [Home for the Holidays](https://open.spotify.com/track/0UKQkeyDS1FtuRzmp6uJPw) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 5:39 |
 | 19 | [Mistletoe And Holly](https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Mistletoe And Holly](https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu) | 2:26 |
-| 20 | [Winter Wonderland](https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 3:52 |
+| 20 | [Winter Wonderland](https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 3:52 |
 | 21 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
 | 22 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
 | 23 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/5LdDxFsB3UlT9b1OmPKDeI) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 1:53 |

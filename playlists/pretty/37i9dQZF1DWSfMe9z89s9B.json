@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Kelz",
-  "num_followers": 1326560,
+  "num_followers": 1326672,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDg2N2IzNzA3ZGJhMGI3NjViZDNkNmIyZDc0ZTVlMTg4",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDM3NTIyY2QxZWI3MDBjZjU3ZmU2Y2RhOGU4ZTU3Yjlm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Too Late To Die Young",
@@ -303,6 +287,22 @@
       "duration_ms": 116129,
       "name": "Mad Riches",
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt"
     },
     {
+      "added_at": "2022-09-09 04:06:40",
+      "album": {
+        "name": "IN THE AIR/BILL$ (SPED UP)",
+        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 102013,
+      "name": "IN THE AIR (SPED UP)",
+      "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -821,20 +837,24 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
-      "added_at": "2022-09-09 04:06:40",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "IN THE AIR/BILL$ (SPED UP)",
-        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
+        "name": "Good For Now",
+        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 102013,
-      "name": "IN THE AIR (SPED UP)",
-      "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
+      "duration_ms": 241877,
+      "name": "Good For Now (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -927,26 +947,6 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Good For Now",
-        "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 241877,
-      "name": "Good For Now (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1049,6 +1049,22 @@
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
+      "added_at": "2022-09-09 04:06:40",
+      "album": {
+        "name": "IN THE AIR/BILL$ (SPED UP)",
+        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 120216,
+      "name": "BILL$ (SPED UP)",
+      "url": "https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Off Days",
@@ -1079,22 +1095,6 @@
       "duration_ms": 184615,
       "name": "Seltzer",
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
-    },
-    {
-      "added_at": "2022-09-09 04:06:40",
-      "album": {
-        "name": "IN THE AIR/BILL$ (SPED UP)",
-        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 120216,
-      "name": "BILL$ (SPED UP)",
-      "url": "https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x"
-    },
-    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "wood tip",
@@ -1201,6 +1185,22 @@
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Hold Me",
@@ -1215,6 +1215,22 @@
       "duration_ms": 163689,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1237,20 +1253,20 @@
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-08-19 04:17:01",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         }
       ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1297,22 +1313,6 @@
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
       "added_at": "2022-09-09 04:06:40",
       "album": {
         "name": "Like Neptune",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Wild Animals",
-        "url": "https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Wild Animals",
-      "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
-    },
-    {
       "added_at": "2022-09-23 04:05:05",
       "album": {
         "name": "Goodbye Paris",
@@ -1375,6 +1359,22 @@
       "duration_ms": 225933,
       "name": "Goodbye Paris",
       "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Wild Animals",
+        "url": "https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Wild Animals",
+      "url": "https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE"
     },
     {
       "added_at": "2022-07-22 04:15:47",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Dreaming Eyes",
-        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Sent from Above",
-      "url": "https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU"
-    },
-    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Luv N Chaos",
@@ -1611,26 +1595,6 @@
       "duration_ms": 222857,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54"
-      },
-      "artists": [
-        {
-          "name": "Julius",
-          "url": "https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs"
-        },
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 193993,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1665,6 +1629,26 @@
       "url": "https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu"
     },
     {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "PERFECT PACE",
+        "url": "https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        },
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "PERFECT PACE",
+      "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
+    },
+    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Remember Your North Star",
@@ -1681,28 +1665,40 @@
       "url": "https://open.spotify.com/track/2k53CUO1l6n9IdwYerskQ4"
     },
     {
-      "added_at": "2022-09-30 04:04:40",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "RISEN",
-        "url": "https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF"
+        "name": "Dreaming Eyes",
+        "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
       },
       "artists": [
         {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        },
-        {
-          "name": "Tales Of The Town",
-          "url": "https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT"
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
         }
       ],
-      "duration_ms": 159563,
-      "name": "RISEN",
-      "url": "https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y"
+      "duration_ms": 187863,
+      "name": "Sent from Above",
+      "url": "https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54"
+      },
+      "artists": [
+        {
+          "name": "Julius",
+          "url": "https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs"
+        },
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 193993,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD"
     },
     {
       "added_at": "2022-10-07 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: shego y Natalia Lacunza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,635 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,686 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 2 | [30 de Febrero](https://open.spotify.com/track/0wOwmzIfUBzrbI3ooWC5kf) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY), [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV) | [30 de Febrero](https://open.spotify.com/album/442Wnb4RgTfPDDPY24ajBC) | 2:44 |
 | 3 | [Espresso](https://open.spotify.com/track/2D7Mm6iS2CKnI8uRGvmdbi) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Espresso](https://open.spotify.com/album/2CDiUmUqK5PKkYjzpa1qgf) | 4:04 |
 | 4 | [Loco](https://open.spotify.com/track/0IXqjQvowN9xWG8TKLiLR3) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Loco](https://open.spotify.com/album/7hIQwYkwVkG0gGfi8g8WvF) | 3:01 |
-| 5 | [agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
+| 5 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
 | 6 | [A Tiempo de Saltar](https://open.spotify.com/track/0gVk1XyjHSwQKRc0BDNT1A) | [Los Pilotos](https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4) | [A Tiempo de Saltar](https://open.spotify.com/album/4Goniy8EbyA32vevPNqbTe) | 3:53 |
 | 7 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
 | 8 | [COPILOTO](https://open.spotify.com/track/2PwsYGHIIngJGkxURvmpZG) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [COPILOTO](https://open.spotify.com/album/09L5tvJbAJsZc1jFhIe8CI) | 3:18 |

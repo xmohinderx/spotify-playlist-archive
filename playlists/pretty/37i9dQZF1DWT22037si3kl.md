@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,115 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,348 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 41 | [Abusadão](https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Abusadão](https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6) | 2:56 |
 | 42 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 43 | [Longe](https://open.spotify.com/track/4ZublBKLDU0UFxmfOXJECf) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Longe](https://open.spotify.com/album/7ITDtj5kpJ2BfVYSAwGPkZ) | 2:34 |
-| 44 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
+| 44 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 45 | [Royal Salute](https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Royal Salute](https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH) | 4:39 |
 | 46 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 47 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 48 | [G19](https://open.spotify.com/track/7leBjfWI2ofnMeEWLqVSer) | [Moreir4](https://open.spotify.com/artist/67Ly0I5kLhLHjlT6L2dJTW), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Planetarium Projects](https://open.spotify.com/artist/1hlveAkped8r2RE3HU4WFm) | [G19](https://open.spotify.com/album/3tCs26KwquFJnxajDGWSON) | 2:16 |
 | 49 | [Meu Carro na Pista](https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Carro na Pista](https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV) | 2:24 |
-| 50 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
+| 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 
-Snapshot ID: `MTY3Mzg3ODA2MSwwMDAwMDAwMDlmMzZmNmIyYzNmYzJmOTAwNzYzMWIyMmU4NmM1ZjQ1`
+Snapshot ID: `MTY3Mzg3ODA2MSwwMDAwMDAwMDQ2Yzk5ZmE1MDNhMzMwM2NkYTRjY2Y3NThlZDJjY2Zi`

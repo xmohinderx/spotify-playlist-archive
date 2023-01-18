@@ -4,7 +4,7 @@
 
 > You feel the sun on your face.
 
-99 songs - 5 hr 8 min
+100 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 | 2021-04-23 | 2022-07-29 |
 | [Freedom Sounds](https://open.spotify.com/track/4dNDYHH9JPAHc339r1y8ty) | [Soul Brothers](https://open.spotify.com/artist/1UTxQ0jbtZoJPXD9cUC3iD) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 4:10 | 2021-04-23 | 2022-07-29 |
 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 | 2021-04-23 |  |
-| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2021-04-23 |  |
+| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2021-04-23 | 2023-01-18 |
+| [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2021-04-23 |  |
 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 | 2021-04-23 |  |
 | [Gumma](https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 1:51 | 2021-04-23 |  |
 | [Gumma](https://open.spotify.com/track/6Jz8AqlYRx2QaReB3Schvn) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 1:51 | 2021-04-23 | 2022-07-29 |

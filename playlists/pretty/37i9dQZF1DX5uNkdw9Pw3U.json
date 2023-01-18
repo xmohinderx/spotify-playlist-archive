@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 57977,
+  "num_followers": 58041,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGEzOGMzNDM0MWE4OWUxMTBhZjA5YzczMjkyNTMxZjVi",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDlmMjMxNTlmNGRiNTcwYTJmZjY0OTY0MzZiNDg3ZGQ2",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204468,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 204468,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM"
+      "duration_ms": 248571,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 165840,
       "name": "Don't Pretend",
       "url": "https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 227880,
       "name": "Tamale",
       "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Aint Nobody",
         "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Sweet Insomnia",
-        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
     },
     {
       "added_at": "2023-01-12 23:00:00",

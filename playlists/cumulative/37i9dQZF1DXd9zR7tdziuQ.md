@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-152 songs - 8 hr 57 min
+153 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2022-08-25 |  |
 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 | 2022-08-25 |  |
 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 | 2022-08-25 |  |
-| [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 | 2022-08-25 |  |
+| [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 | 2022-08-25 | 2023-01-18 |
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2022-08-25 |  |
 | [Havana \- Acoustic](https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Covers](https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT) | 2:21 | 2022-08-25 |  |
 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 2:34 | 2022-08-25 |  |
@@ -159,6 +159,7 @@
 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 | 2022-08-25 |  |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2022-08-25 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 | 2022-08-25 |  |
+| [You're The One That I Want](https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane](https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ) | 3:12 | 2022-08-25 |  |
 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 | 2022-08-25 |  |
 
 \*This playlist was first scraped on 2022-11-13. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul",
-  "num_followers": 125805,
+  "num_followers": 125902,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGZmMjk1NjY3YmRjY2JiY2ZiN2FkOWQ4NzU3MDVhMjgx",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGE0NTA5ZTEzYTVlY2ZjNzdjYTdhMDc0NWQ1ZjczZTM0",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Lose My Cool (Remixes)",
-        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 257301,
-      "name": "Lose My Cool - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Beat Tape 2",
         "url": "https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 276785,
       "name": "Beautiful Escape",
       "url": "https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Lose My Cool (Remixes)",
+        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 257301,
+      "name": "Lose My Cool - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
     },
     {
       "added_at": "2023-01-12 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1750118,
+  "num_followers": 1750106,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDcwMGI3NzgzNjQ2ZWVmZTY3ODI1MjA5NDkwNjg0NmRm",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGMxNWMwODFiMmRiYWZiODlkMWRiYjE2YTQ4YTFhMmEw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -575,46 +579,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Blow It (feat. Kali)",
-        "url": "https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        },
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 163011,
-      "name": "Blow It (feat. Kali)",
-      "url": "https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Real Bitch (feat. Gloss Up)",
         "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
       },
@@ -635,18 +599,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Blow It (feat. Kali)",
+        "url": "https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 163011,
+      "name": "Blow It (feat. Kali)",
+      "url": "https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 137142,
       "name": "Bop Bop",
       "url": "https://open.spotify.com/track/1891EswrvOu3kHIcROshhe"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Get It Girl",
-        "url": "https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 165302,
-      "name": "Get It Girl",
-      "url": "https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 189887,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Get It Girl",
+        "url": "https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 165302,
+      "name": "Get It Girl",
+      "url": "https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc"
+        "name": "CAN'T TELL ME NOTHING",
+        "url": "https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi"
       },
       "artists": [
         {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Nann Hoe",
-      "url": "https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn"
+      "duration_ms": 179162,
+      "name": "CAN'T TELL ME NOTHING",
+      "url": "https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46"
     }
   ],
   "unique_name": "Workout Twerkout",

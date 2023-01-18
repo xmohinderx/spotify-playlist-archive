@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,282 likes - 138 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,373 likes - 138 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

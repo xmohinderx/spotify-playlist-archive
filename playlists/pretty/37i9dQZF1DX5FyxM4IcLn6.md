@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,122 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,120 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 71 | [Hymn Of Heaven \- Radio Version](https://open.spotify.com/track/5arArUZcmIQo6pfNYkHFjP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Radio Version\)](https://open.spotify.com/album/3CrI4xz8ypqjqOE7WtMrNA) | 4:05 |
 | 72 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
 | 73 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
-| 74 | [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 |
-| 75 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 |
+| 74 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 |
+| 75 | [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 |
 
-Snapshot ID: `MTY3MTExNjU1OSwwMDAwMDAwMDlmOWQ3NmM1ZWM1NTIzMzVhMDQ1MjEyODk2OGIxMDAw`
+Snapshot ID: `MTY3MTExNjU1OSwwMDAwMDAwMDk4MjNlMDQ3NTk5N2MyMjgxMTA3ZTgzZTY2NTlhNjBj`

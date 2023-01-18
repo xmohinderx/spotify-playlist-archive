@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 46464,
+  "num_followers": 46499,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGEyYmI5ZGFhNTg5ODc4Y2JjYWFjMDUzNzU5YTU3YmE5",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGIzMTRlNTI0NWMyZWEyNjQ0OTkzMjlhNmVhMjFlOTBm",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/6zP2bIJWqFZtJ8dtxeDzcp"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6zP2bIJWqFZtJ8dtxeDzcp"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 196067,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "B61",
         "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+        "name": "Like Everybody Else (Acoustic)",
+        "url": "https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8"
       },
       "artists": [
         {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 196067,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+      "duration_ms": 194866,
+      "name": "Like Everybody Else - Acoustic",
+      "url": "https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Like Everybody Else (Acoustic)",
-        "url": "https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Like Everybody Else - Acoustic",
-      "url": "https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
-      },
-      "artists": [
-        {
-          "name": "The Wailin' Jennys",
-          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
-        }
-      ],
-      "duration_ms": 222704,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -1215,6 +1199,38 @@
       "duration_ms": 238213,
       "name": "Untamed",
       "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Providence Canyon",
+        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
+      },
+      "artists": [
+        {
+          "name": "The Wailin' Jennys",
+          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
+        }
+      ],
+      "duration_ms": 222704,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Providence Canyon",
-        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Know Your Mind",
-        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
-      },
-      "artists": [
-        {
-          "name": "Jon and Roy",
-          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
-        }
-      ],
-      "duration_ms": 202808,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Know Your Mind",
+        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "duration_ms": 202808,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Misnomer",
         "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
@@ -1427,22 +1411,6 @@
       "duration_ms": 222815,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 195923,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1467,6 +1435,38 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 195923,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Only Pieces of the Truth",
-        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hart",
-          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
-        }
-      ],
-      "duration_ms": 261788,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 208297,
       "name": "Dark Four Door",
       "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Only Pieces of the Truth",
+        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hart",
+          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
+        }
+      ],
+      "duration_ms": 261788,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Monogamy",
-      "url": "https://open.spotify.com/track/6nyltn9zx3VG8Inb3oVREy"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213229,
       "name": "New House",
       "url": "https://open.spotify.com/track/1wjekflX5IeRt4JhnF4vix"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Monogamy",
+      "url": "https://open.spotify.com/track/6nyltn9zx3VG8Inb3oVREy"
     },
     {
       "added_at": "2022-07-27 14:00:29",

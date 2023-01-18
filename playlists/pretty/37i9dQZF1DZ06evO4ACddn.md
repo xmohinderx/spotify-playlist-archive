@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 28 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
 | 29 | [Collider](https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs) | 3:08 |
 
-Snapshot ID: `Mjc4OTc5OTIsMDAwMDAwMDAyMmQ1MzYzNjFiYWJmZmFmYjVkNGYwMWRiMGEzZTNlNQ==`
+Snapshot ID: `Mjc4OTk0MjAsMDAwMDAwMDBkZGVkNzU1ZjQyNjJjZTdkZjQxYTg0N2Y1MGUyNWE3MA==`

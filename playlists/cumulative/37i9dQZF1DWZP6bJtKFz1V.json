@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 182500,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
@@ -2214,6 +2214,32 @@
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "album": {
+        "name": "down bad",
+        "url": "https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        },
+        {
+          "name": "Preloved",
+          "url": "https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "down bad - fanclubwallet, preloved Remix",
+      "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
     },
     {
       "album": {

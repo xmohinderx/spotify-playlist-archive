@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado com Xand Avião, Luccas Carlos, Melim, Grupo Revelação e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,819,966 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,596 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 16 | [Mal Resolvida](https://open.spotify.com/track/5SLz0LUtUnABFF8JX6CBHL) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Mal Resolvida](https://open.spotify.com/album/6wuhrUI1kXHuVJhVv9xHTL) | 3:06 |
 | 17 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 |
 | 18 | [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 |
-| 19 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 |
+| 19 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 |
 | 20 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 21 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 |
 | 22 | [Filhas do Improvável](https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Filhas do Improvável](https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1) | 3:37 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 64 | [Verão](https://open.spotify.com/track/5rNcfma0PgkCMgJCbsdJEW) | [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Verão](https://open.spotify.com/album/3POD3iBXKuBTdaEDncqj4q) | 3:35 |
 | 65 | [Lá Vem Ela](https://open.spotify.com/track/5i57n6YB5EQt1l530p2w5J) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Viradela](https://open.spotify.com/album/6n3HJjDlGqfvoAnfWDyu2i) | 3:45 |
 | 66 | [giz de cera](https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [giz de cera](https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr) | 2:48 |
-| 67 | [Vou Ficar Bem](https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Vou Ficar Bem](https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4) | 2:29 |
+| 67 | [Vou Ficar Bem](https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Vou Ficar Bem](https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4) | 2:29 |
 | 68 | [Mafioso](https://open.spotify.com/track/2RYusotFeHDjB35X7RXYPN) | [Felipe Mar](https://open.spotify.com/artist/7tMtZSKTF28bqfqZWmbZSA), [Jall](https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Mafioso](https://open.spotify.com/album/1bntKJzOkg4mbFvMoAaKnr) | 1:54 |
 | 69 | [Chegou o Verão](https://open.spotify.com/track/2dHZDI3GuHA83G3p3oLb2A) | [Papazoni](https://open.spotify.com/artist/28GptxBejq2usRvCObEG81) | [A Cara do Verão](https://open.spotify.com/album/246g0W07Q1KWPE1MESY4LB) | 2:19 |
 | 70 | [Dois Safados \- Ao Vivo](https://open.spotify.com/track/6qXjVOaklwSFWjlywYY2mY) | [Edu E Maraial](https://open.spotify.com/artist/4pfsxcqLdLvvzFUei66Bga), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Dois Safados \(Ao Vivo\)](https://open.spotify.com/album/1fCxqjg1lx3PJhhakVj2oE) | 2:05 |

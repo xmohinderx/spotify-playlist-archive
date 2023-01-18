@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 199640,
       "name": "\u4e0d\u4ecb\u610f",
       "url": "https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN"
@@ -7364,7 +7382,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 173382,
       "name": "\u5c0f\u57ce\u590f\u5929",
       "url": "https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2"
@@ -7400,7 +7418,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 203221,
       "name": "\u5c31\u5fd8\u4e86\u5427",
       "url": "https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL"
@@ -8516,7 +8534,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
@@ -9976,6 +9994,24 @@
       "duration_ms": 285833,
       "name": "\u9019\u4e16\u754c\u90a3\u9ebc\u591a\u4eba - \u96fb\u5f71\u300a\u6211\u8981\u6211\u5011\u5728\u4e00\u8d77\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "\u9047\u898b",
+      "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
     },
     {
       "album": {

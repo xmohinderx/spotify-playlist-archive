@@ -4,7 +4,7 @@
 
 > Moody electronica for the night time hours
 
-82 songs - 6 hr 38 min
+83 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,14 @@
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-12-01 |  |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-12-01 |  |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-12-01 |  |
+| [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 | 2023-01-13 |  |
 | [Natural](https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:59 | 2022-12-01 | 2023-01-16 |
 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 | 2022-12-01 | 2023-01-13 |
 | [Old Love](https://open.spotify.com/track/0W3AkAITCAqzCCzU3vjEoV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Old Love / The Silence in Between](https://open.spotify.com/album/7lzmVCDtNyrnJuzurcmB4p) | 3:30 | 2022-12-01 | 2023-01-13 |
 | [Only If U](https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Only If U](https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN) | 5:14 | 2022-12-01 | 2022-12-16 |
 | [Orsay](https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Orsay](https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4) | 4:06 | 2022-12-01 |  |
 | [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 | 2022-12-01 |  |
-| [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 | 2023-01-13 |  |
+| [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 | 2023-01-13 | 2023-01-18 |
 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 | 2022-12-01 |  |
 | [Revelation \- Barry Can't Swim Remix](https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Revelation \(Barry Can't Swim Remix\)](https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ) | 4:21 | 2022-12-01 |  |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-01-13 |  |

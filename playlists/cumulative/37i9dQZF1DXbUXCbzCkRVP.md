@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-97 songs - 6 hr 18 min
+98 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Albert's Shuffle \- 2002 Remix w/o Horns](https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 6:58 | 2022-05-25 |  |
 | [Alone With Yourself](https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Alone With Yourself](https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH) | 3:53 | 2022-11-24 |  |
 | [Apollo Jump](https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 3:26 | 2022-07-08 |  |
+| [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 | 2023-01-13 |  |
 | [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 | 2022-05-25 |  |
 | [Blue Dreamer](https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 2:13 | 2022-11-24 |  |
 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 | 2022-05-25 |  |
@@ -95,7 +96,7 @@
 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 | 2022-05-25 |  |
 | [The Grind](https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [The Grind](https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC) | 1:16 | 2022-11-24 |  |
 | [The Messiah Will Come](https://open.spotify.com/track/5Wz5FAR8rtzahwqPDIifRj) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ), [D\. Rivers](https://open.spotify.com/artist/2hFRqFw8t3n8L0oxSzJIhY) | [True Stories](https://open.spotify.com/album/18MxC4z6K39xkMOd2FWzBf) | 9:24 | 2022-06-29 | 2022-07-26 |
-| [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 | 2022-11-24 |  |
+| [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 | 2022-11-24 | 2023-01-18 |
 | [The Screwdriver](https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 3:08 | 2022-05-25 |  |
 | [The Stumble](https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:14 | 2022-05-25 |  |
 | [The Supernatural](https://open.spotify.com/track/4r4fq97cNvnRw7TmN6AaPr) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Truly English Blues Rock Band](https://open.spotify.com/album/4G5jNn7Xlh9eOC1ZyCJYDS) | 2:53 | 2022-05-25 | 2023-01-10 |

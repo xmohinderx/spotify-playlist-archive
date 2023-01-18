@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 42515,
+  "num_followers": 42592,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDEyMTQwNzQwNTNiNjcxM2VlY2Q1NGIxZjM1NWJmOTJj",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGQzZDhlMjhhNDc3NzUwMjMzYzc5NjM3ODdlYTlkYTNi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Witness (feat. Rajiv Dhall)",
         "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 213133,
       "name": "Witness - feat. Rajiv Dhall",
       "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Favorite Peeps",
-        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "All My Loving",
         "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 178537,
       "name": "All My Loving",
       "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Favorite Peeps",
+        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Foreign Sea",
-        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192489,
-      "name": "Far from Home",
-      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Masquerades",
         "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Foreign Sea",
+        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 192489,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/4XQ4LiJPSQXOxa3ap31Z4g"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Pink Razor",
         "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 154491,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 203966,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Hang On To Me",
         "url": "https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 202758,
       "name": "Hang On To Me",
       "url": "https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Becoming All Alone",
-        "url": "https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Becoming All Alone",
-      "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "And I'm Still Thinking About That",
         "url": "https://open.spotify.com/album/5OfSLeae51B6fEflQ08R3g"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 162373,
       "name": "Same Effect",
       "url": "https://open.spotify.com/track/4eQusHQO3bQ2ewZZougkhQ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Becoming All Alone",
+        "url": "https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Becoming All Alone",
+      "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
     },
     {
       "added_at": "2023-01-13 05:00:00",

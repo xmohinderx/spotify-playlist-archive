@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-243 songs - 15 hr 12 min
+244 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ashes and Leaves](https://open.spotify.com/track/64q6TPp4OacNHu9gulAXsv) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Ashes and Leaves](https://open.spotify.com/album/3W5igH7osnheDaB6nivsaL) | 3:32 | 2021-10-29 | 2022-04-21 |
 | [Birds](https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL) | [Jessie Early](https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL) | [The Fire Never Dies](https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8) | 3:41 | 2021-10-29 | 2022-07-29 |
 | [Blind in the Fray](https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 3:33 | 2021-10-29 | 2022-04-20 |
-| [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2022-04-15 |  |
+| [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2022-04-15 | 2023-01-18 |
 | [Blood Hunters](https://open.spotify.com/track/69HcvrXZ68cJKE0lreubP3) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Blood Hunters](https://open.spotify.com/album/4fwcICz8hVOSxjJoXbjXIH) | 3:19 | 2022-04-15 | 2022-04-21 |
 | [Bloomsday](https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Bloomsday](https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy) | 3:19 | 2021-10-29 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-04-15 |  |
@@ -204,6 +204,7 @@
 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 | 2021-10-29 | 2022-07-28 |
 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 | 2022-04-15 |  |
 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 | 2021-10-29 |  |
+| [Standing in the Doorway](https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc) | 2:37 | 2022-10-07 |  |
 | [Standing in the Doorway](https://open.spotify.com/track/7oYPCRpV3oPCl2fJ2Gud71) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/6u26KQYzo46ySO2qT9CEZA) | 2:37 | 2022-04-15 | 2022-04-19 |
 | [Stanley Park](https://open.spotify.com/track/0SWNotmLvAsYVMQSDJsRk8) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 2:50 | 2022-04-15 | 2022-04-21 |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-07 |  |

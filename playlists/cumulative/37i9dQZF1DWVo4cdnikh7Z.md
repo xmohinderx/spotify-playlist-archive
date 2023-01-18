@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-444 songs - 1 day 3 hr 30 min
+445 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Myna Myna](https://open.spotify.com/track/5aRxo8G7cTEZFXFm8ml5PH) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Myna Myna \(From "Janakiram"\) \(Tamil\)](https://open.spotify.com/album/2HMzB2R2Y2PVmvapgfLXOl) | 4:01 | 2022-09-05 | 2022-09-07 |
 | [Myna Myna \(From "Janakiram"\)](https://open.spotify.com/track/0m5NX2NUYA7orWEwbLBTh9) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Sahithi Chaganti](https://open.spotify.com/artist/3MnCswRIW2fLbiHUuURGwf), [Shree Mani](https://open.spotify.com/artist/5DBt33WIllF4C75q0WqqoL) | [Myna Myna \(From "Janakiram"\) \- Single](https://open.spotify.com/album/1iZPktVjOgRIde9QqqeKJa) | 4:02 | 2022-09-05 | 2022-09-16 |
 | [Naa Onkitta Onnu Sollanum](https://open.spotify.com/track/4uGs2qgtHQTOBmNDrank2S) | [Jithin Raj](https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua), [Priya Maali](https://open.spotify.com/artist/2YGuIP2PKnCPfBqRjq0xK7) | [Vattakara](https://open.spotify.com/album/6kONnIdT4QiHjfAaS8344w) | 3:19 | 2022-08-06 | 2022-08-13 |
+| [Naadodi Mannan](https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Vaathi](https://open.spotify.com/album/788JAnrm2ALh2sMjTT7BuZ) | 3:23 | 2023-01-17 |  |
 | [Naalaya Pozhudhu \- From "Coffee With Kadhal"](https://open.spotify.com/track/63Q4GMQ6k1aUCp0rPGsc3B) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Naalaya Pozhudhu \(From "Coffee With Kadhal"\)](https://open.spotify.com/album/6HSJGv4Bre2XDnd2I6mjtX) | 3:52 | 2022-08-24 | 2022-09-09 |
 | [Naan Pizhai](https://open.spotify.com/track/6lQ7RWoymp53169COo4fLN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 4:03 | 2022-04-28 | 2022-10-11 |
 | [Naan Poranthathume](https://open.spotify.com/track/4WXyaygmBa3gk06jFQiXBA) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Naan Poranthathume \(From "Janakiram"\)](https://open.spotify.com/album/11YX9UagMdT9fK8oS6Ft5f) | 4:56 | 2022-07-20 | 2022-07-27 |

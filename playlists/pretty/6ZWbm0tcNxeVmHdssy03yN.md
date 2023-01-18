@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,071 likes - 89 songs - 4 hr 43 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,080 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 7 | [ENERO](https://open.spotify.com/track/3P5LM7bplFEGE9tJRk3asC) | [Jader Mantilla](https://open.spotify.com/artist/3ok6Is9hlTaZszhCaPEQv6), [Pana YMB](https://open.spotify.com/artist/2e2yLgFeLOTjYE7sa15SEb) | [ENERO](https://open.spotify.com/album/4fkdmyolAOQafybvpQt7Gd) | 2:16 |
 | 8 | [Suave](https://open.spotify.com/track/4LCw05IXSBxvUZgsjJDjqP) | [Jadel](https://open.spotify.com/artist/76iR2zpcvHswIJQtUZ2qun) | [Suave](https://open.spotify.com/album/4VgK1ipq8v2prUYxPHkqEy) | 3:08 |
 | 9 | [4111](https://open.spotify.com/track/4Tu1OWtcIKlfu3uogD8YZC) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Money Max](https://open.spotify.com/artist/18KfQFc0WdEY36mSm8WZra) | [4111](https://open.spotify.com/album/2WtC5gkXySuWVZTAbdhJLC) | 3:12 |
-| 10 | [Mummies One Son](https://open.spotify.com/track/0f8zK3M5PzRQCkEyRK2DXj) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Mummies One Son](https://open.spotify.com/album/2k7hcZTgIAyeDtRdR1ttpz) | 1:29 |
+| 10 | [Mummy's One Son](https://open.spotify.com/track/0f8zK3M5PzRQCkEyRK2DXj) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Mummy's One Son](https://open.spotify.com/album/2k7hcZTgIAyeDtRdR1ttpz) | 1:29 |
 | 11 | [Ten](https://open.spotify.com/track/50A4lXF11XcWGk4Pi0JvB0) | [Keylo](https://open.spotify.com/artist/3U8iH1w5vNbbOSGL7ZIXAS) | [Ten](https://open.spotify.com/album/5o8dZE4yasckn3AYSmh4V8) | 2:28 |
 | 12 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
 | 13 | [ATTENTION](https://open.spotify.com/track/2zeXgCHcUh7oUjMu57sYl5) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [YOUNG SAAB STORIES VOL\. 2](https://open.spotify.com/album/0QzUd2r30dYYWICQ8iOAq5) | 2:50 |

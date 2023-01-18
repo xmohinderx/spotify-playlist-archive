@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-164 songs - 9 hr 18 min
+165 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,12 @@
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-05-11 |  |
 | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/track/4x9IutN92CBDbNM7xaTBF8) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Choi Su Bin](https://open.spotify.com/artist/1VID9LmA67Y0pD63zpR9Px) | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/album/5cbBd9MOAXVGUJrbGUVZEe) | 3:10 | 2022-05-11 | 2022-06-07 |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-08 | 2022-08-10 |
-| [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-07 |  |
+| [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-07 | 2023-01-18 |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-11 | 2022-07-12 |
 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 | 2022-08-12 |  |
 | [Meet Me At Your Place \(Feat\. KANTO\)](https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7), [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [Meet Me At Your Place](https://open.spotify.com/album/0yrtUoCc020xe7Zy3Mu7vd) | 3:00 | 2022-06-09 | 2022-07-26 |
 | [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 | 2022-07-08 | 2022-10-12 |
+| [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 | 2023-01-13 |  |
 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 | 2022-07-08 |  |
 | [NDGGA](https://open.spotify.com/track/4k4PQkx007qoo6XPbijp9z) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/6odNnyBlFKEmh4stF55VrI) | 2:55 | 2022-05-11 | 2022-07-29 |
 | [Night Walk](https://open.spotify.com/track/4vjPhD54kvJTZCdk0Eguob) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:33 | 2022-05-11 | 2022-07-13 |

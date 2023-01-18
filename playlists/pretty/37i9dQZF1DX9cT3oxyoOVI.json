@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music in 2022",
-  "num_followers": 33741,
+  "num_followers": 34286,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDBhMzU0NmY0ZDI1MWMyZGIxYzhkMDRlMGJlMDI4NjNh",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDNmODhjMDgwNDIzMDUyNjhkZjE3MzY3ZTQ3ODllY2M4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Have You Ever",
         "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 187185,
       "name": "Knock Me Off My Feet",
       "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": ":):",
-        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
-      },
-      "artists": [
-        {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "JVP",
-      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Mauvaises habitudes",
         "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 145002,
       "name": "Mauvaises habitudes",
       "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": ":):",
+        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "JVP",
+      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
     },
     {
       "added_at": "2022-11-30 13:46:00",

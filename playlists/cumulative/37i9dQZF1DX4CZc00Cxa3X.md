@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-181 songs - 14 hr 31 min
+182 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2023-01-07 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 |  |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 |  |
+| [livet vänder inte åter](https://open.spotify.com/track/3tDO7zUfpwGsxF8MnfWxTw) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [livet vänder inte åter](https://open.spotify.com/album/0766LNMjLhl18EfZCTtiyV) | 6:20 | 2023-01-13 |  |
 | [Love Is The Tune](https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Love Is The Tune](https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ) | 3:40 | 2022-03-17 |  |
 | [Loving Kindness](https://open.spotify.com/track/0dxXjGXABX6gs1svER3A6p) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Loving Kindness](https://open.spotify.com/album/079D5fH3NELsp00fmd4YIQ) | 5:17 | 2022-10-14 |  |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
@@ -155,7 +156,7 @@
 | [Suminoe](https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Suminoe / Sobo](https://open.spotify.com/album/4TVhsrCAAfc2GGeGnNgdST) | 3:06 | 2022-05-18 | 2022-07-27 |
 | [Surfacing](https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j) | [Origin ST](https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9) | [Surfacing](https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo) | 6:13 | 2022-05-18 |  |
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 | 2023-01-07 |
-| [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |
+| [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 | 2023-01-18 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-01-15 |
 | [The Anatomy of Clouds \(Malibu Sweet Hereafter Remix\) I](https://open.spotify.com/track/1eRpubYdTxJ2RtuOCu5hSg) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Malibu](https://open.spotify.com/artist/5mYo4YwZlsy9pbftU3j3xR) | [The Hope of Better Weather](https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo) | 9:03 | 2022-03-17 | 2022-09-29 |

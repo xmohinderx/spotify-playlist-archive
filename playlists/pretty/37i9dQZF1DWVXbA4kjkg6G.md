@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,616 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,024 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 55 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
 | 56 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
 | 57 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
-| 58 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
-| 59 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 |
+| 58 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 |
+| 59 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
 | 60 | [London Mind State](https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [Ninja Cuts \- Flexistentialism](https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi) | 4:45 |
 | 61 | [Bug Powder Dust \- Kruder & Dorfmeister Session](https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Trip Hop Classics](https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3) | 7:27 |
 | 62 | [Snapper](https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ) | [Red Snapper feat\. Beth Orton](https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg) | [Reeled And Skinned](https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4) | 4:47 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 71 | [B Monkey](https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Hed Phone Sex](https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW) | 7:21 |
 | 72 | [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 |
 | 73 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
-| 74 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
-| 75 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
+| 74 | [Five Days](https://open.spotify.com/track/749wOMW7G4HSApFFRu3JpL) | [Howie B.](https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG) | [My Left Pussyfoot](https://open.spotify.com/album/45tUfsKQT0VmV27YBSgaCt) | 5:22 |
+| 75 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDQyNzExMWQyMGRhZGI1ZWQxOWY5Yjk0YWIwMzQxMGE2`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGRhZDU1N2ZiY2YxNjQ2MzYyODg5NmU0Y2Q0N2M1NDAy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Biscits, Karen Harding, Armand Van Helden",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Biscits, Karen Harding, Armand Van Helden, Kriss Reeve",
   "name": "EDM Top 100",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 214309,
       "name": "Beat Freak (ft. lau.ra)",
       "url": "https://open.spotify.com/track/4C2ohxfUodwGkMN67lxGbs"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 176129,
       "name": "Big Flex",
       "url": "https://open.spotify.com/track/3PVGPmAAO7HSbGcywZN0IF"
@@ -16998,7 +16998,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 190147,
       "name": "Mean It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/2uvwA6eQmhXyqfYlKuhHv0"
@@ -17294,7 +17294,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 206896,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6"
@@ -18850,6 +18850,24 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/4sNFZwkSpewKShLCkkxQU6"
+      },
+      "artists": [
+        {
+          "name": "SWACQ",
+          "url": "https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/1CKbPI8AygxJl1HUlmXL5x"
     },
     {
       "album": {
@@ -21140,7 +21158,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2020-09-28",
+      "date_removed": null,
       "duration_ms": 165958,
       "name": "Push It Right",
       "url": "https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL"
@@ -21572,7 +21590,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-02",
+      "date_removed": null,
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
@@ -23488,7 +23506,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 200000,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc"
@@ -26330,7 +26348,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 220966,
       "name": "The Judge",
       "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"

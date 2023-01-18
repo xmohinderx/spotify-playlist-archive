@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 711440,
+  "num_followers": 711680,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ0NjU3NiwwMDAwMDAwMDliY2MyODY1N2VmYWUzODU3ZjZiZjgzMzQ5NTk0ZGMx",
+  "snapshot_id": "MTY3MzQ0NjU3NiwwMDAwMDAwMDM0YTQyYTgwY2M2YjE1ODQ5MzNiMDliYmIzMTE1ZmI0",
   "tracks": [
     {
       "added_at": "2023-01-11 14:16:16",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "The Velvet Underground (45th Anniversary)",
         "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 339533,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Diamonds And Rust",
-      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "Morning Matters",
         "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Diamonds And Rust",
+      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
+        "name": "Stop the Moment (Deluxe)",
+        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Stop the Moment (Deluxe)",
-        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
       "artists": [
         {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 174186,
-      "name": "Call You Home",
-      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1183,22 +1199,6 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 217349,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 217349,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2023-01-11 14:16:16",
-      "album": {
         "name": "Yael Na\u00efm",
         "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+    },
+    {
+      "added_at": "2023-01-11 14:16:16",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-01-11 14:16:16",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-01-11 14:16:16",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Sublime & Silence",
-      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     }
   ],
   "unique_name": "Au calme",

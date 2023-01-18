@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 166608,
+  "num_followers": 166658,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDE1MGI1YjVmODA3YjFiZTUxYjAzYmM3MDk4YjcyMDFk",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGVjNDVjZDdmNDczYzk1ZWNlNGY2ZGNkOGU2ZDRkMGNm",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -378,6 +378,10 @@
         {
           "name": "Tekoa",
           "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Rory Mckenna",
+          "url": "https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c"
         }
       ],
       "duration_ms": 76000,
@@ -559,22 +563,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "This Is How I Thank The Lord",
-        "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "This Is How I Thank The Lord",
-      "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Not Moved",
         "url": "https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG"
       },
@@ -587,6 +575,22 @@
       "duration_ms": 273283,
       "name": "Not Moved",
       "url": "https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "This Is How I Thank The Lord",
+        "url": "https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "This Is How I Thank The Lord",
+      "url": "https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -659,22 +663,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE"
       },
@@ -691,6 +679,22 @@
       "duration_ms": 166943,
       "name": "Raise Me up",
       "url": "https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -967,6 +971,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Home Called Heaven",
+        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 227719,
+      "name": "Home Called Heaven",
+      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD"
       },
@@ -987,22 +1007,6 @@
       "duration_ms": 182093,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/1OUXLM84JFCDmliq4YGefC"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Home Called Heaven",
-        "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 227719,
-      "name": "Home Called Heaven",
-      "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1215,6 +1219,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1235,22 +1255,6 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Let You In",
-        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "Let You In",
-      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1443,6 +1447,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1487,22 +1507,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
-        }
-      ],
-      "duration_ms": 205618,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "New Wine Flow",
         "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
       },
@@ -1519,18 +1523,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
       },
       "artists": [
         {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+      "duration_ms": 205618,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1571,6 +1575,26 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "GUIDE MY HEART",
+        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
+      },
+      "artists": [
+        {
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 143671,
+      "name": "GUIDE MY HEART",
+      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Authentic Love",
         "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
       },
@@ -1583,6 +1607,26 @@
       "duration_ms": 282125,
       "name": "Authentic Love",
       "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Come and Be My Love",
+        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Come and Be My Love",
+      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1619,42 +1663,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Come and Be My Love",
-        "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
+        "name": "Hold It All Together",
+        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Come and Be My Love",
-      "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "GUIDE MY HEART",
-        "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
-      },
-      "artists": [
-        {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 143671,
-      "name": "GUIDE MY HEART",
-      "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+      "duration_ms": 158000,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1739,22 +1759,6 @@
       "duration_ms": 255579,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
     },
     {
       "added_at": "2022-07-17 05:38:31",

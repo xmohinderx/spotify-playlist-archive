@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-485 songs - 1 day 14 hr 33 min
+487 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Come Sunday](https://open.spotify.com/track/0iL0t2UplDSAMYgAcuHU8a) | [Larry Bennett Jr.](https://open.spotify.com/artist/5JmuUqhsHcg0tDtqF0kquP) | [Come Sunday](https://open.spotify.com/album/2QnlZpMXmIynGwFkd8dkaY) | 5:04 | 2022-04-14 | 2022-05-14 |
 | [Comin' Home Baby](https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Atlantic Jazz: Soul](https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR) | 8:39 | 2022-04-14 | 2022-04-28 |
 | [Coming Back To Me](https://open.spotify.com/track/0FAzOeaWZi4CCZgkJFkgwc) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 3:56 | 2022-04-14 | 2022-10-08 |
-| [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 |  |
+| [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 | 2023-01-18 |
 | [Cool Out](https://open.spotify.com/track/489alJQIWUauqzKTMuXRjm) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6d7pfxv2QlODnSChi8BJiq) | 2:59 | 2022-04-14 | 2022-06-22 |
 | [Cool Out](https://open.spotify.com/track/5Pp7GAMJHAW31meFVjNg58) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6zCa58ecglc4JUPqbexUfp) | 3:00 | 2022-06-30 | 2022-09-23 |
 | [Coral](https://open.spotify.com/track/2nIW5sfh2pW6Ftk8Qes2jv) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Coral](https://open.spotify.com/album/2p9Tfv7xnwAkhXMIoNcPik) | 3:37 | 2022-08-29 | 2022-10-08 |
@@ -165,6 +165,7 @@
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2022-04-14 | 2022-05-03 |
 | [Home Again](https://open.spotify.com/track/4I204PvTD6jGKTk4kfXQMS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:29 | 2022-04-14 | 2022-04-28 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-12-01 |  |
+| [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Honest Waltz](https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 5:25 | 2022-09-15 | 2022-09-23 |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |
 | [Honey, I'm Glad You're Mine](https://open.spotify.com/track/4L6de6eylUUkvtJYVknqR0) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Honey, I'm Glad You're Mine](https://open.spotify.com/album/6hAOj6NbTdS278alY0xTYp) | 2:17 | 2022-12-08 |  |
@@ -264,7 +265,7 @@
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-14 | 2023-01-16 |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-24 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
-| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 |  |
+| [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 | 2023-01-18 |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2022-11-24 |
 | [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 | 2022-10-08 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |
@@ -388,6 +389,7 @@
 | [Star Crossed Lovers](https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Cross Culture](https://open.spotify.com/album/6GU8My9KPSrMhSFiAVVJOM) | 7:34 | 2022-04-14 | 2022-09-23 |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-11 | 2022-11-29 |
 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 | 2022-04-14 | 2022-10-11 |
+| [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-12 |  |
 | [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 | 2022-08-16 | 2022-11-21 |
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2022-04-14 | 2022-10-11 |
 | [Stolen Moments](https://open.spotify.com/track/11jHKP7tpYcDrVuSctGG6o) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Jazz: 1950's and 60's Hits](https://open.spotify.com/album/6Rok1pvg6wcWkR8JmRxrqP) | 8:44 | 2022-04-14 | 2022-07-29 |
