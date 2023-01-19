@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: Pardyalone",
-  "num_followers": 1420024,
+  "num_followers": 1421142,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMGQ4NGQwNjUzODM1MWUyZjQ3YzVmZWZmMTU4NmZjNmJj",
+  "snapshot_id": "MTY3Mjk4NTEwMCwwMDAwMDAwMDUyN2E1YmFjYWE0ZTI1N2E2ZTNjYmEwMzBjNzQ5MDcx",
   "tracks": [
     {
       "added_at": "2022-12-16 17:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Midnight Thoughts",
@@ -987,6 +971,22 @@
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2022-10-21 16:57:49",
@@ -1061,24 +1061,20 @@
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-12-02 18:50:29",
       "album": {
-        "name": "Can't Love Myself",
-        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
       },
       "artists": [
         {
-          "name": "Monty Datta",
-          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 122723,
-      "name": "Can't Love Myself",
-      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
+      "duration_ms": 111506,
+      "name": "angeldust",
+      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1113,20 +1109,24 @@
       "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
-      "added_at": "2022-12-02 18:50:29",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "LIVE FOREVER",
-        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
+        "name": "Can't Love Myself",
+        "url": "https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "Monty Datta",
+          "url": "https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
         }
       ],
-      "duration_ms": 111506,
-      "name": "angeldust",
-      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
+      "duration_ms": 122723,
+      "name": "Can't Love Myself",
+      "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
+      },
+      "artists": [
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "duration_ms": 185886,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Suicidal",
         "url": "https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 142988,
       "name": "Suicidal",
       "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Anarchy",
-        "url": "https://open.spotify.com/album/44A6I4xmIftjBJte93wrmw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "MIXED EMOTIONS",
+        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "MORBID MIND",
+      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
+    },
+    {
       "added_at": "2022-10-28 16:05:00",
       "album": {
         "name": "Remember That You Will Die",
@@ -1553,20 +1569,20 @@
       "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2022-12-14 15:14:02",
       "album": {
-        "name": "MIXED EMOTIONS",
-        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
         }
       ],
-      "duration_ms": 136750,
-      "name": "MORBID MIND",
-      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
+      "duration_ms": 115263,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
-    },
-    {
-      "added_at": "2022-12-14 15:14:02",
-      "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me Why I'm Waiting",
-        "url": "https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt"
+        "name": "A SERIES OF UNFORTUNATE EVENTS",
+        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
       },
       "artists": [
         {
-          "name": "creamy",
-          "url": "https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu"
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
         }
       ],
-      "duration_ms": 139357,
-      "name": "Tell Me Why I'm Waiting",
-      "url": "https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR"
+      "duration_ms": 215647,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     }
   ],
   "unique_name": "tear drop",

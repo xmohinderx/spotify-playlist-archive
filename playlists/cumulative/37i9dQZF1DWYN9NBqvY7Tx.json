@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 154848,
       "name": "BONES",
       "url": "https://open.spotify.com/track/3QslPNyh3s8UdAtNX3c2Fy"
@@ -794,7 +794,7 @@
           "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "date_added": "2023-01-16",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158760,
@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE"
@@ -4216,7 +4216,7 @@
           "url": "https://open.spotify.com/artist/1itVP3ysVe9MMrYCeOKMsO"
         }
       ],
-      "date_added": "2023-01-16",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155555,
@@ -4467,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Push Up EP",
+        "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq"
+    },
+    {
+      "album": {
         "name": "Puzzle Box",
         "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
       },
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 212210,
       "name": "Puzzle Box",
       "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
@@ -4818,7 +4836,7 @@
           "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "date_added": "2023-01-14",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146571,
@@ -6522,7 +6540,7 @@
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "date_added": "2023-01-14",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 119314,

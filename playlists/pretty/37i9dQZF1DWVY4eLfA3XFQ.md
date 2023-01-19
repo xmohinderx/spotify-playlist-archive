@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Sosa UK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,209 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,292 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 55 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 |
 | 56 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 |
 | 57 | [Al Chica](https://open.spotify.com/track/4zR81TArni7T3acxg9drQF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Al Chica](https://open.spotify.com/album/5wcpuA5GZ8XdlJbppL5yJH) | 2:25 |
-| 58 | [Flute](https://open.spotify.com/track/7LrEjduZDF1raTJcxz1D7m) | [Lancie Green](https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b) | [Flute](https://open.spotify.com/album/3hX0c1fJ7PCVh4BlkiaFl6) | 2:22 |
+| 58 | [Flute](https://open.spotify.com/track/4TTyk0E2qCADq7cGbLGpEM) | [Lancie Green](https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b) | [Flute](https://open.spotify.com/album/0ZTZ54yV4KYMRLaOlvErDA) | 2:22 |
 | 59 | [NY to LA](https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [NY to LA](https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl) | 2:53 |
 | 60 | [Dara Dum](https://open.spotify.com/track/5eFgVcOpAw08lvsM1GG8RK) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Dara Dum](https://open.spotify.com/album/6OhZImhLlsyq6H0TaMWHZd) | 3:03 |
 | 61 | [Work](https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work](https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D) | 3:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 100 | [Fall In](https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s) | [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Fall In](https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL) | 3:20 |
 | 101 | [Closure](https://open.spotify.com/track/4Ndpfmb5C6LTYJT9qOeOV1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Closure](https://open.spotify.com/album/4bybBsCcJpOWZ9b3NlZNBu) | 3:24 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDA3ZGNmYmM1ODE4NjI3MTNlOGFkODIwZmFlOGJlZjI2`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDQxODk5ZTdlZjI4ZDBmNDQ3NzI5MjU5ZWM4NmFjNmVk`

@@ -4,7 +4,7 @@
 
 > Long and constant \- lose yourself in the sustain.
 
-181 songs - 14 hr 51 min
+182 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dark Cities](https://open.spotify.com/track/3pGvm73V59h70SGIE1Pkm5) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [duenn](https://open.spotify.com/artist/4NPzHTy0WMICLZBUH9ZGbT) | [Distance as Power](https://open.spotify.com/album/7KalZInYptgFjlVa17SjMe) | 5:35 | 2022-05-25 |  |
 | [Dark Motive](https://open.spotify.com/track/02S9ssx1zhXx6aHQqdDFmg) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/2617v2UbZZLDniFrmSBaKU) | 2:48 | 2022-11-24 |  |
 | [Dark Motive](https://open.spotify.com/track/3cxtmbowjyyyx9usby1Bym) | [Paul Whitehead](https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG), [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Dark Analogue Drones](https://open.spotify.com/album/37TPBwpuEhTp9zWwH0XGGt) | 2:48 | 2022-05-25 | 2022-07-29 |
-| [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 |  |
+| [Dark Nails](https://open.spotify.com/track/2DtBlBP2Kw4T5ov7BjZO8U) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Dark Nails](https://open.spotify.com/album/5es5EDRuCLdsT6dD5uZjXg) | 10:30 | 2022-05-25 | 2023-01-19 |
 | [Darkened Valley Lullaby](https://open.spotify.com/track/7GDbjLB0JxUt6f7nl2GBBO) | [Devin Sarno](https://open.spotify.com/artist/6H0BGNsWkD3AZNqJ3dEHPI) | [Evocation](https://open.spotify.com/album/1QPetxI3eJ5u6RdcKqsgfJ) | 5:12 | 2022-05-25 |  |
 | [Diamond Nights](https://open.spotify.com/track/0uK78BIKDhjAN6p78vBycJ) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 5:56 | 2022-05-25 |  |
 | [Distant \- Drone Mix](https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv) | [CALM TRANSMISSIONS](https://open.spotify.com/artist/60LEwqfO4hiuirXepr8MXX) | [Distant \(Drone Mix\)](https://open.spotify.com/album/5w07cL98KrOheroP153LSq) | 4:23 | 2022-05-25 | 2022-12-21 |
@@ -73,6 +73,7 @@
 | [Enigma](https://open.spotify.com/track/4eW3kSiXV8s2wCOCKGQHEL) | [Blear Moon](https://open.spotify.com/artist/02QLDm7vKE5aNu4ovk1rE9) | [Enigma](https://open.spotify.com/album/2tdi5KxoYhjlnOQDre2Jvb) | 5:44 | 2022-05-25 |  |
 | [eon](https://open.spotify.com/track/6fPnhlrHFNOgqjkbv4IThA) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 6:30 | 2022-05-25 |  |
 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 | 2022-07-08 |  |
+| [Everending](https://open.spotify.com/track/3y7cWkrp5vYTK3uLJmhj7c) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 4:19 | 2023-01-13 |  |
 | [Evergreen](https://open.spotify.com/track/1GbZ4zxBbOGKWIJB0NLEVA) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Infinite Branches](https://open.spotify.com/album/6WDNNZf7ddS7EfhJaD3meF) | 3:31 | 2022-07-08 |  |
 | [Evil\-Minded](https://open.spotify.com/track/3THvr8CyGPLmMKJgGttxYp) | [Alan Fillip](https://open.spotify.com/artist/4F36M3hoL2FakyOvC0anhd), [Mac Prindy](https://open.spotify.com/artist/4n7JWC1Tl08jLFlZHfYVVJ) | [Dramatic Drones & Pulses](https://open.spotify.com/album/5E2gpaF9PSkKvDjQilXGeL) | 2:39 | 2022-05-25 | 2022-12-21 |
 | [Existential Thread](https://open.spotify.com/track/3YhsXDdsii3isPl5XP86ZP) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Veils](https://open.spotify.com/album/4pG92ZqzMnIgOpl6KsokgI) | 5:24 | 2022-05-25 |  |

@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-141 songs - 9 hr 11 min
+142 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 |  |
 | [LAYon\-theLINE](https://open.spotify.com/track/2bS0SnyEGJli9ukuQ3OBYs) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [LAYon\-theLINE](https://open.spotify.com/album/3wps7HtuI1gvfPh8Nhh5cY) | 4:47 | 2022-05-10 |  |
 | [LET iT END](https://open.spotify.com/track/7G6Fc2VT96ZKbqPWDU0UUf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [LET iT END](https://open.spotify.com/album/3yRKqbOIbmuX5KDcWa10Jq) | 3:13 | 2022-05-10 |  |
+| [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-01-17 |  |
 | [MAIORITEKITA YUKI](https://open.spotify.com/track/6QBcU50LiryxD8Y5lUmy9n) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [MAIORITEKITA YUKI](https://open.spotify.com/album/0ZU8oSdHaErNZwmzqRm3Nf) | 4:19 | 2022-05-10 |  |
 | [My Hero](https://open.spotify.com/track/6MmSnjDWLT5GsvlO65rhk1) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 4:22 | 2022-05-10 |  |
 | [Prayer X](https://open.spotify.com/track/0r2PAeROizyyoFMpu0fvwI) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Sympa](https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb) | 3:15 | 2022-05-10 |  |
@@ -139,7 +140,7 @@
 | [螺旋のユメ](https://open.spotify.com/track/7wu6X3s0hEOkheWKCgRJOW) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [NOMAD](https://open.spotify.com/album/6OOCxnyYCyqCr6XtHegof4) | 3:59 | 2022-05-10 |  |
 | [衝撃](https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [衝撃](https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU) | 3:01 | 2022-05-10 | 2022-07-29 |
 | [誰か、海を。](https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 4:54 | 2022-05-10 |  |
-| [贅沢な匙](https://open.spotify.com/track/5ej7gjtseTV4h2avqPGff0) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [贅沢な匙](https://open.spotify.com/album/1pWpjPxdiV4wYyjxBiZzsN) | 3:58 | 2023-01-17 |  |
+| [贅沢な匙](https://open.spotify.com/track/5ej7gjtseTV4h2avqPGff0) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [贅沢な匙](https://open.spotify.com/album/1pWpjPxdiV4wYyjxBiZzsN) | 3:58 | 2023-01-17 | 2023-01-19 |
 | [赫色 \-akairo\-](https://open.spotify.com/track/4mwudzU9w0nKZvEv7OPAZN) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [赫色 \-akairo\-](https://open.spotify.com/album/4iH4ohw3FTU4jhFaT8ktcR) | 4:23 | 2022-05-10 |  |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-05-10 |  |
 | [週替わりの奇跡の神話](https://open.spotify.com/track/34IeQAMI4bCEaIWDzja5Fq) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [週替わりの奇跡の神話](https://open.spotify.com/album/5hMxajM9NARlytSr3XMSyg) | 3:43 | 2022-05-10 |  |

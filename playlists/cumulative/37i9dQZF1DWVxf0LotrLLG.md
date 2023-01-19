@@ -2,7 +2,7 @@
 
 ### [Discover: New Latin Albums](https://open.spotify.com/playlist/37i9dQZF1DWVxf0LotrLLG)
 
-> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience.
+> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Yandel
 
 39 songs - 2 hr 6 min
 

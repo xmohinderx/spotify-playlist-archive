@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 54484,
+  "num_followers": 54509,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGJjNWVlNTllZTQ3Mzc0OTQ2N2RlMjI4NDVhNzdiNjE0",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDc2ZWI0YTJhOTMzNjEwODc3NThmMGY2YmRiYmE4NjBi",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Chapter One",
-        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        }
-      ],
-      "duration_ms": 210016,
-      "name": "Time To Realize",
-      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Bad Girls (The Remixes)",
         "url": "https://open.spotify.com/album/1JV2adHIREQSZWTCrn6CbW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 203013,
       "name": "Bad Girls - Switch Remix",
       "url": "https://open.spotify.com/track/2T1LMzbf3Ui5nv0Im5lmGV"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        }
+      ],
+      "duration_ms": 210016,
+      "name": "Time To Realize",
+      "url": "https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M"
     },
     {
       "added_at": "2022-08-24 22:29:13",

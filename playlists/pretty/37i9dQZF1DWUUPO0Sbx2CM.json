@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 115111,
+  "num_followers": 115241,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDFiYWYyOTFhYTUwNTAwYmRkNTNhZjA5ODU3YjExYmFl",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGJjMGEyMmFkNDc3N2RmMTVlYjQ2ODc0MjAwMzRhZDky",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 158198,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "If You Only Knew!",
         "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 188473,
       "name": "Stages",
       "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
-      },
-      "artists": [
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 158198,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Remembering Me",
         "url": "https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Godsend",
         "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
         }
       ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
       "artists": [
         {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Streams",
+        "url": "https://open.spotify.com/album/2UZ3kOA1L3lJapkpfPzbBV"
+      },
+      "artists": [
+        {
+          "name": "Austin & Lindsey Adamec",
+          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+        }
+      ],
+      "duration_ms": 240994,
+      "name": "Streams",
+      "url": "https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Revival (Live)",
         "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
@@ -1159,18 +1159,42 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Streams",
-        "url": "https://open.spotify.com/album/2UZ3kOA1L3lJapkpfPzbBV"
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
       },
       "artists": [
         {
-          "name": "Austin & Lindsey Adamec",
-          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 240994,
-      "name": "Streams",
-      "url": "https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC"
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Holding Me Down",
+        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1199,30 +1223,6 @@
       "duration_ms": 213410,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Holding Me Down",
-        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
-      },
-      "artists": [
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 223308,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 204271,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 223308,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG"
     },
     {
       "added_at": "2021-10-31 00:47:30",

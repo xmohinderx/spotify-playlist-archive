@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by Indian Indie artists, updated every Wednesday\. Cover: KhoslaRaghu, Artwork: Isu Kim
+> Emerging Indie artists on the rise, updated every Wednesday\. Cover: Sparsh Dangwal, Artwork: Isu Kim
 
-654 songs - 1 day 15 hr 6 min
+656 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Chanchal Mann](https://open.spotify.com/track/5kbwi7gcfkTtP78OIKS4fu) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Chanchal Mann](https://open.spotify.com/album/1IMwoJfW0B35HYFUnLdKYh) | 3:05 | 2022-09-08 |  |
 | [Chand](https://open.spotify.com/track/6hEZwFHxWEJYsP421oEdxn) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Chand](https://open.spotify.com/album/0Tb41rsD7gNRMPzKK5p7s1) | 3:12 | 2022-05-25 | 2022-09-09 |
 | [Change the World](https://open.spotify.com/track/4LOaZngKdreU2zvkRdkTry) | [Leo Boys](https://open.spotify.com/artist/5fuQSav5Q0Kty3ftZORqxd) | [Trinity Tapes](https://open.spotify.com/album/7wy5lAhfmb8LmFCb9Z5dyr) | 3:18 | 2022-05-11 | 2022-05-26 |
+| [Cigarettes](https://open.spotify.com/track/66n5mf1p4CxwBn44HKSQSa) | [Kenneth Soares](https://open.spotify.com/artist/7JNZS32nbUQnROsWzwbamV) | [Cigarettes](https://open.spotify.com/album/18432lCOudmllYiXV7nQ3p) | 3:53 | 2023-01-18 |  |
 | [Ciggy Fraud](https://open.spotify.com/track/5yFnnzlWpWvHUOuEx1MFQe) | [Rae Mulla](https://open.spotify.com/artist/0a1S8Sk8xsmP5zQGPO8UJK), [Sahirah](https://open.spotify.com/artist/7klVdpMzxmDNKipQDIGjh0) | [Ciggy Fraud](https://open.spotify.com/album/4zxwiIQUM7vUs9oJRQYVMV) | 1:50 | 2022-02-02 | 2022-02-10 |
 | [Cloud Burst](https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U) | [the Vyakt](https://open.spotify.com/artist/1jjcReDsyRtwyDtzPLJMkp) | [Cloud Burst](https://open.spotify.com/album/6DYd6ep2qaIAuDsAUAaLQh) | 2:18 | 2022-06-01 | 2022-06-23 |
 | [come through](https://open.spotify.com/track/0npbmZqDOHerMVSFHEt2AV) | [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Aman Jagwani](https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx) | [come through](https://open.spotify.com/album/0z2qe9yJQDOamLngi8RiC4) | 4:00 | 2022-11-09 |  |
@@ -401,7 +402,7 @@
 | [na kehna alvida](https://open.spotify.com/track/0PRIv5xuxFPCdRNkfAhHGr) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [na kehna alvida](https://open.spotify.com/album/6PyM6FvnnVGn15pWqgSso9) | 3:01 | 2022-08-03 | 2022-10-13 |
 | [Na Manzoor](https://open.spotify.com/track/0UObfj9ap06f2ao2YYGiHR) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Na Manzoor](https://open.spotify.com/album/1Oy5jmi18Run2moBwRTG0l) | 3:26 | 2022-03-09 | 2023-01-12 |
 | [Naarazgi](https://open.spotify.com/track/1WU1BNEc3Sp1kNgylhX32k) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD) | [Naarazgi](https://open.spotify.com/album/056LQ3itrRlGms40A4PO4h) | 4:15 | 2022-08-03 | 2022-09-30 |
-| [Naarazgi](https://open.spotify.com/track/5C9md2m1njkFbtIB8dvVE6) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Naarazgi](https://open.spotify.com/album/4Mda9xBExiXQlJsMcmeMeO) | 4:15 | 2022-09-22 |  |
+| [Naarazgi](https://open.spotify.com/track/5C9md2m1njkFbtIB8dvVE6) | [Sourabh Joshi](https://open.spotify.com/artist/3RwL7pvxngsOGafJ172leD), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Naarazgi](https://open.spotify.com/album/4Mda9xBExiXQlJsMcmeMeO) | 4:15 | 2022-09-22 | 2023-01-19 |
 | [Nabina Sakhi](https://open.spotify.com/track/0PuXAp8qEyMyr9QqE9WMl5) | [Bombay Noor](https://open.spotify.com/artist/2ho4gO8ePt7eEmZ134wHXe), [Alex George](https://open.spotify.com/artist/1g8etuKhSTd6fAdCCt1XO0) | [Nabina Sakhi](https://open.spotify.com/album/7hpezfFxhax0pIcEaZbgpD) | 3:14 | 2022-07-13 | 2022-10-13 |
 | [Naina](https://open.spotify.com/track/5SJ6qJaUj9jXLqRJzmUxQF) | [Chhavi Sodhani](https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd) | [Naina](https://open.spotify.com/album/16sFQDjmrtX5jo2HvB4NqC) | 3:43 | 2022-01-19 | 2022-03-10 |
 | [Naino Waaleya](https://open.spotify.com/track/6oJ9HiQGjmjEMf157zglf0) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Kamran Zafar](https://open.spotify.com/artist/5iISEVX6J6kZSocxtQ7des), [Kshitij Mathur](https://open.spotify.com/artist/3uEgR0xZor4ATrvzzynAls), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Naino Waaleya](https://open.spotify.com/album/2tmCNfe8BxiPjseRmiY723) | 6:27 | 2022-03-16 | 2022-05-05 |
@@ -470,7 +471,7 @@
 | [Red Bird](https://open.spotify.com/track/55M59kBeyclzrvJNGxZKEn) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Red Bird](https://open.spotify.com/album/02kqqdKnICvlK2bGEFeFOU) | 3:27 | 2022-01-12 | 2022-03-24 |
 | [Reh Ja Sath](https://open.spotify.com/track/70Sww4aNEAPpscGIari2Aq) | [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Reh Jaa Sath](https://open.spotify.com/album/5nI5VzNcJRVNd7J9iQOxut) | 2:26 | 2022-01-12 | 2022-03-10 |
 | [Rehbar](https://open.spotify.com/track/4BT28UT2DMBDCsRqAWY3Nz) | [Skyga Singh](https://open.spotify.com/artist/01KF9y3SWzAehWPD8W4WHp) | [Rehbar](https://open.spotify.com/album/7Ma7cQ50PJq9NbcZcST0q5) | 3:28 | 2022-01-19 | 2022-05-05 |
-| [Rehna Yahan](https://open.spotify.com/track/1VJL3frLxxd52d9CzkTmm5) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Nidhi Rawat](https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY) | [Rehna Yahan](https://open.spotify.com/album/12YpLiUbFEp8YWwMbzOAvJ) | 2:56 | 2022-08-03 |  |
+| [Rehna Yahan](https://open.spotify.com/track/1VJL3frLxxd52d9CzkTmm5) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Nidhi Rawat](https://open.spotify.com/artist/7cf1RowWBaDGxNU9JDinlY) | [Rehna Yahan](https://open.spotify.com/album/12YpLiUbFEp8YWwMbzOAvJ) | 2:56 | 2022-08-03 | 2023-01-19 |
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-01-12 | 2023-01-12 |
 | [Rehnuma](https://open.spotify.com/track/7DbmsQKRuEEIQfWReTh9vd) | [Prateek sheth dawesar](https://open.spotify.com/artist/1XPzuqey1ihDeDXAGDxu83) | [Rehnuma](https://open.spotify.com/album/1SbIIENY9Nr8cCfeozKp5p) | 2:50 | 2022-02-09 | 2022-02-24 |
 | [Rehnuma](https://open.spotify.com/track/45sAdWtNAw43yfXPYAdfsg) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4) | [Rehnuma](https://open.spotify.com/album/2X93xFgGXPZSLyGsqQ43BL) | 2:54 | 2022-11-02 |  |
@@ -560,6 +561,7 @@
 | [suno](https://open.spotify.com/track/4AmQWnGEOFjieGKQeNTHxY) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Vicky & Tejas](https://open.spotify.com/artist/7f6BJAbvY2XQg8q1ZsUy6L) | [suno](https://open.spotify.com/album/7HxlSMaPlJ56kTwybHGbii) | 2:43 | 2022-03-02 | 2022-03-24 |
 | [Sunshine on the Street](https://open.spotify.com/track/2i9RJNKfewyJ5dJZAWQKul) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl), [Andrea Tariang](https://open.spotify.com/artist/37dkJFyC1MP7GtvowUQ0za) | [Sunshine on the Street](https://open.spotify.com/album/3J3HluVsTi4Cwox5QGRV0X) | 4:16 | 2022-02-16 | 2022-03-24 |
 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z), [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 | 2022-06-22 | 2022-08-04 |
+| [Tanha](https://open.spotify.com/track/2iS1zFCVqOYdNnWpAYFlov) | [Srijit Bhowmick](https://open.spotify.com/artist/7lvu5iY9chwDp2XKJO2Wi1) | [Tanha](https://open.spotify.com/album/4exG3Em96J8vVXvvaagdEn) | 5:16 | 2023-01-18 |  |
 | [Tarse Naina](https://open.spotify.com/track/5Bstg2GBEh3OCh9CzNtjeC) | [Nihar Shembekar](https://open.spotify.com/artist/5IWLPvOnpyaiOyz8a7dM2j), [Shark](https://open.spotify.com/artist/0MtGhagwAawOCV5KaoHBOh) | [Tarse Naina](https://open.spotify.com/album/1bFwgI59XKYIfKwHiyfiH9) | 3:32 | 2022-05-11 | 2022-07-21 |
 | [Tell me](https://open.spotify.com/track/6ajDLytZHTxhJ7Z2effAjs) | [Dhruv Agrawal](https://open.spotify.com/artist/74B9dxq6VtP8Dc075zk9qZ) | [Tell me](https://open.spotify.com/album/2jUxHE8xTJOtE2jeYdGHju) | 3:25 | 2022-01-19 | 2022-03-10 |
 | [Tera Zikr](https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Tera Zikr](https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq) | 3:57 | 2022-06-15 | 2022-09-29 |

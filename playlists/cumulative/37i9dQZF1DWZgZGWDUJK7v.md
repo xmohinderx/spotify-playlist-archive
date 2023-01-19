@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: Level Up Doctor Choi Kiseok\(레벨업 닥터 최기석\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: I Need a Bride\(신부가 필요해\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-104 songs - 6 hr 23 min
+105 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Reminisce](https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Reminisce](https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq) | 4:04 | 2023-01-13 |  |
 | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2) | 3:27 | 2022-05-09 |  |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-08 |  |
+| [Secret Love](https://open.spotify.com/track/3ELM8jqcULO29nHsTup8WQ) | [YOO YEONJUNG\(WJSN\)](https://open.spotify.com/artist/5qZUq6ijHZTasLNjljdFKO) | [Secret Love](https://open.spotify.com/album/4Ddvn34VTjczpUK8FvyI35) | 3:13 | 2023-01-18 |  |
 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 | 2022-05-09 |  |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-04 |  |
 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 | 2022-05-09 |  |

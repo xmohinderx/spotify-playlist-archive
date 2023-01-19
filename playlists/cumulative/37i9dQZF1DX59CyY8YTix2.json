@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Otona ni Naritakunai",
+        "url": "https://open.spotify.com/album/6o9LMxYI8hp76Nc8Jsk1Db"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30cd\u30b5\u30b9",
+          "url": "https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Otona ni Naritakunai",
+      "url": "https://open.spotify.com/track/0XUe7tUkUwq6S953e4Pqi9"
+    },
+    {
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 240133,
       "name": "Radio song",
       "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
@@ -5176,6 +5194,24 @@
       "duration_ms": 217932,
       "name": "Thank Uuuuu for ....",
       "url": "https://open.spotify.com/track/6M3BdsIKQfcjazn6AQaY72"
+    },
+    {
+      "album": {
+        "name": "the eye drops from 7th floor make my eyes burn",
+        "url": "https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT"
+      },
+      "artists": [
+        {
+          "name": "bungeitengoku",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228330,
+      "name": "the eye drops from 7th floor make my eyes burn",
+      "url": "https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg"
     },
     {
       "album": {
@@ -7324,7 +7360,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 240360,
       "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9",
       "url": "https://open.spotify.com/track/1k3hdwtmjxdBUL6osBVsFL"
@@ -9794,7 +9830,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 228330,
       "name": "\u4e03\u968e\u304b\u3089\u76ee\u85ac",
       "url": "https://open.spotify.com/track/0iK6x9Ig7h8xP1vSlKcEPb"
@@ -10670,7 +10706,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 207999,
       "name": "\u5927\u4eba\u306b\u306a\u308a\u305f\u304f\u306a\u3044",
       "url": "https://open.spotify.com/track/6VYPwkSVZpfo0C7uPwl9v8"

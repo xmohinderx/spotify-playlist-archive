@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,890 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,902 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 18 | [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 |
 | 19 | [No Soy Yo](https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [No Soy Yo](https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8) | 2:56 |
 | 20 | [I.D.K.](https://open.spotify.com/track/0Et7R62PgWXXWPeA3N33g2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [I.D.K.](https://open.spotify.com/album/5ISGPxLsYX94QcADA2rum5) | 2:30 |
-| 21 | [Te Queria](https://open.spotify.com/track/6BIDdKBzJJdQgXYrrpN38M) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/62GbMKlsW0HJNDsQFW5f5o) | 3:27 |
+| 21 | [Te Queria](https://open.spotify.com/track/5VAyqQT8B4AtfZWCguR0Jd) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/3FmgeB9WRmAQZltG18v83i) | 3:27 |
 | 22 | [Salgo Pa La Calle](https://open.spotify.com/track/1OSMYyDIhuLzTskju4MTO7) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Salgo Pa La Calle](https://open.spotify.com/album/3RI95RhBmxx7hMrB7vjW7a) | 2:59 |
 | 23 | [Naughty](https://open.spotify.com/track/5aM5URUpie6O3kbjC9ve8o) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Naughty](https://open.spotify.com/album/3c8f0xpg7l1BwDjETI0hPs) | 2:32 |
 | 24 | [Pekeño 77: Bzrp Music Sessions, Vol\. 5](https://open.spotify.com/track/06lC5NkXlLK9Ag99zuMnvw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Pekeño 77: Bzrp Music Sessions, Vol\. 5](https://open.spotify.com/album/0s8c9YWh0NWlhxaxhzHfWD) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 69 | [Tu Mirada](https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Tu Mirada](https://open.spotify.com/album/3L0HpohjbclTsSvGxH7X2t) | 2:13 |
 | 70 | [Ahora No Puedo Dormir](https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ahora No Puedo Dormir](https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3) | 2:36 |
 
-Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMGI3NGI0ZmE4MGYwYmI1YWQ3NjBiZGU4M2U4MzdiZmRj`
+Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDEyZWY3MzljNjBkNzE4OTVjMzI5OWU4NTI0NWFhMjlk`

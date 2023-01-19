@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-393 songs - 1 day 7 hr 37 min
+394 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Lady Liberty](https://open.spotify.com/track/2HLGg89KyQOlqmaFuOlSwl) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [Chimes of Freedom](https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG) | 5:18 | 2022-02-10 | 2022-11-09 |
 | [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-08 | 2022-12-29 |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 |  |
-| [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-11-12 |  |
+| [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-11-12 | 2023-01-19 |
 | [Laura](https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 3:30 | 2022-02-10 | 2022-11-09 |
 | [Let It Be](https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jasper Van Hulten](https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 6:01 | 2022-02-10 | 2022-11-12 |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-12 |  |
@@ -393,6 +393,7 @@
 | [Words of Hope](https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s) | [Steve Boudreau](https://open.spotify.com/artist/0tNCJZ0QjXhJKfKSbcQF9i) | [Cherished Possessions](https://open.spotify.com/album/6wEknkvTqiYMD0Kkr4fRwh) | 5:26 | 2022-04-07 | 2022-11-12 |
 | [Yesterdays \- Live](https://open.spotify.com/track/19x3hs8m84gCkXnxhSJLQu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:55 | 2022-02-10 | 2022-11-12 |
 | [You Don't Know What Love Is \- Live \- Instrumental](https://open.spotify.com/track/3Yb8sBtpeVTLSWWRzZvcOh) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [Night And The City](https://open.spotify.com/album/0M21M9hddiB5bqM2KinY9Q) | 7:00 | 2022-02-10 | 2022-11-09 |
+| [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-12 |  |
 | [You Must Believe In Spring/ Spring Is Here \- Michel Legrand/Rogers and Hart](https://open.spotify.com/track/4Dx0AKBoRszLOK33LlTAXu) | [Nikki Iles](https://open.spotify.com/artist/5LGovBijogk6ID8SKqle96) | [Hush](https://open.spotify.com/album/0WWDEwk0muhlcF21F2R8A2) | 8:14 | 2022-02-10 | 2022-11-09 |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-11-12 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 |  |

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: CHRRISSA\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Mariko\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,271 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,281 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 |
-| 2 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
-| 3 | [หยั่มมา \(Don't Say That\)](https://open.spotify.com/track/6gmbdZ40YpTh1U2n87TEox) | [WHITE YOU](https://open.spotify.com/artist/1KWSY214mKKcRu5Am6TYgc) | [หยั่มมา \(Don't Say That\)](https://open.spotify.com/album/40GJ1AETsEaRMI47wOOSiv) | 3:03 |
-| 4 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
-| 5 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 |
-| 6 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
-| 7 | [ตื๊อ](https://open.spotify.com/track/6TrKXlH4G9PHUQoX7MTj17) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ตื๊อ](https://open.spotify.com/album/3uihD3dxiRAeTPwbT2yarP) | 1:39 |
-| 8 | [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/track/2EKdV1vqQ6z9welpdGxVEQ) | [Best 247UNITS](https://open.spotify.com/artist/2WGkP4duOSNTyEHDaxzUni) | [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/album/675Nymotfkp8p91csUv9yx) | 4:10 |
+| 2 | [Dark Chocolate](https://open.spotify.com/track/3kJOuQUJ9s7U23RggAaGVN) | [Mariko](https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO) | [Dark Chocolate](https://open.spotify.com/album/1RmBS6icflpHfzfIfA4MDa) | 3:17 |
+| 3 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
+| 4 | [หยั่มมา \(Don't Say That\)](https://open.spotify.com/track/6gmbdZ40YpTh1U2n87TEox) | [WHITE YOU](https://open.spotify.com/artist/1KWSY214mKKcRu5Am6TYgc) | [หยั่มมา \(Don't Say That\)](https://open.spotify.com/album/40GJ1AETsEaRMI47wOOSiv) | 3:03 |
+| 5 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
+| 6 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 |
+| 7 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
+| 8 | [ตื๊อ](https://open.spotify.com/track/6TrKXlH4G9PHUQoX7MTj17) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ตื๊อ](https://open.spotify.com/album/3uihD3dxiRAeTPwbT2yarP) | 1:39 |
 | 9 | [ฝันกลางวัน](https://open.spotify.com/track/7nRuOKoNmkEFJv6NEMHiwq) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh), [1 NICE](https://open.spotify.com/artist/6X6URzPQwR6Emsi2FK2cyY) | [ฝันกลางวัน](https://open.spotify.com/album/7o2OSUOknl2jSwUKfPN1mM) | 3:10 |
 | 10 | [ลมหนาว \(Winter wind\)](https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF) | [aDawn](https://open.spotify.com/artist/37qCVJmPjeXQlqO1bY5wEb) | [ลมหนาว \(Winter wind\)](https://open.spotify.com/album/6knmtnkVOzLgqtAiWDciN4) | 5:12 |
 | 11 | [ใจ](https://open.spotify.com/track/7byTUMcGvs3k6u3jBdhaGU) | [Chanom](https://open.spotify.com/artist/1PRysXimdri49HvpxhcRXV) | [Misery](https://open.spotify.com/album/3YiUAVMBldOSPmnXaIFyua) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 49 | [พ่ายเเพ้](https://open.spotify.com/track/2z0AXKhAWcXt09dJPYolDG) | [Pong Pongsatorn](https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf) | [พ่ายเเพ้](https://open.spotify.com/album/5sT6Tqhh5h4NHWTKwpxorh) | 3:53 |
 | 50 | [เจอ เจ็บ จบ feat\. Chogun](https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP) | [SoulMade Sound](https://open.spotify.com/artist/27Yrj4QN7SEDL7mkrUPMVW), [Chogun](https://open.spotify.com/artist/6LXjIF1XHsFkB2bDfDsISG) | [เจอ เจ็บ จบ](https://open.spotify.com/album/3sh6h4nhXsd7IciQStpe7B) | 3:51 |
 
-Snapshot ID: `MTY3MzQzMzA0OCwwMDAwMDAwMDAzODc0MzQzMjhmMGIzY2M1YjZkOGUzNzhiNjM3NWM5`
+Snapshot ID: `MTY3NDAyODgwMCwwMDAwMDAwMDAzZGE5OTRjODk0ZGY0NzMzNzc3M2I3NWQ0ZDk3NzA4`

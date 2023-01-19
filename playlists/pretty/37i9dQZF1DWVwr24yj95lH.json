@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Creed",
-  "num_followers": 540408,
+  "num_followers": 540725,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDM3NmM1YmI1YmVjNDU1ZGQ2YzBjOWQ1NGQ2YTE2N2Ix",
+  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDY5YzkwYzk1NDhlYjFhN2ZiMTM1YmFiMjM4OTkxZTg3",
   "tracks": [
     {
       "added_at": "2023-01-04 08:57:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "1000hp",
-        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "1000hp",
-      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 221826,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "1000hp",
+        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "1000hp",
+      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Polyester Zeal",
+        "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Frogstomp (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 256440,
       "name": "Stacked Actors",
       "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Polyester Zeal",
-        "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 176621,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 222706,
       "name": "It Only Hurts",
       "url": "https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 176621,
-      "name": "Ashtray",
-      "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Year Of The Spider",
         "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 194120,
       "name": "Gone Away (A Song For Starr)",
       "url": "https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Days Of The New (Red Album)",
-        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Die Born",
-      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/3rwSoS50vbg8oiz5YxbW09"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 201920,
       "name": "So Far so Good",
       "url": "https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Days Of The New (Red Album)",
+        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Die Born",
+      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
     },
     {
       "added_at": "2023-01-04 08:57:15",

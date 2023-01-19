@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105437,
+  "num_followers": 105431,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGJlOWQ1NmM2NmNjMDgxMmI0NzM5MTBhMjIwMmU2NjJl",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNiNjEwNTY3MTZlZjlkZDM1YmUyNjk3NzFkMTU0ZTkw",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "SHE IS COMING",
+        "url": "https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Mother's Daughter",
+      "url": "https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "SHE IS COMING",
-        "url": "https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Mother's Daughter",
-      "url": "https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
     },
     {
       "added_at": "2020-08-24 22:19:29",

@@ -1,13 +1,253 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Dende. Updates every Wednesday.",
-  "num_followers": 181162,
+  "description": "The best new R&B by independent artists and labels. Cover: Mack Keane & ESTA. Updates every Wednesday.",
+  "num_followers": 181589,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0MzcwMywwMDAwMDAwMGY1MzY4MzYyYmRiYWNmMjEyMGEzMmMzZmQ4NWQ0NDZk",
+  "snapshot_id": "MTY3NDA2NTYyMCwwMDAwMDAwMDM5ZTNlODNmNmY2MDhlNzIxYjJlYTY4ODBmMTQzZWM4",
   "tracks": [
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Layin Next to Me",
+        "url": "https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "duration_ms": 217902,
+      "name": "Layin Next to Me",
+      "url": "https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/6rutMwRZOXSrPqOGbwwXed"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 179861,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/2BWUl6BriNR98ahDJ2fTEz"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "THE CITY",
+        "url": "https://open.spotify.com/album/2NCmWdgFie2IewMrKzvOYX"
+      },
+      "artists": [
+        {
+          "name": "AMEN DENIRO",
+          "url": "https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5"
+        }
+      ],
+      "duration_ms": 143499,
+      "name": "THE CITY",
+      "url": "https://open.spotify.com/track/6k8KSVKyMNZWtt8P4v6m2u"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "old ways. [crazy bout u].",
+        "url": "https://open.spotify.com/album/3GjpGP6W8yDw7tPMfravMd"
+      },
+      "artists": [
+        {
+          "name": "Lenox Hill.",
+          "url": "https://open.spotify.com/artist/52OsRSA84Cce4mlrDCMBgG"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "old ways. [crazy bout u].",
+      "url": "https://open.spotify.com/track/1lG54E57yN9FlFZytG5BJa"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "STAND",
+        "url": "https://open.spotify.com/album/5n1JbE76LyMyJbr178kvhq"
+      },
+      "artists": [
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "duration_ms": 171198,
+      "name": "STAND",
+      "url": "https://open.spotify.com/track/0WcBdgxP3qUJ41kfBf7QUI"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
+        "url": "https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "D'LEAU",
+          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
+        }
+      ],
+      "duration_ms": 259012,
+      "name": "THEO SAYS (feat. Ego Ella May & D'LEAU)",
+      "url": "https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 236136,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "The Mint Experiment Volume 1",
+        "url": "https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p"
+      },
+      "artists": [
+        {
+          "name": "J-Felix",
+          "url": "https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4"
+        },
+        {
+          "name": "Chloe Bodur",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "duration_ms": 184850,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Theirs13",
+        "url": "https://open.spotify.com/album/2YfQ9ABijhtKRI9GuuxOlF"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/63kj5bCib1ovmtty6OllEt"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Naughty Tingz",
+        "url": "https://open.spotify.com/album/4aNcQyFNX0CmAgTYCggazG"
+      },
+      "artists": [
+        {
+          "name": "Diamond Johnson",
+          "url": "https://open.spotify.com/artist/6zoPHoMFX03lEWzgc3KOpv"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Naughty Tingz",
+      "url": "https://open.spotify.com/track/325suJbPndRb3ERaQ7HiWG"
+    },
+    {
+      "added_at": "2023-01-18 18:13:40",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6SlK4LF1baA2YHQbcSxHpf"
+      },
+      "artists": [
+        {
+          "name": "JeRonelle",
+          "url": "https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ"
+        }
+      ],
+      "duration_ms": 189170,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1b3vp95lr01pQdcdqx9zZq"
+    },
     {
       "added_at": "2023-01-11 17:50:04",
       "album": {
@@ -909,22 +1149,6 @@
       "url": "https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "An Orange Colored Day",
-        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/7dbVKWTPThe8RuM3QWsbzP"
-    },
-    {
       "added_at": "2022-09-21 23:24:35",
       "album": {
         "name": "Play",
@@ -989,38 +1213,6 @@
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
     },
     {
-      "added_at": "2022-11-02 16:00:00",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 138157,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Baggage",
-        "url": "https://open.spotify.com/album/4apemMXegKNctKfGSXt18Q"
-      },
-      "artists": [
-        {
-          "name": "Nnashe",
-          "url": "https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu"
-        }
-      ],
-      "duration_ms": 156966,
-      "name": "Baggage",
-      "url": "https://open.spotify.com/track/4i4lAh5pW9DE4sgWMAfT3A"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Can't Swim",
@@ -1035,22 +1227,6 @@
       "duration_ms": 211761,
       "name": "Can't Swim",
       "url": "https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Casper Sage",
-        "url": "https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/79GkAlfNFzeXBVVue5neeh"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1085,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Someone Who Knows",
-        "url": "https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up"
-    },
-    {
       "added_at": "2022-10-14 07:35:59",
       "album": {
         "name": "What A Difference She Made",
@@ -1115,30 +1275,6 @@
       "duration_ms": 175696,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
-    },
-    {
-      "added_at": "2022-10-14 07:35:59",
-      "album": {
-        "name": "edbl & friends - James Berkeley",
-        "url": "https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "James Berkeley",
-          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
-        },
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 238645,
-      "name": "What's Good?",
-      "url": "https://open.spotify.com/track/2ZHnM7EAkOBRfqJ5saa4Iy"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1191,74 +1327,6 @@
       "duration_ms": 208208,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf"
-    },
-    {
-      "added_at": "2022-10-05 07:01:00",
-      "album": {
-        "name": "Dopamine (with NBDY)",
-        "url": "https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe"
-      },
-      "artists": [
-        {
-          "name": "Benita",
-          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
-        },
-        {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
-        }
-      ],
-      "duration_ms": 222634,
-      "name": "Dopamine (with NBDY)",
-      "url": "https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Poster Girl",
-        "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Poster Girl",
-      "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
-    },
-    {
-      "added_at": "2022-09-28 16:56:17",
-      "album": {
-        "name": "Self-Contained",
-        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
-      },
-      "artists": [
-        {
-          "name": "DWY",
-          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
-        }
-      ],
-      "duration_ms": 181166,
-      "name": "Self-Contained",
-      "url": "https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "karma/tryin'",
-        "url": "https://open.spotify.com/album/7MIw0DITwU9Hdw1d8EMFGn"
-      },
-      "artists": [
-        {
-          "name": "Hydra",
-          "url": "https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY"
-        }
-      ],
-      "duration_ms": 179568,
-      "name": "tryin'",
-      "url": "https://open.spotify.com/track/6duHdmejOzmN50yAyov3me"
     },
     {
       "added_at": "2022-11-30 13:45:00",

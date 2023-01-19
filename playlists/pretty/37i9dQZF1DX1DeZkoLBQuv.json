@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDc1MzYyY2E2ZjFiOTI5NGE2M2U3NWYzNDUyMTgxNTli",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDNiZDUwY2IwZmMzZTBmNTIzMjIwYmQ4ZGU2Y2FlMWI5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -379,8 +379,8 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+      "duration_ms": 325311,
+      "name": "Faz Brilhar / Brilha Jesus",
+      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -551,8 +551,8 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 325311,
-      "name": "Faz Brilhar / Brilha Jesus",
-      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Revolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 258054,
+      "name": "Filho de Deus Amigo Meu",
+      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 241222,
       "name": "Noite de Paz",
       "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Revolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 258054,
-      "name": "Filho de Deus Amigo Meu",
-      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
     },
     {
       "added_at": "2022-12-09 06:26:14",

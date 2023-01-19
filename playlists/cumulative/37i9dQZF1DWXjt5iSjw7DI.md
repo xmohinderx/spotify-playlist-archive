@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-265 songs - 17 hr 10 min
+266 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Designated Drinker \- Live](https://open.spotify.com/track/0BwTUud0IDsb4WMjmKgKfI) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Live At Texas Stadium](https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK) | 4:24 | 2021-07-23 | 2022-07-28 |
 | [Desperado \- Live](https://open.spotify.com/track/79tvhPyXTS0EgAQRAhn5Rz) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [A Concert Behind Prison Walls \(Live\)](https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk) | 3:29 | 2021-07-23 |  |
 | [Desperados Waiting for a Train \- Live](https://open.spotify.com/track/461XJ9V47T6STECfJf1aI8) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Live From Austin, TX](https://open.spotify.com/album/7kCxKpOZSxQIUjgEqi1550) | 4:40 | 2021-07-23 | 2022-07-22 |
+| [Dixieland Delight \- Live](https://open.spotify.com/track/3PHaozz42k50ctvbLEawdu) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [At The Ryman \(Live\)](https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd) | 12:05 | 2022-11-18 |  |
 | [Dixieland Delight \- Live](https://open.spotify.com/track/7FbyEmvPvgCP1OiZCEGVDk) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama And Friends Live At The Ryman](https://open.spotify.com/album/4cy1OFlYm6e1ak5X3y78sE) | 12:05 | 2021-07-23 | 2022-07-29 |
 | [Don't Be Stupid \(You Know I Love You\) \- Live](https://open.spotify.com/track/3emMetF2rZ9r37qulZfa1c) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:44 | 2021-07-23 |  |
 | [Don't Tell Me What to Do \- Live](https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Pam Tillis \- Live in Nashville](https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL) | 3:34 | 2021-07-23 |  |
@@ -131,7 +132,7 @@
 | [Jackson \(with June Carter Cash\) \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/676TpHR9B00OL20I54KoOh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/6wZ6UMWSAmDOCZ4ErWlqPa) | 3:27 | 2021-07-23 |  |
 | [Jambalaya \(On the Bayou\) \- Live](https://open.spotify.com/track/31XG0L9fgIlMT4ZW14hfov) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca), [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Jambalaya \(On the Bayou\) \[Live\]](https://open.spotify.com/album/2CjQ28yVAxgBGflhXXQMcA) | 4:06 | 2022-07-22 |  |
 | [John Deere Green](https://open.spotify.com/track/3Go12A3nyL65irqD2GJXg7) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1gA6nGDzQBcRV63knLUHWp) | 5:08 | 2021-07-23 | 2022-07-28 |
-| [John Deere Green](https://open.spotify.com/track/484oP58WwZ4wpMEUJKwnFR) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Live at Billy Bob's Texas](https://open.spotify.com/album/5mlJ4Ka8AAuXDNQe2EJrI7) | 5:08 | 2022-07-22 |  |
+| [John Deere Green](https://open.spotify.com/track/484oP58WwZ4wpMEUJKwnFR) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Live at Billy Bob's Texas](https://open.spotify.com/album/5mlJ4Ka8AAuXDNQe2EJrI7) | 5:08 | 2022-07-22 | 2023-01-19 |
 | [Jolene \(Live\)](https://open.spotify.com/track/54lj71zDsqfVcD46AmUmOh) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: Live From London](https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG) | 2:59 | 2021-07-23 |  |
 | [Kaw\-Liga \- Live](https://open.spotify.com/track/6osox7QpBP4zMozfxHt9at) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 3:22 | 2021-07-23 | 2022-07-28 |
 | [Keeper of the Stars](https://open.spotify.com/track/1CxgiCkXlGGVpMo2Pe1CKN) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS) | 4:13 | 2021-07-23 | 2022-07-28 |

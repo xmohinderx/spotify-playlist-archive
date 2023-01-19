@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Chapter 0: WITH",
+        "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
+    },
+    {
+      "album": {
         "name": "Facade",
         "url": "https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc"
       },
@@ -5447,7 +5465,7 @@
     },
     {
       "album": {
-        "name": "POPPY",
+        "name": "POPPY (Japanese Ver.)",
         "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
       },
       "artists": [

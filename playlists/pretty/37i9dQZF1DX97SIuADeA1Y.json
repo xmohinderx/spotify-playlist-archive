@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 284158,
+  "num_followers": 284328,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYwNzk0NiwwMDAwMDAwMGI2ZTA1ZjE2OWUzNGIxYTAxMDhjMmM2MjgwMTZlMjYy",
+  "snapshot_id": "MTY3MzYwNzk0NiwwMDAwMDAwMDEyODI0MWRkODY0NjRlMGQ5ODJmODg2ZTE0Y2Q4MDhl",
   "tracks": [
     {
       "added_at": "2023-01-13 11:05:46",
@@ -171,22 +171,18 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
       },
       "artists": [
         {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -207,18 +203,22 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
         "name": "Under the Influence",
         "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 165853,
       "name": "Under the Influence",
       "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Feel Good Inc.",
-        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 173313,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 134544,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 173313,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
         "name": "Little Do You Know",
         "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 194091,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -1235,22 +1235,30 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Barking",
-        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/3Ip5Hu617beWtwIrO9v97a"
       },
       "artists": [
         {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+          "name": "Blaze U",
+          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
         },
         {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+          "name": "Viktoria Vane",
+          "url": "https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J"
+        },
+        {
+          "name": "Damon Paul",
+          "url": "https://open.spotify.com/artist/1oCUBnT304Iyc95vKgjyj0"
+        },
+        {
+          "name": "Beccy",
+          "url": "https://open.spotify.com/artist/67XcyPV0HME7hw7ATGpk5J"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+      "duration_ms": 120585,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/46vvP61lftD3CERdB3Y5yA"
     }
   ],
   "unique_name": "SLAP!",

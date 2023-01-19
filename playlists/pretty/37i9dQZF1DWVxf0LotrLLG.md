@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 ### [Discover: New Latin Albums](https://open.spotify.com/playlist/37i9dQZF1DWVxf0LotrLLG)
 
-> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience.
+> Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 38 | [Si La Ves](https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:48 |
 | 39 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 |
 
-Snapshot ID: `MTY3Mzk5ODMwMiwwMDAwMDAwMGM5ODc4Zjk2YWY0OTMxODg1ZWI2YTBiMmEwNTc3Mjli`
+Snapshot ID: `MTY3NDAwOTUyOCwwMDAwMDAwMDU0YjFlODM4MGRlYWQ5Mjg1MjFjNDkwYTQ1Y2E1ODU3`

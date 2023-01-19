@@ -1,12 +1,12 @@
 {
   "description": "Rock Legends from Ireland. Cover: Phil Lynott",
-  "num_followers": 10613,
+  "num_followers": 10657,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMDNhZTUyNGM0ODI2ZWVkNWI4Mzk5ZTIwOWZiYTI2MGY5",
+  "snapshot_id": "MTY0NzU0NjM4NywwMDAwMDAwMDdkMzFiNmQ4NzFkNDViOWIwMGU2MGFjNzQ3YjNjMGE5",
   "tracks": [
     {
       "added_at": "2022-03-17 10:54:32",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "So Much For The City",
-        "url": "https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv"
+        "name": "Johnny The Fox",
+        "url": "https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3"
       },
       "artists": [
         {
-          "name": "The Thrills",
-          "url": "https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L"
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t"
+      "duration_ms": 138973,
+      "name": "Don't Believe A Word",
+      "url": "https://open.spotify.com/track/4OSDItus4110bQdykTdpy7"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Johnny The Fox",
-        "url": "https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3"
+        "name": "So Much For The City",
+        "url": "https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "The Thrills",
+          "url": "https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Don't Believe A Word",
-      "url": "https://open.spotify.com/track/4OSDItus4110bQdykTdpy7"
+      "duration_ms": 187320,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Shame About Lucy Moonhead",
+        "url": "https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY"
+      },
+      "artists": [
+        {
+          "name": "Aslan",
+          "url": "https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Fitzcarraldo",
         "url": "https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 226960,
       "name": "Revelate",
       "url": "https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "The T\u00e1in (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS"
-      },
-      "artists": [
-        {
-          "name": "Horslips",
-          "url": "https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Dearg Doom",
-      "url": "https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD"
     }
   ],
   "unique_name": "Irish Rock Classics",

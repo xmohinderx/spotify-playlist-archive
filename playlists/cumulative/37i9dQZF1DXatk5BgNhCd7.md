@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Américo portada.
 
-679 songs - 1 day 17 hr 0 min
+679 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Infeliz](https://open.spotify.com/track/25WNMar1xiqHc2hNoLSmAJ) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Infeliz](https://open.spotify.com/album/5kN88EpxPCacnnEf1LO9W0) | 3:41 | 2022-09-09 | 2022-09-24 |
 | [Inocente](https://open.spotify.com/track/2X1Ga7VVXsMIJfuamFuU59) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Inocente](https://open.spotify.com/album/3TARqX543y1jPmXx6SJOfZ) | 2:49 | 2022-10-28 | 2022-11-05 |
 | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/track/6qM2i722HNgqvpNBwYzKIk) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/album/2HsF8RzCLIH8Mz5dt1mSrf) | 5:37 | 2022-12-23 |  |
-| [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 11:40 | 2023-01-13 |  |
+| [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES \- EN VIVO](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 9:14 | 2023-01-13 |  |
 | [Jamás Podré Olvidar](https://open.spotify.com/track/7fjXrlYpZkwBc7fiQ8jaGE) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Jamás Podré Olvidar](https://open.spotify.com/album/6xia6WF9XWuKUEkHYzB1Is) | 2:13 | 2022-10-28 | 2022-12-10 |
 | [Juan Mecánico](https://open.spotify.com/track/39ajNFfqmnkpgXRfbMEjv3) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbia Popular](https://open.spotify.com/album/59A0m78pbCoSZU46pKJOMl) | 2:42 | 2022-05-27 | 2022-06-18 |
 | [Junto a Mí](https://open.spotify.com/track/0LSdB4HhMDZSBoCaSidTHU) | [Shirley Iparraguirre](https://open.spotify.com/artist/6lajiGfXJSeWbPZNd2oou1), [Secretos Banda Show](https://open.spotify.com/artist/1AiEdVkZ5Wg2aJ3qPWy7HQ) | [Junto a Mí](https://open.spotify.com/album/4DgTlaH60KeoG5arqorGxf) | 3:09 | 2022-07-01 | 2022-07-09 |

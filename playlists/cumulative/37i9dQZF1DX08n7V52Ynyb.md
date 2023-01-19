@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-156 songs - 11 hr 38 min
+157 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Behind Me](https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Behind Me](https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW) | 6:20 | 2022-04-13 | 2022-07-29 |
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-21 | 2022-09-01 |
 | [Body And Soul](https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL) | [Muriel Zoe](https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq) | [Neon Blue](https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh) | 4:22 | 2022-04-13 |  |
+| [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 | 2023-01-12 |  |
 | [Bonita](https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Bonita](https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00) | 4:13 | 2022-04-13 | 2022-07-29 |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-07-21 | 2023-01-12 |
 | [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 | 2022-05-19 | 2022-08-12 |
@@ -69,7 +70,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-04-13 |  |
 | [I'm a Fool to Want You](https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq) | [Laverne Butler](https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi) | [Blues in the City](https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw) | 5:03 | 2022-04-13 |  |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5Ihx6oOsUBYF0Zp6zUC7fk) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 5:04 | 2022-09-28 |  |
-| [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 |  |
+| [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 | 2023-01-19 |
 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 | 2022-06-01 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 | 2022-11-13 |

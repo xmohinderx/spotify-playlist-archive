@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,400 likes - 52 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,441 likes - 52 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 51 | [Iris](https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stellar Regions \(Expanded Edition\)](https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI) | 3:53 |
 | 52 | [Straight Street \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6fdLlJJC7D4wkeRVAXR6tK) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:17 |
 
-Snapshot ID: `MTY3MDU3MzQ3NywwMDAwMDAwMGMwZDY3MDY1MTEyZTJmMDdkZDM2YjFkMmU2YWI5MGRh`
+Snapshot ID: `MTY3NDA1NjE5MCwwMDAwMDAwMDljYzlmYTBhZWQwNmUwMzg0YTQzNWM4MTQwNTU2OTlh`

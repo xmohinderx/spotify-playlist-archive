@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Shakira & Bizarrap ",
-  "num_followers": 858135,
+  "num_followers": 858299,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -455,17 +455,17 @@
     {
       "added_at": "2023-01-16 23:16:35",
       "album": {
-        "name": "2 Live",
+        "name": "2 LIVE",
         "url": "https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
           "name": "Hit-Boy",
           "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
       "duration_ms": 149613,

@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Conexión Divina en portada.
 
-231 songs - 12 hr 2 min
+232 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Gente Del Nini](https://open.spotify.com/track/6tnZI1qKVP3yf4emQhC4ED) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Gente Del Nini](https://open.spotify.com/album/6DXVgORaX4tpn4r5GoTI5R) | 2:08 | 2023-01-13 |  |
 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 | 2022-10-07 | 2022-12-24 |
 | [Guerra Sin Cuartel](https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Guerra Sin Cuartel](https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v) | 2:48 | 2022-07-08 | 2022-10-15 |
+| [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 | 2023-01-13 |  |
 | [Hoodboys](https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Hoodboys](https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn) | 3:10 | 2022-12-09 | 2022-12-24 |
 | [Humo](https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Humo](https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92) | 3:24 | 2022-08-05 | 2022-12-10 |
 | [Hágase Hombre](https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Hágase Hombre](https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG) | 3:04 | 2022-12-02 |  |
@@ -196,7 +197,7 @@
 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 | 2021-12-27 | 2022-09-24 |
 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 | 2022-11-11 |  |
 | [Sigo Pa' Delante](https://open.spotify.com/track/23X9OuSIh4FqrShffGvmLt) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [Sigo Pa' Delante](https://open.spotify.com/album/1sxra7YvVszvG6KOLBt7HL) | 2:28 | 2022-12-09 | 2022-12-24 |
-| [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 | 2022-12-23 |  |
+| [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 | 2022-12-23 | 2023-01-19 |
 | [Sin Tus Besos](https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [Cuando Los Niños Crecen](https://open.spotify.com/album/7xceZZYnHyuob02BsmnA3s) | 3:17 | 2022-09-23 | 2022-12-03 |
 | [SOLO DE TI](https://open.spotify.com/track/6IOxy7kHT9pYmOIYcRgnoM) | [Infinito](https://open.spotify.com/artist/4UHgsEv6qlnUZz6ecKlwzE) | [No Creo En Amor](https://open.spotify.com/album/7wZ9VT6wHzUCRvL9eSNFm0) | 2:57 | 2022-07-08 | 2022-08-06 |
 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 | 2022-11-18 |  |

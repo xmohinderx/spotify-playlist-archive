@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,560 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,579 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pathaan’s Theme](https://open.spotify.com/track/7l00c4RIiRh9MngY4Mt6jG) | [Sanchit Balhara](https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj), [Ankit Balhara](https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg), [Magdalena Supel](https://open.spotify.com/artist/5n0sgDuAJmQiacddjwwG5d), [Kit Bee](https://open.spotify.com/artist/0V3THFCdrDqATp2dnLAQF7) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 2:37 |
-| 2 | [Krishna Theme \(Flute\)](https://open.spotify.com/track/6SeGCrn4WCKigFotOvSBka) | [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Oh My God](https://open.spotify.com/album/4VIQoArqBVchMAJgMYAg11) | 2:07 |
-| 3 | [New India](https://open.spotify.com/track/7m1aeD9ZLJCTIUPDjk09KQ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Uri \- The Surgical Strike \(Original Background Score\)](https://open.spotify.com/album/2oZSF17FtHQ9sYBscQXoBe) | 1:14 |
+| 2 | [New India](https://open.spotify.com/track/7m1aeD9ZLJCTIUPDjk09KQ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Uri \- The Surgical Strike \(Original Background Score\)](https://open.spotify.com/album/2oZSF17FtHQ9sYBscQXoBe) | 1:14 |
+| 3 | [Krishna Theme \(Flute\)](https://open.spotify.com/track/6SeGCrn4WCKigFotOvSBka) | [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Oh My God](https://open.spotify.com/album/4VIQoArqBVchMAJgMYAg11) | 2:07 |
 | 4 | [Shiva Theme \(From "Brahmastra"\)](https://open.spotify.com/track/4Ci7CYAOsJeSVeqaD4BWtZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Shiva Theme \(From "Brahmastra"\)](https://open.spotify.com/album/7apYkaf9piAZvBiMmErjFL) | 3:11 |
 | 5 | [Meeting Place](https://open.spotify.com/track/09NCo4MjEUXzQ12sRoZBWJ) | [Ranbir Kapoor](https://open.spotify.com/artist/37IHSwzDKNSluvUgmWhOKZ) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 1:09 |
 | 6 | [Sooryavanshi Theme](https://open.spotify.com/track/0hSi45TIuuUrmaw0GvQWDM) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Sooryavanshi](https://open.spotify.com/album/0YByaovkfVAZ9V9XEaIMdT) | 1:48 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 42 | [Remembering His Violin](https://open.spotify.com/track/09bmCSMLxAJuBYX5Jwzqfy) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Gayathri](https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 3:03 |
 | 43 | [The Staircase Of Life](https://open.spotify.com/track/6SFKUn0A9oPOPb78DRJ8pa) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Saina](https://open.spotify.com/album/6NJ8ytX4jY0bkVy4OoL9ME) | 2:31 |
 | 44 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
-| 45 | [Masha\-Allah](https://open.spotify.com/track/5F7tfNdJzOP2vjudqmER0O) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 5:28 |
-| 46 | [The Tragedie of Omkara](https://open.spotify.com/track/6KOPUTHSkRYK1syHS5kK8y) | [Instrumental](https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6) | [Omkara \(Original Motion Pictures\)](https://open.spotify.com/album/2ni91Enmppk7MZvrLSmrkf) | 1:35 |
+| 45 | [The Tragedie of Omkara](https://open.spotify.com/track/6KOPUTHSkRYK1syHS5kK8y) | [Instrumental](https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6) | [Omkara \(Original Motion Pictures\)](https://open.spotify.com/album/2ni91Enmppk7MZvrLSmrkf) | 1:35 |
+| 46 | [Masha\-Allah](https://open.spotify.com/track/5F7tfNdJzOP2vjudqmER0O) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 5:28 |
 | 47 | [Asoka Theme \- Instrumental](https://open.spotify.com/track/5YVL1NL2hGq8N2WH5HsY22) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 4:01 |
 | 48 | [Dev \- Chanda \(Theme\-2\)](https://open.spotify.com/track/6qksrgPqbSNoTiNzdmRG9p) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 1:47 |
 | 49 | [Sardar Udham Theme](https://open.spotify.com/track/6km40zXhkLINWLJhkgh3sU) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 2:10 |
 | 50 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 
-Snapshot ID: `MTY3Mjk4NzA0NSwwMDAwMDAwMDcwNDRlMjg2NGNkMzg2YjI0NWU4NDRkZTBlYWI0Zjgx`
+Snapshot ID: `MTY3Mjk4NzA0NSwwMDAwMDAwMDY4YTAzMWQ1NTNlMGM5NDRmNTc3YmJmYWVlNTcwY2Y5`

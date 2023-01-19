@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Lily Goodman & DOE
 
-652 songs - 1 day 23 hr 5 min
+653 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 | 2022-08-26 | 2022-11-05 |
 | [Hay Algo](https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:05 | 2022-02-25 | 2022-04-09 |
 | [Hay Fiesta](https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hay Fiesta](https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp) | 3:12 | 2022-09-02 | 2022-11-05 |
-| [Hay una Esperanza \- En Vivo](https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [1996 \(En Vivo\)](https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG) | 5:58 | 2022-12-03 |  |
+| [Hay una Esperanza](https://open.spotify.com/track/2LNWh9sTwcwBARdnwBhUTl) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [1996](https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy) | 5:58 | 2023-01-13 |  |
+| [Hay una Esperanza \- En Vivo](https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [1996 \(En Vivo\)](https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG) | 5:58 | 2022-12-03 | 2023-01-19 |
 | [Haz Fluir](https://open.spotify.com/track/0BrTHwpH62e5sxP24u82ur) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [FLUIR 1](https://open.spotify.com/album/39Jr00xTIQJnvvaUNdNYKz) | 7:38 | 2022-09-23 | 2022-11-26 |
 | [Haz Lo Que Quieras](https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Haz Lo Que Quieras](https://open.spotify.com/album/3jYG6h2nn8WfZV4j2M9jn9) | 11:44 | 2022-07-01 | 2022-09-10 |
 | [Haz Todo Nuevo](https://open.spotify.com/track/4ftQxLbluAChHIL0CjbTkT) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Haz Todo Nuevo](https://open.spotify.com/album/6HXEBWDyFsiYGOtlDYJDlh) | 4:23 | 2022-11-05 | 2023-01-14 |

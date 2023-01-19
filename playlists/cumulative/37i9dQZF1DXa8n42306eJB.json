@@ -967,28 +967,6 @@
     },
     {
       "album": {
-        "name": "Born and Raised II (The Rebirth)",
-        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "date_added": "2022-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223050,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
-    },
-    {
-      "album": {
         "name": "Lonely Days",
         "url": "https://open.spotify.com/album/3EO87q6YeR522w0C2qaVt4"
       },
@@ -1030,6 +1008,28 @@
       "duration_ms": 222984,
       "name": "Lonely Days (feat. J Boogs)",
       "url": "https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V"
+    },
+    {
+      "album": {
+        "name": "Born and Raised II (The Rebirth)",
+        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Lonely Days (with J Boog)",
+      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
     },
     {
       "album": {

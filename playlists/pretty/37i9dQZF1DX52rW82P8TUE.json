@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 45454,
+  "num_followers": 45520,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDMzYzJlZDBhNzg0MzIyZjgwOWY5OTNlMmU1NjlmZTVi",
+  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDFlM2E0ZWQ5MjlkZTQ4MjQxYzBiZTcxNGMzYWExOTU5",
   "tracks": [
     {
       "added_at": "2022-10-14 05:59:38",
@@ -66,14 +66,6 @@
         {
           "name": "Minha Vida \u00e9 Uma Viagem",
           "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        },
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
         }
       ],
       "duration_ms": 185585,
@@ -482,14 +474,6 @@
         {
           "name": "Minha Vida \u00e9 Uma Viagem",
           "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        },
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
         }
       ],
       "duration_ms": 225735,
@@ -535,18 +519,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Com Jesus",
-        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
+        "name": "Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
       },
       "artists": [
         {
           "name": "Bunek\u00e3o de Jesus",
           "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Ol\u00edvia Teles",
+          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
         }
       ],
-      "duration_ms": 178301,
-      "name": "Com Jesus",
-      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
+      "duration_ms": 211312,
+      "name": "Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -623,22 +611,18 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
+        "name": "Com Jesus",
+        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
       },
       "artists": [
         {
           "name": "Bunek\u00e3o de Jesus",
           "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Ol\u00edvia Teles",
-          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
         }
       ],
-      "duration_ms": 211312,
-      "name": "Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
+      "duration_ms": 178301,
+      "name": "Com Jesus",
+      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
     },
     {
       "added_at": "2022-10-14 05:59:38",

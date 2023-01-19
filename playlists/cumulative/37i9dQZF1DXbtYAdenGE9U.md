@@ -2,7 +2,7 @@
 
 ### [Trance Classics](https://open.spotify.com/playlist/37i9dQZF1DXbtYAdenGE9U)
 
-> All your favorite trance anthems curated by Above & Beyond! \#NYE2022
+> All your favorite trance anthems curated by Above & Beyond!
 
 117 songs - 9 hr 31 min
 

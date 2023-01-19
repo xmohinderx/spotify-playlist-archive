@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ASIAN KUNG\-FU GENERATION
 
-452 songs - 1 day 5 hr 50 min
+453 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [The Spirit Lives On](https://open.spotify.com/track/1e2PUT1Pj1xlEx6nCdzdAY) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/2n0bm7pacxZqUMFf0vQ9K1) | 5:32 | 2023-01-10 | 2023-01-12 |
 | [The Spirit Lives On](https://open.spotify.com/track/0KythHhDadp6WiJQSFPJMO) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [The Spirit Lives On](https://open.spotify.com/album/4ANg8IU3RpBDw9Wxgnzqvu) | 5:32 | 2023-01-10 | 2023-01-18 |
 | [THE STORY ENDS \- Acoustic Version](https://open.spotify.com/track/64SqJROyPmTbkZ0FeebD3A) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [THE STORY ENDS \(Acoustic Version\)](https://open.spotify.com/album/1i8DHLjO64k5b7JbYHHk1O) | 4:53 | 2022-05-17 | 2022-06-17 |
-| [This Is The Night](https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 4:14 | 2023-01-17 |  |
+| [This Is The Night](https://open.spotify.com/track/6malMRVfOTA9bGs3BVVbu9) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG), [Gagle](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 4:14 | 2023-01-17 |  |
 | [TiDE](https://open.spotify.com/track/5HyOjtlcIBiCbKGYwudVqS) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [TiDE](https://open.spotify.com/album/3yRt3XQ3ZE3VidghduYIuI) | 4:46 | 2022-05-12 | 2022-07-23 |
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |
 | [TOKYO SUNSET](https://open.spotify.com/track/3uyxqhX9aZWs8uxBF6nPRL) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [TOKYO SUNSET](https://open.spotify.com/album/5gqwQgJgK44GAYLuiIez8T) | 4:06 | 2022-05-22 | 2022-06-21 |
@@ -267,6 +267,7 @@
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-08 |  |
 | [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 | 2022-09-12 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-11-13 |
+| [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 |  |
 | [Very Special](https://open.spotify.com/track/3LXHBMFOo9h9BemsSp9NDq) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Very Special](https://open.spotify.com/album/2QzJ56blkzDzS50a9xZcNa) | 3:03 | 2022-11-29 | 2022-12-21 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 |  |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
@@ -345,7 +346,7 @@
 | [ナンバー1 \- Remastered Version](https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3) | [Onsoku Line](https://open.spotify.com/artist/6TTEfWEjAdpjbchHYfo62Q) | [風景描写2002](https://open.spotify.com/album/2fN7nYABUDtUmGBuBUbIIk) | 3:12 | 2022-09-06 | 2022-09-15 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 |  |
 | [バカサバイバー V](https://open.spotify.com/track/4BjsxmjxBTSRb6U35osAKB) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [フル盤](https://open.spotify.com/album/1SpfLV0prn6F8ee2LniWi5) | 4:13 | 2022-05-12 | 2022-06-08 |
-| [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 |  |
+| [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 | 2023-01-19 |
 | [パライゾ\-30th ver.\-](https://open.spotify.com/track/4ES7shczPGyUegYpBOxScV) | [PENICILLIN](https://open.spotify.com/artist/7JMKZglYmjZYT9hi7K6weT) | [パライゾ](https://open.spotify.com/album/4k4xXaItazEgYLDAA9xxc4) | 3:58 | 2022-11-17 | 2022-11-23 |
 | [パンデミック](https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [パンデミック](https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo) | 3:29 | 2022-12-20 | 2023-01-18 |
 | [ヒガンバナ](https://open.spotify.com/track/1HTcAOYu5BcJw4hp1Su2BS) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヒガンバナ](https://open.spotify.com/album/02C47kK4jydCNezkMPmD9p) | 2:54 | 2022-05-19 | 2022-07-29 |

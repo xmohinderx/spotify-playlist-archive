@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> 
+> Napoli e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,544 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,645 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Vita Mala](https://open.spotify.com/track/5NxBsDKGOv6ebjuVYoqqkv) | [Ye$hua](https://open.spotify.com/artist/4w6gswqkpl74hoxgvne66c) | [Vita Mala](https://open.spotify.com/album/4pNRTiRNThpQ4gGIfOMsQC) | 3:16 |
 | 50 | [So' modelle](https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl) | [Awhon](https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G) | [So' modelle](https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ) | 2:14 |
 
-Snapshot ID: `MTY3MzU2NDQ2MCwwMDAwMDAwMDM3NmUxOTU0M2I2NTU0YzE4MWViMDQ1ZDNmNjRmNzUw`
+Snapshot ID: `MTY3NDA2MTEyOSwwMDAwMDAwMDE5ODllM2Y1MjM0YmUyYmNhZDA3YzM2ODhkMTRhMGY3`

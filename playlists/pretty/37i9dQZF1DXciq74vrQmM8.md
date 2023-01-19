@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. KID BRUNSWICK
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,561 likes - 86 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,683 likes - 86 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

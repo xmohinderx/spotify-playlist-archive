@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzkxMCwxNjM4MTE4MjNlYmQyZDg0OWZmYjIxOTViNWViZThiZjMxOWJjYWJl",
+  "snapshot_id": "MzkxNixkMjc3YTNhN2E3MDE3N2QwNjllYjU2Y2FmMDllMmIzNjQ1NTgwOTA5",
   "tracks": [
+    {
+      "added_at": "2023-01-18 21:30:16",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/65xq8ZR0EEGPJ21w4bivCI"
+      },
+      "artists": [
+        {
+          "name": "TOMB",
+          "url": "https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw"
+        }
+      ],
+      "duration_ms": 223515,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1"
+    },
     {
       "added_at": "2023-01-17 17:53:51",
       "album": {
@@ -1119,62 +1135,6 @@
       "duration_ms": 216046,
       "name": "Sky",
       "url": "https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Be Here (La La La)",
-        "url": "https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "The Duchess",
-          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
-        }
-      ],
-      "duration_ms": 140645,
-      "name": "Be Here (La La La)",
-      "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
-      },
-      "artists": [
-        {
-          "name": "Approaching Black",
-          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
-        },
-        {
-          "name": "Indi Starling",
-          "url": "https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
-      },
-      "artists": [
-        {
-          "name": "Approaching Black",
-          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "A Cause And Effect",
-      "url": "https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

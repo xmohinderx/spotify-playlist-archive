@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-228 songs - 13 hr 6 min
+229 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apollo \- Acoustic Version](https://open.spotify.com/track/4z4T6CL0ByjV5sEmwjtT6T) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/2llLG37S5O56zsKAe8Lavo) | 3:58 | 2021-12-10 | 2022-07-20 |
 | [Are You with Me \- Harold Van Lennep Piano Edit](https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me \(Remixes\)](https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC) | 2:56 | 2021-12-10 | 2022-07-29 |
 | [Atlantis \- Acoustic Version](https://open.spotify.com/track/6rUgmZtH7GMCDMMkYAOslN) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [The Acoustics](https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7) | 4:14 | 2021-12-10 | 2022-07-29 |
+| [Avenue Road](https://open.spotify.com/track/0cBE7fP7Hu1c7jH8ptFIpk) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/7hPscs4y9QTLRIviW0Sr9S) | 2:34 | 2022-09-30 |  |
 | [Avenue Road](https://open.spotify.com/track/35M5jZAr2kizYaDvn4bXwx) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/1gJbw5p7ohUbTq0gtGxzOD) | 2:34 | 2021-12-10 | 2022-07-29 |
 | [Bad](https://open.spotify.com/track/5fiyuKLoOKKFbJBOp8gNiW) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Vassy Unplugged](https://open.spotify.com/album/0wWjhE6hIKlBTiFRnlUwuB) | 2:27 | 2021-12-10 | 2022-07-22 |
 | [Be Your Sound \- Live Acoustic Version](https://open.spotify.com/track/5hWZSnDyQSdydBWrZnVX9Z) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:41 | 2021-12-10 | 2022-07-29 |
@@ -205,7 +206,7 @@
 | [There Will Be Angels \- Acoustic Version](https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Sound Advice \(Chapter One\)](https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63) | 3:13 | 2021-12-10 |  |
 | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\) \- Acoustic](https://open.spotify.com/track/0qynC1yRTNWI7JEsKV9dwg) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\) \[Acoustic\]](https://open.spotify.com/album/5Q41hlQpul1txWWurdTHtY) | 3:32 | 2021-12-10 |  |
 | [They Don't Know Us \- Piano Version](https://open.spotify.com/track/0f6t3131LT1No7MnJGiPVw) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/2PhtCZDQ38ycL68cODMfVp) | 3:21 | 2021-12-10 | 2022-07-29 |
-| [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 | 2022-06-27 |  |
+| [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 | 2022-06-27 | 2023-01-19 |
 | [Thing Called Love](https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp) | 4:20 | 2021-12-10 | 2022-07-28 |
 | [Thing Called Love](https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Acoustic](https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3) | 4:20 | 2022-06-27 |  |
 | [Thing Called Love \- Live At The Hollywood Bowl](https://open.spotify.com/track/4NoJp7ek8ZcuHoq3DzhKCo) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Acoustic \- Live At The Hollywood Bowl](https://open.spotify.com/album/6aSqfBHBWBHZq72VGp0MTA) | 4:34 | 2021-12-10 | 2022-07-29 |

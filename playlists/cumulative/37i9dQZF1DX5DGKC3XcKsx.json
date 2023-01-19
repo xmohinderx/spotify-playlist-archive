@@ -2022,6 +2022,28 @@
     {
       "album": {
         "name": "Te Queria",
+        "url": "https://open.spotify.com/album/3FmgeB9WRmAQZltG18v83i"
+      },
+      "artists": [
+        {
+          "name": "Fosse",
+          "url": "https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo"
+        },
+        {
+          "name": "KKO",
+          "url": "https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207615,
+      "name": "Te Queria",
+      "url": "https://open.spotify.com/track/5VAyqQT8B4AtfZWCguR0Jd"
+    },
+    {
+      "album": {
+        "name": "Te Queria",
         "url": "https://open.spotify.com/album/62GbMKlsW0HJNDsQFW5f5o"
       },
       "artists": [
@@ -2036,7 +2058,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 207615,
       "name": "Te Queria",
       "url": "https://open.spotify.com/track/6BIDdKBzJJdQgXYrrpN38M"

@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 55724,
+  "num_followers": 55685,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMGZhZDIwMjliMTM5ZGZkMGZiYjJlN2RiYjc3ZWZkZDE2",
+  "snapshot_id": "MTY3Mjk0NDA4MCwwMDAwMDAwMGI2MjVhNzQ0MGMyZTUxODI1M2VjZjhhOTlkMzY2YTMy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -71,6 +71,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Carol Of The Bells (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 102906,
+      "name": "Carol Of The Bells - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Home Alone (On the Night Before Christmas)",
         "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 203103,
       "name": "It's Christmas Time (with Michael Bolton)",
       "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Carol Of The Bells (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 102906,
-      "name": "Carol Of The Bells - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Caro\u0308l Von Holz",
+        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Holzbl\u00e4ser",
+          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+        }
+      ],
+      "duration_ms": 254971,
+      "name": "Caro\u0308l Von Holz",
+      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "An Electronic Christmas",
         "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 125280,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Caro\u0308l Von Holz",
-        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Holzbl\u00e4ser",
-          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
-        }
-      ],
-      "duration_ms": 254971,
-      "name": "Caro\u0308l Von Holz",
-      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
     },
     {
-      "added_at": "2023-01-18 01:23:19",
+      "added_at": "2023-01-19 01:20:50",
       "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"
@@ -624,8 +624,8 @@
           "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         },
         {
-          "name": "Baby Tyson",
-          "url": "https://open.spotify.com/artist/04xcAIuMLDs6qBgxEUmtJo"
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
         },
         {
           "name": "Dimmalou",

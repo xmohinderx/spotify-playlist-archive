@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,503 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,510 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 46 | [Réis](https://open.spotify.com/track/1Y9nwb89W4pskYMFAcgNi0) | [EAGLE](https://open.spotify.com/artist/0ZqMXm6JYztVVqFXvHh7v3), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Réis](https://open.spotify.com/album/4tS4vFUJupCi8sMcsKbW5Z) | 2:28 |
 | 47 | [Imperfeito](https://open.spotify.com/track/5H41OCQAoCMOWsfQDu9qER) | [KT Gomez](https://open.spotify.com/artist/703CEqKg3mMmHrGvzQhoBY), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Imperfeito](https://open.spotify.com/album/1G0h6iNeBYcrf5Mm0nJL9x) | 2:15 |
 | 48 | [Vida de Luxo](https://open.spotify.com/track/4UWNfkKgFd7xKOdZtlBPOp) | [Cesao Mc](https://open.spotify.com/artist/2vBTP2mlmqzuPQ4ksP6h4e) | [Cesao Chegando na Party](https://open.spotify.com/album/3ywpHQZeI3be2SbmwHF7wt) | 2:23 |
-| 49 | [Dança Menina](https://open.spotify.com/track/0pNsyFV27plpmQvp2x7Vro) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [SÓ AS BRABA Records](https://open.spotify.com/artist/1vzqipvBH39GBswAMRgRgM) | [Dança Menina](https://open.spotify.com/album/00jcsspWRugMHik4I668o3) | 2:06 |
+| 49 | [Dança Menina](https://open.spotify.com/track/0pNsyFV27plpmQvp2x7Vro) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [SÓ AS BRABA](https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe) | [Dança Menina](https://open.spotify.com/album/00jcsspWRugMHik4I668o3) | 2:06 |
 | 50 | [Gin & Campari](https://open.spotify.com/track/6KO5LTv13zmGhUCFNOssKl) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Vincent](https://open.spotify.com/artist/1oNEmlsYecF27VXffRlXDG), [Cattê](https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W) | [Gin & Campari](https://open.spotify.com/album/3vetw3P5Zy65WWN5NNEqla) | 2:52 |
 | 51 | [Amor É para os Fortes](https://open.spotify.com/track/4C54SVfkqgKio9HgJKlGfT) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [DJ Kalfani](https://open.spotify.com/artist/02RSgo6GjUSDChRsq79jTg), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Amor É para os Fortes](https://open.spotify.com/album/5FgS2IVNtec0eZ2Yt9ZSuZ) | 3:08 |
 | 52 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |

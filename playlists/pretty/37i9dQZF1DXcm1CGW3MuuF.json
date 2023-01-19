@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a los h\u00e9roes y hero\u00ednas locales que con su talento y osad\u00eda nos dan patria musical. En portada: THE SUPUESTOS",
-  "num_followers": 2807,
+  "num_followers": 2809,
   "original_name": "NI\u00d1XS H\u00c9ROES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMGExYzhjZDFmZmUxZDYzOTI2NDE2MjgxODA3NzRmZDFm",
+  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMGMzZjA4ZGRkM2M3ZjVhMDEyODc3MTkwZjE5ZTAzMWIz",
   "tracks": [
     {
       "added_at": "2021-11-26 19:28:42",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
+        "name": "Rock!",
+        "url": "https://open.spotify.com/album/7qhi00RuvJBbWYX5mfWGcQ"
+      },
+      "artists": [
+        {
+          "name": "Karl Neudert",
+          "url": "https://open.spotify.com/artist/0mvgQK2rUN99614MrmzmmJ"
+        }
+      ],
+      "duration_ms": 103389,
+      "name": "Rock!",
+      "url": "https://open.spotify.com/track/5hYf1O7H6eRyM3uNnWpJj0"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
         "name": "\u00a1Ya No Hay Funk!",
         "url": "https://open.spotify.com/album/1gE94RVD745nnV004FKYng"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 222554,
       "name": "Ordinarios",
       "url": "https://open.spotify.com/track/1s7WD2GgJT9lHkPROyopE6"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
-        "name": "Rock!",
-        "url": "https://open.spotify.com/album/7qhi00RuvJBbWYX5mfWGcQ"
-      },
-      "artists": [
-        {
-          "name": "Karl Neudert",
-          "url": "https://open.spotify.com/artist/0mvgQK2rUN99614MrmzmmJ"
-        }
-      ],
-      "duration_ms": 103389,
-      "name": "Rock!",
-      "url": "https://open.spotify.com/track/5hYf1O7H6eRyM3uNnWpJj0"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Llego Tarde",
-        "url": "https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR"
-      },
-      "artists": [
-        {
-          "name": "El Pillin",
-          "url": "https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm"
-        }
-      ],
-      "duration_ms": 177024,
-      "name": "Llego Tarde",
-      "url": "https://open.spotify.com/track/5vYNVKX0uyR2BGrgLGZh7D"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
         "name": "Toronjil (Aqu\u00ed Todo Cambia)",
         "url": "https://open.spotify.com/album/2cgGlLv6tZ5Ap2mq0FSzqW"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
+        "name": "Llego Tarde",
+        "url": "https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR"
       },
       "artists": [
         {
-          "name": "MIXO",
-          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+          "name": "El Pillin",
+          "url": "https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm"
         }
       ],
-      "duration_ms": 204376,
-      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
+      "duration_ms": 177024,
+      "name": "Llego Tarde",
+      "url": "https://open.spotify.com/track/5vYNVKX0uyR2BGrgLGZh7D"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -487,6 +471,22 @@
       "duration_ms": 243265,
       "name": "Ciudad",
       "url": "https://open.spotify.com/track/4L7hEVnQNnJxk65z9KjYG0"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
+        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
+      },
+      "artists": [
+        {
+          "name": "MIXO",
+          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Blusibox",
-        "url": "https://open.spotify.com/album/5IbYlT1SFQzmnzP50bZ7C7"
-      },
-      "artists": [
-        {
-          "name": "Sunozun",
-          "url": "https://open.spotify.com/artist/3DApw6y8GAhFcjWIshuTax"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Blusibox",
-      "url": "https://open.spotify.com/track/7EUAipiZh9rOdGWVp73pIF"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
         "name": "Amor Sin Fin",
         "url": "https://open.spotify.com/album/5mlstqzIWbIlIKjyuqvYDW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 187796,
       "name": "\u00a1Hey, T\u00fa!",
       "url": "https://open.spotify.com/track/5nJpekyYgGG9f5o0gaFoqZ"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
+        "name": "Blusibox",
+        "url": "https://open.spotify.com/album/5IbYlT1SFQzmnzP50bZ7C7"
+      },
+      "artists": [
+        {
+          "name": "Sunozun",
+          "url": "https://open.spotify.com/artist/3DApw6y8GAhFcjWIshuTax"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Blusibox",
+      "url": "https://open.spotify.com/track/7EUAipiZh9rOdGWVp73pIF"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Vicios Juveniles, Vol. 2",
-        "url": "https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL"
+        "name": "Tanto tiempo",
+        "url": "https://open.spotify.com/album/31PicdkPwrgBgbNoV6NnET"
       },
       "artists": [
         {
-          "name": "Vicios Juveniles",
-          "url": "https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI"
+          "name": "Stereo Mama",
+          "url": "https://open.spotify.com/artist/0RNNw744pRewnnpAdkGwUG"
         }
       ],
-      "duration_ms": 110751,
-      "name": "Nostalgia Suicida",
-      "url": "https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q"
+      "duration_ms": 193433,
+      "name": "Tanto Tiempo",
+      "url": "https://open.spotify.com/track/1aj2AdssNHUwGkfcXVlY0F"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Tanto tiempo",
-        "url": "https://open.spotify.com/album/31PicdkPwrgBgbNoV6NnET"
+        "name": "Vicios Juveniles, Vol. 2",
+        "url": "https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL"
       },
       "artists": [
         {
-          "name": "Stereo Mama",
-          "url": "https://open.spotify.com/artist/0RNNw744pRewnnpAdkGwUG"
+          "name": "Vicios Juveniles",
+          "url": "https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI"
         }
       ],
-      "duration_ms": 193433,
-      "name": "Tanto Tiempo",
-      "url": "https://open.spotify.com/track/1aj2AdssNHUwGkfcXVlY0F"
+      "duration_ms": 110751,
+      "name": "Nostalgia Suicida",
+      "url": "https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q"
     },
     {
       "added_at": "2021-11-26 19:28:42",

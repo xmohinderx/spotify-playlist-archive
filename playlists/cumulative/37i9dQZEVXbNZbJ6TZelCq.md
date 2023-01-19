@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,025 songs - 2 day 6 hr 24 min
+1,026 songs - 2 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-12-05 |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2022-10-10 | 2023-01-18 |
 | [I Wanna Be Yours](https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 3:03 | 2022-08-15 | 2022-10-05 |
-| [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-06-09 |  |
+| [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-06-09 | 2023-01-19 |
 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 | 2022-04-30 | 2022-05-02 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-04 |  |
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 | 2022-04-30 | 2022-05-02 |
@@ -446,6 +446,7 @@
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [Intro](https://open.spotify.com/track/2mzkWDlIwyeb7YyWe4M3zR) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Nonchalant](https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km) | 2:33 | 2022-11-04 | 2022-11-11 |
 | [Intro](https://open.spotify.com/track/3sUYXrTxaiX1iZehE4OP6b) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [NONCHALANT](https://open.spotify.com/album/0MKn5w2b9Y2YBAP6UJJNOw) | 2:33 | 2022-06-11 | 2022-06-25 |
+| [Intro](https://open.spotify.com/track/36KtMKLlaUjrXA0sYj6AOy) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [Capitanu'](https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i) | 1:45 | 2023-01-18 |  |
 | [Investesc](https://open.spotify.com/track/3Bxnm5Alk1jnDXZ3Qv6QVd) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Erique](https://open.spotify.com/artist/6MgUVdFgFohA5SlpdB6I67) | [RMN](https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm) | 3:08 | 2021-03-27 | 2021-03-31 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-02-13 |
 | [Is U Mad](https://open.spotify.com/track/2RmoYkORyEAtEi66LY9eG6) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 2:47 | 2022-08-12 | 2022-10-15 |
@@ -872,12 +873,12 @@
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-10 | 2022-09-12 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-03 | 2022-09-09 |
 | [Tarabanele](https://open.spotify.com/track/4xd1Qg8JbuxXAc5fJQI5P5) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Tarabanele](https://open.spotify.com/album/67YC8J0gFPkCicN0V830Hr) | 2:19 | 2022-05-05 | 2022-06-25 |
-| [Tarabanele](https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:19 | 2022-06-24 |  |
+| [Tarabanele](https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:19 | 2022-06-24 | 2023-01-19 |
 | [Tarentinø \- Freestyle](https://open.spotify.com/track/36SIezxBjFcsQzJxP3dBji) | [Ørigami](https://open.spotify.com/artist/12QGQurwdGUtXCAPGrFoO5) | [Tarantinø \(Freestyle\)](https://open.spotify.com/album/6XWHi0A2TimLUUPNNpz70y) | 2:25 | 2022-09-11 | 2022-09-19 |
 | [Te Amo](https://open.spotify.com/track/0O9DuHoeG3Yq0E8WTSxn0r) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [Te Amo](https://open.spotify.com/album/2sFwT0UaRvAYFzyoYkJ4Y6) | 2:03 | 2022-12-24 |  |
 | [Te cari](https://open.spotify.com/track/0ooMW6bItdA0PxiGNSsoy5) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Te cari](https://open.spotify.com/album/72GhKHdyty7noFIt57uMSR) | 3:28 | 2021-12-15 | 2021-12-25 |
 | [TE SUN](https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TRAUME & COȘMARURI](https://open.spotify.com/album/4sCBowHBMloinktllMpNn2) | 3:03 | 2022-10-22 |  |
-| [Te\-am vazut fara inel](https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Te\-am vazut fara inel](https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI) | 2:57 | 2022-11-03 | 2023-01-18 |
+| [Te\-am vazut fara inel](https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Te\-am vazut fara inel](https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI) | 2:57 | 2022-11-03 |  |
 | [Teju](https://open.spotify.com/track/0H8sDfz5yN30bvta2t67cX) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Teju](https://open.spotify.com/album/62mkIyXnLf1U4mrD7pjxCK) | 2:33 | 2022-01-27 | 2022-01-29 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-01 |
 | [Tell The Vision](https://open.spotify.com/track/34TiQsddaGhd8lmzJfxSzH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 1:44 | 2021-08-31 | 2021-09-02 |

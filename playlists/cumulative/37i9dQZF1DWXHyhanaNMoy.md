@@ -4,7 +4,7 @@
 
 > Alleen maar motion en good vibes\. Cover: Bilal Wahib
 
-352 songs - 15 hr 57 min
+353 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Summertime Flex](https://open.spotify.com/track/1fk09RWJVjBkj2xQ8fEqgp) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Summertime Flex](https://open.spotify.com/album/7yF8fXlDtDrPJyy7pu0Qaf) | 3:33 | 2022-07-14 | 2022-07-22 |
 | [Sundress](https://open.spotify.com/track/1im4wgqQFi8IQpmpyaUyp9) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Sundress](https://open.spotify.com/album/7mPWZu7oT2KYTQw4vWeYiW) | 2:07 | 2022-08-11 | 2022-09-23 |
 | [System](https://open.spotify.com/track/19VFcHFyE47v1bw6ZsKbzF) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [System](https://open.spotify.com/album/7ph68ITs0GKAOWFfUpVMse) | 2:52 | 2022-07-14 | 2022-08-26 |
+| [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-18 |  |
 | [Take A Shot](https://open.spotify.com/track/4xERtKypSdYy3FCigHMvIV) | [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Take A Shot](https://open.spotify.com/album/3whDWI4a0GUCYO16U7e7k3) | 2:46 | 2022-11-17 | 2022-12-02 |
 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 | 2022-08-25 | 2022-09-09 |
 | [Tas](https://open.spotify.com/track/3KK7eZ50sw0xbyzmtq2hb6) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd) | [Tas](https://open.spotify.com/album/0FMQ40Q2ASBbyY3myOJFEw) | 1:09 | 2022-10-31 | 2022-12-09 |

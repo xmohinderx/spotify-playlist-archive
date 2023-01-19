@@ -1,15 +1,31 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Tia Corine",
-  "num_followers": 199281,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Luke Bar$",
+  "num_followers": 199559,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NDE5MiwwMDAwMDAwMDQ5NTJjN2NlZTQ2MjY5YzY0OGQyNzg4YjU3M2Y1YTBk",
+  "snapshot_id": "MTY3NDA4NTkzMywwMDAwMDAwMDcyZjc2MzcwZjZkOTZkZWNhMjIyMzE5NGM0MjQwYWJh",
   "tracks": [
     {
-      "added_at": "2022-11-09 17:00:00",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Angels Never Die",
+        "url": "https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 166979,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "AL Roker",
         "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
@@ -41,7 +57,39 @@
       "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Way Of The Scrumble",
+        "url": "https://open.spotify.com/album/2YsHIACK96lLOj2IeuWibt"
+      },
+      "artists": [
+        {
+          "name": "ScrumbleMan",
+          "url": "https://open.spotify.com/artist/6bWkY38tJ2cqGB6fa5TEV7"
+        }
+      ],
+      "duration_ms": 93126,
+      "name": "1st Time In Neimans",
+      "url": "https://open.spotify.com/track/1UKVKspb7YDeMjhEdLueSy"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Don't Matter",
+        "url": "https://open.spotify.com/album/2wwnqGRytuff6IRQcpFuEQ"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "duration_ms": 126197,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/6HjgcxvCqzOp4K3ObnwBgP"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Specialty",
         "url": "https://open.spotify.com/album/3IV5khV7VfuX3DCnIMF8ZQ"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Neighborhood Trapstars",
         "url": "https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4"
     },
     {
-      "added_at": "2022-11-09 17:00:00",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Law & Order pt. 2",
         "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
@@ -97,7 +145,23 @@
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Naismith",
+        "url": "https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "duration_ms": 181067,
+      "name": "Naismith",
+      "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "From the Bottom of My Heart",
         "url": "https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX"
@@ -113,7 +177,71 @@
       "url": "https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Too Nice",
+        "url": "https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1"
+      },
+      "artists": [
+        {
+          "name": "Jabb",
+          "url": "https://open.spotify.com/artist/7pqRXXauuwGQqzrvvz0Azl"
+        }
+      ],
+      "duration_ms": 130968,
+      "name": "Too Nice",
+      "url": "https://open.spotify.com/track/6TLsYdcjgjiBAFY1Vzhl5w"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Score Or Die",
+        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
+      },
+      "artists": [
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        }
+      ],
+      "duration_ms": 163872,
+      "name": "Score Or Die",
+      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Models",
+        "url": "https://open.spotify.com/album/4nxEkS0v7QqboJ3to45x0B"
+      },
+      "artists": [
+        {
+          "name": "4L JAVI",
+          "url": "https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a"
+        }
+      ],
+      "duration_ms": 104620,
+      "name": "Models",
+      "url": "https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn"
+    },
+    {
+      "added_at": "2023-01-18 23:52:13",
+      "album": {
+        "name": "SHELLS",
+        "url": "https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "UnderWater",
+      "url": "https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "State of Emergency",
         "url": "https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5"
@@ -133,7 +261,23 @@
       "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "On Sum Shit",
+        "url": "https://open.spotify.com/album/5o7bWAVye5PUmnWX5NEBGQ"
+      },
+      "artists": [
+        {
+          "name": "Rico Cash",
+          "url": "https://open.spotify.com/artist/76QXrU9pECofvfYedtvoSx"
+        }
+      ],
+      "duration_ms": 120048,
+      "name": "On Sum Shit",
+      "url": "https://open.spotify.com/track/4G4VVyTY9OMAv3bD0GiVOq"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Tired (feat. Rob49)",
         "url": "https://open.spotify.com/album/7DX362BKElkVx87g476jeA"
@@ -153,7 +297,7 @@
       "url": "https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/4VUhVSDn8ZjHWbDdL6qjsw"
@@ -169,7 +313,7 @@
       "url": "https://open.spotify.com/track/0HdhL3wJyFM7W6XwNYIMxn"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Mr. Too Sticky",
         "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
@@ -185,7 +329,7 @@
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Wine & Dine",
         "url": "https://open.spotify.com/album/321nxe0W26ka2fIlvWUUYj"
@@ -201,7 +345,7 @@
       "url": "https://open.spotify.com/track/7jqgrSK9y7N1P18NpZxJLn"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/4IJNKb3VUcvi3uz7ZKJK6s"
@@ -221,7 +365,7 @@
       "url": "https://open.spotify.com/track/4ud97R0WbQ3Crsza51Q6cQ"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Mob Shit",
         "url": "https://open.spotify.com/album/2fqEyPqh1ybVQ2M6FLqHLJ"
@@ -241,7 +385,7 @@
       "url": "https://open.spotify.com/track/5apLj5wI3oNFhYaFIgtt6q"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Jwett Stalker",
         "url": "https://open.spotify.com/album/7unTqRtrzDbZomSeaOvUGb"
@@ -257,23 +401,23 @@
       "url": "https://open.spotify.com/track/72FP16D3O7W6eWPjHIlBFi"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "UnderWater",
-        "url": "https://open.spotify.com/album/4aXSv8hM9UUxmlXCuvomon"
+        "name": "Shadows 4",
+        "url": "https://open.spotify.com/album/32SA1u7qaPOLesIPXb606I"
       },
       "artists": [
         {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+          "name": "Lord Juco",
+          "url": "https://open.spotify.com/artist/5Gld0bWeqAVgHGgwLpOJlZ"
         }
       ],
-      "duration_ms": 230333,
-      "name": "UnderWater",
-      "url": "https://open.spotify.com/track/12KqWaml7aLBQipmX5mSK0"
+      "duration_ms": 120680,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/1HUGH6K8uKM2z8OR92JmAc"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Motion Man",
         "url": "https://open.spotify.com/album/6JVl7vf5aBSQIiFr8mDYMd"
@@ -289,7 +433,7 @@
       "url": "https://open.spotify.com/track/3k0FSuoQjeivsadIwthYDF"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "BENZ",
         "url": "https://open.spotify.com/album/5VvKj7hSbo59rSuF6E3CcJ"
@@ -309,7 +453,43 @@
       "url": "https://open.spotify.com/track/6E031JdEzh2E3mesGmlGt6"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "VITAMIN D",
+        "url": "https://open.spotify.com/album/1S0ukiLSuVxLNHAEZjCCMJ"
+      },
+      "artists": [
+        {
+          "name": "Ocean Kelly",
+          "url": "https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S"
+        }
+      ],
+      "duration_ms": 194516,
+      "name": "VITAMIN D",
+      "url": "https://open.spotify.com/track/10Tsc5cYUkFJGI5E2dKeCm"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Trippin For No Reason",
+        "url": "https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT"
+      },
+      "artists": [
+        {
+          "name": "Rallyb",
+          "url": "https://open.spotify.com/artist/5HwdNPbGU9sjjR1Eu9QhJw"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 139946,
+      "name": "Trippin For No Reason",
+      "url": "https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk"
@@ -325,7 +505,31 @@
       "url": "https://open.spotify.com/track/1Zn1ycpMKgxmpsjV923JgB"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Stop Hatin'",
+        "url": "https://open.spotify.com/album/4zL0pIvpa79UrrsHF6FICV"
+      },
+      "artists": [
+        {
+          "name": "Anweezy",
+          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Aqua Raps",
+          "url": "https://open.spotify.com/artist/24wZhe5S2ElzaYdULrJPhV"
+        }
+      ],
+      "duration_ms": 144078,
+      "name": "Stop Hatin'",
+      "url": "https://open.spotify.com/track/1Q5ePNuK7VvyvjpSIuQ0JA"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/0HhVSa3NhYFXxJ3JTdhV9F"
@@ -345,23 +549,7 @@
       "url": "https://open.spotify.com/track/2XLh0cozp37b76JqHSZC79"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
-      "album": {
-        "name": "Score Or Die",
-        "url": "https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8"
-      },
-      "artists": [
-        {
-          "name": "Rundown Choppaboy",
-          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
-        }
-      ],
-      "duration_ms": 163872,
-      "name": "Score Or Die",
-      "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
-    },
-    {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "It Aint Over",
         "url": "https://open.spotify.com/album/1qTOiYn4ynjph6yXJ7TeH4"
@@ -381,7 +569,7 @@
       "url": "https://open.spotify.com/track/74kpb349Y0Rnu2U489O9e8"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Birds Out (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/2BHFCxBC1rw2tPi98ytlBy"
@@ -401,7 +589,7 @@
       "url": "https://open.spotify.com/track/0chvFbX7yr5Jdb73NZcBLf"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "blessings & curses",
         "url": "https://open.spotify.com/album/0muRadh3yV9mTLXOqKNEZO"
@@ -417,7 +605,7 @@
       "url": "https://open.spotify.com/track/31G6ToFLmLA9J8ws9wx8Ul"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/30NrujfphLM7qczBFiCFQk"
@@ -433,7 +621,7 @@
       "url": "https://open.spotify.com/track/1YBNyz3eAVXPoh2ZWEWiIt"
     },
     {
-      "added_at": "2023-01-11 21:56:32",
+      "added_at": "2023-01-18 17:00:00",
       "album": {
         "name": "9ine",
         "url": "https://open.spotify.com/album/6enOWRkP3yaCZkOFXtRH6n"

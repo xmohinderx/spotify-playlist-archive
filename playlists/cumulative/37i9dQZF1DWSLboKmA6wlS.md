@@ -2,14 +2,14 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: CHRRISSA\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Mariko\. Artwork: Isu Kim
 
-219 songs - 14 hr 5 min
+220 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/track/401VVCAswS3tZUJznHrVEZ) | [KONGTHAP PEAK](https://open.spotify.com/artist/6yEr7qQKyVc8tWX7TpVif0) | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/album/7bYRNYEY4hnIRrE5pCFtW1) | 3:48 | 2022-10-07 | 2022-11-19 |
-| [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/track/2EKdV1vqQ6z9welpdGxVEQ) | [Best 247UNITS](https://open.spotify.com/artist/2WGkP4duOSNTyEHDaxzUni) | [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/album/675Nymotfkp8p91csUv9yx) | 4:10 | 2023-01-05 |  |
+| [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/track/2EKdV1vqQ6z9welpdGxVEQ) | [Best 247UNITS](https://open.spotify.com/artist/2WGkP4duOSNTyEHDaxzUni) | [247UNITS ดีใจที่ได้ตกหลุมรักเธอ \(Palliate\) : Intro \- Best](https://open.spotify.com/album/675Nymotfkp8p91csUv9yx) | 4:10 | 2023-01-05 | 2023-01-19 |
 | [ADD FAN](https://open.spotify.com/track/21fvSmhjnKpT90JIm48ehD) | [CANDYROOM](https://open.spotify.com/artist/1s0pOR5FfVvMgYPzOatA7k) | [ADD FAN](https://open.spotify.com/album/5eo5gTjeth5QxxB9cevmj1) | 3:05 | 2022-11-04 | 2022-11-26 |
 | [Baby I แค่อยากให้ U](https://open.spotify.com/track/0R7UGJ7EpMk8JY3ncnFKAM) | [CHILLY](https://open.spotify.com/artist/2h0AG75wO4FgXz3SGXCCxd) | [Baby I แค่อยากให้ U](https://open.spotify.com/album/2eBngJMn7jdOkp4tqZbxjb) | 3:29 | 2022-10-28 | 2022-11-26 |
 | [Best of Me](https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [Best of Me](https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy) | 3:29 | 2022-09-15 | 2022-09-30 |
@@ -18,6 +18,7 @@
 | [Cigarettes](https://open.spotify.com/track/75tV7QYVJdLbkBJUWIshWT) | [RPS Est.1997](https://open.spotify.com/artist/1ebkX7KLgBa2lejxV9bF2n) | [Cigarettes](https://open.spotify.com/album/4mWbobBs1ZRRTU67Se09is) | 3:12 | 2022-10-21 | 2022-11-12 |
 | [Colourist](https://open.spotify.com/track/1hxaW72igwV5ldmOxCuJXb) | [iloveyoucherrymuch](https://open.spotify.com/artist/7BDIlLiUb5sKmXZPmXPKmT) | [Colourist](https://open.spotify.com/album/5V9qcI9vsytTFMyTKq7Nco) | 3:21 | 2022-09-15 | 2022-09-24 |
 | [Come back to me](https://open.spotify.com/track/3TPB54TCJHVZZ0gInF5QBn) | [AIM Satida](https://open.spotify.com/artist/58LmvSK1l34y8RWvtDrZhv) | [Come back to me](https://open.spotify.com/album/4CEQvPKvS29smm6sGFiWcV) | 5:22 | 2022-09-15 | 2022-09-30 |
+| [Dark Chocolate](https://open.spotify.com/track/3kJOuQUJ9s7U23RggAaGVN) | [Mariko](https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO) | [Dark Chocolate](https://open.spotify.com/album/1RmBS6icflpHfzfIfA4MDa) | 3:17 | 2023-01-18 |  |
 | [Dear](https://open.spotify.com/track/70odxlp6fqrguezcX2Wg3v) | [Last Boy on Earth](https://open.spotify.com/artist/34UKQXpyA0S98qjOlz6F0M) | [Dear](https://open.spotify.com/album/5080A0et21d4n5A2PyQymm) | 3:49 | 2022-09-23 | 2022-09-30 |
 | [ERROR](https://open.spotify.com/track/4quR3924jJI5Oir4XuYebn) | [GLTCHZ](https://open.spotify.com/artist/4CuhCQjwxt4ZBTDzE7DqAW) | [ERROR](https://open.spotify.com/album/1X53uRwZUSlr3knpZV0HTC) | 3:14 | 2022-12-01 | 2022-12-17 |
 | [Falling Rain](https://open.spotify.com/track/62WmKajNK3aAZ83p07Z6AU) | [mmb.](https://open.spotify.com/artist/2s1jN5dTzhDJfCwXPeJ1vt) | [Falling Rain](https://open.spotify.com/album/4EItrg8KGZFpJRb8Ozynf3) | 3:22 | 2022-09-15 | 2022-09-30 |

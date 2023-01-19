@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Luude, Issey Cross & Moby.",
-  "num_followers": 418371,
+  "num_followers": 418511,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjQ3OSwwMDAwMDAwMDU5YTRhNmQ1MDcyOGU2OWJlN2YwZWUwNzc3NDY2YWQz",
+  "snapshot_id": "MTY3MzU4NjQ3OSwwMDAwMDAwMGJjYWY2YmUwNjBkZTdhMWMxYTc4Zjk5MWQyYmIyMmVl",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "The Last Goodbye (Hayden James Remix)",
-        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
-      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
         "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
       },
@@ -559,18 +535,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+        "name": "The Last Goodbye (Hayden James Remix)",
+        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
+      "duration_ms": 224908,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -603,6 +587,22 @@
       "duration_ms": 221899,
       "name": "Alive (feat. The Moth & The Flame) - KREAM Remix",
       "url": "https://open.spotify.com/track/1UoMuntc5aJOQcyOOVLBST"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Wiwek",
-          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
       },
@@ -791,6 +771,42 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3C0p7hbho3RxZauWZjYMOm"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 167731,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3qa60ubSTZWvjqWUzCqluX"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Breathe (Qrion Remix)",
         "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 271686,
       "name": "Breathe - Qrion Remix",
       "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3C0p7hbho3RxZauWZjYMOm"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 167731,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3qa60ubSTZWvjqWUzCqluX"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1035,26 +1035,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Far Behind (TIBASKO Remix)",
-        "url": "https://open.spotify.com/album/39dXSWdKDzgT39aVfKJZJG"
+        "name": "Playin\u2019 Around",
+        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
         }
       ],
-      "duration_ms": 245747,
-      "name": "Far Behind - TIBASKO Remix",
-      "url": "https://open.spotify.com/track/6Ra6mFxKs7kZLhV5LXNylR"
+      "duration_ms": 153750,
+      "name": "Playin\u2019 Around",
+      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1075,22 +1071,46 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Playin\u2019 Around",
-        "url": "https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco"
+        "name": "Out Of My Depth (feat. Nu-La)",
+        "url": "https://open.spotify.com/album/4ucoXcuxkDJ7mkv4Mk5BRp"
       },
       "artists": [
         {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
         },
         {
-          "name": "Samuele Scelfo",
-          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Playin\u2019 Around",
-      "url": "https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB"
+      "duration_ms": 188976,
+      "name": "Out Of My Depth (feat. Nu-La)",
+      "url": "https://open.spotify.com/track/36QnWEgMhGqX40Jw3MuOZU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Far Behind (TIBASKO Remix)",
+        "url": "https://open.spotify.com/album/39dXSWdKDzgT39aVfKJZJG"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "duration_ms": 245747,
+      "name": "Far Behind - TIBASKO Remix",
+      "url": "https://open.spotify.com/track/6Ra6mFxKs7kZLhV5LXNylR"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1131,22 +1151,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Out Of My Depth (feat. Nu-La)",
-        "url": "https://open.spotify.com/album/4ucoXcuxkDJ7mkv4Mk5BRp"
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
       "artists": [
         {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         }
       ],
-      "duration_ms": 188976,
-      "name": "Out Of My Depth (feat. Nu-La)",
-      "url": "https://open.spotify.com/track/36QnWEgMhGqX40Jw3MuOZU"
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 298736,
       "name": "re-location.zip",
       "url": "https://open.spotify.com/track/6feXynMqVk5bDRbGoaVc76"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Laserbeam (Blanke's \u00c6ON:REMIX)",
-        "url": "https://open.spotify.com/album/5NUUzkJljCoHWK4L5aSgXd"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "Laserbeam - Blanke's \u00c6ON:REMIX",
-      "url": "https://open.spotify.com/track/4taZ23hnXd59FeBaGhuapi"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Lost In The Moment",
         "url": "https://open.spotify.com/album/6iBr7zIGNHSFngayyUB56R"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 281346,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/7jWXdxzdxSxfelVbVWI1kb"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Laserbeam (Blanke's \u00c6ON:REMIX)",
+        "url": "https://open.spotify.com/album/5NUUzkJljCoHWK4L5aSgXd"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "Laserbeam - Blanke's \u00c6ON:REMIX",
+      "url": "https://open.spotify.com/track/4taZ23hnXd59FeBaGhuapi"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/2wstSFU3VMTXdqTIuXARw6"
+      },
+      "artists": [
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/0H4ldHOvXdVJXyxHZZC3hm"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "90%",
         "url": "https://open.spotify.com/album/2YjniQbChT8RQfcfojCLs2"
       },
@@ -1491,38 +1507,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/2wstSFU3VMTXdqTIuXARw6"
+        "name": "Toxic Heart",
+        "url": "https://open.spotify.com/album/67FgXCMlUV7IOzSfHI7iSn"
       },
       "artists": [
         {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/0H4ldHOvXdVJXyxHZZC3hm"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "I'm So Weak",
-        "url": "https://open.spotify.com/album/3C6Ph8QN3Dyd6RAmPLRO2M"
-      },
-      "artists": [
-        {
-          "name": "Volaris",
-          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+          "name": "Dave Summit",
+          "url": "https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq"
         },
         {
-          "name": "Cammie Robinson",
-          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+          "name": "Sirona",
+          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
         }
       ],
-      "duration_ms": 204364,
-      "name": "I'm So Weak",
-      "url": "https://open.spotify.com/track/1obeUhJYmsuvhI1JuJYSsT"
+      "duration_ms": 184354,
+      "name": "Toxic Heart",
+      "url": "https://open.spotify.com/track/2la3W2OKbwMR4gkZtNyoqw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Toxic Heart",
-        "url": "https://open.spotify.com/album/67FgXCMlUV7IOzSfHI7iSn"
-      },
-      "artists": [
-        {
-          "name": "Dave Summit",
-          "url": "https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq"
-        },
-        {
-          "name": "Sirona",
-          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "Toxic Heart",
-      "url": "https://open.spotify.com/track/2la3W2OKbwMR4gkZtNyoqw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "NOW U KNOW",
         "url": "https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 163862,
       "name": "NOW U KNOW",
       "url": "https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "I'm So Weak",
+        "url": "https://open.spotify.com/album/3C6Ph8QN3Dyd6RAmPLRO2M"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 204364,
+      "name": "I'm So Weak",
+      "url": "https://open.spotify.com/track/1obeUhJYmsuvhI1JuJYSsT"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1wmZTcGxSRsswSMAMBWrE9"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcRUM",
+          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2xTGg0DcAe2WNkwkYxTsGU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Brunt",
         "url": "https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 250588,
       "name": "When I\u2019m With U",
       "url": "https://open.spotify.com/track/2ELJXxljuGGw5TCLhfCUks"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1wmZTcGxSRsswSMAMBWrE9"
-      },
-      "artists": [
-        {
-          "name": "L\u00dcRUM",
-          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2xTGg0DcAe2WNkwkYxTsGU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Dance with Me",
-        "url": "https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ"
-      },
-      "artists": [
-        {
-          "name": "Mirko Di Florio",
-          "url": "https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "It's Not Right (Remixes Part I)",
         "url": "https://open.spotify.com/album/71OezDNd6HxYAB6mthhsUo"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 220800,
       "name": "It's Not Right - The Deepshakerz Edit",
       "url": "https://open.spotify.com/track/1Yj2uNDyW84GmapJBQa4Nm"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Dance with Me",
+        "url": "https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ"
+      },
+      "artists": [
+        {
+          "name": "Mirko Di Florio",
+          "url": "https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "DISTORTION",
-        "url": "https://open.spotify.com/album/5mnX4RNbcXJx4z51tl2Ej5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Nourmand",
-          "url": "https://open.spotify.com/artist/5IAjo5Sxdt6lQpT0lRmteP"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "DISTORTION",
-      "url": "https://open.spotify.com/track/6woGdqOF8pntARcJGW9Yyh"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Body 22",
         "url": "https://open.spotify.com/album/1AHlFWZl76aQlJ8ZmZPt9r"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 248888,
       "name": "Groove And Walk",
       "url": "https://open.spotify.com/track/0fpmdAr87qvYL0ydH4t3ao"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "DISTORTION",
+        "url": "https://open.spotify.com/album/5mnX4RNbcXJx4z51tl2Ej5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Nourmand",
+          "url": "https://open.spotify.com/artist/5IAjo5Sxdt6lQpT0lRmteP"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "DISTORTION",
+      "url": "https://open.spotify.com/track/6woGdqOF8pntARcJGW9Yyh"
     },
     {
       "added_at": "2023-01-13 05:00:00",

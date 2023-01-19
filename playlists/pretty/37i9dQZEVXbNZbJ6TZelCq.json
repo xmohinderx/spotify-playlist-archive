@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 28320,
+  "num_followers": 28328,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI3MjY4NDg1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI3MzU1NTA3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Trotinete (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -105,7 +105,47 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Lalele mentolate (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/1Vjqo2UzRkhxhgpmS0nFHp"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 135145,
+      "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 217196,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "BULIBA$HA",
         "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
@@ -121,7 +161,7 @@
       "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Gestu",
         "url": "https://open.spotify.com/album/0mmWK0LujdU55qyyODPUDD"
@@ -149,67 +189,7 @@
       "url": "https://open.spotify.com/track/4JjurgsSCdNejiuOZ98PyQ"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 217196,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Midnight Gems",
-        "url": "https://open.spotify.com/album/31PGZ1PdOZwjiIzVPulCJE"
-      },
-      "artists": [
-        {
-          "name": "The Motans",
-          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "\u00cen golul t\u0103u",
-      "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Lalele mentolate (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/1Vjqo2UzRkhxhgpmS0nFHp"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 135145,
-      "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Slayer",
         "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
@@ -225,7 +205,7 @@
       "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "TRAUME & CO\u0218MARURI",
         "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
@@ -245,7 +225,7 @@
       "url": "https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -261,7 +241,27 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Midnight Gems",
+        "url": "https://open.spotify.com/album/31PGZ1PdOZwjiIzVPulCJE"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "\u00cen golul t\u0103u",
+      "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Regina Nop\u021bii",
         "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Brasileira (From \u201cTEAMBUILDING\u201d The Movie)",
         "url": "https://open.spotify.com/album/5qKXyDVdH0WeXEfwAmoDVj"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -317,63 +317,7 @@
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 200178,
-      "name": "Urgen\u021be",
-      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
-        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        }
-      ],
-      "duration_ms": 148238,
-      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
-      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Test Drive",
-        "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 150957,
-      "name": "Test Drive",
-      "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -393,10 +337,30 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
-        "name": "La san",
-        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
+        "name": "Test Drive",
+        "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 150957,
+      "name": "Test Drive",
+      "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
       "artists": [
         {
@@ -404,12 +368,32 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 207435,
-      "name": "La san",
-      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
+      "duration_ms": 200178,
+      "name": "Urgen\u021be",
+      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
+        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 148238,
+      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
+      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "R8",
         "url": "https://open.spotify.com/album/5ADIlCZn4RwZqiMDbcVvvi"
@@ -429,7 +413,23 @@
       "url": "https://open.spotify.com/track/5QGToaybBcCxxCajc0wRuA"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "La san",
+        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 207435,
+      "name": "La san",
+      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -445,7 +445,23 @@
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 297272,
+      "name": "Antetokounmpo",
+      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/64YBjqNhYcJX2Ui4o1bEZz"
@@ -465,23 +481,7 @@
       "url": "https://open.spotify.com/track/1y2H991hMLiHtiPENF9sjO"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 297272,
-      "name": "Antetokounmpo",
-      "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Centaur",
         "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
@@ -501,203 +501,7 @@
       "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Na\u0219pa",
-        "url": "https://open.spotify.com/album/7yefFOrOAkxXx3c3N35UJV"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        },
-        {
-          "name": "Arkanian",
-          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
-        }
-      ],
-      "duration_ms": 131707,
-      "name": "Na\u0219pa",
-      "url": "https://open.spotify.com/track/2kcTEXbaZd9i066DApclMC"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        }
-      ],
-      "duration_ms": 180063,
-      "name": "Piramida",
-      "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 123448,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Nonchalant (Deluxe)",
-        "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "KARLA",
-          "url": "https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3"
-        }
-      ],
-      "duration_ms": 170285,
-      "name": "Stai",
-      "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Bam Bam Bam",
-        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
-      },
-      "artists": [
-        {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 119877,
-      "name": "Bam Bam Bam",
-      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Nonchalant",
-        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Berechet",
-          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Promite-mi",
-      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Nonchalant (Deluxe)",
-        "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        },
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "duration_ms": 168831,
-      "name": "Seara din nou",
-      "url": "https://open.spotify.com/track/6VQ955KM1zNzpLdLSBFSCv"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
@@ -721,7 +525,139 @@
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        }
+      ],
+      "duration_ms": 105494,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/36KtMKLlaUjrXA0sYj6AOy"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 123448,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "duration_ms": 180063,
+      "name": "Piramida",
+      "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Promite-mi",
+      "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Na\u0219pa",
+        "url": "https://open.spotify.com/album/7yefFOrOAkxXx3c3N35UJV"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Arkanian",
+          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
+        }
+      ],
+      "duration_ms": 131707,
+      "name": "Na\u0219pa",
+      "url": "https://open.spotify.com/track/2kcTEXbaZd9i066DApclMC"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -745,7 +681,51 @@
       "url": "https://open.spotify.com/track/6VcmY5O2WE00BaF9fomffm"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Nonchalant (Deluxe)",
+        "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "KARLA",
+          "url": "https://open.spotify.com/artist/4D1GCQEpfnzrR8NLpE9FZ3"
+        }
+      ],
+      "duration_ms": 170285,
+      "name": "Stai",
+      "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Nonchalant (Deluxe)",
+        "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "duration_ms": 168831,
+      "name": "Seara din nou",
+      "url": "https://open.spotify.com/track/6VQ955KM1zNzpLdLSBFSCv"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "2089",
         "url": "https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk"
@@ -761,10 +741,10 @@
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/2sFwT0UaRvAYFzyoYkJ4Y6"
+        "name": "Bam Bam Bam",
+        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
       },
       "artists": [
         {
@@ -772,12 +752,48 @@
           "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
         }
       ],
-      "duration_ms": 123899,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0O9DuHoeG3Yq0E8WTSxn0r"
+      "duration_ms": 119877,
+      "name": "Bam Bam Bam",
+      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "BUGATTI",
+        "url": "https://open.spotify.com/album/5PBXhBuqnaIayYAuTWvYAb"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "BUGATTI",
+      "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Dac\u0103 n-ai bani",
         "url": "https://open.spotify.com/album/4yjhAtoHX508L5AU7ofXTU"
@@ -809,39 +825,7 @@
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "BUGATTI",
-        "url": "https://open.spotify.com/album/5PBXhBuqnaIayYAuTWvYAb"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "BUGATTI",
-      "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "$P$ (Studio Session #02)",
-        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "$P$ - Studio Session #02",
-      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -857,23 +841,7 @@
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "60 De Zile II",
-      "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Banii",
         "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
@@ -893,7 +861,55 @@
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "$P$ (Studio Session #02)",
+        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "$P$ - Studio Session #02",
+      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "60 De Zile II",
+      "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/2sFwT0UaRvAYFzyoYkJ4Y6"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "duration_ms": 123899,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0O9DuHoeG3Yq0E8WTSxn0r"
+    },
+    {
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -917,27 +933,7 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
-      "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
-    },
-    {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -953,24 +949,20 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-01-17 11:01:25",
+      "added_at": "2023-01-18 11:11:47",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+        "name": "Te-am vazut fara inel",
+        "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        },
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 139780,
-      "name": "Tarabanele",
-      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
+      "duration_ms": 177000,
+      "name": "Te-am vazut fara inel",
+      "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
     }
   ],
   "unique_name": "Top 50 - Romania",

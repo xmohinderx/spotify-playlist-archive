@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/0rBXcXoqmNB230XbjwbxG3"
+      },
+      "artists": [
+        {
+          "name": "ixxy",
+          "url": "https://open.spotify.com/artist/6UkBTmDCB8Z472HbktpJS1"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118361,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4oRtFezcZWGXjzO7VQXNuU"
+    },
+    {
+      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 118302,
       "name": "im closing my eyes (Feat. shiloh)",
       "url": "https://open.spotify.com/track/7evUPABneVddplechlReII"

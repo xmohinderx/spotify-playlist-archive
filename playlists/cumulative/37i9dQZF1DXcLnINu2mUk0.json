@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "Acabar mal",
+        "url": "https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv"
+      },
+      "artists": [
+        {
+          "name": "Roley",
+          "url": "https://open.spotify.com/artist/3PGL3pitV1oSwtjqZZJrMh"
+        },
+        {
+          "name": "Vi Ci",
+          "url": "https://open.spotify.com/artist/70u6V1hQWgLW5aBLvabc3X"
+        },
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Acabar mal",
+      "url": "https://open.spotify.com/track/67E0HoObbP1fReMzWihfye"
+    },
+    {
+      "album": {
         "name": "V\u00e9nus",
         "url": "https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd"
       },
@@ -806,7 +832,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 176551,
       "name": "Cora\u00e7\u00e3o de Prata",
       "url": "https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR"
@@ -3483,7 +3509,7 @@
     },
     {
       "album": {
-        "name": "Volta",
+        "name": "VOLTA",
         "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
       },
       "artists": [
@@ -3496,7 +3522,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241565,
-      "name": "Volta",
+      "name": "VOLTA",
       "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
     },
     {

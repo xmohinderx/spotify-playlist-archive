@@ -1,15 +1,31 @@
 {
-  "description": "The best soft rock from the 1970s.",
-  "num_followers": 174815,
+  "description": "The best soft rock from the 1970s. Cover: Styx",
+  "num_followers": 175074,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGUxNTIwNzVhZjFmMzc5OTc0NGVlYzExMWI4NjVlN2Zl",
+  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMGE5NzMzMDJkNDI0YWY1YWU5NWEyNmQ1NjZiNWQ5ZWFj",
   "tracks": [
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 445186,
+      "name": "Oh! Sweet Nuthin' - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Pendulum (Expanded Edition)",
         "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Tea For The Tillerman (Remastered 2020)",
         "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
@@ -173,23 +205,7 @@
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
@@ -221,7 +237,23 @@
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
-      "added_at": "2021-11-23 12:54:05",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
@@ -269,55 +301,7 @@
       "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2022-01-24 08:35:46",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
@@ -333,7 +317,55 @@
       "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
@@ -365,23 +397,7 @@
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 146175,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
@@ -397,7 +413,23 @@
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 146175,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
@@ -413,55 +445,7 @@
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 313026,
-      "name": "Band On The Run - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 190065,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
@@ -477,7 +461,55 @@
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 313026,
+      "name": "Band On The Run - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 190065,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
@@ -493,23 +525,7 @@
       "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 255845,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
@@ -525,39 +541,23 @@
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+      "duration_ms": 255845,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
@@ -573,39 +573,39 @@
       "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
@@ -653,7 +653,39 @@
       "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Of A Simple Man",
         "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
@@ -669,23 +701,7 @@
       "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Hollies",
         "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
@@ -733,23 +749,7 @@
       "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
@@ -765,7 +765,23 @@
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
@@ -829,23 +845,7 @@
       "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
@@ -861,7 +861,23 @@
       "url": "https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/2C5nK3wCqucTJ6QLdb1OVh"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/4wOKTOwGVrie2GIbCMEe7U"
     },
     {
-      "added_at": "2022-01-24 06:53:11",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
@@ -925,23 +941,7 @@
       "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
     },
     {
-      "added_at": "2021-11-23 12:54:05",
-      "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 272160,
-      "name": "And It Stoned Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "The Essentials: Orleans",
         "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
@@ -957,7 +957,23 @@
       "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "And It Stoned Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Living In The Material World (Remastered)",
         "url": "https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
     },
     {
-      "added_at": "2022-01-05 10:28:59",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
     },
     {
-      "added_at": "2022-07-05 15:49:37",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Lost Without Your Love",
         "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
@@ -1037,23 +1053,7 @@
       "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Any Major Dude Will Tell You",
-      "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Eat A Peach",
         "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
@@ -1069,7 +1069,23 @@
       "url": "https://open.spotify.com/track/30St98Bok3jJmXdkkHVPQe"
     },
     {
-      "added_at": "2021-11-23 12:54:05",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Any Major Dude Will Tell You",
+      "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
@@ -1085,23 +1101,7 @@
       "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 445186,
-      "name": "Oh! Sweet Nuthin' - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Hair Of The Dog",
         "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7zE7VClzAEYa9nUDC950pT"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3mj46XKJ2aEm1z7ZvbwyLi"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
@@ -1181,23 +1181,7 @@
       "url": "https://open.spotify.com/track/0wZuvGn7nZbKoyKOlwZQMF"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
@@ -1213,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
@@ -1229,23 +1213,7 @@
       "url": "https://open.spotify.com/track/4Sk6QA0RoRqZ3Hg9TlAX4X"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "And Then There Were Three (2007 Remaster)",
-        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Follow You Follow Me - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
@@ -1261,23 +1229,23 @@
       "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
     },
     {
-      "added_at": "2021-11-23 12:54:05",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 201022,
-      "name": "Strangers - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Dreamboat Annie",
         "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
@@ -1293,7 +1261,39 @@
       "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "Strangers - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "And Then There Were Three (2007 Remaster)",
+        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Follow You Follow Me - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Black And Blue (Remastered 2009)",
         "url": "https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl"
@@ -1341,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "All Over The World: The Very Best Of ELO",
         "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2Ib1eqrDO3CO0BBeEbk6sG"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Wings Greatest",
         "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
@@ -1421,7 +1421,7 @@
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Red Octopus",
         "url": "https://open.spotify.com/album/5i7zeNrDbhxe5J2yfZgAPh"
@@ -1437,7 +1437,7 @@
       "url": "https://open.spotify.com/track/5dFvprlP5JS7gxeaMhMOWS"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Pendulum (Expanded Edition)",
         "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
@@ -1453,39 +1453,7 @@
       "url": "https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR"
     },
     {
-      "added_at": "2022-07-05 15:51:51",
-      "album": {
-        "name": "CSN 2012",
-        "url": "https://open.spotify.com/album/1gKLKKS7zYJJsV0pF1R2f9"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/6ofrP1AqJbDg5T3NKxcKlG"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "All Things Must Pass (2020 Mix)",
-        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "All Things Must Pass - 2020 Mix",
-      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0lbELQG6SSHy7LvBttGF2d"
@@ -1505,7 +1473,39 @@
       "url": "https://open.spotify.com/track/0kgjL2oRFsV6GSwVNCcQS6"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "All Things Must Pass (2020 Mix)",
+        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "All Things Must Pass - 2020 Mix",
+      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
+      "album": {
+        "name": "CSN 2012",
+        "url": "https://open.spotify.com/album/1gKLKKS7zYJJsV0pF1R2f9"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/6ofrP1AqJbDg5T3NKxcKlG"
+    },
+    {
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
@@ -1521,7 +1521,7 @@
       "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
     },
     {
-      "added_at": "2022-02-08 13:47:19",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "All Over The World: The Very Best Of ELO",
         "url": "https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB"
@@ -1537,7 +1537,7 @@
       "url": "https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "London Town (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk"
@@ -1553,7 +1553,7 @@
       "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
@@ -1569,7 +1569,7 @@
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
@@ -1585,7 +1585,7 @@
       "url": "https://open.spotify.com/track/4w9Uex2WJC3QCawt8vLM05"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
@@ -1601,7 +1601,7 @@
       "url": "https://open.spotify.com/track/4yQCgQVUIRBUnLdmXtZ0bo"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Gimme Back My Bullets",
         "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
@@ -1617,7 +1617,7 @@
       "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
@@ -1633,7 +1633,7 @@
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Venus And Mars (Archive Collection)",
         "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
@@ -1665,7 +1665,7 @@
       "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     },
     {
-      "added_at": "2021-12-21 06:05:15",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
@@ -1681,7 +1681,7 @@
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "String of Hits",
         "url": "https://open.spotify.com/album/4lTpigq7Q0iqt9V7cRiFJC"
@@ -1697,7 +1697,7 @@
       "url": "https://open.spotify.com/track/1ZzRuFUIYVIMQmPhZbnpdf"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
@@ -1713,7 +1713,7 @@
       "url": "https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
@@ -1729,7 +1729,7 @@
       "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
@@ -1745,7 +1745,7 @@
       "url": "https://open.spotify.com/track/4k9pqSKBHYdTGjzNeRyQ0o"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Crystal Ball",
         "url": "https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul"
@@ -1761,7 +1761,7 @@
       "url": "https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Back to Front",
         "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
@@ -1777,7 +1777,7 @@
       "url": "https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
@@ -1793,7 +1793,7 @@
       "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
@@ -1809,7 +1809,7 @@
       "url": "https://open.spotify.com/track/5EoD2H4HEX3lQd0l7CsHA1"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
@@ -1825,7 +1825,7 @@
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
@@ -1841,7 +1841,7 @@
       "url": "https://open.spotify.com/track/5eyQT4AgA02K3ciYxjKZZV"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
@@ -1857,7 +1857,7 @@
       "url": "https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Back on the Streets",
         "url": "https://open.spotify.com/album/072GbOHxm1ynSabmipURTS"
@@ -1873,7 +1873,7 @@
       "url": "https://open.spotify.com/track/60Kyw7i4M7E2WAlFozsOsR"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "In The Land Of Grey And Pink",
         "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
@@ -1889,7 +1889,7 @@
       "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
@@ -1905,7 +1905,7 @@
       "url": "https://open.spotify.com/track/3AA5tSzFHffDc4UUXCVfj2"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
@@ -1921,7 +1921,7 @@
       "url": "https://open.spotify.com/track/6lELCr5OEudkNijuNqm14G"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
+      "added_at": "2022-11-17 15:51:51",
       "album": {
         "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
         "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"

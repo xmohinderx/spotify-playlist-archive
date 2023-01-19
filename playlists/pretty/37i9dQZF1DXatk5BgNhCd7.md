@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Américo portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,917 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,972 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/track/5eTUJJLZanOVNcaQp9uMy1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Hey Mor / Feliz Cumpleaños / Normal](https://open.spotify.com/album/16F7daU2uFtURzYdQh0j6h) | 4:48 |
 | 12 | [Que Agonía](https://open.spotify.com/track/40RB0xAcPRuoFeq4Nyrff0) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Que Agonía](https://open.spotify.com/album/10vNt7cfZ2Iwaif8vIvIMX) | 2:55 |
 | 13 | [Tesoro](https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Tesoro](https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp) | 3:33 |
-| 14 | [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 11:40 |
+| 14 | [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES \- EN VIVO](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 9:14 |
 | 15 | [Te Llevaré](https://open.spotify.com/track/5N7QFjOUQLL8muxy3SJBMs) | [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws), [JayDare](https://open.spotify.com/artist/03v6qL5pOAZubN6WIsIm3y) | [Mix Bachatas 2023](https://open.spotify.com/album/1D5ZfTRdvarZCEXoVGiQCB) | 3:10 |
 | 16 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |
 | 17 | [Un recuerdo me hace llorar / Como has hecho / Todo de repente / En mi cuarto vacio / Se fueron los amigos / Cantando a la gilada](https://open.spotify.com/track/7feKPJWGZhwBOhLiGPdQoZ) | [Hernán Narváez](https://open.spotify.com/artist/2brJ4vBZ0qTpws7xxuMOSz), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Un recuerdo me hace llorar / Como has hecho / Todo de repente / En mi cuarto vacio / Se fueron los amigos / Cantando a la gilada](https://open.spotify.com/album/14oRfGOD5rs8kFtATACv07) | 10:54 |

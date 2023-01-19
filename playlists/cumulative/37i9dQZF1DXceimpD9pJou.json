@@ -5035,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358665,
+      "name": "Hay una Esperanza",
+      "url": "https://open.spotify.com/track/2LNWh9sTwcwBARdnwBhUTl"
+    },
+    {
+      "album": {
         "name": "1996 (En Vivo)",
         "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
       },
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 358665,
       "name": "Hay una Esperanza - En Vivo",
       "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"

@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-290 songs - 18 hr 59 min
+291 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 | 2021-12-09 |  |
 | [Never Meant to Be](https://open.spotify.com/track/3NHyQ388Ac1VieCVVBFJOU) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Welshly Arms](https://open.spotify.com/album/2KCzyaIgv1S3UFJXCB0KmE) | 2:55 | 2022-04-08 | 2022-04-21 |
 | [New Fang](https://open.spotify.com/track/7aPJPm0yFfRrTuBw05qVE3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/2J1Su4rQL12Nf3v6w3MBvl) | 3:48 | 2022-04-08 | 2022-07-29 |
-| [No Good](https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:54 | 2022-04-08 |  |
+| [No Good](https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:54 | 2022-04-08 | 2023-01-19 |
 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 | 2021-12-09 |  |
 | [No One Loves Me & Neither Do I](https://open.spotify.com/track/0Ws3haBpuaBIaRnWKrkNCg) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/2J1Su4rQL12Nf3v6w3MBvl) | 5:10 | 2022-04-08 | 2022-04-21 |
 | [Nobody Wants to Die](https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Nobody Wants to Die](https://open.spotify.com/album/4AWOxOI6D5iH8VuVWY1Fbe) | 3:43 | 2022-10-28 | 2022-12-13 |
@@ -274,6 +274,7 @@
 | [Under the Graveyard](https://open.spotify.com/track/0C4bx13JIMSWOAxd8TaoVq) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under the Graveyard](https://open.spotify.com/album/2Kv2WwhJr6cudEIrzxPqXD) | 4:57 | 2022-04-08 | 2022-04-20 |
 | [Until I Die](https://open.spotify.com/track/55w0NwzHFmnh43yYF0Dasc) | [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7) | [Until I Die](https://open.spotify.com/album/7DPcI5jFavyF3e87YHksct) | 5:58 | 2022-04-08 | 2022-06-11 |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2022-03-11 |  |
+| [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2022-12-02 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-12-09 | 2023-01-14 |
 | [Wall of Glass](https://open.spotify.com/track/3eqhMltljpvMkVNUbAHyQI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Wall of Glass](https://open.spotify.com/album/0uoY7d6TJpVDWWKRA7dLAA) | 3:43 | 2022-04-08 | 2022-04-19 |
 | [We Are One](https://open.spotify.com/track/331Ut7fiEn2XSlAT4qSzjj) | [The Winery Dogs](https://open.spotify.com/artist/0XQIFN6X5mD98c6gOSLtfJ) | [The Winery Dogs](https://open.spotify.com/album/7E77hVVM3jtoyXDjMq82fS) | 4:32 | 2022-03-11 | 2022-07-29 |

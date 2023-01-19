@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 3875,
+  "num_followers": 3886,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDBkMjcyNTcwOTk1Y2ZjZDAyMzdlNmNmN2IxZGMxMTk0",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDcyNzUzN2NlMzgzYmRlYTg1NmExOTE2YjY2YTBlMThl",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Top 25 Praise Songs: 2005",
         "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 147400,
       "name": "Shine, Jesus Shine",
       "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+      },
+      "artists": [
+        {
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 228063,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
-      },
-      "artists": [
-        {
-          "name": "Copper Pointe Worship",
-          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Lift You Higher",
-      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
     },
     {
       "added_at": "2021-06-29 13:36:02",

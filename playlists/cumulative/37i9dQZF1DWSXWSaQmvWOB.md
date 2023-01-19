@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-609 songs - 1 day 13 hr 27 min
+610 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Help Yourself](https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn) | [ParHasard](https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx) | [Help Yourself](https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub) | 3:15 | 2022-02-10 |  |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-02-10 | 2022-09-30 |
 | [Hero](https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 3:19 | 2020-03-25\* | 2020-03-27 |
-| [High or Low](https://open.spotify.com/track/6mQbfAzeqWd1o8D3JuqbJ9) | [Paul van Kessel](https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k) | [High or Low](https://open.spotify.com/album/63EdOSYMNpe16136WOhc04) | 4:58 | 2022-12-29 |  |
+| [High or Low](https://open.spotify.com/track/6mQbfAzeqWd1o8D3JuqbJ9) | [Paul van Kessel](https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k) | [High or Low](https://open.spotify.com/album/63EdOSYMNpe16136WOhc04) | 4:58 | 2022-12-29 | 2023-01-19 |
 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 | 2021-06-04 | 2022-07-29 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 |  |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2020-10-30 | 2021-07-02 |
@@ -350,6 +350,7 @@
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2020-03-25\* | 2020-11-13 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2021-05-14 | 2021-09-24 |
 | [Motorway](https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Motorway](https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG) | 3:35 | 2022-08-25 | 2022-10-10 |
+| [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 | 2023-01-18 |  |
 | [Music](https://open.spotify.com/track/7L51v6yn4ZZKnb20fxOY19) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/18umcaGsT1E9wbT3jAAncg) | 3:18 | 2020-03-25\* | 2020-11-13 |
 | [My Brother](https://open.spotify.com/track/37HGkLjLX4BI1oOsLhcaWh) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [My Brother](https://open.spotify.com/album/7mAl8U22AziS416VFmoeqG) | 3:39 | 2020-11-20 | 2021-01-09 |
 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 | 2022-07-28 | 2022-10-15 |

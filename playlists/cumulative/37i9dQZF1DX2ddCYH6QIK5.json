@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ducky T., NONI, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Nauplia, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 159829,
       "name": "Baby Steps - Single Edit",
       "url": "https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 203503,
       "name": "Casper",
       "url": "https://open.spotify.com/track/4CyHw1RoYwpOV0ccSMaRqs"
@@ -1668,6 +1668,24 @@
       "duration_ms": 167942,
       "name": "Cold Lanes",
       "url": "https://open.spotify.com/track/4WMffiJmILOIg1gUlvOSgo"
+    },
+    {
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/72bJCSXvHcg8X2bBJfoW7D"
+      },
+      "artists": [
+        {
+          "name": "Romy Wave",
+          "url": "https://open.spotify.com/artist/0tIszD5cwkangP5Xkoy02E"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/0PuhSSYUnuZL7WsKjPhLEC"
     },
     {
       "album": {
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 166750,
       "name": "For You",
       "url": "https://open.spotify.com/track/5L8h6Jh8e4fT1akcTTYKFP"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 173026,
       "name": "GONGS BONGS",
       "url": "https://open.spotify.com/track/1LIllKqvqxZ9u1y7Oe0dGE"
@@ -4178,6 +4196,24 @@
       "duration_ms": 210138,
       "name": "How Far",
       "url": "https://open.spotify.com/track/3Qe7XWT704KD1hi4CwWb9d"
+    },
+    {
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/0LLF6KYdU4WbqpttQOPXdQ"
+      },
+      "artists": [
+        {
+          "name": "Oy",
+          "url": "https://open.spotify.com/artist/6xI7gsyNgmODoMoWnVp8QG"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/3yuKeklHFLsL1XI7xSTJAe"
     },
     {
       "album": {
@@ -5259,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Licht",
+        "url": "https://open.spotify.com/album/4P5d8zpHAhzXygEOdgbehD"
+      },
+      "artists": [
+        {
+          "name": "Nauplia",
+          "url": "https://open.spotify.com/artist/2iWLvtf0O9f4Xgwx1ojVTZ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140259,
+      "name": "Licht",
+      "url": "https://open.spotify.com/track/58z9x356iEUiX0huSmQ4ru"
+    },
+    {
+      "album": {
         "name": "Lie To You",
         "url": "https://open.spotify.com/album/0S6edkCoX4LNC9wm01AmG9"
       },
@@ -5670,7 +5724,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 210731,
       "name": "Manisch",
       "url": "https://open.spotify.com/track/4aHiT7maqQ8GVSsmztS1jk"
@@ -5836,6 +5890,28 @@
       "duration_ms": 240173,
       "name": "Milk Me",
       "url": "https://open.spotify.com/track/7oxeWXMtMOTZMk5aZLroh7"
+    },
+    {
+      "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/16lYaRj49ot04pViDsSTqf"
+      },
+      "artists": [
+        {
+          "name": "VALENTIN",
+          "url": "https://open.spotify.com/artist/4S0lBY3WbWoZoDtVbKtxBF"
+        },
+        {
+          "name": "axelle64",
+          "url": "https://open.spotify.com/artist/4r5qZBcK3h5bmcalQtXbWB"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152315,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/03v3SoIdJUTyX0IQSOEzdc"
     },
     {
       "album": {
@@ -7260,7 +7336,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 416202,
       "name": "Rave22",
       "url": "https://open.spotify.com/track/2IboXvKtEiYAasekXmUbsw"
@@ -7693,6 +7769,24 @@
     },
     {
       "album": {
+        "name": "Sacred Type",
+        "url": "https://open.spotify.com/album/4AWSQz9jY2vFf6kMdyLSz6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Touch",
+          "url": "https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281269,
+      "name": "Sacred Type",
+      "url": "https://open.spotify.com/track/4Huu3YdsOUkubcMqVramYl"
+    },
+    {
+      "album": {
         "name": "Same",
         "url": "https://open.spotify.com/album/5QCjxj0muKSrn493w25hjg"
       },
@@ -7855,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Shatter in Bloom",
+        "url": "https://open.spotify.com/album/4omLSChI2Nk30HK3YfrHpr"
+      },
+      "artists": [
+        {
+          "name": "Barbicop",
+          "url": "https://open.spotify.com/artist/3ZUBFjhQCDfQoFcaj965b9"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247111,
+      "name": "Shatter in Bloom",
+      "url": "https://open.spotify.com/track/30CspecZtmul0JvMaejV1b"
+    },
+    {
+      "album": {
         "name": "EKDYSIS",
         "url": "https://open.spotify.com/album/5zagbC3OcyGCa3tFyh81Gc"
       },
@@ -7964,6 +8076,24 @@
       "duration_ms": 220333,
       "name": "Silver Screens",
       "url": "https://open.spotify.com/track/6PaYceNoEhqsXRuPJx0B0n"
+    },
+    {
+      "album": {
+        "name": "sing u to sleep",
+        "url": "https://open.spotify.com/album/10P0XiTWM9rPe7O67q9jt2"
+      },
+      "artists": [
+        {
+          "name": "juli",
+          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56395,
+      "name": "sing u to sleep",
+      "url": "https://open.spotify.com/track/2aWvfZyUsQ7uPuInlRzeD2"
     },
     {
       "album": {
@@ -9252,7 +9382,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 129160,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB"

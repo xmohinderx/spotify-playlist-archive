@@ -2,7 +2,7 @@
 
 ### [80s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DXccljMjoDjBT)
 
-> The best soft rock from the 1980s.
+> The best soft rock from the 1980s\. Cover: REO Speedwagon
 
 125 songs - 10 hr 9 min
 

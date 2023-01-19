@@ -2,7 +2,7 @@
 
 ### [Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone)
 
-> The great masterpieces of the genre.
+> The great masterpieces of the genre\. Cover: U2
 
 323 songs - 1 day 0 hr 10 min
 

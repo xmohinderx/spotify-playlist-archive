@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-310 songs - 18 hr 26 min
+311 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Madhubala \- Tamil](https://open.spotify.com/track/5WNXPdJZ1Pp0rp7T9GJM9g) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Madhubala \(Tamil\)](https://open.spotify.com/album/6TYjxDUedDYXzChCyQVQCd) | 4:52 | 2022-11-17 |  |
 | [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 | 2022-11-15 |
 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 | 2022-08-11 |  |
+| [Manadhooram](https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Lal Krishna](https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE) | [Manadhooram](https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap) | 2:41 | 2023-01-18 |  |
 | [Manase](https://open.spotify.com/track/34jtyX2BPoKqQZ4bSAE0bZ) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Manase](https://open.spotify.com/album/4MRB2WTVMGk4aa3yCwzEvZ) | 3:04 | 2022-10-28 |  |
 | [Manase](https://open.spotify.com/track/3XOj34b2q9npPGV75Kqsxc) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Manase](https://open.spotify.com/album/1ICG76ZLCkL5CSDCq5QDzt) | 4:20 | 2022-09-23 |  |
 | [Manasu Parakudhu](https://open.spotify.com/track/0iQTNcYqxF1Tbi9KnJ8ufa) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manasu Parakudhu](https://open.spotify.com/album/0zWCe1iwekaEkc4FJffB9L) | 3:31 | 2022-06-02 | 2022-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,800 likes - 500 songs - 19 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,031 likes - 500 songs - 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 44 | [Stormy](https://open.spotify.com/track/3z762TjvCQHaK8wuDll1jL) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Stormy](https://open.spotify.com/album/2DWgzWFjuIOiCtVzvy7u6Q) | 2:34 |
 | 45 | [Elephants Dream Just Like I Used To](https://open.spotify.com/track/3qgChLC3sVRyW3J4l31pDk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Elephants Dream Just Like I Used To](https://open.spotify.com/album/4ncZnNTKo2WVxugkN21aEP) | 2:41 |
 | 46 | [Alone in Space](https://open.spotify.com/track/2iYomcv46CYu8O1Pn6KdgK) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Alone in Space](https://open.spotify.com/album/0f5T40tzm3sSSjlhEixGmi) | 2:13 |
-| 47 | [Walk With Me](https://open.spotify.com/track/7LWAZ9bTUHHbXUK0nAY07n) | [Name Goes Here](https://open.spotify.com/artist/1rRc4LcpmaPnPRAVmFqdZq) | [Walk With Me](https://open.spotify.com/album/2kSg9wXVFjlFe4Gmx7VW9d) | 2:30 |
+| 47 | [Walk With Me](https://open.spotify.com/track/7LWAZ9bTUHHbXUK0nAY07n) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Walk With Me](https://open.spotify.com/album/2kSg9wXVFjlFe4Gmx7VW9d) | 2:30 |
 | 48 | [Out For a Walk](https://open.spotify.com/track/7An9ystJ5VTcPIsTO7x4tb) | [Same as Different](https://open.spotify.com/artist/48fJqNap8T1GWpKx9iNd1F) | [Lofi Jazzy Vibes](https://open.spotify.com/album/6xSoyzpvxutyNhe9gHUjdv) | 1:49 |
 | 49 | [Luna](https://open.spotify.com/track/7EfXiI4dvLPFCl1fWFRGut) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Luna](https://open.spotify.com/album/5ySghHs6TMm7vmeIze5Qee) | 2:19 |
 | 50 | [When Holograms Fall in Love](https://open.spotify.com/track/53MRsM4DcQVkYyh8GhwAB0) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [When Holograms Fall in Love](https://open.spotify.com/album/3YFqUAV4lkcNNOFOH7iwT0) | 3:05 |

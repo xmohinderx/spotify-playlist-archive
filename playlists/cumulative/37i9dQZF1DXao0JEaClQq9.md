@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-475 songs - 1 day 5 hr 28 min
+476 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Control](https://open.spotify.com/track/40eaYakmKgXWBRnlmYKj5w) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Control](https://open.spotify.com/album/4Yd21IKbdwX7GQCBa3zKWT) | 4:03 | 2022-03-31 | 2022-04-19 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-11-12 |
 | [Creep \- Very 2021 Rmx](https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau), [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep \(Very 2021 Rmx\)](https://open.spotify.com/album/4LS4w3gfUGH1WnpGcbUHhp) | 9:02 | 2021-07-19 | 2022-06-07 |
+| [Cruel World](https://open.spotify.com/track/3Ian22jSpN2O6tBRI307Ok) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [In Another Life](https://open.spotify.com/album/6WlmR977FLZn35bctH2DWv) | 5:15 | 2023-01-18 |  |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2022-12-25 |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-03 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
@@ -421,7 +422,7 @@
 | [The Conclusion](https://open.spotify.com/track/6jPxM1V4M1DdiPgMoe8FBS) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:45 | 2021-06-03 | 2022-06-04 |
 | [The Darkness \- Remix](https://open.spotify.com/track/606BSzBpRxkKi9qIbSpIbH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [The Darkness \(Remix\)](https://open.spotify.com/album/3ZzRwLaCEYwUvxUkT6P43A) | 4:06 | 2021-06-11 | 2022-01-10 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-15 |  |
-| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 |  |
+| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 | 2023-01-19 |
 | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/track/5BGfqsNVHVGlgAzXhliMBk) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/album/5hzKzfkYrxw0EpmW7awj9f) | 6:48 | 2021-06-03 | 2022-04-21 |
 | [The Look On Your Face](https://open.spotify.com/track/4wCukIqVlqd452beXYxmXK) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [The Look On Your Face](https://open.spotify.com/album/5j18aQAFLAox8iPVx433b8) | 3:52 | 2021-10-22 | 2022-04-19 |
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-06-03 | 2022-09-02 |

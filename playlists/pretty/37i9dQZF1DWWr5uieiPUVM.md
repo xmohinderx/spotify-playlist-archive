@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,910 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,127 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 45 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 | 46 | [Bicho Solto](https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [Bicho Solto](https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy) | 2:39 |
 | 47 | [Relógio](https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Relógio](https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN) | 2:40 |
-| 48 | [Jordan](https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Ruxn](https://open.spotify.com/artist/20bFEf0GKyZMdVEZ7ao790) | [Jordan](https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr) | 3:12 |
+| 48 | [Jordan](https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Jordan](https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr) | 3:12 |
 | 49 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |
 | 50 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 

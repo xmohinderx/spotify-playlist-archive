@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,468 songs - 3 day 3 hr 3 min
+1,469 songs - 3 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1261,6 +1261,7 @@
 | [survival of the littest](https://open.spotify.com/track/07XaCsMZN4EFd2WDdjD1o1) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/0QgftA6XSfEB7oQW6j0YMl) | 2:12 | 2022-11-11 | 2022-11-13 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-20 | 2022-10-09 |
 | [Sweat](https://open.spotify.com/track/0TzXhuxOpmvIa68QykPqIV) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Sweat](https://open.spotify.com/album/1lgihc94VjHPpUEIS9S7gp) | 3:03 | 2022-07-29 | 2022-09-17 |
+| [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 | 2023-01-13 |  |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |
 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 | 2022-06-24 | 2022-08-13 |
 | [Swing Swing](https://open.spotify.com/track/0VWRbuEicramx9Hp2iWCTC) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Swing Swing](https://open.spotify.com/album/1kImx6P9OYh8lob0po00jJ) | 3:11 | 2019-05-26\* | 2019-08-13 |
@@ -1403,7 +1404,7 @@
 | [Warhol](https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 2:35 | 2022-10-28 | 2022-12-08 |
 | [Warpaint](https://open.spotify.com/track/6E4POizZfmNFRp7840aY8w) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Warpaint](https://open.spotify.com/album/3xUR1JT0b2uC1SZ54flBll) | 3:33 | 2019-05-26\* | 2019-08-13 |
 | [Warrior](https://open.spotify.com/track/4dVuxaj9278T0Md4UUtkUY) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Warrior](https://open.spotify.com/album/78WXTSAKPrfWKTRkqykyFd) | 3:24 | 2019-05-26\* | 2020-02-20 |
-| [Was It A Dream?](https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Was It A Dream?](https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5) | 2:57 | 2022-12-10 |  |
+| [Was It A Dream?](https://open.spotify.com/track/6guvZdV8yLurQSr90uIavl) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Was It A Dream?](https://open.spotify.com/album/1JtOCuaJC96Vf15eB1DsU5) | 2:57 | 2022-12-10 | 2023-01-19 |
 | [Waste of Time \- Live at Lucy's Meat Market](https://open.spotify.com/track/0EFTlb4ydQZoN4pBc93wde) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Waste of Time \(Live at Lucy's Meat Market\)](https://open.spotify.com/album/1glvLbDNMojANDXgQwA2qD) | 3:24 | 2019-09-06 | 2020-03-20 |
 | [Water](https://open.spotify.com/track/0bHLNUoBzK83c61N9W4ohF) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Water](https://open.spotify.com/album/7dXb3iaFdn3SPGnklRM3mj) | 2:55 | 2019-05-26\* | 2020-04-18 |
 | [Waves \- RAC Mix](https://open.spotify.com/track/0wR2v8X5ZZKj3SDydUyWaf) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Waves](https://open.spotify.com/album/2W1fgxoyudIzurIx6y9hQZ) | 3:28 | 2019-09-27 | 2021-05-14 |

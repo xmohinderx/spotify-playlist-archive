@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33529,
+  "num_followers": 33550,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDM1NjgyZWM3NDE3OGFmOTc2ZjkxZDk3NDI0Y2VlNmQ1",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDI1ODE5MmVkNTQzZDBmM2UzY2NjYWU5YTEzMTJkOTky",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Smoke Signal",
-        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Knox",
-          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Smoke Signal",
-      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Triggers",
-        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
+        "name": "Smoke Signal",
+        "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
       "artists": [
         {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+          "name": "Olivia Knox",
+          "url": "https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk"
         }
       ],
-      "duration_ms": 155314,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
+      "duration_ms": 152727,
+      "name": "Smoke Signal",
+      "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 218629,
       "name": "Ur Loss",
       "url": "https://open.spotify.com/track/3rvnZ6pD9XiYeoTpZYTqNK"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Triggers",
+        "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 155314,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
     },
     {
       "added_at": "2023-01-04 05:00:00",

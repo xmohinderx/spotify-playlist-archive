@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#21 141曲から厳選しました！「最強アニソンプレイリスト」第1部完結編!!](https://open.spotify.com/episode/0SxcfT9T2UIkV53sdorddn) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | 45:58 | 2023-01-11 | 2023-01-18 |
-| [\#22 いよいよ開催迫る！“リスアニ！LIVE 2023”予習プレイリストを作ろう!!（前編）](https://open.spotify.com/episode/4sgrsXkWQgYQmABFnM0xhf) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | 37:32 | 2023-01-11 | 2023-01-18 |
+| [\#21 141曲から厳選しました！「最強アニソンプレイリスト」第1部完結編!!](https://open.spotify.com/episode/0SxcfT9T2UIkV53sdorddn) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | 45:58 | 2023-01-11 |  |
+| [\#22 いよいよ開催迫る！“リスアニ！LIVE 2023”予習プレイリストを作ろう!!（前編）](https://open.spotify.com/episode/4sgrsXkWQgYQmABFnM0xhf) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | 37:32 | 2023-01-11 |  |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2022-09-27 | 2023-01-12 |
 | [Ahatte Teppen' \- TV size](https://open.spotify.com/track/58uIXj0FV76d3g2h3UBZZC) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen' \(TV size\)](https://open.spotify.com/album/3qMx7JqolPCn74lz6rdmRD) | 1:30 | 2022-08-16 | 2023-01-12 |

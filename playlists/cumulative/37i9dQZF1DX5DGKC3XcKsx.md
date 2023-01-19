@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-106 songs - 5 hr 18 min
+107 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 | 2022-02-04 |  |
 | [Tamo Lindo](https://open.spotify.com/track/4FIlIWvpVffjZMkzhW1VhJ) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Tamo Lindo](https://open.spotify.com/album/2IfnfP3trjiORYhYXEGli0) | 2:45 | 2021-09-10 | 2022-09-11 |
 | [Tamo Lindo](https://open.spotify.com/track/4gplPs2PkpRb00Yj46q20l) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Tamo Lindo](https://open.spotify.com/album/5AhpFYS3k7veyUsI0VTOxA) | 2:45 | 2022-02-04 |  |
-| [Te Queria](https://open.spotify.com/track/6BIDdKBzJJdQgXYrrpN38M) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/62GbMKlsW0HJNDsQFW5f5o) | 3:27 | 2021-09-10 |  |
+| [Te Queria](https://open.spotify.com/track/5VAyqQT8B4AtfZWCguR0Jd) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/3FmgeB9WRmAQZltG18v83i) | 3:27 | 2022-02-04 |  |
+| [Te Queria](https://open.spotify.com/track/6BIDdKBzJJdQgXYrrpN38M) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/62GbMKlsW0HJNDsQFW5f5o) | 3:27 | 2021-09-10 | 2023-01-19 |
 | [Tu Mirada](https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Tu Mirada](https://open.spotify.com/album/3L0HpohjbclTsSvGxH7X2t) | 2:13 | 2021-09-10 |  |
 | [Valentino](https://open.spotify.com/track/2dmEpRTG5NOPlVym26DPUY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [SIN PRONTUARIO](https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0) | 3:16 | 2021-09-10 | 2022-08-26 |
 | [Valentino](https://open.spotify.com/track/7xA1kJmYtW1SY3uWarCf2T) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 3:16 | 2022-02-04 |  |

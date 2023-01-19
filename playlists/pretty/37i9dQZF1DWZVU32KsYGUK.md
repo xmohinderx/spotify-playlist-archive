@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style, elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,025 likes - 199 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,065 likes - 199 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 57 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 |
 | 58 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 |
 | 59 | [Vicino Al Mare](https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:08 |
-| 60 | [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 |
+| 60 | [An Autumn Waltz](https://open.spotify.com/track/6uvB5f8P0Jdk37Ysem3rZt) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [About Winter](https://open.spotify.com/album/2rahePpMvRhAZrhymPwHPw) | 2:20 |
 | 61 | [World For A Dance](https://open.spotify.com/track/7rIN1EjL0P78qaM46slfD7) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Wisdom](https://open.spotify.com/album/6QGeclXlvL4oNRmmfa6ZNP) | 1:55 |
 | 62 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 |
 | 63 | [A Light Breeze](https://open.spotify.com/track/0AkNnk1qSrK5dSlFH2K56k) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [A Light Breeze](https://open.spotify.com/album/2lkElaZbytPkBxTxzOL8wn) | 2:13 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 198 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
 | 199 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MTY3MzI4MzIzNiwwMDAwMDAwMDRjMjc5ODcxZTI0MTQ0YTY1YWIxMjE0NDZkYTUxYWM4`
+Snapshot ID: `MTY3MzI4MzIzNiwwMDAwMDAwMDkwYWQ4MDZiM2MxYzA2Y2U0ODA4NjMwZmJjOTY3Nzcw`

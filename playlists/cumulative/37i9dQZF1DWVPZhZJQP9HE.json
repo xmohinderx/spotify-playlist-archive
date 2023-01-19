@@ -3159,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "Manadhooram",
+        "url": "https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap"
+      },
+      "artists": [
+        {
+          "name": "Prakash Alex",
+          "url": "https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz"
+        },
+        {
+          "name": "Lal Krishna",
+          "url": "https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161162,
+      "name": "Manadhooram",
+      "url": "https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg"
+    },
+    {
+      "album": {
         "name": "Manase",
         "url": "https://open.spotify.com/album/4MRB2WTVMGk4aa3yCwzEvZ"
       },

@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti, ma senza il sudore\. In cover, I Botanici! E nuovi brani di Yonic South, Colla e tanti altri.
+> La playlist che è come andare ai concerti\. In cover, I Botanici! E nuovi brani di Yonic South, Colla e tanti altri.
 
 270 songs - 14 hr 59 min
 

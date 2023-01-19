@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 136470,
       "name": "Cats Walking",
       "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
@@ -2100,6 +2100,24 @@
       "duration_ms": 286320,
       "name": "Luv (sic)",
       "url": "https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT"
+    },
+    {
+      "album": {
+        "name": "ep seeds",
+        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118182,
+      "name": "m i s t",
+      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
     },
     {
       "album": {
@@ -4056,6 +4074,24 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/2U42jVkNgEU6DoM64eFD7i"
+    },
+    {
+      "album": {
+        "name": "unexpected",
+        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86571,
+      "name": "viola",
+      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "album": {

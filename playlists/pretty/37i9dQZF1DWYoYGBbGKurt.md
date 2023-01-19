@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,130 likes - 513 songs - 19 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,241 likes - 513 songs - 19 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovin](https://open.spotify.com/track/3x7JGBBBJj6BIZtMXeiaKa) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [Lovin](https://open.spotify.com/album/5Waikvj91IuWCxxinFIT8Y) | 2:33 |
 | 2 | [KIND](https://open.spotify.com/track/77B0g62tqdmFGQBeKJ6gpA) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [KIND](https://open.spotify.com/album/1vf4QOTdfyflqbt9riLtBu) | 2:29 |
-| 3 | [Shibuya Rain](https://open.spotify.com/track/72HeI4DmGi8jwdyV1YwpFh) | [Name Goes Here](https://open.spotify.com/artist/1rRc4LcpmaPnPRAVmFqdZq) | [Shibuya Rain](https://open.spotify.com/album/1eFEuD5yr1rwQrehnKRUqC) | 2:30 |
+| 3 | [Shibuya Rain](https://open.spotify.com/track/72HeI4DmGi8jwdyV1YwpFh) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Shibuya Rain](https://open.spotify.com/album/1eFEuD5yr1rwQrehnKRUqC) | 2:30 |
 | 4 | [High & Low](https://open.spotify.com/track/46L5Ouma1s9B3r7m4zHcIu) | [Lo’Dale](https://open.spotify.com/artist/3c6G1pS0NjeUVxf0waoUIX) | [Emotions](https://open.spotify.com/album/4BtKOd70RCBKBBB769askl) | 2:34 |
 | 5 | [Connecting The Dots](https://open.spotify.com/track/1fbJ6bWrCH9so8DgKhaBwO) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Connecting The Dots](https://open.spotify.com/album/2ja75xLADgouUnZqRPZOv3) | 2:09 |
 | 6 | [Getthrough](https://open.spotify.com/track/3zjYDopjIYG87BUKJiobB3) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [Getthrough](https://open.spotify.com/album/4yInGnArjz6KqBDY7Bh2Yy) | 1:41 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Dreamcatcher",
+  "description": "Future K-Pop hits! Cover: Jinyoung",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -2540,6 +2540,24 @@
       "duration_ms": 217813,
       "name": "COSMOS",
       "url": "https://open.spotify.com/track/2BVqVWrIUcbYwju8mdkujQ"
+    },
+    {
+      "album": {
+        "name": "Chapter 0: WITH",
+        "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
     },
     {
       "album": {
@@ -11270,7 +11288,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 186240,
       "name": "Tap Tap",
       "url": "https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI"

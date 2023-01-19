@@ -1,13 +1,93 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: bludnymph",
-  "num_followers": 175112,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Florence Arman",
+  "num_followers": 175310,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxMzIwMCwwMDAwMDAwMDFiZGQ2N2NmY2U1Njg1MDNmZWM1ZTc2NGE2YThmZmRj",
+  "snapshot_id": "MTY3NDA1NTk4NiwwMDAwMDAwMGQ2ZjM2ODI1ZjU0ZWY4MzZjNzgwZTdlZjQ4NzRmN2Rm",
   "tracks": [
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Hello Florence, How Are You?",
+        "url": "https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc"
+      },
+      "artists": [
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Hello Florence, How Are You?",
+      "url": "https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "One More Shot",
+        "url": "https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 141184,
+      "name": "One More Shot",
+      "url": "https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "leave this party",
+        "url": "https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX"
+      },
+      "artists": [
+        {
+          "name": "pj frantz",
+          "url": "https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "leave this party",
+      "url": "https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Brutally Honest",
+        "url": "https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l"
+      },
+      "artists": [
+        {
+          "name": "NEVE",
+          "url": "https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2"
+        }
+      ],
+      "duration_ms": 159817,
+      "name": "Brutally Honest",
+      "url": "https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fe2RrxJMnOq2tkCMweizx"
+      },
+      "artists": [
+        {
+          "name": "L.i.E",
+          "url": "https://open.spotify.com/artist/41RMo17zfOjfWRB2wIh6FE"
+        }
+      ],
+      "duration_ms": 168022,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5MsIX8vwTUsvGeQ4WlDe0l"
+    },
     {
       "added_at": "2023-01-11 05:00:00",
       "album": {
@@ -23,6 +103,74 @@
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Living in a Story",
+        "url": "https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl"
+      },
+      "artists": [
+        {
+          "name": "JUKO",
+          "url": "https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR"
+        },
+        {
+          "name": "ROBY",
+          "url": "https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y"
+        }
+      ],
+      "duration_ms": 188774,
+      "name": "Living in a Story",
+      "url": "https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/6VzNOBRZswuVSFO08wSpK0"
+      },
+      "artists": [
+        {
+          "name": "Zia Victoria",
+          "url": "https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE"
+        }
+      ],
+      "duration_ms": 213890,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/4vz2uEorUwEV5MwuALnrav"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "attachment theory",
+        "url": "https://open.spotify.com/album/467J0lJjukT73a5eVMnOWD"
+      },
+      "artists": [
+        {
+          "name": "Amanda Frances",
+          "url": "https://open.spotify.com/artist/6V82eQJQpNG2w6e5Hsg8PK"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "crying during sex",
+      "url": "https://open.spotify.com/track/3qLY81vOR6BTB2hI2nMnvR"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Love!",
+        "url": "https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN"
+      },
+      "artists": [
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW"
+        }
+      ],
+      "duration_ms": 199723,
+      "name": "Love!",
+      "url": "https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416"
     },
     {
       "added_at": "2023-01-11 05:00:00",
@@ -55,6 +203,154 @@
       "duration_ms": 176652,
       "name": "Why Is She Calling?",
       "url": "https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "BREAKING",
+        "url": "https://open.spotify.com/album/0swbFlpfOJCs2NFUbN52Fi"
+      },
+      "artists": [
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "BREAKING",
+      "url": "https://open.spotify.com/track/6GHKVD48fWQcwOhDx7YlAh"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/3TJm6KCMo2ltFXio5eAawH"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 196870,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/34mhLI14KFylX1woJYweSL"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/0umenTJPpscstOBjXYBVx5"
+      },
+      "artists": [
+        {
+          "name": "Grace Gaustad",
+          "url": "https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS"
+        }
+      ],
+      "duration_ms": 165228,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/3VOAVhg0uEzVheEeCfUDFJ"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "checkpoint",
+        "url": "https://open.spotify.com/album/5qjnYjMMo1FuuoYlnWhFZM"
+      },
+      "artists": [
+        {
+          "name": "fil ricchiardi",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "moonless tale",
+      "url": "https://open.spotify.com/track/0fsisXzAfZHz7SMIwkozX2"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6cTRL5RnQJrpFaN4ue0xXp"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/1qag6EIGiSQI3vo4PqXa3O"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "fifteen again (Bedroom Demo)",
+        "url": "https://open.spotify.com/album/0AyDKrMisJFtLAVHfXCynX"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 142043,
+      "name": "fifteen again - Bedroom Demo",
+      "url": "https://open.spotify.com/track/5yYs4OH2PETYFrJjLGuJMa"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/3vXJjQ3Hf8EfimMpfKg47l"
+      },
+      "artists": [
+        {
+          "name": "Lofsky",
+          "url": "https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4"
+        },
+        {
+          "name": "Lowdsound",
+          "url": "https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/0Lh2IsG4UXqP8KdmT2E3qJ"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "leaving flowers out \u21b6*\u0cc3.\u2022\u00b0 \u273f \u2727\u02da. \u2743 \u21b7 \u02ca-",
+        "url": "https://open.spotify.com/album/0PvmDjbqsglHed3v4tA3UQ"
+      },
+      "artists": [
+        {
+          "name": "Ari Rivera",
+          "url": "https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7"
+        }
+      ],
+      "duration_ms": 155124,
+      "name": "feeling bad about calling",
+      "url": "https://open.spotify.com/track/1DUo00h79qftqha6CZsSKs"
     },
     {
       "added_at": "2023-01-11 05:00:00",

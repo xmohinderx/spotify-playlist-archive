@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Lily Goodman & DOE",
-  "num_followers": 115516,
+  "num_followers": 115596,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMGVhY2IyZDljNzBjNTQ1NWVhOWUyNTc5YjgyZTQ5NTg1",
+  "snapshot_id": "MTY3MzU5NDM4NCwwMDAwMDAwMDNlMGFhY2EwOWM0MDczYTBlNjQzMWJmOTlhYzkzN2Vh",
   "tracks": [
     {
       "added_at": "2023-01-13 07:19:44",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "BUENO (Nunca Vas a Cambiar)",
-        "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 305116,
-      "name": "BUENO (Nunca Vas a Cambiar)",
-      "url": "https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Veintidos",
         "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 183663,
       "name": "Veintidos",
       "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "BUENO (Nunca Vas a Cambiar)",
+        "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 305116,
+      "name": "BUENO (Nunca Vas a Cambiar)",
+      "url": "https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -559,38 +559,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Bello Jes\u00fas",
-        "url": "https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB"
-      },
-      "artists": [
-        {
-          "name": "Alisha Quinonez",
-          "url": "https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8"
-        }
-      ],
-      "duration_ms": 281945,
-      "name": "Bello Jes\u00fas",
-      "url": "https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "La Oraci\u00f3n",
-        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "La Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Tu Estabas Aqu\u00ed",
         "url": "https://open.spotify.com/album/2Xazt8vUvFBdbQTeXVJm5V"
       },
@@ -607,30 +575,18 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "No Es Raro (Remix)",
-        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
+        "name": "Bello Jes\u00fas",
+        "url": "https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB"
       },
       "artists": [
         {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        },
-        {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
-        },
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+          "name": "Alisha Quinonez",
+          "url": "https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8"
         }
       ],
-      "duration_ms": 315276,
-      "name": "No Es Raro - Remix",
-      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
+      "duration_ms": 281945,
+      "name": "Bello Jes\u00fas",
+      "url": "https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -663,6 +619,50 @@
       "duration_ms": 211343,
       "name": "Cantamos Aleluya",
       "url": "https://open.spotify.com/track/695DcQ2eOukDMeu2rorNEa"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "La Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "La Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "No Es Raro (Remix)",
+        "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "duration_ms": 315276,
+      "name": "No Es Raro - Remix",
+      "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -703,6 +703,38 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Esperar\u00e9 en ti SE\u00d1OR",
+        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
+      },
+      "artists": [
+        {
+          "name": "Josu\u00e9 Del Cid",
+          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+        }
+      ],
+      "duration_ms": 313222,
+      "name": "Esperar\u00e9 en ti SE\u00d1OR",
+      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "Yahweh Se Manifestar\u00e1",
+        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 227330,
+      "name": "Yahweh Se Manifestar\u00e1",
+      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Todo Es Posible",
         "url": "https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF"
       },
@@ -723,18 +755,34 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Esperar\u00e9 en ti SE\u00d1OR",
-        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
+        "name": "rosa de amor",
+        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
       },
       "artists": [
         {
-          "name": "Josu\u00e9 Del Cid",
-          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+          "name": "Strings And Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 313222,
-      "name": "Esperar\u00e9 en ti SE\u00d1OR",
-      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
+      "duration_ms": 204458,
+      "name": "rosa de amor",
+      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "Le\u00f3n de Jud\u00e1",
+        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
+      },
+      "artists": [
+        {
+          "name": "Dahaira",
+          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
+        }
+      ],
+      "duration_ms": 479008,
+      "name": "Le\u00f3n de Jud\u00e1",
+      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -759,38 +807,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Le\u00f3n de Jud\u00e1",
-        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
-      },
-      "artists": [
-        {
-          "name": "Dahaira",
-          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
-        }
-      ],
-      "duration_ms": 479008,
-      "name": "Le\u00f3n de Jud\u00e1",
-      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "Yahweh Se Manifestar\u00e1",
-        "url": "https://open.spotify.com/album/4SwV1tMJ4W1aVHaOjA3EJh"
-      },
-      "artists": [
-        {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
-        }
-      ],
-      "duration_ms": 227330,
-      "name": "Yahweh Se Manifestar\u00e1",
-      "url": "https://open.spotify.com/track/5mab87rBhELUSD52sUr2qs"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Amor, Amor, Amor",
         "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 165000,
       "name": "Amor, Amor, Amor - En vivo",
       "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "rosa de amor",
-        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
-      },
-      "artists": [
-        {
-          "name": "Strings And Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "rosa de amor",
-      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
+      },
+      "artists": [
+        {
+          "name": "Brayan Booz",
+          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "duration_ms": 206392,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
         "name": "Siempre Bueno",
         "url": "https://open.spotify.com/album/3UN282s5X41Y4jNT3bcy1r"
       },
@@ -1059,26 +1079,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
-      },
-      "artists": [
-        {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
-        },
-        {
-          "name": "Borrero",
-          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
-        }
-      ],
-      "duration_ms": 206392,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "El Robo",
         "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
       },
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "1996 (En Vivo)",
-        "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
+        "name": "Como fuego",
+        "url": "https://open.spotify.com/album/4FGTqRDztDeVermnA0nDod"
       },
       "artists": [
         {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+          "name": "Cristian Emanuel Macchi",
+          "url": "https://open.spotify.com/artist/1vWKph5I198AUjyqcB0eQa"
+        },
+        {
+          "name": "Ver\u00f3nica Sanfilippo",
+          "url": "https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf"
         }
       ],
-      "duration_ms": 358665,
-      "name": "Hay una Esperanza - En Vivo",
-      "url": "https://open.spotify.com/track/7JqBt7jRZr5LmdL7jtHnKE"
+      "duration_ms": 216255,
+      "name": "Como fuego",
+      "url": "https://open.spotify.com/track/7vqQ82TNU2xrvF8kJatgX2"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1143,26 +1147,6 @@
       "duration_ms": 300857,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
-        "name": "Como fuego",
-        "url": "https://open.spotify.com/album/4FGTqRDztDeVermnA0nDod"
-      },
-      "artists": [
-        {
-          "name": "Cristian Emanuel Macchi",
-          "url": "https://open.spotify.com/artist/1vWKph5I198AUjyqcB0eQa"
-        },
-        {
-          "name": "Ver\u00f3nica Sanfilippo",
-          "url": "https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "Como fuego",
-      "url": "https://open.spotify.com/track/7vqQ82TNU2xrvF8kJatgX2"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1239,26 +1223,6 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/63tnhdXRB8Eq0vLIJtx0rw"
-      },
-      "artists": [
-        {
-          "name": "Luz y Vida Music",
-          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        }
-      ],
-      "duration_ms": 184187,
-      "name": "Por Siempre",
-      "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
-    },
-    {
-      "added_at": "2023-01-13 07:19:44",
-      "album": {
         "name": "Como La Primera Vez",
         "url": "https://open.spotify.com/album/7BDyAirumPg7KMrqisowb2"
       },
@@ -1279,18 +1243,22 @@
     {
       "added_at": "2023-01-13 07:19:44",
       "album": {
-        "name": "Vivo Confiada",
-        "url": "https://open.spotify.com/album/7F78VS8JA4sKLEPedP39dL"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/63tnhdXRB8Eq0vLIJtx0rw"
       },
       "artists": [
         {
-          "name": "Sarah Capeles",
-          "url": "https://open.spotify.com/artist/4mVbIGHmeO5AcP5TrLk2V2"
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         }
       ],
-      "duration_ms": 284407,
-      "name": "Vivo Confiada",
-      "url": "https://open.spotify.com/track/3YIhhbSN9gWuxyx2c5X6O8"
+      "duration_ms": 184187,
+      "name": "Por Siempre",
+      "url": "https://open.spotify.com/track/4sFFHBhmAiWWldw7PP2rYj"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1307,6 +1275,22 @@
       "duration_ms": 321849,
       "name": "Puedo Enfrentar el Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3upZcCPBgSqNXSpg2mkYcL"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "Vivo Confiada",
+        "url": "https://open.spotify.com/album/7F78VS8JA4sKLEPedP39dL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Capeles",
+          "url": "https://open.spotify.com/artist/4mVbIGHmeO5AcP5TrLk2V2"
+        }
+      ],
+      "duration_ms": 284407,
+      "name": "Vivo Confiada",
+      "url": "https://open.spotify.com/track/3YIhhbSN9gWuxyx2c5X6O8"
     },
     {
       "added_at": "2023-01-13 07:19:44",
@@ -1343,6 +1327,22 @@
       "duration_ms": 219482,
       "name": "Feliz Junto a Ti",
       "url": "https://open.spotify.com/track/6TAFp2cs0qpPCd4T4HiKWB"
+    },
+    {
+      "added_at": "2023-01-13 07:19:44",
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "duration_ms": 358665,
+      "name": "Hay una Esperanza",
+      "url": "https://open.spotify.com/track/2LNWh9sTwcwBARdnwBhUTl"
     }
   ],
   "unique_name": "Novedades Cristianas",

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, L7NNON",
-  "num_followers": 89623,
+  "num_followers": 89713,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5NzAyMCwwMDAwMDAwMGFkNjkwZTBmNjNmMjAyN2YyNWVmOTVjMzZlM2UwYjk3",
+  "snapshot_id": "MTY3Mzg5NzAyMCwwMDAwMDAwMGEwOTk0MTFlNmVlMmM5MjliYmJkNjhhNzE5YjRkY2Nh",
   "tracks": [
     {
       "added_at": "2023-01-16 14:06:39",
@@ -118,6 +118,10 @@
         {
           "name": "Mc Tik\u00e3o",
           "url": "https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly"
+        },
+        {
+          "name": "JR ON",
+          "url": "https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA"
         }
       ],
       "duration_ms": 135813,
@@ -286,6 +290,10 @@
         {
           "name": "RUXN",
           "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
         }
       ],
       "duration_ms": 194198,
@@ -601,7 +609,7 @@
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
     },
     {
-      "added_at": "2023-01-18 01:35:06",
+      "added_at": "2023-01-19 01:36:56",
       "album": {
         "name": "Casa da Vizinha",
         "url": "https://open.spotify.com/album/72h7mJiyg7kSmW1RuIdhox"
@@ -1067,6 +1075,30 @@
     {
       "added_at": "2023-01-16 14:06:39",
       "album": {
+        "name": "Mente De Malandra",
+        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "Mente De Malandra",
+      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
+    },
+    {
+      "added_at": "2023-01-16 14:06:39",
+      "album": {
         "name": "Cerol Finin",
         "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
       },
@@ -1091,38 +1123,6 @@
       "duration_ms": 260178,
       "name": "Cerol Finin",
       "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
-    },
-    {
-      "added_at": "2023-01-16 14:06:39",
-      "album": {
-        "name": "Pelo Momento",
-        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Pelo Momento",
-      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
     },
     {
       "added_at": "2023-01-16 14:06:39",
@@ -1163,26 +1163,34 @@
     {
       "added_at": "2023-01-16 14:06:39",
       "album": {
-        "name": "Mente De Malandra",
-        "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
+        "name": "Pelo Momento",
+        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 202816,
-      "name": "Mente De Malandra",
-      "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
+      "duration_ms": 167500,
+      "name": "Pelo Momento",
+      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
     },
     {
       "added_at": "2023-01-16 14:06:39",
@@ -1450,6 +1458,10 @@
         {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         }
       ],
       "duration_ms": 244500,

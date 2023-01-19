@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-692 songs - 1 day 13 hr 32 min
+694 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 | 2022-08-23 | 2022-09-23 |
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 |  |
-| [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E), [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 |  |
+| [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 |  |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 |  |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
 | [Jatta Tere Warga](https://open.spotify.com/track/2Iqur6LUAk1tdcXqVBmdhE) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jatta Tere Warga](https://open.spotify.com/album/4iViwnZX5P5CpNGbsH2NPX) | 2:18 | 2023-01-17 |  |
@@ -510,6 +510,7 @@
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2021-12-02 | 2022-04-06 |
 | [Reborn Heer](https://open.spotify.com/track/6CFz2B5aYYEhlzUuAyDAix) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Reborn Heer](https://open.spotify.com/album/7wjT78yuSQw2oIxupfA5Rr) | 2:52 | 2022-07-11 | 2022-08-18 |
 | [Reh Ni Hunda](https://open.spotify.com/track/2kKt7xkWtHAOAPKtim6eQG) | [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Reh Ni Hunda](https://open.spotify.com/album/2fmtzmBdtOzhTppeg2ruQs) | 3:24 | 2022-05-20 | 2022-07-06 |
+| [Retirement](https://open.spotify.com/track/6PYte1lHTd5htEKOnoghqi) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8) | [Retirement](https://open.spotify.com/album/7o7hQLjlrtf6NaWvgvThgJ) | 2:37 | 2023-01-18 |  |
 | [Right Left](https://open.spotify.com/track/3NRQrlGGoeTvCTrV7cpQq4) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Right Left](https://open.spotify.com/album/22Ldpb0mavJumq7gLpYKkK) | 3:05 | 2022-08-04 | 2022-08-18 |
 | [Robinhood \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/6bpNpYXmhH5KDk3AEW31sl) | [Param Sohal](https://open.spotify.com/artist/08AOEb2kUJ876OeRe3aaCb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Robinhood \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/5b2Fyz0WEVUKCXQf2bNM50) | 2:51 | 2022-03-18 | 2022-04-06 |
 | [Roi An](https://open.spotify.com/track/1fmDMGI7WZ66aesbLglqOn) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Roi An](https://open.spotify.com/album/11U06aYjZxQUA5mcdXggoj) | 6:28 | 2022-11-15 |  |
@@ -582,6 +583,7 @@
 | [Straight Forward](https://open.spotify.com/track/2bpKRLiSsAW4jWBZ8pLKt8) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Straight Forward](https://open.spotify.com/album/2tzKmPJ72cXuUz6tcV9Tf5) | 3:15 | 2022-07-22 | 2022-07-29 |
 | [Sufi Sufi](https://open.spotify.com/track/3qitvcLRDXlR1LiITfWpZ9) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Anjali Arora](https://open.spotify.com/artist/40uVhJMaDcTekOBAe2qqTg) | [Sufi Sufi](https://open.spotify.com/album/3SXvkoSVJCpVLoN4cic5gf) | 3:02 | 2022-06-30 | 2022-07-06 |
 | [Suit](https://open.spotify.com/track/0Wzt3fC0iru2uLmE5fg3st) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Suit](https://open.spotify.com/album/5iAjlGCxk1g8J3Bsn394g3) | 3:24 | 2022-07-27 | 2022-12-16 |
+| [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 | 2023-01-18 |  |
 | [Suit Gulabi](https://open.spotify.com/track/1do83bSMh85dYMSCml1t8I) | [Dalvir Sidhu](https://open.spotify.com/artist/56z6Zt5dNIwgD7ajzBwu0A) | [Never Died](https://open.spotify.com/album/6QgCbo5YPwTmCLejqEaaLZ) | 2:34 | 2022-04-11 | 2022-05-11 |
 | [Suit Karda](https://open.spotify.com/track/3TTJvDkZxcab1rVHMjSaZS) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Suit Karda](https://open.spotify.com/album/0B8x8Oum8dwT7yuCRVFSK4) | 3:00 | 2022-08-05 |  |
 | [Suit Purane](https://open.spotify.com/track/3JmpJDQTyYnLlQSDVFR1vT) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Suit Purane](https://open.spotify.com/album/2HXJnIbm2a140pa9f4j1zX) | 2:56 | 2021-12-02 | 2022-02-05 |

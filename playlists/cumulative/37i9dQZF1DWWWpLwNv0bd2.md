@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-107 songs - 7 hr 15 min
+108 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/track/3H3x4NhR3wJh6IvRHmPvkd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Srivardhini](https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Tejaswini](https://open.spotify.com/artist/22KTsf5b5SeYNOypXpyYBr) | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/album/0sq7cT64heLZfuOJUsm1Ak) | 3:48 | 2021-11-29 |  |
 | [Ullam Urugudhaiya](https://open.spotify.com/track/6CJHEfXmn6x9j03oV1hABh) | [Pradeep Kumar](https://open.spotify.com/artist/3EZ1qFe0cWESoSi0aB7cdQ), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Brindha Manickavasakan](https://open.spotify.com/artist/1xtEfIskJsreKcsNkwO55X), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:54 | 2022-02-03 |  |
 | [Un siragugal moodathe](https://open.spotify.com/track/6tfXRfeEcCMkekV9oLacH1) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vadhana](https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN) | 3:33 | 2022-12-06 |  |
+| [Un Vellandhiyu Azhagu Dhaan \(From "Irumban"\)](https://open.spotify.com/track/2n3E0NmHHg52GuKwDknNmr) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh) | [Un Vellandhiyu Azhagu Dhaan \(From "Irumban"\) \- Single](https://open.spotify.com/album/4ewcJyIfyV3vqQijaB6M5d) | 4:58 | 2023-01-18 |  |
 | [Unna Nenachadhum](https://open.spotify.com/track/43BSpcCWtZKt6HUZujyY6O) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 3:56 | 2022-09-05 |  |
 | [Uraiyum Theeyil](https://open.spotify.com/track/0ByGRiFZIqo2EDQhpa7k5D) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Sita Ramam \(Tamil\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6d39aZOgNwoN7dZlHvx1U9) | 2:51 | 2022-09-13 |  |
 | [Uyir Urugudhey \(From "Cobra"\)](https://open.spotify.com/track/4UKTifFM0LKxkhqyGndZHi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Uyir Urugudhey \(From "Cobra"\)](https://open.spotify.com/album/3LbtOj5clDI5QReymrDtsT) | 5:13 | 2022-07-04 |  |

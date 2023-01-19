@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMDBlZDljYjFjMzQ1NDI2NWMzMGI5NzI4ZjQxNWRjZWY1",
+  "snapshot_id": "MTY3MTQzNzE5NSwwMDAwMDAwMDg1MzkwNGNkNjYzOTQxNDE0MWNhYTk5OWUxM2IxOWFi",
   "tracks": [
     {
       "added_at": "2022-12-19 08:06:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Reason (Vocal by Kim Seonho)",
-        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
-      },
-      "artists": [
-        {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Reason (Vocal by Kim Seonho)",
-      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "I'LL BE YOUR SPRING",
         "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 189664,
       "name": "I'LL BE YOUR SPRING",
       "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Reason (Vocal by Kim Seonho)",
+        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Reason (Vocal by Kim Seonho)",
+      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "Thinking of you",
-        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
-      },
-      "artists": [
-        {
-          "name": "Brunch recipe",
-          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
-        },
-        {
-          "name": "Lee Yu Bin",
-          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
-        }
-      ],
-      "duration_ms": 193514,
-      "name": "Thinking of you (Feat. Lee Yu Bin)",
-      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "Love Has a Limit",
         "url": "https://open.spotify.com/album/5J5EecYNgw7EPECkCdTuRQ"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 161392,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6FsaC7mLYpqmLOEu9nEI1M"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "Lee Yu Bin",
+          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
+        }
+      ],
+      "duration_ms": 193514,
+      "name": "Thinking of you (Feat. Lee Yu Bin)",
+      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
     },
     {
       "added_at": "2022-12-19 08:06:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-19 08:06:35",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
-      },
-      "artists": [
-        {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
-    },
-    {
-      "added_at": "2022-12-19 08:06:35",
-      "album": {
         "name": "\uc6d0 Wish",
         "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 191872,
       "name": "\uc6d0 Wish",
       "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
+    },
+    {
+      "added_at": "2022-12-19 08:06:35",
+      "album": {
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
     },
     {
       "added_at": "2022-12-19 08:06:35",

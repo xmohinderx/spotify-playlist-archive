@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Andre Dinuth
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,806 likes - 77 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,819 likes - 77 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 57 | [Waktuku Hampa](https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Detik Waktu Quartet](https://open.spotify.com/artist/5G2dRrZGbA1aQIaY5ng4HK) | [Waktuku Hampa](https://open.spotify.com/album/367KtX1YYymKFcjfN847nC) | 3:17 |
 | 58 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 |
 | 59 | [Di Pusat Jakarta](https://open.spotify.com/track/1nXD12slBGEda2af9gl84v) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/59bPqJysP1SflaDMCOOFhK) | 3:19 |
-| 60 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara Fardy](https://open.spotify.com/artist/6f9WfWIBZUlf4uPoZZzcEu), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 |
+| 60 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 |
 | 61 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 |
 | 62 | [Nurlela](https://open.spotify.com/track/2yP9OkF1w53ZyiuFIQavxo) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/3ttimZXZQMkxufn0YWUeet) | 3:26 |
 | 63 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 |

@@ -1282,6 +1282,28 @@
     {
       "album": {
         "name": "Mali Mali",
+        "url": "https://open.spotify.com/album/6cRIMxkVh1ZyQsVZ3lfYzJ"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222752,
+      "name": "Mali Mali",
+      "url": "https://open.spotify.com/track/7faeHcamYu377PtVLtUZ87"
+    },
+    {
+      "album": {
+        "name": "Mali Mali",
         "url": "https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG"
       },
       "artists": [
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 224744,
       "name": "Mali Mali",
       "url": "https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2"

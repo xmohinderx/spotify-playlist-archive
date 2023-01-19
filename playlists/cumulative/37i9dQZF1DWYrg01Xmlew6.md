@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> 
+> Napoli e il meglio della scena campana\. Geolier in cover.
 
 148 songs - 7 hr 1 min
 

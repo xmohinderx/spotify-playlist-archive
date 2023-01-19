@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti, ma senza il sudore\. In cover, I Botanici! E nuovi brani di Yonic South, Colla e tanti altri.
+> La playlist che è come andare ai concerti\. In cover, I Botanici! E nuovi brani di Yonic South, Colla e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,317 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,336 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Ice Age](https://open.spotify.com/track/1iBTutx1nwO5oijV0X9vIX) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Ice Age](https://open.spotify.com/album/0q1EYVfZLHtFLE4sUVQ8Kg) | 4:22 |
 | 55 | [Pripyat](https://open.spotify.com/track/4nj2V5hIvuDqC3naDe6JA2) | [Il Giardino Degli Specchi](https://open.spotify.com/artist/20ftPqYNYr79uuQF6XfWA6) | [Monstrum](https://open.spotify.com/album/0vKnHM72zHmy0NONDrls5i) | 5:13 |
 
-Snapshot ID: `MTY3MzU2NDQ2MCwwMDAwMDAwMDYxMzEwMjkwNmM2ZThhY2RlODk0MTU5MjY3YjY0MjY3`
+Snapshot ID: `MTY3NDAyOTE4OSwwMDAwMDAwMDAyMWM2OGE1NzZhMWYxYTIxMDY3OTBlMWQ4MWMyOGM2`

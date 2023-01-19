@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485761,
+  "num_followers": 1485773,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGQzZGVlNGQxYjBlNDZjZTU0NzQ3Y2UyZTcwNzNmNmY5",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMDE4MDVlNjM0NjJlNTRkNjc4ZGQyNWU3MjRhZjUyNzE2",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -624,8 +624,8 @@
           "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         },
         {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
         },
         {
           "name": "Slug",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
       },
@@ -727,34 +743,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+        "name": "Tangerine Hues",
+        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
       "artists": [
         {
           "name": "Ameba",
           "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        }
-      ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
-      },
-      "artists": [
+        },
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "Flavors",
+          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
         }
       ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+      "duration_ms": 184346,
+      "name": "Tangerine Hues",
+      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -803,26 +807,6 @@
       "duration_ms": 191361,
       "name": "SMiLE",
       "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Tangerine Hues",
-        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        },
-        {
-          "name": "Flavors",
-          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tangerine Hues",
-      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "easy",
         "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "Couch Business",
+        "url": "https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x"
+      },
+      "artists": [
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        }
+      ],
+      "duration_ms": 104506,
+      "name": "Fog\u00e0o Love",
+      "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Lofi Loyal Caf\u00e9 Customer",
         "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
       },
@@ -963,42 +983,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Couch Business",
-        "url": "https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x"
-      },
-      "artists": [
-        {
-          "name": "FLKS",
-          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
-        },
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        }
-      ],
-      "duration_ms": 104506,
-      "name": "Fog\u00e0o Love",
-      "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/6efynV2ZemtiA8m8VIhfNX"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Beats On Boat: Hazy Year",
         "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 109333,
+      "name": "Laguna Beach",
+      "url": "https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
-        },
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -1243,18 +1223,38 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru"
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
       },
       "artists": [
         {
-          "name": "Oilix",
-          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 109333,
-      "name": "Laguna Beach",
-      "url": "https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk"
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        },
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Bubble Beat",
-        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Bubble Beat",
-      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "High Jazz",
         "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 116905,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Bubble Beat",
+        "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Bubble Beat",
+      "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
     },
     {
       "added_at": "2023-01-12 15:00:00",

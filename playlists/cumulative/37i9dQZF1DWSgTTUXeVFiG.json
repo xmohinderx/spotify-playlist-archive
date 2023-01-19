@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "15 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440864,
+      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
+      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
+    },
+    {
+      "album": {
         "name": "Fania Live 02 From Miami With DJ LeSpam",
         "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 330426,
       "name": "Se\u00f1or Sereno - En Vivo",
       "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"

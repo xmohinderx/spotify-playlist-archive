@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-298 songs - 12 hr 51 min
+299 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Alma](https://open.spotify.com/track/7kz2rN1A7TmTxLO5JT9dfd) | [Dawskjar](https://open.spotify.com/artist/1vWB8VeQZCKtz0tp0n8mkB) | [Alma](https://open.spotify.com/album/6TicudJT7W8MDjuSZj2UA4) | 2:18 | 2022-04-27 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2022-04-27 |  |
 | [Amore Eterno](https://open.spotify.com/track/7w9HyzWXYGqok3S1y2yKW2) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amore Eterno](https://open.spotify.com/album/5LCdLCsWE3PHpc6j6908pm) | 1:34 | 2022-05-27 |  |
-| [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 | 2022-09-12 |  |
+| [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 | 2022-09-12 | 2023-01-19 |
+| [An Autumn Waltz](https://open.spotify.com/track/6uvB5f8P0Jdk37Ysem3rZt) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [About Winter](https://open.spotify.com/album/2rahePpMvRhAZrhymPwHPw) | 2:20 | 2023-01-09 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-27 | 2022-06-07 |
 | [Anticipation](https://open.spotify.com/track/4TlbUWl0xAEzahCwTFLyDS) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Anticipation](https://open.spotify.com/album/7lEEv2hwrCanO1SduHSI2T) | 2:33 | 2022-08-03 |  |
 | [Ascension](https://open.spotify.com/track/38bF841d5zbq8rnvXyqQZk) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Ascension](https://open.spotify.com/album/2ZLdQ0sdq6lbY5bPSUJnL3) | 1:36 | 2022-10-04 |  |

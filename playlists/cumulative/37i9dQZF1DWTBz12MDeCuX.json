@@ -6702,6 +6702,24 @@
     {
       "album": {
         "name": "My Love",
+        "url": "https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl"
+      },
+      "artists": [
+        {
+          "name": "Ctill",
+          "url": "https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW"
+    },
+    {
+      "album": {
+        "name": "My Love",
         "url": "https://open.spotify.com/album/107Wr2BVfkMihKvG2NgizY"
       },
       "artists": [
@@ -6712,7 +6730,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 182961,
       "name": "My Love",
       "url": "https://open.spotify.com/track/66qwuwSNqWrN31ZdPpLnmq"

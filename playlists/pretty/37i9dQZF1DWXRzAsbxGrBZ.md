@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,430 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,474 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 42 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 43 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 |
 | 44 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 |
-| 45 | [On It](https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN) | [Slotta](https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ) | [A \(Ray\)](https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM) | 7:04 |
-| 46 | [Out Out](https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yves Eaux](https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Out Out](https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2) | 7:08 |
+| 45 | [Out Out](https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yves Eaux](https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Out Out](https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2) | 7:08 |
+| 46 | [On It](https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN) | [Slotta](https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ) | [A \(Ray\)](https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM) | 7:04 |
 | 47 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 | 48 | [Multiverse Theory](https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Ottis Blake](https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02) | [Multiverse Theory](https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7) | 6:14 |
 | 49 | [thinking 'bout you](https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS) | [Thabang Phaleng](https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Thinking 'bout you](https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk) | 6:17 |
 | 50 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDdhYzU5OWNiZTExNzdjZmNlY2YwZTc5YTg4NDQxYzY3`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMGNjMTc3MTEzNjJkNWM2YjA0MTUxOTQyZDE5MzI1ODA5`

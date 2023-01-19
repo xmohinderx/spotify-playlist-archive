@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Margo Price
 
-394 songs - 1 day 0 hr 12 min
+396 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,14 +309,16 @@
 | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV) | [Mike Campbell & The Dirty Knobs](https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo) | 4:18 | 2022-03-04 | 2022-09-10 |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-03-25 | 2022-04-29 |
 | [Stranger In My Bed](https://open.spotify.com/track/2It86UDD44KhZ3Anq7mCFG) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [If your tired heart is aching...](https://open.spotify.com/album/78ijTLvmc9f653NePvU8nH) | 3:44 | 2022-11-18 |  |
-| [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-12 |  |
+| [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-12 | 2023-01-19 |
+| [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 | 2023-01-13 |  |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2021-12-17 | 2022-04-16 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-03-12 |
 | [Sweet Little Girl](https://open.spotify.com/track/0Bd15LI6hSJLivjObLO6F6) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Sweet Little Girl](https://open.spotify.com/album/7zThyCXDUCgLljSDyfEw2U) | 3:18 | 2022-05-06 | 2022-07-23 |
 | [Sweet Mess](https://open.spotify.com/track/1dCvfDejoPdr3ZXoZxJsn7) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 5:45 | 2021-12-17 | 2022-07-02 |
 | [Sweet Misery](https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:09 | 2021-12-17 | 2022-09-03 |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2022-09-23 |  |
-| [Take Me Home](https://open.spotify.com/track/5Sd8elg0RhT0r33Ol456Zu) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/6owWwHeRI2yThMhTuB7eCB) | 3:29 | 2022-11-25 |  |
+| [Take Me Home](https://open.spotify.com/track/1MLcWGkyKGra0HnG0i25Ao) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/5ybUt3YH4ZbN8fEetQvqQg) | 3:29 | 2023-01-13 |  |
+| [Take Me Home](https://open.spotify.com/track/5Sd8elg0RhT0r33Ol456Zu) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/6owWwHeRI2yThMhTuB7eCB) | 3:29 | 2022-11-25 | 2023-01-19 |
 | [Tehachapi](https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Tehachapi](https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3) | 3:07 | 2021-12-17 |  |
 | [Terrifying Nature](https://open.spotify.com/track/4iMBmVAHtNuPm82ZE375GI) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 4:57 | 2022-04-01 | 2022-04-29 |
 | [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-07-29 | 2022-09-17 |

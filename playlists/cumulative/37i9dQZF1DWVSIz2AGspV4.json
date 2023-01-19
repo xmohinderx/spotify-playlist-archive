@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "El Basrah Deratkom",
+        "url": "https://open.spotify.com/album/1dXkaX93cYXNKfk0NfoHpw"
+      },
+      "artists": [
+        {
+          "name": "Husam Al Rassam",
+          "url": "https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "El Basrah Deratkom",
+      "url": "https://open.spotify.com/track/70oDODFvWgXmG0xkkMPAvh"
+    },
+    {
+      "album": {
         "name": "El Danbos",
         "url": "https://open.spotify.com/album/2Mw0drSusWl1evvmIXutX3"
       },
@@ -1506,6 +1524,24 @@
       "duration_ms": 195500,
       "name": "Hai El Resala",
       "url": "https://open.spotify.com/track/0YHeI00TOV6j4sb9F9fFN1"
+    },
+    {
+      "album": {
+        "name": "Hala Wallah",
+        "url": "https://open.spotify.com/album/2rIpKtnFsrlLunNFcHIO4f"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Hala Wallah",
+      "url": "https://open.spotify.com/track/0CW5JdaXMKgZP0KUJ4fNt2"
     },
     {
       "album": {
@@ -2310,7 +2346,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 227500,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6"

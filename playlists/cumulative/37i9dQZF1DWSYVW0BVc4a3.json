@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 277400,
       "name": "Bizerte",
       "url": "https://open.spotify.com/track/4DkuS5iVAErehiqFLyQRZV"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 356097,
       "name": "Don't Hold Back - Yotto Remix",
       "url": "https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q"
@@ -3000,7 +3000,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
@@ -4972,6 +4972,24 @@
       "duration_ms": 518731,
       "name": "Silius",
       "url": "https://open.spotify.com/track/5PdaqgXOchBgbHd4KzgQAo"
+    },
+    {
+      "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627840,
+      "name": "Sit Back And Take It Down",
+      "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
     },
     {
       "album": {

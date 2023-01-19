@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-205 songs - 11 hr 29 min
+206 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Born Ready](https://open.spotify.com/track/04YPwOU37XTnzrPTltJz1B) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 2:39 | 2022-05-23 |  |
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2022-05-23 |  |
 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 | 2022-05-23 |  |
+| [Cotton Candy](https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Chapter 0: WITH](https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki) | 3:19 | 2023-01-18 |  |
 | [Crash & Burn](https://open.spotify.com/track/2QOI51497Fk1yh8ctvTZQ2) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:24 | 2022-05-23 |  |
 | [CRAZY](https://open.spotify.com/track/3abduCH8DYXjfwlkjLYH65) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:51 | 2022-05-23 |  |
 | [Day by Day](https://open.spotify.com/track/7zo6QXVQfHlycm8dsxkRGv) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Love and Wish \(Original Soundtrack\)](https://open.spotify.com/album/64ZR0AoOV4VJ89QVvmwgEx) | 3:49 | 2022-05-23 |  |

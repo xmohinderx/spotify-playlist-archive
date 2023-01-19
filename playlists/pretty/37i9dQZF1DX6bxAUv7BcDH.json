@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 8,
+  "num_followers": 7,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDI2NWI5MGQwYzRiMGNiZTlmZmU1ODQ3MDU4YWI5ZTlk",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDM5NGZmYWEyZTNiYzk3NzViZjlkODIzY2FmNDM3ZTZk",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 305080,
-      "name": "Sometimes You Can't Make It On Your Own",
-      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Sailing / Poor Shirley (Digital 45)",
         "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 255453,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 305080,
+      "name": "Sometimes You Can't Make It On Your Own",
+      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
     },
     {
       "added_at": "2022-02-16 05:37:41",

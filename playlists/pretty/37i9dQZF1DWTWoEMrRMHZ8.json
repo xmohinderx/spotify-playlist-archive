@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Toquinho",
-  "num_followers": 331577,
+  "num_followers": 331666,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDg5NiwwMDAwMDAwMGZkMGIzMDA0NzU4NTJjZWNhYzMxNzM3MDM4NWZkZWQ4",
+  "snapshot_id": "MTY3MzU4NDg5NiwwMDAwMDAwMGM3MDYyMDZiMGEwMDRiYzE3NmFmYjIwNWY4ZjhmYmEz",
   "tracks": [
     {
       "added_at": "2023-01-13 04:41:36",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
       },
@@ -371,26 +391,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "Meu Coco",
         "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Evid\u00eancias",
-        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 313038,
-      "name": "Evid\u00eancias",
-      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
+        "name": "Evid\u00eancias",
+        "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 313038,
+      "name": "Evid\u00eancias",
+      "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 193804,
       "name": "Depois de Te Encontrar",
       "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/4bzrVlryUF02A34a8e8BVG"
       },
       "artists": [
         {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
         },
         {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+          "name": "Fellipe Fernandes",
+          "url": "https://open.spotify.com/artist/2wKQKNWN20Z93kGoyZyOd8"
         }
       ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+      "duration_ms": 314285,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/3Mg2QvqzyqzrTABDzomIz5"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1119,6 +1119,26 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Voa Vagalume",
-        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Voa Vagalume",
-      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "Sem Pensar No Amanh\u00e3",
         "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
       },
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Nu",
-        "url": "https://open.spotify.com/album/4bzrVlryUF02A34a8e8BVG"
+        "name": "Voa Vagalume",
+        "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jr",
-          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
         },
         {
-          "name": "Fellipe Fernandes",
-          "url": "https://open.spotify.com/artist/2wKQKNWN20Z93kGoyZyOd8"
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
         }
       ],
-      "duration_ms": 314285,
-      "name": "Nu",
-      "url": "https://open.spotify.com/track/3Mg2QvqzyqzrTABDzomIz5"
+      "duration_ms": 217606,
+      "name": "Voa Vagalume",
+      "url": "https://open.spotify.com/track/6Ni9sKJ0oAnDq1l3zIdX8s"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+        "name": "Twoth Pick",
+        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
       },
       "artists": [
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "RodCebrian",
+          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+      "duration_ms": 235636,
+      "name": "Essa Menina",
+      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1423,6 +1427,22 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1443,22 +1463,34 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Twoth Pick",
-        "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
+        "name": "On",
+        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
       },
       "artists": [
         {
-          "name": "RodCebrian",
-          "url": "https://open.spotify.com/artist/6WI7bOFkiqdWBZapqy1iIu"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Helena Elis",
+          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
         }
       ],
-      "duration_ms": 235636,
-      "name": "Essa Menina",
-      "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+      "duration_ms": 205800,
+      "name": "On",
+      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
+        "name": "Dorme Pretinho",
+        "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
+      },
+      "artists": [
+        {
+          "name": "Lia de Itamarac\u00e1",
+          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+        }
+      ],
+      "duration_ms": 197117,
+      "name": "Dorme Pretinho",
+      "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1499,34 +1531,26 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6"
+        "name": "Vou Ficar Bem",
+        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
       },
       "artists": [
         {
-          "name": "Helena Elis",
-          "url": "https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "On",
-      "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
-        "name": "Dorme Pretinho",
-        "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
-      },
-      "artists": [
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
         {
-          "name": "Lia de Itamarac\u00e1",
-          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
         }
       ],
-      "duration_ms": 197117,
-      "name": "Dorme Pretinho",
-      "url": "https://open.spotify.com/track/3wUeHSIcdtTuLjbqgQZpMm"
+      "duration_ms": 149535,
+      "name": "Vou Ficar Bem",
+      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1683,30 +1707,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Vou Ficar Bem",
-        "url": "https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 149535,
-      "name": "Vou Ficar Bem",
-      "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "SambadorA",
         "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
       },
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
-      },
-      "artists": [
-        {
-          "name": "Arthus Fochi",
-          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
-        },
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "Meu",
         "url": "https://open.spotify.com/album/0qKsUMabSYKb7SxdDymMU7"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 241696,
       "name": "Meu",
       "url": "https://open.spotify.com/track/2Koa7RU0dFe641DJfMHHdd"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
+      },
+      "artists": [
+        {
+          "name": "Arthus Fochi",
+          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
+        },
+        {
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
     },
     {
       "added_at": "2023-01-13 04:41:36",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-01-13 04:41:36",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-01-13 04:41:36",
-      "album": {
         "name": "Control Z",
         "url": "https://open.spotify.com/album/1777MUeq1vNmStoLB2tO28"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 205601,
       "name": "Control Z",
       "url": "https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH"
+    },
+    {
+      "added_at": "2023-01-13 04:41:36",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
     },
     {
       "added_at": "2023-01-13 04:41:36",

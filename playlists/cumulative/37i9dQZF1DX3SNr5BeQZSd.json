@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "dreamy",
+        "url": "https://open.spotify.com/album/45Ln7OU2LDyd6oi71mKE5R"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117913,
+      "name": "dreamy",
+      "url": "https://open.spotify.com/track/4qfoz6SI8KDdUtTTtmAzR5"
+    },
+    {
+      "album": {
         "name": "The Moon and the Mind",
         "url": "https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw"
       },
@@ -360,6 +378,24 @@
       "duration_ms": 153728,
       "name": "Drifting Off",
       "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
+    },
+    {
+      "album": {
+        "name": "Living in the Past",
+        "url": "https://open.spotify.com/album/6sAn1DwZ3FrlHEBubUPsVT"
+      },
+      "artists": [
+        {
+          "name": "Prithvi",
+          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Dwelling",
+      "url": "https://open.spotify.com/track/5xfhnD8ws0As1ciNaoOjTl"
     },
     {
       "album": {
@@ -683,6 +719,24 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/0rBXcXoqmNB230XbjwbxG3"
+      },
+      "artists": [
+        {
+          "name": "ixxy",
+          "url": "https://open.spotify.com/artist/6UkBTmDCB8Z472HbktpJS1"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118361,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4oRtFezcZWGXjzO7VQXNuU"
+    },
+    {
+      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK"
       },
@@ -760,7 +814,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 118302,
       "name": "i'm closing my eyes",
       "url": "https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq"
@@ -1672,7 +1726,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 65790,
       "name": "my new love",
       "url": "https://open.spotify.com/track/41mSgeV5WCS7usBrA3H6RX"
@@ -1730,7 +1784,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 85333,
       "name": "One Summer Day (Spirited Away)",
       "url": "https://open.spotify.com/track/7eo2HVkRxrDU3bQPwEiIBT"
@@ -1846,7 +1900,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 80570,
       "name": "Pok\u00e9mon Theme Lofi",
       "url": "https://open.spotify.com/track/59dMMxNmcPXPKa4S0vYi1j"
@@ -2312,7 +2366,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 122704,
       "name": "this girl",
       "url": "https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i"
@@ -2396,6 +2450,28 @@
       "duration_ms": 60497,
       "name": "Unravel Lofi (Tokyo Ghoul)",
       "url": "https://open.spotify.com/track/0dj0B1f01K3MQABqKhXhBy"
+    },
+    {
+      "album": {
+        "name": "Exploration",
+        "url": "https://open.spotify.com/album/6wo49rZmiBLi2ByovRN5IN"
+      },
+      "artists": [
+        {
+          "name": "Atlis",
+          "url": "https://open.spotify.com/artist/0rPg5GzRyLsiWkNcRSEXUU"
+        },
+        {
+          "name": "Afloat",
+          "url": "https://open.spotify.com/artist/2GjwYGUGgSuTqb6JopXGJk"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Viewfinder",
+      "url": "https://open.spotify.com/track/38O6lOU9L0BeQT2g0PLY4C"
     },
     {
       "album": {

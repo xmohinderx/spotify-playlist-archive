@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42313,
+  "num_followers": 42326,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMGY1NGIwN2Q3NjIzMTIwYWFjMWRjMDU3MDFjZGFmZmU1",
+  "snapshot_id": "MTY3MzUzNTYwMCwwMDAwMDAwMDZhZmUyZDU3NTc3YmI4NjFiYTQ2YTJmMmNhY2NmNTk5",
   "tracks": [
     {
       "added_at": "2023-01-12 15:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
+        "name": "Rocket Science",
+        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
+      },
+      "artists": [
+        {
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "I can't seem to let you go",
+      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 235500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
-        "name": "Rocket Science",
-        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
-      },
-      "artists": [
-        {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "I can't seem to let you go",
-      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "\u304c\u3089\u304f\u305f",
-        "url": "https://open.spotify.com/album/05ADxsDCWkH1oVNO5WUPo5"
-      },
-      "artists": [
-        {
-          "name": "Keisuke Kuwata",
-          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
-        }
-      ],
-      "duration_ms": 346053,
-      "name": "\u307b\u3068\u3068\u304e\u3059 [\u675c\u9d51\u8349]",
-      "url": "https://open.spotify.com/track/6o61wyTYwUKbXcyvWUj9cf"
-    },
-    {
-      "added_at": "2023-01-12 15:00:00",
-      "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 264680,
       "name": "\u9752\u6708\u6d6e\u304f\u6d77",
       "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+    },
+    {
+      "added_at": "2023-01-12 15:00:00",
+      "album": {
+        "name": "\u304c\u3089\u304f\u305f",
+        "url": "https://open.spotify.com/album/05ADxsDCWkH1oVNO5WUPo5"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Kuwata",
+          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "\u307b\u3068\u3068\u304e\u3059 [\u675c\u9d51\u8349]",
+      "url": "https://open.spotify.com/track/6o61wyTYwUKbXcyvWUj9cf"
     },
     {
       "added_at": "2023-01-12 15:00:00",
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-01-12 15:00:00",
       "album": {
-        "name": "Like No One's Done",
-        "url": "https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ"
+        "name": "Orange Mug",
+        "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
       },
       "artists": [
         {
-          "name": "Sincere",
-          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
-        },
-        {
-          "name": "Chocoholic",
-          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
         }
       ],
-      "duration_ms": 235880,
-      "name": "Like No One's Done",
-      "url": "https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J"
+      "duration_ms": 218906,
+      "name": "Orange Mug",
+      "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

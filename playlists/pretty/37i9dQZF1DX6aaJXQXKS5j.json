@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 6968,
+  "num_followers": 7020,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMDBjZTIwYzljOTg4YzkwOGQwYzcxOWVhMTE0M2JlMGJl",
+  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMGFkNDJjZjQ0NDMxZjIxM2EyYzNiODFlYzIyNDZlN2Y5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -554,11 +554,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+      "duration_ms": 227939,
+      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
+      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -570,15 +574,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 227939,
-      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
-      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2022-11-30 13:46:00",

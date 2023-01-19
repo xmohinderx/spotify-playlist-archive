@@ -2,7 +2,7 @@
 
 ### [Rock Power Ballads](https://open.spotify.com/playlist/37i9dQZF1DX82Zzp6AKx64)
 
-> Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
+> Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Styx
 
 190 songs - 15 hr 8 min
 

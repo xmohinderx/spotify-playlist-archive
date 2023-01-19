@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Interests of Love\(사랑의 이해\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,732 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,900 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 73 | [By Your Side](https://open.spotify.com/track/4G52dS74UYXEt9A2F7yNjV) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [Under the Queen's Umbrella, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5QXXcoX3z5mlqWMWTvUbRV) | 2:55 |
 | 74 | [Don't be late](https://open.spotify.com/track/7moKmzq8aYQo9ohANhG2wv) | [CHANGHA](https://open.spotify.com/artist/5JIeS2L8GRcbgnzNFLdx1b) | [1000won Lawyer \(Original Soundtrack\), Pt\. 6](https://open.spotify.com/album/7r6M8y77ga4L1mKbGcp4MB) | 4:00 |
 | 75 | [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 |
-| 76 | [How can I have you](https://open.spotify.com/track/14g6VmDnjwCQfmSMMcHhQ4) | [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [\["Our Pictures" Since 2018\]](https://open.spotify.com/album/0hw6KzjpP0uVtT966VjPwg) | 4:04 |
+| 76 | [How can I have you](https://open.spotify.com/track/14g6VmDnjwCQfmSMMcHhQ4) | [ANDME](https://open.spotify.com/artist/47t33ZAJh6vCDy35VoDWv1), [misonyeon](https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan) | [\["Our Pictures" Since 2018\]](https://open.spotify.com/album/0hw6KzjpP0uVtT966VjPwg) | 4:04 |
 | 77 | [Looking Forward To Tomorrow](https://open.spotify.com/track/5KlYz1KPuj1PX2B5Gs8gVs) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Behind Every Star \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/5y3ekRLyeEbVf9biJPbQRN) | 3:52 |
 | 78 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 |
 | 79 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |

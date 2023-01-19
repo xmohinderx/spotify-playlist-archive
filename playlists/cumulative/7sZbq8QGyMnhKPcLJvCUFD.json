@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/4TROC7IgMT7vPvcD3R1isC"
+      },
+      "artists": [
+        {
+          "name": "Goodknight.",
+          "url": "https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150762,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/4flLtCXV7u5UrKU82Ts20T"
+    },
+    {
+      "album": {
         "name": "twenty five",
         "url": "https://open.spotify.com/album/55d0fwseYXlNdMXQpLf7cN"
       },

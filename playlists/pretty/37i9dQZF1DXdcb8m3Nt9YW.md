@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Enigma Norteño & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,496 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,606 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 65 | [Cara de Bala \(En Vivo\)](https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Zap Garcia](https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg) | [Cara de Bala \(En Vivo\)](https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK) | 2:31 |
 | 66 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 |
 | 67 | [Los Diamantones \(En Vivo\)](https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS) | [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Diamantones \(En Vivo\)](https://open.spotify.com/album/2xIuSm3lBJOWYA9CiCl6w3) | 3:08 |
-| 68 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/0kT6qpxBfns68h0W6iXH63) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/6WHyDqtHEbVn9YeJQFYGtl) | 3:14 |
+| 68 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn) | 3:14 |
 | 69 | [La Chapiza \- En Vivo](https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [La Chapiza \(En Vivo\)](https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6) | 2:05 |
 | 70 | [El Teniente Fantasma \(En Vivo\)](https://open.spotify.com/track/7eu5ckFIDseCWsBBiLEOQQ) | [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [El Teniente Fantasma \(En Vivo\)](https://open.spotify.com/album/2a8Xbe22wRopuOardOvLkn) | 3:27 |
 | 71 | [El Rusito](https://open.spotify.com/track/6RFHNOuG81x828KUUDHlg2) | [Banda Del Charko](https://open.spotify.com/artist/5cHzKvp7N3XiJmKZUBAR5s), [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [El Rusito](https://open.spotify.com/album/2ykalDWOME15752rSrUFBZ) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/3uf95hOq9NF1FF5r4OBH3c) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF) | 1:44 |
 | 75 | [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 |
 
-Snapshot ID: `MTY3MDQ1NzEwOCwwMDAwMDAwMDhkZjhiNTFhNjhlNzM3ZjY5ZDY5ZmJiNzU3ZGE1YzM2`
+Snapshot ID: `MTY3MDQ1NzEwOCwwMDAwMDAwMGFmY2VlMzhkZjYyN2JjMzVhYWM3ZGNhYzBjNzRkZDI5`

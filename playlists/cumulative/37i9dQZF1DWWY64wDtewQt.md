@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-405 songs - 16 hr 2 min
+407 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [GAZ](https://open.spotify.com/track/4TNT1dmWRE8RVpKDHLF8UP) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [GAZ](https://open.spotify.com/album/11DAp99eza2m6Esp9q9mx5) | 2:28 | 2021-05-12 | 2022-07-09 |
 | [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2021-08-27 | 2022-07-09 |
 | [GHETTO THUG](https://open.spotify.com/track/0b2LNusHLgUdW9XKo4ZDSW) | [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U), [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [GHETTO THUG](https://open.spotify.com/album/65iGwfQuJNWwcvSFUbcwRe) | 2:44 | 2022-05-27 | 2022-07-16 |
-| [GHOST!](https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3) | 3:51 | 2022-12-30 |  |
+| [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 | 2022-12-30 |  |
+| [GHOST!](https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3) | 3:51 | 2022-12-30 | 2023-01-19 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-10-14 |  |
 | [GLOCK GLOCK](https://open.spotify.com/track/0jZrlNfW35trATveaKIjGA) | [$ober](https://open.spotify.com/artist/1Y3wQI6NEgDfCI3T16Zk9F) | [GLOCK GLOCK](https://open.spotify.com/album/2td5obvfXraJxHYeAZi7Qg) | 2:12 | 2022-07-08 | 2022-08-27 |
 | [GO!](https://open.spotify.com/track/2VpLc9WUmxcaFzwtq6ZMSp) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [GO!](https://open.spotify.com/album/4kpbbwzOKDZu7ncCtZyNR5) | 2:30 | 2022-06-03 | 2022-07-29 |
@@ -161,7 +162,8 @@
 | [HEAD\-ON COLLISION](https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [HEAD\-ON COLLISION](https://open.spotify.com/album/0KoWo621xx4T4cesytZCh5) | 2:00 | 2022-04-04 | 2022-06-11 |
 | [HEADLIGHTS FLASHES](https://open.spotify.com/track/1CWlthc9rA4NwNeLu6dgP5) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [SWITCHING LANES](https://open.spotify.com/album/4BiEgXM0oeleWNNEevB16J) | 2:42 | 2021-10-15 | 2022-08-13 |
 | [HEART RATE](https://open.spotify.com/track/2ht13ee9lxkXCMOxVQo0jB) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq) | [HEART RATE](https://open.spotify.com/album/6U6xBai9lQCn6sqDJJGGW7) | 2:05 | 2022-09-02 | 2022-10-22 |
-| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-07-29 |  |
+| [HELLDRIFT 2](https://open.spotify.com/track/2fA6syjvdiDZmXk8qyH8uM) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/4f3ZmtNorRUs1mB30FSVOs) | 2:51 | 2022-07-29 |  |
+| [HELLDRIFT 2](https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [HELLDRIFT 2](https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz) | 2:51 | 2022-07-29 | 2023-01-19 |
 | [HELLISH RAGE](https://open.spotify.com/track/09xLjMF291PyCA5yCV3H5b) | [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [HELLISH RAGE](https://open.spotify.com/album/5GRZfmQbkbIfDhoCqygMhm) | 2:31 | 2021-08-27 | 2022-07-09 |
 | [Hide N Seek](https://open.spotify.com/track/5Ohu6Vnu0efFmI52Ti1dYb) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Hide N Seek](https://open.spotify.com/album/7iap3BI5Sue65NZR02ldyT) | 2:48 | 2022-09-23 | 2022-11-19 |
 | [HIMARS](https://open.spotify.com/track/5tbD3QOzHSRHRBS4iLFldk) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Himars](https://open.spotify.com/album/6xIIi5ugTV8toR4DZWoI1Z) | 2:17 | 2022-12-09 |  |

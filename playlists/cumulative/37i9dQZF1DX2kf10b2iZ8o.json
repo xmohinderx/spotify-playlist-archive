@@ -59,6 +59,44 @@
     },
     {
       "album": {
+        "name": "ALL nOR NOTHING",
+        "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
+      },
+      "artists": [
+        {
+          "name": "Yukihiro Kamiya (CV: Sho Karino)",
+          "url": "https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1"
+        },
+        {
+          "name": "Sora Kitamura (CV: Fumiyoshi Shioya)",
+          "url": "https://open.spotify.com/artist/6O1CPJg7GuFx2XxkkhCpNI"
+        },
+        {
+          "name": "Hideo Akuno (CV: Kentaro Kumagai)",
+          "url": "https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8"
+        },
+        {
+          "name": "Shoma Hanamura (CV: Yutaka Balletta)",
+          "url": "https://open.spotify.com/artist/1cOxuGlbGgRBR8q3pcDJRo"
+        },
+        {
+          "name": "Natsuki Sakaki (CV: Hiroshi Watanabe)",
+          "url": "https://open.spotify.com/artist/1ILdCr0TdH91xKLF4KNTDK"
+        },
+        {
+          "name": "Nao Okamura (CV: Shogo Yano)",
+          "url": "https://open.spotify.com/artist/4ipiPcfgnexMaLOjj8K3mG"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "ALL nOR NOTHING",
+      "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM ANIMATION PROJECT 07 ARRIVE TO STAR",
         "url": "https://open.spotify.com/album/21asvj6ocQlnDLJYh7paBY"
       },
@@ -2424,7 +2462,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 258453,
       "name": "\u7720\u3089\u306c\u591c\u306b\u30b9\u30d1\u30b7\u30fc\u30d0!",
       "url": "https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO"

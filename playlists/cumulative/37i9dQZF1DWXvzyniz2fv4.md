@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-92 songs - 4 hr 53 min
+93 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG) | [Acústico Altamira \#8 \- Leonina](https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0) | 4:42 | 2022-12-02 |  |
 | [Adaptar](https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Cartas ao Divino](https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi) | 3:10 | 2021-11-12 |  |
 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 | 2021-11-12 |  |
-| [Andressa \- Acústico](https://open.spotify.com/track/3AyCU3NXCYto3ciPZwC1Dy) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Andressa \(Acústico\)](https://open.spotify.com/album/7apVrtPwkoqsBydVbmgG8J) | 3:07 | 2021-11-12 |  |
+| [Andressa \(Acústico\)](https://open.spotify.com/track/4HB2d6D9Sf7Yv2or4J8NTR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Andressa](https://open.spotify.com/album/6XQbOoWHk2L2Cnn472eHGJ) | 3:07 | 2023-01-13 |  |
+| [Andressa \- Acústico](https://open.spotify.com/track/3AyCU3NXCYto3ciPZwC1Dy) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Andressa \(Acústico\)](https://open.spotify.com/album/7apVrtPwkoqsBydVbmgG8J) | 3:07 | 2021-11-12 | 2023-01-19 |
 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 | 2021-11-12 |  |
 | [Bem Vindx à Lyra](https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj) | [Iuri Mesan](https://open.spotify.com/artist/7fLP8QqaHMqvAenq3PrvGP), [Isadora Vilela](https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Sagita'](https://open.spotify.com/artist/1zXaS6knKG0RnEdnTuIyg3) | [Bem Vindx à Lyra](https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If) | 3:48 | 2021-11-12 |  |
 | [Cabulosa](https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr) | [Jonathan Couto](https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Cabulosa](https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J) | 2:47 | 2022-06-24 |  |

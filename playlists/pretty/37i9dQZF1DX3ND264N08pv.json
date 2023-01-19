@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 31009,
+  "num_followers": 31131,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGVhODZlNTYzMTlhMzlhOTc5ZjQyOTQ2MjIzZTZiNGNm",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGNmNGY3NjczM2MyMTkxYzUzZTdiZTg2OWU3YzczNjM1",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Downtempo EP II",
+        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Energy 1996",
+      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 200400,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Downtempo EP II",
-        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Energy 1996",
-      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+      },
+      "artists": [
+        {
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Battle Tonight",
         "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
       },
@@ -1359,6 +1379,26 @@
       "duration_ms": 248052,
       "name": "Battle Tonight",
       "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Kingdom (Sefa Remix)",
+        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 302739,
+      "name": "Kingdom - Sefa Remix",
+      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1383,46 +1423,6 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
-      },
-      "artists": [
-        {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Kingdom (Sefa Remix)",
-        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        }
-      ],
-      "duration_ms": 302739,
-      "name": "Kingdom - Sefa Remix",
-      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 240300,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Back to Square One",
-        "url": "https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb"
-      },
-      "artists": [
-        {
-          "name": "Regain",
-          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
-        }
-      ],
-      "duration_ms": 168363,
-      "name": "Come for You",
-      "url": "https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 192315,
       "name": "Sick And Tired",
       "url": "https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Back to Square One",
+        "url": "https://open.spotify.com/album/6kZ3RJatrJ9zZvZwIAYiJb"
+      },
+      "artists": [
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "duration_ms": 168363,
+      "name": "Come for You",
+      "url": "https://open.spotify.com/track/6jLL2rtFTGpzStKsw3XBqN"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1867,22 +1867,30 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Syndicate Of Rave (Official Syndicate 2021 Anthem)",
-        "url": "https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv"
+        "name": "Halleluya - The F*cked Up Remixes",
+        "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/29UCoWXa1AR4xrtymc82l4"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "D-Element",
+          "url": "https://open.spotify.com/artist/7G0VfvskohR6COYMHwPizU"
+        },
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "Tears Of Fury",
+          "url": "https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX"
         }
       ],
-      "duration_ms": 222317,
-      "name": "Syndicate Of Rave - Official Syndicate 2021 Anthem",
-      "url": "https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK"
+      "duration_ms": 188031,
+      "name": "Halleluya - The Dark Horror Remix",
+      "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
     }
   ],
   "unique_name": "Hardcore Rage",
