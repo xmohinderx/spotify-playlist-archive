@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-189 songs - 11 hr 56 min
+190 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Qualify](https://open.spotify.com/track/5kAj8k3iB7qo5mAAerdor4) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Captcha](https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM) | 3:12 | 2021-09-25 | 2022-04-16 |
 | [R.A.V.E.](https://open.spotify.com/track/0wztpcU585JTnviRQwftah) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [R.A.V.E.](https://open.spotify.com/album/2sDjn0yWlegGQDvyL486vp) | 3:16 | 2022-10-14 | 2022-10-17 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
+| [RAWR](https://open.spotify.com/track/3ZZP9iEzQXpLPpMN2Ksvyx) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [RAWR](https://open.spotify.com/album/4v28glE0OY3I2ppP37ipBa) | 2:17 | 2023-01-19 |  |
 | [Reallo](https://open.spotify.com/track/2O5Z7wPZOlUS3Ux0O9rrfQ) | [Shelajit](https://open.spotify.com/artist/0zunin3sxLeigHfiefKSiL) | [Reallo](https://open.spotify.com/album/7nT1Y6z7tsztUDJ4SACWog) | 3:56 | 2022-09-23 | 2022-10-17 |
 | [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 | 2022-08-19 | 2022-10-16 |
 | [Return of the Lightworker](https://open.spotify.com/track/2ZrmnA6exWB6UQqKEeoNp1) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Return of the Lightworker / Dedication](https://open.spotify.com/album/3HzdQf0IBtS6mBBt1wUoUC) | 4:08 | 2022-10-15 |  |

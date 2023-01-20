@@ -2,7 +2,7 @@
 
 ### [reheat](https://open.spotify.com/playlist/37i9dQZF1DWYPhtvsbr1Fn)
 
-> resurging tracks coming in hot\. cover: Lady Gaga
+> resurging tracks coming in hot\. cover: Sure Thing era Miguel.
 
 77 songs - 5 hr 6 min
 

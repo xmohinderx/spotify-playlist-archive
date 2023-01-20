@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,803 likes - 33 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,804 likes - 33 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 17 | [Luna and June's Purrfect Harmony](https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 5:44 |
 | 18 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 |
 | 19 | [Penelope's Nocturne](https://open.spotify.com/track/2DJehHvLodyXbp8W0glBNr) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 6:52 |
-| 20 | [Piano Sonata No\. 5 in G, K.283: 2\. Andante](https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ) | 6:17 |
+| 20 | [Piano Sonata No\. 5 in G Major, K\. 283: II\. Andante](https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ) | 6:17 |
 | 21 | [Musica Para Ojos](https://open.spotify.com/track/0oTvfjyVlklBQSZNUqApcI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 8:39 |
 | 22 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 |
 | 23 | [Potato's Song](https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:49 |

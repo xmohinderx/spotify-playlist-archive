@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,619 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,678 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fim de Tarde](https://open.spotify.com/track/6vM3pfusC9NWGD4oIVPwy7) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Fim de Tarde](https://open.spotify.com/album/4kcDWDDlPyxkgj0h3mtlu2) | 2:28 |
 | 2 | [O Céu É O Meu Lugar](https://open.spotify.com/track/3IJQUyWzqI97vY4rPlx0J9) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 3:55 |
 | 3 | [Galileu Remix](https://open.spotify.com/track/6BrGZeuIeY0pME8HF4rHoS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j) | [Galileu Remix](https://open.spotify.com/album/4LKWCfCJQrOXN0E4jWm8P8) | 4:32 |
-| 4 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 |
-| 5 | [Algo Novo \(Kennto Remix\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Kennto Remix\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw) | 3:08 |
+| 4 | [Algo Novo \(Kennto Remix\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Kennto Remix\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw) | 3:08 |
+| 5 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 |
 | 6 | [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 |
 | 7 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 |
 | 8 | [É Tudo Sobre Você \- MËDNA Remix](https://open.spotify.com/track/38MdsTHfF7KvE48N0T3mjL) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN), [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd) | [É Tudo Sobre Você \(MËDNA Remix\)](https://open.spotify.com/album/7GFrYcpAuj4fCgu5C7fg6e) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDI5ZjZmMTlhZjdhYjZmNDhhYTk2NTQyZDZmOTk2OWQ3`
+Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDlkZjdhZWM2ZWZhMTJlYjk5ODRkZWYyZmE5OTNhNDRj`

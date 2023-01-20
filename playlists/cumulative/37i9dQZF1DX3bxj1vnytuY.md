@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-156 songs - 16 hr 13 min
+157 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hamdouchia \- Yamil Remix](https://open.spotify.com/track/4ZnXnJBnVPEStdMzLTEnfM) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Hamdouchia \(Yamil Remix\)](https://open.spotify.com/album/51oPEqh2uOoTNxh7aEO56r) | 6:31 | 2022-04-13 |  |
 | [Hayasa \- Monojoke Remix](https://open.spotify.com/track/64EnP9VqlTUMCNyn9mt6Kx) | [DARNO](https://open.spotify.com/artist/3Rx3ZlDu2q99fQgWBZ298Z), [GATA BAND](https://open.spotify.com/artist/7GdFYG0SCgZnhfnHnIC4Ho), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Hayasa](https://open.spotify.com/album/5nHl5etUCu0S9Tum3ocFno) | 7:28 | 2022-12-29 |  |
 | [How long](https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [I AM JAS](https://open.spotify.com/artist/1tWUf08fZUPQYWI5bfPMTM) | [How long](https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr) | 6:44 | 2022-04-13 |  |
+| [Hustle Tribes \- The Deepshakerz Tribe Remix](https://open.spotify.com/track/5kqEbWSdMFXtVplPN1uWaI) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Deeplomatik](https://open.spotify.com/artist/2RBiRrMFQjr0A34HQ5RbHz), [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Hustle Tribes](https://open.spotify.com/album/5uecXR62wSr0xj6APC9HKq) | 3:13 | 2023-01-19 |  |
 | [Hwel El Wed](https://open.spotify.com/track/33dEnbTEFdh7ucUqN5FcEI) | [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v) | [Sunset Camel Ride](https://open.spotify.com/album/0unnaPO0z2hR4CwThvoPfO) | 5:55 | 2022-07-21 |  |
 | [Hwel El Wed](https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6) | [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sunset Camel Ride](https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX) | 5:55 | 2022-04-13 | 2022-07-29 |
 | [I Still](https://open.spotify.com/track/38U70XapOx0kexSOsX03gC) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [I Still](https://open.spotify.com/album/4eV9uFMNWicgEMeIyUrkS6) | 7:01 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-317 songs - 17 hr 27 min
+318 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Feliz, Feliz \- Live](https://open.spotify.com/track/6DkjoClnR4PMMFer8XJs5n) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Feliz, Feliz](https://open.spotify.com/album/0WPwAFCO5FOMvmsEAaTRZP) | 3:39 | 2022-05-12 | 2022-12-09 |
 | [Flor Hermosa \- En Vivo](https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Flor Hermosa \(En Vivo\)](https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00) | 2:52 | 2022-05-12 |  |
 | [Fácil Criticar \- En Vivo](https://open.spotify.com/track/0kT6qpxBfns68h0W6iXH63) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/6WHyDqtHEbVn9YeJQFYGtl) | 3:14 | 2022-12-08 | 2023-01-19 |
+| [Fácil Criticar \- En Vivo](https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Fácil Criticar \(En Vivo\)](https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn) | 3:14 | 2022-12-08 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-05-12 |  |
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-12 | 2022-12-09 |
 | [Gracias \- En Vivo Con Tololoche](https://open.spotify.com/track/6LploXlGDnJqHbOTcocm59) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Gracias \(En Vivo Con Tololoche\)](https://open.spotify.com/album/5iSuTo5v6QXZXQggakydPj) | 4:12 | 2022-05-12 | 2022-12-09 |
@@ -198,7 +199,7 @@
 | [La Mitad \- en Vivo](https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:22 | 2022-05-12 | 2022-12-09 |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-12-08 |  |
 | [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/0uzypYieAbiIWAMGnmfcJ9) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/0SmEChk9jU13NLoMVT6bv7) | 2:56 | 2022-12-08 |  |
-| [La Nueva Escuela \- En Vivo](https://open.spotify.com/track/0HK4v2FdgjsrHSTZtx23Ly) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [La Nueva Escuela \(En Vivo\)](https://open.spotify.com/album/5NK5nAtwVkdELrkTPGj1Ka) | 3:35 | 2022-05-12 |  |
+| [La Nueva Escuela \- En Vivo](https://open.spotify.com/track/0HK4v2FdgjsrHSTZtx23Ly) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [La Nueva Escuela \(En Vivo\)](https://open.spotify.com/album/5NK5nAtwVkdELrkTPGj1Ka) | 3:35 | 2022-05-12 | 2023-01-20 |
 | [La OB “Operación Bélica” \(En Vivo\)](https://open.spotify.com/track/6HKIpOujJ7ZXzSVgGlmVzB) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [La OB “Operación Bélica” \(En Vivo\)](https://open.spotify.com/album/1iaZKDqV66FaFAc7qEUeor) | 3:00 | 2022-05-12 |  |
 | [La Perris \- En Vivo](https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J) | [La Perris \(En Vivo\)](https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN) | 2:45 | 2022-12-08 |  |
 | [La Picare \(En Vivo\)](https://open.spotify.com/track/73JnG6DvSoKWsRXxmaxNPH) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [La Picare \(En Vivo\)](https://open.spotify.com/album/4D9UkdKMa1mLLCvsKzwBYP) | 2:45 | 2022-12-08 |  |

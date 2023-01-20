@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 44,995 likes - 50 songs - 2 hr 57 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 44,997 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RABONA \- Kolter Remix](https://open.spotify.com/track/14635LEGaiyHFMN2HDdiKh) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [Djoko](https://open.spotify.com/artist/4H2eox15C4Zu22ujMDcs5t) | [RABONA \(Kolter Remix\)](https://open.spotify.com/album/5YqnKBllt7n0EjlW3hmo3c) | 3:29 |
+| 1 | [RABONA \- Kolter Remix](https://open.spotify.com/track/14635LEGaiyHFMN2HDdiKh) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [RABONA \(Kolter Remix\)](https://open.spotify.com/album/5YqnKBllt7n0EjlW3hmo3c) | 3:29 |
 | 2 | [Leather Free Seats \- Mosey Remix](https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ) | [Leather Free Seats \(Mosey Remix\)](https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R) | 2:58 |
 | 3 | [MY MIND \- Duarte Remix](https://open.spotify.com/track/6BEAYuiyGLW1qEzwROV26G) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [MY MIND \(Duarte Remix\)](https://open.spotify.com/album/6dOb32eRDgw7APDZ6REMPj) | 4:26 |
 | 4 | [Shiver & Gold](https://open.spotify.com/track/3N71XPi2XVIuIMSrrsy8fB) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Shiver & Gold](https://open.spotify.com/album/5o7cXm5Xm6KMkltlPzBDIW) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: I Need a Bride\(신부가 필요해\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,045 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,181 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 5 | [Only if I have you](https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [A Match Made in the Past OST](https://open.spotify.com/album/362clfXMZn5EiwE3M81Zeu) | 3:16 |
 | 6 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.10](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 |
 | 7 | [Look](https://open.spotify.com/track/5k2RprgovPaCBYahMWKSGV) | [이서한](https://open.spotify.com/artist/34Ptc7mUlhZcBgXALaQZuc) | [Dr\. Choi Ki Seok \(Original Soundtrack\)](https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ) | 3:34 |
-| 8 | [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 |
+| 8 | [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 |
 | 9 | [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.11](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 |
 | 10 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |
 | 11 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 |

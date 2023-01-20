@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 232500,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/24VeD3ZSAwoGyKYpJ0R29x"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 188329,
       "name": "\u5982\u679c\u73fe\u5728\u5c31\u662f\u4e00\u8f29\u5b50Demo - Bonus track",
       "url": "https://open.spotify.com/track/6dyyuyyxt9CyyWUrueKWA7"
@@ -1688,6 +1688,24 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "album": {
+        "name": "\u5f53\u5168\u4e16\u754c\u5fd8\u4e86\u6211",
+        "url": "https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu"
+      },
+      "artists": [
+        {
+          "name": "Hua Chen Yu",
+          "url": "https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322332,
+      "name": "\u5f53\u5168\u4e16\u754c\u5fd8\u4e86\u6211",
+      "url": "https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp"
     },
     {
       "album": {
@@ -2128,6 +2146,24 @@
       "duration_ms": 319731,
       "name": "\u6211\u662f\u8ab0",
       "url": "https://open.spotify.com/track/1RLzzzDKIwT9mpAfCnjLNM"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b63\u5728\u8def\u4e0a",
+        "url": "https://open.spotify.com/album/36d2U2o6WkVlHJUKhP8HUd"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u85dd",
+          "url": "https://open.spotify.com/artist/2AITAhEyc0pO5OZEF6SHQV"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u6211\u6b63\u5728\u8def\u4e0a",
+      "url": "https://open.spotify.com/track/7zsICC3zBCwGwYuAlSm6Cf"
     },
     {
       "album": {
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 217500,
       "name": "\u6d77\u7dbf",
       "url": "https://open.spotify.com/track/3sBT5cFIgwEA9L6r3Ue4y7"
@@ -2752,7 +2788,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
@@ -2954,6 +2990,28 @@
       "duration_ms": 286773,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/7G4inajDPplF7oT27awRq5"
+    },
+    {
+      "album": {
+        "name": "\u7d30\u6c34\u9577\u6d41 (\u96fb\u5f71\u300a\u6d41\u6d6a\u5730\u74032\u300b\u966a\u4f34\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7DS7s6jzklLBuUWIAfBQbq"
+      },
+      "artists": [
+        {
+          "name": "\u5289\u5fb7\u83ef",
+          "url": "https://open.spotify.com/artist/5HWTj9IbDRkOQPhuG2ISq6"
+        },
+        {
+          "name": "\u5433\u4eac",
+          "url": "https://open.spotify.com/artist/6jq5mIyUPPLQ5kYeXOs4d6"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "\u7d30\u6c34\u9577\u6d41 (\u96fb\u5f71\u300a\u6d41\u6d6a\u5730\u74032\u300b\u966a\u4f34\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2ymrqq4PYyQPHpX7qULm6V"
     },
     {
       "album": {
@@ -3434,7 +3492,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 304477,
       "name": "\u9084\u662f\u9078\u64c7\u4f60",
       "url": "https://open.spotify.com/track/4NIL3PP8rLfjFrHIftHC04"

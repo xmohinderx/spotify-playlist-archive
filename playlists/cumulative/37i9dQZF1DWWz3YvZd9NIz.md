@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-64 songs - 3 hr 21 min
+65 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Maniac](https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Da Rick](https://open.spotify.com/artist/7H7x1AnDoiPSwiEOXZP6Ls) | [Maniac](https://open.spotify.com/album/39IKOXzpy4tr6KwcVTsIOD) | 3:12 | 2022-12-05 | 2022-12-29 |
 | [Middle Of The Night](https://open.spotify.com/track/6xUlEWtTKrkyxUxO7nPVYq) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx) | 2:34 | 2022-12-05 |  |
 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 | 2022-12-22 |  |
-| [Mr Brightside](https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:50 | 2022-12-05 |  |
+| [Mr Brightside](https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:50 | 2022-12-05 | 2023-01-20 |
 | [Never Alone \- Re\-Style Remix](https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Never Alone \(Re\-Style Remix\)](https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI) | 3:50 | 2022-12-05 | 2022-12-16 |
 | [Only Girl \- Hardstyle Remix](https://open.spotify.com/track/1Yoxdq3J7CxsaLPAynnZde) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Only Girl \(Hardstyle Remix\)](https://open.spotify.com/album/4ycaH6mCx8CPIY3xXxjYi9) | 2:07 | 2022-12-05 |  |
 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 | 2022-12-05 |  |
@@ -68,6 +68,7 @@
 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/4bsUfMLOoqUmRHf4qbOTIn) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 | 2022-12-15 | 2022-12-29 |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 | 2022-12-05 |  |
 | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW) | 3:36 | 2022-12-05 |  |
+| [Truly Madly Deeply](https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Kelly Matejcic](https://open.spotify.com/artist/0CTUM73g5EM0oTdkW35GLM) | [Truly Madly Deeply](https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX) | 3:28 | 2023-01-19 |  |
 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 | 2022-12-28 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |
 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 |  |

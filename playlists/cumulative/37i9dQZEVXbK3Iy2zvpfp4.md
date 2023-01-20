@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-667 songs - 1 day 10 hr 48 min
+669 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-12-13 | 2023-01-17 |
 | [big boy](https://open.spotify.com/track/7ANXWW10UyhQwCxvB8psaL) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [big boy](https://open.spotify.com/album/4HC8wF3NfyJ22ssMaqv0yL) | 2:54 | 2023-01-11 | 2023-01-18 |
 | [Big boy \(Speed\) \- Remix](https://open.spotify.com/track/2tzqraqVpKcq2UceRSBRkq) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [Big boy \(Speed\) \[Remix\]](https://open.spotify.com/album/4L3H3nDYlhpRiOJZ1H5Pgl) | 2:54 | 2023-01-10 | 2023-01-12 |
-| [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-17 |  |
+| [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-17 | 2023-01-20 |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-07-13 | 2022-08-03 |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-01-03 |  |
 | [Big Weenie](https://open.spotify.com/track/4dh34dyav8M5jCN3yidn8Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:26 | 2022-12-07 | 2022-12-10 |
@@ -227,6 +227,7 @@
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-06-09 | 2022-06-22 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-29 |
 | [Guantanamo](https://open.spotify.com/track/2lVnEPE8ef0KeAeHPiP3Il) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:56 | 2022-12-07 | 2023-01-07 |
+| [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-01-19 |  |
 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 | 2022-12-13 |  |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-15 | 2022-10-16 |
 | [Hannah Montana](https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:38 | 2022-06-09 | 2022-07-28 |
@@ -463,10 +464,11 @@
 | [Popstar](https://open.spotify.com/track/0fC7eoQAIEkB72YBKjfn8N) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Popstar](https://open.spotify.com/album/4PKkLbTH1QQuzprff3zIos) | 3:38 | 2023-01-17 |  |
 | [Prach \- z filmu BANGER.](https://open.spotify.com/track/2nR4w34eMUWK3VuRygoIpq) | [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ), [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Prach \(z filmu BANGER.\)](https://open.spotify.com/album/7z3f34cXRGZFioS6TNoMqA) | 2:41 | 2022-10-11 | 2022-10-19 |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 | 2022-12-13 |  |
+| [Pray for Another Love](https://open.spotify.com/track/1VGOpP1b0JQb6mwtikAsvY) | [ROSYE](https://open.spotify.com/artist/0U2F4Sm8Rw4ZOkGBCgYNlL) | [Pray for Another Love](https://open.spotify.com/album/07qFayTKDGTzl96DL8I1YC) | 1:16 | 2023-01-19 |  |
 | [Prepáč](https://open.spotify.com/track/6IUE3plp8y2kr3oeqEtAdN) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss) | [Prepáč](https://open.spotify.com/album/27I996KseWZ7CGofDjEWer) | 3:39 | 2022-09-08 | 2022-11-02 |
 | [Prepáč](https://open.spotify.com/track/41rMu9Zv8UkC9a474WoTOO) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss), [RC Beats](https://open.spotify.com/artist/0j3cQ04Ny0dmBCSdAQH1n9) | [Trueself](https://open.spotify.com/album/6JmjGd10hhyEo4iMNDxCtd) | 3:39 | 2022-11-05 | 2022-11-16 |
 | [Prestupná stanica](https://open.spotify.com/track/0rWWV2ln7VgWGM8tOUQxWI) | [Tomy Kotty](https://open.spotify.com/artist/0eSoKJDF0VUQLhxNsdKyeC) | [No Fuckin Pose!](https://open.spotify.com/album/4RF3iDLMbzekEaAqJBIpgx) | 2:44 | 2022-07-13 |  |
-| [Pri hviezdach](https://open.spotify.com/track/2MISp5VBmPm2jUDi5ssZHu) | [Nicholas Naison](https://open.spotify.com/artist/5CJWZoI5We1Lq0T0BUcJCO) | [SNY II](https://open.spotify.com/album/7gfsneCcMv0kKc7oM2CzyF) | 2:13 | 2023-01-18 |  |
+| [Pri hviezdach](https://open.spotify.com/track/2MISp5VBmPm2jUDi5ssZHu) | [Nicholas Naison](https://open.spotify.com/artist/5CJWZoI5We1Lq0T0BUcJCO) | [SNY II](https://open.spotify.com/album/7gfsneCcMv0kKc7oM2CzyF) | 2:13 | 2023-01-18 | 2023-01-20 |
 | [Projektil](https://open.spotify.com/track/16eQ45TNIW9LM7w6D58yS3) | [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY) | [Everyday is May](https://open.spotify.com/album/0jRVBoayiFTzeyW530pZsO) | 3:09 | 2022-07-26 | 2022-07-28 |
 | [Právo Veta](https://open.spotify.com/track/61FNHJu0DhcI3j93Kv8pMs) | [Baštrng](https://open.spotify.com/artist/6VGsdIHzW3LReCGvHrxP4P), [Horkýže Slíže](https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o) | [Právo Veta](https://open.spotify.com/album/55lmXWANN7uf5pY6JvxHzK) | 2:02 | 2022-11-08 | 2022-11-10 |
 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 | 2022-11-28 | 2022-12-06 |

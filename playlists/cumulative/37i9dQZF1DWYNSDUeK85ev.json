@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
@@ -4815,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/519NM1nvGS2JZwji1k6g9z"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61518,
+      "name": "Pideme la Luna - Remix",
+      "url": "https://open.spotify.com/track/53h0I0zOgs1KntA5lel3EF"
+    },
+    {
+      "album": {
         "name": "Pistola",
         "url": "https://open.spotify.com/album/2b9q2TCzRLoVOi3BCilmFS"
       },
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"

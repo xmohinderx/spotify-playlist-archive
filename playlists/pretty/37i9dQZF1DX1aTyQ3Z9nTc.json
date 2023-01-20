@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 112235,
+  "num_followers": 112302,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU3ODkyOSwwMDAwMDAwMGRhNzBiZDJmYmMxYTYxNzNhMTJmYmUzYWRjYWMxY2Yz",
+  "snapshot_id": "MTY3MDU3ODkyOSwwMDAwMDAwMDdlYTRjNGI1OTcyMGMzN2FhMDNmMjk4MDNlMmQ3Y2Rl",
   "tracks": [
     {
       "added_at": "2022-07-30 02:24:25",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "LET IT RAIN",
-        "url": "https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 221423,
-      "name": "LET IT RAIN",
-      "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
-    },
-    {
       "added_at": "2022-08-05 04:16:42",
       "album": {
         "name": "Funk Wav Bounces Vol. 2",
@@ -887,6 +871,22 @@
       "duration_ms": 233974,
       "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "LET IT RAIN",
+        "url": "https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 221423,
+      "name": "LET IT RAIN",
+      "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
     },
     {
       "added_at": "2022-07-30 02:24:25",

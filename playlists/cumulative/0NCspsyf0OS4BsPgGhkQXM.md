@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-637 songs - 1 day 10 hr 36 min
+638 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Head Rearranger](https://open.spotify.com/track/6zltJya1NxkcglEwzamzCE) | [No Etiquette](https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh) | [Head Rearranger](https://open.spotify.com/album/40gTutKnWf4v9tDGN1Yogk) | 2:55 | 2023-01-13 |  |
 | [Head Shot](https://open.spotify.com/track/1w4NslJtxyBFRdEfKCrAIk) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Head Shot](https://open.spotify.com/album/4Xpkv0j5BFJEyiaqTGJke7) | 3:40 | 2022-04-04 | 2022-05-18 |
 | [Heads or Tails](https://open.spotify.com/track/7pZMTASk46RDJHVItGryu3) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Heads or Tails](https://open.spotify.com/album/3kHYWHLxLyZ1a4f0i7zUl9) | 2:37 | 2022-11-11 | 2022-11-24 |
+| [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-01-19 |  |
 | [Heart Out My Chest](https://open.spotify.com/track/7upmHVQPUsEisdIA7NuMdt) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Heart Out My Chest](https://open.spotify.com/album/7hNCn0U74ITDR6zDbQWJcl) | 3:15 | 2022-01-30 | 2022-03-05 |
 | [Heartbreak \(VincA Remix\)](https://open.spotify.com/track/7Gfk4en6FaREul71kx56pd) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq), [ALYE](https://open.spotify.com/artist/3XjKB6D3ORDm8eRpiQYUvq), [VincA](https://open.spotify.com/artist/37lE1KxwTAZsq30j6Nqt7S) | [Heartbreak \(VincA Remix\)](https://open.spotify.com/album/7uDQl4R5rYBkSllsG0oB2O) | 3:31 | 2022-06-03 | 2022-07-02 |
 | [HEROIN](https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEROIN](https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO) | 3:07 | 2022-03-28 | 2022-05-26 |

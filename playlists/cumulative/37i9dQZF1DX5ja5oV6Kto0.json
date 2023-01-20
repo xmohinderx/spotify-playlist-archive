@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB?si=kIJ9OaJFRY-_DktMB6Logg\"> STRAFITTI</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=5WeMSXULTGyTnsELZudR7g\"> Ajebutter22</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 203500,
       "name": "Did Enough",
       "url": "https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW"
@@ -2514,6 +2514,32 @@
       "duration_ms": 134509,
       "name": "Harmonies",
       "url": "https://open.spotify.com/track/2h3xA1mf6B97jva8IRey0q"
+    },
+    {
+      "album": {
+        "name": "Hear My Sound",
+        "url": "https://open.spotify.com/album/3bj9XrXiZ6kPs0YhSF9XDp"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hear My Sound",
+      "url": "https://open.spotify.com/track/2vCndumgGW5m8Bi16Y3mNg"
     },
     {
       "album": {
@@ -3340,7 +3366,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 156585,
       "name": "less is more",
       "url": "https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh"
@@ -3420,6 +3446,24 @@
       "duration_ms": 202906,
       "name": "Lie to Me (feat. Loyce)",
       "url": "https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR"
+    },
+    {
+      "album": {
+        "name": "Lie/Idle",
+        "url": "https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS"
+      },
+      "artists": [
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "Lie/Idle",
+      "url": "https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg"
     },
     {
       "album": {

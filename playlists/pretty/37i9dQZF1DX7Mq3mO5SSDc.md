@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,145 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,206 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 35 | [I Need Love](https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Bigger And Deffer](https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7) | 5:22 |
 | 36 | [Hip Hop Junkies](https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv) | [Nice & Smooth](https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn) | [Ain't A Damn Thing Changed](https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h) | 3:29 |
 | 37 | [Da Joint](https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 3:26 |
-| 38 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
+| 38 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 39 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
 | 40 | [Check N' Me Out](https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA) | [Def Squad](https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4) | [El Nino](https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G) | 3:55 |
 | 41 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |

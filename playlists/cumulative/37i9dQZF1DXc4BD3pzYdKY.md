@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-728 songs - 1 day 12 hr 40 min
+729 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [Still 40 Deep](https://open.spotify.com/track/5yqhWeJnZWf8lYY8OTBAMP) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Still 40 Deep](https://open.spotify.com/album/55WJJhhkdRw4V3JKCPfz5b) | 2:05 | 2021-12-11 | 2022-01-31 |
 | [Still Alive \(feat\. Thi'sl, Scootie Wop & BigBreeze\)](https://open.spotify.com/track/4lWXnCZ4YTWNFCYt0Ebnjb) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Still Alive \(feat\. Thi'sl, Scootie Wop & BigBreeze\)](https://open.spotify.com/album/6CxM2HSq87GwexXotCJ022) | 3:26 | 2022-03-05 | 2022-04-26 |
 | [STILL GOING](https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [STILL GOING](https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ) | 1:28 | 2022-04-29 | 2022-08-07 |
-| [Still Hungry](https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [ZOU](https://open.spotify.com/artist/0p8iLYWR8cuT4AovbkPIxu), [Scootie Wop](https://open.spotify.com/artist/4AERNlPWo2z86KfUCfu2LU), [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w) | [Still Hungry](https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2) | 3:24 | 2022-11-25 |  |
+| [Still Hungry](https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [ZOU](https://open.spotify.com/artist/0p8iLYWR8cuT4AovbkPIxu), [Scootie Wop](https://open.spotify.com/artist/4AERNlPWo2z86KfUCfu2LU), [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w) | [Still Hungry](https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2) | 3:24 | 2022-11-25 | 2023-01-20 |
 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 | 2022-11-04 |  |
 | [STIX](https://open.spotify.com/track/1EgBhj7zEO8c1IozLh0lN7) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LOWERCASE TAPE.](https://open.spotify.com/album/4r8c1dnHiTKnZSgzx9ae9L) | 1:59 | 2021-12-11 | 2021-12-25 |
 | [Stone](https://open.spotify.com/track/1Ugp9UQyfz25y1JPA2z0pu) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Stone](https://open.spotify.com/album/580JJVevsUusyRA0qKo2MM) | 4:07 | 2022-02-27 | 2022-08-07 |
@@ -726,6 +726,7 @@
 | [YEAH x2](https://open.spotify.com/track/0U8OwhpzgS5QuItNLll2of) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f) | [YEAH x2](https://open.spotify.com/album/34h6ObBqzEi8CEp1vfYvYx) | 2:34 | 2021-12-11 | 2022-01-21 |
 | [Year of Redemption](https://open.spotify.com/track/5GuQ9tkqVXLmHjLfpb6Whj) | [DIE\-REK](https://open.spotify.com/artist/2Tpl1wIV4fusVxhWw0LGSW) | [Year of Redemption](https://open.spotify.com/album/5eEVSj3pzjQaFxfvsOSb65) | 3:46 | 2022-06-25 | 2022-07-15 |
 | [YKTV](https://open.spotify.com/track/4BQjvcFbLv6tgQp1V42hCr) | [Rockstar Jt](https://open.spotify.com/artist/0sqFuHEkdOpQy0smz788GW), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [YKTV](https://open.spotify.com/album/6DPjqJ0Wop0TBGehyp62uK) | 2:56 | 2021-12-11 | 2022-04-21 |
+| [You](https://open.spotify.com/track/62e3pIOWVqaeMTv0zddq5Y) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v) | [You](https://open.spotify.com/album/4BraYuCBXdgZV4nsrt1taW) | 2:30 | 2022-11-25 |  |
 | [You \(feat\. Big K.R.I.T.\) \- Remix](https://open.spotify.com/track/2dJLiNQZJ4i9pcaB0uq2Jh) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [You \(feat\. Big K.R.I.T.\) \[Remix\]](https://open.spotify.com/album/7mCvAvg5FUxUWx6wBwZ6NP) | 3:00 | 2022-02-04 | 2022-04-29 |
 | [You Already Know](https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [You Already Know](https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW) | 2:15 | 2022-10-05 | 2022-12-01 |
 | [You Know the Drill](https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Magic & Bird](https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:17 | 2021-12-11 | 2022-04-24 |

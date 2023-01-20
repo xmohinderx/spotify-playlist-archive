@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro?si=jBgn7u7iTK-Q8mQWLrBLkw\">Soa mattrix</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD?si=H7fY3ydHTZaCc7H-JEVSOQ\">Soa mattrix</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -926,7 +926,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 408965,
       "name": "Ama Million (feat. Chley Nkosi, Freddy K & Toss)",
       "url": "https://open.spotify.com/track/1SgHOG4UlW9f1rlwbDoBcW"
@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "As'Buyi",
+        "url": "https://open.spotify.com/album/3YXyhlW4X9nAUcqxHtsAXW"
+      },
+      "artists": [
+        {
+          "name": "Sund\u00e9",
+          "url": "https://open.spotify.com/artist/60kr2EOKIQC7t0KaK5KXvc"
+        },
+        {
+          "name": "ColKaze",
+          "url": "https://open.spotify.com/artist/6BwaUlIzPKTS7LBXYBUub0"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468643,
+      "name": "As'Buyi",
+      "url": "https://open.spotify.com/track/664758AecJTVoRYG9WtMMm"
+    },
+    {
+      "album": {
         "name": "As'jabule",
         "url": "https://open.spotify.com/album/6iMjZ3IsrF4LPovmDfqwPN"
       },
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 483082,
       "name": "Azul (feat. Mfana Kah Gogo)",
       "url": "https://open.spotify.com/track/2b5yxtBC6752lc8jsCESN5"
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 437142,
       "name": "Back2School (feat. Thabza Tee & LastBorn Diroba)",
       "url": "https://open.spotify.com/track/5ZurnORiHUnk92O7a0OTGH"
@@ -5445,6 +5467,36 @@
     },
     {
       "album": {
+        "name": "Excellent (feat. Mr JazziQ & Sizwe Alakine)",
+        "url": "https://open.spotify.com/album/0NAgH74GoyQrZzGXKc6Ijw"
+      },
+      "artists": [
+        {
+          "name": "Jayden Lanii",
+          "url": "https://open.spotify.com/artist/429gYd16S83pz53hto2ghq"
+        },
+        {
+          "name": "DJ Sickoo",
+          "url": "https://open.spotify.com/artist/6AAUm3lIXAyy8SyUucjVFM"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395650,
+      "name": "Excellent (feat. Mr JazziQ & Sizwe Alakine)",
+      "url": "https://open.spotify.com/track/1uzvkKEdyGv3gOH3Hb9km7"
+    },
+    {
+      "album": {
         "name": "Exposed",
         "url": "https://open.spotify.com/album/1CXf9K7TMwAHRXSXMD1UHV"
       },
@@ -7232,6 +7284,32 @@
       "duration_ms": 429720,
       "name": "iDlozi (feat. LeeMcKrazy, Guyu Pane, Muziqal Tone & Sinny Man'Que)",
       "url": "https://open.spotify.com/track/3yDWesLYt3Gv32fUCNDCLa"
+    },
+    {
+      "album": {
+        "name": "YOUTH LEAGUE",
+        "url": "https://open.spotify.com/album/3NzCJZKG2q5iB4r3cIMgAn"
+      },
+      "artists": [
+        {
+          "name": "Uncle Vinny",
+          "url": "https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Kailey Botman",
+          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417935,
+      "name": "IDLOZI LAMI",
+      "url": "https://open.spotify.com/track/3jRpIs5Fz5N7H3QH43Vrs8"
     },
     {
       "album": {
@@ -10453,6 +10531,40 @@
     },
     {
       "album": {
+        "name": "Lentwe Soh",
+        "url": "https://open.spotify.com/album/54nbKUWs8AnEdP9TmyDu2b"
+      },
+      "artists": [
+        {
+          "name": "Slungesh",
+          "url": "https://open.spotify.com/artist/5IqpGXgkEcW1NqdHp7pu3O"
+        },
+        {
+          "name": "Mapara A Jazz",
+          "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
+        },
+        {
+          "name": "Rethabile Khumalo",
+          "url": "https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV"
+        },
+        {
+          "name": "Sims Makoya",
+          "url": "https://open.spotify.com/artist/5bKTJtlcnt2iFNIFY3G7Et"
+        },
+        {
+          "name": "Entity MusiQ",
+          "url": "https://open.spotify.com/artist/6EqAIU7pGX8LnmXmAxpO9u"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409005,
+      "name": "Lentwe Soh",
+      "url": "https://open.spotify.com/track/2G9P1J9DzNaCBFvhCqmudz"
+    },
+    {
+      "album": {
         "name": "Les Gout (DBN Gogo & Felo Le Tee Remix)",
         "url": "https://open.spotify.com/album/0jcRYDDveqHmKpxCBDWPx5"
       },
@@ -11833,6 +11945,28 @@
     },
     {
       "album": {
+        "name": "MOB TIES",
+        "url": "https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj"
+      },
+      "artists": [
+        {
+          "name": "TeraphoniQue",
+          "url": "https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m"
+        },
+        {
+          "name": "DNZL444",
+          "url": "https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426289,
+      "name": "MOB TIES",
+      "url": "https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn"
+    },
+    {
+      "album": {
         "name": "Molweni",
         "url": "https://open.spotify.com/album/6ABnDx6AoyKPJDqj2vWxaz"
       },
@@ -12606,6 +12740,48 @@
       "duration_ms": 344843,
       "name": "Ncebeleka",
       "url": "https://open.spotify.com/track/5OLFMjFMyg7P88mOt9ytT0"
+    },
+    {
+      "album": {
+        "name": "Ndaba zay izolo",
+        "url": "https://open.spotify.com/album/1UVk6U4Um6Br7P9wpMezhH"
+      },
+      "artists": [
+        {
+          "name": "Hlukza music",
+          "url": "https://open.spotify.com/artist/4fVJYtYhdJYMrQA0LJ3Hyo"
+        },
+        {
+          "name": "Jkeyz",
+          "url": "https://open.spotify.com/artist/66IfzowJOIGR2YOWE22GHd"
+        },
+        {
+          "name": "Bibo the hero",
+          "url": "https://open.spotify.com/artist/63GVBliATvjyKqcs8evOhe"
+        },
+        {
+          "name": "Shortgun",
+          "url": "https://open.spotify.com/artist/66GITn3fWAJeBKmp8GEvau"
+        },
+        {
+          "name": "Lorenzzo",
+          "url": "https://open.spotify.com/artist/2Z4Px3lkhQAw5LIdKTzB5g"
+        },
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/57kJn3VXagTSe8yAppylTD"
+        },
+        {
+          "name": "General stein",
+          "url": "https://open.spotify.com/artist/1cjhu8AAA5seBdrFFhQeTh"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542223,
+      "name": "Ndaba zay izolo",
+      "url": "https://open.spotify.com/track/7eAN8SrWH1MIlRWJdLTrNL"
     },
     {
       "album": {
@@ -15700,7 +15876,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 385738,
       "name": "Shukushuku",
       "url": "https://open.spotify.com/track/2hNlc3hLf35mr7pA9vjgMG"
@@ -16086,7 +16262,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 416327,
       "name": "Sofa Silahlane",
       "url": "https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0"
@@ -18845,6 +19021,32 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3tTsuKek7nIwTxVbn5SWsj"
+      },
+      "artists": [
+        {
+          "name": "PK Venkes",
+          "url": "https://open.spotify.com/artist/0tKSOBjcCupkc9EeUyIewC"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Lesego",
+          "url": "https://open.spotify.com/artist/7cWStflNHTPznojJSQjAyj"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Ubizo (The Calling)",
+      "url": "https://open.spotify.com/track/5atgivbhJcTKS4J0q5UISs"
+    },
+    {
+      "album": {
         "name": "Ubon'wrongo",
         "url": "https://open.spotify.com/album/3W2tHUmh6SrBnj02GvBkfa"
       },
@@ -19616,7 +19818,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 468000,
       "name": "Undenza Ntoni",
       "url": "https://open.spotify.com/track/15jFSmRCXoty810W72t7KX"
@@ -20036,7 +20238,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 471478,
       "name": "UYATHANDEKA",
       "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
@@ -20252,6 +20454,36 @@
       "duration_ms": 314336,
       "name": "Vum Vum",
       "url": "https://open.spotify.com/track/3p2DXbzwbhFVMyr4PXZ4s8"
+    },
+    {
+      "album": {
+        "name": "Vuman' Bo",
+        "url": "https://open.spotify.com/album/5ySAwAGAPNAlgGP5Q8GmYf"
+      },
+      "artists": [
+        {
+          "name": "DJ Prie Nkosazana",
+          "url": "https://open.spotify.com/artist/3uICGOz5cpuoCzcvHvaeWd"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Freddy K",
+          "url": "https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY"
+        },
+        {
+          "name": "Sindi Nkosazana",
+          "url": "https://open.spotify.com/artist/7a2WeLRnkgsB4Ae7fBXsM8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403207,
+      "name": "Vuman' Bo",
+      "url": "https://open.spotify.com/track/2TFO3Mw12AWbAbTILiZuCX"
     },
     {
       "album": {

@@ -22589,6 +22589,24 @@
     },
     {
       "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/1HBspwW907zywL4plqTl0M"
+      },
+      "artists": [
+        {
+          "name": "WHITE JAM",
+          "url": "https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4D7cOlQz46mcaDrjSG17HX"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/384Wf9eVJVou8CpcxkgGID"
       },
@@ -22600,7 +22618,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 219795,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5fryclC3ZpjXGJAdNix2uZ"

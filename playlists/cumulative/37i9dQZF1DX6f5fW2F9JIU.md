@@ -2,7 +2,7 @@
 
 ### [THE IDOLM@STER アイドルマスター](https://open.spotify.com/playlist/37i9dQZF1DX6f5fW2F9JIU)
 
-> 
+> Music from "THE IDOLM@STER"\. アイドルマスターの楽曲を1つのプレイリストで。<br/>©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 105 songs - 8 hr 3 min
 

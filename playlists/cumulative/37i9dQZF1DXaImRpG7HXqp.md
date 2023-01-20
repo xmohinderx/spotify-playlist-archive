@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-406 songs - 18 hr 18 min
+411 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
+| [Les Étoiles](https://open.spotify.com/track/0ScIojb6Imo343SGP7yEQa) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Les Étoiles](https://open.spotify.com/album/5NWKDyiupZHkpMzwHO2wwp) | 2:34 | 2023-01-20 |  |
 | [Let Hope Be Your Anchor](https://open.spotify.com/track/2mfr6qiU7oYNge4Ar0P6XI) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Let Hope Be Your Anchor](https://open.spotify.com/album/0ec0mMBEPa6EAqDi0Wgh3g) | 3:23 | 2022-06-24 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-08 | 2022-10-14 |
 | [Levitating](https://open.spotify.com/track/49SUqwYACakEEvO20DcLlt) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Levitating](https://open.spotify.com/album/565nU3fGdYAnH8eH7gOuZc) | 4:18 | 2021-12-08 | 2022-05-27 |
@@ -206,6 +207,7 @@
 | [Limpopo](https://open.spotify.com/track/51ZG36kK3KPEqYYH8a2Nna) | [ONEGUI](https://open.spotify.com/artist/5z0Vy8IS2ybQtKxzQ3IWfb) | [Ikun Vol\. 1](https://open.spotify.com/album/7tCXKwYlcTzESVAspYpDf6) | 2:19 | 2021-12-08 |  |
 | [Llamame e Insiste](https://open.spotify.com/track/7xWSsd19uqn3nuEhPz1uG3) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Llamame e Insiste](https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2) | 3:00 | 2021-12-08 | 2022-06-17 |
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2021-12-08 |  |
+| [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 |  |
 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 | 2022-02-01 | 2022-07-08 |
 | [Low Hanging Fruit](https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Low Hanging Fruit](https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6) | 3:59 | 2022-01-05 |  |
 | [Lowlight \(Duet\)](https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7) | [Thomas Kessler](https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ), [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Lowlight \(Duet\)](https://open.spotify.com/album/7CJZBVIvmNyX6WJNN9jKc0) | 2:21 | 2022-10-07 | 2022-12-10 |
@@ -282,6 +284,7 @@
 | [Polmont](https://open.spotify.com/track/6Mz1pP2PVuRP74MmjSMK6z) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/4H2kxZ43dRQdOTuAL6mw5r) | 2:16 | 2021-12-08 | 2022-06-10 |
 | [Pontevedra](https://open.spotify.com/track/345yw2L3H74BUqh08U7zbw) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Pontevedra](https://open.spotify.com/album/0QMI4BCWh5ZC8Ga7hmL7yT) | 2:31 | 2021-12-08 |  |
 | [Pontevedra](https://open.spotify.com/track/1CAIsx8olzyQsEq5FwjYiq) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Pontevedra \(DS\)](https://open.spotify.com/album/7CwkEMbc4MyhipeEJMS9Bz) | 1:47 | 2022-10-07 |  |
+| [Portrait](https://open.spotify.com/track/7Lku4UOvwavKNQnA3xh6zn) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Portrait](https://open.spotify.com/album/6FNLz8hfg6ZvS0frKGXnM1) | 2:30 | 2023-01-20 |  |
 | [Poulenc’s Dream](https://open.spotify.com/track/0wXXgNfz4Dp6qu6UsxYTHf) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:41 | 2021-12-08 |  |
 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 | 2021-12-08 | 2022-06-10 |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2021-12-08 | 2022-04-22 |
@@ -320,6 +323,7 @@
 | [Sine Qua Non](https://open.spotify.com/track/1O2iWnAVqXWYaOXCOTezfo) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Miracle Mountain](https://open.spotify.com/album/1H6xXlZDDFMpu9MIj4rPqT) | 2:42 | 2022-12-16 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-09-17 |
 | [Slow Us Down](https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Slow Us Down](https://open.spotify.com/album/3BUWNWluuCHelTAihZMTKB) | 3:51 | 2022-09-23 |  |
+| [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 |  |
 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 |  |
 | [Solitaire](https://open.spotify.com/track/0mpYde0CZ1SV1OMNlZiTf5) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Solitaire](https://open.spotify.com/album/1aY61d1qrLkO9C8roanTWK) | 2:08 | 2023-01-06 |  |
 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 | 2022-09-02 |  |
@@ -398,6 +402,7 @@
 | [Way Harder Than I Thought](https://open.spotify.com/track/0aInkt9zWTzd5TeBoUXS74) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Way Harder Than I Thought](https://open.spotify.com/album/54k6cq8bMjnlDjVWSinIN5) | 3:04 | 2021-12-08 |  |
 | [Welcomed By The Forest](https://open.spotify.com/track/3rJhEXYvo24oB4s2LAsKYv) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Welcomed By The Forest](https://open.spotify.com/album/4K9IY6EW8bxTbCpeprxQKz) | 2:57 | 2022-08-12 | 2022-12-10 |
 | [We´re Ok](https://open.spotify.com/track/5A06rT73B83damBvMVwp6A) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [We´re Ok](https://open.spotify.com/album/76w4CGhDqw94xOmbrYuGML) | 3:23 | 2021-12-08 | 2022-07-08 |
+| [What a Difference a Day Makes](https://open.spotify.com/track/3xycjyPvZDlpTpqId5hWVJ) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [What a Difference a Day Makes](https://open.spotify.com/album/5PlCJsUofnUpyBRpc7rV7H) | 2:38 | 2023-01-20 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 | 2022-04-05 |  |
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2021-12-08 | 2022-06-17 |
 | [When Time Stood Still](https://open.spotify.com/track/6EHCudtkELVk2YGHOv2NsB) | [Kyle Conners](https://open.spotify.com/artist/6AJslaemnAaB5OujGRqc2e) | [When Time Stood Still](https://open.spotify.com/album/6pwd0GXmwffQKAg0UnJXX4) | 3:07 | 2021-12-08 |  |

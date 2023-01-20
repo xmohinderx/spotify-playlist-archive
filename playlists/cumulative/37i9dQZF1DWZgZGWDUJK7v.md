@@ -112,6 +112,6 @@
 | [내가 미안해](https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX) | [Rumy](https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL) | [바이트미 \(Original Webtoon Soundtrack\) Pt\. 9](https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6) | 3:26 | 2022-10-14 |  |
 | [동행](https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [동행 \(웹툰 '제독의 괴물아내' OST X 정홍일\)](https://open.spotify.com/album/768NZNG8kbhEJxqJBIilaM) | 4:11 | 2022-05-09 |  |
 | [또 한번 찾아올까요](https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [바이트미 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB) | 3:27 | 2022-11-10 |  |
-| [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 | 2022-12-22 |  |
+| [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 | 2022-12-22 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-346 songs - 13 hr 12 min
+350 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,11 @@
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 | 2022-12-10 |
 | [Broken](https://open.spotify.com/track/1H2bzYnA7VNkiIaUnha69l) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Broken](https://open.spotify.com/album/5Y2BSAcBMJQuEtsZgrdoWr) | 1:37 | 2022-06-10 | 2022-09-09 |
 | [bubble tea on a sunday](https://open.spotify.com/track/0brSDPUZgGVcIRptgI4WbO) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [bubble tea on a sunday](https://open.spotify.com/album/0BBRxdCxbnb6UtVWKyDAlv) | 3:02 | 2022-12-09 |  |
+| [Bulky Sweepin'](https://open.spotify.com/track/7BJBjafv1RLbn75WgjOrf4) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Bulky Sweepin'](https://open.spotify.com/album/0XtzEO4jFAFXZPYIz1mdYn) | 2:41 | 2023-01-20 |  |
 | [Bumblebees](https://open.spotify.com/track/09mvIzJdvDPEkt7NKigZbd) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Bumblebees](https://open.spotify.com/album/5RKDrF5Nma8osfAstzZXKY) | 3:15 | 2023-01-06 |  |
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2021-12-07 |  |
 | [By The Window](https://open.spotify.com/track/5luRT0zNET58JyDhfS7ZJQ) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [On The Road](https://open.spotify.com/album/62qnuk8RRmDTwsKOEMsD9y) | 2:20 | 2022-06-24 | 2022-08-19 |
+| [Calling](https://open.spotify.com/track/3tAiBkFY38ZBNFX5Muvd3I) | [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Calling](https://open.spotify.com/album/00rulHU7qgndlBm2murpz3) | 1:25 | 2023-01-20 |  |
 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [calm under the waves](https://open.spotify.com/track/3ZzVDui02aDM48L6RfQeST) | [Pete Mac](https://open.spotify.com/artist/1VH2tnoymN5uu7iNLGGte3), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [calm under the waves](https://open.spotify.com/album/1CEUmdAdqrFdNadplU7TNe) | 2:00 | 2022-11-25 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 |  |
@@ -85,6 +87,7 @@
 | [efímero](https://open.spotify.com/track/5SRg6ipwt6uYyAur2HARPe) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [efímero](https://open.spotify.com/album/4nZISHOozkmb87YDkpe5eO) | 3:18 | 2021-12-07 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-04-15 |  |
 | [Elongation](https://open.spotify.com/track/5ZbBjMlIJzgrxauaIQMInm) | [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O), [Tokoname](https://open.spotify.com/artist/6zROBwkwrwFefHWv6M4kGG) | [Elongation](https://open.spotify.com/album/5O8oEgJio4pyCbS9qVIpjE) | 2:34 | 2022-10-07 |  |
+| [emergence](https://open.spotify.com/track/5pHkzZ1dPE88E0MxGCgP6t) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT) | [emergence](https://open.spotify.com/album/45F1JoyjqJ6EnMJPIRkq7t) | 2:02 | 2023-01-20 |  |
 | [Endangered species](https://open.spotify.com/track/4qCHzjO8vGdW5dCAGZSnZd) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ) | [Endangered species](https://open.spotify.com/album/5DXbuP9LkdJLB7SXzYieJF) | 1:58 | 2022-11-11 |  |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-12-07 | 2022-05-20 |
 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 | 2022-09-09 |  |
@@ -117,6 +120,7 @@
 | [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2021-12-07 | 2022-07-29 |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2021-12-07 |  |
 | [Fuji](https://open.spotify.com/track/3saNOmdsMZjlKLM3FSFU70) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Fuji](https://open.spotify.com/album/7sHeMInQs3hKhDCe7cnzVB) | 2:45 | 2023-01-06 |  |
+| [garden party](https://open.spotify.com/track/65Z8mJUPVRgzbAxwCrT8SD) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [garden party & sunset lounge](https://open.spotify.com/album/4pzOf7Rr7c6YZ2LpI5ntCO) | 3:37 | 2023-01-20 |  |
 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 | 2022-06-24 |  |
 | [Get in The Boat](https://open.spotify.com/track/2QBcW5vUexAHUznPjdzfAW) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Get In The Boat](https://open.spotify.com/album/5ywrZkQ8aDKMTOwkAXljea) | 2:40 | 2022-11-25 |  |
 | [Ghost Town](https://open.spotify.com/track/5mLCQ2ST4AhU7liOfLfTDQ) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Ghost Town](https://open.spotify.com/album/33dPDdYjoPtq07S8Skg6lE) | 2:15 | 2022-09-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 101072,
+  "num_followers": 101121,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU3MTc4MywwMDAwMDAwMDY1MTZiYmFkZmQ1YTQ4NmY2NWNhYmU0ZjFiNWM2ZDg0",
+  "snapshot_id": "MTY3MzU3MTc4MywwMDAwMDAwMDY0YzZjZWIxMDk2MGNkM2FlYzliMTFmY2FjMjg5NjE2",
   "tracks": [
     {
       "added_at": "2023-01-13 01:03:03",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
-        "name": "Dhollandia / Circles",
-        "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         }
       ],
-      "duration_ms": 378241,
-      "name": "Dhollandia",
-      "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
-    },
-    {
-      "added_at": "2023-01-13 01:03:03",
-      "album": {
         "name": "TIOLI",
         "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2023-01-13 01:03:03",
+      "album": {
+        "name": "Dhollandia / Circles",
+        "url": "https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 378241,
+      "name": "Dhollandia",
+      "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
-        "name": "All Together, Here Together",
-        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
-      },
-      "artists": [
-        {
-          "name": "Adult Art Club",
-          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "All Together, Here Together",
-      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
-    },
-    {
-      "added_at": "2023-01-13 01:03:03",
-      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+    },
+    {
+      "added_at": "2023-01-13 01:03:03",
+      "album": {
+        "name": "All Together, Here Together",
+        "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
+      },
+      "artists": [
+        {
+          "name": "Adult Art Club",
+          "url": "https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "All Together, Here Together",
+      "url": "https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
+        "name": "Be With U",
+        "url": "https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 551135,
+      "name": "Be With U",
+      "url": "https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN"
+    },
+    {
+      "added_at": "2023-01-13 01:03:03",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 233346,
       "name": "View from the Aeroplane Window",
       "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2023-01-13 01:03:03",
-      "album": {
-        "name": "Be With U",
-        "url": "https://open.spotify.com/album/6uLhqdqu5aqIQeT24caWAw"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 551135,
-      "name": "Be With U",
-      "url": "https://open.spotify.com/track/1xiNLNvfmHtFEd0ZaCnTNN"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
-        "name": "Speed King",
-        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 592972,
-      "name": "Speed King",
-      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
-    },
-    {
-      "added_at": "2023-01-13 01:03:03",
-      "album": {
         "name": "The Corner",
         "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 220653,
       "name": "The Corner",
       "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
+    },
+    {
+      "added_at": "2023-01-13 01:03:03",
+      "album": {
+        "name": "Speed King",
+        "url": "https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 592972,
+      "name": "Speed King",
+      "url": "https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-01-13 01:03:03",
       "album": {
-        "name": "R\u00caVES",
-        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
       "artists": [
         {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 268872,
-      "name": "R\u00caVES",
-      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -1047,6 +1047,22 @@
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
+    },
+    {
+      "added_at": "2023-01-13 01:03:03",
+      "album": {
+        "name": "R\u00caVES",
+        "url": "https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "duration_ms": 268872,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP"
     },
     {
       "added_at": "2023-01-13 01:03:03",
@@ -1115,22 +1131,6 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-01-13 01:03:03",
-      "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-01-13 01:03:03",

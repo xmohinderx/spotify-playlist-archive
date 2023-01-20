@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34826,
+      "name": "Instant Crassic",
+      "url": "https://open.spotify.com/track/6VS4sE4kaGhZ9MMb52gwo2"
+    },
+    {
+      "album": {
         "name": "Double Album",
         "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },

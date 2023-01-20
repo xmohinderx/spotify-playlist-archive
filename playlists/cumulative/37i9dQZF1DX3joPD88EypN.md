@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3joPD88EypN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3joPD88EypN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3joPD88EypN)
 
-### [The Nordic Notes](https://open.spotify.com/playlist/37i9dQZF1DX3joPD88EypN)
+### [Nordic Jazz](https://open.spotify.com/playlist/37i9dQZF1DX3joPD88EypN)
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 

@@ -2,7 +2,7 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Marea.
+> Lo mejor del rock de aquí, como Viva Suecia.
 
 214 songs - 14 hr 15 min
 

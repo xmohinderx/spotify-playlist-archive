@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "As it turned out",
+        "url": "https://open.spotify.com/album/6UP0k1pJv1XXgl9AlLBg3c"
+      },
+      "artists": [
+        {
+          "name": "Adrian Muriel",
+          "url": "https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230863,
+      "name": "As it turned out",
+      "url": "https://open.spotify.com/track/2VsKoRp6s1Rd4GM6KFtD7B"
+    },
+    {
+      "album": {
         "name": "Attitude Altitude",
         "url": "https://open.spotify.com/album/2yH5oDBYImXDIXVI6Tus2O"
       },
@@ -402,6 +420,24 @@
       "duration_ms": 123662,
       "name": "Bougainvillea",
       "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
+    },
+    {
+      "album": {
+        "name": "Paisaje Silvestre",
+        "url": "https://open.spotify.com/album/7CB6gTf1KwlVWWyKpN8haR"
+      },
+      "artists": [
+        {
+          "name": "Gerson Lizama",
+          "url": "https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140616,
+      "name": "Brisa de Verano",
+      "url": "https://open.spotify.com/track/6OJwqTLXy8B4p3sjRUgEwj"
     },
     {
       "album": {
@@ -900,7 +936,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 231750,
       "name": "Dianthus",
       "url": "https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q"
@@ -1138,7 +1174,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 108863,
       "name": "Elf",
       "url": "https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk"
@@ -1286,6 +1322,24 @@
       "duration_ms": 155724,
       "name": "Eva",
       "url": "https://open.spotify.com/track/14lhsByYFtQn3tPS5TjLFT"
+    },
+    {
+      "album": {
+        "name": "Fawns in Spring",
+        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Fawns in Spring",
+      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
     },
     {
       "album": {
@@ -2586,7 +2640,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 150000,
       "name": "San Gervasi",
       "url": "https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h"
@@ -2882,7 +2936,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 105041,
       "name": "Sua Flor",
       "url": "https://open.spotify.com/track/0392xui5zL1nRux90JIPuv"

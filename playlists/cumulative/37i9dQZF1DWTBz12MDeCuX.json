@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Gustav, Noah\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Miksu / Macloud, t-low\n",
   "name": "me right now",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 165205,
       "name": "24's - German Remix",
       "url": "https://open.spotify.com/track/4K1dqp0VNjE2u9hB09NqoB"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 148151,
       "name": "Bass",
       "url": "https://open.spotify.com/track/5BiypsiapBLRQELkSFBby2"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 148571,
       "name": "Bend Over",
       "url": "https://open.spotify.com/track/1II8feQIWsGGDKQmyelfk4"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -3078,6 +3078,36 @@
       "duration_ms": 165960,
       "name": "Elfbars",
       "url": "https://open.spotify.com/track/5ukfal4wrVoQSRZfSJBiVp"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
     },
     {
       "album": {
@@ -3766,6 +3796,28 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/4QoFJXESRSzdIYhS2YPSiw"
+      },
+      "artists": [
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        },
+        {
+          "name": "SOMETHING IN THE WAY",
+          "url": "https://open.spotify.com/artist/677MyYcGVZl2RKm0jriNeS"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125786,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/5okY56XDYB4lIqu9tOADX5"
     },
     {
       "album": {
@@ -4464,7 +4516,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -4713,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "I Can't Go Back To The Way It Was (Intro)",
+        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95273,
+      "name": "I Can't Go Back To The Way It Was (Intro)",
+      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -4957,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Ich liebe meine Ex noch",
+        "url": "https://open.spotify.com/album/4o472dDYjdJODSpKhxHrxq"
+      },
+      "artists": [
+        {
+          "name": "LUZI",
+          "url": "https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171345,
+      "name": "Ich liebe meine Ex noch",
+      "url": "https://open.spotify.com/track/4on6zjKMWGYbkcjfqKMNmb"
+    },
+    {
+      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -5096,7 +5184,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 157804,
       "name": "Immerhin",
       "url": "https://open.spotify.com/track/3qgXOAdWWCgwJDHeYFMeh5"
@@ -7173,6 +7261,24 @@
     },
     {
       "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+    },
+    {
+      "album": {
         "name": "not a home",
         "url": "https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln"
       },
@@ -7206,6 +7312,28 @@
       "duration_ms": 138410,
       "name": "Not Going Anywhere",
       "url": "https://open.spotify.com/track/7eFPDTz64mTPk6fTQGJYRj"
+    },
+    {
+      "album": {
+        "name": "Nur ein Trost",
+        "url": "https://open.spotify.com/album/5jApFyWNcmyrBg7kQipm9U"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "Nur ein Trost",
+      "url": "https://open.spotify.com/track/2xIHVoglz5mLrNf145RieQ"
     },
     {
       "album": {
@@ -7498,7 +7626,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 215063,
       "name": "on my way",
       "url": "https://open.spotify.com/track/0DH7ZmouflLanUgjYaUP0e"
@@ -8000,6 +8128,24 @@
       "duration_ms": 173225,
       "name": "POOL",
       "url": "https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj"
+    },
+    {
+      "album": {
+        "name": "Power Ranger",
+        "url": "https://open.spotify.com/album/45JUiVN0SLNlC0EtwWM3Zd"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Power Ranger",
+      "url": "https://open.spotify.com/track/2HEPWGriMpXtjoXdWLXbzH"
     },
     {
       "album": {
@@ -8610,6 +8756,24 @@
       "duration_ms": 138028,
       "name": "Schon gut",
       "url": "https://open.spotify.com/track/3XFbTdznmfjLogWvVJTrhc"
+    },
+    {
+      "album": {
+        "name": "Schwarz",
+        "url": "https://open.spotify.com/album/2Nyyn1Z361DRqf21A81JAf"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138842,
+      "name": "Schwarz",
+      "url": "https://open.spotify.com/track/1rZl80jlCeG9DoidzEVd78"
     },
     {
       "album": {
@@ -9970,7 +10134,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 177857,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
@@ -10090,6 +10254,24 @@
       "duration_ms": 228706,
       "name": "The Magic Key",
       "url": "https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM"
+    },
+    {
+      "album": {
+        "name": "The More I Bite",
+        "url": "https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "The More I Bite",
+      "url": "https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE"
     },
     {
       "album": {
@@ -10794,7 +10976,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 132500,
       "name": "Very Few Friends",
       "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"

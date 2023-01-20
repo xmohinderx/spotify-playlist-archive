@@ -4,12 +4,13 @@
 
 > Chill house beats for hanging out in the sun.
 
-345 songs - 17 hr 41 min
+349 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 |  |
 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
+| [A long beat](https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [A long beat](https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B) | 3:05 | 2023-01-20 |  |
 | [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-04-05 | 2022-07-29 |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-05 |  |
@@ -58,6 +59,7 @@
 | [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 | 2022-07-29 |
 | [Century 21](https://open.spotify.com/track/2YoXYKyPI7tzCACr6lfG2S) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Century 21](https://open.spotify.com/album/1t5AdYrBVeg9YmWnSUuStP) | 3:46 | 2022-10-28 |  |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2022-04-15 |  |
+| [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-01-20 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-04-05 |  |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-06-03 | 2022-07-15 |
@@ -69,6 +71,7 @@
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 |  |
+| [Dance The Occasion](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Dance The Occasion](https://open.spotify.com/album/2FzVH5Ej9lHSJOzC0vs5qZ) | 3:11 | 2023-01-20 |  |
 | [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 | 2022-10-14 |  |
 | [Deep \- Dirk 81 Remix](https://open.spotify.com/track/23OHsWIvFTqOc8fOHBdTfp) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [DIRK 81](https://open.spotify.com/artist/4q7ST2CYBFIK4TTL1sNCpk) | [Deep \(Dirk 81 Remix\)](https://open.spotify.com/album/6B02NazCKfqv0JZY7Yhrx3) | 4:42 | 2022-05-20 | 2022-05-27 |
 | [Deep Breathing](https://open.spotify.com/track/0oXG5zbpP09PiSXMp8cmnp) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 2:59 | 2022-04-05 | 2022-09-02 |
@@ -280,6 +283,7 @@
 | [Sleep & Pluck](https://open.spotify.com/track/5PDibz01bDnKUlVd7VhNpE) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunlifter](https://open.spotify.com/album/21NSh7NcKTP3LVFXeGAfUA) | 2:56 | 2022-10-28 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2022-04-05 | 2022-07-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-05 | 2022-07-29 |
+| [Small Victorys](https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Small Victorys](https://open.spotify.com/album/0AM6t62WdQ0KAoQfi3We23) | 2:51 | 2023-01-20 |  |
 | [Snowmen's League](https://open.spotify.com/track/25dn9ZZrJ6WaaCMT52rmjS) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Snowmen's League](https://open.spotify.com/album/1U0mKoD2UlOeIz1Kiwn92U) | 3:16 | 2022-10-07 |  |
 | [soaked up](https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [soaked up](https://open.spotify.com/album/5cWvZvvqzz6SwVU7MEGk56) | 2:41 | 2023-01-06 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2022-04-05 | 2022-09-09 |

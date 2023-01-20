@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Coalesce",
+        "url": "https://open.spotify.com/album/2DndU5bAxge9FDSbcSztAF"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Coalesce",
+      "url": "https://open.spotify.com/track/7CWQaU3OMec7kfqFYj0dbk"
+    },
+    {
+      "album": {
         "name": "Cobra FX",
         "url": "https://open.spotify.com/album/2Dv4LvawZkOnvshwEZTSdH"
       },
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 146458,
       "name": "Coral",
       "url": "https://open.spotify.com/track/5wrvepHi6fDBI3Fj8GDhLx"
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 142911,
       "name": "End of the Horizon",
       "url": "https://open.spotify.com/track/3biz1rjSD59NfeGcMfLHPy"
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 118591,
       "name": "Find a Moment",
       "url": "https://open.spotify.com/track/2jILrbAedZ20ZcCNHb2vk3"
@@ -3182,7 +3204,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 148831,
       "name": "Fresh Dew",
       "url": "https://open.spotify.com/track/7rGo6PxGxJ42KOO4h1QPFB"
@@ -3724,7 +3746,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 158181,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1an2N7aJ7dlrUzxAPDRnQ7"
@@ -5847,6 +5869,24 @@
     },
     {
       "album": {
+        "name": "notebook",
+        "url": "https://open.spotify.com/album/3EZQxloSd5tZuYtFiecQpG"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125116,
+      "name": "notebook",
+      "url": "https://open.spotify.com/track/1qDxKZDETNohWLhQpKR20I"
+    },
+    {
+      "album": {
         "name": "Oak Cabin",
         "url": "https://open.spotify.com/album/3peSOMfyZSu7NG1OtDz5XG"
       },
@@ -6125,6 +6165,28 @@
     },
     {
       "album": {
+        "name": "Past Horizons",
+        "url": "https://open.spotify.com/album/6eiItEKqnpxTdk7K3xcwrb"
+      },
+      "artists": [
+        {
+          "name": "MyceliumBug",
+          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
+        },
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Past Horizons",
+      "url": "https://open.spotify.com/track/0OcwLhlNPndXui8Prsdmjt"
+    },
+    {
+      "album": {
         "name": "Past Love",
         "url": "https://open.spotify.com/album/0HY8vMkvzOWwF47ByAntHR"
       },
@@ -6140,7 +6202,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 132819,
       "name": "Past Love",
       "url": "https://open.spotify.com/track/5BQ1vSyLuoiFcrzGJ1Wb7C"
@@ -6332,6 +6394,28 @@
       "duration_ms": 140619,
       "name": "Pick Up Your Phone Please",
       "url": "https://open.spotify.com/track/2BGgpYR3jw1WtdJXiNupRm"
+    },
+    {
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/6RD7OxSnBJGi3hCuYlEsTu"
+      },
+      "artists": [
+        {
+          "name": "Who Needs to Chill",
+          "url": "https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82844,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/62oHDKM3OgMcnw7Q9Fyq5M"
     },
     {
       "album": {
@@ -6606,6 +6690,24 @@
       "duration_ms": 114235,
       "name": "Recordar",
       "url": "https://open.spotify.com/track/36ismlZjS82Hnlu0sDxRA3"
+    },
+    {
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/7briPpRhxJQOGe3JGBzU2H"
+      },
+      "artists": [
+        {
+          "name": "Rooftop Shenanigans",
+          "url": "https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/12IiT0rZC12d6KxwfzdoDL"
     },
     {
       "album": {
@@ -6934,6 +7036,24 @@
       "duration_ms": 191982,
       "name": "Santino",
       "url": "https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe"
+    },
+    {
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1z2KaAX8nMis2zAIaKRPt1"
+      },
+      "artists": [
+        {
+          "name": "Cavement",
+          "url": "https://open.spotify.com/artist/72v38PSKL8GSurLwsJW19j"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104285,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/1ESZb823Uv9ezWplQpHadG"
     },
     {
       "album": {
@@ -7410,7 +7530,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 106977,
       "name": "So Close So Far",
       "url": "https://open.spotify.com/track/0ZScc5fmp3L4ld1mFYj0b0"
@@ -8956,6 +9076,24 @@
       "duration_ms": 142228,
       "name": "wall colors.",
       "url": "https://open.spotify.com/track/3NcBc9qshhcySWH721OHWR"
+    },
+    {
+      "album": {
+        "name": "Warpath",
+        "url": "https://open.spotify.com/album/5VY3RaD5Yq2w6sroUrmNgh"
+      },
+      "artists": [
+        {
+          "name": "Kuttrey",
+          "url": "https://open.spotify.com/artist/29odQFU45sbl448kuIgMa5"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121578,
+      "name": "Warpath",
+      "url": "https://open.spotify.com/track/0rnvcnWt3NNFktYBUXM8CN"
     },
     {
       "album": {

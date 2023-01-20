@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6778,
+  "num_followers": 6785,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDgxNjcxNjVmNGYzZGI4YmYzM2JlZjdlZGQ0MWUxZjFk",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDFlOTczNTNjYWViYTIxNzUyN2Y0NGM5MzdhZWNkZDdm",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -599,42 +599,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "George Girard's Band",
-        "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
-      },
-      "artists": [
-        {
-          "name": "George Girard",
-          "url": "https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud"
-        },
-        {
-          "name": "Stanley Mendelson",
-          "url": "https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG"
-        },
-        {
-          "name": "Johnny Senac",
-          "url": "https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0"
-        },
-        {
-          "name": "Abbie Brunies",
-          "url": "https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI"
-        },
-        {
-          "name": "Raymond Burke",
-          "url": "https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE"
-        },
-        {
-          "name": "Jack Delaney",
-          "url": "https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Roses of Picardy",
-      "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jam Session in Connecticut, Vol. 1",
         "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
       },
@@ -675,6 +639,42 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "George Girard's Band",
+        "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
+      },
+      "artists": [
+        {
+          "name": "George Girard",
+          "url": "https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud"
+        },
+        {
+          "name": "Stanley Mendelson",
+          "url": "https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG"
+        },
+        {
+          "name": "Johnny Senac",
+          "url": "https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0"
+        },
+        {
+          "name": "Abbie Brunies",
+          "url": "https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI"
+        },
+        {
+          "name": "Raymond Burke",
+          "url": "https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE"
+        },
+        {
+          "name": "Jack Delaney",
+          "url": "https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Roses of Picardy",
+      "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "More Best of the Dukes of Dixieland, Vol. 2",
         "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
-      },
-      "artists": [
-        {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
-        }
-      ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
     },
     {
       "added_at": "2020-08-19 17:19:14",

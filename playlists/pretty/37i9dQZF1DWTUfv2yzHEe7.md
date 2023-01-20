@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Bollywood beats to keep you dancing all night\. Cover: Govinda Naam Mera
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,379 likes - 66 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,550 likes - 66 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

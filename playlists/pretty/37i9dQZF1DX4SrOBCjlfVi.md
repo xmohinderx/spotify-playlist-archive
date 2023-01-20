@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, Armani White and more\. Cover: Moneybagg Yo & GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,088 likes - 51 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,181 likes - 51 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 8 | [Beetleborgs](https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Bin Reaper 3: New Testament](https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL) | 2:25 |
 | 9 | [Tada](https://open.spotify.com/track/20BdyrB29mlD1hBp20ZDve) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Tada](https://open.spotify.com/album/6lsc9OzuQQVR3W6GKMnUzM) | 2:25 |
 | 10 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 |
-| 11 | [Ain't On None](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
+| 11 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
 | 12 | [RIDE THE WAVE!](https://open.spotify.com/track/5W8s7MrKDEk1j9gtD0TeQm) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [RIDE THE WAVE!](https://open.spotify.com/album/1qROXmq8dciE3jPJgyKlke) | 2:03 |
 | 13 | [It's Officially Done](https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [It's Officially Done](https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD) | 2:56 |
 | 14 | [Stonecrest](https://open.spotify.com/track/2MHzmX7IqQWemKQRomNgA3) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Stonecrest](https://open.spotify.com/album/7lJ85CYzlQx2LIFtKZi4fx) | 2:55 |

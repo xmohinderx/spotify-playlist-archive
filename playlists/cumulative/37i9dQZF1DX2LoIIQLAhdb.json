@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Zaho",
   "name": "R&Bae",
   "tracks": [
     {
@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9chirer",
+        "url": "https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177860,
+      "name": "D\u00e9chirer",
+      "url": "https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q"
+    },
+    {
+      "album": {
         "name": "Encore l\u00e0",
         "url": "https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx"
       },
@@ -353,6 +371,24 @@
     },
     {
       "album": {
+        "name": "SOS (Chapitre 3)",
+        "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159839,
+      "name": "Inta habibi",
+      "url": "https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO"
+    },
+    {
+      "album": {
         "name": "J'\u00e9limine",
         "url": "https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo"
       },
@@ -426,6 +462,24 @@
       "duration_ms": 178733,
       "name": "Joujou",
       "url": "https://open.spotify.com/track/6iT9J2d5vY4buhYcNgFUeT"
+    },
+    {
+      "album": {
+        "name": "Juste nous",
+        "url": "https://open.spotify.com/album/5uvrWj1xzYiiE1VGcMqZwe"
+      },
+      "artists": [
+        {
+          "name": "Meiitod",
+          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202990,
+      "name": "Juste nous",
+      "url": "https://open.spotify.com/track/025Li5fBx9Pjyc07Q2w6D4"
     },
     {
       "album": {
@@ -628,7 +682,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 153762,
       "name": "Mi amor",
       "url": "https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj"
@@ -693,6 +747,46 @@
     },
     {
       "album": {
+        "name": "Drama (Partie II)",
+        "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179106,
+      "name": "On s'en fout",
+      "url": "https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ"
+    },
+    {
+      "album": {
+        "name": "R\u00e9silience",
+        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "On s'fait du mal (feat. Dadju)",
+      "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
+    },
+    {
+      "album": {
         "name": "Oublie moi",
         "url": "https://open.spotify.com/album/2mtjMDpwcyem8ZoIUNtYok"
       },
@@ -704,7 +798,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 172137,
       "name": "Oublie moi",
       "url": "https://open.spotify.com/track/48WvqemfqbA3dvefYPul7b"
@@ -758,7 +852,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
@@ -776,7 +870,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 171737,
       "name": "PAS L\u00c0",
       "url": "https://open.spotify.com/track/593rLZfwh40YutczjPvbwD"
@@ -812,7 +906,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 160525,
       "name": "Pic au c\u0153ur",
       "url": "https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf"
@@ -946,6 +1040,28 @@
       "duration_ms": 160530,
       "name": "Sans effet",
       "url": "https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN"
+    },
+    {
+      "album": {
+        "name": "SENTIMENTS MOKO",
+        "url": "https://open.spotify.com/album/4bzhx7YV31ShOyHjY33HhH"
+      },
+      "artists": [
+        {
+          "name": "Minissia",
+          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+        },
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "SENTIMENTS MOKO",
+      "url": "https://open.spotify.com/track/37HNgVH6BvqjlfC7HLiqjD"
     },
     {
       "album": {
@@ -1084,7 +1200,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204175,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr"
@@ -1120,7 +1236,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 172951,
       "name": "\u00c9toile",
       "url": "https://open.spotify.com/track/3IirvvsZ8EJFJjJ3LB1XkP"

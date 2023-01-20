@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 141627,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/4KYhkTfdTgVetingzccu3Q"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 165517,
       "name": "Coves",
       "url": "https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 118400,
       "name": "Happy Birds",
       "url": "https://open.spotify.com/track/1SMhQd66ntwonVlGu32VGa"
@@ -2394,6 +2394,24 @@
       "duration_ms": 152792,
       "name": "Heavy Way",
       "url": "https://open.spotify.com/track/4OuJ94f34LlQWNHu1NN52O"
+    },
+    {
+      "album": {
+        "name": "Hibernatin'",
+        "url": "https://open.spotify.com/album/5A9EtkpNRrhLj0x7L0dnbw"
+      },
+      "artists": [
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hibernatin'",
+      "url": "https://open.spotify.com/track/5OVaUtrMhYUAN6KC5YED0M"
     },
     {
       "album": {
@@ -2867,6 +2885,28 @@
     },
     {
       "album": {
+        "name": "jazzy shorts",
+        "url": "https://open.spotify.com/album/39czucqqOyBiZyW1PIPAEg"
+      },
+      "artists": [
+        {
+          "name": "Nocatchphraze",
+          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "jazzy shorts",
+      "url": "https://open.spotify.com/track/60G7zYgCFWCaRA0bDDlbC6"
+    },
+    {
+      "album": {
         "name": "Jet Ski Gelato Bounce",
         "url": "https://open.spotify.com/album/0cfVkeEzis4RHjVO00hcQC"
       },
@@ -2948,7 +2988,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 140696,
       "name": "just another day",
       "url": "https://open.spotify.com/track/4vI11Dc5RPvL9CMsXHthXu"
@@ -4238,6 +4278,24 @@
       "duration_ms": 267236,
       "name": "Paranoid Society - Instrumental",
       "url": "https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3"
+    },
+    {
+      "album": {
+        "name": "Passionfruit Kush",
+        "url": "https://open.spotify.com/album/5xtnaqSZ3BblKRpuKaz9h6"
+      },
+      "artists": [
+        {
+          "name": "Chrome 97",
+          "url": "https://open.spotify.com/artist/4qbAWphr98kry2SYzR9wPH"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139025,
+      "name": "Passionfruit Kush",
+      "url": "https://open.spotify.com/track/3sgunalkTkf4HfEylAYE8x"
     },
     {
       "album": {
@@ -5824,7 +5882,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 175950,
       "name": "Tick Count",
       "url": "https://open.spotify.com/track/2DEaNP9WdPu59YD0PTbnHi"
@@ -5908,6 +5966,28 @@
       "duration_ms": 92897,
       "name": "Trillest",
       "url": "https://open.spotify.com/track/5b55DpeadBEClX3VLhaB8d"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/3h59Qdv2ngCSYQadJzkbpj"
+      },
+      "artists": [
+        {
+          "name": "WOX",
+          "url": "https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9"
+        },
+        {
+          "name": "Baronski",
+          "url": "https://open.spotify.com/artist/0QugAanZtxl77FmPZmhy4b"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135247,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/0mC6AxzN60GL8tdKxjK087"
     },
     {
       "album": {
@@ -6002,7 +6082,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 146842,
       "name": "Universal Unreal",
       "url": "https://open.spotify.com/track/3BUTu7gMvVlz8W0Qpya0YH"

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-311 songs - 18 hr 29 min
+313 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Kanjaadai](https://open.spotify.com/track/4gl58VwJwt5OAFSTSm3Eox) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Keshika Amirthalingam](https://open.spotify.com/artist/6PlTi4FOlrnbMYCKU8Uee1), [Steve Cliff](https://open.spotify.com/artist/3E0yr1MsO4kPFbvq9PHBMd) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 4:14 | 2022-05-06 | 2022-07-08 |
 | [Kanmani](https://open.spotify.com/track/6hwEWc8UfIUEY7zONrkCsw) | [Paul Dany](https://open.spotify.com/artist/166XeaA9q60eXe9HA5nbgA) | [Kanmani](https://open.spotify.com/album/75oCfdVot9DkwhDzYRHdc0) | 3:15 | 2022-11-16 |  |
 | [Kanmaniye \- 1 Min Music](https://open.spotify.com/track/4fpGDSMsi8h9gBk6jnpNMR) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [Kanmaniye \- 1 Min Music](https://open.spotify.com/album/0yCyIlij2x1h1IxjDJLknt) | 1:00 | 2022-09-27 | 2022-10-07 |
+| [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-01-19 |  |
 | [Kannadi Kannamma](https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Kannadi Kannamma](https://open.spotify.com/album/0UvWqmEthmKkHKb00l6cdI) | 4:11 | 2022-06-23 | 2022-07-15 |
 | [Kannadi Valayal](https://open.spotify.com/track/0gDy4cpCWmx0FLKxFqL3zS) | [Gana Docomo Mani](https://open.spotify.com/artist/2MKDy9Gb6IP7bEyTjXLWj2) | [Kannadi Valayal](https://open.spotify.com/album/0y9CDFhebnfOj6HP0A3R9s) | 4:15 | 2022-08-11 | 2022-10-18 |
 | [Kannala Kadhal](https://open.spotify.com/track/4lzgIXbT9hQ0HVlWd4w4Dd) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kannala Kadhal](https://open.spotify.com/album/5I62z1epRIXimxc3ejWc8f) | 2:49 | 2022-11-05 |  |
@@ -243,6 +244,7 @@
 | [Porkaalai Pozhuthinile](https://open.spotify.com/track/1jN43sUkpkWiyrClEJFSmF) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Mukhil Mayuri](https://open.spotify.com/artist/6xt9DlwkUDHvbHszleG8sj), [Cassandra Rachael Premji](https://open.spotify.com/artist/4aAuQnnXmBifjHelMzQSkq), [Nivetha Vasanthan](https://open.spotify.com/artist/53bBvBsJEfuqcYvtyC49J2), [Ramya Vasanth](https://open.spotify.com/artist/7FPtsbiDbRhJt2yoYnzigU) | [Porkaalai Pozhuthinile](https://open.spotify.com/album/68fr9GCF9LLW7CAB7S6mEa) | 4:01 | 2022-09-05 | 2022-11-17 |
 | [Prechana](https://open.spotify.com/track/2IG48bZBAXm0RaHsayvCiT) | [Benji JB](https://open.spotify.com/artist/2yBqYE0jRYcmKs3ujgnPIv) | [Prechana](https://open.spotify.com/album/6nU2noWzthykBfrUOwG0TO) | 4:34 | 2022-10-28 |  |
 | [Puppy Shame](https://open.spotify.com/track/5Iq2CSFEDfRkngMgDfrLMn) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [MD Musiq](https://open.spotify.com/artist/2xTXq78UpppRzJ8br7kFA1) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 3:02 | 2022-11-28 |  |
+| [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 | 2023-01-19 |  |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
 | [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 |  |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The sweet sounds of Morocco.",
-  "name": "Morocco Sounds",
+  "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
+  "name": "Maroc Hits",
   "tracks": [
     {
       "album": {
@@ -310,6 +310,24 @@
       "duration_ms": 158081,
       "name": "Amora",
       "url": "https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL"
+    },
+    {
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190654,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm"
     },
     {
       "album": {
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 215826,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 186000,
       "name": "Mujer Cobra",
       "url": "https://open.spotify.com/track/7ksDUL9YnwbZB1gEE5eEMO"

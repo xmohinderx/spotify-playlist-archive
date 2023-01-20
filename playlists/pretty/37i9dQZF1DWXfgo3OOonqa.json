@@ -1,47 +1,31 @@
 {
   "description": "2023",
-  "num_followers": 270120,
+  "num_followers": 270176,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGYxYTU4ZGYwNWY1NzVlODBkNjdiNGMwZTBhNjU0NzZl",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGYxNjgwNWJlZDcyNjY2NjZjNGFjOTc1ZjU3NjNhNzI5",
   "tracks": [
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Nordv\u00e4stra",
-        "url": "https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2"
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/2vPjvhXrt8RpgIG6VzFp0G"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
         }
       ],
-      "duration_ms": 155620,
-      "name": "Nordv\u00e4stra",
-      "url": "https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE"
+      "duration_ms": 178584,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/5SeCuhnCkReuMDppRSOe2F"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "BL\u00c5 MERCEDES",
-        "url": "https://open.spotify.com/album/6RqXPNnDTZ1vA890a1ya7o"
-      },
-      "artists": [
-        {
-          "name": "Ozzy",
-          "url": "https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "BL\u00c5 MERCEDES",
-      "url": "https://open.spotify.com/track/5UO9GbQbILdcv5HXolHAe4"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Ikon",
+        "url": "https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Ikon",
+      "url": "https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "UTE P\u00c5 JAKT",
         "url": "https://open.spotify.com/album/1lyWpBbEUphXWN2KmlVFqx"
@@ -77,7 +77,107 @@
       "url": "https://open.spotify.com/track/3XDKCULgNxH5s6WdgZge2G"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Nordv\u00e4stra",
+        "url": "https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 155620,
+      "name": "Nordv\u00e4stra",
+      "url": "https://open.spotify.com/track/3ASPB2ukVZ11cvK7oIMHOE"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Relatera",
+        "url": "https://open.spotify.com/album/4XquqgAGmOYKNGodE3gT5J"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        },
+        {
+          "name": "Emma-Lee Andersson",
+          "url": "https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY"
+        }
+      ],
+      "duration_ms": 191515,
+      "name": "Relatera",
+      "url": "https://open.spotify.com/track/10DXTIr7Y7KBxOY6rwnJNO"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Svar",
+        "url": "https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "duration_ms": 163165,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "BL\u00c5 MERCEDES",
+        "url": "https://open.spotify.com/album/6RqXPNnDTZ1vA890a1ya7o"
+      },
+      "artists": [
+        {
+          "name": "Ozzy",
+          "url": "https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J"
+        }
+      ],
+      "duration_ms": 131152,
+      "name": "BL\u00c5 MERCEDES",
+      "url": "https://open.spotify.com/track/5UO9GbQbILdcv5HXolHAe4"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "KALASH",
+        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "KALASH",
+      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
@@ -97,71 +197,7 @@
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "KALASH",
-        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "KALASH",
-      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
-      },
-      "artists": [
-        {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
-        }
-      ],
-      "duration_ms": 163165,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Svar",
-        "url": "https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/4eZfXYRCM5ZK0jX3vCKPWj"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "ANC (Ain\u2019t No Cap) [feat. DnoteOnDaBeat]",
         "url": "https://open.spotify.com/album/4niNpZTtGmGViyuXeJC9Di"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/53qhzT1Y88m4ixckMTC9YZ"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
@@ -217,7 +253,23 @@
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Ballon d\u2019Or",
         "url": "https://open.spotify.com/album/2VTEkN8egQFqubOxx17WXP"
@@ -233,7 +285,7 @@
       "url": "https://open.spotify.com/track/0qRxGxNapJNMExgNjR3ndj"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
@@ -253,23 +305,7 @@
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "AVION / BRING EM",
-        "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 172034,
-      "name": "AVION",
-      "url": "https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "The Only Wan (Deluxe)",
         "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
@@ -285,7 +321,71 @@
       "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Fj\u00e4rilar",
+        "url": "https://open.spotify.com/album/7ycQqDuc2k7P1Ih9GNX33r"
+      },
+      "artists": [
+        {
+          "name": "Theo Ama",
+          "url": "https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ"
+        }
+      ],
+      "duration_ms": 210096,
+      "name": "Fj\u00e4rilar",
+      "url": "https://open.spotify.com/track/3uO0clDmOeFPd0XftqaPAM"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Poppade en till",
+        "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Poppade en till",
+      "url": "https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "XXX (Bow Wow Wow)",
+        "url": "https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 125940,
+      "name": "XXX (Bow Wow Wow)",
+      "url": "https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "AVION / BRING EM",
+        "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 172034,
+      "name": "AVION",
+      "url": "https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "HARRAGAS",
         "url": "https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L"
@@ -305,7 +405,23 @@
       "url": "https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
         "url": "https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3"
@@ -321,23 +437,7 @@
       "url": "https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "XXX (Bow Wow Wow)",
-        "url": "https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 125940,
-      "name": "XXX (Bow Wow Wow)",
-      "url": "https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "MALIKA",
         "url": "https://open.spotify.com/album/47AllaLHLbTjO6oE6RqFlO"
@@ -353,7 +453,7 @@
       "url": "https://open.spotify.com/track/1alOMzTdK2ucKmwbvXwjER"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5"
@@ -369,7 +469,7 @@
       "url": "https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Du m\u00e5ste veta",
         "url": "https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT"
@@ -393,7 +493,7 @@
       "url": "https://open.spotify.com/track/17Tszh9t40UEgHXAf8V2VI"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Ooh",
         "url": "https://open.spotify.com/album/4mXzNKai3VRQ9HVVJW7T0i"
@@ -409,23 +509,7 @@
       "url": "https://open.spotify.com/track/3E1y2Q6aRmaGT6LM8PxnSz"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "En Unge",
         "url": "https://open.spotify.com/album/1enQ5S7BHpVmQr91QcMa5P"
@@ -441,7 +525,7 @@
       "url": "https://open.spotify.com/track/5uvimqIXQHfkV1kDPOnRvN"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/1aHDb79keEnYyij5TCyttJ"
@@ -461,23 +545,7 @@
       "url": "https://open.spotify.com/track/5icviz5s1QVM5L8x5WRLE1"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "Chanser",
-        "url": "https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Chanser",
-      "url": "https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "WAS GEHT",
         "url": "https://open.spotify.com/album/0O4wm3URYwywcAPi9vhF90"
@@ -497,7 +565,7 @@
       "url": "https://open.spotify.com/track/3DchPWZrC5ZjjCEVkU392L"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "TO\u00d9TO\u00d9",
         "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
@@ -517,7 +585,7 @@
       "url": "https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Von Dam",
         "url": "https://open.spotify.com/album/383CqrHv1vBwRcCehwEpxx"
@@ -537,7 +605,7 @@
       "url": "https://open.spotify.com/track/2ONw7QjUJMpQ6Gxasz2p7o"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Papper&Bl\u00e4ck",
         "url": "https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4"
@@ -557,7 +625,7 @@
       "url": "https://open.spotify.com/track/25Oronh27zORZHjhdyBgWb"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/7lOWSNVxHtb45FXpNgSVjb"
@@ -573,7 +641,7 @@
       "url": "https://open.spotify.com/track/19mlW7kCCIx7llsIWDkeWs"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "REAL SHIT",
         "url": "https://open.spotify.com/album/4BYc1iSV7DcZKMKYycXNVR"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/1O5L1IcM6cbkr4Ei36qQyI"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "All I Need (feat. Franglish)",
         "url": "https://open.spotify.com/album/0ed4blzp0BbBtJLq0XugJ7"
@@ -609,7 +677,7 @@
       "url": "https://open.spotify.com/track/1ECZn7GZ0jO3ZI4i2juzpU"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Ofiltrerad",
         "url": "https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7"
@@ -645,7 +713,7 @@
       "url": "https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "No Borders: European Compilation Project",
         "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
@@ -665,7 +733,7 @@
       "url": "https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Papper&Bl\u00e4ck",
         "url": "https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4"
@@ -685,7 +753,7 @@
       "url": "https://open.spotify.com/track/0Tcu3pNKaqTg5NkJVzqt5V"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "BORZ",
         "url": "https://open.spotify.com/album/2TSw6JdtrxZRGKR9i4LHaQ"
@@ -701,7 +769,7 @@
       "url": "https://open.spotify.com/track/7m5yy8LF2su0nvw9xrYzkz"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Monclizzy",
         "url": "https://open.spotify.com/album/5SAc6HzxnyXApU21bFru1q"
@@ -721,7 +789,7 @@
       "url": "https://open.spotify.com/track/7dLYoUk6Rfz41Z4aZn2MTz"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Disciplin",
         "url": "https://open.spotify.com/album/09Zrdlxnr9iGDuAI3lAwIY"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/2DtXbgaeODgYTZsi4PVKxj"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0ODaLRbVi3dCrCVvYmLROA"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/2lVttZmtJk2hokQu0GKyBe"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "PLAYING FOR KEEPS",
         "url": "https://open.spotify.com/album/3uZmWm4OrYLZ90kJGC8TTu"
@@ -773,7 +841,7 @@
       "url": "https://open.spotify.com/track/1HJr6oICzn9NKJIbg54UOJ"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Tiden rinner iv\u00e4g",
         "url": "https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2"
@@ -789,7 +857,7 @@
       "url": "https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Doppio Passo",
         "url": "https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "STRESS! (Hj\u00e4rnfonden)",
         "url": "https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y"
@@ -825,7 +893,7 @@
       "url": "https://open.spotify.com/track/5UVBBWhlZ70q4sQknojSFL"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "\u00d6VERSEAS 2",
         "url": "https://open.spotify.com/album/5QixFsS3zkrYfX3MWCp1m6"
@@ -845,23 +913,7 @@
       "url": "https://open.spotify.com/track/52psFCt9wgs1BdhvSDocde"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 206243,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Schack",
         "url": "https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ"
@@ -877,7 +929,7 @@
       "url": "https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/4MlQj5Bq3rTX6MxfbiVkce"
@@ -893,7 +945,7 @@
       "url": "https://open.spotify.com/track/6LalA2VwGVAOwGqLtcrq2r"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "YOUNG",
         "url": "https://open.spotify.com/album/4V5ueDsTbneuWj9XiuxLlC"
@@ -909,7 +961,7 @@
       "url": "https://open.spotify.com/track/4tpyNSFM40hJUB8n4IckHG"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "WYL",
         "url": "https://open.spotify.com/album/6s2vPgjP50wMj71WeUb7OV"
@@ -925,7 +977,7 @@
       "url": "https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
@@ -945,7 +997,7 @@
       "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Vi K\u00f6r",
         "url": "https://open.spotify.com/album/07bJvyUTNqSIspZK2gadJX"
@@ -961,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1Ph5SGSGtBAtPbLYqY1WMn"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Alltid varit h\u00e4r",
         "url": "https://open.spotify.com/album/4NgQrhhZ5a451lLJK47qgv"
@@ -977,7 +1029,7 @@
       "url": "https://open.spotify.com/track/22PS8HKGq8QpgYERf9dzRZ"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Min sida",
         "url": "https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC"
@@ -997,7 +1049,7 @@
       "url": "https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
@@ -1013,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "P\u00e5 En L\u00f6rdag",
         "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
@@ -1029,7 +1081,23 @@
       "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Torkar T\u00e5rar",
+        "url": "https://open.spotify.com/album/6H2Ojyr3vYgr4FD4fxmAVX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Torkar T\u00e5rar",
+      "url": "https://open.spotify.com/track/65w8eqh8Tdz7WSMeNQNH5B"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "AVION / BRING EM",
         "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
@@ -1045,7 +1113,27 @@
       "url": "https://open.spotify.com/track/1NwBoKLOfxUYTc0CsHfN3K"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Alors on danse",
+        "url": "https://open.spotify.com/album/21s1Tby8B9qgyoTsmCi2Kc"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Alors on danse",
+      "url": "https://open.spotify.com/track/5b0NuIEQBpLQYNGL8DVp1a"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "SEVILLA (feat. Nimo & Summer Cem) [Remix]",
         "url": "https://open.spotify.com/album/6qMGMekxHWzNvafQWYFBwO"
@@ -1069,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1Iit6nngiymUoQ7M2Ru9mM"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/6fh3fKUobSVkk2f8b5KPiS"
@@ -1093,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2bR9oBij6wXJkCMFS0ouvE"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Araba",
         "url": "https://open.spotify.com/album/6ssmfLdSdbyhRExHffSBbk"
@@ -1109,55 +1197,7 @@
       "url": "https://open.spotify.com/track/2U9sBmOdXLLJd6X6FRbxYx"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "Hasta La Vista",
-        "url": "https://open.spotify.com/album/4oEKZ3gDIwbtlalClxc2HB"
-      },
-      "artists": [
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "Hasta La Vista",
-      "url": "https://open.spotify.com/track/3VlZUWS05jwIjwQHDjVjJl"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
-        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
-      },
-      "artists": [
-        {
-          "name": "Jelassi",
-          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "ALLVARLIGT",
-      "url": "https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "ALLVARLIGT + D KLART DOM HATAR OSS",
-        "url": "https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb"
-      },
-      "artists": [
-        {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "D KLART DOM HATAR OSS",
-      "url": "https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "G\u00e4nget & Jag Del 3",
         "url": "https://open.spotify.com/album/72TE0nYcWswNT8qceioNXX"
@@ -1181,7 +1221,7 @@
       "url": "https://open.spotify.com/track/3E51xkLznzjyxd47Mx3pwk"
     },
     {
-      "added_at": "2023-01-12 23:00:00",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "Guld & gr\u00f6na skogar",
         "url": "https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn"
@@ -1205,139 +1245,7 @@
       "url": "https://open.spotify.com/track/07RHzJVq83JxWWhNCGEF5j"
     },
     {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "MEDAN VI FALLER",
-        "url": "https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Stakset",
-          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
-        },
-        {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
-        }
-      ],
-      "duration_ms": 179134,
-      "name": "ANTISOCIAL",
-      "url": "https://open.spotify.com/track/1fdDWZpg2ywI873ZpywLt1"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "Backspeglar II / Sand I Skorna",
-        "url": "https://open.spotify.com/album/2P4QQrDxGeeQ1nQcyz6WrX"
-      },
-      "artists": [
-        {
-          "name": "Simon Emanuel",
-          "url": "https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ"
-        },
-        {
-          "name": "Sum Comfort",
-          "url": "https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP"
-        },
-        {
-          "name": "Niklas von Arnold",
-          "url": "https://open.spotify.com/artist/4qxxOhWbUE0N7Nn6yfIjbQ"
-        }
-      ],
-      "duration_ms": 176289,
-      "name": "Sand I Skorna (feat. Niklas von Arnold)",
-      "url": "https://open.spotify.com/track/00g7bDWZe0xxFpiLIjp1MC"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "Nummer",
-        "url": "https://open.spotify.com/album/46RueclWxkg4hN7tNVvjvx"
-      },
-      "artists": [
-        {
-          "name": "ABDIFATAH",
-          "url": "https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Nummer",
-      "url": "https://open.spotify.com/track/0Y5EYCS8FSDbdj76Uab3hl"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "KARIMO II",
-        "url": "https://open.spotify.com/album/6jExdpIV7Jp9g0GpccI21M"
-      },
-      "artists": [
-        {
-          "name": "Karim Alger",
-          "url": "https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/5mA3OkfsPFhqjrm6VmZjQn"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "Baby (feat. Ashanti & Greekazo) [Greekazo Remix]",
-        "url": "https://open.spotify.com/album/5sQVCneoznhkIlS6MSC96Q"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "Baby (feat. Ashanti & Greekazo) - Greekazo Remix",
-      "url": "https://open.spotify.com/track/6pH85nZK7uTifvJDVX3YhQ"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "DIN TUR",
-        "url": "https://open.spotify.com/album/2ZHrkIBj8uZoEIhShJLhK0"
-      },
-      "artists": [
-        {
-          "name": "Boogie dinero",
-          "url": "https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH"
-        }
-      ],
-      "duration_ms": 173726,
-      "name": "DIN TUR",
-      "url": "https://open.spotify.com/track/184lVKP37X3JUxPgPMy4y4"
-    },
-    {
-      "added_at": "2023-01-11 16:53:45",
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/3y05ruMmB2GRkbJYZWoYr2"
-      },
-      "artists": [
-        {
-          "name": "Chapo",
-          "url": "https://open.spotify.com/artist/0A2TLDRLEVG2aRIUPSBtNS"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "333",
-      "url": "https://open.spotify.com/track/3sVBVQQsL7U9vn1U6DVtXV"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
+      "added_at": "2023-01-19 23:00:00",
       "album": {
         "name": "YA MOULA (SLOWED)",
         "url": "https://open.spotify.com/album/5NHgTVP4aZrgPKRZpPQ1H2"

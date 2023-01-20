@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ももすももす
 
-2,736 songs - 6 day 23 hr 48 min
+2,737 songs - 6 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1190,7 +1190,8 @@
 | [something](https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [something](https://open.spotify.com/album/2ctyx8VCJH5qJOACnsr9fl) | 4:02 | 2022-12-12 | 2022-12-21 |
 | [SONiC](https://open.spotify.com/track/4f5YVTA1gjpVUQ8nW56qlJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:09 | 2023-01-09 |  |
 | [SONNAWAKENAI](https://open.spotify.com/track/558AKHD3gIzZEX9VKe0xge) | [COCO](https://open.spotify.com/artist/0KDksq8GLene5EpCfTEVqc) | [SONNAWAKENAI](https://open.spotify.com/album/0tBsj8D5NbqlkXFVzoDQJb) | 3:53 | 2022-12-12 | 2022-12-21 |
-| [Sorry](https://open.spotify.com/track/5fryclC3ZpjXGJAdNix2uZ) | [WHITE JAM](https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ) | [Sorry](https://open.spotify.com/album/384Wf9eVJVou8CpcxkgGID) | 3:39 | 2023-01-09 |  |
+| [Sorry](https://open.spotify.com/track/4D7cOlQz46mcaDrjSG17HX) | [WHITE JAM](https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ) | [COLORS](https://open.spotify.com/album/1HBspwW907zywL4plqTl0M) | 3:38 | 2023-01-16 |  |
+| [Sorry](https://open.spotify.com/track/5fryclC3ZpjXGJAdNix2uZ) | [WHITE JAM](https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ) | [Sorry](https://open.spotify.com/album/384Wf9eVJVou8CpcxkgGID) | 3:39 | 2023-01-09 | 2023-01-20 |
 | [SOS](https://open.spotify.com/track/1U0EPzFKu3RDUgJRnxWVfJ) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [SOS](https://open.spotify.com/album/2oL7MOy8pDd3bThE50aJ48) | 3:41 | 2022-04-19 | 2022-07-12 |
 | [Soul Family](https://open.spotify.com/track/3e7g0DvAbJW7SdKVrhOWfM) | [Itto Collective](https://open.spotify.com/artist/3Oz9eA6PNIpbezM1Cvg2HF) | [Soul Family](https://open.spotify.com/album/4vBZofg7s2Jd4hqSxoTzix) | 3:09 | 2022-02-22 | 2022-03-08 |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-04-11 | 2022-04-26 |

@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-407 songs - 15 hr 47 min
+410 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 | 2021-11-11 |  |
 | [bread & wine](https://open.spotify.com/track/53ycakt4shH4wnZveJnagh) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [bread & wine](https://open.spotify.com/album/5aA70VXMAqXyuMUhZO65vZ) | 1:56 | 2021-11-11 |  |
 | [Brooklyn](https://open.spotify.com/track/6dtGKLkb3KjWffRKNDfrYu) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Brooklyn](https://open.spotify.com/album/7CWgOASiOuI951TPGGzbWX) | 1:53 | 2021-11-11 |  |
+| [Brown Sugar](https://open.spotify.com/track/3bo0u4LbwBpmyEfJcVP2Nw) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Brown Sugar](https://open.spotify.com/album/195NUKFyQz5rP0P96MySpD) | 2:07 | 2023-01-20 |  |
 | [Brunch Time](https://open.spotify.com/track/3K53uwXTeTZJ1e1G4aZuqU) | [Moe Ito](https://open.spotify.com/artist/40gaJ1xcckc3RSBclzNMC5) | [Brunch Time](https://open.spotify.com/album/74wJqXy3GF3SYSRcfCb1yK) | 3:03 | 2021-11-11 | 2022-05-20 |
 | [buenos](https://open.spotify.com/track/6Ags8HBI6GXgKzeR4iwrHz) | [Joey Silva](https://open.spotify.com/artist/4wVViv1ngnAiahW2T7UQgB) | [buenos](https://open.spotify.com/album/0M6aPj5ye5io6Iq1Qwp93d) | 2:04 | 2022-09-02 |  |
 | [Buttercup](https://open.spotify.com/track/1XzSlTtvZTK7qx0m7Qep4y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Why Now](https://open.spotify.com/album/0l6YGYhbSoEtInFbdy86l3) | 2:30 | 2022-05-20 | 2022-05-27 |
@@ -99,7 +100,7 @@
 | [Dust till Dawn](https://open.spotify.com/track/4FTWqP9PgQ24kmVctCWREf) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Solid Centre](https://open.spotify.com/album/0z1c6gc89Bfxz9iTQDChiM) | 2:14 | 2022-03-21 |  |
 | [Ear Waves](https://open.spotify.com/track/0eNvXPtQVgJbv0z8P1kzMi) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Ear Waves](https://open.spotify.com/album/49JK5zXlSuWLK07bjGydiu) | 2:31 | 2022-05-13 |  |
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2022-05-27 |  |
-| [El Patrón](https://open.spotify.com/track/7pAcgWT8D6risFfsR0JSPe) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [El Patrón](https://open.spotify.com/album/1TGOGVKxbBB3AvSEw0qaky) | 1:40 | 2022-04-15 |  |
+| [El Patrón](https://open.spotify.com/track/7pAcgWT8D6risFfsR0JSPe) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [El Patrón](https://open.spotify.com/album/1TGOGVKxbBB3AvSEw0qaky) | 1:40 | 2022-04-15 | 2023-01-20 |
 | [Evergreen](https://open.spotify.com/track/5goFbQsBMTVrM5eSut1z4n) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Evergreen](https://open.spotify.com/album/1iEgVGsC5EfUFMVYSYJhUh) | 2:13 | 2022-07-01 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2021-11-11 | 2022-09-09 |
 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 | 2022-08-05 |  |
@@ -159,7 +160,9 @@
 | [Hollow Moon Party](https://open.spotify.com/track/1iI5xkHbEOG5wche1o681q) | [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2) | [Hollow Moon Party](https://open.spotify.com/album/6dIuNk78exWy1M7Ettz1QU) | 2:25 | 2022-12-16 |  |
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2021-11-11 | 2022-06-03 |
 | [honey](https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:40 | 2022-02-18 | 2022-09-17 |
+| [Honey BBQ](https://open.spotify.com/track/3gwrmMNE03XPOGf8PikAjX) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Honey BBQ](https://open.spotify.com/album/1FsCFzDQhtgugb0zaM02dG) | 1:57 | 2023-01-20 |  |
 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 | 2021-11-11 |  |
+| [I Think Your Shadow Wants to Date Mine](https://open.spotify.com/track/2WDwph9TcprpYQZkXUOaoI) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [I Think Your Shadow Wants to Date Mine](https://open.spotify.com/album/7BEMQo3Vqw0EyLcmGBz4hc) | 2:53 | 2023-01-20 |  |
 | [Ice Cream](https://open.spotify.com/track/6eDRVIrffCAnS5ToXJk81e) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Ice Cream](https://open.spotify.com/album/1IU031yKSQCXUxgplEVnvR) | 1:52 | 2022-10-15 |  |
 | [Increment Incline](https://open.spotify.com/track/0uUfB7ntFR7lPofeqayndv) | [qopoqop](https://open.spotify.com/artist/0dmhEkMTtLrKsd1Wfv2jhr), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Increment Incline](https://open.spotify.com/album/2JrDDnIyNBN5l0QBu85g1E) | 1:46 | 2023-01-13 |  |
 | [Infinity](https://open.spotify.com/track/0ceojyPdPeysMco6d7LG5q) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Infinity](https://open.spotify.com/album/7Gh1ZE37TeJoNkdTIA9U4U) | 2:04 | 2021-11-11 | 2022-05-27 |
@@ -193,7 +196,7 @@
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2021-11-11 | 2022-11-26 |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2021-11-11 |  |
 | [laurel](https://open.spotify.com/track/5RsnAdf6p3yu5hhCWrEdY4) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [laurel](https://open.spotify.com/album/2HO8CFuIsqCGYjbbzgX2AP) | 3:55 | 2022-04-22 | 2022-11-20 |
-| [laurel](https://open.spotify.com/track/6F4iMCwqklsE5VuQN4jvWi) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [laurel](https://open.spotify.com/album/2XTMGR4uXwDIvSlB8E01tr) | 3:55 | 2022-11-11 |  |
+| [laurel](https://open.spotify.com/track/6F4iMCwqklsE5VuQN4jvWi) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [laurel](https://open.spotify.com/album/2XTMGR4uXwDIvSlB8E01tr) | 3:55 | 2022-11-11 | 2023-01-20 |
 | [Lazily](https://open.spotify.com/track/31O9nHEGRZGcAVDxHL1g56) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:18 | 2021-11-11 | 2022-05-20 |
 | [Lazy Sundays At The Blue Coral](https://open.spotify.com/track/6QhBDlJF7pSy8gicZv0YJA) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [A Lazy Sunday At The Blue Coral](https://open.spotify.com/album/2ZneOkqwLnRGGeANe0YtgQ) | 2:22 | 2021-11-11 | 2022-05-20 |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2021-11-11 | 2022-11-26 |
@@ -337,7 +340,7 @@
 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 | 2021-11-11 |  |
 | [Sundown Avenue](https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Train of Liberation](https://open.spotify.com/album/48FgL60ydhm7ScPE1Zkao9) | 2:55 | 2021-11-11 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-15 |  |
-| [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-04-22 |  |
+| [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-04-22 | 2023-01-20 |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2021-11-11 |  |
 | [Sunny Side](https://open.spotify.com/track/1JywCZds4lp3TBWaWX9VCc) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/1buEFrWsBE4b1sovzufwle) | 2:14 | 2022-11-11 |  |
 | [Sunny Side](https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/2f8sYkAMIleSBlqydbL4Pc) | 2:14 | 2022-10-15 | 2022-11-24 |

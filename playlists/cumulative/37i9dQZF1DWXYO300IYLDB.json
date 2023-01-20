@@ -483,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Falling (with Rodrigo Amarante) (From \"Norah Jones is Playing Along\" Podcast)",
+        "url": "https://open.spotify.com/album/5DPmBFIPrwoQWEsonYHgiY"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Falling (with Rodrigo Amarante) (From \"Norah Jones is Playing Along\" Podcast)",
+      "url": "https://open.spotify.com/track/5Uy2VG17h0IviBCRkvaOmU"
+    },
+    {
+      "album": {
         "name": "Father and Daughter",
         "url": "https://open.spotify.com/album/1rMSqBZVqZpJA3B53YEIiz"
       },
@@ -682,7 +704,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 210719,
       "name": "Higher (feat. iann dior and GRACEY) [Acoustic]",
       "url": "https://open.spotify.com/track/1tlH92NHQu2HgKGTgArWBT"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 149233,
       "name": "I Ain\u2019t Worried - Acoustic",
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
@@ -906,7 +928,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 160733,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
@@ -1511,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "four",
+        "url": "https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224302,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD"
+    },
+    {
+      "album": {
         "name": "The Sound Of Life",
         "url": "https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK"
       },
@@ -2091,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Under The Willow Tree",
+        "url": "https://open.spotify.com/album/3zw6dpptC9JRYtRTzGGaTJ"
+      },
+      "artists": [
+        {
+          "name": "Jeb Loy Nichols",
+          "url": "https://open.spotify.com/artist/4iwe9LERHqqDtmn7X6oZml"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106690,
+      "name": "Try Love - Live from Under The Willow Tree",
+      "url": "https://open.spotify.com/track/0jfcryQlCzCWRDGNCz3ayj"
+    },
+    {
+      "album": {
         "name": "Turnham Green",
         "url": "https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N"
       },
@@ -2178,6 +2236,24 @@
       "duration_ms": 178681,
       "name": "WHAT I HAVE",
       "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+    },
+    {
+      "album": {
+        "name": "When Our Love Was New",
+        "url": "https://open.spotify.com/album/20FnnF4zxxqWixSnxqyrN4"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "When Our Love Was New",
+      "url": "https://open.spotify.com/track/4VEdKKhTGyaN25rQ1AWDbf"
     },
     {
       "album": {
@@ -2322,7 +2398,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 247403,
       "name": "you - acoustic ver.",
       "url": "https://open.spotify.com/track/6PoqQYeVDo9Xomm8lsDcXA"

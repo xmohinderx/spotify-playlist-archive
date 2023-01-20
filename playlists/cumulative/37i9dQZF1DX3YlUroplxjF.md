@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
 
-376 songs - 21 hr 49 min
+378 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Crooked Smile](https://open.spotify.com/track/5yoX5wMeSivacYx6GpXVoF) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Crooked Smile](https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe) | 2:59 | 2022-03-11 | 2022-07-12 |
 | [Cut Your Losses](https://open.spotify.com/track/5Li2YgiJ39nQOhwkzu7yfg) | [No Eden](https://open.spotify.com/artist/638c40rFuhN8BQ5PG4F78h) | [Abandon](https://open.spotify.com/album/3B04uLIBgtGiwx22PuMoe3) | 3:15 | 2022-04-01 | 2022-04-19 |
 | [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 |  |
+| [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2023-01-20 |  |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 |  |
 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 | 2022-04-01 |  |
@@ -151,7 +152,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/0nv8LBkWyWSO5tFSYh2Kb1) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Heart\-Shaped Box](https://open.spotify.com/album/2jIJI9Bdb5U9N59ZsAo3v5) | 4:40 | 2021-11-30 | 2022-07-28 |
 | [Heavy Hearts](https://open.spotify.com/track/74W1MT74Vr6Z3FIE49DMWf) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 3:33 | 2021-11-30 | 2022-07-17 |
 | [Heel](https://open.spotify.com/track/0bOkJLKU60EJ3Z6Kcl1ogk) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [The Longest Lonesome](https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4) | 3:03 | 2021-11-30 | 2022-07-27 |
-| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 |  |
+| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 | 2023-01-20 |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2022-04-01 |  |
 | [Hereafter](https://open.spotify.com/track/6u2qyJK7Zw5T5ZYgNtfVdM) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hereafter](https://open.spotify.com/album/21hp02VbDwdcfgJWQdZMTP) | 4:15 | 2021-11-30 | 2022-07-27 |
 | [High Horse](https://open.spotify.com/track/4fox41rQRgYVthMdjnuJNO) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [High Horse](https://open.spotify.com/album/2IiZSD6WAXIwd9EiQ0KxL3) | 2:47 | 2021-11-30 | 2022-07-29 |
@@ -237,7 +238,7 @@
 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 | 2021-11-30 |  |
 | [Nightmare](https://open.spotify.com/track/7AUF59Aa05cbLrlMEbMgy5) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Settle Your Sins](https://open.spotify.com/album/0e53cjfkjZVK83FBgQntce) | 2:59 | 2021-11-30 | 2022-07-20 |
 | [No One Likes](https://open.spotify.com/track/2y3SabOKYmQOs1rPVuYuKq) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [No One Likes](https://open.spotify.com/album/1kpfkqWwZNs0cYyOYoHOpr) | 1:56 | 2022-03-11 | 2022-04-21 |
-| [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 | 2021-11-30 |  |
+| [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 | 2021-11-30 | 2023-01-20 |
 | [NO WAY OUT](https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [NO WAY OUT](https://open.spotify.com/album/5Fjl9DnL0Ugokz8V0UNMnP) | 3:35 | 2021-11-30 | 2022-07-29 |
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2022-04-01 |  |
 | [Nocturnal Future](https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Nocturnal Future](https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb) | 4:32 | 2022-11-26 |  |
@@ -245,7 +246,7 @@
 | [North Star](https://open.spotify.com/track/4F9puePN1nUoM67dOSbkA5) | [Arc of the Sun](https://open.spotify.com/artist/4U8OzmOh6kGwmoQWQ9FOiK) | [North Star](https://open.spotify.com/album/4F3tEqfJcgAFjngkMOkqXX) | 3:41 | 2022-04-01 | 2022-04-16 |
 | [Now / Never](https://open.spotify.com/track/1962zHkiWIAVetiHXFDLUn) | [She Pulled the Trigger](https://open.spotify.com/artist/6u8zncAVE7R0ezzTOrBIZt) | [No Matter What](https://open.spotify.com/album/2VP7A4w7nnSvJe7z3A9x7j) | 3:15 | 2021-11-30 | 2022-07-20 |
 | [Now and Forever \(feat\. Trevor Wentworth\)](https://open.spotify.com/track/4bU3F1DmfAJl9G5Xej0x5T) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Trevor Wentworth](https://open.spotify.com/artist/5KbGFayCcgjhbERvopbO5X) | [Now and Forever Ft\. Trevor Wentworth](https://open.spotify.com/album/4vr9ap1i58PA40b3XOmwkZ) | 3:29 | 2021-11-30 | 2022-07-26 |
-| [Numb](https://open.spotify.com/track/6d2jqNfzQVRQvrf9RmDBZf) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:41 | 2022-12-13 |  |
+| [Numb](https://open.spotify.com/track/6d2jqNfzQVRQvrf9RmDBZf) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:41 | 2022-12-13 | 2023-01-20 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-26 |  |
 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 | 2021-11-30 |  |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |
@@ -282,7 +283,7 @@
 | [Rat Race](https://open.spotify.com/track/6CbMNxRrRHkkZuaDghbzQ9) | [A Scent Like Wolves](https://open.spotify.com/artist/45MtkhYiPMUHwT4Wv7qBji) | [Spirit Vessel](https://open.spotify.com/album/1pEScVSDs5cGNBgWX4L9B5) | 4:23 | 2021-11-30 | 2022-06-16 |
 | [Ratking](https://open.spotify.com/track/2fmcr45jShfpzCJXA3U9x6) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Ratking](https://open.spotify.com/album/0VTW6TdKknAXKnph2WjSIR) | 3:25 | 2021-11-30 | 2022-07-27 |
 | [RED](https://open.spotify.com/track/1hy8Zr9EEdmXNaMIhUbOwE) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/6a4UNDpur6wbXHvAuVvAgz) | 3:33 | 2021-11-30 | 2022-07-24 |
-| [Red](https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W) | 3:33 | 2022-04-01 | 2023-01-18 |
+| [Red](https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W) | 3:33 | 2022-04-01 |  |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-11-30 |  |
 | [Resting in Pieces](https://open.spotify.com/track/1Ld6vffNPizhKhyp6t3a8Y) | [Tiny Stills](https://open.spotify.com/artist/14ALCznZ7yuCOfLk46eNxL) | [Resting in Pieces](https://open.spotify.com/album/6OCAuL2AY06JwLxYVD7UuX) | 3:07 | 2022-04-01 | 2022-04-19 |
 | [Retreat Syndrome](https://open.spotify.com/track/4qXdUWXB5C3ZEoRiLkqApM) | [We Never Learned To Live](https://open.spotify.com/artist/2crdUjsZoHulUnCCxmeP2a) | [Retreat Syndrome](https://open.spotify.com/album/6sjun9jLGiL9m1aGpBwwSd) | 2:42 | 2022-01-21 | 2022-05-17 |
@@ -297,6 +298,7 @@
 | [Sabotage](https://open.spotify.com/track/0g0ZZiHxzmnYAzVK5aoqAS) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Sabotage](https://open.spotify.com/album/4Wj5yvlZ7MRhnxpKcKi6LB) | 3:50 | 2022-04-01 | 2022-04-28 |
 | [Satellites in Motion](https://open.spotify.com/track/4MaiSzPktcmSRLieq54dAe) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo) | [Satellites in Motion](https://open.spotify.com/album/5Uy5NdsvHtmJz4vfsJNydz) | 2:46 | 2022-03-11 | 2022-08-08 |
 | [satellites\* \*](https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 3:46 | 2021-11-30 | 2023-01-11 |
+| [satellites\* \*](https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 3:46 | 2022-12-13 |  |
 | [SENSE AGAIN](https://open.spotify.com/track/3707JCg368dfwEnevPlqpr) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [Flip Phone Fantasy](https://open.spotify.com/album/0Usgtnb9x0c1NXTFNABFf9) | 3:03 | 2021-11-30 | 2022-07-25 |
 | [Separation](https://open.spotify.com/track/46MroZ6OGJef6YKyABvk2R) | [Vagrants](https://open.spotify.com/artist/4WLao04vBPdHGLJS5YIogU) | [Separation](https://open.spotify.com/album/775vVZBPc4LrvVBDdE4GpS) | 3:59 | 2021-11-30 | 2022-07-27 |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2021-11-30 | 2022-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 248668,
+  "num_followers": 248872,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDI5NGNmYzkzNGMyNDc1NmQ0YTgwNmQ1OGQyYjMwZWZl",
+  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDA5NTlhY2Y3ODk0NzFkM2VmZmVhZGJkZTI1ZGIwZTEx",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc"
-      },
-      "artists": [
-        {
-          "name": "N Joi",
-          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Original Nuttah 25",
         "url": "https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 231529,
       "name": "Original Nuttah 25",
       "url": "https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc"
+      },
+      "artists": [
+        {
+          "name": "N Joi",
+          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "The Very Best of Rozalla",
-        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
-      },
-      "artists": [
-        {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Everybody's Free (To Feel Good)",
-      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Digeridoo",
         "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 431466,
       "name": "Digeridoo",
       "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Very Best of Rozalla",
+        "url": "https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Everybody's Free (To Feel Good)",
+      "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
     },
     {
       "added_at": "2020-10-06 12:32:47",

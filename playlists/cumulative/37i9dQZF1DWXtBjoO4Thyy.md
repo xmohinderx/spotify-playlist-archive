@@ -4,7 +4,7 @@
 
 > Roger Eno continues The Classical Takeover with his selection of "Warm Music for a Cold Season"
 
-541 songs - 1 day 21 hr 5 min
+542 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Distler : Es ist ein Ros entsprungen : III Meine Seele erhebt Gott](https://open.spotify.com/track/1Zjwma9ss5xe1MEBrUOkVv) | [Hugo Distler](https://open.spotify.com/artist/2vw46Ae6esTLjvbNJJnTwI), [Chanticleer](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) | [Christmas with Chanticleer & Dawn Upshaw](https://open.spotify.com/album/7tPa9znXoGEOpEs50YTh4w) | 1:45 | 2021-12-03 | 2022-01-08 |
 | [Distler : Es ist ein Ros entsprungen : IV Das Blümelein so kleine](https://open.spotify.com/track/09GdxUeJq7HvOLgu0xcUDh) | [Hugo Distler](https://open.spotify.com/artist/2vw46Ae6esTLjvbNJJnTwI), [Chanticleer](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) | [Christmas with Chanticleer & Dawn Upshaw](https://open.spotify.com/album/7tPa9znXoGEOpEs50YTh4w) | 1:25 | 2021-12-03 | 2022-01-08 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/2QBHj5lBETlmtrP7IxJ3cA) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 2:59 | 2022-12-09 | 2023-01-06 |
-| [Docet Umbra](https://open.spotify.com/track/0ySOpj9mA4z1BStyNO90Ye) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Lost In Translation](https://open.spotify.com/album/3JROHjPJeQXVUhKzwhXMl7) | 3:02 | 2023-01-06 |  |
+| [Docet Umbra](https://open.spotify.com/track/3UucbSZZJsyS3P3ZF5QNbo) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Lost In Translation](https://open.spotify.com/album/5Dd3SCxevq5RthFAdUrzg0) | 3:02 | 2023-01-06 |  |
+| [Docet Umbra](https://open.spotify.com/track/0ySOpj9mA4z1BStyNO90Ye) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Lost In Translation](https://open.spotify.com/album/3JROHjPJeQXVUhKzwhXMl7) | 3:02 | 2023-01-06 | 2023-01-20 |
 | [Doctor Atomic: Batter my heart](https://open.spotify.com/track/5jCuPDRmTHO6JhNs6F8dAu) | [John Adams](https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ), [Gerald Finley](https://open.spotify.com/artist/5T0TCveUmDlfkGhPIXFhrQ), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [GREAT OPERATIC ARIAS \(Sung in English\), VOL\. 22 \- Finley, Gerald](https://open.spotify.com/album/1iEqeruvGFp1HZyIDtk5XL) | 7:49 | 2022-04-01 | 2022-05-07 |
 | [Domestic Pressures](https://open.spotify.com/track/2dHnIe0JsqshUnyzcMMOhW) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:37 | 2022-01-07 | 2022-02-05 |
 | [Dona Nobis Pacem 2](https://open.spotify.com/track/2YlLv22mNqbG3logspCLZk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [Mari](https://open.spotify.com/album/2JODpOhAdIN27KhGLEvIN4) | 3:26 | 2022-05-06 | 2022-06-04 |

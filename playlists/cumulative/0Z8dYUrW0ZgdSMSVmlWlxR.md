@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-285 songs - 13 hr 49 min
+286 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [WARLOCK](https://open.spotify.com/track/1VeU4XBV5KcNZjbvbDyyIC) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARLOCK](https://open.spotify.com/album/2LtIJUsp42hqhXx9Ew9JIA) | 2:19 | 2022-02-15 |  |
 | [WARRIOR](https://open.spotify.com/track/5AMRRp5Rjp1GQsF5ubsGl9) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARRIOR](https://open.spotify.com/album/7kYmA4k1b50gCazI6gTjUu) | 2:10 | 2022-02-28 |  |
 | [We Are the Reason You Run and Hide](https://open.spotify.com/track/6cVi4NQqX4cT8TQLkSzgxK) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [We Are the Reason You Run and Hide](https://open.spotify.com/album/1pnLhbXbP112zOzDQubXoV) | 3:28 | 2022-10-02 |  |
+| [Welcome Them To Hell](https://open.spotify.com/track/3EoJyrMxbh4SPivAqEJ0kA) | [Darko](https://open.spotify.com/artist/6yHCkdydSuq3PUgfE5VZdF) | [Welcome Them To Hell](https://open.spotify.com/album/3Pkx27U67qwslO1J8wbgo5) | 2:39 | 2023-01-19 |  |
 | [Winstrol](https://open.spotify.com/track/1IzkTqD1Ua8MVrwOnjpaX1) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [Winstrol](https://open.spotify.com/album/6CaXxp5CIgHlEChFRNlbKU) | 2:12 | 2022-02-19 |  |
 | [Ya Tebya ne otdam!](https://open.spotify.com/track/0fOukrzq6Bk4kQdzKjVaot) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [Ya Tebya ne otdam!](https://open.spotify.com/album/6WXpBCYdhp7zq7IbnuNCMR) | 3:41 | 2022-05-27 | 2023-01-12 |
 | [You Say Run Hardstyle](https://open.spotify.com/track/36b1CvA95dO0U7PfWJnH4T) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU), [AniLifts](https://open.spotify.com/artist/3u5NpLsIdNfTcvOTRGD5CR) | [You Say Run Hardstyle](https://open.spotify.com/album/3RIj3ubbPK214b2U1JLxAd) | 3:47 | 2022-08-05 | 2023-01-07 |

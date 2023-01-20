@@ -810,7 +810,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 174222,
       "name": "Burn It To The Ground (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn"
@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Future Rave Is Now",
+        "url": "https://open.spotify.com/album/05GxrCfoBcSwBNeiDO0tEm"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Future Rave Is Now",
+      "url": "https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv"
+    },
+    {
+      "album": {
         "name": "Gargantua",
         "url": "https://open.spotify.com/album/4bJeoEg11UbeqMYE9thxb2"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 186575,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1"
@@ -4258,6 +4276,32 @@
       "duration_ms": 200888,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv"
+    },
+    {
+      "album": {
+        "name": "Rollin Up",
+        "url": "https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP"
+      },
+      "artists": [
+        {
+          "name": "Wolfpack",
+          "url": "https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox"
+        },
+        {
+          "name": "Van Heden",
+          "url": "https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0"
+        },
+        {
+          "name": "A-Trick",
+          "url": "https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159223,
+      "name": "Rollin Up",
+      "url": "https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX"
     },
     {
       "album": {

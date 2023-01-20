@@ -1,33 +1,13 @@
 {
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=lSWPJFMaRIiAGgEaZbQ4dQ\">Sarkodie</a>",
-  "num_followers": 11350,
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: <a href=\"https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=dIJFkAGJRieD1Qvmcimr4Q\">Camidoh</a>",
+  "num_followers": 11367,
   "original_name": "Ghana Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5ODQ0NSwwMDAwMDAwMDZlMzgxMWI1YzI2ZTkwNjJmZjRjYmVlYWMxMWFkOTIy",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMGEwODQ4YTI2MTY0NGNkNTYxNzgzMzRhYzQ0MDg4Y2U1",
   "tracks": [
-    {
-      "added_at": "2023-01-13 08:27:25",
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
-    },
     {
       "added_at": "2023-01-13 08:27:25",
       "album": {
@@ -63,6 +43,46 @@
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "A Lifetime Is Not Enough",
+        "url": "https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "G.D.S",
+          "url": "https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx"
+        }
+      ],
+      "duration_ms": 137946,
+      "name": "Adoley",
+      "url": "https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22"
+    },
+    {
+      "added_at": "2023-01-13 08:27:25",
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": "2023-01-13 08:27:25",
@@ -309,6 +329,22 @@
       "url": "https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 131219,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7"
+    },
+    {
       "added_at": "2023-01-13 08:27:25",
       "album": {
         "name": "Su Mo Mi",
@@ -343,22 +379,6 @@
       "duration_ms": 194400,
       "name": "Sankofa - Remix",
       "url": "https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9"
-    },
-    {
-      "added_at": "2023-01-13 08:27:25",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/7x4SAE0RVgcenFP89fj7Ix"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 135145,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/7LRvsLwnoMZYJ5ZY0Xupv7"
     },
     {
       "added_at": "2023-01-13 08:27:25",
@@ -447,22 +467,6 @@
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
-    },
-    {
-      "added_at": "2023-01-13 08:27:25",
-      "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/4ucqJkbrkSWiQIiqFgffgV"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        }
-      ],
-      "duration_ms": 112173,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/5zPHUBJWhebMPUN7D3TMti"
     },
     {
       "added_at": "2023-01-13 08:27:25",

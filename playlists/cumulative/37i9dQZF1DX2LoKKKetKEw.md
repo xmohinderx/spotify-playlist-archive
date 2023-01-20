@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu
 
-93 songs - 4 hr 39 min
+94 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [So Special](https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [So Special](https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr) | 2:03 | 2022-09-11 |  |
 | [Standing](https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Joy](https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4) | 3:13 | 2022-12-17 |  |
 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 | 2022-07-30 |  |
-| [Take Me Home](https://open.spotify.com/track/2tNFcj500dviGARgafUT6d) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Take Me Home](https://open.spotify.com/album/6vSih1BvJIucern09KQfs1) | 2:42 | 2022-12-17 |  |
+| [Take Me Home](https://open.spotify.com/track/2tNFcj500dviGARgafUT6d) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Take Me Home](https://open.spotify.com/album/6vSih1BvJIucern09KQfs1) | 2:42 | 2022-12-17 | 2023-01-20 |
 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 | 2022-07-30 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-07-30 |  |
 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 | 2022-07-30 | 2022-10-07 |
@@ -99,6 +99,7 @@
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-30 |  |
 | [You](https://open.spotify.com/track/1xaeMB6qDw01j79mhMgYPy) | [WE GOT LOVE PROJECT](https://open.spotify.com/artist/1Y1t2u6opQXonxsxLQ7XMR), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [WE GOT LOVE](https://open.spotify.com/album/6LAveITCLWKB6ewa9yGe1x) | 2:44 | 2022-12-17 |  |
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2022-12-17 |  |
+| [Your Love](https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Your Love](https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs) | 2:56 | 2023-01-20 |  |
 | [Your Love](https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Your Love](https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r) | 2:32 | 2022-12-17 |  |
 | [YOUR MIND](https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [YOUR MIND](https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4) | 2:55 | 2022-12-17 |  |
 

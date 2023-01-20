@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Hobbak Me'zi",
+        "url": "https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255117,
+      "name": "Hobbak Me'zi",
+      "url": "https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu"
+    },
+    {
+      "album": {
         "name": "Soft Colors",
         "url": "https://open.spotify.com/album/53cO9i0zAECACpepwOsz1q"
       },
@@ -5136,10 +5154,28 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 166666,
       "name": "WUSUL",
       "url": "https://open.spotify.com/track/7dCGZu3toTD8UPjZ8R0yRk"
+    },
+    {
+      "album": {
+        "name": "Ya Ana",
+        "url": "https://open.spotify.com/album/5S7WCHWsqQUdHzH9nKzTzN"
+      },
+      "artists": [
+        {
+          "name": "Banah",
+          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "Ya Ana",
+      "url": "https://open.spotify.com/track/7iXbIIEeBJLI89HDrn9V0s"
     },
     {
       "album": {
@@ -6748,7 +6784,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 262857,
       "name": "\u064a\u0627 \u0635\u0628\u0631 \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy"

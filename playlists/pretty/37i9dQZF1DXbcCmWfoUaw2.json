@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 2000s to boost your running session.",
-  "num_followers": 948644,
+  "num_followers": 949195,
   "original_name": "00s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzcyMCwwMDAwMDAwMDRlMjdjNDk0NmFmNjc2YjBlMTY2YWU0ZGU1ZjM0NDJi",
+  "snapshot_id": "MTY3Mjc1NzcyMCwwMDAwMDAwMDcxMzhlM2YyZDI3N2I1MjA1MWMxYzY0YjNjM2U0ODFh",
   "tracks": [
     {
       "added_at": "2023-01-03 14:55:20",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-01-03 14:55:20",
       "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "added_at": "2023-01-03 14:55:20",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
-    },
-    {
-      "added_at": "2023-01-03 14:55:20",
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2023-01-03 14:55:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,836 likes - 92 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,866 likes - 92 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 36 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 |
 | 37 | [Howlin' For You](https://open.spotify.com/track/66YQ2ghOLvlI2s8B4SqgzY) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:13 |
 | 38 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 |
-| 39 | [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 |
+| 39 | [Le Blues de Berthe](https://open.spotify.com/track/28iXFnKkDvYt7nl6L8mKw4) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/06xJD6ZhoyFwJBQUKs6vgd) | 2:00 |
 | 40 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 |
 | 41 | [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 |
 | 42 | [Berceuse](https://open.spotify.com/track/0q3aPiWc44Virg0YgBv55A) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:13 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 91 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 92 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDZmNzcyODliMmRmZGI3MTkwZTI0ZDQ3MjkwNTc4NDM4`
+Snapshot ID: `MTY3MzU2ODA2MCwwMDAwMDAwMDkyMDI4ODU2NTc3MTkxNWE3NzY4YTVhZDc1ODZkOTIw`

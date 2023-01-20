@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 250914,
+  "num_followers": 251129,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDg2ZTU5OTdmYWY3NTliZDZhMjU2OTUzNzRkYWI1Nzc0",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGU2ODRjOTliYWRkMDQ4YzJjNGYwMGMwZjJjNmNmM2Vi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+        "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
         }
       ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Yggdrasil",
-        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Blizzard",
-      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Ofelia",
-        "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Ofelia",
-      "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Compliance",
-        "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "Compliance",
-      "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Rock Ain't Dead",
         "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
       },
@@ -1071,18 +1039,34 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+        "name": "Compliance",
+        "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
       },
       "artists": [
         {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+      "duration_ms": 302950,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Ofelia",
+        "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "Ofelia",
+      "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "For the Beaten",
-        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 211450,
-      "name": "For the Beaten",
-      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "For the Beaten",
+        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 211450,
+      "name": "For the Beaten",
+      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Die H\u00f6lle muss warten",
+        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+      },
+      "artists": [
+        {
+          "name": "Eisbrecher",
+          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Verr\u00fcckt - Original Version",
+      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "TILL THE END",
         "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Die H\u00f6lle muss warten",
-        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
       "artists": [
         {
-          "name": "Eisbrecher",
-          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Verr\u00fcckt - Original Version",
-      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Industrial Machine Musick",
-        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
-      },
-      "artists": [
-        {
-          "name": "Die Krupps",
-          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "To The Hilt",
-      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Come Back to Life",
         "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 208917,
       "name": "Come Back to Life",
       "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Industrial Machine Musick",
+        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "To The Hilt",
+      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "A World Lit Only by Fire",
-        "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
-      },
-      "artists": [
-        {
-          "name": "Godflesh",
-          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Shut Me Down",
-      "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 380885,
       "name": "My Disintegration",
       "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "A World Lit Only by Fire",
+        "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
+      },
+      "artists": [
+        {
+          "name": "Godflesh",
+          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
     },
     {
       "added_at": "2023-01-13 05:00:00",

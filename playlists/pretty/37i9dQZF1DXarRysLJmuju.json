@@ -1,6 +1,6 @@
 {
   "description": "Keep up with all the latest pop hits. Featuring Sam Smith, Koffee and Canada\u2019s own Jessie Reyez.",
-  "num_followers": 497769,
+  "num_followers": 497798,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
@@ -1208,12 +1208,12 @@
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
           "name": "Shouse",
           "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
       "duration_ms": 178809,

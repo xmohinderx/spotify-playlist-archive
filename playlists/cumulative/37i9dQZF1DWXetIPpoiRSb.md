@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Reneé Rapp
 
-944 songs - 1 day 23 hr 33 min
+945 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,8 @@
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-14 | 2021-05-14 |
 | [One Day Left](https://open.spotify.com/track/52BgV5YV7PQ3u8DaM2amGP) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [One Day Left](https://open.spotify.com/album/03ZDIZy9LyQBKuDZDIrMeN) | 3:14 | 2020-10-13\* | 2020-11-28 |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-03 | 2022-12-10 |
-| [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-13 |  |
+| [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-13 | 2023-01-20 |
+| [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 | 2023-01-13 |  |
 | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4eHceQL93Re1ZiaY7kRZ7F) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4ZdRvkHcJzmDhweKxFdjUw) | 2:56 | 2020-12-05 | 2021-01-09 |
 | [Only Human](https://open.spotify.com/track/4hSrkHkhSDF2aNfdBp21ZY) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Only Human](https://open.spotify.com/album/43eillpnAaV3zXVRE6aXlL) | 2:15 | 2022-02-18 | 2022-04-15 |
 | [Only Me](https://open.spotify.com/track/31qtxgk7ZLIgXlKC2Izf0a) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Only Me](https://open.spotify.com/album/0TJYQaBMmhrv3XgNsZXJzu) | 3:46 | 2020-10-13\* | 2020-12-05 |

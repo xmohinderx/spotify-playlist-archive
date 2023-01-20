@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 352000,
       "name": "Africa",
       "url": "https://open.spotify.com/track/0S4zmSgNqpRepyCstQBH4F"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 207946,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 227466,
       "name": "It's a Shame",
       "url": "https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon"
@@ -1734,6 +1734,28 @@
       "duration_ms": 247309,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203152,
+      "name": "Let's Stay Together (feat. Daniela Maia)",
+      "url": "https://open.spotify.com/track/0j0fypZtR9WqBehhyRjDiu"
     },
     {
       "album": {
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 247292,
       "name": "Rude",
       "url": "https://open.spotify.com/track/2jz3QOQ5vZ37EeiGwFCiy6"
@@ -2733,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "Stayin\u00b4 Alive",
+        "url": "https://open.spotify.com/album/0CRqHi78ffOhz9nTlDmTtU"
+      },
+      "artists": [
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        },
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206988,
+      "name": "Stayin\u00b4 Alive",
+      "url": "https://open.spotify.com/track/12f2rs4Jf56qbyx1tdKdp4"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Nova Cover Hits",
         "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
@@ -2828,6 +2872,46 @@
       "duration_ms": 305511,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun"
+    },
+    {
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        },
+        {
+          "name": "Groove Da Praia",
+          "url": "https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Talking in Your Sleep - Bossa Nova Mix",
+      "url": "https://open.spotify.com/track/29FhrrmDlHJbtLYRTvznEc"
+    },
+    {
+      "album": {
+        "name": "Tape Loop",
+        "url": "https://open.spotify.com/album/7CVI0KLsgyGXVxh6VHlZaa"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Tape Loop",
+      "url": "https://open.spotify.com/track/7MskN2v3epm2MCxGxfD10G"
     },
     {
       "album": {
@@ -3106,7 +3190,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 201800,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
@@ -3274,6 +3358,28 @@
       "duration_ms": 260355,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2g2QcxEqthJXbm2HZ0n6v4"
+      },
+      "artists": [
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        },
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188385,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1xIbBG0sbYTo1fwxGFgz5m"
     },
     {
       "album": {

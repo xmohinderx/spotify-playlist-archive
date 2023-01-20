@@ -1,12 +1,12 @@
 {
   "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Nakhane",
-  "num_followers": 3903,
+  "num_followers": 3907,
   "original_name": "Pride Beyond Borders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMDJlNDE0ZjBhMWMyYTg0YmNjZjcwZjdiZDk1NDVkZDJm",
+  "snapshot_id": "MTY1ODI0MTk2NSwwMDAwMDAwMDcyMGNmZmYwYTBjNDlkNTY4ODJlZWU5ZDgzODYyZTQx",
   "tracks": [
     {
       "added_at": "2022-05-31 15:00:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "Vest & Boxers",
         "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K"
+      },
+      "artists": [
+        {
+          "name": "Patrik Jean",
+          "url": "https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1"
+        }
+      ],
+      "duration_ms": 206891,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "Green Line",
         "url": "https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K"
-      },
-      "artists": [
-        {
-          "name": "Patrik Jean",
-          "url": "https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1"
-        }
-      ],
-      "duration_ms": 206891,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "YouYouYou",
-        "url": "https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 183409,
-      "name": "YouYouYou",
-      "url": "https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "YouYouYou",
+        "url": "https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "YouYouYou",
+      "url": "https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "All My Love Is Coming Back To Me",
         "url": "https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 209126,
       "name": "All My Love Is Coming Back To Me",
       "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "HUNTER SCHAFER",
-        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "HUNTER SCHAFER",
-      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "HUNTER SCHAFER",
+        "url": "https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "HUNTER SCHAFER",
+      "url": "https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "cuando anochece",
         "url": "https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 157070,
       "name": "un chupito de ti",
       "url": "https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "Turned Heads",
-        "url": "https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        },
-        {
-          "name": "Janey Jack\u00e9",
-          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Turned Heads",
-      "url": "https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -951,6 +931,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "Damsel in Distress",
+        "url": "https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "More Than a Friend",
+      "url": "https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "Kalawakan",
         "url": "https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT"
       },
@@ -967,18 +963,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Damsel in Distress",
-        "url": "https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27"
+        "name": "Turned Heads",
+        "url": "https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX"
       },
       "artists": [
         {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Janey Jack\u00e9",
+          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
         }
       ],
-      "duration_ms": 175693,
-      "name": "More Than a Friend",
-      "url": "https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd"
+      "duration_ms": 142500,
+      "name": "Turned Heads",
+      "url": "https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "You're (Still) in Love",
         "url": "https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 260815,
       "name": "You're (Still) in Love",
       "url": "https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c"
     },
     {
       "added_at": "2022-05-31 15:00:52",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
-        "name": "EL ETERNO RETORNO",
-        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
-      },
-      "artists": [
-        {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
-        }
-      ],
-      "duration_ms": 230292,
-      "name": "si estuvie\u0301semos juntos",
-      "url": "https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd"
-      },
-      "artists": [
-        {
-          "name": "Edsun",
-          "url": "https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4"
-    },
-    {
-      "added_at": "2022-05-31 15:00:52",
-      "album": {
         "name": "slipping",
         "url": "https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7"
       },
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2022-05-31 15:00:52",
       "album": {
+        "name": "EL ETERNO RETORNO",
+        "url": "https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 230292,
+      "name": "si estuvie\u0301semos juntos",
+      "url": "https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
         "name": "Leo Punk",
         "url": "https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 163381,
       "name": "Semblante",
       "url": "https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH"
+    },
+    {
+      "added_at": "2022-05-31 15:00:52",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd"
+      },
+      "artists": [
+        {
+          "name": "Edsun",
+          "url": "https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4"
     },
     {
       "added_at": "2022-05-31 15:00:52",

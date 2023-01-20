@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,863 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,950 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 67 | [Bheegi Si Bhaagi Si \- Lofi Flip](https://open.spotify.com/track/01iMTLk72XWI6pCH2QZ3sR) | [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Bheegi Si Bhaagi Si \(Lofi Flip\)](https://open.spotify.com/album/1NsWZDKI3671SS425q0G53) | 3:06 |
 | 68 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 |
 | 69 | [Ik Vaari Aa Lofi Mix](https://open.spotify.com/track/07MacAZYafSc04kQ7FXdUe) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [DJ Yogii](https://open.spotify.com/artist/2kObkFKhEbrHb7cnSfrRw1) | [Ik Vaari Aa Lofi Mix](https://open.spotify.com/album/4lzBLmumQaldpdHvztjB1b) | 4:42 |
-| 70 | [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 |
+| 70 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 | 71 | [Raataan Chill Mix \- Spotify Singles \(Tanishk Bagchi, Jubin Nautiyal, Hanita Bhambri\)](https://open.spotify.com/track/0yIUl79oGZKSYeLY1KEOxP) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Raataan Chill Mix \[Spotify Singles \(Tanishk Bagchi, Jubin Nautiyal, Hanita Bhambri\)\]](https://open.spotify.com/album/0GV2kn3m9N9G79IjQkqzEn) | 2:34 |
 | 72 | [Andhere Mein](https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Andhere Mein](https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ) | 3:54 |
 | 73 | [Ek Ladki Ko Dekha Toh Aisa Laga \- LoFi](https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Lofi Chill Mix](https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 98 | [Habit \- Chill Mix](https://open.spotify.com/track/2V7vcrIWa5FlFB3dcxg32F) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Habit \- Chill Mix \- Single](https://open.spotify.com/album/58iaUALu3vmAgpzcCmjLAT) | 3:26 |
 | 99 | [Mera Dil Ye Pukare \- Tu Aaja \- Heartlock Mix](https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Heartlock](https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz) | [Mera Dil Ye Pukare \- Tu Aaja \(Heartlock Mix\)](https://open.spotify.com/album/313XQLTvs8g357smdl4S0j) | 2:02 |
 
-Snapshot ID: `MTY3Mzg2MTIxOCwwMDAwMDAwMDZlMTE2NGJiYjU2NGM5YTJjYWI2MmQ3ZTQyMTQzM2U4`
+Snapshot ID: `MTY3Mzg2MTIxOCwwMDAwMDAwMGM4NWUzNjQ3MjhjNjg2OTc3NzkyMzVkMWNiMDI0NzJi`

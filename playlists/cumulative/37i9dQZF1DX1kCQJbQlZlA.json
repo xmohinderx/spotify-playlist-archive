@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 320426,
       "name": "Con \u0110\u00ea Chung T\u00ecnh",
       "url": "https://open.spotify.com/track/50Fd5nnL0Cp7r1ULZTvXiW"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 299480,
       "name": "C\u00f4 n\u00e0ng th\u00f4n qu\u00ea",
       "url": "https://open.spotify.com/track/4rxMxFrrbTzMkNcdPSQRyc"
@@ -973,6 +973,28 @@
     },
     {
       "album": {
+        "name": "M\u00f9a Xu\u00e2n C\u01b0\u1edbi Em",
+        "url": "https://open.spotify.com/album/5DNQmD73vZzWYuw3awtete"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+        },
+        {
+          "name": "Nguyen Trung",
+          "url": "https://open.spotify.com/artist/4qCdRvNpf5Z8HuwkOmut3U"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272953,
+      "name": "M\u00f9a Xu\u00e2n C\u01b0\u1edbi Em",
+      "url": "https://open.spotify.com/track/2hxAU5CkZJemn0D6TAHrhR"
+    },
+    {
+      "album": {
         "name": "T\u1ebft X\u01b0a",
         "url": "https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0"
       },
@@ -1339,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "B\u00e0i Ca T\u1ebft Cho Em",
+        "url": "https://open.spotify.com/album/2n5hjxmiDk3FEpboumZX5s"
+      },
+      "artists": [
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235933,
+      "name": "Qu\u00ea H\u01b0\u01a1ng M\u00f9a Xu\u00e2n",
+      "url": "https://open.spotify.com/track/64gYBT1eCNEZMmmAoqSDMF"
+    },
+    {
+      "album": {
         "name": "Qu\u00ea",
         "url": "https://open.spotify.com/album/6zSqb6sSVNRZooMkkqWFgt"
       },
@@ -1376,6 +1416,24 @@
       "duration_ms": 236408,
       "name": "R\u01b0\u1edbc T\u00ecnh V\u1ec1 V\u1edbi Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD"
+    },
+    {
+      "album": {
+        "name": "R\u01b0\u1edbc Xu\u00e2n V\u1ec1 Nh\u00e0",
+        "url": "https://open.spotify.com/album/6vVdyWfN3RvD7wkF2cF1Nq"
+      },
+      "artists": [
+        {
+          "name": "Huong Thuy",
+          "url": "https://open.spotify.com/artist/7uSNudh9nTnHLyfs6uQqFv"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "R\u01b0\u1edbc Xu\u00e2n V\u1ec1 Nh\u00e0",
+      "url": "https://open.spotify.com/track/6PARBXdjF6JAfwFhWHbmUP"
     },
     {
       "album": {
@@ -1848,7 +1906,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 189696,
       "name": "Xin M\u00e1 R\u01b0\u1edbc D\u00e2u",
       "url": "https://open.spotify.com/track/1QTCx7A0IKTjUMTqlCHfQr"

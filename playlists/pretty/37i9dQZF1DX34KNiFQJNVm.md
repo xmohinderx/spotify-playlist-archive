@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado com Xand Avião, Luccas Carlos, Melim, Grupo Revelação e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821,309 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,994 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [Assaltante \- Ao Vivo](https://open.spotify.com/track/6vZVnIFhUpRuEhyRddDQuI) | [Felipe Nunes](https://open.spotify.com/artist/4wyNa7r8520lzGB4OikH26), [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro) | [Assaltante \(Ao Vivo\)](https://open.spotify.com/album/0o9Fic03wIlAyjxMLkWXFA) | 3:06 |
 | 29 | [Vida Bandida](https://open.spotify.com/track/2nPRXHWbH4CEn9INWn91Uj) | [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Tiél](https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4) | [Vida Bandida](https://open.spotify.com/album/3rjKkK2dBZGj3Dx1msWGKe) | 2:08 |
 | 30 | [A Porra do Amor](https://open.spotify.com/track/3xna1VUISnFABQmkcXSGUH) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Um Novo Ciclo, Vol\. 1](https://open.spotify.com/album/16VhUg1rjc9HjE3pOM2Wsn) | 2:35 |
-| 31 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
+| 31 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/2DoMETGKcN6LiOUTbigNgs) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Foguete Não Tem Ré \(Ao Vivo\)](https://open.spotify.com/album/75DoChMx25gB3AHFxOaojF) | 3:48 |
 | 32 | [Óculos Escuros](https://open.spotify.com/track/5r4bykDRAKzItv1STWGnMv) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Óculos Escuros](https://open.spotify.com/album/3MKel4OhiPai0OI5qOCvdK) | 2:36 |
 | 33 | [Inofensivo](https://open.spotify.com/track/2DWAUQxaYMc45wp4KuvOR5) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Inofensivo](https://open.spotify.com/album/1jRFFyeNECtQ64yXJAZzXP) | 2:47 |
 | 34 | [Tem Amor Aí \- Ao Vivo](https://open.spotify.com/track/5By0SjWrxZVtelHoJ6fjVv) | [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Esqueminha Mc Bola, Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/23Ayci8B8oR2kPKhFN0eas) | 3:09 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
 | 42 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP) | 5:10 |
 | 43 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 |
-| 44 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 |
+| 44 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 |
 | 45 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 46 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
 | 47 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 |
 | 75 | [Xodózinho](https://open.spotify.com/track/1sqZzC7PINFTy3lUoeWfAS) | [Mc Sara](https://open.spotify.com/artist/7kQ9YpBhqes4SIVYWO99Cc) | [Xodózinho](https://open.spotify.com/album/6kFfWI2832i7uJSFaF3C2H) | 2:58 |
 
-Snapshot ID: `MTY3Mzg3NjAzOSwwMDAwMDAwMGM2ZjEwNGZiZGI3YzA1YjYzZmJkZTM1NDU1OTczODli`
+Snapshot ID: `MTY3Mzg3NjAzOSwwMDAwMDAwMDIyYjhlMmFkNDk0NmNhZDM4YjQyMzU3N2IxYWFkNTUy`

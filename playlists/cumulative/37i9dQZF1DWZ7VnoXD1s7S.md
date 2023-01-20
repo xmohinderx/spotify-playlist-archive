@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-95 songs - 4 hr 34 min
+96 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [backroom labyrinth](https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [backroom labyrinth](https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk) | 2:48 | 2022-08-22 | 2022-08-24 |
 | [Best of Luck](https://open.spotify.com/track/4UwwTjYElB7ODGfPXQzURF) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Best of Luck \(From the Film "Velocity"\)](https://open.spotify.com/album/7JREhlt7IIkD2mCr3Gwr5E) | 1:51 | 2022-12-16 |  |
 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 | 2022-08-22 | 2023-01-05 |
+| [Bleached](https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu) | [Video Days](https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe) | [sungazing](https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM) | 1:23 | 2023-01-19 |  |
 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 | 2022-08-22 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-08-22 |  |
 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2022-08-22 | 2022-08-24 |

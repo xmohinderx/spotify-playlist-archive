@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=\_C6sSLVRQEy7zkFbaZTbtg">JAN JAN JAN</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=ZiQJBFcvQMSwekMdi68KoA">VAN WEST</a>
 
-204 songs - 11 hr 30 min
+206 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ai My Lam](https://open.spotify.com/track/2M9WfhGsONl31AMQNzwfsL) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Karma](https://open.spotify.com/album/6cOyQSFsQXloDTCZpB0s6n) | 3:52 | 2022-12-27 | 2023-01-02 |
 | [Alledaags](https://open.spotify.com/track/6NpfpVIKxbOpkH4hEHgWmR) | [Deon Meiring](https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby), [Janca Smit](https://open.spotify.com/artist/4kIgLqrrFsze5qNKkEzXP6) | [Alledaags](https://open.spotify.com/album/1wvkJ0pO8sLxBpROj36yIV) | 3:46 | 2022-11-04 | 2022-11-25 |
 | [Alles](https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj) | [Dani Villé](https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE) | [Alles](https://open.spotify.com/album/3y6DJQFdkjfuLwKu2RhV43) | 3:42 | 2022-12-15 |  |
+| [Alweer](https://open.spotify.com/track/7yottsQJIaArBTpeRnvMNJ) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Alweer](https://open.spotify.com/album/1TkhtDNjO0gWlPfFA1Ygxq) | 2:20 | 2023-01-19 |  |
 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 | 2022-12-08 |  |
 | [Anker](https://open.spotify.com/track/2ROWosGgtaTatGEngpoA4N) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Anker](https://open.spotify.com/album/7N2WwkWNREHJxjrCOEQpIv) | 3:20 | 2022-09-15 | 2022-10-14 |
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 |  |
@@ -59,7 +60,7 @@
 | [Ek Sweer](https://open.spotify.com/track/0bKQ30YXdpjZ6eT29K0c1z) | [Twee](https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG) | [Piekniek Vir Twee](https://open.spotify.com/album/2N1ph4s0uznzZ2ImoTXGig) | 3:46 | 2022-12-27 | 2023-01-02 |
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 |  |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 |  |
-| [En Dan Dans Ons \- Radio Edit](https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [En Dan Dans Ons \(Radio Edit\)](https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r) | 3:25 | 2022-12-01 |  |
+| [En Dan Dans Ons \- Radio Edit](https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [En Dan Dans Ons \(Radio Edit\)](https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r) | 3:25 | 2022-12-01 | 2023-01-20 |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 |  |
 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-27 |  |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-28 |
@@ -131,6 +132,7 @@
 | [Nie Jou X Nie](https://open.spotify.com/track/2Ab4XQ1X0m84s3LzC93MSk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 2:41 | 2022-12-27 | 2023-01-02 |
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2022-12-27 | 2023-01-02 |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
+| [Nuwe Reise](https://open.spotify.com/track/6irJs3wXpfMJBwPsx6BZUP) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Nuwe Reise](https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4) | 2:42 | 2023-01-19 |  |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 |  |
 | [Offer](https://open.spotify.com/track/6w0UXamP4sELz3IwCLjuBD) | [Deon Meiring](https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby) | [Gebede en Briewe](https://open.spotify.com/album/0h7ENh7K1ly6aixL9MHMxO) | 3:21 | 2022-11-10 | 2022-11-18 |
 | [Omdat Ek Wil](https://open.spotify.com/track/2TWndTxyjLy5pvbMTJdIcE) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Omdat Ek Wil](https://open.spotify.com/album/4Wp8xJhzrziBGnWukuiqbt) | 3:08 | 2022-09-29 | 2022-10-14 |
@@ -146,7 +148,7 @@
 | [Plett My Net](https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Plett My Net](https://open.spotify.com/album/0LhQ4Tkw4D4GzcmrbPa66Z) | 3:23 | 2022-11-17 |  |
 | [Rebecca](https://open.spotify.com/track/5yn1CzR0QkcTV5ep55LJk9) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Bring Hulde Aan Worsie Visser](https://open.spotify.com/album/2Izp94W5WvCT0JNamQErdq) | 2:41 | 2022-12-27 | 2023-01-02 |
 | [Roeper Van My Hart](https://open.spotify.com/track/5PJoSGqZHJK9MEInMbyySV) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4) | [Roeper](https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz) | 3:50 | 2022-12-27 | 2023-01-02 |
-| [Rooi Bos](https://open.spotify.com/track/5aAa1nEMTRNlvDrziA5l6e) | [Jako Meyer](https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6) | [Rooi Bos](https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands) | 2:52 | 2022-12-01 |  |
+| [Rooi Bos](https://open.spotify.com/track/5aAa1nEMTRNlvDrziA5l6e) | [Jako Meyer](https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6) | [Rooi Bos](https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands) | 2:52 | 2022-12-01 | 2023-01-20 |
 | [Rooi Lippe](https://open.spotify.com/track/2lsq1swqdWcKNE0r96ocIF) | [ADAM](https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt) | [Rooi Lippe](https://open.spotify.com/album/243SEBUrcPNQ0w8k67yWBO) | 3:12 | 2022-10-06 | 2022-11-11 |
 | [Ry of Bly](https://open.spotify.com/track/311QQk1V1MiuEC4qB5CR50) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Ry of Bly](https://open.spotify.com/album/1eQn9GTE2K0S6BlqHNDBPO) | 3:46 | 2022-08-11 | 2022-10-07 |
 | [SAL JY SAAM MY KOM?](https://open.spotify.com/track/5nLw0PhyNy5X6LicJiJCrn) | [TIPPEX](https://open.spotify.com/artist/0TzP8Rn8NcVR5ZpFQWfrVx), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [SAL JY SAAM MY KOM?](https://open.spotify.com/album/6Jn6EcXrzNFvImo092rpvd) | 3:00 | 2022-11-17 | 2022-11-25 |

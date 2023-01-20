@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 163373,
       "name": "Club404",
       "url": "https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 163727,
       "name": "Club404",
       "url": "https://open.spotify.com/track/2m4A0JpCC4IMLD5RDVZLMv"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Conclusions",
+        "url": "https://open.spotify.com/album/1BKqVuITpB1tSBlxTZCtWX"
+      },
+      "artists": [
+        {
+          "name": "Elvaka",
+          "url": "https://open.spotify.com/artist/3hY8LSEpccoTSfR8KWjJBE"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104470,
+      "name": "Conclusions",
+      "url": "https://open.spotify.com/track/3i9AGr31OTTym77Mzev1Qz"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum"
       },
@@ -644,10 +662,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 137697,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ"
+    },
+    {
+      "album": {
+        "name": "Cut a Rug",
+        "url": "https://open.spotify.com/album/3JFp7UL5zWsXWVBpp7fjZ2"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198025,
+      "name": "Cut a Rug",
+      "url": "https://open.spotify.com/track/5GjAB6xggsDZyAoupbD7pn"
     },
     {
       "album": {
@@ -720,7 +756,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 78001,
       "name": "Distorcido",
       "url": "https://open.spotify.com/track/1veEROQqh83r67W1gthulY"
@@ -764,6 +800,24 @@
       "duration_ms": 215000,
       "name": "Ed\u00e9n",
       "url": "https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/2jugoFHJTnh2ImByqF2mZ3"
+      },
+      "artists": [
+        {
+          "name": "BLUE STEEL",
+          "url": "https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150847,
+      "name": "ELECTRICITY",
+      "url": "https://open.spotify.com/track/0DlOpwlheQMUoOx0f5euC8"
     },
     {
       "album": {
@@ -854,7 +908,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 148837,
       "name": "Est",
       "url": "https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A"
@@ -872,7 +926,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 190638,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1IvwJ7EdCOCHPpjN6p1Zkl"
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 137168,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9"
@@ -2790,6 +2844,24 @@
       "duration_ms": 144000,
       "name": "Tenfold",
       "url": "https://open.spotify.com/track/0qAtNFoHtl9eeS4Ztkcy9u"
+    },
+    {
+      "album": {
+        "name": "The Bait",
+        "url": "https://open.spotify.com/album/4vqYl1faPjiqx6NN0Zflox"
+      },
+      "artists": [
+        {
+          "name": "Azucares",
+          "url": "https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "The Bait",
+      "url": "https://open.spotify.com/track/52lba8ChKV0BUlHQ2ZVmKJ"
     },
     {
       "album": {

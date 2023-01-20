@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, I Botanici! E nuovi brani di Yonic South, Colla e tanti altri.",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, CASX!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "ANITA",
+        "url": "https://open.spotify.com/album/2WwGx8eZEI31EEaqAlpqyP"
+      },
+      "artists": [
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218188,
+      "name": "ANITA",
+      "url": "https://open.spotify.com/track/0Q7PJdV8DZkXs0bwk5LMKM"
+    },
+    {
+      "album": {
         "name": "Ansia Capitale",
         "url": "https://open.spotify.com/album/2uGVlSPYAyexEmyNJQa15H"
       },
@@ -333,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Atropina",
+        "url": "https://open.spotify.com/album/7qADw2zJVhmnNfpjV68huL"
+      },
+      "artists": [
+        {
+          "name": "Feava",
+          "url": "https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275115,
+      "name": "Atropina",
+      "url": "https://open.spotify.com/track/41720wkLjBsUQfdqxfLzUe"
+    },
+    {
+      "album": {
         "name": "Stress",
         "url": "https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY"
       },
@@ -380,10 +416,28 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 195332,
       "name": "Bar Adriana",
       "url": "https://open.spotify.com/track/1168KypL7NOio4ccumuODe"
+    },
+    {
+      "album": {
+        "name": "Cosmic Res",
+        "url": "https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP"
+      },
+      "artists": [
+        {
+          "name": "C+C=Maxigross",
+          "url": "https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Battelli ebbri",
+      "url": "https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs"
     },
     {
       "album": {
@@ -524,7 +578,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 195947,
       "name": "Bobby Eroina",
       "url": "https://open.spotify.com/track/5pjGcNO7ByZqoI95De96TG"
@@ -1324,7 +1378,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 122790,
       "name": "DIO",
       "url": "https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv"
@@ -1844,7 +1898,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 196241,
       "name": "Gay division",
       "url": "https://open.spotify.com/track/3IcAYELBteC0J76y30biJV"
@@ -2122,7 +2176,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 262643,
       "name": "Ice Age",
       "url": "https://open.spotify.com/track/1iBTutx1nwO5oijV0X9vIX"
@@ -2394,6 +2448,24 @@
       "duration_ms": 245280,
       "name": "Kawasaki, Vol. 1",
       "url": "https://open.spotify.com/track/2095aCnjEciEBnu5t72XXK"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5x5SLbDOVv2HMBmillgSdV"
+      },
+      "artists": [
+        {
+          "name": "Forty Winks",
+          "url": "https://open.spotify.com/artist/3CYhQGDlNto80C0SM6snJD"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124990,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/4u8gdATR26AY9kIJ2hQ9OD"
     },
     {
       "album": {
@@ -3396,7 +3468,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 377967,
       "name": "Pem Pem (Io sono Elettra e faccio)",
       "url": "https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH"
@@ -3533,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Prendi fiato",
+        "url": "https://open.spotify.com/album/5cSk1qshG0piAAa6AV8dfh"
+      },
+      "artists": [
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219098,
+      "name": "Prendi fiato",
+      "url": "https://open.spotify.com/track/1c1WcyaR6YXifL2XxHX1xV"
+    },
+    {
+      "album": {
         "name": "Prigionia",
         "url": "https://open.spotify.com/album/1txqMh7EDjj3V1yJwHmafr"
       },
@@ -3562,7 +3652,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 313060,
       "name": "Pripyat",
       "url": "https://open.spotify.com/track/4nj2V5hIvuDqC3naDe6JA2"
@@ -4046,7 +4136,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 147014,
       "name": "SOS",
       "url": "https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw"
@@ -4603,6 +4693,42 @@
     },
     {
       "album": {
+        "name": "TRANNE LA MIA",
+        "url": "https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "TRANNE LA MIA",
+      "url": "https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm"
+    },
+    {
+      "album": {
+        "name": "Trieste",
+        "url": "https://open.spotify.com/album/4dFLDQmGDnE2nF2vKrcMQx"
+      },
+      "artists": [
+        {
+          "name": "Lill\u00e0",
+          "url": "https://open.spotify.com/artist/6NU3vPwjlPTMi5g8SkV9WU"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Trieste",
+      "url": "https://open.spotify.com/track/6QUSKBtEtHK1cC8yW1TkOu"
+    },
+    {
+      "album": {
         "name": "Turnover",
         "url": "https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe"
       },
@@ -4856,6 +4982,24 @@
       "duration_ms": 200173,
       "name": "Vita su Marte",
       "url": "https://open.spotify.com/track/40HYN8CnWJ39IeG67MXXHy"
+    },
+    {
+      "album": {
+        "name": "Vivere",
+        "url": "https://open.spotify.com/album/6OC3tvuZNIEAmp9bI4GRZA"
+      },
+      "artists": [
+        {
+          "name": "Nudha",
+          "url": "https://open.spotify.com/artist/0qW2PRyNIbZBtm6enEWjqE"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163297,
+      "name": "Vivere",
+      "url": "https://open.spotify.com/track/5PtPrzMuJIVn5wgMTiZbBs"
     },
     {
       "album": {

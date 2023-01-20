@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Thunivu
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,477 likes - 83 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,946 likes - 83 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 16 | [Yengengum Vaanam \- From "Rangoli"](https://open.spotify.com/track/1HeF0eZchmqA0qXkt3UiO5) | [Sundaramurthy K.S.](https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Yengengum Vaanam \(From "Rangoli"\)](https://open.spotify.com/album/6vR5WGHX2aG4VCapzaY9Cm) | 4:06 |
 | 17 | [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 |
 | 18 | [Adiye Raasaathi \- From "Bommai Nayagi"](https://open.spotify.com/track/59LiyA1Bjlv7fcZFm5sWSp) | [Sundaramurthy K.S.](https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6) | [Adiye Raasaathi \(From "Bommai Nayagi"\)](https://open.spotify.com/album/0Mk0Yx0C8DPPqF2XrWP0ms) | 4:51 |
-| 19 | [Goppurane Goppurane \(From "Kannagi"\)](https://open.spotify.com/track/7ntGpdFgWRVlGcKdnJDUxW) | [Srinidhi](https://open.spotify.com/artist/6PspEXKcV5JQKcWcye7DNS) | [Goppurane Goppurane \(From "Kannagi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0o1GBlptCZezsP3IcAYOpJ) | 4:56 |
+| 19 | [Goppurane Goppurane \(From "Kannagi"\)](https://open.spotify.com/track/7ntGpdFgWRVlGcKdnJDUxW) | [Srinidhi Sriprakash](https://open.spotify.com/artist/7kdKX29w5XfgJKIe15PSxd) | [Goppurane Goppurane \(From "Kannagi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0o1GBlptCZezsP3IcAYOpJ) | 4:56 |
 | 20 | [Paniththuli](https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Raangi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20nZf9JmukKgEA5dlqiYED) | 4:06 |
 | 21 | [Vandhaale Vandhaale \(From "Irumban"\)](https://open.spotify.com/track/03ZDpHRVGdD0shLI3nv3zj) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh) | [Vandhaale Vandhaale \(From "Irumban"\) \- Single](https://open.spotify.com/album/4tOK9xDdBKGgufdDi34kkY) | 3:42 |
 | 22 | [Kammangkoozhu Karuvadu \(From "Sembi"\)](https://open.spotify.com/track/4u3vaDzwylP71epIzYzAw4) | [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Ilayakamban](https://open.spotify.com/artist/76fKTL3a0lFkfV9I75X49V) | [Kammangkoozhu Karuvadu \(From "Sembi"\) \- Single](https://open.spotify.com/album/4FwBzzN9rHm5nOxHw5zpfz) | 3:02 |

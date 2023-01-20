@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21136,
+  "num_followers": 21134,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAxMTYsYjQ4NzJjMDVhN2I1YmVkYmU2Mzc3Mzg4N2RjM2Q3YTdlZDY0Y2EwYw==",
+  "snapshot_id": "MTAxNDMsZDNmNGQzY2NiY2E0Y2QwN2Y0ZWRmYmVhZTdlMTUyYTE3N2NhNWI2NQ==",
   "tracks": [
     {
       "added_at": "2023-01-11 20:20:38",
@@ -29,24 +29,36 @@
       "url": "https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0"
     },
     {
-      "added_at": "2023-01-11 20:20:10",
+      "added_at": "2023-01-19 18:06:57",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e"
+        "name": "Holding Me Like Water",
+        "url": "https://open.spotify.com/album/0h1dy10B22tfqpTw4iKG2M"
       },
       "artists": [
         {
-          "name": "Taylor Kade",
-          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/1YUxhMsagttgRockQyd58z"
+      "duration_ms": 236834,
+      "name": "Holding Me Like Water",
+      "url": "https://open.spotify.com/track/4syc4i3rzqFprXY951pnNl"
+    },
+    {
+      "added_at": "2023-01-19 18:37:12",
+      "album": {
+        "name": "Wanted More",
+        "url": "https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj"
+      },
+      "artists": [
+        {
+          "name": "XANU",
+          "url": "https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN"
+        }
+      ],
+      "duration_ms": 175441,
+      "name": "Wanted More",
+      "url": "https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3"
     },
     {
       "added_at": "2022-12-02 16:45:58",
@@ -159,6 +171,26 @@
       "duration_ms": 283636,
       "name": "END-LE77",
       "url": "https://open.spotify.com/track/5FbY1gyzhiSoBBD0ynX5AT"
+    },
+    {
+      "added_at": "2023-01-11 20:20:10",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e"
+      },
+      "artists": [
+        {
+          "name": "Taylor Kade",
+          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1YUxhMsagttgRockQyd58z"
     },
     {
       "added_at": "2022-11-03 15:32:45",
@@ -781,22 +813,6 @@
       "url": "https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC"
     },
     {
-      "added_at": "2022-09-17 00:24:14",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
       "added_at": "2022-06-29 04:11:57",
       "album": {
         "name": "Touch (feat. Rromarin)",
@@ -911,22 +927,6 @@
       "duration_ms": 210857,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg"
-    },
-    {
-      "added_at": "2022-11-11 16:50:34",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/0l1JgfeVpRKaF9Hd04fApo"
     },
     {
       "added_at": "2022-11-22 19:08:54",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
-      "added_at": "2022-06-24 17:30:03",
-      "album": {
-        "name": "Kiss Me Like I'm Drowning",
-        "url": "https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w"
-      },
-      "artists": [
-        {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Kiss Me Like I'm Drowning",
-      "url": "https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx"
-    },
-    {
       "added_at": "2022-06-24 17:34:18",
       "album": {
         "name": "Movin' On",
@@ -1693,22 +1677,6 @@
       "url": "https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1"
     },
     {
-      "added_at": "2022-06-29 04:06:13",
-      "album": {
-        "name": "Pool Party",
-        "url": "https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM"
-    },
-    {
       "added_at": "2022-06-29 04:16:50",
       "album": {
         "name": "Wide Awake (feat. Charlie Houston)",
@@ -1767,62 +1735,6 @@
       "duration_ms": 216410,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
-    },
-    {
-      "added_at": "2022-07-01 15:36:16",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2022-07-01 15:46:14",
-      "album": {
-        "name": "Forever and Ever",
-        "url": "https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm"
-      },
-      "artists": [
-        {
-          "name": "Kilter",
-          "url": "https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ"
-        },
-        {
-          "name": "Brain Flowers",
-          "url": "https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G"
-        }
-      ],
-      "duration_ms": 232575,
-      "name": "Forever and Ever",
-      "url": "https://open.spotify.com/track/6LQvXuT1B693YJ32QqoOd4"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Best Part About You",
-      "url": "https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa"
     },
     {
       "added_at": "2022-07-07 16:15:46",
@@ -1953,22 +1865,6 @@
       "url": "https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL"
     },
     {
-      "added_at": "2022-07-19 19:23:45",
-      "album": {
-        "name": "Oh Naur",
-        "url": "https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I"
-      },
-      "artists": [
-        {
-          "name": "Yung Skrrt",
-          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
-        }
-      ],
-      "duration_ms": 78832,
-      "name": "Oh Naur",
-      "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
-    },
-    {
       "added_at": "2022-07-21 20:49:51",
       "album": {
         "name": "Dusk",
@@ -2045,26 +1941,6 @@
       "url": "https://open.spotify.com/track/7311fH65MZV550TYVwRfFG"
     },
     {
-      "added_at": "2022-07-29 04:31:15",
-      "album": {
-        "name": "Ten Years",
-        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
-      },
-      "artists": [
-        {
-          "name": "Win and Woo",
-          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 147753,
-      "name": "All This Motion (with Louis the Child)",
-      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
-    },
-    {
       "added_at": "2022-07-29 21:45:29",
       "album": {
         "name": "Chasing Paradise (with slenderbodies)",
@@ -2101,38 +1977,6 @@
       "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
     },
     {
-      "added_at": "2022-08-12 23:22:02",
-      "album": {
-        "name": "love ya",
-        "url": "https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv"
-      },
-      "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        }
-      ],
-      "duration_ms": 187740,
-      "name": "love ya",
-      "url": "https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET"
-    },
-    {
-      "added_at": "2022-08-15 19:46:38",
-      "album": {
-        "name": "Return To Form",
-        "url": "https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX"
-      },
-      "artists": [
-        {
-          "name": "StayLoose",
-          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/2ZPgXDbzIozq6pprS2FWrw"
-    },
-    {
       "added_at": "2022-08-17 20:34:23",
       "album": {
         "name": "Change of Pace",
@@ -2151,22 +1995,6 @@
       "duration_ms": 236800,
       "name": "Change of Pace",
       "url": "https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau"
-    },
-    {
-      "added_at": "2022-08-19 15:50:26",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/3utFW4iaHUTEV6MjTqQnE0"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 310373,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/4WlZdEHBzXXEAzxhtDR9H2"
     },
     {
       "added_at": "2022-08-19 21:43:14",
@@ -2209,26 +2037,6 @@
       "url": "https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1"
     },
     {
-      "added_at": "2022-09-16 23:54:08",
-      "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
-    },
-    {
       "added_at": "2022-09-16 23:54:24",
       "album": {
         "name": "Get Your Money (feat. Theophilus London)",
@@ -2269,26 +2077,6 @@
       "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
     },
     {
-      "added_at": "2022-10-09 20:13:27",
-      "album": {
-        "name": "Like Me (feat. Hooli)",
-        "url": "https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH"
-      },
-      "artists": [
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        },
-        {
-          "name": "Hooli",
-          "url": "https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Like Me (feat. Hooli)",
-      "url": "https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9"
-    },
-    {
       "added_at": "2022-10-19 14:49:19",
       "album": {
         "name": "Spirit On Mine (feat. Luck)",
@@ -2309,22 +2097,6 @@
       "url": "https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE"
     },
     {
-      "added_at": "2022-10-20 01:53:00",
-      "album": {
-        "name": "Joan",
-        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Joan",
-      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
-    },
-    {
       "added_at": "2022-10-27 15:59:03",
       "album": {
         "name": "That Place",
@@ -2343,26 +2115,6 @@
       "duration_ms": 230084,
       "name": "That Place",
       "url": "https://open.spotify.com/track/4OVBM7qNnMQytRrdQ0jeSj"
-    },
-    {
-      "added_at": "2022-10-27 17:11:22",
-      "album": {
-        "name": "Chain Reaction (feat. GiGi Grombacher)",
-        "url": "https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd"
-      },
-      "artists": [
-        {
-          "name": "Callie Reiff",
-          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Chain Reaction (feat. GiGi Grombacher)",
-      "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
     },
     {
       "added_at": "2022-11-04 23:47:16",
@@ -2433,22 +2185,6 @@
       "url": "https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X"
     },
     {
-      "added_at": "2022-11-11 16:38:51",
-      "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
-      },
-      "artists": [
-        {
-          "name": "La Favi",
-          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
-        }
-      ],
-      "duration_ms": 178056,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK"
-    },
-    {
       "added_at": "2022-11-18 16:32:12",
       "album": {
         "name": "Weatherman",
@@ -2471,42 +2207,6 @@
       "duration_ms": 290543,
       "name": "Weatherman (feat. Syd Silvair)",
       "url": "https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6"
-    },
-    {
-      "added_at": "2022-11-18 21:03:59",
-      "album": {
-        "name": "Night Spot (feat. B Che)",
-        "url": "https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ"
-      },
-      "artists": [
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        },
-        {
-          "name": "B Che",
-          "url": "https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN"
-        }
-      ],
-      "duration_ms": 180230,
-      "name": "Night Spot (feat. B Che)",
-      "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
-    },
-    {
-      "added_at": "2022-11-19 01:16:42",
-      "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
     },
     {
       "added_at": "2022-11-19 01:17:30",
@@ -2559,26 +2259,6 @@
       "duration_ms": 251913,
       "name": "Crave Me",
       "url": "https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF"
-    },
-    {
-      "added_at": "2022-12-02 17:02:08",
-      "album": {
-        "name": "Never Be The Same (feat. Paige Duch\u00e9)",
-        "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
-      },
-      "artists": [
-        {
-          "name": "Nitro Fun",
-          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
-        },
-        {
-          "name": "Paige Duch\u00e9",
-          "url": "https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws"
-        }
-      ],
-      "duration_ms": 162663,
-      "name": "Never Be The Same (feat. Paige Duch\u00e9)",
-      "url": "https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY"
     },
     {
       "added_at": "2022-12-02 18:19:00",
@@ -2691,6 +2371,38 @@
       "duration_ms": 168000,
       "name": "You",
       "url": "https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG"
+    },
+    {
+      "added_at": "2023-01-19 18:07:12",
+      "album": {
+        "name": "Grid Lines",
+        "url": "https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd"
+      },
+      "artists": [
+        {
+          "name": "Shae District",
+          "url": "https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX"
+        }
+      ],
+      "duration_ms": 377704,
+      "name": "Grid Lines",
+      "url": "https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x"
+    },
+    {
+      "added_at": "2023-01-19 18:07:26",
+      "album": {
+        "name": "Emphasis",
+        "url": "https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Emphasis",
+      "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
     }
   ],
   "unique_name": "Moving Castle Monthly",

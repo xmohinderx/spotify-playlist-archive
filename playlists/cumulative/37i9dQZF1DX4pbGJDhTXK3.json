@@ -319,6 +319,32 @@
     },
     {
       "album": {
+        "name": "Breathe (Qrion Remix)",
+        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271686,
+      "name": "Breathe - Qrion Remix",
+      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
+    },
+    {
+      "album": {
         "name": "Byen",
         "url": "https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD"
       },
@@ -826,7 +852,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 387760,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
@@ -1900,7 +1926,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 424462,
       "name": "Tidl\u00f8s - Kohib Remix",
       "url": "https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k"
@@ -1962,6 +1988,24 @@
       "duration_ms": 398415,
       "name": "Tripping Beauty",
       "url": "https://open.spotify.com/track/0YvC2wMznW20VAwcRwDpKj"
+    },
+    {
+      "album": {
+        "name": "twilight sparkle",
+        "url": "https://open.spotify.com/album/2pRRGrzD7blOYqIlhB1rNr"
+      },
+      "artists": [
+        {
+          "name": "dragongirl",
+          "url": "https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165130,
+      "name": "twilight sparkle",
+      "url": "https://open.spotify.com/track/20kF9KW9Wh4iOv6FycpBKq"
     },
     {
       "album": {

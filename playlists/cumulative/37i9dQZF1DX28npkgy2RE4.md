@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-375 songs - 23 hr 8 min
+376 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-07-11 |  |
 | [Chain Reaction](https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 3:20 | 2021-11-12 | 2022-07-09 |
 | [Cigarette \- 7 Layers Session](https://open.spotify.com/track/08Pul3vjCGeOzn0w0Z39yX) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/4pf9ADV26KLtvqn5X19t5j) | 1:56 | 2021-11-12 | 2022-06-01 |
+| [Cigarette \- 7 Layers Session](https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm) | 1:56 | 2022-12-12 |  |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2021-11-12 | 2022-07-03 |
 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 | 2022-05-25 | 2022-07-27 |
 | [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 | 2022-09-19 |
@@ -159,7 +160,7 @@
 | [Holding to the Edge of Night](https://open.spotify.com/track/2xQRU3yzgKLWePziCfk4JC) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Holding to the Edge of Night](https://open.spotify.com/album/179Hyos6TP14mIZAMplcaI) | 4:43 | 2021-11-12 | 2022-07-29 |
 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 | 2022-04-01 | 2022-04-21 |
 | [Hope Dreams](https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Hope Dreams](https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD) | 4:42 | 2021-11-12 | 2022-06-12 |
-| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 |  |
+| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 | 2023-01-20 |
 | [Hot Heavy Summer](https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Another Friday Night / Hot Heavy Summer / Sister](https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa) | 3:49 | 2021-11-12 |  |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-05-25 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2021-11-12 | 2022-04-19 |

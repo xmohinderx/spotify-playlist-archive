@@ -1,13 +1,45 @@
 {
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=_C6sSLVRQEy7zkFbaZTbtg\">JAN JAN JAN</a>",
-  "num_followers": 5269,
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=ZiQJBFcvQMSwekMdi68KoA\">VAN WEST</a>",
+  "num_followers": 5289,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDc0MCwwMDAwMDAwMGMzOTFkZTU3ZGI0YTFmNTVhYjY4YzAxNDI2M2U2N2Zi",
+  "snapshot_id": "MTY3NDE2NTU0MCwwMDAwMDAwMDA3MjkxN2QwNTM0ODdhMTI5ZWUwYTQ4Y2RkYzlmZmQ4",
   "tracks": [
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
+        "name": "Vuur En Vlam",
+        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Vuur En Vlam",
+      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
+    },
+    {
+      "added_at": "2023-01-19 21:59:00",
+      "album": {
+        "name": "Nuwe Reise",
+        "url": "https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4"
+      },
+      "artists": [
+        {
+          "name": "Legkaart",
+          "url": "https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Nuwe Reise",
+      "url": "https://open.spotify.com/track/6irJs3wXpfMJBwPsx6BZUP"
+    },
     {
       "added_at": "2023-01-12 21:59:00",
       "album": {
@@ -97,20 +129,20 @@
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
     },
     {
-      "added_at": "2023-01-01 21:59:00",
+      "added_at": "2023-01-19 21:59:00",
       "album": {
-        "name": "Vuur En Vlam",
-        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
+        "name": "Alweer",
+        "url": "https://open.spotify.com/album/1TkhtDNjO0gWlPfFA1Ygxq"
       },
       "artists": [
         {
-          "name": "VAN WEST",
-          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Vuur En Vlam",
-      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
+      "duration_ms": 140826,
+      "name": "Alweer",
+      "url": "https://open.spotify.com/track/7yottsQJIaArBTpeRnvMNJ"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -185,6 +217,22 @@
       "url": "https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp"
     },
     {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
       "added_at": "2023-01-01 21:59:00",
       "album": {
         "name": "Suikerbos",
@@ -201,20 +249,20 @@
       "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+        "name": "Foto's",
+        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+      "duration_ms": 194890,
+      "name": "Foto's",
+      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -239,6 +287,26 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
+        "name": "My Persoon",
+        "url": "https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF"
+      },
+      "artists": [
+        {
+          "name": "Die Campbells",
+          "url": "https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H"
+        },
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
+        }
+      ],
+      "duration_ms": 212951,
+      "name": "My Persoon",
+      "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
+    },
+    {
+      "added_at": "2023-01-01 21:59:00",
+      "album": {
         "name": "Sandkasteel",
         "url": "https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y"
       },
@@ -251,22 +319,6 @@
       "duration_ms": 264933,
       "name": "Sandkasteel",
       "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Foto's",
-        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Foto's",
-      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
       "added_at": "2023-01-01 21:59:00",
@@ -355,26 +407,6 @@
     {
       "added_at": "2023-01-01 21:59:00",
       "album": {
-        "name": "My Persoon",
-        "url": "https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF"
-      },
-      "artists": [
-        {
-          "name": "Die Campbells",
-          "url": "https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H"
-        },
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
-        }
-      ],
-      "duration_ms": 212951,
-      "name": "My Persoon",
-      "url": "https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
         "name": "Transkei",
         "url": "https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm"
       },
@@ -453,22 +485,6 @@
       "url": "https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa"
     },
     {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "Rooi Bos",
-        "url": "https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands"
-      },
-      "artists": [
-        {
-          "name": "Jako Meyer",
-          "url": "https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Rooi Bos",
-      "url": "https://open.spotify.com/track/5aAa1nEMTRNlvDrziA5l6e"
-    },
-    {
       "added_at": "2023-01-05 21:59:00",
       "album": {
         "name": "Jou Lewe",
@@ -515,22 +531,6 @@
       "duration_ms": 237336,
       "name": "Ek Wens",
       "url": "https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S"
-    },
-    {
-      "added_at": "2023-01-01 21:59:00",
-      "album": {
-        "name": "En Dan Dans Ons (Radio Edit)",
-        "url": "https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r"
-      },
-      "artists": [
-        {
-          "name": "Riaan Grobler",
-          "url": "https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "En Dan Dans Ons - Radio Edit",
-      "url": "https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc"
     },
     {
       "added_at": "2023-01-01 21:59:00",

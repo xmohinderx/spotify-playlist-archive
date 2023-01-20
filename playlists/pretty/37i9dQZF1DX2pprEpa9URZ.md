@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,780 likes - 60 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,121 likes - 60 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 36 | [State the Obvious](https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Global Entry 2](https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm) | 7:49 |
 | 37 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
 | 38 | [Monterrey Paris Texas](https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Daniel Maloso](https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe) | [Velvet Desert Music Vol\. 2](https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW) | 7:33 |
-| 39 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 |
-| 40 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
+| 39 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
+| 40 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 |
 | 41 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
 | 42 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
 | 43 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 56 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 |
 | 57 | [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 |
 | 58 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
-| 59 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
-| 60 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 |
+| 59 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 |
+| 60 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
 
-Snapshot ID: `MTY2OTM4NzgzNCwwMDAwMDAwMDdlNDMyMzA5ZDI0NjAwYTM1YmQ5ZGMxYmFhMjFiNDYy`
+Snapshot ID: `MTY2OTM4NzgzNCwwMDAwMDAwMDI0N2MzNjZiNmJmYmZmZjQ4YmQ4NjRmNDdhNjdiYTNm`

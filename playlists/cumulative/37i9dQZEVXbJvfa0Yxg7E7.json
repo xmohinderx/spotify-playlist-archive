@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 170893,
       "name": "Jovial",
       "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
@@ -13490,6 +13490,24 @@
       "duration_ms": 113187,
       "name": "PEIS",
       "url": "https://open.spotify.com/track/7KTBLfbTsKrCTIKzYzbBoL"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "album": {

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Campanula",
+      "url": "https://open.spotify.com/track/4fygeSa7eyfrKHSvaX9yn3"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
         "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 89666,
       "name": "\u30b7\u30ea\u30a6\u30b9(TV Size ver.)",
       "url": "https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s"

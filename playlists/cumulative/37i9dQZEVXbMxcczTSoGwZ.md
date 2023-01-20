@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,222 songs - 2 day 19 hr 14 min
+1,223 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2021-12-20 | 2021-12-27 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-09 |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-01-19 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-09 |
 | [Cheek](https://open.spotify.com/track/6Zy7DwGzHvezMHUASmAvqv) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-21 |
 | [Chillaa veli](https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Chillaa veli](https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d) | 2:51 | 2022-07-09 | 2023-01-06 |
@@ -445,7 +446,7 @@
 | [Joulupukki matkaan jo käy](https://open.spotify.com/track/4DpfayW5CH6TTlGAkwiCgd) | [Kirka](https://open.spotify.com/artist/1RJAalQs0oU7mC5krUYvrO) | [Joulun Toivotut](https://open.spotify.com/album/0Su5dhpYf47CWCCGrPNZu9) | 3:03 | 2021-12-20 | 2022-12-27 |
 | [Jouluyö, juhlayö](https://open.spotify.com/track/3P1AC6uRKIrvCKQRYdlWS1) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Jouluyö, juhlayö](https://open.spotify.com/album/6bsRjGq2pnannIuRecjjv5) | 3:07 | 2021-12-24 | 2022-12-27 |
 | [Juhannussimaa](https://open.spotify.com/track/3ij0v9XBzmFroP7HFuJPrk) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Kalevauva.fi](https://open.spotify.com/artist/1ioqNoEEWHqbpyjhe1LilZ) | [Loppuunmyyty](https://open.spotify.com/album/0eQYCHmjf3dLHfIVmNpCXu) | 2:48 | 2021-06-27 | 2022-06-27 |
-| [Jumala tai naapuri](https://open.spotify.com/track/22FL0hIr4N4YM4qDTe2EDw) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jumala tai naapuri](https://open.spotify.com/album/7Jqy38QCSP3NrCFxTkmy4d) | 3:21 | 2023-01-15 |  |
+| [Jumala tai naapuri](https://open.spotify.com/track/22FL0hIr4N4YM4qDTe2EDw) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jumala tai naapuri](https://open.spotify.com/album/7Jqy38QCSP3NrCFxTkmy4d) | 3:21 | 2023-01-15 | 2023-01-20 |
 | [Jumalan selän takana](https://open.spotify.com/track/27eLu2vGzmGkpwjiWX1hqX) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Jumalan selän takana](https://open.spotify.com/album/5HJH9cMbOVO9eYd3Gau3ey) | 3:03 | 2022-12-03 |  |
 | [Junantuoma](https://open.spotify.com/track/40e8TR8DjJSpen3oPyfreL) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Se viimeinen kesä](https://open.spotify.com/album/6TG9XU23PKWwi3F3UkB4PH) | 3:11 | 2022-05-14 | 2022-05-16 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-03 |

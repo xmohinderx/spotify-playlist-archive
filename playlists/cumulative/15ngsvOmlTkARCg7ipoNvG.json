@@ -10419,6 +10419,24 @@
     },
     {
       "album": {
+        "name": "Reflecting Light",
+        "url": "https://open.spotify.com/album/4YfeXu0eclOImmjlD5aZpX"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "Reflecting Light",
+      "url": "https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS"
       },

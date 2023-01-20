@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 223680,
       "name": "Gypsy Eyes",
       "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 130039,
       "name": "Have You Ever Been (To Electric Ladyland)",
       "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "The Jimi Hendrix Experience (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111173,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band (Live in Stockholm, Sweden, September 5, 1967)",
+      "url": "https://open.spotify.com/track/5zOiE2wgEC6Q4WSGjKMbv5"
+    },
+    {
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 934026,
       "name": "Tax Free - Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969",
       "url": "https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8?si=3BnfGCPOSbeoZER3lMujggg\">Yorxe</a>",
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=Z6fdR3NXQ52L7r0GSmfAEA\">Msaki</a> and <a href=\"https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=AhnbaA9RSDGCEL4gmSlDhQ\">Tubatsi Mpho Moloi</a>",
   "name": "SAlt",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 232500,
       "name": "A Long Time",
       "url": "https://open.spotify.com/track/08izD5yyI6TPJCzmABexZc"
+    },
+    {
+      "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140373,
+      "name": "Above Water",
+      "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
     },
     {
       "album": {
@@ -342,10 +360,28 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 233568,
       "name": "Blue Collar Cowboy",
       "url": "https://open.spotify.com/track/6YjBj6LmQISfkAVD8f0OHN"
+    },
+    {
+      "album": {
+        "name": "Blue House",
+        "url": "https://open.spotify.com/album/2v9CRI2H6pIB6kTHXsc32N"
+      },
+      "artists": [
+        {
+          "name": "EIGHT THOUSAND BIRDS",
+          "url": "https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208681,
+      "name": "Blue House",
+      "url": "https://open.spotify.com/track/2oS0yreheavk9HnRip1JO7"
     },
     {
       "album": {
@@ -439,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Can I Go Away",
+        "url": "https://open.spotify.com/album/1tVJ4wW70gmvFmzcT1RYnt"
+      },
+      "artists": [
+        {
+          "name": "Amor Amor",
+          "url": "https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191560,
+      "name": "Can I Go Away",
+      "url": "https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB"
+    },
+    {
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
       },
@@ -454,6 +508,24 @@
       "duration_ms": 199066,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
+    },
+    {
+      "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6"
     },
     {
       "album": {
@@ -628,7 +700,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 230068,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/6c8yTt07EyE1jc41GK98s7"
@@ -646,7 +718,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 332986,
       "name": "Don\u2019t Know How To Keep Loving You",
       "url": "https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG"
@@ -956,7 +1028,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
@@ -1014,6 +1086,24 @@
       "duration_ms": 219461,
       "name": "Home Grown Flowers",
       "url": "https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu"
+    },
+    {
+      "album": {
+        "name": "Homebody",
+        "url": "https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
     },
     {
       "album": {
@@ -1090,6 +1180,28 @@
       "duration_ms": 241141,
       "name": "I Am a Stranger Here",
       "url": "https://open.spotify.com/track/5yJCttxoj7lsGOefIC20Ly"
+    },
+    {
+      "album": {
+        "name": "I Don't Miss You (Except For When I Do)",
+        "url": "https://open.spotify.com/album/02yMv1Udrki6AonJYgVT8h"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        },
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196522,
+      "name": "I Don't Miss You (Except For When I Do)",
+      "url": "https://open.spotify.com/track/0t0iEf8iXrg0OQeqO2jm9C"
     },
     {
       "album": {
@@ -1473,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Break and Bend",
+        "url": "https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q"
+      },
+      "artists": [
+        {
+          "name": "Reino Brink",
+          "url": "https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210720,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC"
+    },
+    {
+      "album": {
         "name": "No Platonic Male Friends",
         "url": "https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN"
       },
@@ -1520,7 +1650,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187052,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/5mbPhsvvQTMSXD5pTaBA4B"
@@ -1892,10 +2022,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 214054,
       "name": "Something Somewhere",
       "url": "https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny"
+    },
+    {
+      "album": {
+        "name": "Somewhere In The Hills",
+        "url": "https://open.spotify.com/album/1qszdzWBMFMcnToZ6EcC94"
+      },
+      "artists": [
+        {
+          "name": "Kids In America",
+          "url": "https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY"
+        },
+        {
+          "name": "John Samuel",
+          "url": "https://open.spotify.com/artist/1aLNavTO9Rv8rPCgl2jMtl"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173853,
+      "name": "Somewhere In The Hills",
+      "url": "https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t"
     },
     {
       "album": {
@@ -2022,7 +2174,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
@@ -2058,7 +2210,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
@@ -2282,7 +2434,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 249304,
       "name": "Whatever Comes to Mind",
       "url": "https://open.spotify.com/track/4ZEwzNvzSlciLfAtPVPbmI"
@@ -2474,6 +2626,28 @@
       "duration_ms": 210013,
       "name": "You've Got Me (Living Again)",
       "url": "https://open.spotify.com/track/4uVE2VIHgbIzFVMVpDMk30"
+    },
+    {
+      "album": {
+        "name": "Zibonakalise (Radio Edit)",
+        "url": "https://open.spotify.com/album/5BeJuk03PJJtVgFuM2Yday"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Zibonakalise - Radio Edit",
+      "url": "https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Belle and Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,654 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,647 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 |
 | 75 | [Born & Die](https://open.spotify.com/track/0RDjAutucOtnLANrRny7r7) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Noises & Clarity](https://open.spotify.com/album/6AKF6IguDDDkjTn07cIIKz) | 4:28 |
 | 76 | [MEMORY](https://open.spotify.com/track/5smrq8X3uBuyy5nzREKnJV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:53 |
-| 77 | [Honestly](https://open.spotify.com/track/09PLEiRIRz7RhQmZSX2iE7) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honestly](https://open.spotify.com/album/0BR7eudQY2ly2t99WLuJ4b) | 3:18 |
+| 77 | [Honestly](https://open.spotify.com/track/360rgJ0v2jH6mPyIhcd02O) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Everything is Peachy](https://open.spotify.com/album/1hQN68Fozvbgmb4ktuQmAb) | 3:18 |
 | 78 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 79 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 |
 | 80 | [Season of the Shark](https://open.spotify.com/track/0xSn8K45u9yOIDZysjwz20) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [10](https://open.spotify.com/album/0OXFxh0kceGnXyzYo9HNLl) | 4:38 |
 
-Snapshot ID: `MTY3MzYwMzI3OCwwMDAwMDAwMDFlNjFjOWRhN2Y2MzU4ZTE0MTVkY2VmNmRkYjJmNzky`
+Snapshot ID: `MTY3MzYwMzI3OCwwMDAwMDAwMGMwOWVmMDI0NzI5MzI1YTQzYTFhOTI5ZmE5YzQ0Mjdk`

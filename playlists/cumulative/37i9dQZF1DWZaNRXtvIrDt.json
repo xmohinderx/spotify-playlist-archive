@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Memphis LK",
+  "description": "a new world of alternative electronic music. Cover: Yaeji",
   "name": "Portal",
   "tracks": [
     {
@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 247234,
       "name": "2M3 2U",
       "url": "https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc"
+    },
+    {
+      "album": {
+        "name": "Affirmation Practice",
+        "url": "https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311827,
+      "name": "Affirmation Practice",
+      "url": "https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a"
     },
     {
       "album": {
@@ -164,7 +182,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 288988,
       "name": "Aucklands Groove",
       "url": "https://open.spotify.com/track/1Ct6cXdsQ6m5acyW6ZiRIC"
@@ -182,7 +200,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 152558,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
@@ -287,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
+      },
+      "artists": [
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259074,
+      "name": "Bloom (ft. Ell Murphy)",
+      "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
+    },
+    {
+      "album": {
         "name": "Fantasy Food",
         "url": "https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn"
       },
@@ -324,7 +364,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 396126,
       "name": "Border Control (Ahora S\u00ed) (feat. Ivy Barkakati & Furious Frank)",
       "url": "https://open.spotify.com/track/45vT32HMS8lZ0JusBqrgBb"
@@ -360,7 +400,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 297520,
       "name": "Breathe Deep",
       "url": "https://open.spotify.com/track/0LNNHBnBwWJrBVeGezHkCE"
@@ -425,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d"
+    },
+    {
+      "album": {
         "name": "Cool Down",
         "url": "https://open.spotify.com/album/2OXvf2BWEsWwrfX2nxWt3w"
       },
@@ -443,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB"
+      },
+      "artists": [
+        {
+          "name": "Echomatics",
+          "url": "https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308965,
+      "name": "Cyber",
+      "url": "https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },
@@ -454,7 +530,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 388000,
       "name": "Deep Space X",
       "url": "https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI"
@@ -516,6 +592,24 @@
       "duration_ms": 222720,
       "name": "EMBER_dnb_edit001",
       "url": "https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh"
+    },
+    {
+      "album": {
+        "name": "The Sound of Supercharged",
+        "url": "https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw"
+      },
+      "artists": [
+        {
+          "name": "TRG",
+          "url": "https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331680,
+      "name": "Everything We Stand For",
+      "url": "https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop"
     },
     {
       "album": {
@@ -584,7 +678,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 258652,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0oMLuN4cldfEiqwIY8dI7K"
@@ -602,7 +696,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 288087,
       "name": "Fembot Fashion",
       "url": "https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB"
@@ -686,6 +780,24 @@
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+    },
+    {
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "album": {
@@ -812,10 +924,28 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 157836,
       "name": "Hawt",
       "url": "https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z"
+    },
+    {
+      "album": {
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv"
     },
     {
       "album": {
@@ -884,10 +1014,46 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 281773,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/0hs65gzhueVA9Y5u7Tp5u2"
+    },
+    {
+      "album": {
+        "name": "In The Balance",
+        "url": "https://open.spotify.com/album/7vL0WlFxuztuXUl0hTcMFG"
+      },
+      "artists": [
+        {
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "In The Balance",
+      "url": "https://open.spotify.com/track/1QCCuMxbBgvcAR9KuN4n1q"
+    },
+    {
+      "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
       "album": {
@@ -906,7 +1072,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 358200,
       "name": "Jobi - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/1WmrJR4SP796Q35Ik4aGYq"
@@ -942,7 +1108,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 398740,
       "name": "kamakiri",
       "url": "https://open.spotify.com/track/2HQs2UrM7rK1h1bFWgPX2P"
@@ -1000,7 +1166,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 218080,
       "name": "Lab",
       "url": "https://open.spotify.com/track/23qd0tNJOKU0toPX7gDgI1"
@@ -1072,7 +1238,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204796,
       "name": "Luv-N-Me",
       "url": "https://open.spotify.com/track/62t6tbynERX4KtHs2YY8LM"
@@ -1130,7 +1296,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 302769,
       "name": "MRI",
       "url": "https://open.spotify.com/track/4bLTbk84yuv9SxNtZIqgrv"
@@ -1268,6 +1434,24 @@
       "duration_ms": 364283,
       "name": "Plaid",
       "url": "https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ"
+    },
+    {
+      "album": {
+        "name": "Pure Puma",
+        "url": "https://open.spotify.com/album/59IfvGrW8KSsw0wNHAYGL0"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261750,
+      "name": "Pure Puma",
+      "url": "https://open.spotify.com/track/6rKWRfzVmSkW4EyuuwjQsy"
     },
     {
       "album": {
@@ -1482,7 +1666,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 295500,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/3ukSlYPAMtOvORMbvrGYm1"
@@ -1504,7 +1688,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 268583,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6XXU4PWswlDv6vHfJzUTcF"
@@ -1624,7 +1808,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 194480,
       "name": "Switched Up",
       "url": "https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq"
@@ -1748,7 +1932,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 295205,
       "name": "Tremors",
       "url": "https://open.spotify.com/track/2yHaxm6DL7A9bpb0L4GyQo"
@@ -1925,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8"
+    },
+    {
+      "album": {
         "name": "Work Don't Stop",
         "url": "https://open.spotify.com/album/137773lEIYB4FGzzQ00xgp"
       },
@@ -1936,10 +2138,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 200000,
       "name": "Work Don't Stop",
       "url": "https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "album": {

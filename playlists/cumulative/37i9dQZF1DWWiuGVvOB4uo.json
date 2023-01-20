@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 173400,
       "name": "8 - Acoustic",
       "url": "https://open.spotify.com/track/7jbqyVufN1czQkloAjFKSE"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 175262,
       "name": "Annie\u2019s Song",
       "url": "https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 259893,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 171692,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/3uSmwh3Dp1bBIrYPylNnWt"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 200820,
       "name": "Don't Stop Me Now - Acoustic",
       "url": "https://open.spotify.com/track/0EPEtFHI4c6tf17RLLrvYb"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 266662,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0zJiXWM4feXKdsCS3vmPhH"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 210580,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 195871,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/01sHaFgDKSq32CO7M7zc3p"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 125895,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 149391,
       "name": "Happier",
       "url": "https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+    },
+    {
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/3jGA4UM1irakbyzp2necA2"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 237968,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/6KVfTNTUKV0iiMZhPp9izj"
@@ -2217,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163833,
+      "name": "Isaac Hale",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+    },
+    {
+      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8"
       },
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 281062,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX"
@@ -2498,7 +2534,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 253872,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
@@ -2682,7 +2718,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 196578,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/2SyCP2ikpNid6yC01Yw4Ul"
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 237394,
       "name": "Most Girls - Acoustic",
       "url": "https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1"
@@ -2794,7 +2830,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 141115,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/4x1HyRlBRnjTdsOz6osq1c"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
@@ -3686,7 +3722,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 189038,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/2mqO0ZAmZKQbv8WBtnviS9"
@@ -3704,7 +3740,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 213178,
       "name": "Sweet Jane",
       "url": "https://open.spotify.com/track/3AsmFcxnAv5FtTsV9g45bj"
@@ -3758,7 +3794,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 211168,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3l3vryEgMzxrBLMaQBVpIT"
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204230,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l"
@@ -4086,7 +4122,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
@@ -4140,7 +4176,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 199927,
       "name": "When The Party's Over",
       "url": "https://open.spotify.com/track/5q5dBBOHMnVnWaaRBdqBJE"
@@ -4194,7 +4230,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 157231,
       "name": "Whole Again - Acoustic Version",
       "url": "https://open.spotify.com/track/3tjjCCdXSdaVEo4q4y071G"
@@ -4256,7 +4292,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 198281,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4GKleQApcyCJduauR13QIi"
@@ -4292,7 +4328,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 232803,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lw7mmUri6oG70hhp6YAMP"

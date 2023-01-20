@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lee yejoon\(이예준\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,890 likes - 101 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,929 likes - 101 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 4 | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/track/0NrODeiFaIxusjOtPSpnRW) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/album/1jzqC7js5BW3f0G2UyxZfG) | 4:05 |
 | 5 | [Begin to snow](https://open.spotify.com/track/2p45sMAYpkYpk1Oq72ulbK) | [Jo Hwanji](https://open.spotify.com/artist/5akSWTgM0AKiKKfSjEdplh) | [Begin to snow](https://open.spotify.com/album/40uF1cLo4ePEhzbH70rg4V) | 3:24 |
 | 6 | [How have you been](https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [How have you been](https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq) | 3:01 |
-| 7 | [Lovesick](https://open.spotify.com/track/2aSmaOoWoC2GPb3i5J9Daw) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5X1uhTLjddBnsq3lxKmTAr) | 4:15 |
+| 7 | [Lovesick \(Prod\. by Naul\)](https://open.spotify.com/track/2aSmaOoWoC2GPb3i5J9Daw) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5X1uhTLjddBnsq3lxKmTAr) | 4:15 |
 | 8 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
 | 9 | [How Many Times Can We Say Goodbye](https://open.spotify.com/track/4xeUPkI5r5aHwziwlYXvS0) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [How Many Times Can We Say Goodbye](https://open.spotify.com/album/1wr3C63SlJ3P67iICQKfob) | 4:26 |
 | 10 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,754 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,474 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 161 | [Forget](https://open.spotify.com/track/3kdQxYw7Ae43SCEkClHN51) | [Ancient Pools](https://open.spotify.com/artist/6YiTF6bHs6PEIfcxHaQdsp) | [Cosine](https://open.spotify.com/album/6zf1HqVzQGpTeVIu7davNZ) | 3:01 |
 | 162 | [Kunigonde](https://open.spotify.com/track/2Fw7OgSb2f9CO25VzSUFAC) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Canicule](https://open.spotify.com/album/4KZRFwBBoi7NIJsbDlADhg) | 4:22 |
 | 163 | [Body to Body](https://open.spotify.com/track/1TWgFA9kZujNztCBHC9YiS) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [Atëna](https://open.spotify.com/artist/0Y7lUqb3y1mEr8BssHDVCa) | [Body to Body](https://open.spotify.com/album/3rWHPgX9LAJnmHn9C36WO6) | 4:02 |
-| 164 | [Eiffel Tower](https://open.spotify.com/track/07P7aIuCvpnXJx79YZrvhq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/6BzVsguHJevpF53zFh6t6i) | 3:18 |
+| 164 | [Eiffel Tower](https://open.spotify.com/track/2OzE9L9NEbiE5CO1sP6GQH) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/1XCiAgo40uv4ZV9kVcQBmG) | 3:18 |
 | 165 | [Ce soir](https://open.spotify.com/track/5sJ3ZLtdHIckPX0mKzLE0c) | [Kumisolo](https://open.spotify.com/artist/39SyHRlxu86bon1ubnh2ee) | [La femme japonaise](https://open.spotify.com/album/5nkIHeLYGchqbhwD5YyqGS) | 2:39 |
 | 166 | [Lunatique](https://open.spotify.com/track/0zUB6hm411BExuuUnWgPG5) | [Stereo Total](https://open.spotify.com/artist/662bj9rCw8Twt6JDAMmMDb) | [Monokini](https://open.spotify.com/album/2Cq4sqrS5Lmw1p3QtRh45b) | 2:12 |
 | 167 | [Real Good Time](https://open.spotify.com/track/2yEh3ddusmyf8S3GJfdBz4) | [Nada Funk](https://open.spotify.com/artist/2ODpVD3Wyal3qYui1yHXkV) | [Real Good Time](https://open.spotify.com/album/1MiYj7P7uAzrOQm4Ph2Ghg) | 3:08 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDllNWU1OTg2ODc0MjFhOWQ2Njg5ZDA4MjQzNDM5MzBi`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDM3NTBmZGQ1NmI5NTBkN2E2MDc0MmE5YzkwMDU1MGY4`

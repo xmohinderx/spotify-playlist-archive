@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New no wave, post-punk, and anything else. Cover: The Cool Greenhouse",
+  "description": "New no wave, post-punk, and anything else. Cover: M(h)aol",
   "name": "Post Punk",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 196493,
       "name": "Get Unjaded",
       "url": "https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 279817,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86"
@@ -4927,6 +4927,42 @@
     },
     {
       "album": {
+        "name": "Theme New Bond Junior",
+        "url": "https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx"
+      },
+      "artists": [
+        {
+          "name": "JOHN (TIMESTWO)",
+          "url": "https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196549,
+      "name": "Theme New Bond Junior",
+      "url": "https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166022,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1"
+    },
+    {
+      "album": {
         "name": "These Are Not Your Memories",
         "url": "https://open.spotify.com/album/50ghcLExc0stAzU2ieijfv"
       },
@@ -5122,6 +5158,24 @@
       "duration_ms": 174384,
       "name": "Trials And Tribulations",
       "url": "https://open.spotify.com/track/6RL8zPiCh34CcBjQhnjGJp"
+    },
+    {
+      "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
       "album": {

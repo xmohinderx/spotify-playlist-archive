@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-166 songs - 10 hr 43 min
+167 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F) | 4:30 | 2022-12-17 |  |
 | [Carry Me Along](https://open.spotify.com/track/60uQuO3GwP64Mbbr2krcVc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Carry Me Along](https://open.spotify.com/album/7kMMLGwML7meerhRnPmziO) | 3:09 | 2022-02-27 | 2022-04-02 |
 | [Carry Me Home](https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:33 | 2022-07-17 | 2023-01-19 |
+| [Carry Me Home](https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF) | 3:33 | 2022-11-11 |  |
 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 | 2022-02-27 |  |
 | [Come and Let Your Presence \- Live](https://open.spotify.com/track/66G5iRhwjbtb9hIJwyTKAz) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [One King \(Live\)](https://open.spotify.com/album/0HWeaOLbckNaGeooeryUQs) | 7:38 | 2022-02-27 | 2022-12-17 |
 | [Come What May](https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Come What May](https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc) | 5:19 | 2022-02-27 | 2022-12-17 |
@@ -105,7 +106,7 @@
 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 | 2022-02-27 |  |
 | [Lifeline](https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Lifeline](https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT) | 3:12 | 2022-02-27 |  |
 | [Like an Ocean](https://open.spotify.com/track/00dHvozlMxyyXcGoQvMBgB) | [Nathan Hornsby](https://open.spotify.com/artist/15S3MpPnvWhxLvBj8V1pdY) | [Like an Ocean](https://open.spotify.com/album/41ZSyVvCGIRsI6SBVpyXFh) | 3:53 | 2022-07-17 |  |
-| [limbo](https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [limbo](https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf) | 4:35 | 2022-07-17 |  |
+| [limbo](https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [limbo](https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf) | 4:35 | 2022-07-17 | 2023-01-20 |
 | [Look Up](https://open.spotify.com/track/4d9Eyol0RuMTgllFUgbwvi) | [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Look Up](https://open.spotify.com/album/2sk9sxUsafPiMS27OoFGxX) | 3:13 | 2022-02-27 | 2022-12-17 |
 | [lost ‘cause](https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj) | 3:44 | 2022-02-27 | 2022-07-18 |
 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-17 |  |

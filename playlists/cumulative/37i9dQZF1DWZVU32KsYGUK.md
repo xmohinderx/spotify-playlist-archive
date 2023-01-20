@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-299 songs - 12 hr 54 min
+300 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Focus](https://open.spotify.com/track/0t79I6vistFsiQRjgmBwQM) | [Richard Noé](https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji) | [Focus](https://open.spotify.com/album/1qu13W0HoRtE9YuMwWsos5) | 1:04 | 2022-11-24 |  |
 | [For Peace](https://open.spotify.com/track/1FiGodE7QpV6yXRtDGSuKO) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [For Peace](https://open.spotify.com/album/3eKtNhAo1QB2slYY1A6P85) | 2:16 | 2022-05-20 |  |
 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 | 2022-04-27 |  |
-| [Freedom \(Freiheit\)](https://open.spotify.com/track/5cLWloXWLcveXo3AU1uJDJ) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Freedom \(Freiheit\)](https://open.spotify.com/album/1dR6mqRA9x9JxewhWe6W1u) | 3:19 | 2022-11-24 |  |
+| [Freedom \(Freiheit\)](https://open.spotify.com/track/1l7tVJDQQqVsQTDblDwnUC) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Original Motion Picture Soundtrack and Music Inspired by "Schattenkind"](https://open.spotify.com/album/4WPjk87zKjOFKSgmKF8xDd) | 3:19 | 2023-01-09 |  |
+| [Freedom \(Freiheit\)](https://open.spotify.com/track/5cLWloXWLcveXo3AU1uJDJ) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Freedom \(Freiheit\)](https://open.spotify.com/album/1dR6mqRA9x9JxewhWe6W1u) | 3:19 | 2022-11-24 | 2023-01-20 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-27 | 2022-06-07 |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-04-27 |  |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-04-27 |  |

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: CRUCiAL STAR크루셜스타\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Kim Seungmin\(김승민\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-568 songs - 1 day 7 hr 6 min
+569 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Cyanide \(Feat\. Kid Milli\)](https://open.spotify.com/track/1yCcR6cFcxt3cwYeDUkj9p) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:46 | 2022-05-11 | 2022-06-30 |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2022-04-01 |  |
 | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [D.I.M.E \(Feat\. JUSTHIS\)](https://open.spotify.com/album/67dg4k1O64jXpZls8H5moQ) | 3:49 | 2022-10-07 | 2022-11-02 |
-| [D.R.E.A.M\. \(feat\. pH\-1\)](https://open.spotify.com/track/5OuTSgILh3Mkgj6ir9x9Pz) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:19 | 2022-10-28 |  |
+| [D.R.E.A.M\. \(feat\. pH\-1\)](https://open.spotify.com/track/5OuTSgILh3Mkgj6ir9x9Pz) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:19 | 2022-10-28 | 2023-01-20 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2022-04-01 |  |
 | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/track/50mWLy36Ib9tMjjd9pZSpz) | [Emetsound](https://open.spotify.com/artist/4dKJnc3oBTZWbuNQiQvFLd), [Ruf.d](https://open.spotify.com/artist/14YZN6ahjzUJWTqFYc3945) | [Dangerous \(feat\. Ruf.d\)](https://open.spotify.com/album/6HDaYXCwPtlr7i2mXJE4Gu) | 2:44 | 2022-06-13 | 2022-06-19 |
 | [Dank](https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:18 | 2022-04-21 | 2022-07-23 |
@@ -119,6 +119,7 @@
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
+| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-20 |  |
 | [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-04-01 |  |
 | [DIE FOR YOU](https://open.spotify.com/track/1LyFyW3IJLiBROvsRfTY1l) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:46 | 2022-04-01 | 2022-05-28 |
 | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC) | [SGBOYZ \(Jay Park, Don Mills, Loco, Nucksal\)](https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw) | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL) | 4:16 | 2022-04-01 | 2022-07-29 |

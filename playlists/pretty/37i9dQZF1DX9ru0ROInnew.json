@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 78291,
+  "num_followers": 78395,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGQ5YWU5ZTY5NjUzYWY2ZGNlYzFkN2Y5NjA2YzM5YWVk",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDA5NGQwMmExNjUyNzZiZGExNDY3NWRhNTdiZjRmNzkx",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -2019,18 +2019,26 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Robinson Cano",
-        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
       },
       "artists": [
         {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
         }
       ],
-      "duration_ms": 182710,
-      "name": "Robinson Cano",
-      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
+      "duration_ms": 224906,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -2075,6 +2083,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Robinson Cano",
+        "url": "https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Robinson Cano",
+      "url": "https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
       },
@@ -2091,30 +2115,6 @@
       "duration_ms": 210700,
       "name": "All Star",
       "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
     },
     {
       "added_at": "2023-01-09 06:14:13",

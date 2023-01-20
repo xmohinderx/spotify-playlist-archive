@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Cloudy June",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Mayberg",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -618,6 +618,24 @@
       "duration_ms": 125560,
       "name": "Daywalker",
       "url": "https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN"
+    },
+    {
+      "album": {
+        "name": "Der neue Stil meiner Generation",
+        "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144076,
+      "name": "Der neue Stil meiner Generation",
+      "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
     },
     {
       "album": {
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 244666,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 163078,
       "name": "Sick Of Being Sad",
       "url": "https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 414053,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
@@ -3006,6 +3024,24 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
     },
     {
       "album": {

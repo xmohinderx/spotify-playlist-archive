@@ -1,13 +1,49 @@
 {
-  "description": "Only the best in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
-  "num_followers": 11788,
-  "original_name": "SA Rock Essentials",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
+  "num_followers": 11801,
+  "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDc0MCwwMDAwMDAwMDE2YmUxOWFhNjU0MTVkOTZjYzMyMjAxYzE5YmY2OTMy",
+  "snapshot_id": "MTY3NDE2NTYwMCwwMDAwMDAwMDM3YzQzNTMxMzM2ZWM0YjM0N2JhYmY0MzdhZjlkZDA5",
   "tracks": [
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Dryf",
+        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        },
+        {
+          "name": "Jodi Jantjies",
+          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
+        }
+      ],
+      "duration_ms": 273475,
+      "name": "Erika Way",
+      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
+    },
+    {
+      "added_at": "2023-01-19 22:00:00",
+      "album": {
+        "name": "9-2-5",
+        "url": "https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "duration_ms": 187925,
+      "name": "9-2-5",
+      "url": "https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx"
+    },
     {
       "added_at": "2022-11-21 09:26:29",
       "album": {
@@ -49,26 +85,6 @@
       "url": "https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr"
     },
     {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Dryf",
-        "url": "https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        },
-        {
-          "name": "Jodi Jantjies",
-          "url": "https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG"
-        }
-      ],
-      "duration_ms": 273475,
-      "name": "Erika Way",
-      "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
-    },
-    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "Toe Roep Ek Jou Naam Velvet Blohm",
@@ -87,6 +103,22 @@
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "As Ek Jou Hoor Lag",
+        "url": "https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29"
+      },
+      "artists": [
+        {
+          "name": "Jan Bloukaas",
+          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "As Ek Jou Hoor Lag",
+      "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -125,6 +157,42 @@
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
     },
     {
+      "added_at": "2023-01-19 22:00:00",
+      "album": {
+        "name": "Burning Building",
+        "url": "https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Burning Building",
+      "url": "https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z"
+    },
+    {
+      "added_at": "2022-09-02 10:44:20",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 207525,
+      "name": "Maksimum Volume",
+      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+    },
+    {
       "added_at": "2022-12-08 21:59:00",
       "album": {
         "name": "Suburban Casualty",
@@ -139,22 +207,6 @@
       "duration_ms": 234185,
       "name": "Suburban Casualty",
       "url": "https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "As Ek Jou Hoor Lag",
-        "url": "https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29"
-      },
-      "artists": [
-        {
-          "name": "Jan Bloukaas",
-          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "As Ek Jou Hoor Lag",
-      "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
     },
     {
       "added_at": "2023-01-06 07:49:40",
@@ -203,26 +255,6 @@
       "duration_ms": 157000,
       "name": "Darlene",
       "url": "https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ"
-    },
-    {
-      "added_at": "2022-09-02 10:44:20",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 207525,
-      "name": "Maksimum Volume",
-      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -809,38 +841,6 @@
       "url": "https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8"
     },
     {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Saints and Sinners (Remastered)",
-        "url": "https://open.spotify.com/album/4kopPPmW09PGMnh85jojya"
-      },
-      "artists": [
-        {
-          "name": "Naranjo",
-          "url": "https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Down - Remastered",
-      "url": "https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "YOU2ME",
-        "url": "https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x"
-      },
-      "artists": [
-        {
-          "name": "Lokaly",
-          "url": "https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "YOU2ME",
-      "url": "https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z"
-    },
-    {
       "added_at": "2022-08-04 21:59:00",
       "album": {
         "name": "To Change the Weather",
@@ -857,6 +857,6 @@
       "url": "https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1"
     }
   ],
-  "unique_name": "SA Rock Essentials",
+  "unique_name": "SA Rock ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ"
 }

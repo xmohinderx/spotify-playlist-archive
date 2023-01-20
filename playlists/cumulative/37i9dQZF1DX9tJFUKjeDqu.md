@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-110 songs - 7 hr 27 min
+111 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
 | [Labour](https://open.spotify.com/track/0zmxQRILLqz9M2KKsNyvP8) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Labour](https://open.spotify.com/album/19tMyS4bf5WVptEqdO6HQf) | 2:23 | 2023-01-06 |  |
 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 | 2022-12-21 |  |
-| [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 | 2022-07-29 |  |
+| [Le Blues de Berthe](https://open.spotify.com/track/28iXFnKkDvYt7nl6L8mKw4) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/06xJD6ZhoyFwJBQUKs6vgd) | 2:00 | 2023-01-13 |  |
+| [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 | 2022-07-29 | 2023-01-20 |
 | [Le blues de berthe](https://open.spotify.com/track/4MAqsOKC5dngNQKjQe7RdZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/4veWCAN2OijQqL3kA1FZcP) | 2:00 | 2022-07-08 | 2022-09-23 |
 | [Le Blues de Berthe](https://open.spotify.com/track/4zZ6FWlCPoKFsbC1147cPZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/0GFbJOOm84hvz0svAuxyuu) | 2:00 | 2022-04-15 | 2022-09-30 |
 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 | 2022-04-15 |  |

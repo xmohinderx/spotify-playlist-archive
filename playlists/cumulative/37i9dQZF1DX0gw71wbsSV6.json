@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 221210,
       "name": "10,000ft.",
       "url": "https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI"
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
+    },
+    {
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -338,6 +356,24 @@
       "duration_ms": 211226,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/2JRLoT6z48Pfihyj1s1u77"
+    },
+    {
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270484,
+      "name": "Dekoboko",
+      "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
     },
     {
       "album": {
@@ -410,6 +446,36 @@
       "duration_ms": 224133,
       "name": "doze off",
       "url": "https://open.spotify.com/track/2fHgtQ0Uys5yGW8EaAimw2"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
     },
     {
       "album": {
@@ -525,6 +591,24 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258879,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+    },
+    {
+      "album": {
         "name": "Floating (feat. Khalid) [filous Remix]",
         "url": "https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8"
       },
@@ -584,10 +668,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 183162,
       "name": "Found Me",
       "url": "https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r"
+    },
+    {
+      "album": {
+        "name": "Eimosezu/Good Luck",
+        "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230324,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW"
     },
     {
       "album": {
@@ -602,7 +704,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 225720,
       "name": "Hadaka no Yume",
       "url": "https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I"
@@ -1000,7 +1102,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 218906,
       "name": "Orange Mug",
       "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
@@ -1698,7 +1800,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 321988,
       "name": "\u30a8\u30f3\u30c8\u30ed\u30d4\u30fc",
       "url": "https://open.spotify.com/track/6xxfY1JMxMYQ3t75UR3BEK"
@@ -1817,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "\u767d\u306b\u6d88\u3048\u308b",
+        "url": "https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn"
+      },
+      "artists": [
+        {
+          "name": "\u3057\u305a\u304f\u3060\u3046\u307f",
+          "url": "https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251865,
+      "name": "\u767d\u306b\u6d88\u3048\u308b",
+      "url": "https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy"
+    },
+    {
+      "album": {
         "name": "\u96e8",
         "url": "https://open.spotify.com/album/47EQMgwBhI5ARxtBNB7Ruj"
       },
@@ -1828,7 +1948,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 309701,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6WkMbJVTMyMWSQpCetvkyX"

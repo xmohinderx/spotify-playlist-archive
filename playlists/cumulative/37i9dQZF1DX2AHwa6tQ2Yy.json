@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Happily Drowning",
+        "url": "https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg"
+      },
+      "artists": [
+        {
+          "name": "Moody",
+          "url": "https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219702,
+      "name": "Happily Drowning",
+      "url": "https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx"
+    },
+    {
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 208306,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 268013,
       "name": "inside out",
       "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
@@ -1712,6 +1730,24 @@
       "duration_ms": 150208,
       "name": "Mikey Might",
       "url": "https://open.spotify.com/track/4tHN4ENGcnHuaOIDWQlI3x"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/27xePvSrtU2d9uC8deq5cy"
+      },
+      "artists": [
+        {
+          "name": "Mo\u2019Ju",
+          "url": "https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1X8qpbbjQo0vftVq5c7kwr"
     },
     {
       "album": {
@@ -2176,7 +2212,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"

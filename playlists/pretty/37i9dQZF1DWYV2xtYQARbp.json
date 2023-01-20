@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 9648,
+  "num_followers": 9672,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGMyMTFjYzY5NWI4NmI1NmMxY2M1Yzc5ZDJjOWQ4Yzky",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGQ4YzkzYzU5NzRhMmNkNTE2MTlkZWM5Y2VlYzM4MDQx",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Talking 'bout",
-        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
-      },
-      "artists": [
-        {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Talking 'bout",
+        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
+      },
+      "artists": [
+        {
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
     },
     {
       "added_at": "2022-03-28 20:14:58",

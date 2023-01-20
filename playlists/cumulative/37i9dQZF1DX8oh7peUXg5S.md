@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-218 songs - 14 hr 3 min
+219 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [No Hay Tanto Pan](https://open.spotify.com/track/6JpnuuUfAoQX5H2a9xlGjW) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Domus \(Edición Especial\)](https://open.spotify.com/album/6y97mTqT6yaWh3U2j6y9AN) | 5:08 | 2022-06-30 | 2022-07-11 |
 | [No Me Amenaces](https://open.spotify.com/track/7bM5C0Fr58bNzTrydYPAiH) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 2:47 | 2022-06-09 | 2022-07-23 |
 | [No Me Canso](https://open.spotify.com/track/1OSCcrTT1lsTZ2GRs4hO59) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Totémico \(Universo Abierto\)](https://open.spotify.com/album/54SuYbmBJPAvRzZP3sL175) | 4:38 | 2022-06-09 | 2022-07-03 |
-| [No Me Canso](https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Abierto](https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM) | 4:38 | 2022-11-10 |  |
+| [No Me Canso](https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Abierto](https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM) | 4:38 | 2022-11-10 | 2023-01-20 |
 | [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 | 2022-06-09 | 2022-08-12 |
 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 | 2022-06-09 |  |
 | [No Saben de Ti](https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Mi Pequeña Historia](https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz) | 3:57 | 2022-08-11 |  |
@@ -146,6 +146,7 @@
 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 | 2022-06-09 |  |
 | [No Sé por Qué Te Quiero \(with Victor Manuel\)](https://open.spotify.com/track/5iG5xQWP5aFCsXGbbkGtTE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:48 | 2022-06-09 | 2022-07-29 |
 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 | 2022-11-10 | 2022-12-03 |
+| [O Algo](https://open.spotify.com/track/6HOFbqEPUUPTJkaYKPgeGM) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [O Algo](https://open.spotify.com/album/3QQh3zFEo84rNVETdwCuVM) | 3:18 | 2023-01-19 |  |
 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 | 2022-06-09 |  |
 | [Otro Vals](https://open.spotify.com/track/3TWVcNBjDU3RSgFUD8y4ZX) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Otro Vals](https://open.spotify.com/album/2Vs0EqkNU9H5owwyCAahoJ) | 3:31 | 2022-06-09 | 2022-07-29 |
 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 | 2022-06-09 |  |

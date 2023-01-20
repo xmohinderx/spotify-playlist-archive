@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "This Addiction",
+        "url": "https://open.spotify.com/album/4wJjPJqEFDWbEK1UTLP4Da"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/1D7mtUg27dzLEfDH8vDubE"
+    },
+    {
+      "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 154866,
       "name": "This Addiction",
       "url": "https://open.spotify.com/track/2sTiGv2fPnxqH3igvfnaVf"

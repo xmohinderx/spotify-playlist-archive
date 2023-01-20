@@ -1170,10 +1170,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 252934,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI"
+    },
+    {
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P"
+      },
+      "artists": [
+        {
+          "name": "Victor J Sefo",
+          "url": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253004,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr"
     },
     {
       "album": {

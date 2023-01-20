@@ -1,13 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9mHcd54VItZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9mHcd54VItZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9mHcd54VItZ)
 
-### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
+### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> Only the best in South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-172 songs - 10 hr 12 min
+174 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [9\-2\-5](https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [9\-2\-5](https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5) | 3:07 | 2023-01-19 |  |
 | [A New Transition](https://open.spotify.com/track/7mVsaC8PE3kbH8x1p4tYlg) | [Sonofold](https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD) | [Ghosts](https://open.spotify.com/album/7FIlVg34u4qLxKS5ckjFgr) | 3:33 | 2022-03-03 | 2022-09-23 |
 | [A week in the life of Rue](https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [A week in the life of Rue](https://open.spotify.com/album/36ZyxfmSrx40YfqLqOkCZE) | 1:46 | 2022-07-21 |  |
 | [Ace and the Butternut](https://open.spotify.com/track/11AD2oUaR1kxX5yez8xXjW) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Ace and the Butternut](https://open.spotify.com/album/6mvpakbGhtdsFiSJA07wrP) | 2:37 | 2022-08-04 |  |
@@ -31,6 +32,7 @@
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 | 2022-11-18 |
+| [Burning Building](https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Burning Building](https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT) | 2:56 | 2023-01-19 |  |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
 | [Caught in Suspension](https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Caught in Suspension](https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG) | 4:07 | 2022-03-24 | 2022-10-07 |
 | [Cherry Glitter](https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa) | [Highway Apostles](https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE) | [Cherry Glitter](https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf) | 3:28 | 2022-12-08 |  |
@@ -48,7 +50,7 @@
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 |  |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I) | [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Don't Say Goodbye](https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd) | 4:24 | 2022-11-24 | 2022-12-09 |
-| [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 | 2022-08-25 |  |
+| [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 | 2022-08-25 | 2023-01-20 |
 | [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 | 2022-08-25 |  |
 | [Druppels](https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Druppels](https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL) | 3:49 | 2022-03-03 | 2022-09-16 |
 | [Eisbein](https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [Eisbein](https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U) | 5:12 | 2021-11-11 | 2022-08-05 |
@@ -178,7 +180,7 @@
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |
 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 | 2022-08-04 |  |
-| [YOU2ME](https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [YOU2ME](https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x) | 2:51 | 2022-08-25 |  |
+| [YOU2ME](https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [YOU2ME](https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x) | 2:51 | 2022-08-25 | 2023-01-20 |
 | [Your Best Friend Hates Me 2](https://open.spotify.com/track/7tAo2VzcrgL4a0KAZsU2HV) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Your Best Friend Hates Me 2](https://open.spotify.com/album/3cxN0iVrpeWaBHUJnVcaCu) | 2:45 | 2021-10-07 | 2022-05-27 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

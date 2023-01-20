@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-455 songs - 1 day 2 hr 21 min
+456 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 | 2022-12-13 |  |
-| [Canopus](https://open.spotify.com/track/4LBsz7g9b4zs9EUSgQNo7J) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Object N from Star NayutaN](https://open.spotify.com/album/0Tjejk8tpCFquoNqOgXBKm) | 2:56 | 2023-01-03 |  |
+| [Canopus](https://open.spotify.com/track/4LBsz7g9b4zs9EUSgQNo7J) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Object N from Star NayutaN](https://open.spotify.com/album/0Tjejk8tpCFquoNqOgXBKm) | 2:56 | 2023-01-03 | 2023-01-20 |
 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 |  |
 | [CH4NGE \- feat\. 可不](https://open.spotify.com/track/4qVHEZ8pbcI7EyliSL7AHJ) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/2c9Bn5UuRZj9YVykyjb0hc) | 2:12 | 2022-06-09 | 2022-07-29 |
 | [CHO \-DARI\-](https://open.spotify.com/track/6yKuRTRiaM1fUmxasPWCUu) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 2:39 | 2022-06-30 | 2022-07-17 |
@@ -250,6 +250,7 @@
 | [ディジーディジー](https://open.spotify.com/track/52NUibYIQbeJDCQNOQWq7v) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ディジーディジー](https://open.spotify.com/album/2PhqyHfhXWWM1OJJCSWb0s) | 3:38 | 2022-06-09 | 2022-07-22 |
 | [デイバイデイズ](https://open.spotify.com/track/516VOCrYMVailWonQYvlXB) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [デイバイデイズ](https://open.spotify.com/album/6nhA9TfMKJdKAhg1upHyd1) | 2:09 | 2022-06-09 | 2022-07-29 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-10-13 | 2022-12-14 |
+| [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-01-19 |  |
 | [ドクター=ファンクビート](https://open.spotify.com/track/10aURDc5wCO14NOKOHeBC0) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:30 | 2022-06-09 | 2022-07-04 |
 | [トキヲ・ファンカ](https://open.spotify.com/track/1zzdir27Qnk0hS0JMhChnt) | [takamatt](https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE) | [イーストエンド・パンデモニウム](https://open.spotify.com/album/7meiSQd7gVv7X2Qy8vUiwS) | 5:40 | 2022-06-14 | 2022-07-16 |
 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 | 2022-06-09 | 2022-07-29 |
@@ -378,7 +379,7 @@
 | [夜になったら耿十八は](https://open.spotify.com/track/2MSy9UNx9xNfOLbTHae4tb) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3b4ylZFSqdxu4vUtbgYPav) | 3:37 | 2022-06-09 | 2022-07-21 |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-06-09 | 2022-07-17 |
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
-| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 | 2022-07-21 |
+| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 |  |
 | [大喜](https://open.spotify.com/track/0iBSqeDY6L8CYlluPCAs4h) | [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [大喜](https://open.spotify.com/album/2apBfgycWk8DB9gCZ8CwqY) | 2:43 | 2022-07-14 | 2022-07-20 |
 | [天使](https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [atelier](https://open.spotify.com/album/7xIVP85Kp3XYjsitCpGyKO) | 2:49 | 2022-07-26 | 2022-07-28 |
 | [天才ロック \(feat\. 鏡音リン\)](https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj) | [Karasuya Sabou](https://open.spotify.com/artist/1UaHeL0MQ2sgcGGx4hasHA), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [初音ミク「マジカルミライ」10th Anniversary OFFICIAL ALBUM](https://open.spotify.com/album/2YxLUDzV68rc9cM1v7SFeE) | 3:23 | 2022-10-27 | 2022-11-25 |
@@ -411,7 +412,7 @@
 | [死んでしまったのだろうか](https://open.spotify.com/track/1sHDYdpV5dSiyqEYE7yNnF) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Love & Music \-DISC1\-](https://open.spotify.com/album/1UoiramCzsnj0WItu5s60n) | 3:30 | 2022-06-09 | 2022-07-24 |
 | [死んでしまったんだ](https://open.spotify.com/track/7x2fFCV5fqdvHTIAO91vJ4) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk) | [死んでしまったんだ](https://open.spotify.com/album/7wBx0uYob6TGZ2K5Q02F81) | 2:59 | 2022-06-30 | 2022-07-21 |
 | [残星と鴎](https://open.spotify.com/track/1M07a757rwmx99M8XUiMdk) | [立椅子かんな](https://open.spotify.com/artist/7y3hS1XfKRHoWbs5SrJyJy) | [残星と鴎](https://open.spotify.com/album/08VJMW4iDXIQ8e0IM5JTgJ) | 3:41 | 2022-07-19 | 2022-07-23 |
-| [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 | 2022-12-13 |  |
+| [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 | 2022-12-13 | 2023-01-20 |
 | [気まぐれ流星群](https://open.spotify.com/track/3GeYWTHbDTU98WhkowXavL) | [パンD](https://open.spotify.com/artist/6XbY0ubbBCcuM1ony5gu9I) | [気まぐれ流星群](https://open.spotify.com/album/7r3JbbLphgZPeshbhYzyxt) | 3:28 | 2022-06-09 | 2022-07-23 |
 | [水色侵略](https://open.spotify.com/track/7mzT4nSOs335TWzIVrRarX) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [水色侵略](https://open.spotify.com/album/669k9UED6tumRgLBqWzZ1T) | 4:09 | 2022-06-14 | 2022-07-09 |
 | [泡沫未来 \(feat\. 初音ミク\)](https://open.spotify.com/track/1dV1V1xgkrnWE1GcK5fsdw) | [加賀\(ネギシャワーP\)](https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm) | [Negi Shower Party!!](https://open.spotify.com/album/1O9VzscrVd71TqaTIhV2sC) | 2:51 | 2022-06-14 | 2022-07-17 |

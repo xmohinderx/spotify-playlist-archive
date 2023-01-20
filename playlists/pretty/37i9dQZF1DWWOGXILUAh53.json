@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with the all the drops. Cover: Sam Feldt & Cate Downey",
-  "num_followers": 106417,
+  "num_followers": 106493,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGM4YzEzMDM4Mzc2NWMxNTUzOGRjMjY0ZTFjZDAyMzVh",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDI3NWJiYmQzZDRlNTI4ZGJmYmIzMjlmNGJkOTI3MzM2",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -32,7 +32,7 @@
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "One Of Us",
-        "url": "https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn"
+        "url": "https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 178010,
       "name": "One Of Us",
-      "url": "https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit"
+      "url": "https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -568,12 +568,12 @@
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
           "name": "Shouse",
           "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
       "duration_ms": 178809,

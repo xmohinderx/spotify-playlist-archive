@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Hoi",
+        "url": "https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer"
+      },
+      "artists": [
+        {
+          "name": "Hussein Machozi",
+          "url": "https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186775,
+      "name": "Hoi",
+      "url": "https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv"
+    },
+    {
+      "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
       },
@@ -354,7 +376,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 158275,
       "name": "Jinadi",
       "url": "https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps"
@@ -976,7 +998,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 245812,
       "name": "Nitakupenda",
       "url": "https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h"
@@ -1074,6 +1096,24 @@
       "duration_ms": 184945,
       "name": "Sina Neno",
       "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
+    },
+    {
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136422,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7"
     },
     {
       "album": {

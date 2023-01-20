@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "Back in time",
+        "url": "https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2"
+      },
+      "artists": [
+        {
+          "name": "darecloud",
+          "url": "https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp"
+        },
+        {
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "Back in time",
+      "url": "https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E"
+    },
+    {
+      "album": {
         "name": "Baia Del Sole",
         "url": "https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG"
       },
@@ -1012,6 +1038,24 @@
       "duration_ms": 129438,
       "name": "Blossoming",
       "url": "https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z"
+    },
+    {
+      "album": {
+        "name": "Bonafide Bars",
+        "url": "https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149177,
+      "name": "Bonafide Bars",
+      "url": "https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ"
     },
     {
       "album": {
@@ -1564,7 +1608,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 174654,
       "name": "Chasing Clouds",
       "url": "https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm"
@@ -1622,6 +1666,32 @@
       "duration_ms": 115263,
       "name": "Chili is hot",
       "url": "https://open.spotify.com/track/7JnFdD5M4sKv4j26plgBPy"
+    },
+    {
+      "album": {
+        "name": "Chill Sunday",
+        "url": "https://open.spotify.com/album/3VDNyeqxKu5L5HsfMrSzv0"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Smoodmood",
+          "url": "https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei"
+        },
+        {
+          "name": "himood",
+          "url": "https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Chill Sunday",
+      "url": "https://open.spotify.com/track/73iDfMEG9TA3nUa4uimF5M"
     },
     {
       "album": {
@@ -1726,7 +1796,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 156734,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn"
@@ -2038,6 +2108,24 @@
       "duration_ms": 153522,
       "name": "Coral",
       "url": "https://open.spotify.com/track/55RpiZ4sQaEEbcGAOukL3S"
+    },
+    {
+      "album": {
+        "name": "crimeage",
+        "url": "https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp"
+      },
+      "artists": [
+        {
+          "name": "Meringuemanic",
+          "url": "https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124954,
+      "name": "crimeage",
+      "url": "https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG"
     },
     {
       "album": {
@@ -2734,6 +2822,28 @@
       "duration_ms": 150000,
       "name": "Elysian Fields",
       "url": "https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS"
+    },
+    {
+      "album": {
+        "name": "Endless Color",
+        "url": "https://open.spotify.com/album/2HsmtdYEE6Icr99penQsU8"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "Kendall Miles",
+          "url": "https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "Endless Color",
+      "url": "https://open.spotify.com/track/4TIULvKSfY1AJ1egulOzfp"
     },
     {
       "album": {
@@ -12508,6 +12618,24 @@
       "duration_ms": 138666,
       "name": "want ya",
       "url": "https://open.spotify.com/track/6HV10yCjxRNOM0prvTdfhj"
+    },
+    {
+      "album": {
+        "name": "warm & orange",
+        "url": "https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW"
+      },
+      "artists": [
+        {
+          "name": "AUIIRA",
+          "url": "https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "warm & orange",
+      "url": "https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG"
     },
     {
       "album": {

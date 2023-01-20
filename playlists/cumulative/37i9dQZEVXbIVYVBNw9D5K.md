@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-586 songs - 1 day 5 hr 44 min
+587 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Bırakma Kendini](https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Bırakma Kendini](https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP) | 4:00 | 2021-03-27\* | 2021-06-03 |
 | [C \- CHORBA](https://open.spotify.com/track/0Xztn8NxTd0KreEFLxI7SX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:54 | 2022-10-15 | 2022-10-20 |
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
-| [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 |  |
+| [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 | 2023-01-20 |
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
 | [CEHENNEM](https://open.spotify.com/track/2ipcDCBzdfj8KCcga2h39C) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:28 | 2022-09-10 | 2022-09-15 |
 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 | 2022-12-04 | 2022-12-22 |
@@ -206,6 +206,7 @@
 | [FESTİVAL](https://open.spotify.com/track/7jQri0CCEkeOGt7fedmmsu) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [FESTİVAL](https://open.spotify.com/album/3HGvrhL5kRdzZzay6jOou1) | 2:32 | 2022-04-02 | 2022-04-18 |
 | [Fiji](https://open.spotify.com/track/4vu9a9VrHQmHnpWQHMFJXs) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-05 |
 | [Film](https://open.spotify.com/track/17zIQr0R5oOWf4XHcRPDL7) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Film](https://open.spotify.com/album/4YjsCRgWqQbsgkAqeMw2yu) | 1:58 | 2022-07-02 | 2022-07-07 |
+| [Firuze](https://open.spotify.com/track/7wy9gDTUipeY35NKn45ru5) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Firuze](https://open.spotify.com/album/3Thvcaq42db8HAeRt7wfgY) | 5:04 | 2023-01-19 |  |
 | [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 | 2022-10-11 | 2022-11-30 |
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Fırtınadayım](https://open.spotify.com/track/3QopdONAzZHRO1P4UQrNvw) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Maya](https://open.spotify.com/album/1SjI5mOEGsnrfHRR4zY88f) | 4:22 | 2022-11-13 |  |

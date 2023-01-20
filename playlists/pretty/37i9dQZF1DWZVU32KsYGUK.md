@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style, elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,065 likes - 199 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,106 likes - 199 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 40 | [Safe Haven](https://open.spotify.com/track/0cESP2TXfbZTHQAqX1vI3g) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Monologues](https://open.spotify.com/album/7hjDYNJBebXPyQO7VwCTEQ) | 2:17 |
 | 41 | [Passing By](https://open.spotify.com/track/0HRMy4dYhy40Ws3GIqpFAk) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Passing By](https://open.spotify.com/album/5RoRpy3WX5ytEw1p8Lf5qg) | 2:02 |
 | 42 | [Rapture](https://open.spotify.com/track/5fx8Qj1gJgNVytj035i5JN) | [Katia Waizel](https://open.spotify.com/artist/2fG2mbIMWrjg3vepzDjAh0) | [Rapture](https://open.spotify.com/album/28YNmRiOg4s2MISmFp2Lzp) | 1:57 |
-| 43 | [Freedom \(Freiheit\)](https://open.spotify.com/track/5cLWloXWLcveXo3AU1uJDJ) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Freedom \(Freiheit\)](https://open.spotify.com/album/1dR6mqRA9x9JxewhWe6W1u) | 3:19 |
+| 43 | [Freedom \(Freiheit\)](https://open.spotify.com/track/1l7tVJDQQqVsQTDblDwnUC) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Original Motion Picture Soundtrack and Music Inspired by "Schattenkind"](https://open.spotify.com/album/4WPjk87zKjOFKSgmKF8xDd) | 3:19 |
 | 44 | [Virgil's Keep](https://open.spotify.com/track/0XwIXwm8GgFI3IlSB7eKNE) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Virgil's Keep](https://open.spotify.com/album/0H0intbJCcPJKpvailkeTb) | 3:08 |
 | 45 | [En Lille Drøm](https://open.spotify.com/track/4kKFkTHhUgNz1pAUCmtF7l) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [En Lille Drøm](https://open.spotify.com/album/1qC1Mg1LyYKQVs7cpcniHb) | 2:18 |
 | 46 | [The Trossachs](https://open.spotify.com/track/4AtlOZKRC6JKiO2rPeclbt) | [Kyran Martin](https://open.spotify.com/artist/64MFoNwcBdeE8R9hqpo6cH) | [The Trossachs](https://open.spotify.com/album/5Tjp20cBDI238C82Nvj9wu) | 2:32 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 198 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
 | 199 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MTY3MzI4MzIzNiwwMDAwMDAwMDkwYWQ4MDZiM2MxYzA2Y2U0ODA4NjMwZmJjOTY3Nzcw`
+Snapshot ID: `MTY3MzI4MzIzNiwwMDAwMDAwMDA5OTAxYjdjNDJhNTZkZTEwYjhjN2VmNWYxYWFhNjM2`

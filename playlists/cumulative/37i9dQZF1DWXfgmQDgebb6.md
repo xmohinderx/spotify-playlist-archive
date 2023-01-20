@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Miso\(미소\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: SHIRT\)
 
-249 songs - 13 hr 41 min
+251 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,10 +118,11 @@
 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 | 2022-05-27 |  |
 | [Intro5](https://open.spotify.com/track/132Sr4XzND5lLD2gBg8wpz) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 5:30 | 2022-05-27 | 2022-07-27 |
 | [island](https://open.spotify.com/track/0qhBGQQnVuf1yygqwTIBMo) | [OhAn](https://open.spotify.com/artist/1rtMEdkyhkt6K6CAclvkXX), [이나래](https://open.spotify.com/artist/6GowlIsKd7y09TomG1R0G2) | [island](https://open.spotify.com/album/2i00pi3cbshoktcuGgsyA4) | 3:40 | 2022-05-27 | 2022-07-22 |
-| [It Was All a Dream](https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:16 | 2022-05-27 |  |
+| [It Was All a Dream](https://open.spotify.com/track/7GzefGaB1o5MpjDj811ISL) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:16 | 2022-05-27 | 2023-01-20 |
 | [JALJINAE](https://open.spotify.com/track/0rFcfnEE9rjl4aXNF3J716) | [Benini](https://open.spotify.com/artist/4SZG62kApZUjkX6j9OmOuJ) | [Achilles](https://open.spotify.com/album/0gEUrkgQCzCQ0zCV5nwoag) | 3:04 | 2022-06-09 | 2022-07-26 |
 | [Jellyfish](https://open.spotify.com/track/11cnULGcPpN4KNW763W3hN) | [Moony](https://open.spotify.com/artist/2WDJiiyZu2rkJtOVJGoVWY) | [Swimming](https://open.spotify.com/album/5aW41llKxMY0ebdLKN96GD) | 2:56 | 2022-05-27 | 2022-07-27 |
 | [John 999](https://open.spotify.com/track/1LiDR8RjJrfvG3vHT6dNig) | [Josee](https://open.spotify.com/artist/7HajZEOIyNTjI0DTeLx8Y1) | [post post post!](https://open.spotify.com/album/2ImEyMR0rxKYe8VYFutrzq) | 3:02 | 2022-05-27 | 2022-07-28 |
+| [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 | 2023-01-19 |  |
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-08 | 2023-01-16 |
 | [Killing Me Softly](https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U) | [YEONSOO](https://open.spotify.com/artist/6FmCROVFW3PQIlqoBYAocb) | [Killing Me Softly](https://open.spotify.com/album/0GJGagxsW2ICMbhu5E2rUq) | 4:07 | 2023-01-10 |  |
 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 | 2022-05-27 |  |
@@ -132,6 +133,7 @@
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-13 | 2022-07-29 |
 | [Lauren](https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Lauren](https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf) | 3:03 | 2022-09-21 | 2022-12-20 |
 | [Lifemustgoon](https://open.spotify.com/track/1WMPcQcUGlBpB1fwTVzDfn) | [Os Noma](https://open.spotify.com/artist/2Iq56aPt8aSs2ONhBrDbYt), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Lifemustgoon](https://open.spotify.com/album/2b1RqPGUmDNjC05nWoY0Lv) | 1:59 | 2022-05-27 | 2022-07-05 |
+| [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 | 2023-01-19 |  |
 | [LIMBO \(feat\. Swervy\)](https://open.spotify.com/track/0VaMlRGroQ8RgVrQv3s8Uv) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [BOBO](https://open.spotify.com/album/4WS73BYKxWkfs30vPUhcuj) | 2:15 | 2022-12-19 |  |
 | [Liquor](https://open.spotify.com/track/4ouWk35JipdUIXfnvqg57U) | [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Jaeeun](https://open.spotify.com/artist/1HxM1IZDClrR9OCpaXPMNa), [Laura](https://open.spotify.com/artist/1xwZAAavDMKPqjGiE2tqNu) | [Liquor](https://open.spotify.com/album/0n1DZGOSHvWlTzU6ephAto) | 3:55 | 2022-05-27 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 | 2022-12-19 |  |
@@ -179,7 +181,7 @@
 | [ratherkillyou](https://open.spotify.com/track/4sY83Ocw3vaWuBd5Xou6lp) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [ratherkillyou](https://open.spotify.com/album/5vqs72obiFXtb4pQHyRvGC) | 3:10 | 2022-05-27 | 2022-07-29 |
 | [Rear Window](https://open.spotify.com/track/0ZONdIvVPlcAJknD3cMllz) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [PPONG](https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4) | 4:45 | 2022-06-18 | 2022-07-28 |
 | [RECEiVE](https://open.spotify.com/track/73psAxgppCkcJl476p9UU3) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [RECEiVE](https://open.spotify.com/album/2HIGb24KVCC8xyaOnLsRrq) | 3:09 | 2022-05-27 | 2022-07-06 |
-| [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 | 2022-06-09 |  |
+| [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 | 2022-06-09 | 2023-01-20 |
 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 | 2022-06-09 |  |
 | [Reset](https://open.spotify.com/track/1GH0sHRBwLYJwuyqBPsf0q) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3), [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc) | [Reset](https://open.spotify.com/album/5iXtqZVn6OEJ15jGmFmnaD) | 2:24 | 2022-06-18 | 2022-08-02 |
 | [Ringer](https://open.spotify.com/track/68p04jkbhAPjGvshurj9q6) | [Grim](https://open.spotify.com/artist/1uGApBKkicDwldNI2yg3ji) | [Ringer](https://open.spotify.com/album/2pBT7qA93Dq1DkeoSZt6uN) | 3:46 | 2022-05-27 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring The Bromigos. Updates every Wednesday.",
-  "num_followers": 168578,
+  "num_followers": 168582,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMGExOGZjZjJlYTU5ZmE1OTlkNDM5MmIyMGYyZDhlYzI2",
+  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMDU5Y2Y0Yzc2ZWQxOGE4YjM3NDZmYmRlZTA2Mzk4NGZk",
   "tracks": [
     {
       "added_at": "2023-01-18 23:04:56",
@@ -443,6 +443,38 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "No Me Queda Mas",
+        "url": "https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu"
+      },
+      "artists": [
+        {
+          "name": "Yelka",
+          "url": "https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji"
+        }
+      ],
+      "duration_ms": 101117,
+      "name": "No Me Queda Mas",
+      "url": "https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "La Idea de Ti",
+        "url": "https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV"
+      },
+      "artists": [
+        {
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+        }
+      ],
+      "duration_ms": 312891,
+      "name": "La Idea de Ti",
+      "url": "https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "Amor Tumbado (Bachata RMX)",
         "url": "https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd"
       },
@@ -479,18 +511,18 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "No Me Queda Mas",
-        "url": "https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu"
+        "name": "Noche Fria",
+        "url": "https://open.spotify.com/album/3KCsV51EuIW9DLG0c3Q5Jc"
       },
       "artists": [
         {
-          "name": "Yelka",
-          "url": "https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji"
+          "name": "Edmundo",
+          "url": "https://open.spotify.com/artist/0tx5BBRYJzQzY84ThxLEtu"
         }
       ],
-      "duration_ms": 101117,
-      "name": "No Me Queda Mas",
-      "url": "https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH"
+      "duration_ms": 155147,
+      "name": "Noche Fria",
+      "url": "https://open.spotify.com/track/6V5gYKBRPIlU1c14yf4G8b"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -511,22 +543,6 @@
       "duration_ms": 168576,
       "name": "Volver a Verte",
       "url": "https://open.spotify.com/track/22WlMDCW6ESoWOdpNSzvsA"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "Noche Fria",
-        "url": "https://open.spotify.com/album/3KCsV51EuIW9DLG0c3Q5Jc"
-      },
-      "artists": [
-        {
-          "name": "Edmundo",
-          "url": "https://open.spotify.com/artist/0tx5BBRYJzQzY84ThxLEtu"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "Noche Fria",
-      "url": "https://open.spotify.com/track/6V5gYKBRPIlU1c14yf4G8b"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "SALI\u00d3 EL SOL",
-        "url": "https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD"
-      },
-      "artists": [
-        {
-          "name": "PCAS",
-          "url": "https://open.spotify.com/artist/7zmFV5etYHA7DYuJYJZXvh"
-        }
-      ],
-      "duration_ms": 150509,
-      "name": "SALI\u00d3 EL SOL",
-      "url": "https://open.spotify.com/track/01MYnmiGiS72uFRJduLSOa"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "Tonight we Dance",
         "url": "https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 217288,
       "name": "Tonight we Dance",
       "url": "https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "SALI\u00d3 EL SOL",
+        "url": "https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD"
+      },
+      "artists": [
+        {
+          "name": "PCAS",
+          "url": "https://open.spotify.com/artist/7zmFV5etYHA7DYuJYJZXvh"
+        }
+      ],
+      "duration_ms": 150509,
+      "name": "SALI\u00d3 EL SOL",
+      "url": "https://open.spotify.com/track/01MYnmiGiS72uFRJduLSOa"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "La Idea de Ti",
-        "url": "https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV"
-      },
-      "artists": [
-        {
-          "name": "Carolina en Llamas",
-          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
-        }
-      ],
-      "duration_ms": 312891,
-      "name": "La Idea de Ti",
-      "url": "https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "D\u00e1tiles",
         "url": "https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 193725,
       "name": "D\u00e1tiles",
       "url": "https://open.spotify.com/track/3q6YPWJZiDcxGrrGcIoLZI"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "\u00bfsi me muero?",
-        "url": "https://open.spotify.com/album/5vXMfP320B8sv51RpcFFI9"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "\u00bfsi me muero?",
-      "url": "https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "Luna Llena",
-        "url": "https://open.spotify.com/album/1qIVHrzSRxCEEfFw5UJcFo"
+        "name": "\u00bfsi me muero?",
+        "url": "https://open.spotify.com/album/5vXMfP320B8sv51RpcFFI9"
       },
       "artists": [
         {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
         }
       ],
-      "duration_ms": 168791,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/4GoUK8z8lKY9V6bfuOvyyk"
+      "duration_ms": 213698,
+      "name": "\u00bfsi me muero?",
+      "url": "https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -743,6 +727,22 @@
       "duration_ms": 190714,
       "name": "Por Que Me Haces Llorar",
       "url": "https://open.spotify.com/track/10j0KlhbXSzx9pKkjncSPr"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/1qIVHrzSRxCEEfFw5UJcFo"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 168791,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/4GoUK8z8lKY9V6bfuOvyyk"
     },
     {
       "added_at": "2023-01-18 23:04:56",

@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 331762,
+  "num_followers": 331902,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2OTk5MSwwMDAwMDAwMDA0YTVhN2UzZDEyYTViOTgwM2IwYTljYzVhY2Y0MDNk",
+  "snapshot_id": "MTY3Mzg2OTk5MSwwMDAwMDAwMDgyZDdjMWUzZDc3YzBlNzg3NjVkOThmNjQ1OGJmZDQ3",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:01",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
     },
     {
+      "added_at": "2023-01-20 00:52:56",
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+    },
+    {
       "added_at": "2022-12-21 12:27:01",
       "album": {
         "name": "Loc-ed After Dark",
@@ -135,22 +151,6 @@
       "duration_ms": 263573,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto"
-    },
-    {
-      "added_at": "2023-01-19 00:38:47",
-      "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2022-12-21 12:27:01",
@@ -1022,6 +1022,10 @@
         {
           "name": "3rd Bass",
           "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
+        },
+        {
+          "name": "Zev Love",
+          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
         }
       ],
       "duration_ms": 229840,

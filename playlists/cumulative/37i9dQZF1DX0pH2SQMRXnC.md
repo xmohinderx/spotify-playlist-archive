@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-526 songs - 1 day 6 hr 41 min
+527 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [Cambodia \- Denox Remix](https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw), [Denox](https://open.spotify.com/artist/6FAQqsLCyQZQBKiOSB4Zch) | [Cambodia \(Denox Remix\)](https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP) | 2:56 | 2021-12-16 |  |
 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-27 | 2023-01-03 |
 | [Caprice](https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW) | [Malua](https://open.spotify.com/artist/4aN3I8HO6usYdQEYYTOx0D) | [Caprice](https://open.spotify.com/album/5gpXqeY7nz0TalU07U81Rj) | 2:39 | 2021-12-16 | 2022-11-14 |
+| [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 | 2023-01-19 |  |
 | [Champion](https://open.spotify.com/track/3gDpNo17M8tOu9M0ZbeBMn) | [Seizmic](https://open.spotify.com/artist/2fMGGRQnlvjjRqI7VQ7FTe), [Maxxus](https://open.spotify.com/artist/6xwvQ8GCom0P49WddorSSS), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Champion](https://open.spotify.com/album/2zxdYcTqpkJSt8l0g1e372) | 4:05 | 2021-12-16 | 2022-05-17 |
-| [Checkmate](https://open.spotify.com/track/4P9NGUErZYU2SGWll3lCCS) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin) | [Checkmate](https://open.spotify.com/album/3yPAOFffyPgt2J2fO8AOCs) | 3:22 | 2021-12-16 |  |
+| [Checkmate](https://open.spotify.com/track/4P9NGUErZYU2SGWll3lCCS) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin) | [Checkmate](https://open.spotify.com/album/3yPAOFffyPgt2J2fO8AOCs) | 3:22 | 2021-12-16 | 2023-01-20 |
 | [Chemistry](https://open.spotify.com/track/16sGUzzubbxjTbYokRDR9E) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Chemistry](https://open.spotify.com/album/6i930USyboGVU3PeKzbNwc) | 4:36 | 2022-12-27 | 2023-01-03 |
 | [Children Of Drums \- Headhunterz Remix](https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Children Of Drums \(Headhunterz Remix\)](https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5) | 3:55 | 2021-12-16 |  |
 | [Chosen Ones](https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [Chosen Ones](https://open.spotify.com/album/14XpCCBsBoPu2heUgB5EQs) | 3:22 | 2021-12-16 | 2022-08-19 |

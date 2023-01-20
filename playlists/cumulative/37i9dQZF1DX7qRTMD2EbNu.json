@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A-Liens",
+        "url": "https://open.spotify.com/album/74TSApsNw3pwcNsrrwKuUA"
+      },
+      "artists": [
+        {
+          "name": "Nasa Nassa",
+          "url": "https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143723,
+      "name": "A-Liens",
+      "url": "https://open.spotify.com/track/34MuuwKjd0PvbuQu4H5y7I"
+    },
+    {
+      "album": {
         "name": "The Unbroken",
         "url": "https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO"
       },
@@ -94,6 +112,24 @@
       "duration_ms": 257227,
       "name": "Akatafoc",
       "url": "https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3"
+    },
+    {
+      "album": {
+        "name": "Akatafoc Nsem, Pt. 2",
+        "url": "https://open.spotify.com/album/09YkjkwSbxFMyCBL2VbL9j"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Akatafoc Nsem, Pt. 2",
+      "url": "https://open.spotify.com/track/4bBVwOT3I7Ppd6b6h6usLe"
     },
     {
       "album": {
@@ -424,7 +460,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204210,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT"
@@ -510,7 +546,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187665,
       "name": "Chanti (feat. O'Kenneth, Kwaku DMC & Terrist Carter)",
       "url": "https://open.spotify.com/track/2R2xf4dgtP5kfZ9aVoykHu"
@@ -760,7 +796,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 227399,
       "name": "Don't Judge Me",
       "url": "https://open.spotify.com/track/1y3ZCAnV9zc9phRc90ZimK"
@@ -822,6 +858,24 @@
       "duration_ms": 240337,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/098BS1HCypwZZdX2phJk9L"
+    },
+    {
+      "album": {
+        "name": "Drunkard",
+        "url": "https://open.spotify.com/album/5GqCEW2VDzGSu9Mtdud9bm"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Drunkard",
+      "url": "https://open.spotify.com/track/3Z4UiadFwCrWrxniHN0O0N"
     },
     {
       "album": {
@@ -1487,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Landlord",
+        "url": "https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163224,
+      "name": "Landlord",
+      "url": "https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b"
+    },
+    {
+      "album": {
         "name": "This Is Not The Tape, Sorry 4 The Wait II",
         "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
@@ -1952,7 +2024,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 121558,
       "name": "Problem No Dey Finish - Remix",
       "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
@@ -2341,6 +2413,28 @@
     },
     {
       "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221611,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
+    },
+    {
+      "album": {
         "name": "Trenches Babies",
         "url": "https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd"
       },
@@ -2560,7 +2654,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 152076,
       "name": "We Dey",
       "url": "https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA"

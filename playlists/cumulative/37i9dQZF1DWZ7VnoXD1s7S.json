@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "sungazing",
+        "url": "https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM"
+      },
+      "artists": [
+        {
+          "name": "Video Days",
+          "url": "https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83250,
+      "name": "Bleached",
+      "url": "https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu"
+    },
+    {
+      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl"
       },

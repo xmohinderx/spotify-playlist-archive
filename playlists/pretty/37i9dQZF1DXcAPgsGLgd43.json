@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2445,
+  "num_followers": 2452,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDAwMDEzMjFiM2I3OTVjYmE1NDJmYzJkYTVhNDBjZDQx",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDE0YjM5NjAwYjI1ODcxYTdjMjY0N2I0OTczMmQ2MmFk",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Quiribi (Yamil Remix)",
         "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 366093,
       "name": "Quiribi - Yamil Remix",
       "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Calle EP",
         "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 213953,
       "name": "Calle ft. Villanueva",
       "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
     },
     {
       "added_at": "2021-11-05 06:05:00",

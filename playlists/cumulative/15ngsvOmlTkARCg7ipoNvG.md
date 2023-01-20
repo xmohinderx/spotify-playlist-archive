@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-856 songs - 20 hr 3 min
+857 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Quietude](https://open.spotify.com/track/1IWvJ4eSzu9hEE6Rlirqu8) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Spring Beauty](https://open.spotify.com/album/35D2cTFatHekDeHjEKMcaF) | 1:02 | 2022-03-17 |  |
 | [Reading The Clouds](https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Reading The Clouds](https://open.spotify.com/album/6gymokvnt7nE0apSh1KyKN) | 2:47 | 2022-01-12 |  |
 | [Recreating](https://open.spotify.com/track/0k2eVvdDcy385P0RHRPtSS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:26 | 2022-01-20 |  |
+| [Reflecting Light](https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Reflecting Light](https://open.spotify.com/album/4YfeXu0eclOImmjlD5aZpX) | 1:00 | 2023-01-19 |  |
 | [Relative](https://open.spotify.com/track/4REktrP1OR1w04vkePLS6P) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:13 | 2022-01-12 |  |
 | [Release](https://open.spotify.com/track/2kyAl8r7d4iIcLE1z7Gexo) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:19 | 2022-01-12 |  |
 | [Remembering](https://open.spotify.com/track/5ZPla5Bc3L2e9wahFlMZfw) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Remembering](https://open.spotify.com/album/3Q9o47lcyvYNihqnauJC7O) | 1:46 | 2022-01-20 |  |

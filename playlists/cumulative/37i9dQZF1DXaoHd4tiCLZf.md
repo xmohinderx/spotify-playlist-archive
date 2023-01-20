@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-220 songs - 13 hr 2 min
+221 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 | 2022-12-21 |  |
 | [Désunis de l'univers](https://open.spotify.com/track/4VvstiLJvrQCJ9PXBtBLGz) | [Victorine](https://open.spotify.com/artist/6OcUYzUc21jzaUWQ13CKS9) | [Désunis de l'univers](https://open.spotify.com/album/4WomJlM4nR0aPWCBt2mErc) | 3:33 | 2022-05-20 |  |
 | [Eden](https://open.spotify.com/track/1Y6BVQLmAlfYtWPYUMmxJY) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [Eden](https://open.spotify.com/album/4Fv2alfE4JSq9xgoJSRbJR) | 3:23 | 2022-05-20 |  |
-| [Eiffel Tower](https://open.spotify.com/track/07P7aIuCvpnXJx79YZrvhq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/6BzVsguHJevpF53zFh6t6i) | 3:18 | 2022-05-20 |  |
+| [Eiffel Tower](https://open.spotify.com/track/07P7aIuCvpnXJx79YZrvhq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/6BzVsguHJevpF53zFh6t6i) | 3:18 | 2022-05-20 | 2023-01-20 |
+| [Eiffel Tower](https://open.spotify.com/track/2OzE9L9NEbiE5CO1sP6GQH) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/1XCiAgo40uv4ZV9kVcQBmG) | 3:18 | 2022-12-21 |  |
 | [Enid & Rebecca](https://open.spotify.com/track/3tol5h4bnWalJSHsYATkrN) | [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Nuances](https://open.spotify.com/album/0aFIk7Z4fm7JVZoIKNexxq) | 2:55 | 2022-12-21 |  |
 | [Feel](https://open.spotify.com/track/3z5IbvSx8lDp3KN3BYMEBX) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Good Enuff 001 \- Uni](https://open.spotify.com/album/5l1zncALjUgsRocC71DW5L) | 5:10 | 2022-05-20 |  |
 | [Fils D'or](https://open.spotify.com/track/4iTIpURVOl0aKQvoI8ue7g) | [Burning Peacocks](https://open.spotify.com/artist/4s2RfNqVSy0S6oD9RkUJv4) | [Love Réaction](https://open.spotify.com/album/5L337gccWGdF7FtWQ6udqM) | 4:07 | 2022-05-20 |  |

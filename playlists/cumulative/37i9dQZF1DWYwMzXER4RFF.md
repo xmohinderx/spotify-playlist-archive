@@ -2,9 +2,9 @@
 
 ### [Post Punk](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
+> New no wave, post\-punk, and anything else\. Cover: M\(h\)aol
 
-299 songs - 18 hr 40 min
+302 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 | 2022-10-07 |
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
-| [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 | 2022-08-25 |  |
+| [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 | 2022-08-25 | 2023-01-20 |
 | [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 | 2022-08-25 | 2022-11-19 |
 | [B Boys Anthem](https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50) | 1:23 | 2021-12-06 | 2022-07-21 |
 | [Back to The 70s](https://open.spotify.com/track/5nBofBYgz2bipNxjE9uTX0) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [In A Middle English Town](https://open.spotify.com/album/0P7Exnbir6GAPvbnyGnuJ5) | 3:34 | 2022-03-11 | 2022-07-22 |
@@ -106,9 +106,9 @@
 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 | 2022-03-11 | 2022-07-29 |
 | [Garden of England](https://open.spotify.com/track/2MK4t1CYvNpguCnHgqeYOx) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Garden of England](https://open.spotify.com/album/0mtGJwV52ytiFEV7nxwVbu) | 2:08 | 2022-03-11 | 2022-07-29 |
 | [Get Along](https://open.spotify.com/track/6n7XdLB1hlARYlf6ziccPz) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/5FNhiWRRklskqgooaVJ7Wn) | 2:59 | 2022-01-20 | 2022-06-18 |
-| [Get Unjaded](https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Sod's Toastie](https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd) | 3:16 | 2022-11-18 |  |
+| [Get Unjaded](https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Sod's Toastie](https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd) | 3:16 | 2022-11-18 | 2023-01-20 |
 | [Get Yourself A Friend](https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:50 | 2021-12-06 | 2022-07-24 |
-| [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 | 2022-08-25 |  |
+| [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 | 2022-08-25 | 2023-01-20 |
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |
 | [Going Soft](https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Going Soft](https://open.spotify.com/album/6im74GDpv2EQ1isZ2KouqP) | 3:23 | 2021-12-06 | 2022-07-06 |
 | [Golden](https://open.spotify.com/track/2pREI4cfaKpLUlxWnHVTbQ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Golden](https://open.spotify.com/album/7IBBLDTXQm3II4ulNd9oqk) | 2:10 | 2021-12-06 | 2022-04-21 |
@@ -116,7 +116,7 @@
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-02-25 | 2022-07-10 |
 | [Good Time Charlie](https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Good Time Charlie](https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR) | 2:47 | 2021-12-06 | 2022-07-12 |
 | [Goodnight](https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Goodnight](https://open.spotify.com/album/7u57U9Is8dsIBg91dsq5lr) | 2:37 | 2021-12-06 | 2022-07-25 |
-| [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 | 2022-08-25 | 2022-11-13 |
+| [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 | 2022-08-25 |  |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-06 | 2022-07-28 |
 | [Guinness \- Edit](https://open.spotify.com/track/2wp24J3OWiDAw1I6wYJeLz) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Guinness](https://open.spotify.com/album/6pXZApwEcHeN6atzsVz4vg) | 3:28 | 2022-01-20 | 2022-04-18 |
 | [Half Full](https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Measure](https://open.spotify.com/album/3zOosGBkqCzJTmC6W2brtt) | 4:19 | 2021-12-06 | 2022-07-26 |
@@ -220,7 +220,7 @@
 | [Protathlitis](https://open.spotify.com/track/3El123DgjXaQvGUDEYD0Pl) | [MAZOHA](https://open.spotify.com/artist/0hlfPCo0jrznvYgctoK3e6) | [Protathlitis](https://open.spotify.com/album/20yOzSVl5p33yp4py4cxgu) | 4:32 | 2021-12-06 | 2022-06-08 |
 | [Punk Rock Loser](https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Punk Rock Loser](https://open.spotify.com/album/5TeSxqNuv7aMSdz8P5WEqj) | 3:57 | 2022-06-16 |  |
 | [Queen Sophie for President](https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Queen Sophie for President](https://open.spotify.com/album/1E1pAERqQAcxbKWQ6ZV4g4) | 3:29 | 2021-12-06 | 2022-07-29 |
-| [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 | 2022-06-16 |  |
+| [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 | 2022-06-16 | 2023-01-20 |
 | [Rabbit](https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/4Cc6blc4jNacdDuFiZMdEu) | 1:48 | 2021-12-06 | 2022-07-24 |
 | [Renew](https://open.spotify.com/track/0yAIvuU28qobZ7nO9QcwWL) | [Versing](https://open.spotify.com/artist/2EBCJ8wwWpJXAyjVoiwCw8) | [Renew](https://open.spotify.com/album/2JqAt90rEWisIk3iuw849v) | 3:22 | 2022-03-11 | 2022-04-21 |
 | [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-03-03 | 2022-11-09 |
@@ -279,6 +279,8 @@
 | [The Spy Who Came In from the Cold](https://open.spotify.com/track/4ZnnSuZ3iZ0YpuSJ7SkSX1) | [Document](https://open.spotify.com/artist/3la0L81ZYVo9BpsOdzUaNc) | [The Spy Who Came In from the Cold](https://open.spotify.com/album/09pwWqBCXIbVof7jzrg9NM) | 4:37 | 2021-12-06 | 2022-07-26 |
 | [The Unrepentant Soldier](https://open.spotify.com/track/6JBVbszl38kHvMOXF3j0o7) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [The Unrepentant Soldier](https://open.spotify.com/album/4aPd1sFE9Gm7v9oecOrD9v) | 2:59 | 2022-06-16 | 2022-07-29 |
 | [Theme from Krill](https://open.spotify.com/track/67ttNRUJGWnjeLOQjCtMSV) | [Krill](https://open.spotify.com/artist/6fYCTfRkkNoUd4ZekQRXaO) | [Lucky Leaves](https://open.spotify.com/album/2QnH3CXuNhvl63OyRPovPy) | 3:27 | 2021-12-06 | 2022-06-05 |
+| [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2023-01-19 |  |
+| [Therapy](https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Therapy](https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM) | 2:46 | 2023-01-19 |  |
 | [These Are Not Your Memories](https://open.spotify.com/track/3IibriQcR33GG9ZDkBdLiT) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [These Are Not Your Memories](https://open.spotify.com/album/50ghcLExc0stAzU2ieijfv) | 3:20 | 2021-12-06 | 2022-07-08 |
 | [This Blue Mob](https://open.spotify.com/track/7wvtVjlEWjGy6Vyt7FQCbb) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [This Blue Mob](https://open.spotify.com/album/2a4Tl0WBJGUfVSXdp3VSPU) | 2:59 | 2021-12-06 | 2022-07-27 |
 | [This Heat](https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [This Heat](https://open.spotify.com/album/3UAosGbmzDTVQ8PksPNTIC) | 3:24 | 2021-12-06 | 2022-07-23 |
@@ -290,6 +292,7 @@
 | [Total Football](https://open.spotify.com/track/5fsfk1Oogb99koL8wyzomw) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 4:01 | 2021-12-06 | 2022-07-29 |
 | [Total Football](https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 4:01 | 2022-06-16 |  |
 | [Trials And Tribulations](https://open.spotify.com/track/6RL8zPiCh34CcBjQhnjGJp) | [Roxy Girls](https://open.spotify.com/artist/1gtmuSSPr9dQKaLWHooNew) | [Trials And Tribulations](https://open.spotify.com/album/0m4EQ6UKYYoaxhDIGF9Qk7) | 2:54 | 2021-12-06 | 2022-07-16 |
+| [Troglodyte](https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:19 | 2023-01-19 |  |
 | [Tropic](https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T) | [Glows](https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [Tropic](https://open.spotify.com/album/1YtLqjjhgaxNI6dkUQ2PlU) | 4:34 | 2021-12-06 | 2022-10-23 |
 | [Uber Alles](https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Uber Alles](https://open.spotify.com/album/1yvr4yB7fEgTUV7GIEBAlS) | 3:54 | 2021-12-06 | 2022-07-03 |
 | [Under Control](https://open.spotify.com/track/0171LDd84HFEbAQlf034jz) | [Coffee House Anarchists](https://open.spotify.com/artist/3E3TnRtEbsrdKuzF5e2Dhm) | [Ask a Flower Not to Bloom in Spring](https://open.spotify.com/album/3nFFMaj78fk5L36pmAyuSe) | 3:04 | 2021-12-06 | 2022-07-20 |

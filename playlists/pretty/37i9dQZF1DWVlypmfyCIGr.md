@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ももすももす
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,630 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,687 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 38 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 |
 | 39 | [キミノイル世界線 \- feat\. another anima](https://open.spotify.com/track/1bfBRHT9vhyfKmGeJUrZdy) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [キミノイル世界線 \(feat\. another anima\)](https://open.spotify.com/album/2BjAHeSPzfrfulICFUaVIb) | 4:34 |
 | 40 | [裏目シアター](https://open.spotify.com/track/6uNbvR25P2N6UJuIu1QKJ5) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [裏目シアター](https://open.spotify.com/album/1MOP0YFjTGeGkamOxZE01Z) | 3:21 |
-| 41 | [Sorry](https://open.spotify.com/track/5fryclC3ZpjXGJAdNix2uZ) | [WHITE JAM](https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ) | [Sorry](https://open.spotify.com/album/384Wf9eVJVou8CpcxkgGID) | 3:39 |
+| 41 | [Sorry](https://open.spotify.com/track/4D7cOlQz46mcaDrjSG17HX) | [WHITE JAM](https://open.spotify.com/artist/4F0WbuD4S82qZOkTYbsUxJ) | [COLORS](https://open.spotify.com/album/1HBspwW907zywL4plqTl0M) | 3:38 |
 | 42 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 |
 | 43 | [MAKEUP](https://open.spotify.com/track/1rZR1s6E11pAsMjEJXz26m) | [0am](https://open.spotify.com/artist/5y1AqWocona4stBLsBw1UJ) | [MAKEUP](https://open.spotify.com/album/6pm0FkkNulaOjTU3MsVMu4) | 2:53 |
 | 44 | [悪役のはなし](https://open.spotify.com/track/5Pem1B63fMtaxZonslKJZN) | [あるくとーーふ](https://open.spotify.com/artist/5MWrOG9C4xK1wPeH6Wk36W) | [悪役のはなし](https://open.spotify.com/album/4OXm75F4V2I0XVGcxYsvHZ) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Angel](https://open.spotify.com/track/6UYOZs1HtpssSHPEfQFVAw) | [WALTZMORE](https://open.spotify.com/artist/32gr6f3nCBJZeOpu6GD1lE) | [Angel](https://open.spotify.com/album/01KMFpt41OQqg34iC2tTDi) | 3:35 |
 | 80 | [Fish as like me is…](https://open.spotify.com/track/4psCqj4hKxuY12kZwmZBGC) | [湯木慧](https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr) | [Fish as like me is…](https://open.spotify.com/album/51s7qOmng4KEPZCjkRgNXn) | 4:46 |
 
-Snapshot ID: `MTY3Mzg4MTIwMCwwMDAwMDAwMGUzNzU1Mzk0OGVlZjFlMTUyYWVhMGZlY2QzMGEzMGIy`
+Snapshot ID: `MTY3Mzg4MTIwMCwwMDAwMDAwMGQ3MmZmOGVmNDM0OWQ4NjA3ODYyYzRhODU4ZWU3ZjQ0`

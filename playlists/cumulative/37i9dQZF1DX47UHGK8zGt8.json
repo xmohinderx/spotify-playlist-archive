@@ -2192,6 +2192,28 @@
     {
       "album": {
         "name": "Nasce o Sol: Ame a Vida",
+        "url": "https://open.spotify.com/album/3vUUAHrBiyG23PaaCTW5eF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184492,
+      "name": "Nasce o Sol: Ame a Vida",
+      "url": "https://open.spotify.com/track/4Avann3g8ySUr9hossct5T"
+    },
+    {
+      "album": {
+        "name": "Nasce o Sol: Ame a Vida",
         "url": "https://open.spotify.com/album/1EnvyB0GF8Kanfr3CQxXge"
       },
       "artists": [
@@ -3252,7 +3274,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"

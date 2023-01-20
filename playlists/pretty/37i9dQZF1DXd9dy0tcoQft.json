@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 12006,
+  "num_followers": 12010,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDkxMzJmYmQwMjBlNGQ5MjUwMzYxMjZiZmM1YWY3MmY3",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGFlMDExMDkxNTE1MjE3N2U1OTc1N2Q1MWQ1MWE4NDc3",
   "tracks": [
     {
       "added_at": "2022-12-06 11:40:54",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-12-06 11:40:54",
       "album": {
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
+      },
+      "artists": [
+        {
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+        }
+      ],
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE"
+    },
+    {
+      "added_at": "2022-12-06 11:40:54",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
-    },
-    {
-      "added_at": "2022-12-06 11:40:54",
-      "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
-      },
-      "artists": [
-        {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
-        }
-      ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE"
     },
     {
       "added_at": "2022-12-06 11:40:54",
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b"
     },
     {
-      "added_at": "2023-01-19 01:09:21",
+      "added_at": "2023-01-20 01:00:42",
       "album": {
         "name": "Sky has open doors",
         "url": "https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU"

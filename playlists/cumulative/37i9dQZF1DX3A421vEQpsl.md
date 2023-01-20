@@ -4,7 +4,7 @@
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana & Malaika Arora
 
-91 songs - 5 hr 18 min
+92 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [The Jawaani Song](https://open.spotify.com/track/3IzQc4KEAFd8lIc90X7FZr) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Student of the Year 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM) | 4:13 | 2022-07-04 |  |
 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 | 2022-05-24 |  |
 | [Tip Tip \- From "Lockdown"](https://open.spotify.com/track/69iaaF0VAWOciXqJ2wfe54) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tip Tip \(From "Lockdown"\)](https://open.spotify.com/album/5oDUWgZrLsZvB4PQxffUuO) | 3:06 | 2022-05-24 |  |
+| [Tu Mile Dil Khile](https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Tu Mile Dil Khile \- Single](https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm) | 3:17 | 2023-01-19 |  |
 | [Tum Mile \- Refresh Version](https://open.spotify.com/track/1yawKQNxvbLwcsxnMweW6R) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Tum Mile \(Refresh Version\)](https://open.spotify.com/album/47SnVKc0ebixbGbzHBVLeH) | 4:20 | 2022-05-24 | 2022-12-02 |
 | [Tum Par Hum Hai Atke \(From "Pagalpanti"\)](https://open.spotify.com/track/0j6LeC4rexb63tw2IaY5Gq) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Tum Par Hum Hai Atke \(From "Pagalpanti"\)](https://open.spotify.com/album/7tNwmMdHCQAHCThUbkd652) | 2:58 | 2022-05-24 |  |
 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 | 2022-05-24 |  |

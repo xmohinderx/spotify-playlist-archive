@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 63235,
+  "num_followers": 63258,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMGM3Y2NhMTQ3MDk5MDM2NmZjNWI2N2YzMDcyMTM4OWY2",
+  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDMyN2QzZjZlNThjMGU2NjQyMWJjYWYxYjYyMjAyNDM5",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd"
     },
     {
-      "added_at": "2023-01-19 01:17:34",
+      "added_at": "2023-01-20 00:19:27",
       "album": {
         "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
         "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
         }
       ],
-      "duration_ms": 249655,
-      "name": "\u0641\u0627\u0636\u064a \u0634\u0648\u064a\u0629",
-      "url": "https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW"
+      "duration_ms": 294611,
+      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT"
     },
     {
-      "added_at": "2023-01-19 01:17:34",
+      "added_at": "2023-01-20 00:19:27",
       "album": {
         "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
         "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
         }
       ],
-      "duration_ms": 294611,
-      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
-      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
+      "duration_ms": 249655,
+      "name": "\u0641\u0627\u0636\u064a \u0634\u0648\u064a\u0629",
+      "url": "https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "Solo Passage (Gozar)",
+        "url": "https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ"
+      },
+      "artists": [
+        {
+          "name": "Hamed Nikpay",
+          "url": "https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Gypsy (Kouli), Oud",
+      "url": "https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Hejar",
         "url": "https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 208466,
       "name": "Kupia",
       "url": "https://open.spotify.com/track/78shHmYJjbCNxY69yfWo6l"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Solo Passage (Gozar)",
-        "url": "https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ"
-      },
-      "artists": [
-        {
-          "name": "Hamed Nikpay",
-          "url": "https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Gypsy (Kouli), Oud",
-      "url": "https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Hejar",
-        "url": "https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo"
-      },
-      "artists": [
-        {
-          "name": "Arash Badie",
-          "url": "https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Tare Tanha",
-      "url": "https://open.spotify.com/track/3wq6LqC40TuXAbdPapGK9Q"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Flying Carpet",
         "url": "https://open.spotify.com/album/1Vep08NRl8GxaFy2BZrYxm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 223986,
       "name": "Ikarus' Dream",
       "url": "https://open.spotify.com/track/4rgIn7tE7ZyC9HrxPYrQAz"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Hejar",
+        "url": "https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo"
+      },
+      "artists": [
+        {
+          "name": "Arash Badie",
+          "url": "https://open.spotify.com/artist/6xGJlTZ5odUFdrBzmCUR13"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Tare Tanha",
+      "url": "https://open.spotify.com/track/3wq6LqC40TuXAbdPapGK9Q"
     },
     {
       "added_at": "2021-02-15 11:04:36",

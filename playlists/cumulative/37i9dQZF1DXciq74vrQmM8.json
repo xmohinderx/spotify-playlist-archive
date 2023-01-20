@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. KID BRUNSWICK",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. yves tumor",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 124756,
       "name": "BUBBLEGUM",
       "url": "https://open.spotify.com/track/1h1YtwDu2DOYxFaJQbNRYj"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Count of three (You can eat $#@!)",
+        "url": "https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Count of three (You can eat $#@!)",
+      "url": "https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS"
+    },
+    {
+      "album": {
         "name": "COZ I'M THAT MOTHERF*CKIN",
         "url": "https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1"
       },
@@ -1396,6 +1414,24 @@
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
+    },
+    {
+      "album": {
+        "name": "Crossing Guard",
+        "url": "https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284880,
+      "name": "Crossing Guard",
+      "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
     },
     {
       "album": {
@@ -1682,6 +1718,24 @@
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "album": {
+        "name": "DEUX AMANTS MORT",
+        "url": "https://open.spotify.com/album/3TzDWayU6UnNxwQygzm047"
+      },
+      "artists": [
+        {
+          "name": "tommy.",
+          "url": "https://open.spotify.com/artist/61sAraGpRoTyiM1pzlOFgp"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173126,
+      "name": "DEUX AMANTS MORT",
+      "url": "https://open.spotify.com/track/6KoDCpiZlfb4mqCyWBPIkW"
     },
     {
       "album": {
@@ -3246,7 +3300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 227533,
       "name": "Holier",
       "url": "https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox"
@@ -3282,7 +3336,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 58217,
       "name": "I DON'T LIKE YA",
       "url": "https://open.spotify.com/track/4uVTa1dafelhcl4DWuY1dX"
@@ -3300,7 +3354,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 135107,
       "name": "I Don't Want It",
       "url": "https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd"
@@ -5875,6 +5929,28 @@
     },
     {
       "album": {
+        "name": "RELOAD! (feat. WHOKILLEDXIX)",
+        "url": "https://open.spotify.com/album/6tXDJPnuatwzybjBGIrPZ2"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179228,
+      "name": "RELOAD! (feat. WHOKILLEDXIX)",
+      "url": "https://open.spotify.com/track/10uAw1klN0sgtH8WLoAjHY"
+    },
+    {
+      "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL"
       },
@@ -6515,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "album": {
         "name": "Stained",
         "url": "https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy"
       },
@@ -6804,7 +6898,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 175150,
       "name": "The Emperor",
       "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
@@ -7054,6 +7148,28 @@
       "duration_ms": 178299,
       "name": "Time",
       "url": "https://open.spotify.com/track/5HorhJ1JnFkJw0egrgg49I"
+    },
+    {
+      "album": {
+        "name": "Tommy's Dream (Remixes)",
+        "url": "https://open.spotify.com/album/7Cx0eWI1v5DDPoy3ouf4ZU"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        },
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214458,
+      "name": "Tommy's Dream - PVA Remix",
+      "url": "https://open.spotify.com/track/6Vwgdkgeo1uj51nSKLg76h"
     },
     {
       "album": {

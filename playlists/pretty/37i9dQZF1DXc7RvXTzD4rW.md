@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 田所あずさ
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,884 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,890 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 29 | [LOVE&MOON](https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X) | [高野麻里佳](https://open.spotify.com/artist/3d5BMnkKOiXyuPOxxaO50E) | [LOVE&MOON](https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf) | 3:40 |
 | 30 | [履き慣れてない靴のままで](https://open.spotify.com/track/7uzF5J8bX6g548Grw5IDGg) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Atrium](https://open.spotify.com/album/6YHWqToIXhOKMGVqCZO0Eh) | 4:15 |
 | 31 | [PROLOGUE](https://open.spotify.com/track/2leYGEirFsGtl6fuQwXVXT) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [OPENING THEME FROM TV SERIES ”BIBLIOPHILE PRINCESS”](https://open.spotify.com/album/2qGFHbqCOWEZt5cs4IgiPv) | 4:04 |
-| 32 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 |
+| 32 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 |
 | 33 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 |
 | 34 | [はじまるウェルカム](https://open.spotify.com/track/1tIr5G5H8l4h2jUTCDZio5) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [はじまるウェルカム](https://open.spotify.com/album/0y90vkehxEb8od71BXqX4h) | 3:46 |
 | 35 | [Self Satisfaction](https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [Sounds of Love](https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq) | 5:48 |

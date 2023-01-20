@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-517 songs - 1 day 9 hr 15 min
+520 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2Ez](https://open.spotify.com/track/4cmuPWbhVeM4Nnji22zCvG) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Low blood sugar? enable cookies](https://open.spotify.com/album/1ZXrj4cZXMGgdE3mGTnoFp) | 2:58 | 2021-04-15 | 2022-04-15 |
 | [A Dark Matter](https://open.spotify.com/track/1t3NtG1hoRBrgak79tGZ3g) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Bulky](https://open.spotify.com/album/2HPURIDPl5dmXypdHsdvD3) | 5:41 | 2020-10-20\* | 2020-11-13 |
 | [A Love \(Like Yours\)](https://open.spotify.com/track/1muPGFPeXv874v9w3eyNAu) | [Rowan Hutsch](https://open.spotify.com/artist/3XVfjQgN1wXGgEmLFI9kf5) | [A Love \(Like Yours\)](https://open.spotify.com/album/6w8AARrkog4p2ql2VeVPIB) | 2:44 | 2021-11-10 |  |
-| [A New Era](https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [A New Era](https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ) | 2:33 | 2021-03-25 |  |
+| [A New Era](https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [A New Era](https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ) | 2:33 | 2021-03-25 | 2023-01-20 |
 | [A Snake Walking](https://open.spotify.com/track/4NzZbh6XXqpc8vKNdudcAM) | [Roral Ceef](https://open.spotify.com/artist/6gknYSsRHR4U2rU4MaTp7B) | [Don't You Dare](https://open.spotify.com/album/0b6Vu47sKXKXzdjHT91JQs) | 3:04 | 2020-10-20\* | 2020-11-21 |
 | [Acoustick](https://open.spotify.com/track/3K6z3cqLgxKoBXb3O3jofb) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Click Clack](https://open.spotify.com/album/0YcdHiYam184WYu39rev9k) | 1:58 | 2020-10-20\* | 2020-10-30 |
 | [Adíos!](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Adíos!](https://open.spotify.com/album/5B9C5ZNB207HOCHfPgkIzY) | 4:33 | 2021-02-20 | 2021-03-06 |
@@ -35,6 +35,7 @@
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 |  |
 | [Amethyst](https://open.spotify.com/track/0bKzBkQKXLH6P407vZQIso) | [Popcorn for Purple](https://open.spotify.com/artist/1yoe4BBN2qhhnoAFe6cyyO) | [Amethyst](https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet) | 5:28 | 2020-12-24 | 2021-02-20 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2021-10-16 | 2022-05-11 |
+| [And The City Was Brooklyn](https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [And The City Was Brooklyn](https://open.spotify.com/album/7eScvNC3Zds4MxASq3k6Dd) | 3:17 | 2023-01-20 |  |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2021-06-04 |  |
 | [Antibes \(Edit\)](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Antibes \(Edit\)](https://open.spotify.com/album/6yYduz4N7FvAdHT4ZBJObY) | 2:37 | 2022-10-14 |  |
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-10-20\* | 2022-06-10 |
@@ -120,7 +121,7 @@
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-05-13 | 2021-10-16 |
 | [Deep In It](https://open.spotify.com/track/6jDNYiZgolknENBdlJa87J) | [Jo Paciello](https://open.spotify.com/artist/3DEPyHwyKPe3BzyhlXrSlM) | [Deep In It](https://open.spotify.com/album/507bZAKAlavbLLFYmMQbQK) | 6:00 | 2021-01-29 | 2021-03-25 |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-10 |  |
-| [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-03-25 |  |
+| [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-03-25 | 2023-01-20 |
 | [deepsy](https://open.spotify.com/track/7mGxDTe6pQHiRvCoXYzBJf) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [deepsy](https://open.spotify.com/album/3ouLg1Gqmbf7id6JGCortX) | 2:04 | 2022-11-25 |  |
 | [Delphina](https://open.spotify.com/track/7yi2ZzgcknbtVih0sNyBDv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ) | 5:14 | 2020-10-20\* | 2021-06-23 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-16 | 2022-01-22 |
@@ -305,6 +306,7 @@
 | [Next To You](https://open.spotify.com/track/7CsOoJMd3gFKEJvX7nLhQ8) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:40 | 2021-02-20 | 2021-05-13 |
 | [Night Visions](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Night Visions](https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc) | 3:55 | 2021-01-07 | 2022-09-02 |
 | [Nightly Purpose](https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Nightly Purpose](https://open.spotify.com/album/3S8IKRk8a8kZp9r68emkm2) | 2:51 | 2021-10-16 | 2022-04-15 |
+| [Nights And Days](https://open.spotify.com/track/1uhbd4sWOAaplom86NLMYI) | [Moy\-ya](https://open.spotify.com/artist/5khRduXj2TwOW0awj5q0zS) | [Nights And Days](https://open.spotify.com/album/5C2xEEr58XvzGS3lDpkWYw) | 3:13 | 2023-01-20 |  |
 | [Nightshift](https://open.spotify.com/track/1zaJHc3PHlr1VcWS8RqXyE) | [Mark Boman](https://open.spotify.com/artist/6C174VjimQFq6XerWLJOLB) | [Nightshift](https://open.spotify.com/album/2Wh7XnYJsBw1SDUZQEIUqP) | 4:35 | 2021-01-15 | 2021-03-25 |
 | [Nite Glo](https://open.spotify.com/track/7kuW6Ho3HAoYzE1qkDkDRv) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Nite Glo](https://open.spotify.com/album/0haNDDHtiSPENbdrq07srH) | 3:18 | 2020-10-20\* | 2021-06-23 |
 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 | 2020-10-20\* |  |
@@ -410,6 +412,7 @@
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2020-12-11 |  |
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-25 |  |
 | [Smiles](https://open.spotify.com/track/3WTd6IogFHOBZ8sobmKrKb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/4Y0JVC9BklwKMmiL2xIbOY) | 3:06 | 2020-10-20\* | 2021-02-20 |
+| [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 |  |
 | [So Real](https://open.spotify.com/track/7GTVGnTKbwKmHIbHSEas5O) | [Bergmönch](https://open.spotify.com/artist/4K7eFgiYPGgSpDw7jKhpm3) | [So Real](https://open.spotify.com/album/5OSMEkIouISljAQX5Utpxd) | 5:52 | 2020-11-13 | 2021-01-07 |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-03-25 | 2022-09-23 |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-13 | 2020-12-24 |

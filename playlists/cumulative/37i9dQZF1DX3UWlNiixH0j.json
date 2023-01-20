@@ -255,6 +255,28 @@
     },
     {
       "album": {
+        "name": "Player Non Player",
+        "url": "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
+      },
+      "artists": [
+        {
+          "name": "Agar Agar",
+          "url": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+        },
+        {
+          "name": "ZOMBIE-CHANG",
+          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151253,
+      "name": "Dude on horse (feat. ZOMBIE-CHANG)",
+      "url": "https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB"
+    },
+    {
+      "album": {
         "name": "FLOOR IS MINE",
         "url": "https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9"
       },
@@ -906,7 +928,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 255666,
       "name": "Sports Men",
       "url": "https://open.spotify.com/track/57xqF2DMn5eaKNvhHqeL7Y"
@@ -1008,6 +1030,24 @@
       "duration_ms": 331200,
       "name": "Summer Lost 2023 - ft. butaji",
       "url": "https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP"
+    },
+    {
+      "album": {
+        "name": "Sundaynight",
+        "url": "https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u6d66\u5eb7\u55e3",
+          "url": "https://open.spotify.com/artist/6B8BKABBOAyNQnCdrRXtXH"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309968,
+      "name": "Sundaynight",
+      "url": "https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K"
     },
     {
       "album": {
@@ -1181,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/1qKSyGjD9if3FXMFV1km8a"
+      },
+      "artists": [
+        {
+          "name": "Velvet Sighs",
+          "url": "https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193467,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/6GkcUPA8NPOxLTI0XCuT8e"
+    },
+    {
+      "album": {
         "name": "Winter Rendezvous",
         "url": "https://open.spotify.com/album/0shVnBn8FxSca5ZNWV4nLf"
       },
@@ -1228,7 +1286,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 315428,
       "name": "\u3053\u308f\u308c\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc"
@@ -1570,7 +1628,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 372800,
       "name": "\u6c38\u4e45\u5f57\u661f\u77ed\u6b4c\u6c34",
       "url": "https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ"

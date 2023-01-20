@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "The Stanley Okorie Nollywood Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/7jKSdo4L6SVTCLBHjjEzb4"
+      },
+      "artists": [
+        {
+          "name": "Stanley Okorie",
+          "url": "https://open.spotify.com/artist/3adwF6GGLSkKdm2KDqMdMy"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146232,
+      "name": "Billionaire (From \"Return of the Billionaires\")",
+      "url": "https://open.spotify.com/track/1FDndMnzk7e75IA62fru60"
+    },
+    {
+      "album": {
         "name": "Bloody Samaritan",
         "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
       },
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"

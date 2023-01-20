@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A long beat",
+        "url": "https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B"
+      },
+      "artists": [
+        {
+          "name": "bombergirl",
+          "url": "https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185955,
+      "name": "A long beat",
+      "url": "https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE"
+    },
+    {
+      "album": {
         "name": "A Moment Away",
         "url": "https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p"
       },
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "champagne and kisses",
+        "url": "https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul"
+      },
+      "artists": [
+        {
+          "name": "far away mei",
+          "url": "https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241683,
+      "name": "champagne and kisses",
+      "url": "https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6"
       },
@@ -1108,6 +1144,24 @@
       "duration_ms": 174000,
       "name": "Daft Kids",
       "url": "https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX"
+    },
+    {
+      "album": {
+        "name": "Dance The Occasion",
+        "url": "https://open.spotify.com/album/2FzVH5Ej9lHSJOzC0vs5qZ"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191009,
+      "name": "Dance The Occasion",
+      "url": "https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y"
     },
     {
       "album": {
@@ -4958,6 +5012,24 @@
       "duration_ms": 230000,
       "name": "Slow Rain",
       "url": "https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q"
+    },
+    {
+      "album": {
+        "name": "Small Victorys",
+        "url": "https://open.spotify.com/album/0AM6t62WdQ0KAoQfi3We23"
+      },
+      "artists": [
+        {
+          "name": "Cratouille",
+          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171954,
+      "name": "Small Victorys",
+      "url": "https://open.spotify.com/track/4WIG3yl5UjG4kuNXs5TgjU"
     },
     {
       "album": {

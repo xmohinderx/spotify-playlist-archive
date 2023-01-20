@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 135000,
       "name": "333",
       "url": "https://open.spotify.com/track/3sVBVQQsL7U9vn1U6DVtXV"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 198893,
       "name": "ALLVARLIGT",
       "url": "https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR"
@@ -1048,6 +1048,28 @@
       "duration_ms": 191552,
       "name": "Alo",
       "url": "https://open.spotify.com/track/3dymy8M8SPPTmybtqP08jq"
+    },
+    {
+      "album": {
+        "name": "Alors on danse",
+        "url": "https://open.spotify.com/album/21s1Tby8B9qgyoTsmCi2Kc"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142709,
+      "name": "Alors on danse",
+      "url": "https://open.spotify.com/track/5b0NuIEQBpLQYNGL8DVp1a"
     },
     {
       "album": {
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 179134,
       "name": "ANTISOCIAL",
       "url": "https://open.spotify.com/track/1fdDWZpg2ywI873ZpywLt1"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 152979,
       "name": "Baby (feat. Ashanti & Greekazo) - Greekazo Remix",
       "url": "https://open.spotify.com/track/6pH85nZK7uTifvJDVX3YhQ"
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 183000,
       "name": "Chanser",
       "url": "https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E"
@@ -3294,7 +3316,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 134106,
       "name": "D KLART DOM HATAR OSS",
       "url": "https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2"
@@ -3676,7 +3698,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 173726,
       "name": "DIN TUR",
       "url": "https://open.spotify.com/track/184lVKP37X3JUxPgPMy4y4"
@@ -4812,6 +4834,24 @@
       "duration_ms": 124736,
       "name": "First Day Out Freestyle",
       "url": "https://open.spotify.com/track/7hz1ew55h3msWUVZzM5yvi"
+    },
+    {
+      "album": {
+        "name": "Fj\u00e4rilar",
+        "url": "https://open.spotify.com/album/7ycQqDuc2k7P1Ih9GNX33r"
+      },
+      "artists": [
+        {
+          "name": "Theo Ama",
+          "url": "https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210096,
+      "name": "Fj\u00e4rilar",
+      "url": "https://open.spotify.com/track/3uO0clDmOeFPd0XftqaPAM"
     },
     {
       "album": {
@@ -6056,7 +6096,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 152079,
       "name": "Hasta La Vista",
       "url": "https://open.spotify.com/track/3VlZUWS05jwIjwQHDjVjJl"
@@ -6658,6 +6698,24 @@
       "duration_ms": 161095,
       "name": "IGEN & IGEN",
       "url": "https://open.spotify.com/track/21YhWvUd6TRPPnkXAP5LGn"
+    },
+    {
+      "album": {
+        "name": "Ikon",
+        "url": "https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161167,
+      "name": "Ikon",
+      "url": "https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l"
     },
     {
       "album": {
@@ -7762,7 +7820,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 206243,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/1Sifod3DxO7JNbHXfOnLnD"
@@ -10006,7 +10064,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 127500,
       "name": "Nummer",
       "url": "https://open.spotify.com/track/0Y5EYCS8FSDbdj76Uab3hl"
@@ -10714,7 +10772,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 169241,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/5mA3OkfsPFhqjrm6VmZjQn"
@@ -10975,6 +11033,24 @@
     },
     {
       "album": {
+        "name": "Poppade en till",
+        "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Poppade en till",
+      "url": "https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk"
+    },
+    {
+      "album": {
         "name": "Poppis",
         "url": "https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp"
       },
@@ -11201,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/2vPjvhXrt8RpgIG6VzFp0G"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178584,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/5SeCuhnCkReuMDppRSOe2F"
+    },
+    {
+      "album": {
         "name": "REAL SHIT",
         "url": "https://open.spotify.com/album/4BYc1iSV7DcZKMKYycXNVR"
       },
@@ -11256,6 +11350,28 @@
       "duration_ms": 156404,
       "name": "Regler (B\u00e5set)",
       "url": "https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk"
+    },
+    {
+      "album": {
+        "name": "Relatera",
+        "url": "https://open.spotify.com/album/4XquqgAGmOYKNGodE3gT5J"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        },
+        {
+          "name": "Emma-Lee Andersson",
+          "url": "https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "Relatera",
+      "url": "https://open.spotify.com/track/10DXTIr7Y7KBxOY6rwnJNO"
     },
     {
       "album": {
@@ -11416,7 +11532,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 176289,
       "name": "Sand I Skorna (feat. Niklas von Arnold)",
       "url": "https://open.spotify.com/track/00g7bDWZe0xxFpiLIjp1MC"
@@ -13464,6 +13580,24 @@
       "duration_ms": 146010,
       "name": "TOPP IDAG",
       "url": "https://open.spotify.com/track/3srWz7HzXOyZvfFSpkERLC"
+    },
+    {
+      "album": {
+        "name": "Torkar T\u00e5rar",
+        "url": "https://open.spotify.com/album/6H2Ojyr3vYgr4FD4fxmAVX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Torkar T\u00e5rar",
+      "url": "https://open.spotify.com/track/65w8eqh8Tdz7WSMeNQNH5B"
     },
     {
       "album": {

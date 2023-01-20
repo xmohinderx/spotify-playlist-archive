@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-160 songs - 6 hr 53 min
+161 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Vero Amore](https://open.spotify.com/track/1kkvNP512ctkEDMJIq2ca3) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Vero Amore](https://open.spotify.com/album/2xfZJ7RYOMiBDWKy0m9g9L) | 2:40 | 2021-12-23 | 2022-03-02 |
 | [Waiting Is Over](https://open.spotify.com/track/6QKPjl901Y5aYw6ui19uHq) | [Mary\-Anne Petersen](https://open.spotify.com/artist/10jkdLoGCp06EB8vIRKAWO) | [Waiting Is Over](https://open.spotify.com/album/2qV9t17nZXTQ6aP0FUa4Vo) | 2:00 | 2022-07-01 |  |
 | [When It Hits You](https://open.spotify.com/track/2uLNVnUExOftiMwIpGKKnH) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [When It Hits You](https://open.spotify.com/album/42i9m7AMjy7zq0we4KeEBH) | 2:56 | 2021-12-23 | 2022-05-27 |
+| [When It Rains](https://open.spotify.com/track/0z5y5lpBfxrZsDnvMOZOVy) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [When It Rains](https://open.spotify.com/album/4g9kfD7eRLcAwH60x94ygo) | 2:28 | 2023-01-20 |  |
 | [When the Sea Lets Go](https://open.spotify.com/track/47SJIHUBfKr48f8Q33xnX6) | [Vin Downes](https://open.spotify.com/artist/4hImyLoQH7OA08maVM1HAd) | [When the Sea Lets Go](https://open.spotify.com/album/5OTVYw9MtCCwBmh3FgjZRY) | 4:19 | 2021-12-23 |  |
 | [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-23 |  |
 | [Whispers](https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A) | [The Day Before Today](https://open.spotify.com/artist/7bpOMy71Wl6uiqIWXhQGOi) | [Whispers](https://open.spotify.com/album/6AdqX0VKoWgCO4EMPlJb2p) | 2:49 | 2021-12-23 | 2022-03-02 |

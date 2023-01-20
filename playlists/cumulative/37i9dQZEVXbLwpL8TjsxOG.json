@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 235256,
       "name": "Frenemy",
       "url": "https://open.spotify.com/track/1WzMnzTmdWbJZ3OhizMtbX"
@@ -5198,7 +5198,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 250406,
       "name": "The Bright Side",
       "url": "https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg"
@@ -6401,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u898b \u5be7\u975c\u6d77",
+        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250677,
+      "name": "\u518d\u898b \u5be7\u975c\u6d77",
+      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
+    },
+    {
+      "album": {
         "name": "\u51e1\u661f (\u5929\u661f\u9280\u884cairstar\u97f3\u6a02\u5287\u5834\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC"
       },
@@ -6790,7 +6808,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 315800,
       "name": "\u5750\u770b\u96f2\u8d77\u6642",
       "url": "https://open.spotify.com/track/6K6L5LL0lvfGGEqJxDavTn"

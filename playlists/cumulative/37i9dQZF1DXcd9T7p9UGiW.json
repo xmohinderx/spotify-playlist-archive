@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=5dwnc1j_SByNOTWWBcCBTw\" > Oxlade </a>  and <a href=\"https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF?si=-VO0zRASTJ2xWVgc64LZsA\" > Camila Cabello </a> ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD?si=QNcFpJs8TzufWSO_O23CTg\" > Bob Marley </a>  and <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=c8FUtYCvSY2bCeN6w3wXRg\" > Sarkodie </a> ",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 184413,
       "name": "Come ova",
       "url": "https://open.spotify.com/track/4dhEqBcjRBTcqwWeYXskch"
@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 202372,
       "name": "Jane",
       "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
@@ -2914,6 +2914,28 @@
       "duration_ms": 195000,
       "name": "Liki Tiki",
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
+    },
+    {
+      "album": {
+        "name": "Likkle Waist",
+        "url": "https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192648,
+      "name": "Likkle Waist",
+      "url": "https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO"
     },
     {
       "album": {
@@ -4476,7 +4498,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 238815,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/0hM8sp03CyYE0KzFcLd65I"
@@ -5188,6 +5210,28 @@
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221611,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
     },
     {
       "album": {

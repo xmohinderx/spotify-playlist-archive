@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 271535,
+  "num_followers": 271813,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDk3ZGQ3NWU3ZmQxNDgwMWExOWFiNjZjYzkyNzhlYzBk",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMDUzZTExOTQyYjk1MzU3YWM5ZDEwMjk0NDA4MTc0NGYy",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -163,18 +163,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+      "duration_ms": 220760,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -191,22 +191,6 @@
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -263,6 +247,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Ordinary Days",
+        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "YSRA",
         "url": "https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg"
       },
@@ -315,18 +315,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Ordinary Days",
-        "url": "https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5"
+        "name": "Yahweh Elyon",
+        "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Nathan Staggers",
+          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
         }
       ],
-      "duration_ms": 248386,
-      "name": "Ordinary Days",
-      "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
+      "duration_ms": 194753,
+      "name": "Yahweh Elyon",
+      "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -367,26 +371,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Yahweh Elyon",
-        "url": "https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu"
-      },
-      "artists": [
-        {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Nathan Staggers",
-          "url": "https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Yahweh Elyon",
-      "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "TWO UP TWO DOWN",
         "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 307292,
       "name": "Peace - Acoustic",
       "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Call on Your Name (Piano Version)",
-        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 228385,
-      "name": "Call on Your Name - Piano Version",
-      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Call on Your Name (Piano Version)",
+        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 228385,
+      "name": "Call on Your Name - Piano Version",
+      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Goodness of God: Songs of Worship",
         "url": "https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f"
       },
@@ -743,26 +759,6 @@
       "duration_ms": 289111,
       "name": "So Well",
       "url": "https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
-        }
-      ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -787,18 +783,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 156270,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -839,6 +839,22 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 170119,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6ei0YKLSRcI7tcsF80aVZI"
+        "name": "Heaven's Eyes",
+        "url": "https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 198053,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/4TK6reOnF7h4My580fx47A"
+      "duration_ms": 273426,
+      "name": "Heaven's Eyes",
+      "url": "https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9"
     }
   ],
   "unique_name": "Calming Christian",

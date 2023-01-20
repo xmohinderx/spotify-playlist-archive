@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Daughter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,775 likes - 175 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,956 likes - 175 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

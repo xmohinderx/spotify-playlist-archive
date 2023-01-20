@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 34002,
+  "num_followers": 34061,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGRiZjQzZWQzNzI4Njc2MTE4YTFhYzhmYmExYTc4NWNh",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMDUwNmNkYzA4NzQ4NDBlNzEzMmU1NDYxZTgzODlkNWZm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Badeep",
@@ -171,6 +155,22 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Shapeless",
-        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
-      },
-      "artists": [
-        {
-          "name": "St. Barbe",
-          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Kids",
@@ -355,6 +339,22 @@
       "duration_ms": 302040,
       "name": "Cptn Future",
       "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
+    },
+    {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Shapeless",
+        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -389,6 +389,26 @@
       "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
     },
     {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "yucca",
+          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
+        }
+      ],
+      "duration_ms": 268675,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
+    },
+    {
       "added_at": "2021-04-16 05:00:00",
       "album": {
         "name": "STARGAZER",
@@ -411,26 +431,6 @@
       "duration_ms": 245930,
       "name": "STARGAZER",
       "url": "https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "yucca",
-          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
-        }
-      ],
-      "duration_ms": 268675,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
     },
     {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        }
+      ],
+      "duration_ms": 383881,
+      "name": "Zeal",
+      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Inner Mounting Flame",
@@ -519,22 +535,6 @@
       "duration_ms": 375600,
       "name": "Vital Transformation (with John McLaughlin) - Remastered",
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
-      },
-      "artists": [
-        {
-          "name": "Bill Laurance",
-          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
-        }
-      ],
-      "duration_ms": 383881,
-      "name": "Zeal",
-      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn"
+      },
+      "artists": [
+        {
+          "name": "Jean-Luc Ponty",
+          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
+        }
+      ],
+      "duration_ms": 299466,
+      "name": "Is Once Enough?",
+      "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
@@ -815,22 +831,6 @@
       "duration_ms": 248161,
       "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn"
-      },
-      "artists": [
-        {
-          "name": "Jean-Luc Ponty",
-          "url": "https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr"
-        }
-      ],
-      "duration_ms": 299466,
-      "name": "Is Once Enough?",
-      "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
     },
     {
       "added_at": "2021-04-23 04:01:00",

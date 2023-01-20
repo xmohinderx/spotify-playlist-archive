@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 197040,
       "name": "16:18",
       "url": "https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 138000,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ"
@@ -3603,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "hario island",
+        "url": "https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "hario island",
+      "url": "https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M"
+    },
+    {
+      "album": {
         "name": "Here, There",
         "url": "https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr"
       },
@@ -5932,6 +5950,24 @@
       "duration_ms": 149256,
       "name": "Mt. Kita",
       "url": "https://open.spotify.com/track/1txwaLQknVX822mGk13eEe"
+    },
+    {
+      "album": {
+        "name": "My Favorite Sled",
+        "url": "https://open.spotify.com/album/2mNWkRT6uTeHghQ9PCfDyc"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "My Favorite Sled",
+      "url": "https://open.spotify.com/track/0mOp1W6ChQsQfdpxqYKEA4"
     },
     {
       "album": {
@@ -8855,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "sunrise",
+        "url": "https://open.spotify.com/album/2WSSsVSgLA4dtUeDKlmz4l"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "sunrise",
+      "url": "https://open.spotify.com/track/2k61tAqGJe9nZXbmsrmGxp"
+    },
+    {
+      "album": {
         "name": "SWEET SMOKE",
         "url": "https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97"
       },
@@ -9372,7 +9426,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 136059,
       "name": "Train Smoke",
       "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,320 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,309 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Junge](https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Junge](https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E) | 3:47 |
 | 14 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 15 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
-| 16 | [Vertrau dir nicht](https://open.spotify.com/track/0rc5Xe21tVqyPlIzfRFOQp) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Vertrau dir nicht](https://open.spotify.com/album/0zjzXGObG8eQ8XYO28qWhg) | 2:41 |
-| 17 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
-| 18 | [Wach](https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Wach](https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7) | 2:39 |
-| 19 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
+| 16 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
+| 17 | [Vertrau dir nicht](https://open.spotify.com/track/0rc5Xe21tVqyPlIzfRFOQp) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Vertrau dir nicht](https://open.spotify.com/album/0zjzXGObG8eQ8XYO28qWhg) | 2:41 |
+| 18 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
+| 19 | [Wach](https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Wach](https://open.spotify.com/album/4MNkZF6fynWqiS7YqStEL7) | 2:39 |
 | 20 | [Das Boot](https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Das Boot \(Edit\)](https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir) | 6:04 |
 | 21 | [PANIK](https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5), [KAAS](https://open.spotify.com/artist/6Rej5jPj4nu1O8hW04Iffk) | [PANIK](https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc) | 3:23 |
 | 22 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Pornos im Bett](https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Pornos im Bett](https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd) | 3:47 |
 | 31 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 32 | [I'm The Wind](https://open.spotify.com/track/0y1kDv9jGWDQqO6aqdmuqC) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [I'm The Wind](https://open.spotify.com/album/53DVeAZQxMJY5j6r7jGuRJ) | 4:06 |
-| 33 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
-| 34 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 |
+| 33 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 |
+| 34 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
 | 35 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 |
 | 36 | [Utopia](https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Utopia](https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV) | 3:32 |
 | 37 | [Bye Lovely](https://open.spotify.com/track/2u1JxNgy2RhnOqpkZxoE8q) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Bye Lovely](https://open.spotify.com/album/2ItSFP2Ga9I3u4u5s1heaa) | 3:18 |
-| 38 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
-| 39 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 |
+| 38 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 |
+| 39 | [Lima](https://open.spotify.com/track/7GtRGZmitPBbHFZVrDHqi7) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Watergate 20 Years \(Pt\. 1/8\)](https://open.spotify.com/album/0ChBYkZ5b2rZWVrlLolWg5) | 6:56 |
 | 40 | [Daddy Unser](https://open.spotify.com/track/1diFCd0OpnTtKYowfNj07K) | [EAB](https://open.spotify.com/artist/6leFuFAVHMn70katG2IqoC) | [Daddy Unser](https://open.spotify.com/album/7B9XeLLudUpF59vCn7GJ3Y) | 3:33 |
 | 41 | [Drip Drop](https://open.spotify.com/track/4VsimJYHOXf0jd9TGPgzJK) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Drip Drop](https://open.spotify.com/album/7vr2wN6tmohuaGTQ2mOBtX) | 3:11 |
 | 42 | [Unlove You](https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Not The Right Time For Us](https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd) | 2:02 |
-| 43 | [Everyone Is Getting Old](https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Everyone Is Getting Old](https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR) | 2:57 |
-| 44 | [QUEEN](https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [QUEEN](https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6) | 2:47 |
-| 45 | [Headed Home](https://open.spotify.com/track/3QLJiQKjhp8eyxSz6nDRVi) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Headed Home](https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU) | 3:49 |
+| 43 | [Headed Home](https://open.spotify.com/track/3QLJiQKjhp8eyxSz6nDRVi) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Headed Home](https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU) | 3:49 |
+| 44 | [Everyone Is Getting Old](https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Everyone Is Getting Old](https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR) | 2:57 |
+| 45 | [QUEEN](https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [QUEEN](https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6) | 2:47 |
 | 46 | [a line in my skin](https://open.spotify.com/track/1ke4aQ72kFgtq0g3Chl4iB) | [Karo Lynn](https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7) | [a line in my skin](https://open.spotify.com/album/1kmmKwqENIDHbavzvodyu5) | 3:36 |
 | 47 | [Over Control](https://open.spotify.com/track/0Fi279thY3ggBulre48k6N) | [TEll A VISION](https://open.spotify.com/artist/0o4PC35iPXR3eK4CPkl353) | [Over Control](https://open.spotify.com/album/31pgYJ9ceUDBJvNJELmgWv) | 3:04 |
 | 48 | [Not For Me](https://open.spotify.com/track/0kZ60vnXZw6dkPnjxq6jZC) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Not For Me](https://open.spotify.com/album/3kYAKFbVeUAh6GLqflEvhR) | 2:51 |
 | 49 | [Gnxta Love](https://open.spotify.com/track/6ZiepO0OmSYOEI6WRhuw5K) | [Dimi Rompos](https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL) | [Gnxta Love](https://open.spotify.com/album/2sx1blo3dHoC3itrX3yBxD) | 3:07 |
 | 50 | [Villain \- Live Version](https://open.spotify.com/track/6FXyKhbMs5lEnoBgGiq8bY) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain \(Live Version\)](https://open.spotify.com/album/229KTGQ0nvTlk2Apx2sGkB) | 5:14 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMGE2OTkyMWZhYTE1ZTc1NmU3Nzk0NjE2NjNmZjBiM2Ey`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDk5N2RjOGRiYjU4N2NlNTg3Y2VlMTUyY2Y4YmFiYWFi`

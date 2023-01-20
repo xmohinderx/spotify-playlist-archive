@@ -1,12 +1,12 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Nusrat Fateh Ali Khan",
-  "num_followers": 33069,
+  "num_followers": 33125,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU2OTU0OSwwMDAwMDAwMGFiMTExMjA3ODU1Y2I2ZjQ5ZmU4OTY3OWFmZDQ1ZTZk",
+  "snapshot_id": "MTY2NTU2OTU0OSwwMDAwMDAwMGQ2OTY0OWI1NDE0ZDA5YmVjMDFhMmRmZmE4NmNkN2Ji",
   "tracks": [
     {
       "added_at": "2022-10-12 10:12:29",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Parastish",
-        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Jehanzeb",
-          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Aap Ki Yaad",
-      "url": "https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Tabeer",
         "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 276558,
       "name": "Khaireyan De Naal",
       "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Parastish",
+        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Jehanzeb",
+          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Aap Ki Yaad",
+      "url": "https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Parastish",
-        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Jehanzeb",
-          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Tu Jo Nahin",
-      "url": "https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Huqa Pani",
         "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 275186,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Qismat Apne Hath Mein",
+        "url": "https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae"
+      },
+      "artists": [
+        {
+          "name": "Shehzad Roy",
+          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Laga Reh",
+      "url": "https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

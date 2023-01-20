@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 118588,
       "name": "Adam & Eve",
       "url": "https://open.spotify.com/track/1HmenL3A3R4vmZKWqqjvUF"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 121935,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3VfDlMZBq7GQ1L8ghRBID3"
@@ -396,6 +396,32 @@
       "duration_ms": 140000,
       "name": "Bon Clay",
       "url": "https://open.spotify.com/track/0A2Jy5sjNZeFxqHvUGTMgq"
+    },
+    {
+      "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/2eVvDd56fI9nQs4cbdKAds"
+      },
+      "artists": [
+        {
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo"
+        },
+        {
+          "name": "RdBeats",
+          "url": "https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/3QAkdIvnrUlg2VGpT8HbIS"
     },
     {
       "album": {
@@ -566,7 +592,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 150000,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/5C0rxK7SXpM9OOld3gXgmH"
@@ -736,6 +762,24 @@
       "duration_ms": 118173,
       "name": "Cloudly",
       "url": "https://open.spotify.com/track/3wrSz2PzHJU8TUYaB4Wj5O"
+    },
+    {
+      "album": {
+        "name": "Coast Line",
+        "url": "https://open.spotify.com/album/3jlDw3y33691pr2DnZjSUo"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Eikrem",
+          "url": "https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165434,
+      "name": "Coast Line",
+      "url": "https://open.spotify.com/track/1TaHc8PNPFGy0skXd7xVwO"
     },
     {
       "album": {
@@ -1002,7 +1046,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 145250,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/3p37thzAWbCzBHLynh43Qv"
@@ -1951,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6xOOYxpfUhF9uF79cfVBh4"
+      },
+      "artists": [
+        {
+          "name": "David Cutter Music",
+          "url": "https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108894,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/0jwmrnRC35xIRBBSK9MMo1"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/390qI4tWaLZtDtiRbhedTe"
       },
@@ -1984,6 +2046,24 @@
       "duration_ms": 142222,
       "name": "Hot Air",
       "url": "https://open.spotify.com/track/68NisFKk0tXGGZPOuARYtz"
+    },
+    {
+      "album": {
+        "name": "How Much",
+        "url": "https://open.spotify.com/album/0CUfkKar0TwjgkuC7aCutC"
+      },
+      "artists": [
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "How Much",
+      "url": "https://open.spotify.com/track/1vkubMeGvmrGZitLx8t9cx"
     },
     {
       "album": {
@@ -2325,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Just For The Night",
+        "url": "https://open.spotify.com/album/0HtQQ7TQK1a23qPnn7YOmP"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "Just For The Night",
+      "url": "https://open.spotify.com/track/0iBxNrMyD5IX0EPDaioTjn"
+    },
+    {
+      "album": {
         "name": "kambina",
         "url": "https://open.spotify.com/album/72rOi5YJYzQzX7ZI4ikN9Y"
       },
@@ -2446,6 +2548,24 @@
       "duration_ms": 156078,
       "name": "Landing",
       "url": "https://open.spotify.com/track/6PvjEMUp5hfunQCAmakT6v"
+    },
+    {
+      "album": {
+        "name": "last call",
+        "url": "https://open.spotify.com/album/0OjezN2RfR36Jq73RjEMfD"
+      },
+      "artists": [
+        {
+          "name": "sftspkn",
+          "url": "https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "last call",
+      "url": "https://open.spotify.com/track/2UUkTapp0rwuWeYAoLykRY"
     },
     {
       "album": {
@@ -3347,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/2EfNTZn8ygcG9B20EO8JpO"
+      },
+      "artists": [
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        },
+        {
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/7q6bhuDHycO2Qz65UaYFVa"
+    },
+    {
+      "album": {
         "name": "Nightglow",
         "url": "https://open.spotify.com/album/6Qjkgkdo2nrH67mBoR9Yoe"
       },
@@ -3678,7 +3820,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 95418,
       "name": "Over The Wooden Fence",
       "url": "https://open.spotify.com/track/7j4SpiObDBN1FrLudiEd7h"
@@ -4414,7 +4556,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 146370,
       "name": "Sleep Walker",
       "url": "https://open.spotify.com/track/613SeVJ9HVdKky7itA2I4D"
@@ -4800,7 +4942,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 114857,
       "name": "Sun Day",
       "url": "https://open.spotify.com/track/5EIrJ59T18nnpxDBBn1yjJ"
@@ -5070,7 +5212,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 123307,
       "name": "The Good Vibe",
       "url": "https://open.spotify.com/track/3022fV1l16jxujadTePPz9"
@@ -5220,6 +5362,28 @@
       "duration_ms": 107363,
       "name": "Time",
       "url": "https://open.spotify.com/track/6qS8xBmJSAbsED3LBkkeGE"
+    },
+    {
+      "album": {
+        "name": "Timewave",
+        "url": "https://open.spotify.com/album/03jxyL9jjWGpRom21K5n8t"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "Timewave",
+      "url": "https://open.spotify.com/track/1AgYtKPCBkYVZyLT3WW1Cb"
     },
     {
       "album": {

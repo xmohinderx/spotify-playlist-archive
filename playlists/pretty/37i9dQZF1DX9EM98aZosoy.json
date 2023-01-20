@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1244217,
+  "num_followers": 1244330,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxMTIwMCwwMDAwMDAwMDI5NTY3M2FjZTk0OTJiNTI4MDhiOGQ2YmI5M2M1OTQ1",
+  "snapshot_id": "MTY3MzYxMTIwMCwwMDAwMDAwMGNmNjI2ZjA3YmE4MzEzODNkZmVjZDlmMDY1OWZjMGJi",
   "tracks": [
     {
       "added_at": "2023-01-13 12:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-01-13 12:00:00",
       "album": {
+        "name": "CHASE THE SUN",
+        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
+      },
+      "artists": [
+        {
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "CHASE THE SUN",
+      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
+    },
+    {
+      "added_at": "2023-01-13 12:00:00",
+      "album": {
         "name": "Dirty Dancing",
         "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 160842,
       "name": "Dirty Dancing",
       "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2023-01-13 12:00:00",
-      "album": {
-        "name": "CHASE THE SUN",
-        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
-      },
-      "artists": [
-        {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "CHASE THE SUN",
-      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
       "added_at": "2023-01-13 12:00:00",

@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 176826,
       "name": "Canopus",
       "url": "https://open.spotify.com/track/4LBsz7g9b4zs9EUSgQNo7J"
@@ -4605,6 +4605,28 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163682,
+      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30c8\u3099\u30ef\u30ca\u30eb\u30ab=\u30b7\u30a2\u30ce\u30bf\u30a4\u30d5\u309a",
         "url": "https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL"
       },
@@ -6980,7 +7002,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 308967,
       "name": "\u591c\u660e\u3051\u3068\u86cd",
       "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"
@@ -7602,7 +7624,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 143600,
       "name": "\u6bd2\u6797\u6a8e",
       "url": "https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu"

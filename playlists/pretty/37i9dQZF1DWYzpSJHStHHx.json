@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 482564,
+  "num_followers": 482686,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTQyNiwwMDAwMDAwMGFhZmVkZmViYTI5NmE1YWIxNzIxYTk1YTYwMGVhZTE5",
+  "snapshot_id": "MTY3Mzk4MTQyNiwwMDAwMDAwMDBhY2QxZDRmYzQzODQ2YmU3Y2ZlN2Q2ZGQyZTI2MjNm",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The Babe Rainbow",
-        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 194292,
-      "name": "Peace Blossom Boogy",
-      "url": "https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
       "artists": [
         {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -635,34 +635,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
       },
       "artists": [
         {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Idle Labor",
-        "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
-      },
-      "artists": [
-        {
-          "name": "Craft Spells",
-          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
-        }
-      ],
-      "duration_ms": 240608,
-      "name": "After the Moment",
-      "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
+      "duration_ms": 194292,
+      "name": "Peace Blossom Boogy",
+      "url": "https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -679,6 +663,22 @@
       "duration_ms": 226999,
       "name": "Under the Sun",
       "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Idle Labor",
+        "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "After the Moment",
+      "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "The Babe Rainbow",
-        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 156811,
-      "name": "Johny Says Stay Cool",
-      "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Favorite Holiday, Vol. 1",
         "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 250800,
       "name": "Fire Flower",
       "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 156811,
+      "name": "Johny Says Stay Cool",
+      "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Lizard Tears",
+        "url": "https://open.spotify.com/album/0JiJX1L6MNNqH4614orKV5"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "duration_ms": 194152,
+      "name": "Mixed Up and Confused",
+      "url": "https://open.spotify.com/track/1bFgm9PdCQeKsEpqOWn1II"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Good Nature",
         "url": "https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 257859,
       "name": "Super Natural",
       "url": "https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "I Follow You",
-      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
     }
   ],
   "unique_name": "Surf Rock Sunshine",
