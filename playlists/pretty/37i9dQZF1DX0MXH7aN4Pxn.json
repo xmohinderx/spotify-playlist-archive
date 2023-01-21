@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687708,
+  "num_followers": 687711,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGI2M2ZmNjg4ZDBlNTc0ODJjMWQwOGVlYmMwNzNlY2Y1",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGFjYmZmMTY4ZGQwOGI5YjBjNTk0MzIwMGQ3ZmFhODBl",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Get Out My Head",
         "url": "https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 204933,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "We Come 1",
         "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 178285,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
+      "duration_ms": 147597,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "House Arrest",
         "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Juliet & Romeo",
         "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Erase Me",
-        "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 243803,
-      "name": "Erase Me",
-      "url": "https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Turning Me Up (Hadal Ahbek)",
         "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 243803,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Black Hole (Goodboys Remix)",
-        "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 166742,
-      "name": "Black Hole - Goodboys Remix",
-      "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -1975,22 +1955,42 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Hipcats",
-        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 129836,
-      "name": "Hipcats",
-      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
+      "duration_ms": 246944,
+      "name": "Dance with My Ghost (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Black Hole (Goodboys Remix)",
+        "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 166742,
+      "name": "Black Hole - Goodboys Remix",
+      "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
     }
   ],
   "unique_name": "PARTY MODE",

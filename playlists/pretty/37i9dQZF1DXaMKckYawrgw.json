@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. La Tremenda Korte en portada.",
-  "num_followers": 7412,
+  "num_followers": 7417,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxMDYxOCwwMDAwMDAwMGNhNDlhYWEwMDFlNWRiYzg0YmRkZTVkMTY3MTIzYTNi",
+  "snapshot_id": "MTY2NDQxMDYxOCwwMDAwMDAwMDIwZWI0Yzc4NmRhNDk5OTlhYTIzY2RkNDVkZWM5MmQw",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
-      },
-      "artists": [
-        {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "!!Puro Macanazo!!",
         "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
       },
@@ -607,26 +623,6 @@
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Latin Ska Force",
-        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        },
-        {
-          "name": "Salvador Moreno",
-          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Labios Rojos",
-      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -663,18 +659,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+      "duration_ms": 219320,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Enloquec\u00ed",
-        "url": "https://open.spotify.com/album/6HEE4Z4GQaOXwubEMFsnMr"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Enloquec\u00ed",
-      "url": "https://open.spotify.com/track/6bghWg2VlUzFLo8NNenlkb"
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Enloquec\u00ed",
+        "url": "https://open.spotify.com/album/6HEE4Z4GQaOXwubEMFsnMr"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+      "duration_ms": 191880,
+      "name": "Enloquec\u00ed",
+      "url": "https://open.spotify.com/track/6bghWg2VlUzFLo8NNenlkb"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 280933,
       "name": "Tabernero",
       "url": "https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Dale un Dulze al Chamakito!!!",
-        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
-      },
-      "artists": [
-        {
-          "name": "Los Korucos",
-          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
-        }
-      ],
-      "duration_ms": 229431,
-      "name": "Dame un Tiempecito",
-      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Dale un Dulze al Chamakito!!!",
+        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Los Korucos",
+          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
         }
       ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+      "duration_ms": 229431,
+      "name": "Dame un Tiempecito",
+      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Eight Years Compilation",
-        "url": "https://open.spotify.com/album/0V3XbOuchUnPQ2MctIg6Ff"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 168734,
-      "name": "Chica Yeye",
-      "url": "https://open.spotify.com/track/3oFonZNnxADZ2aLW7y0Zj0"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Armada Hasta los Dientes V 1.5",
         "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
+        "name": "Eight Years Compilation",
+        "url": "https://open.spotify.com/album/0V3XbOuchUnPQ2MctIg6Ff"
       },
       "artists": [
         {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
         }
       ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+      "duration_ms": 168734,
+      "name": "Chica Yeye",
+      "url": "https://open.spotify.com/track/3oFonZNnxADZ2aLW7y0Zj0"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 249026,
       "name": "Ruperta",
       "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Cumbia Feminista",
+        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
+      },
+      "artists": [
+        {
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Cumbia Feminista",
+      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
     },
     {
-      "added_at": "2022-05-17 23:24:25",
-      "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "Vatos Rudos Forever! (1994-2014)",
@@ -1227,6 +1207,26 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
+    },
+    {
+      "added_at": "2022-05-17 23:24:25",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf"
     },
     {
-      "added_at": "2022-08-13 00:15:02",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 225088,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "Frente al Mar",
@@ -1359,6 +1343,22 @@
       "duration_ms": 304172,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+    },
+    {
+      "added_at": "2022-08-13 00:15:02",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2epcEzP3HRjeb9nVjWVpbw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 225088,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
     },
     {
       "added_at": "2022-04-23 04:32:13",

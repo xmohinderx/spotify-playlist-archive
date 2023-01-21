@@ -828,6 +828,24 @@
     {
       "album": {
         "name": "Clandestina",
+        "url": "https://open.spotify.com/album/4OBBmlBI3D8mup9N9Mg3UZ"
+      },
+      "artists": [
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/1gSupmV3YYpuyup7hSkwag"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Clandestina",
+      "url": "https://open.spotify.com/track/4EkS5NmXZXc2CsWSUTIMLh"
+    },
+    {
+      "album": {
+        "name": "Clandestina",
         "url": "https://open.spotify.com/album/2XNNaihXW2NgngJ0sEoLMS"
       },
       "artists": [
@@ -838,7 +856,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 146181,
       "name": "Clandestina - Original mix",
       "url": "https://open.spotify.com/track/1gjpFamOXZXegiU038AZxI"

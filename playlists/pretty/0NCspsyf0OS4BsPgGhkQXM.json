@@ -1,13 +1,37 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2033706,
+  "num_followers": 2033736,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4NDMsM2M1NmM4NGVjNGQ4YzdmMDFlNTkyMmU0YmQ1YjU5MDJmOTYwYjlmNg==",
+  "snapshot_id": "MTI4NDQsMjFiZjY5MmJjMDFlMmVkYTk5MDEzNzBlMTE2NzQ4ODMxMzg1MmI2Ng==",
   "tracks": [
+    {
+      "added_at": "2023-01-20 10:24:24",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/2h6XddEWBJSjRskklf0WZd"
+      },
+      "artists": [
+        {
+          "name": "Mel Ody",
+          "url": "https://open.spotify.com/artist/0GgEXglm1E4YoSaIkI5wW7"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        },
+        {
+          "name": "Lauren Light",
+          "url": "https://open.spotify.com/artist/1TY0aNdsTftlB8jD9I1cFV"
+        }
+      ],
+      "duration_ms": 158503,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4WbnbAM4ov4GWdTPNQR15z"
+    },
     {
       "added_at": "2023-01-13 14:42:13",
       "album": {

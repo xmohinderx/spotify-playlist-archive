@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Jass Reyes en portada.
 
-175 songs - 9 hr 25 min
+177 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2022-10-16 |  |
 | [Humo](https://open.spotify.com/track/4OTUMCIUroaNsqQ17gb0vn) | [Iza](https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7) | [Humo](https://open.spotify.com/album/1dN1HqAFOMMjRsilVKjbFf) | 3:14 | 2021-12-13 | 2022-02-19 |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-12-13 | 2022-11-26 |
+| [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 |  |
 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 | 2022-01-04 |  |
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-01-21 |  |
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2021-12-13 | 2022-11-26 |
@@ -104,8 +105,9 @@
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |
 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 | 2021-12-13 | 2022-03-09 |
 | [MENTE DE AGUA](https://open.spotify.com/track/1sf7pnykFEJKQdQzjdV7aL) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [MENTE DE AGUA](https://open.spotify.com/album/3RI9UsS8XzaZCMwRIUmFAZ) | 3:39 | 2022-04-15 |  |
+| [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 | 2023-01-20 |  |
 | [Mil Días](https://open.spotify.com/track/4lOgqoITjicF1LYFHNuDxh) | [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [Mil Días](https://open.spotify.com/album/6IIBk8tGXPYHiYX0jgrXyX) | 3:33 | 2021-12-13 | 2022-03-27 |
-| [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 | 2021-12-13 |  |
+| [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 | 2021-12-13 | 2023-01-21 |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-13 |  |
 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 | 2022-01-21 |  |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-12 |  |
@@ -126,7 +128,7 @@
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-16 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-09 |  |
 | [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 | 2022-05-12 |  |
-| [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2021-12-13 |  |
+| [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2021-12-13 | 2023-01-21 |
 | [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 | 2021-12-13 | 2022-07-29 |
 | [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu), [X3ON](https://open.spotify.com/artist/5EmpZL6gdhcyNuTRlyBdu6) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 | 2022-07-22 | 2022-10-17 |
 | [Para Dos](https://open.spotify.com/track/32UUJ4GlnEzQ6S7OlUxC8P) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Para Dos](https://open.spotify.com/album/1BncYNNGSaBgFKDJEdDCS9) | 2:37 | 2021-12-13 | 2022-05-13 |

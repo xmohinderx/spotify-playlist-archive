@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Laten gaan",
+        "url": "https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6"
+      },
+      "artists": [
+        {
+          "name": "Niel Hupkes",
+          "url": "https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208379,
+      "name": "Laten gaan",
+      "url": "https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0"
+    },
+    {
+      "album": {
         "name": "Leaving Port",
         "url": "https://open.spotify.com/album/0KC8Z2Q9mFlfbx0SgUY6i9"
       },
@@ -3332,6 +3350,24 @@
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170606,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm"
     },
     {
       "album": {

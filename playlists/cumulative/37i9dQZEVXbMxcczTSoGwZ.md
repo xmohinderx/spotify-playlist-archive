@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,223 songs - 2 day 19 hr 17 min
+1,224 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Kyynel \(feat\. TIPPA, Heviteemu\)](https://open.spotify.com/track/0BOnYG07P5Ihl1Gm3M0ieB) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A) | [Kyynel \(feat\. TIPPA, Heviteemu\)](https://open.spotify.com/album/5Zsxc4QsKK41SDNkneY55p) | 3:32 | 2022-11-26 | 2023-01-07 |
 | [Kyyneleet \(feat\. ABREU\)](https://open.spotify.com/track/1KqByb20JJCWZIobdSyLEm) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kyyneleet \(feat\. ABREU\)](https://open.spotify.com/album/67HQwlVtqlMtEUH7dqoNLk) | 2:46 | 2021-09-12 | 2021-09-19 |
 | [Kyynelii](https://open.spotify.com/track/3YgOwQsqjzXIWzTwPPQz98) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kyynelii](https://open.spotify.com/album/0JAzHnRgLF5gT9TfDLyAGz) | 3:23 | 2022-01-08 | 2022-03-06 |
-| [Kädet ilmaan \(feat\. Cledos\)](https://open.spotify.com/track/1t4fPdOX01du0CYxnLFFJH) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Kädet ilmaan \(feat\. Cledos\)](https://open.spotify.com/album/6IpxttZyRVAnCc9cx8FTyq) | 2:55 | 2022-12-03 |  |
+| [Kädet ilmaan \(feat\. Cledos\)](https://open.spotify.com/track/1t4fPdOX01du0CYxnLFFJH) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Kädet ilmaan \(feat\. Cledos\)](https://open.spotify.com/album/6IpxttZyRVAnCc9cx8FTyq) | 2:55 | 2022-12-03 | 2023-01-21 |
 | [Kämmenen kuva poskeen](https://open.spotify.com/track/78LbF7hMmdzakQhHsKu9vZ) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Kämmenen kuva poskeen](https://open.spotify.com/album/5WqX6S8tooEQQLxkHwhxEM) | 3:36 | 2022-08-27 | 2022-09-11 |
 | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Käytöstapoi \(feat\. william\)](https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90) | 2:09 | 2022-05-21 | 2022-12-04 |
 | [Kääntöpuolii](https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Kääntöpuolii](https://open.spotify.com/album/1QW7sJqmVZdyyflE7dG4Qm) | 3:02 | 2022-09-24 | 2022-10-09 |
@@ -1205,6 +1205,7 @@
 | [Yhen elämän juttu \- Vain elämää kausi 12](https://open.spotify.com/track/5sTXDiG3jFWQeWTW46qYuM) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Kaihon Karavaani](https://open.spotify.com/artist/2icF1lA4YEFleB4QOjEYpA) | [Yhen elämän juttu \(Vain elämää kausi 12\)](https://open.spotify.com/album/0Fg4EzPyWMxIiw754evrqF) | 4:18 | 2021-10-11 | 2021-10-16 |
 | [Yksinkertasta \(feat\. Costi\)](https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Yksinkertasta \(feat\. Costi\)](https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy) | 3:02 | 2022-10-22 |  |
 | [Yksinäistä \(feat\. ibe\)](https://open.spotify.com/track/66rQYlWFStk3cCFr2UOCbm) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Betonitarha](https://open.spotify.com/album/5gbUHaoNWrMna9mscAXsp7) | 3:02 | 2021-05-23 | 2021-05-24 |
+| [Ylivoimainen](https://open.spotify.com/track/0tNhrnTkLSMUkql3iTCgW4) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Ylivoimainen](https://open.spotify.com/album/5YsgpByQ9MRj0uuztJbRPm) | 3:00 | 2023-01-20 |  |
 | [YLöS/ALaS](https://open.spotify.com/track/3GTCMFwGsJfvhd9To8TSS3) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [TÄYTYY YMMÄRTÄÄ](https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba) | 3:36 | 2022-09-17 | 2022-10-23 |
 | [Ympyrää \(feat\. Bizi\)](https://open.spotify.com/track/58lc7n4rmCmsaJJjLVIUZz) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Ympyrää \(feat\. Bizi\)](https://open.spotify.com/album/3GSAsoS5Hw68C4YM69blIW) | 2:43 | 2021-07-18 | 2021-10-03 |
 | [Ympyrää \(feat\. Bizi\)](https://open.spotify.com/track/7EJpQekCDptBuE2yw0Dj2n) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 2:43 | 2021-10-03 | 2021-10-18 |

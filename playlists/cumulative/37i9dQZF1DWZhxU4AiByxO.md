@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-276 songs - 13 hr 56 min
+278 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Midnight Sky](https://open.spotify.com/track/6SA0ceSATdlyh6SzP9Jd2f) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Midnight Sky](https://open.spotify.com/album/6yf61oBWOtfJm73xKoqoFp) | 3:27 | 2021-10-22 |  |
 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:16 | 2021-10-22 |  |
 | [Mood](https://open.spotify.com/track/5bv7kd7qy62Rl892AgHgd7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Mood](https://open.spotify.com/album/2yKqWNvjhsPIHUevvXI2X6) | 2:00 | 2021-10-22 |  |
+| [Music For A Sushi Restaurant](https://open.spotify.com/track/6WNGqPeLiNCvqlb6hGqux6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:54 | 2023-01-20 |  |
 | [Music Is in Everything](https://open.spotify.com/track/6LC6CSWaaGZoyQKi87lfuG) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 3:25 | 2022-10-07 |  |
 | [Music Is in Everything](https://open.spotify.com/track/7qZLbXCjZUucd275X8I3EJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw) | 3:25 | 2022-07-28 | 2022-10-13 |
 | [Music Is in Everything \(feat\. Lisa Loeb\)](https://open.spotify.com/track/3Xap7tj9dcUEhpThrLgdsJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/4X4l0Ez8pj5bjmFisNs2m1) | 3:24 | 2021-10-22 | 2022-07-29 |
@@ -193,6 +194,7 @@
 | [Rise](https://open.spotify.com/track/44blRNiipXlYR5O2eK9hzS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 | 2021-10-22 |  |
 | [RITMO](https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [RITMO](https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz) | 3:23 | 2021-10-22 |  |
 | [Run Like The River \(From "Playmobil: The Movie" Soundtrack\)](https://open.spotify.com/track/0XSVA2UpFoDgu57TWxn1Kr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Run Like The River \(From "Playmobil: The Movie" Soundtrack\)](https://open.spotify.com/album/15DKdf0uXDCCnLkdLRF919) | 2:42 | 2021-10-22 |  |
+| [Running Up That Hill](https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:36 | 2023-01-20 |  |
 | [Savage](https://open.spotify.com/track/6MmIDXQS14O8jKYCBWAxas) | [Earwormz Squad](https://open.spotify.com/artist/4wBE1WVjFbmo0Rsc4q7daa) | [Savage](https://open.spotify.com/album/2TUQRyBeJJ3jPMWu1qAuHG) | 2:11 | 2021-10-22 |  |
 | [Savage Love](https://open.spotify.com/track/55J4JL8TPPeId91ScTt3bv) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Savage Love](https://open.spotify.com/album/2cKEeMf90SRPfSHVDNaH8w) | 2:51 | 2021-10-22 | 2022-07-29 |
 | [Savage Love](https://open.spotify.com/track/18Q6eRrnN2AGuE3XiprbNg) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 2:51 | 2022-07-28 |  |
@@ -211,7 +213,7 @@
 | [Shine Bright \(From Trolls\)](https://open.spotify.com/track/6VGrDeWDhgVlyljWdEFT9r) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Shine Bright \(From Trolls\)](https://open.spotify.com/album/5egjjgQRGPToUC8t15Bfzq) | 2:09 | 2021-10-22 | 2022-07-29 |
 | [Shivers \- 2022](https://open.spotify.com/track/7zYvSfOGJaRRhlAVFI80p3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 3:12 | 2022-09-27 |  |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-22 |  |
-| [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-22 |  |
+| [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-22 | 2023-01-21 |
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2021-10-22 |  |
 | [Snacks](https://open.spotify.com/track/0E71SurMZPXv3rnQ8jUGLz) | [Novi](https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6) | [Snacks](https://open.spotify.com/album/5ZhB2l1rH8CpfmeTXR7BOh) | 2:49 | 2022-07-28 |  |
 | [Snacks](https://open.spotify.com/track/6l67IEVLEAzvx1emBSX0t8) | [Novi](https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6) | [Snacks](https://open.spotify.com/album/6CFXRlY2OyrWssAzicgo7R) | 2:49 | 2021-10-22 | 2022-07-29 |

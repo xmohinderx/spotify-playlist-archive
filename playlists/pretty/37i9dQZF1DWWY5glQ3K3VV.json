@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Paky",
-  "num_followers": 68708,
+  "num_followers": 68783,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMGIyNTFmNGFkMjYzN2NkMzJhYTIxMjdlNWU3MDg3ZmFh",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDc3YTUwZTk5MmNjNmQ5NGVmZWYwOGUzNGNjMmMwYTlk",
   "tracks": [
     {
       "added_at": "2023-01-10 11:42:30",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7bsBuM2ipkM4umttZlod2K"
     },
     {
-      "added_at": "2023-01-20 01:07:24",
+      "added_at": "2023-01-21 00:19:55",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-01-10 11:42:30",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2023-01-10 11:42:30",
-      "album": {
         "name": "BlaBlaBla",
         "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 113511,
       "name": "BlaBlaBla",
       "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
+    },
+    {
+      "added_at": "2023-01-10 11:42:30",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2023-01-10 11:42:30",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-10 11:42:30",
       "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
-    },
-    {
-      "added_at": "2023-01-10 11:42:30",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2023-01-10 11:42:30",
+      "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
     },
     {
       "added_at": "2023-01-10 11:42:30",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2023-01-10 11:42:30",
       "album": {
+        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
+        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 178044,
+      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
+      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
+    },
+    {
+      "added_at": "2023-01-10 11:42:30",
+      "album": {
         "name": "BV3",
         "url": "https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW"
       },
@@ -1503,30 +1527,6 @@
       "duration_ms": 174746,
       "name": "X 1 MEX (feat. Dani Faiv)",
       "url": "https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"
-    },
-    {
-      "added_at": "2023-01-10 11:42:30",
-      "album": {
-        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 178044,
-      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
     },
     {
       "added_at": "2023-01-10 11:42:30",
@@ -1603,42 +1603,6 @@
     {
       "added_at": "2023-01-10 11:42:30",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Balaclava (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
-    },
-    {
-      "added_at": "2023-01-10 11:42:30",
-      "album": {
-        "name": "Frero",
-        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 180532,
-      "name": "Frero",
-      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
-    },
-    {
-      "added_at": "2023-01-10 11:42:30",
-      "album": {
         "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
         "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
       },
@@ -1659,6 +1623,42 @@
       "duration_ms": 174983,
       "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
       "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
+    },
+    {
+      "added_at": "2023-01-10 11:42:30",
+      "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
+    },
+    {
+      "added_at": "2023-01-10 11:42:30",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 187550,
+      "name": "Balaclava (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
     }
   ],
   "unique_name": "Club Rap ",

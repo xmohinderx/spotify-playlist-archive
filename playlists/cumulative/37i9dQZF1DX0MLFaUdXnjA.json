@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Ashley",
+        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Ashley",
+      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
+    },
+    {
+      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -7240,7 +7258,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 149802,
       "name": "God Must Hate Me",
       "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
@@ -14554,7 +14572,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 167675,
       "name": "paper",
       "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
@@ -20074,6 +20092,24 @@
       "duration_ms": 166762,
       "name": "Waited",
       "url": "https://open.spotify.com/track/1keIBDzP5vNIwdbMDL7lMh"
+    },
+    {
+      "album": {
+        "name": "Waiting for a Boy",
+        "url": "https://open.spotify.com/album/1PfVs3Av4MdNYnCA2LeQQ8"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290302,
+      "name": "Waiting for a Boy",
+      "url": "https://open.spotify.com/track/1rYC7nIm9w8eZTp6S76FHb"
     },
     {
       "album": {

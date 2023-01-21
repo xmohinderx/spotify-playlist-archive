@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 161228,
+  "num_followers": 161469,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDc1MmQ5NmUzOWEzZmM2ZTU4MzE0ODk4ZGRkNzNlZjBi",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDBjN2VmOTI3NDRlMDMxMWY5ZGZhNDFkZDIzYTQ0MDgy",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "A War You Cannot Win",
         "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 277346,
       "name": "What If I Was Nothing",
       "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 181837,
-      "name": "mars",
-      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
+      "duration_ms": 214226,
+      "name": "Let Me Be Sad",
+      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Let Me Be Sad",
-      "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
+      "duration_ms": 181837,
+      "name": "mars",
+      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
+      "duration_ms": 153666,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 153666,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Hereafter",
-      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 100533,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Hereafter",
+      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "This Place Will Become Your Tomb",
         "url": "https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200946,
       "name": "Missing Limbs",
       "url": "https://open.spotify.com/track/5sCll6ttgoCHYPI36Hn1h6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228847,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
     },
     {
       "added_at": "2022-08-25 23:00:00",

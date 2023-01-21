@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Devil",
+        "url": "https://open.spotify.com/album/2A8Meh49oJEfBn74cygJe6"
+      },
+      "artists": [
+        {
+          "name": "Smidley",
+          "url": "https://open.spotify.com/artist/4VaBF2UB61CMQ45Xtp6vPc"
+        },
+        {
+          "name": "Shinra Knives",
+          "url": "https://open.spotify.com/artist/41low4IaF8uCcreZf31T3F"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193112,
+      "name": "Another Devil (feat. Shinra Knives)",
+      "url": "https://open.spotify.com/track/3q616lz9fcp3n9siMPQQlM"
+    },
+    {
+      "album": {
         "name": "Antibiotics",
         "url": "https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji"
       },
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 226800,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
@@ -2846,6 +2868,24 @@
       "duration_ms": 391304,
       "name": "Contingency Song",
       "url": "https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860"
+    },
+    {
+      "album": {
+        "name": "control",
+        "url": "https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru"
+      },
+      "artists": [
+        {
+          "name": "Crooks & Nannies",
+          "url": "https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176243,
+      "name": "control",
+      "url": "https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj"
     },
     {
       "album": {
@@ -3390,7 +3430,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 124532,
       "name": "Demons at the Dinner Table",
       "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
@@ -5142,7 +5182,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 353272,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz"
@@ -5816,7 +5856,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -5834,7 +5874,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 161162,
       "name": "HEY BESTIE",
       "url": "https://open.spotify.com/track/4wpt4Ce3g5KMR7CJzE4JRu"
@@ -6336,7 +6376,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 282401,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL"
@@ -6466,6 +6506,24 @@
       "duration_ms": 246777,
       "name": "I Love My Boyfriend",
       "url": "https://open.spotify.com/track/2IIFeudT6BVFwiwydHK4BM"
+    },
+    {
+      "album": {
+        "name": "i love you",
+        "url": "https://open.spotify.com/album/2y48btqmaBizAZsVp7bAVU"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269963,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/0G1qD9ymU11Yzoo266q0AP"
     },
     {
       "album": {
@@ -6848,7 +6906,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
@@ -7612,7 +7670,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 136320,
       "name": "Leap Day",
       "url": "https://open.spotify.com/track/5nBj7IUAzB42XV5ZIpQws5"
@@ -9097,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "Nowheresville",
+        "url": "https://open.spotify.com/album/71aHVYoowTT8HVSJ8bul9d"
+      },
+      "artists": [
+        {
+          "name": "Quasi",
+          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174843,
+      "name": "Nowheresville",
+      "url": "https://open.spotify.com/track/7xcpq3onzGXIeptQwkWgjD"
+    },
+    {
+      "album": {
         "name": "nrvs again",
         "url": "https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq"
       },
@@ -9722,7 +9798,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 114538,
       "name": "Pop Song 2",
       "url": "https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS"
@@ -10346,7 +10422,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "Sad Chick (Overcoats Remix)",
       "url": "https://open.spotify.com/track/3pSzGdBI2izEY9gbvVufGD"
@@ -10436,7 +10512,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 234704,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
@@ -12074,7 +12150,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 121624,
       "name": "teeth (you)",
       "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
@@ -12172,7 +12248,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 188916,
       "name": "The Burned Down Dairy Queen",
       "url": "https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er"
@@ -12666,6 +12742,24 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "album": {
+        "name": "Sunshine, I'm Counting on You!",
+        "url": "https://open.spotify.com/album/0Flk6B4XLCxviaNVfsTZwO"
+      },
+      "artists": [
+        {
+          "name": "Jacklen Ro",
+          "url": "https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255317,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
     },
     {
       "album": {

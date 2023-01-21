@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "Liselotte \u00d6stblom",
+          "url": "https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270804,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
+    },
+    {
+      "album": {
         "name": "Alcool",
         "url": "https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5"
       },
@@ -1102,6 +1128,24 @@
       "duration_ms": 229250,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4"
+    },
+    {
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL"
+      },
+      "artists": [
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264444,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO"
     },
     {
       "album": {

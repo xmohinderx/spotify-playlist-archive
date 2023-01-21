@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,511 songs - 3 day 2 hr 30 min
+1,512 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Drunk in Love \(feat\. Longus Mongus\)](https://open.spotify.com/track/46a8IsYHGZSCqN3nVdNPql) | [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Drunk in Love \(feat\. Longus Mongus\)](https://open.spotify.com/album/0Ke6s7eRxiN1CIFOxxPyyK) | 3:36 | 2022-02-05 | 2022-02-07 |
 | [Du & Ich](https://open.spotify.com/track/7envzfD0MG4X4ELYAYSHu4) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Du & Ich](https://open.spotify.com/album/7hK938ASLeyRG9Pj47D93U) | 2:29 | 2022-07-23 | 2022-07-30 |
 | [DU BIST DER FEHLER.](https://open.spotify.com/track/7Fz8qYsfyRfUCKCzdiCiaV) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [DU BIST DER FEHLER.](https://open.spotify.com/album/7hG8ey2DjuDylQTdvr7Rh5) | 2:40 | 2021-05-16 | 2021-06-26 |
-| [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2022-10-15 |  |
+| [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2022-10-15 | 2023-01-21 |
 | [Du gehst nicht aus meinem Kopf](https://open.spotify.com/track/3jy5dNLbaVAODjBuvnKxup) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU) | [Du gehst nicht aus meinem Kopf](https://open.spotify.com/album/0YGtYw64q1NsO0C1nIwmFX) | 2:39 | 2022-04-30 | 2022-05-02 |
 | [DU KENNST DIE BABOS](https://open.spotify.com/track/2QZKWyjIJvgVdsfeqagqoI) | [VOLO](https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [DU KENNST DIE BABOS](https://open.spotify.com/album/63V1Xl2rji69i0Bws2FvCI) | 2:15 | 2021-11-21 | 2021-11-22 |
 | [Du Liebst Mich Auch](https://open.spotify.com/track/54Colxayes3tPJKcYRoO29) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4) | [Du Liebst Mich Auch](https://open.spotify.com/album/7MJENiCB8QojyNgPBaUWLl) | 1:58 | 2022-04-25 | 2022-05-15 |
@@ -422,6 +422,7 @@
 | [ES IST WIE ES IST](https://open.spotify.com/track/7xx6S5PsAV7rziVCjCzDrl) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [ES IST WIE ES IST](https://open.spotify.com/album/2RgmfhWYQVAHuClAqxHurx) | 2:35 | 2021-12-18 | 2021-12-31 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-16 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-11-29 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-20 |  |
 | [Et jitt kein Wood](https://open.spotify.com/track/6TmFBRcA3nbLgASXmMz7Ch) | [Cat Ballou](https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O) | [Lokalpatriot](https://open.spotify.com/album/41cipwBmzRLLrOEyZ6657Z) | 3:42 | 2022-02-25 | 2022-02-27 |
 | [Eternity](https://open.spotify.com/track/34YadxBGkKUSCJ3mZ5IIhy) | [Elias](https://open.spotify.com/artist/4R0FKprdEeUIbzAwhrYTv2) | [Eternity](https://open.spotify.com/album/7idA8aZnjPpEhY2UGJEu0w) | 2:34 | 2021-08-01 | 2021-08-02 |
 | [Etwas werden](https://open.spotify.com/track/0Y7EjYQMoor1t8tgKqUaEC) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Etwas werden](https://open.spotify.com/album/70vJyB6iwR2y8vTnKwjGTj) | 2:21 | 2022-04-30 | 2022-05-02 |

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Alpha Dreams",
+        "url": "https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P"
+      },
+      "artists": [
+        {
+          "name": "Eline Moss",
+          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174844,
+      "name": "Alpha Dreams",
+      "url": "https://open.spotify.com/track/3MDDGJM0bnteDQY4vQjxQ5"
+    },
+    {
+      "album": {
         "name": "Alpha Focus",
         "url": "https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 253047,
       "name": "Amoralis",
       "url": "https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy"
@@ -5406,6 +5424,24 @@
       "duration_ms": 122601,
       "name": "Sleep Drone",
       "url": "https://open.spotify.com/track/2lRINOduUGo6lyIMP8kUh4"
+    },
+    {
+      "album": {
+        "name": "Sleep Loop",
+        "url": "https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM"
+      },
+      "artists": [
+        {
+          "name": "Eckhart Lange",
+          "url": "https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Sleep Loop",
+      "url": "https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ"
     },
     {
       "album": {

@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Wash My Hair (Lather It Up)",
+        "url": "https://open.spotify.com/album/3JfQybhmeJhumU42CQxUol"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112363,
+      "name": "Wash My Hair (Lather It Up)",
+      "url": "https://open.spotify.com/track/0hiqelocDwLc0hKFrT92M1"
+    },
+    {
+      "album": {
         "name": "Songs to Brush Your Teeth To",
         "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
       },

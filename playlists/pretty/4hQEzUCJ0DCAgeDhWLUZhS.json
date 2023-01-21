@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY0OCxmZWVlZTBhYWQ5MzcxNWJkYjdmNTUwZjg1YWY2YmQ0MTFjNTM3ZTk2",
+  "snapshot_id": "MTY0OSxiZTRkYjE0Zjk2MzAyOTJkYWJiNjBmMmM2N2RjZGI5MTY4NzRkOTE1",
   "tracks": [
+    {
+      "added_at": "2023-01-20 02:34:40",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
     {
       "added_at": "2023-01-13 00:42:10",
       "album": {

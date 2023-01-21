@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-110 songs - 10 hr 41 min
+111 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 | 2022-02-11 |  |
 | [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 | 2022-11-09 |  |
 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 | 2022-02-11 |  |
+| [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 | 2023-01-20 |  |
 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 | 2022-07-08 |  |
 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 | 2022-11-09 |  |
 | [Asleep at the Wheel](https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA) | [Alexander Carson](https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb) | [The Idiot](https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ) | 3:57 | 2023-01-09 |  |
@@ -110,7 +111,7 @@
 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 | 2022-11-09 |  |
 | [Uncertainty](https://open.spotify.com/track/0JNVvSNvv0MuCiKu4lDbtp) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 4:12 | 2023-01-09 |  |
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2022-02-11 | 2022-11-10 |
-| [Videotape \(Façade\)](https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 5:34 | 2023-01-09 |  |
+| [Videotape \(Façade\)](https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 5:34 | 2023-01-09 | 2023-01-21 |
 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 | 2022-02-11 |  |
 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 | 2022-02-11 |  |
 | [WHEN I WAS OLDER \- Music Inspired By The Film ROMA](https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN I WAS OLDER \(Music Inspired By The Film ROMA\)](https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU) | 4:30 | 2022-11-09 |  |

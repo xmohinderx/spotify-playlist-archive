@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 91964,
       "name": "Moon Prairie",
       "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
@@ -5964,10 +5964,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 186137,
       "name": "My Favorite Sled",
       "url": "https://open.spotify.com/track/0mOp1W6ChQsQfdpxqYKEA4"
+    },
+    {
+      "album": {
+        "name": "My Favorite Sled",
+        "url": "https://open.spotify.com/album/6mPFzZq0I56A4I86StgAbD"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "My Favorite Sled",
+      "url": "https://open.spotify.com/track/6426skUo8oTgrEeMkxr1aI"
     },
     {
       "album": {
@@ -8490,7 +8508,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"
@@ -8902,10 +8920,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 176153,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/2k61tAqGJe9nZXbmsrmGxp"
+    },
+    {
+      "album": {
+        "name": "sunrise",
+        "url": "https://open.spotify.com/album/5Zm3mPMM6RbSeCL9S48CeC"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "sunrise",
+      "url": "https://open.spotify.com/track/3syEFU3GcxSZUhwAJzBfTh"
     },
     {
       "album": {

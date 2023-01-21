@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Changeophelia EP",
+        "url": "https://open.spotify.com/album/1b7oSt5bigWP51jdelHlXu"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259467,
+      "name": "(in.)Fading Light",
+      "url": "https://open.spotify.com/track/4yCtW8ZPnGAyU4gABAZSFy"
+    },
+    {
+      "album": {
         "name": "Into The Wide",
         "url": "https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL"
       },

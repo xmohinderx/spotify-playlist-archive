@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Shania Twain
+> Nothing but the best modern country music\. Cover: HARDY
 
-369 songs - 19 hr 44 min
+371 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2022-09-17 |
 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 | 2021-12-31 | 2022-03-19 |
 | [Angels](https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels](https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie) | 3:34 | 2022-01-14 | 2022-04-02 |
+| [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 | 2023-01-20 |  |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2022-04-29 | 2023-01-06 |
 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2021-12-31 | 2022-09-17 |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-03-12 |
@@ -123,7 +124,7 @@
 | [Good and Gone](https://open.spotify.com/track/5le2qyZpf6XHdHCgwdFUiZ) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Good and Gone](https://open.spotify.com/album/0mLeqPvkcUgwPj6GbkPjg1) | 3:18 | 2022-08-26 | 2022-12-31 |
 | [Good Ol' Days](https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4) | 2:46 | 2022-12-02 |  |
 | [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 | 2022-05-20 | 2022-06-18 |
-| [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-05-27 |  |
+| [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-05-27 | 2023-01-21 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-10-21 |  |
 | [Happy Hours](https://open.spotify.com/track/3X5WJWMh7Ux2kXcQ5lt1nV) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Happy Hours](https://open.spotify.com/album/3UPp0ObbgaQhBu4c61bdPa) | 2:51 | 2021-12-31 | 2022-03-12 |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-04-22 | 2022-04-28 |
@@ -273,6 +274,7 @@
 | [She's On It](https://open.spotify.com/track/5ImWIX3cFFtj5e3dkyKgs0) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [She's On It](https://open.spotify.com/album/5uVLJPLkOglCOaYKcG6JCd) | 3:17 | 2022-04-22 | 2022-10-22 |
 | [Shut Er Down](https://open.spotify.com/track/1WZNw6XKMjYn4mxUX7ctiI) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 2:49 | 2022-03-11 |  |
 | [Sink with the Sun](https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN) | 3:21 | 2022-09-02 | 2022-12-31 |
+| [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2023-01-20 |  |
 | [Slow](https://open.spotify.com/track/6hCbCpHz17ER6amPrHwJCz) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Campfire Troubadour](https://open.spotify.com/album/0JXLd6bWmSoMEofuBlP3KP) | 3:49 | 2021-12-31 | 2022-02-26 |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-31 | 2022-04-02 |
 | [Slow Down Summer](https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:37 | 2022-04-01 | 2022-06-11 |
@@ -351,7 +353,7 @@
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2022-09-03 |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2022-04-23 |
 | [Where the Country Girls At](https://open.spotify.com/track/52z0VC0uhuxoKC3PvdUw1C) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Where the Country Girls At](https://open.spotify.com/album/6N7X7wSMPpqlo95DveXwWd) | 3:30 | 2021-12-31 | 2022-07-29 |
-| [Where the Country Girls At \(feat\. Luke Bryan & Pitbull\)](https://open.spotify.com/track/0JyWUiuuPeiTfdQiAyikVo) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:30 | 2022-07-22 |  |
+| [Where the Country Girls At \(feat\. Luke Bryan & Pitbull\)](https://open.spotify.com/track/0JyWUiuuPeiTfdQiAyikVo) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:30 | 2022-07-22 | 2023-01-21 |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 | 2022-05-28 |
 | [Where'd You Learn How To Do That](https://open.spotify.com/track/4Do7NhvafmOQENTNAus874) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Where'd You Learn How To Do That](https://open.spotify.com/album/7v5wPGa49lcZiDyMdJe1zq) | 2:54 | 2022-05-13 | 2022-10-01 |
 | [Whiskey Does](https://open.spotify.com/track/2bF19xlwpmPzrAv7Y8Ql5W) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Whiskey Does](https://open.spotify.com/album/4JKZvwBhJbbKQ38rsBTbA3) | 3:36 | 2022-02-25 | 2022-07-09 |

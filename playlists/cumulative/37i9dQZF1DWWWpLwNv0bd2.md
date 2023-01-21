@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Vaathi
 
-108 songs - 7 hr 20 min
+109 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-11-29 | 2022-06-21 |
 | [Hey Sita Hey Rama \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/27KG5tsJVk9cmC0JbDsEq8) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P.Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sinduri](https://open.spotify.com/artist/5RLx62hrJnxf1jqe9NAQQ4) | [Hey Sita Hey Rama \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/7anEyzZSsFWAowL1XkyRs6) | 4:06 | 2022-05-10 | 2022-06-01 |
 | [Ice Katti Kuruvi \- From "D Block"](https://open.spotify.com/track/4WQjkG66fNyFE1N7XOSoL6) | [Ron Ethan Yohann](https://open.spotify.com/artist/0AojazIcemdBzAX3LqAGFF), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Ice Katti Kuruvi \(From "D Block"\)](https://open.spotify.com/album/6kR7SUlPfVCDFZ3LkLn9RF) | 4:23 | 2022-02-04 |  |
+| [Idaiyinil Oru Dhooram \- From "Konjam Pesinaal Yenna"](https://open.spotify.com/track/6RkxZavvmUqCB1KJXuvsGF) | [Vishal Chandrasekhar](https://open.spotify.com/artist/39VjmNPvbN5Kd93O2KEZFv), [Deepan Chakravarthy](https://open.spotify.com/artist/5xMVYjHf8rYai5EnhWpkej), [Raajasheela Raajarajan](https://open.spotify.com/artist/1Tv6qmKeiHco7tBtgRz63d) | [Idaiyinil Oru Dhooram \(From "Konjam Pesinaal Yenna"\)](https://open.spotify.com/album/7reCrMEQnYygO4cQUknbAY) | 4:09 | 2023-01-20 |  |
 | [Idhaya Idhaya](https://open.spotify.com/track/7AsFn91CpxFxj8h6UGpKB2) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thalli Pogathey](https://open.spotify.com/album/1NrPJQZZbyjtxQykc7rJeP) | 3:31 | 2021-11-29 | 2022-06-21 |
 | [Ilakana Kavithai \(From "Banaras"\)](https://open.spotify.com/track/47qipCp5de04CHAfhcUNLu) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ilakana Kavithai \(From "Banaras"\)](https://open.spotify.com/album/1qB4Ev7xVIikxCNyifThY1) | 3:37 | 2022-10-27 | 2022-11-06 |
 | [Imaikkariye \(From "Selfie"\)](https://open.spotify.com/track/2IFfZMYB9QxEgPOkYE429O) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manasvini Gopal](https://open.spotify.com/artist/1BrCEQF7TR8lWb933yxYTO) | [Imaikkariye \(From "Selfie"\)](https://open.spotify.com/album/73jBNscobCp7Yh36kHAKt7) | 3:29 | 2022-03-08 | 2022-11-15 |

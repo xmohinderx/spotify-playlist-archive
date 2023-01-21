@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\. JAWNY on the cover.
+> it's a vibe \(◡ ‿ ◡ ✿\)\. abby sage on the cover.
 
-1,006 songs - 2 day 3 hr 41 min
+1,007 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 | 2022-09-09 |  |
-| [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 |  |
+| [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 | 2023-01-21 |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-23 | 2021-11-13 |
 | [hurts 2 hate somebody](https://open.spotify.com/track/4kogvO1p1DILtlDNyQtIYN) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [hurts 2 hate somebody](https://open.spotify.com/album/1qRPUP3VBOSdZcHfR6VfN8) | 3:03 | 2020-11-07 | 2021-01-23 |
 | [Hurts To Be Young](https://open.spotify.com/track/59DVeWN5Y6PFuMtcUNO8pC) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Hurts To Be Young](https://open.spotify.com/album/3uXIGMV8pW0SlsL4Dwn0aJ) | 3:12 | 2021-05-29 | 2021-06-05 |
@@ -691,6 +691,7 @@
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-02 | 2022-01-08 |
 | [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/track/5ik2LWJMCmr7BGtHvXxPzw) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/album/1TQYlfvFr9wSSM4p05wFP0) | 2:29 | 2022-09-30 |  |
 | [play this at my funeral](https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [us/faces](https://open.spotify.com/album/0NygY9X1KPjqhKUvPYyRGD) | 2:21 | 2020-12-19 | 2021-01-09 |
+| [Pluto](https://open.spotify.com/track/1yZ5C5664QgxBtmdOtX0V5) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Pluto](https://open.spotify.com/album/7ouFPNHH7wa7kqHaLD2GIm) | 3:39 | 2023-01-20 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-01-07 | 2022-03-15 |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2022-01-07 | 2022-05-07 |
 | [Pretty Blue Jeans & Me](https://open.spotify.com/track/5jgEDq4DihrSZV8u4igfIV) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Pretty Blue Jeans & Me](https://open.spotify.com/album/3lzJBYA6Yc7FcjJG1hf1vO) | 2:51 | 2021-10-02 | 2022-01-29 |

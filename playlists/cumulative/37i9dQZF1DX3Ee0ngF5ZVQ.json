@@ -5593,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Southern Land",
+        "url": "https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M"
+      },
+      "artists": [
+        {
+          "name": "Trent Willmon",
+          "url": "https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Southern Land",
+      "url": "https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ"
+    },
+    {
+      "album": {
         "name": "Stay Tuned",
         "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
       },
@@ -5810,7 +5828,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 241749,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU"

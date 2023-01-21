@@ -2271,6 +2271,32 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Dualistic",
+          "url": "https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN"
+    },
+    {
+      "album": {
         "name": "Live A Lie",
         "url": "https://open.spotify.com/album/5ezJVTDdp2c41tYwUAuw4k"
       },

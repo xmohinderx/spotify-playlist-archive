@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> Country that made country cool! Cover: Vince Gill
+> We're celebrating 25 years of The Chicks' iconic album "Wide Open Spaces" on 90s Country!
 
 182 songs - 10 hr 35 min
 

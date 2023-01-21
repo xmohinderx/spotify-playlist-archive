@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sleep Token on top of the biggest Metal playlist!",
+  "description": "Catch Your Breath on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Dead Reckoning",
+        "url": "https://open.spotify.com/album/1b5aY62FMsQFQWzxVW7tcE"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        },
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Dead Reckoning",
+      "url": "https://open.spotify.com/track/4X91JzJfMO32JiyRe62Alv"
+    },
+    {
+      "album": {
         "name": "Deadman",
         "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
       },
@@ -1564,6 +1586,24 @@
     {
       "album": {
         "name": "Doomswitch",
+        "url": "https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275205,
+      "name": "Doomswitch",
+      "url": "https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet"
+    },
+    {
+      "album": {
+        "name": "Doomswitch",
         "url": "https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n"
       },
       "artists": [
@@ -1574,7 +1614,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 275205,
       "name": "Doomswitch",
       "url": "https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX"
@@ -1784,7 +1824,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 234149,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/6QtGvxBKckuEtXKBbqC3JX"
@@ -2402,7 +2442,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 89563,
       "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
       "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
@@ -3249,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
       },
@@ -3296,7 +3354,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 222136,
       "name": "My Will Be Done",
       "url": "https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A"
@@ -4232,6 +4290,24 @@
       "duration_ms": 171676,
       "name": "Scouring The Vile",
       "url": "https://open.spotify.com/track/0E1PHsu35eZ18kL0yYvaBf"
+    },
+    {
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price and Hoodie Allen
 
-434 songs - 20 hr 9 min
+437 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 | 2022-04-04 | 2022-09-24 |
 | [22 and Confused](https://open.spotify.com/track/5cz5ks12l9nyKjwtoFEV6S) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [22 and Confused](https://open.spotify.com/album/2lxnzpLEjE8hY3ikX06if5) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-06-11 |
+| [3 Feet Tall](https://open.spotify.com/track/3B1G2NmxLSvSygfcGmBkq4) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [3 Feet Tall](https://open.spotify.com/album/06ASZgUX18vrOFKMXOtHzs) | 2:21 | 2023-01-20 |  |
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-12 |  |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-04-04 | 2022-07-07 |
 | [95 DEGREES](https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [95 DEGREES](https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO) | 3:02 | 2022-09-09 | 2022-10-15 |
@@ -135,6 +136,7 @@
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-06-17 | 2022-07-06 |
 | [Fcked Up Teeth](https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [Fcked Up Teeth](https://open.spotify.com/album/6bsiQWW6O3PBOFYPNXUQFS) | 3:01 | 2022-03-04 | 2022-05-20 |
 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2022-07-06 |  |
+| [FIDDLE LEAF](https://open.spotify.com/track/6iaeHs0FXbwHIFpOa9QZ03) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 1:47 | 2023-01-20 |  |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-16 | 2022-02-26 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-11 | 2022-12-21 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-07-07 |
@@ -419,6 +421,7 @@
 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 | 2022-09-02 | 2022-10-01 |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-01-28 | 2022-03-17 |
 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 | 2022-03-25 | 2022-07-07 |
+| [Up In Smoke](https://open.spotify.com/track/0F5snJXMeqXbS4bBfFk7dG) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Up In Smoke](https://open.spotify.com/album/6pPfoz3LLLSefNhlsutlFq) | 3:03 | 2023-01-20 |  |
 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 | 2022-06-10 | 2022-10-29 |
 | [used to](https://open.spotify.com/track/7uoVZumpiY5md0zudUujPU) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [COLOR BLIND](https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi) | 2:47 | 2021-11-16 | 2022-02-19 |
 | [villains](https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [villains](https://open.spotify.com/album/11VKtnnjZ81tDFAoB5u412) | 2:33 | 2022-12-09 |  |

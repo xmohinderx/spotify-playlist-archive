@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=5WeMSXULTGyTnsELZudR7g"> Ajebutter22</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,231 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,271 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hear My Sound](https://open.spotify.com/track/2vCndumgGW5m8Bi16Y3mNg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Hear My Sound](https://open.spotify.com/album/3bj9XrXiZ6kPs0YhSF9XDp) | 2:56 |
+| 1 | [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s.](https://open.spotify.com/artist/6uQK3GfXZP6v7vyixKeLBh) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 |
 | 2 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 |
 | 3 | [EDMP \(E Dey Move Person with Cruel Santino\)](https://open.spotify.com/track/2vf1v4p98qn3nS85BMPcgy) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 1:27 |
 | 4 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [PLT IN THE BANK](https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [SPAGHETTI](https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB) | 2:22 |
 | 80 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDUzNGY0NzhiN2U0OGRhNGE1Nzc1NTM0NmI1MWVkMzM2`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGQwYjFjZmE0NmZjNDkyM2EyMWNjYmRiMTA4ZjZlY2Vj`

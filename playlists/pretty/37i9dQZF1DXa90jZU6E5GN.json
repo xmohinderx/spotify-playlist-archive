@@ -1,12 +1,12 @@
 {
   "description": "the prerogative to have a little fun ",
-  "num_followers": 90331,
+  "num_followers": 90428,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDVmMTU3MWJhOGI2MjNjNDcxOGRhMThjZDUwMjAyZWZk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGExNGVhNDE4NTM5YTQ5ZGI3NWExOTljNmUzZDA4NTJi",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 165013,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "The Way That I Am",
         "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 204626,
       "name": "Independence Day",
       "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Pioneer",
-        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Better Dig Two",
-      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Martina",
         "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Better Dig Two",
+      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
     }
   ],
   "unique_name": "neon cowgirl",

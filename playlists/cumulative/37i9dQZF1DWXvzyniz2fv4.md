@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-93 songs - 4 hr 56 min
+94 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Gatinha](https://open.spotify.com/track/5ZYNmEjnLyrbPEe5sK0Dbh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Duarte D.A.T](https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Gatinha](https://open.spotify.com/album/3xoaG8DZlqPnVPmGfHZEdn) | 3:03 | 2022-12-16 |  |
 | [Gosto Assim](https://open.spotify.com/track/3mg6KkopL8IvCYwWISoIJi) | [Zinho Beats](https://open.spotify.com/artist/26v0bbJHcl1Yej5uu8PBDy), [Neezer](https://open.spotify.com/artist/1yr90NLnKkVIS9nP9zRbc7), [Lucaszapp](https://open.spotify.com/artist/1IUZuJBwWRzxnOnRgvFaks), [Tonn](https://open.spotify.com/artist/1qATYsUhbzD9HmABTFeVLt) | [Gosto Assim](https://open.spotify.com/album/5f6eVzAG7JXGJp9qDVzoGk) | 2:52 | 2021-11-12 | 2022-04-23 |
 | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ) | [Guts](https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN), [Nícolas Walter](https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Lil Sete](https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP), [Diogo Mariense](https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l), [Neew](https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH) | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB) | 4:12 | 2021-11-12 |  |
+| [Horizonte](https://open.spotify.com/track/7GVZe59ZSJ8IKKRVGB72gr) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [Horizonte](https://open.spotify.com/album/1h4UXcv1j2ckfDuLqdqe1c) | 2:47 | 2023-01-20 |  |
 | [Idas e Vindas](https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Meucci](https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Idas e Vindas](https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6) | 3:58 | 2021-11-12 |  |
 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2021-11-12 |  |
 | [Inabalável](https://open.spotify.com/track/09G8dVMJCNiqaJg5yVhqvU) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Inabalável](https://open.spotify.com/album/52sfF9kzuFKf66aR6TdKYf) | 2:36 | 2022-12-02 | 2022-12-17 |

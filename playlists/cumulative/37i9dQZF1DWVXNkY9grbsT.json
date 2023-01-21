@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 376400,
       "name": "Chrome Dreams",
       "url": "https://open.spotify.com/track/2EpCRT1cRcG72NeSI5dYYV"
@@ -1844,6 +1844,24 @@
       "duration_ms": 327474,
       "name": "Evensong",
       "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
+    },
+    {
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
     },
     {
       "album": {
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 433911,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/3vLRWk9nnsJ89ShbHm9LTI"
@@ -5306,6 +5324,24 @@
       "duration_ms": 452968,
       "name": "Wandering Frames",
       "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
+    },
+    {
+      "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "album": {

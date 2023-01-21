@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 50627,
+  "num_followers": 50662,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDc2MTE5YWMwZWY1ZGY5MjAxY2YxODBlMmExNmNhYmEz",
+  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDVmNzE4YjQ1NTg4MWQwZTAyYTcxYTk2N2M4YmY3MDQw",
   "tracks": [
     {
       "added_at": "2022-12-13 14:39:13",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 249566,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
-    },
-    {
-      "added_at": "2022-12-13 14:39:13",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 236938,
       "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
       "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
+    },
+    {
+      "added_at": "2022-12-13 14:39:13",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 249566,
+      "name": "chAngE",
+      "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
-        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 243156,
-      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
-      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
-    },
-    {
-      "added_at": "2022-12-13 14:39:13",
-      "album": {
         "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
         "url": "https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
+    },
+    {
+      "added_at": "2022-12-13 14:39:13",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
+        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 243156,
+      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
+      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
     },
     {
       "added_at": "2022-12-13 14:39:13",

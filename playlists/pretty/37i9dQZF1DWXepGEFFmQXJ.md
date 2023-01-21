@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,050 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,175 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 12 | [Livin' The Dream](https://open.spotify.com/track/7wzBIZ2654ZJK8iu6bPolW) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Livin' The Dream](https://open.spotify.com/album/34W2QQF9MntXEY5VK6HM8r) | 3:33 |
 | 13 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 |
 | 14 | [Last Time Last](https://open.spotify.com/track/7ePwjDCWZSmEtzrUvFCoEy) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Last Time Last](https://open.spotify.com/album/3DvNKelL2qwF1ArBNvSec6) | 3:37 |
-| 15 | [Couple Goals](https://open.spotify.com/track/6ETlC79s5egaDeUdKibjJi) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:53 |
+| 15 | [Couple Goals](https://open.spotify.com/track/5ewrYLGsdMaW4ew25te6Tn) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Couple Goals](https://open.spotify.com/album/5qLihYxDJu3nTyIcEPD4Ju) | 2:53 |
 | 16 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 |
 | 17 | [Deep Cuts](https://open.spotify.com/track/1LEOSfKAoEFCjQPiF44kqI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Deep Cuts](https://open.spotify.com/album/6ZD2LgmUGRKzXWaJGf1nBM) | 4:05 |
 | 18 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 80 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 |
 
-Snapshot ID: `MTY3NDEzMzIwMCwwMDAwMDAwMDU4YThkMTVhYWQyOWJkMjVmN2FhZjc1MDhlMDQ0OGJm`
+Snapshot ID: `MTY3NDEzMzIwMCwwMDAwMDAwMDhhODlhYjg3MDkwZDQzYzdmMmIwYmQzMDU5MWZjNGFk`

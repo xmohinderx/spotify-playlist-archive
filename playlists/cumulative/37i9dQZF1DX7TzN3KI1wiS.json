@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel",
+        "url": "https://open.spotify.com/album/1w5YChnFdQVK4bmKNQMFfh"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Can You Feel",
+      "url": "https://open.spotify.com/track/4YPs1fsVW9KKJoPxSdRe5V"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0PdouvNAaoaniNawGgdsaC"
       },
@@ -1092,6 +1110,28 @@
       "duration_ms": 470493,
       "name": "Shallow - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/1drqut7btLgFmQROnZp6aw"
+    },
+    {
+      "album": {
+        "name": "Shoft Alhala",
+        "url": "https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Mode",
+          "url": "https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Shoft Alhala - Radio Edit",
+      "url": "https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf"
     },
     {
       "album": {

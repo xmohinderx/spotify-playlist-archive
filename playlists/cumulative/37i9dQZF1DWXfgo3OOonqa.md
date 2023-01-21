@@ -4,7 +4,7 @@
 
 > 2023
 
-767 songs - 1 day 10 hr 1 min
+768 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [ALLVARLIGT](https://open.spotify.com/track/1YGcRUmCYnaOWPUkZxzNlc) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/1hEyD7ldmW99IJQBjv9sji) | 3:18 | 2022-09-22 | 2022-10-13 |
 | [ALLVARLIGT](https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb) | 3:18 | 2022-10-07 | 2023-01-20 |
 | [Alo](https://open.spotify.com/track/3dymy8M8SPPTmybtqP08jq) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Alo](https://open.spotify.com/album/0KRlmoPmr8c61pimGgRNGU) | 3:11 | 2022-01-20 | 2022-03-05 |
-| [Alors on danse](https://open.spotify.com/track/5b0NuIEQBpLQYNGL8DVp1a) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Alors on danse](https://open.spotify.com/album/21s1Tby8B9qgyoTsmCi2Kc) | 2:22 | 2023-01-19 |  |
+| [Alors On Danse](https://open.spotify.com/track/5b0NuIEQBpLQYNGL8DVp1a) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Alors On Danse](https://open.spotify.com/album/21s1Tby8B9qgyoTsmCi2Kc) | 2:22 | 2023-01-19 |  |
 | [ALVA 2](https://open.spotify.com/track/1q1AzrEfcCtuiDzHVEKpBE) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [ALVA 2](https://open.spotify.com/album/3d5HX48ounQ8tyTYYlV62V) | 2:56 | 2022-05-12 | 2022-06-03 |
 | [Amo](https://open.spotify.com/track/422lbxDt4LGd8EvqwNLLq9) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Amo](https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV) | 3:08 | 2022-03-24 | 2022-06-10 |
 | [ANARKI \(Intro\)](https://open.spotify.com/track/1jGrLbNXSl6WQFTgn91Zxl) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [DEJAVU](https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx) | 2:57 | 2022-03-10 | 2022-03-25 |
@@ -309,6 +309,7 @@
 | [Hala Hala \(Hot Girl Summer\)](https://open.spotify.com/track/0Urqno9j5gMI9aTKefkJqq) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Hala Hala \(Hot Girl Summer\)](https://open.spotify.com/album/7DvPbkRiePbdTQ8IzEf17Q) | 2:22 | 2022-06-09 | 2022-09-02 |
 | [Hallucinerar](https://open.spotify.com/track/0AknlTHIIVozGhJf1cspHh) | [N Kayani](https://open.spotify.com/artist/61hIpqLKwM0zcjNRLinT8d), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Hallucinerar](https://open.spotify.com/album/63Nl7ICthPoDB9DW6v8xsT) | 2:43 | 2022-05-05 | 2022-05-27 |
 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 | 2021-12-16 | 2022-11-25 |
+| [HAN SOLO](https://open.spotify.com/track/7M2rOpRflBu9TD5d4TfZqs) | [Dogbite](https://open.spotify.com/artist/0ZZPrdKQzbnAQhPcJCy2nH), [Chad Bogus](https://open.spotify.com/artist/2zgy03hn0IeW6pxKJYMLq1), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [<FORM](https://open.spotify.com/album/4eV7xu8aoqaPvxjRd7fbSN) | 3:29 | 2023-01-20 |  |
 | [Harraga](https://open.spotify.com/track/1zvjknh2u5bsN719NSBGmm) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 1:55 | 2021-12-16 | 2022-01-28 |
 | [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 | 2022-11-10 |  |
 | [HASTA](https://open.spotify.com/track/15gz77s7cmPXwG8LRIyo4i) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [HASTA](https://open.spotify.com/album/38gRMNn70jO9l9iFFVEmnI) | 2:08 | 2022-06-02 | 2022-09-02 |

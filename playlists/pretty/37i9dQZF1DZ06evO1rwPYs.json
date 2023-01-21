@@ -1,15 +1,15 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 94145,
+  "num_followers": 94155,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5MDIyODMsMDAwMDAwMDBhMjRkOGI5OTQwMjIxZGM2MDI2MzUwZWJhZWIxNGZhNg==",
+  "snapshot_id": "Mjc5MDM3NTksMDAwMDAwMDA0NDcxMzVjYjdhZWJhMjViMjI3YTdhODAxYzIzNDRjYQ==",
   "tracks": [
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
@@ -197,27 +197,7 @@
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
@@ -237,39 +217,7 @@
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
@@ -285,7 +233,7 @@
       "url": "https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
@@ -313,10 +261,10 @@
       "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
       "artists": [
         {
@@ -324,12 +272,12 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 153400,
-      "name": "Dile Que Por M\u00ed No Tema",
-      "url": "https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4"
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
@@ -345,43 +293,7 @@
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "A Todos Mis Amigos",
-        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Cuando Estoy Contigo",
-      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Tuya, Y M\u00e1s Que Tuya",
-      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
@@ -397,7 +309,23 @@
       "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "A Todos Mis Amigos",
+        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Cuando Estoy Contigo",
+      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
@@ -417,7 +345,7 @@
       "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Irrepetible",
         "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
@@ -433,7 +361,7 @@
       "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
@@ -449,7 +377,7 @@
       "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
@@ -465,7 +393,27 @@
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "La Vida Es Un Carnaval (Baile Total)",
         "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
@@ -481,27 +429,7 @@
       "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "En El Baj\u00edo",
-      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
@@ -517,7 +445,7 @@
       "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
         "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
@@ -537,7 +465,27 @@
       "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
@@ -557,7 +505,7 @@
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
@@ -573,7 +521,7 @@
       "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
@@ -593,7 +541,27 @@
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
@@ -645,7 +613,7 @@
       "url": "https://open.spotify.com/track/1KtmahhSHKA4iGAIrBi88P"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
@@ -661,7 +629,7 @@
       "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Tremendo Trio",
         "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
@@ -685,7 +653,7 @@
       "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
@@ -705,7 +673,7 @@
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
@@ -725,7 +693,7 @@
       "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Serenata Guajira",
         "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
@@ -741,7 +709,7 @@
       "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Cuba y Puerto Rico",
         "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
@@ -761,7 +729,7 @@
       "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
@@ -781,7 +749,7 @@
       "url": "https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
@@ -797,7 +765,7 @@
       "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
@@ -817,7 +785,7 @@
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
@@ -837,27 +805,7 @@
       "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
-      "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Cao Cao Man\u00ed Picao",
-      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
-    },
-    {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
@@ -877,7 +825,7 @@
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
@@ -901,7 +849,7 @@
       "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/0HM5htNd3yWjExQx9BzEnM"
@@ -917,7 +865,7 @@
       "url": "https://open.spotify.com/track/2XLdgYGYiGYUuNxhqwXvrx"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
@@ -937,7 +885,7 @@
       "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Siempre Vivir\u00e9",
         "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
@@ -953,7 +901,7 @@
       "url": "https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Etc. Etc. Etc.",
         "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
@@ -969,7 +917,7 @@
       "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
@@ -985,7 +933,7 @@
       "url": "https://open.spotify.com/track/2gkfXIFTGr48G6TWd6z13r"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Serenata Guajira",
         "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
@@ -1001,7 +949,7 @@
       "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Celia, Johnny, And Pete",
         "url": "https://open.spotify.com/album/03NIcOwe2QNrqWvyrM80CT"
@@ -1025,7 +973,7 @@
       "url": "https://open.spotify.com/track/3MtmJFVMDcJQye0ke1qwlx"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
@@ -1045,27 +993,47 @@
       "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
-        "name": "Canciones Premiadas De Celia Cruz",
-        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
+        "name": "Homenaje A Beny Mor\u00e9",
+        "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
       },
       "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
         }
       ],
-      "duration_ms": 175600,
-      "name": "Melao De Ca\u00f1a",
-      "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+      "duration_ms": 220453,
+      "name": "Pachito Ech\u00e9",
+      "url": "https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "La Reina Y Sus Amigos",
         "url": "https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH"
@@ -1085,7 +1053,63 @@
       "url": "https://open.spotify.com/track/67OabBQdoaiDrwoAjtO8HJ"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/4PWZHrzR0oSRULq6zcPjXF"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "La Experiencia",
+        "url": "https://open.spotify.com/album/533w9sxX4KwwVD0d4ilIef"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "duration_ms": 296720,
+      "name": "Ay Mi Cuba",
+      "url": "https://open.spotify.com/track/50yx0j0kA2yNBSbtCPdFwK"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
       "album": {
         "name": "Homenaje A Beny Mor\u00e9",
         "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
@@ -1125,10 +1149,10 @@
       "url": "https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV"
     },
     {
-      "added_at": "2023-01-19 14:03:21",
+      "added_at": "2023-01-20 14:39:24",
       "album": {
-        "name": "Bravo",
-        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
       },
       "artists": [
         {
@@ -1136,9 +1160,33 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 156533,
-      "name": "Bravo",
-      "url": "https://open.spotify.com/track/4PWZHrzR0oSRULq6zcPjXF"
+      "duration_ms": 175051,
+      "name": "M\u00e9xico Lindo - Remastered",
+      "url": "https://open.spotify.com/track/4LK6iEId6I5543P9bD6Rwy"
+    },
+    {
+      "added_at": "2023-01-20 14:39:24",
+      "album": {
+        "name": "Live (Live At The Roberto Clemente Coliseum / San Juan, Puerto Rico / July 11, 1975)",
+        "url": "https://open.spotify.com/album/6nLUc4xbYZwXH7IwTYexLX"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 420414,
+      "name": "C\u00facala - Live",
+      "url": "https://open.spotify.com/track/0LQWDzZ89sg3EzJxXoo5tu"
     }
   ],
   "unique_name": "This Is Celia Cruz",

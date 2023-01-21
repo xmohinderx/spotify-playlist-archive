@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-142 songs - 7 hr 13 min
+144 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Around Me](https://open.spotify.com/track/1fdcacZgERIC8LBCFdtj6A) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [All Around Me](https://open.spotify.com/album/22CKUeAX5q2wef4iwuOiOi) | 3:25 | 2021-12-10 | 2022-08-27 |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 |  |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
+| [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/track/08S37oejetoPevVixK6iXN) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1) | 3:04 | 2023-01-20 |  |
 | [Baccwood](https://open.spotify.com/track/5If13CIfsTGrzOcT2FOa1t) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Baccwood](https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94) | 1:27 | 2022-06-10 | 2022-07-16 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 |  |
 | [Bad For Me \(feat\. Teddy Swims\) \- jtrain Remix](https://open.spotify.com/track/1OMpg6BS9PkqaB2mfiPD7H) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [jtrain](https://open.spotify.com/artist/3kub3T0UYuzMjoMw8ofksM) | [Bad For Me \(Remixes\) \(feat\. Teddy Swims\)](https://open.spotify.com/album/39niNC5MSsZ9MOO3ICkjnp) | 3:07 | 2022-08-26 | 2022-09-10 |
@@ -79,6 +80,7 @@
 | [I Have Never Felt More Alive \- from the feature film "Fall"](https://open.spotify.com/track/3Hz0axxTsemGQSNK3BiRa9) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [I Have Never Felt More Alive \(from the feature film "Fall"\)](https://open.spotify.com/album/4CMGvkAxokAjuV68nGzMuA) | 3:20 | 2022-07-22 | 2022-08-27 |
 | [If I Want You](https://open.spotify.com/track/4RTPe8icsISnFUp3IvEX4j) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [If I Want You](https://open.spotify.com/album/18WeqJ2p0BOIcPBTKzYso8) | 3:13 | 2022-08-26 | 2022-10-08 |
 | [JOSIE](https://open.spotify.com/track/2sAPzyqJOK6eX3ij0meYsW) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [JOSIE](https://open.spotify.com/album/6NN1w4kcxnOckq3p0nacUy) | 3:47 | 2021-08-20 | 2022-06-18 |
+| [KEEP IT](https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [KEEP IT](https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1) | 2:20 | 2023-01-20 |  |
 | [Kevin](https://open.spotify.com/track/5VojgowVZsVrqNHW2kBn0Z) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj) | 3:09 | 2022-06-10 | 2022-09-17 |
 | [KU LO SA](https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA](https://open.spotify.com/album/49t2yBtgMtTnSsFWRp19GO) | 2:28 | 2022-10-21 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-10 | 2022-06-25 |
@@ -133,7 +135,7 @@
 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 | 2022-06-11 |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-08-27 |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-09-16 | 2022-10-15 |
-| [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-14 |  |
+| [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-14 | 2023-01-21 |
 | [THE GOV'T GAVE US GUNS](https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [THE GOV'T GAVE US GUNS](https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW) | 1:56 | 2022-12-09 |  |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-08-20 |  |
 | [TICK TOCK](https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TICK TOCK](https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo) | 2:25 | 2022-09-23 |  |
@@ -149,6 +151,6 @@
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-07-30 |  |
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-06-11 |
 | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc) | 2:43 | 2022-07-08 | 2022-12-03 |
-| [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 |  |
+| [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2023-01-21 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

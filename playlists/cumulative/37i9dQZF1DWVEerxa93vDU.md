@@ -4,7 +4,7 @@
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-275 songs - 11 hr 35 min
+285 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,16 @@
 | [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 | 2022-08-30 |  |
 | [Bits and Pieces](https://open.spotify.com/track/6khPxJW2IJMWinaViYq9Xv) | [Tyson Morris](https://open.spotify.com/artist/7BwUBh2QHwvTN7WBV9vPES) | [Here On After](https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8) | 3:29 | 2021-12-14 |  |
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
+| [Blossom](https://open.spotify.com/track/425kI1OLkg7fDZbTjHuV3e) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Blossom](https://open.spotify.com/album/3yrG55bGvVDNZvmb15RAW8) | 2:49 | 2023-01-20 |  |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2021-12-14 |  |
 | [Cadeau](https://open.spotify.com/track/0MDnGRpaRcJguZKX66P6Ap) | [Nora De Smet](https://open.spotify.com/artist/6fYNVK4HEPxnmTBjCTDj3h) | [Cadeau](https://open.spotify.com/album/2EN1ggBpYTvEnpaSy8nOIA) | 1:57 | 2022-12-06 |  |
+| [Carousel](https://open.spotify.com/track/3p2TpdwHfVrBuMZmgs3RUA) | [Daniel Bror Palm](https://open.spotify.com/artist/6tPOe9wJ5ZZRej7BZZ4URN) | [Carousel](https://open.spotify.com/album/3EYSZleRXHptC8FcMKIzjh) | 2:37 | 2023-01-20 |  |
 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2022-12-21 |  |
 | [Cathedral](https://open.spotify.com/track/4G622Kla5qjsJlw5bkE20e) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [As the sun slowly sets](https://open.spotify.com/album/6HIZdVicp4nHBJ49nJfbnF) | 3:19 | 2021-12-14 |  |
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2021-12-14 |  |
 | [Cercle de vie](https://open.spotify.com/track/4RopzZkBrpfdVaVeclXqFi) | [Jean Larousse](https://open.spotify.com/artist/6sSeVDtf7yeFSl2vDUnjmU) | [Cercle de vie](https://open.spotify.com/album/14gAPt40sKKf9nG0ZXOQn5) | 2:28 | 2022-06-06 |  |
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-03-03 |  |
+| [Charleston](https://open.spotify.com/track/0r1ToU0xBVU0WeEyay3VtN) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:44 | 2023-01-20 |  |
 | [Charming Spring](https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Charming Spring](https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx) | 2:08 | 2021-12-14 | 2022-01-06 |
 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-05-20 |  |
 | [City Crows](https://open.spotify.com/track/2T7AgkxYbeoGb8u8cH3bA4) | [Steven Jacobson](https://open.spotify.com/artist/3wYvEFMQlP8PuCHvbtGO2K) | [Shade of Spring](https://open.spotify.com/album/1Rk6GlUSBebT9gp0QXc4oD) | 1:56 | 2022-03-30 |  |
@@ -68,6 +71,7 @@
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2021-12-14 |  |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2021-12-14 |  |
 | [Edgar's Garden](https://open.spotify.com/track/4AgEOcwJpmtE2fqhyqUIA8) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [Edgar's Garden](https://open.spotify.com/album/4d6jOSCNJtDThR0H6JV6cI) | 3:10 | 2022-07-06 |  |
+| [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-01-20 |  |
 | [Eosphoros](https://open.spotify.com/track/4QqXkYp0fsZZjyTBr7QtSS) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros](https://open.spotify.com/album/09BUR6MGDwFlKtGWv0b7AM) | 2:09 | 2022-05-20 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2021-12-14 |  |
 | [Espira](https://open.spotify.com/track/4OQmeUFkAzczVjfBmLuk88) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [Espira](https://open.spotify.com/album/4msJVubzT4X721PKyVM4fl) | 2:50 | 2022-07-06 |  |
@@ -178,6 +182,7 @@
 | [Pangéia](https://open.spotify.com/track/320i58odFA1UpynoQ3vCru) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Pangéia](https://open.spotify.com/album/1CSGPPreDfOlqsDZaL2OPF) | 2:43 | 2023-01-09 |  |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-12-14 |  |
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-12-14 |  |
+| [Periferi](https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Periferi](https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca) | 2:24 | 2023-01-20 |  |
 | [Perla](https://open.spotify.com/track/0kQMah3gWs9amKOblNUdx7) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Perla](https://open.spotify.com/album/3BN8pdq5ZXWGQD58OgJt5Q) | 2:12 | 2022-12-21 |  |
 | [pogovor](https://open.spotify.com/track/0gw8ddkfXyDKj5SwDV0QCy) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [pogovor](https://open.spotify.com/album/5C2X6egrREnKihihbxYkAg) | 1:58 | 2022-12-06 |  |
 | [Pollux](https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:22 | 2021-12-14 | 2022-01-06 |
@@ -228,9 +233,12 @@
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2021-12-14 | 2022-02-17 |
 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 | 2022-06-06 |  |
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-21 |  |
+| [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-20 |  |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-02-16 |  |
 | [Son De Pluie](https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Son De Pluie](https://open.spotify.com/album/3P7mZrXwwHVvhQ72JfqYeU) | 2:35 | 2023-01-09 |  |
+| [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 | 2023-01-20 |  |
 | [South](https://open.spotify.com/track/0k2zeZDo0fhdFPyLCOzDWe) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [South](https://open.spotify.com/album/1m7QlcVnaF3t6ZBowZ4etJ) | 2:34 | 2022-03-30 |  |
+| [Starling](https://open.spotify.com/track/0JJW5BjdAwIfwcZ87fWswG) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Starling](https://open.spotify.com/album/17HUO0GuAJJGeDZfOiSQbr) | 4:04 | 2023-01-20 |  |
 | [Still](https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Still](https://open.spotify.com/album/3Ko0u1P4mxYYrCHKgx5OdE) | 2:16 | 2021-12-14 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2021-12-14 | 2022-02-17 |
 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2022-12-21 |  |
@@ -256,6 +264,7 @@
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2021-12-14 |  |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-12-14 |  |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2021-12-14 |  |
+| [Tu ed io insieme](https://open.spotify.com/track/6BwRxjRXCugUadSjwxghqm) | [Ely Ève](https://open.spotify.com/artist/4tcvZoHbBrHpRZMhL8E9ku) | [Tu ed io insieme](https://open.spotify.com/album/3KTCb4rjjAx2zNvaaCmnXF) | 2:23 | 2023-01-20 |  |
 | [Tu m'appartiens](https://open.spotify.com/track/4J3NvJOHStUHwgpc3Gqk2K) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu m'appartiens](https://open.spotify.com/album/51IDBLT4r765NspnUE0VFk) | 1:58 | 2021-12-14 |  |
 | [Two Steps Forward](https://open.spotify.com/track/63YGmJOvR3ARYmWmR5e0hz) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Two Steps Forward](https://open.spotify.com/album/0uEBYJqMCvg6NXkwOYIYHz) | 2:26 | 2021-12-14 |  |
 | [Un posto tranquillo](https://open.spotify.com/track/5Uh1jjIEFIxQtiOupR26Rm) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Un posto tranquillo](https://open.spotify.com/album/3PfyJEXkIhq6bham5T52Yq) | 2:54 | 2022-05-04 |  |
@@ -277,6 +286,7 @@
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2021-12-14 |  |
 | [Willow](https://open.spotify.com/track/7vGB0te1eym1Gf8NJlXKF7) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [Willow](https://open.spotify.com/album/0Dj4cbCUpaInhC1CfukTwT) | 2:06 | 2021-12-14 | 2022-03-31 |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2021-12-14 |  |
+| [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-01-20 |  |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2022-01-19 |  |
 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 | 2022-09-13 |  |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2021-12-14 | 2022-12-22 |

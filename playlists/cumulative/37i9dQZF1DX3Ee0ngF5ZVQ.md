@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
-398 songs - 23 hr 43 min
+399 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 |  |
+| [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-21 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
 | [Steady](https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Steady](https://open.spotify.com/album/2usrETNCWm7wx56mNkQ168) | 3:47 | 2022-06-03 | 2022-07-29 |
 | [Sticks and Stones](https://open.spotify.com/track/1yzLtMC3H04rentkZiHU5v) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Sticks and Stones](https://open.spotify.com/album/5ZkeHDmi5q2FBdQfcsZClF) | 3:30 | 2021-12-17 | 2022-01-08 |
@@ -321,7 +322,7 @@
 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 | 2022-07-22 | 2022-10-08 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-07-29 |
 | [Sunshade](https://open.spotify.com/track/4njstyFBob2jiDicVk3l81) | [Cole Whittlesey](https://open.spotify.com/artist/7HXqXIdYlbvbv0IFDpuTDF) | [Sunshade](https://open.spotify.com/album/0t5Q9wOfTzerTuWi8Z2v87) | 3:35 | 2022-03-25 | 2022-07-27 |
-| [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 |  |
+| [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 | 2023-01-21 |
 | [Sweet Irene](https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Sweet Irene](https://open.spotify.com/album/2WCm8RARzrO6oaq0BtIpEK) | 3:48 | 2021-12-17 | 2022-08-27 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-29 |  |
 | [Tell Me It Is](https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs) | 3:05 | 2022-06-03 |  |

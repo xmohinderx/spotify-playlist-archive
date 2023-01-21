@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "500 Miles",
+        "url": "https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH"
+    },
+    {
+      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
       },
@@ -802,6 +820,24 @@
       "duration_ms": 376646,
       "name": "Dirty Grease",
       "url": "https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR"
+    },
+    {
+      "album": {
+        "name": "Don't Know Where She Went",
+        "url": "https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK"
+      },
+      "artists": [
+        {
+          "name": "The Nighthawks",
+          "url": "https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Don't Know Where She Went",
+      "url": "https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv"
     },
     {
       "album": {
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 227434,
       "name": "Poor Black Children",
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
@@ -4172,7 +4208,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 194786,
       "name": "Twisted Ambition",
       "url": "https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC"

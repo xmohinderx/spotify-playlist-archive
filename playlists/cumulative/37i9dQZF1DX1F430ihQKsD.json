@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Tha\u00efs",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Mayfly",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -438,6 +438,28 @@
       "duration_ms": 185913,
       "name": "Beau beam",
       "url": "https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV"
+    },
+    {
+      "album": {
+        "name": "BEZU",
+        "url": "https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF"
+      },
+      "artists": [
+        {
+          "name": "Valaire",
+          "url": "https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj"
+        },
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184116,
+      "name": "BEZU",
+      "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
     },
     {
       "album": {
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 198262,
       "name": "For\u00eat magique",
       "url": "https://open.spotify.com/track/4gRW12zxJsHytn79RWCTbN"
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 186737,
       "name": "Gallows",
       "url": "https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX"
@@ -2813,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "M'as-tu vu passer?",
+        "url": "https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "M'as-tu vu passer?",
+      "url": "https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP"
+    },
+    {
+      "album": {
         "name": "HIDEAWAY, Vol. I",
         "url": "https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN"
       },
@@ -3247,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "NYE",
+        "url": "https://open.spotify.com/album/6hH18kplTXZclpj5apCio9"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175817,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/5zy9hlTvSUCn6rFPclSquQ"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/4qOpNevVeycrSwa38oM2jz"
       },
@@ -3485,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Pas toi encore",
+        "url": "https://open.spotify.com/album/6UJNUpKI93lDjE3eOHFWaM"
+      },
+      "artists": [
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        },
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209559,
+      "name": "Pas toi encore",
+      "url": "https://open.spotify.com/track/1orTvHCML20Heg9tqVxkQN"
+    },
+    {
+      "album": {
         "name": "Pas un chat",
         "url": "https://open.spotify.com/album/42a33l9LCjFThsvlem9Rw6"
       },
@@ -3554,6 +3634,24 @@
       "duration_ms": 398491,
       "name": "Perfected Steps",
       "url": "https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL"
+    },
+    {
+      "album": {
+        "name": "Picture in Picture",
+        "url": "https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk"
+      },
+      "artists": [
+        {
+          "name": "Reno McCarthy",
+          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "Picture in Picture",
+      "url": "https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ"
     },
     {
       "album": {
@@ -4066,7 +4164,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 202044,
       "name": "Shy Companion",
       "url": "https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ"
@@ -4394,7 +4492,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 202510,
       "name": "Tote Bag",
       "url": "https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN"
@@ -4798,7 +4896,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204000,
       "name": "\u00c0 bient\u00f4t",
       "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"

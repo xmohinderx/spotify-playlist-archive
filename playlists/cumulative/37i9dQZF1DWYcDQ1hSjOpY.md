@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-374 songs - 18 hr 35 min
+376 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,13 @@
 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 | 2021-11-10 |  |
 | [All We Can Do](https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [All We Can Do](https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx) | 3:16 | 2022-04-07 |  |
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2021-11-10 |  |
+| [Alpha Dreams](https://open.spotify.com/track/3MDDGJM0bnteDQY4vQjxQ5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Alpha Dreams](https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P) | 2:54 | 2023-01-20 |  |
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-11-10 |  |
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-11-10 |  |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2021-11-10 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2021-11-10 |  |
 | [Amado Nervo](https://open.spotify.com/track/2Pob0B0xBaszDLVBDWNh0U) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Amado Nervo](https://open.spotify.com/album/6a4WIqXe0jVegSsNx8vCDJ) | 3:09 | 2021-11-10 |  |
-| [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2021-11-10 |  |
+| [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2021-11-10 | 2023-01-21 |
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2022-11-11 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-11-10 |  |
 | [Annashuwa](https://open.spotify.com/track/10ZtwOdYSWqKgiYgOg36N5) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Annashuwa](https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR) | 3:35 | 2021-11-10 |  |
@@ -308,6 +309,7 @@
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-11-10 |  |
 | [Sleep Drone](https://open.spotify.com/track/2lRINOduUGo6lyIMP8kUh4) | [One Stop](https://open.spotify.com/artist/5CUQzPQ7rkBBtBFWzJ0QkQ) | [Focus Drone](https://open.spotify.com/album/01s7HgIfA4qINX7kZNijYz) | 2:02 | 2021-11-10 |  |
+| [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 | 2023-01-20 |  |
 | [Sleepwaves](https://open.spotify.com/track/3TzJZVPEKdiyFcv6aKDkOg) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Sleepwaves](https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX) | 2:52 | 2022-08-05 |  |
 | [Sleepy Journey](https://open.spotify.com/track/3r1ZQqUe14xxssPt2Rkd6j) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Sleepy Journey](https://open.spotify.com/album/0kRsorTUtJsNOFYaHc9KAO) | 2:50 | 2021-11-10 |  |
 | [Slow Down](https://open.spotify.com/track/62cdPqaOoaQng2DXbT47j7) | [Miracle of Silence](https://open.spotify.com/artist/0j24YDWgdPF0QfliOxg2fj) | [Slow Down](https://open.spotify.com/album/5HUfLkt6CGniv8yYgaDpwA) | 2:38 | 2021-11-10 |  |

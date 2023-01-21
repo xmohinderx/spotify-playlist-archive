@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-181 songs - 14 hr 46 min
+184 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,8 @@
 | [Bird Canyons](https://open.spotify.com/track/7aHZncwoXvG1uudkZXghQn) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 4:36 | 2021-12-22 | 2022-08-13 |
 | [Breathing Earth I](https://open.spotify.com/track/5jmzCPIz8C3q6wpRoxb4Hc) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Winds](https://open.spotify.com/album/0Jdg6XhCRiBbOKwvxnIF5b) | 5:55 | 2021-12-22 |  |
 | [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-30 |  |
+| [Celista](https://open.spotify.com/track/56pZYZqvW1LxTO2Zy2OI3j) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:41 | 2023-01-20 |  |
+| [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-01-20 |  |
 | [Coast](https://open.spotify.com/track/2ZXZA0n1Bfo8H2Tg3KpqB8) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 7:14 | 2022-05-18 |  |
 | [Crystal Cathedral \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 3:26 | 2021-12-22 |  |
 | [Culmination \- Spa](https://open.spotify.com/track/0VhT7d3UP1ugfYD8vWD522) | [Imaginary Landscapes](https://open.spotify.com/artist/6HvFu85LrPSSlGAbSSJfJr) | [Culmination](https://open.spotify.com/album/45aJHzBQc5YjbalyM2gX7J) | 3:40 | 2022-07-08 |  |
@@ -45,6 +47,7 @@
 | [Fondo](https://open.spotify.com/track/6o5KpITPKjxpNx4pKVn0M7) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Wings](https://open.spotify.com/album/25M0lmZ3Pm2tZcEaHtHWuF) | 2:43 | 2021-12-22 |  |
 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 | 2021-12-22 |  |
 | [forest fall](https://open.spotify.com/track/4VqK9ZR5KFfcK8JuDDmkbl) | [Claudio Manu](https://open.spotify.com/artist/1qjGStWWGtXWsnNk7n6ty9) | [forest fall](https://open.spotify.com/album/3P7eY7szqpvjxTtAhWWdvX) | 2:30 | 2021-12-22 | 2022-07-09 |
+| [Forest Hymn](https://open.spotify.com/track/4Q0W8BvXVmKjMM1kANzGbq) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Migration](https://open.spotify.com/album/2xUyRkDGB0ViQVJtaVYVVO) | 3:46 | 2023-01-20 |  |
 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 | 2021-12-22 |  |
 | [Fourth Wave](https://open.spotify.com/track/5Ab90ajArXsyoBYSCVx0Jl) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Ambrosial Waves / Tidal Pools](https://open.spotify.com/album/2S9PrrpRshDRs9mcrdFTpb) | 8:05 | 2021-12-22 |  |
 | [Fractural](https://open.spotify.com/track/0vIk5Z6dAqWeOQoE76NUTv) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [朝](https://open.spotify.com/album/0Ky0C7LcSJ2HwsamzMuYKC) | 11:52 | 2021-12-22 |  |

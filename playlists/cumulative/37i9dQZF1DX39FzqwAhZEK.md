@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-322 songs - 16 hr 11 min
+323 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2022-07-05 | 2022-12-21 |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-07-05 |  |
 | [Dysania](https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Confessions](https://open.spotify.com/album/0SR37Tsywrqw2SBims80Ij) | 3:01 | 2022-12-02 |  |
-| [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 |  |
+| [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 | 2023-01-21 |
 | [Elements of Calm](https://open.spotify.com/track/0l4nTCCQFJGhpSUMTGxvrB) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/6wmCUeJXImFBOpKOoGW728) | 3:54 | 2022-07-05 | 2022-07-29 |
 | [Elements of Calm](https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/5CcLsRELzK8tV7yooEMyzJ) | 3:54 | 2022-07-05 |  |
 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2022-07-05 |  |
@@ -103,7 +103,7 @@
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-07-05 |  |
 | [Exhalious Dream](https://open.spotify.com/track/7lNlimXIi5FN9xQIggXIrE) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Exhalious Dream](https://open.spotify.com/album/5Eqr2J9kZaglf5qGZoRAfj) | 2:57 | 2022-07-05 |  |
 | [Exterior](https://open.spotify.com/track/2rto1o0lOuuTm9NeGzrHfE) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Exterior](https://open.spotify.com/album/2Hd8lHAOLITBgyvmfnWoEl) | 2:56 | 2022-07-05 |  |
-| [Eyes Of Comfort](https://open.spotify.com/track/09X7pmwY5KeVBK8TMdfTkX) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Mirror Lake](https://open.spotify.com/album/7fpGIH48txAew5hqsPttL9) | 4:15 | 2022-07-05 |  |
+| [Eyes Of Comfort](https://open.spotify.com/track/09X7pmwY5KeVBK8TMdfTkX) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Mirror Lake](https://open.spotify.com/album/7fpGIH48txAew5hqsPttL9) | 4:15 | 2022-07-05 | 2023-01-21 |
 | [Featherlight](https://open.spotify.com/track/66ZCyyGZ3Hose7ofDcbkkd) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Featherlight](https://open.spotify.com/album/4PIrMjkaOdHB40aee4xhq6) | 3:20 | 2022-07-05 |  |
 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 | 2022-07-05 |  |
 | [Finding Z](https://open.spotify.com/track/6wxi3k13LLevWzehEbQCaN) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Finding Z](https://open.spotify.com/album/52Q1HU0Kr1n2gxElmS2zNA) | 3:37 | 2022-07-05 |  |
@@ -126,7 +126,7 @@
 | [Gentle Mindset](https://open.spotify.com/track/4aItgjNbNcSS2jtkgg1Ywm) | [Musica Para Estudiar Academy](https://open.spotify.com/artist/6aar96zCc3ms96eBkMkU6C) | [Tranquillity Calls](https://open.spotify.com/album/5v1QNkuDMf85YobiT4kCyj) | 3:14 | 2022-07-05 | 2023-01-11 |
 | [Gentle Slumber](https://open.spotify.com/track/1bdMHdYbxbqNaGJxnccSku) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Gentle Slumber](https://open.spotify.com/album/3nTYekMypovZwXjGN1AtSQ) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [Gentle Slumber](https://open.spotify.com/track/5qOzLAV4i75syqr5NMxJHx) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Gentle Slumber](https://open.spotify.com/album/62cHxjlJtRR5lBgQhFbNbj) | 3:15 | 2022-07-05 |  |
-| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2022-07-05 |  |
+| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2022-07-05 | 2023-01-21 |
 | [Giron](https://open.spotify.com/track/1VFhDSOvYfeFOI5QrnhqFE) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Giron](https://open.spotify.com/album/3V94iJ5dK7D6vcg5T6fU6T) | 2:40 | 2022-10-14 |  |
 | [Glorious](https://open.spotify.com/track/1qNhGpEkB9Jh95qEx0GeXq) | [Ultimate Sleep](https://open.spotify.com/artist/7cyxs5oGazdrN6uuMZgf2N) | [Glorious](https://open.spotify.com/album/3RPXaPP3g4mnMaUrf2XSrf) | 2:34 | 2022-07-05 |  |
 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 | 2022-07-05 |  |
@@ -294,6 +294,7 @@
 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 | 2022-07-05 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Calm](https://open.spotify.com/track/1nqq9YCuHGnk9YabcqH1bp) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Voices of the Forest](https://open.spotify.com/album/10xjwZtSIcQbvo2VgyOlSN) | 2:37 | 2022-07-05 |  |
+| [The Depth](https://open.spotify.com/track/6iWozdaDCYuKdu7OvSnsL6) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [The Depth](https://open.spotify.com/album/242I0FRujQ0a53T6kKeX3L) | 2:30 | 2023-01-20 |  |
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2022-07-05 | 2022-12-21 |
 | [The Lonely Mountain](https://open.spotify.com/track/79Yt5NGbPCEECa3rlpbOve) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [The Lonely Mountain](https://open.spotify.com/album/1wUv8HDDx9WWbPF2okGNE7) | 3:18 | 2022-07-05 |  |
 | [The Sky Above Us](https://open.spotify.com/track/4rBitWwPvC7hgE9IdDNwnr) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [The Sky Above Us](https://open.spotify.com/album/40RHBVPLKNpftZHmnOX8zy) | 3:42 | 2022-07-05 |  |

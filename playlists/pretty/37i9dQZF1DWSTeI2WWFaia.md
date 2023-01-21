@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,593,389 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,480 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 25 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 |
 | 26 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 27 | [TV Dinners \(feat\. Boldy James & Sideshow\)](https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [This Thing Of Ours](https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT) | 2:57 |
-| 28 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
-| 29 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
+| 28 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
+| 29 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
 | 30 | [Walk Out \(feat\. DJ Premier\)](https://open.spotify.com/track/1iOrYWTaQGJN3BieqlHEcX) | [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Walk Out \(feat\. DJ Premier\)](https://open.spotify.com/album/2pSTB0VfDjWUifm3rf9QGt) | 2:41 |
 | 31 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 |
 | 32 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 40 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 |
 | 41 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 42 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
-| 43 | [Help Me God](https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 5:12 |
-| 44 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
+| 43 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
+| 44 | [Help Me God](https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 5:12 |
 | 45 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 | 46 | [No Save Point \- From "Cyberpunk 2077"](https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [No Save Point \(From "Cyberpunk 2077"\)](https://open.spotify.com/album/0AeuKmOe7czsrYwwovI3qu) | 3:15 |
 | 47 | [JADAKISS INTERLUDE \(feat\. Jadakiss\)](https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Skegee](https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Skegee](https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL) | 3:06 |
 | 50 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
 
-Snapshot ID: `MTY3MTI0MDQ2MywwMDAwMDAwMGMxZGFmYjBlY2ZhNzIwMmYzNGUxMTU4ZTIwNjc4YjAx`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMGQyMDlkMmJiYWMwMzU4NDU2ZGFiOThiNGQzYTE5YmU5`

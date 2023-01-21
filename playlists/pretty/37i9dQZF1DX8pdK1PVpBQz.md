@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Huntly
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,675 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,687 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 14 | [Fly By](https://open.spotify.com/track/1tbyEJHBBhbxXEany6Cm3w) | [Sunsee](https://open.spotify.com/artist/0iuSzEwlTuGayeV4vX8bxc) | [Fly By](https://open.spotify.com/album/6EiMz39Nt9yWIYKcIqQ5eb) | 2:29 |
 | 15 | [ghost inside me](https://open.spotify.com/track/39nVBHlprNxuiGq4cWbkK7) | [michael duncan](https://open.spotify.com/artist/7G782kqSW5TuwsbkPZJ8NG) | [ghost inside me](https://open.spotify.com/album/6iM6YxCCTvmdlhMrN0LESI) | 2:32 |
 | 16 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
-| 17 | [Girls World!](https://open.spotify.com/track/7c3kTRls4JudXnc5RQOVNV) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [GIRLS WORLD!](https://open.spotify.com/album/2MBeQNfpBWxMtvyVnk3MYW) | 2:23 |
+| 17 | [GIRLS WORLD!](https://open.spotify.com/track/7c3kTRls4JudXnc5RQOVNV) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [GIRLS WORLD!](https://open.spotify.com/album/2MBeQNfpBWxMtvyVnk3MYW) | 2:23 |
 | 18 | [Be Around U](https://open.spotify.com/track/7dOWaVHGynqLKesT42yvEu) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs), [BADPOSTURE](https://open.spotify.com/artist/5FkUPwN1u4GtQDywCwkiiQ) | [Be Around U](https://open.spotify.com/album/3PDCQby5UGnO8sVZZTVUlE) | 2:45 |
 | 19 | [Karma](https://open.spotify.com/track/37vKjr1Qq2hDAsjGaQRBfC) | [Denzel Kennedy](https://open.spotify.com/artist/0R46HgOV9OdOrQtEons9vC) | [Karma](https://open.spotify.com/album/50np684Ra5WcZjG8y2Q2QP) | 3:09 |
 | 20 | [Issue](https://open.spotify.com/track/4heFVvVBYSPQU1GFoTb6wL) | [Kymie](https://open.spotify.com/artist/2T9nsTVz95z3HHQcz5OuPb), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Issue](https://open.spotify.com/album/5lVdJpGAzuo07Cr3IP7ScD) | 2:32 |

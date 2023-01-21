@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 482686,
+  "num_followers": 482785,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTQyNiwwMDAwMDAwMDBhY2QxZDRmYzQzODQ2YmU3Y2ZlN2Q2ZGQyZTI2MjNm",
+  "snapshot_id": "MTY3NDI1MDMyMCwwMDAwMDAwMDgwODk0OGVlZDVmODBmYzY2NTU3MjZhOWJiNmM2MTM0",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Naked All the Time",
         "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198546,
       "name": "Panama",
       "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Zest Pop",
-        "url": "https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp"
-      },
-      "artists": [
-        {
-          "name": "Mustard Service",
-          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-        }
-      ],
-      "duration_ms": 217656,
-      "name": "Taking up Space",
-      "url": "https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Lizard Tears",
         "url": "https://open.spotify.com/album/0JiJX1L6MNNqH4614orKV5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 194152,
       "name": "Mixed Up and Confused",
       "url": "https://open.spotify.com/track/1bFgm9PdCQeKsEpqOWn1II"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Zest Pop",
+        "url": "https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "duration_ms": 217656,
+      "name": "Taking up Space",
+      "url": "https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0"
     },
     {
       "added_at": "2022-09-22 19:11:53",

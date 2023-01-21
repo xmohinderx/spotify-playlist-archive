@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-102 songs - 3 hr 41 min
+103 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Try a New Food, It Might Taste Good!](https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:02 | 2021-09-23 |  |
 | [Use Your Words](https://open.spotify.com/track/1qcQTqDZLWEC6dB5shIiPw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:05 | 2022-07-08 |  |
 | [Use Your Words](https://open.spotify.com/track/6TmmVQ9qSm1ZrUNRKsZTPt) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Big Feelings](https://open.spotify.com/album/7DdJfGhgMSKGvKjtEdIuNN) | 1:05 | 2021-09-23 | 2022-07-29 |
+| [Wash My Hair \(Lather It Up\)](https://open.spotify.com/track/0hiqelocDwLc0hKFrT92M1) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Wash My Hair \(Lather It Up\)](https://open.spotify.com/album/3JfQybhmeJhumU42CQxUol) | 1:52 | 2023-01-20 |  |
 | [Wash Your Hands](https://open.spotify.com/track/7uOEZmRLh8RdTK4QqBI2dS) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:19 | 2021-09-23 |  |
 | [Wash Your Hands](https://open.spotify.com/track/78drmvufFnkaEa4t4il2wH) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 1:42 | 2022-07-08 |  |
 | [Wash Your Hands](https://open.spotify.com/track/7hm9JdXORZV6oRtzuioEsi) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV) | 1:42 | 2021-09-23 | 2022-07-29 |

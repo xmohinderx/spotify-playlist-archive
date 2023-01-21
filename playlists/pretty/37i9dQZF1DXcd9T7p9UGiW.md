@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD?si=QNcFpJs8TzufWSO\_O23CTg" > Bob Marley </a>  and <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=c8FUtYCvSY2bCeN6w3wXRg" > Sarkodie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,218 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,240 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-141 songs - 8 hr 56 min
+142 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 | 2023-01-14 |
 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 | 2021-03-26 | 2023-01-15 |
 | [Hard Times](https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Hard Times](https://open.spotify.com/album/6OplYWUMxvkCi7WtiS5RRj) | 3:26 | 2021-03-26 | 2022-07-29 |
+| [Head Above Water](https://open.spotify.com/track/32bIll1Vlij9BjKa2e8clR) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 4:09 | 2023-01-20 |  |
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2022-06-07 |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 | 2022-06-09 |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 |  |
@@ -118,7 +119,7 @@
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 |  |
 | [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 | 2022-07-29 |
 | [Still Alive and Well](https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Still Alive and Well](https://open.spotify.com/album/0pzypZjas4pni7g8u3xj5a) | 3:37 | 2022-04-26 | 2022-07-25 |
-| [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 | 2022-04-29 |  |
+| [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 | 2022-04-29 | 2023-01-21 |
 | [Strange Light](https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/3n8eLvnrXECAFfLq1Vj7Wi) | 3:01 | 2021-08-13 | 2022-07-27 |
 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 | 2023-01-14 |
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |

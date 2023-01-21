@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/350A8RvGimxj2dTZcifUEy"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205635,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/7oUQHfIkiTqyd0cNUb0Mnn"
+    },
+    {
+      "album": {
         "name": "Ouli Liya",
         "url": "https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ"
       },

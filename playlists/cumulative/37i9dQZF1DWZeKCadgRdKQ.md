@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-523 songs - 1 day 5 hr 32 min
+528 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Deliverance](https://open.spotify.com/track/0inD1pyAgjkhFgB0RxnuDS) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:59 | 2019-06-27 | 2021-09-03 |
 | [Den inre skogen](https://open.spotify.com/track/0Zl6KnmirT1PeGZvAZY9T1) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 3:49 | 2020-04-13 |  |
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
+| [Dig Deeper](https://open.spotify.com/track/41GmT2g8MpZ5F9IKbzVAc8) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Dig Deeper](https://open.spotify.com/album/2Z9QI0F8PmKk42xrUgd75H) | 2:19 | 2023-01-20 |  |
 | [Dream Circuit](https://open.spotify.com/track/2q8C32OjwpC9NGIa7ER2yK) | [Focal Point](https://open.spotify.com/artist/7EiXe0WQwW2YpTJPEqOZ68) | [Dream Circuit](https://open.spotify.com/album/32sWGjAHu2Bdotu9nFBI3N) | 3:02 | 2021-05-06 |  |
 | [Dreamer](https://open.spotify.com/track/4AAXA43eClFFWQlEeQzC00) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Dreamer](https://open.spotify.com/album/5HPGRNcEd5ZXS8HZnknFNo) | 2:38 | 2021-01-21 |  |
 | [Dreams Of Another Reality](https://open.spotify.com/track/65hchHuhzbGL5gJ3wxkQh0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 3:10 | 2022-07-27 | 2023-01-10 |
@@ -171,6 +172,7 @@
 | [Forever Distant](https://open.spotify.com/track/6phzRtzX5AMmgRVhB02Xas) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Drift Static](https://open.spotify.com/album/1ZDokMeeup5hmKWk0tgPdu) | 3:00 | 2020-11-18 |  |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2019-09-14 |  |
 | [Foveaux Strait](https://open.spotify.com/track/3mvvnHeinX9SuYf3tfkoBF) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP) | [Foveaux Strait](https://open.spotify.com/album/3VJPYPP1PFGyTbzn2kTCBF) | 3:44 | 2019-06-27 | 2021-09-03 |
+| [Fox Mountain](https://open.spotify.com/track/7AhQiikvGQzcr2Kpb74fLG) | [Alderville](https://open.spotify.com/artist/0ghwpyHqiwvaho7g5rR0qV) | [Fox Mountain](https://open.spotify.com/album/0CeqVAaPCMfb23SUgEnavm) | 2:25 | 2023-01-20 |  |
 | [Fresh Paint](https://open.spotify.com/track/40yQjVqMx52xTlY4KFZXnh) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:34 | 2022-11-18 |  |
 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 | 2019-05-26\* | 2019-06-19 |
 | [Frozen Lakes](https://open.spotify.com/track/0acEauszFAvCGw9cNF0kZM) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Frozen Lakes](https://open.spotify.com/album/33iYingDDSa1X0iPiotQT8) | 2:46 | 2022-12-02 |  |
@@ -286,6 +288,7 @@
 | [Migration](https://open.spotify.com/track/7r9cNx76cAD4Uce80Lqyig) | [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Migration](https://open.spotify.com/album/4RJuzMFg5iWb33aTkDq34W) | 3:37 | 2019-06-19\* | 2021-09-14 |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2019-12-31 |  |
 | [Mind Of Lust](https://open.spotify.com/track/6WIbkXGyOIdCEbt1aQXN1r) | [Sandomina](https://open.spotify.com/artist/3Zsv8d3ETW95nBQeND8HNk) | [Mind Of Lust](https://open.spotify.com/album/5Qz06nate2QHEMevilhOQa) | 2:15 | 2020-12-24 |  |
+| [mind reader](https://open.spotify.com/track/76aMjXNa94NuHTNC0BFoH8) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Number Games](https://open.spotify.com/album/6WVqQLIjA7GvydiFmLnwDF) | 2:49 | 2023-01-20 |  |
 | [miniature things](https://open.spotify.com/track/3kKwXt8TAU7wMCPIPCrzkI) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [miniature things](https://open.spotify.com/album/4mo3YbEl9iNR1rTZtkqQxu) | 2:23 | 2022-12-02 |  |
 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 | 2019-06-27 |  |
 | [Momentum](https://open.spotify.com/track/7Ln0DgKSrDG0ALbtNwGeml) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Momentum](https://open.spotify.com/album/6bBUbGTE505JA1suvNRTLu) | 2:58 | 2020-06-19 |  |
@@ -312,6 +315,7 @@
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2019-05-26\* | 2020-08-07 |
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
 | [Numb](https://open.spotify.com/track/1UxbOJn4xayygB84FgRDLS) | [Lacy Magic](https://open.spotify.com/artist/2otMr0SVaBIHvh5sDBkk0k) | [Numb](https://open.spotify.com/album/3Xb4DfU9NUNCwyBhIwrmrv) | 3:23 | 2019-06-19\* | 2019-06-27 |
+| [Number Games](https://open.spotify.com/track/2ZSCtZBMhLuINrMNF23v2e) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Number Games](https://open.spotify.com/album/6WVqQLIjA7GvydiFmLnwDF) | 2:47 | 2023-01-20 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Nuraxi](https://open.spotify.com/track/0jgfH1TWoXIC0Qk5x0Uerw) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraxi](https://open.spotify.com/album/793eb06JG2yOu3V1i9Z5MZ) | 1:43 | 2022-12-30 |  |
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2019-06-19\* |  |
@@ -520,6 +524,7 @@
 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 | 2022-03-04 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2020-09-17 |  |
 | [Woodland Heart](https://open.spotify.com/track/1z7GhYG0KqAmebdLfuoYho) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Woodland Heart](https://open.spotify.com/album/2OeV90Mmc1G332pU5qpatk) | 2:40 | 2019-12-11 | 2022-11-18 |
+| [World Above](https://open.spotify.com/track/6lCPEra6l4YkPkXVZeFqeT) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [World Above](https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o) | 2:35 | 2023-01-20 |  |
 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 | 2019-05-26\* | 2019-06-27 |
 | [Yatta](https://open.spotify.com/track/6Ek1kkD60Zhl6dzkcy2Xaj) | [Fukase Junichiro](https://open.spotify.com/artist/4TFWlUN4dl73XPjf2Rmz4z) | [Yatta](https://open.spotify.com/album/5ZUVlyd0AFftfWAx8VjeLZ) | 2:24 | 2019-07-31 | 2022-10-15 |
 | [You Gotta Keep Moving](https://open.spotify.com/track/59vQSmnGRmNg2Bo3oDWZrY) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 4:09 | 2019-06-19\* | 2020-08-07 |

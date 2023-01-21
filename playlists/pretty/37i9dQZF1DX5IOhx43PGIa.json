@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: RM.",
-  "num_followers": 255201,
+  "num_followers": 255291,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNzI2OSwwMDAwMDAwMGU5OWY4ZTE0OTExNjc4MGMxMDBhN2EzODJjYjE2ZjQ0",
+  "snapshot_id": "MTY3MzYyNzI2OSwwMDAwMDAwMDdkYmM0ZTFjMWZhMTc3MmExYWUyYjdhYjcxNjZjZDFk",
   "tracks": [
     {
       "added_at": "2023-01-13 16:27:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "juice",
-        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "juice",
-      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "juice",
+        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "juice",
+      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "Lost At Sea (Illa Illa 2)",
-        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 205544,
-      "name": "Lost At Sea (Illa Illa 2)",
-      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "bayou",
         "url": "https://open.spotify.com/album/6JUOEOgX7p42TQyvczGMKm"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "Lost At Sea (Illa Illa 2)",
+        "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 205544,
+      "name": "Lost At Sea (Illa Illa 2)",
+      "url": "https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "the other side",
         "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 147786,
       "name": "imysm",
       "url": "https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
         "name": "Future Ghost (feat. Violette Wautier)",
         "url": "https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 176470,
       "name": "Future Ghost (feat. Violette Wautier)",
       "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "rollercoaster",
         "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 151090,
       "name": "rollercoaster",
       "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
+        "name": "Any Other Way",
+        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
         "name": "At Least I Had You",
         "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 203006,
       "name": "At Least I Had You",
       "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
-        "name": "Any Other Way",
-        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Any Other Way",
-      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "MCQUEEN",
-        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MCQUEEN",
-      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 193186,
       "name": "alone",
       "url": "https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "MCQUEEN",
+        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MCQUEEN",
+      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "just like before",
-        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "just like before",
-      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "just like before",
+        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "just like before",
+      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
+        "name": "That XX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 289618,
+      "name": "That XX - Spotify Singles",
+      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
         "name": "Picture Myself",
         "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
       },
@@ -2315,18 +2331,18 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "That XX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+        "name": "WHO TF IS 8RAE?",
+        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+          "name": "8rae",
+          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
         }
       ],
-      "duration_ms": 289618,
-      "name": "That XX - Spotify Singles",
-      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+      "duration_ms": 151384,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2359,22 +2375,6 @@
       "duration_ms": 211635,
       "name": "Nobody Sees Me Like You Do",
       "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
-        "name": "WHO TF IS 8RAE?",
-        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
-      },
-      "artists": [
-        {
-          "name": "8rae",
-          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2543,26 +2543,6 @@
     {
       "added_at": "2023-01-13 16:27:49",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn"
-      },
-      "artists": [
-        {
-          "name": "imugi \uc774\ubb34\uae30",
-          "url": "https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8"
-        },
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -2587,6 +2567,26 @@
       "duration_ms": 151637,
       "name": "If You Leave Me Alone",
       "url": "https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn"
+      },
+      "artists": [
+        {
+          "name": "imugi \uc774\ubb34\uae30",
+          "url": "https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8"
+        },
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2619,26 +2619,6 @@
       "duration_ms": 168420,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy"
-    },
-    {
-      "added_at": "2023-01-13 16:27:49",
-      "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2023-01-13 16:27:49",
@@ -2679,6 +2659,26 @@
       "duration_ms": 167640,
       "name": "PLAYTHING",
       "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
+    },
+    {
+      "added_at": "2023-01-13 16:27:49",
+      "album": {
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     }
   ],
   "unique_name": "Jasmine",

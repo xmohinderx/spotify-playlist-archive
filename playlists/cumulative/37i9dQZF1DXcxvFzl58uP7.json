@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 162575,
       "name": "Bugs",
       "url": "https://open.spotify.com/track/46dUB7Ej08JAdpZmwSRs8E"
@@ -9915,6 +9915,24 @@
     },
     {
       "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK"
+    },
+    {
+      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/1VF7X56XIusbhd8vQiRa9A"
       },
@@ -12615,6 +12633,24 @@
     },
     {
       "album": {
+        "name": "SWEET N SOUR",
+        "url": "https://open.spotify.com/album/6DaE9DH0JnFWPcf1YRVcjS"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "SWEET N SOUR",
+      "url": "https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm"
+    },
+    {
+      "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/19ivBJdupN5tQlsgd0zyV7"
       },
@@ -14114,7 +14150,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 186500,
       "name": "VROOM VROOM",
       "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"

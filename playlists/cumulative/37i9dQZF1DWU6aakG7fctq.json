@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: RENEE",
+  "description": "Fresh Latin Indie. Cover: Salom\u00f3n Beda",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 269730,
       "name": "A carta cabal",
       "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 166653,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q"
@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Love a Morir",
+        "url": "https://open.spotify.com/album/08AODWYrk5l7GHcyR6fTGC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Hoek",
+          "url": "https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168254,
+      "name": "Love a Morir",
+      "url": "https://open.spotify.com/track/4k73TrsfxLhw4Wdjl8x6ya"
+    },
+    {
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
       },
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 138742,
       "name": "un poco m\u00e1s",
       "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"

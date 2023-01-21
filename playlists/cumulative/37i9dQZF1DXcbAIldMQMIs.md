@@ -4,7 +4,7 @@
 
 > Indie pop when ur crushing
 
-273 songs - 14 hr 12 min
+275 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,11 +153,12 @@
 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 | 2021-04-30 | 2022-07-07 |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2021-04-30 | 2022-07-29 |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2022-10-28 |  |
-| [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 | 2022-10-28 |  |
+| [I Don't Miss You at All](https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 2:08 | 2022-10-28 | 2023-01-21 |
 | [I Don't Miss You at All](https://open.spotify.com/track/6ee7CHWggDCiHtZdgzqnJG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 2:08 | 2021-04-30 | 2022-07-29 |
 | [i don’t rly like u](https://open.spotify.com/track/4lNtXm1M1pLxMCDx75ad67) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [i don’t rly like u](https://open.spotify.com/album/22I4KbeJfNLOwuew2Rljz1) | 3:25 | 2021-04-30 | 2022-04-19 |
 | [I Just Want to Be the One You Love](https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws) | 1:20 | 2022-10-06 | 2022-10-29 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-28 | 2022-07-12 |
+| [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2023-01-20 |  |
 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 | 2022-01-28 | 2022-02-12 |
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2021-08-13 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2021-04-30 | 2022-04-14 |
@@ -265,7 +266,7 @@
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2021-04-30 | 2022-07-27 |
 | [what was the last thing u said](https://open.spotify.com/track/7j8Pum7QmJNtFR5mjniLMu) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 3:47 | 2022-01-28 | 2022-07-27 |
 | [When Did Your Heart Go Missing?](https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Calling The World](https://open.spotify.com/album/1qnCc35z3I85Igk8l7crK1) | 3:33 | 2022-05-20 | 2022-05-24 |
-| [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-12-14 |  |
+| [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-12-14 | 2023-01-21 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2022-05-20 | 2022-10-29 |
 | [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 | 2021-04-30 | 2022-10-29 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-04-30 | 2022-04-18 |
@@ -281,5 +282,6 @@
 | [Your Best Friend](https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Your Best Friend](https://open.spotify.com/album/1dXDp9G7LPACrw2H3tOtxA) | 3:02 | 2021-04-30 | 2022-07-26 |
 | [Your Guilty Pleasure](https://open.spotify.com/track/1FlH4OcYNclGCb2nIvKmld) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Your Guilty Pleasure](https://open.spotify.com/album/3x0OjWQt4BhiLZewP0NRkG) | 2:54 | 2021-04-30 | 2022-04-21 |
 | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/track/2EHQk2I0PFsu1zMa8eHeBB) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/album/3EyGeq2HBkz5LEm61NPuNo) | 3:17 | 2021-04-30 | 2022-07-08 |
+| [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

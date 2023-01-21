@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-167 songs - 9 hr 44 min
+169 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/6SewJZC2f9ETwJR2zZWkOP) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot...Brand New Man/Believe](https://open.spotify.com/album/0BNJ0USnQIvtEdWYmooZ8q) | 3:10 | 2021-10-15 | 2022-07-29 |
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 | 2022-07-22 |  |
 | [Broken Neon Hearts](https://open.spotify.com/track/4p3FGuE3sa95Oq8CUggOtg) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Broken Neon Hearts](https://open.spotify.com/album/3UBCPfcnpK4KidTVfJT6BE) | 3:21 | 2022-02-11 |  |
+| [Busted](https://open.spotify.com/track/1Z4oveFlLPWBAWHCZamcyS) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Busted](https://open.spotify.com/album/4JjWnoRKo2RdjOLqGG2951) | 3:28 | 2023-01-20 |  |
 | [Can't Even Get The Blues \- Revived](https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Can't Even Get The Blues \(Revived\)](https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N) | 3:10 | 2021-10-15 |  |
 | [Carryin' Fire \- From The Vault](https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 3:37 | 2021-10-15 |  |
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2021-10-15 |  |
@@ -49,6 +50,7 @@
 | [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |
 | [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-10-15 |  |
 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 | 2022-01-28 |  |
+| [Don’t Make Me Have To Come Down There](https://open.spotify.com/track/09KvWJRQrqRaTxvNNtJFc7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Don’t Make Me Have To Come Down There](https://open.spotify.com/album/57sOqzRyTNjSiHUIDviHwN) | 3:42 | 2023-01-20 |  |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-04-22 | 2022-07-29 |
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 |  |
 | [Dusty Old Dust](https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Dusty Old Dust](https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68) | 5:40 | 2021-10-15 |  |

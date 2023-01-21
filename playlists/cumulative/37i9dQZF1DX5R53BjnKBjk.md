@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
 
-257 songs - 13 hr 20 min
+259 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,13 +16,14 @@
 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 | 2022-08-19 | 2022-12-10 |
 | [A ROSA DOS VENTOS](https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ) | [Osvaldinho](https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c), [Circuladô de Fulô](https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW) | [A ROSA DOS VENTOS](https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf) | 3:01 | 2022-07-22 | 2022-11-05 |
 | [A Vida é Uma Granada](https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm) | [DINGO](https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4) | [A Vida é Uma Granada](https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO) | 3:26 | 2022-11-18 |  |
+| [Absurda](https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Rubi](https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1) | 3:29 | 2023-01-21 |  |
 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 | 2022-09-30 |  |
 | [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 | 2022-02-26 |
 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [LOX](https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 | 2022-09-02 |  |
 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 | 2022-12-09 |  |
 | [Amor Vagabundo](https://open.spotify.com/track/0eajyfbIwb4H8d0vLaMlo3) | [Theo Kant](https://open.spotify.com/artist/1tAAuWHZwqVUVnLuFn29bL) | [Amor Vagabundo](https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD) | 3:33 | 2022-09-23 | 2022-11-18 |
 | [AMORA](https://open.spotify.com/track/058ozZtEEy3yaeBJgy28nh) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [AMORA](https://open.spotify.com/album/7xc8WZsY2fM32pJqEAO71k) | 2:16 | 2022-08-19 | 2022-10-01 |
-| [Anos 2000](https://open.spotify.com/track/2vd7Q7q5hvtWvsXzpRHTBS) | [Julie Schiavon](https://open.spotify.com/artist/1snAs6XuIZv9E3H2NA3ZxS) | [Anos 2000](https://open.spotify.com/album/6YlaEy5w443cELj7h4w046) | 2:37 | 2022-12-09 |  |
+| [Anos 2000](https://open.spotify.com/track/2vd7Q7q5hvtWvsXzpRHTBS) | [Julie Schiavon](https://open.spotify.com/artist/1snAs6XuIZv9E3H2NA3ZxS) | [Anos 2000](https://open.spotify.com/album/6YlaEy5w443cELj7h4w046) | 2:37 | 2022-12-09 | 2023-01-21 |
 | [Antes e Agora](https://open.spotify.com/track/0ixvkDEjhg6Qgxnm5vx1pk) | [Vintilamor](https://open.spotify.com/artist/7b063540QilA3bvw6qehet) | [Antes e Agora](https://open.spotify.com/album/2Db82NFqE0UYpFajdRUwEi) | 2:55 | 2022-01-07 | 2022-08-20 |
 | [Apaga a Luz](https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Apaga a Luz](https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS) | 2:32 | 2022-08-05 | 2022-11-26 |
 | [Apetite](https://open.spotify.com/track/5ahZdgNIccEiKU1wmUJT45) | [Marina Miglio](https://open.spotify.com/artist/5OS4BFYXloJYiNnyqYK6bH) | [Apetite](https://open.spotify.com/album/7En7KqiCwS09bCfvBaPwMG) | 3:06 | 2022-01-07 | 2022-08-13 |
@@ -58,7 +59,7 @@
 | [Chuva de Verão](https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng) | [Yasmim Silveira](https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s), [Raphael Garrido](https://open.spotify.com/artist/4NgK77VcKix9IFvO78qzLT) | [Chuva de Verão](https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U) | 3:00 | 2022-08-26 | 2022-12-24 |
 | [Ciberneticamará](https://open.spotify.com/track/6w4wyRmLicvlRDG9ooxjB5) | [Luísa Bahia](https://open.spotify.com/artist/0cCiJNLI7Fe1aqYIP3FuYb), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Ciberneticamará](https://open.spotify.com/album/3lWH340RTmPGs5qU2agBCC) | 3:24 | 2022-02-11 | 2022-09-24 |
 | [Cicatriz](https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL) | [Tati Maia](https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm) | [Cicatriz](https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c) | 2:27 | 2022-08-12 | 2022-12-03 |
-| [colinas](https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp) | [Lulu Silvério](https://open.spotify.com/artist/79AitT2sovTWZon8onun3J) | [colinas](https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX) | 2:53 | 2022-09-23 |  |
+| [colinas](https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp) | [Lulu Silvério](https://open.spotify.com/artist/79AitT2sovTWZon8onun3J) | [colinas](https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX) | 2:53 | 2022-09-23 | 2023-01-21 |
 | [Com Você](https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Com Você](https://open.spotify.com/album/3F7FW2LB4qer0U8EwrVtVU) | 2:25 | 2022-01-14 | 2022-09-24 |
 | [Como Se Faz](https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Como Se Faz](https://open.spotify.com/album/5aVvaWcVo7uVqoRdEnhrw4) | 2:09 | 2022-01-07 | 2022-06-24 |
 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 | 2022-09-23 |  |
@@ -241,6 +242,7 @@
 | [Troca de Carícias](https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Troca de Carícias](https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ) | 2:44 | 2022-04-29 | 2022-10-29 |
 | [Trompete de Boca](https://open.spotify.com/track/77X88Z7ZLCjAralZfB2Vb4) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Trompete de Boca](https://open.spotify.com/album/3aqyVNQW3kR7XnKoJlJ0ZV) | 3:20 | 2022-01-07 | 2022-01-15 |
 | [três](https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [três](https://open.spotify.com/album/4B2gsbWbg2Knfd0zZBf6n8) | 2:29 | 2022-08-05 | 2022-11-26 |
+| [Três passinhos da derrota](https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ) | [Gali Galó](https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8) | [Gali Galó](https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9) | 2:56 | 2023-01-21 |  |
 | [tudo bem](https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi) | [mucci](https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0) | [tudo bem](https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER) | 3:05 | 2022-01-07 | 2022-08-13 |
 | [Tudo Vai Bem](https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd) | [Stvz](https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu) | [Tudo Vai Bem](https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb) | 3:34 | 2022-01-07 | 2022-08-20 |
 | [Tudo vale a pena](https://open.spotify.com/track/20Ol2Wfg3g6XGVnw4C0D8C) | [Jey](https://open.spotify.com/artist/6dS9sxlp4vf34zzi6TtQ8C) | [Tudo vale a pena](https://open.spotify.com/album/65h69IuhRe8D8E786BrfgZ) | 2:25 | 2022-03-11 | 2022-03-17 |

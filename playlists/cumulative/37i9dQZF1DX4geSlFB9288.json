@@ -1380,7 +1380,7 @@
           "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "date_added": "2023-01-04",
+      "date_added": "2023-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135529,
@@ -1622,7 +1622,7 @@
           "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "date_added": "2023-01-04",
+      "date_added": "2023-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191640,
@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "help herself",
+        "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "help herself",
+      "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
+    },
+    {
+      "album": {
         "name": "The Family Jewels",
         "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
@@ -5194,7 +5216,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 178590,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe"
@@ -5378,6 +5400,28 @@
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling - (Sped Up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "album": {
@@ -5668,7 +5712,7 @@
           "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "date_added": "2023-01-04",
+      "date_added": "2023-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156008,
@@ -6304,7 +6348,7 @@
           "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "date_added": "2023-01-04",
+      "date_added": "2023-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188453,
@@ -6478,7 +6522,7 @@
           "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
         }
       ],
-      "date_added": "2023-01-04",
+      "date_added": "2023-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246706,

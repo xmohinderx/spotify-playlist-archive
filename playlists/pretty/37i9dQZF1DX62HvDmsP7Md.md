@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨  Cover: Puff Daddy, Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,372 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,996 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 13 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 |
 | 14 | [One Minute Man \(feat\. Ludacris\)](https://open.spotify.com/track/0jG92AlXau21qgCQRxGLic) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 4:12 |
 | 15 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
-| 16 | [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 |
+| 16 | [Get Busy](https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:31 |
 | 17 | [\#1 Stunna](https://open.spotify.com/track/4ONUK5KjdBBNIyzEVCMPOe) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Cash Money Records Platinum Hits \(Vol\. 1\)](https://open.spotify.com/album/4By1wfgOxWYviXNnjMngHi) | 4:43 |
 | 18 | [In Da Club](https://open.spotify.com/track/3deUegCTzY5SH15lFlTbUP) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 3:13 |
 | 19 | [Try Again](https://open.spotify.com/track/4FJo9f5wGYnRD6VFjwVGcB) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Romeo Must Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PdccyECX3DIvmmdQY7FKT) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [I Don't Know \(feat\. P\. Diddy\)](https://open.spotify.com/track/1NCSa6QvClPVe7KqsqjnMn) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 100 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 
-Snapshot ID: `MTY3MjcwMTM2NiwwMDAwMDAwMDAxYmQzODhjOWU0MzhiOGIyODBkYjlhNDZlZjY5ZDBj`
+Snapshot ID: `MTY3MjcwMTM2NiwwMDAwMDAwMDRhMTYxZjM4MzBhMGI4YWU5ZDllMjExOGE1ZDdhMGQ0`

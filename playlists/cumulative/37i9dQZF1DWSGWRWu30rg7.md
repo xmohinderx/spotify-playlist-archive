@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Azzahra Banilia
 
-1,396 songs - 3 day 13 hr 24 min
+1,398 songs - 3 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Be True](https://open.spotify.com/track/3q9NFocXwywAhqCOlPC0lY) | [Neona](https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH) | [Be True](https://open.spotify.com/album/5k24D0QTHhoBasxU0cYRCr) | 2:57 | 2022-03-17 | 2023-01-13 |
 | [Beautiful Goodbye](https://open.spotify.com/track/7jNvy7TO1Dxv9UrfM2pYc7) | [Nikita Becker](https://open.spotify.com/artist/3yEwcJ5cmuQURGSDf94qxG) | [Beautiful Goodbye](https://open.spotify.com/album/6MeMncQeaZcKyBnBjv20Dd) | 4:22 | 2022-07-07 | 2022-08-06 |
 | [Beauty](https://open.spotify.com/track/0zPL9NvkCIIThg7a8Hh5cY) | [BILBOYSAN](https://open.spotify.com/artist/01hmGM01DAPioXw1BF5Tul) | [Beauty](https://open.spotify.com/album/7GK9RtyoJloZ2tUOW4CeTe) | 4:00 | 2023-01-12 |  |
+| [Beauty Fool Mess](https://open.spotify.com/track/2sm6MEbp7QTYzXRJmD9Ojo) | [June Ibrahim](https://open.spotify.com/artist/0dqnZDgGTIRakRjMHWXILw) | [Beauty Fool Mess](https://open.spotify.com/album/0tgv0yqmyUyHjvnm20Tnh7) | 3:37 | 2023-01-20 |  |
 | [Beban Cinta 2](https://open.spotify.com/track/3E62X7LW2wbc678JnGMEYF) | [Ressa](https://open.spotify.com/artist/7kRU7ACDQDRNAyNIQrFZ1U) | [Beban Cinta 2](https://open.spotify.com/album/4TaTqeJ9JfqRZL8geRANGX) | 4:21 | 2022-01-27 | 2023-01-13 |
 | [Bebas](https://open.spotify.com/track/0C5qN24tplFMuFCGXk1JlS) | [Vaniland](https://open.spotify.com/artist/2xtTpEJIZnFwoRbEP5QvBG) | [Be Free, Be You](https://open.spotify.com/album/1SDuPvrIapAt1AO2YI1lDh) | 3:01 | 2022-06-30 | 2022-07-29 |
 | [Before You Go](https://open.spotify.com/track/3HJDxObw6Tgs3SwAhAI57O) | [Manner Code](https://open.spotify.com/artist/56fIZddiY8rh4xMhc0hKgs), [Hano](https://open.spotify.com/artist/3wXy7sV9Mm2w6SauEID6dT) | [Before You Go](https://open.spotify.com/album/3H8B0WcWlggrawpKunhC9g) | 3:51 | 2022-03-24 | 2022-04-08 |
@@ -1404,5 +1405,6 @@
 | [Young Woman's Eyes](https://open.spotify.com/track/37YVVCexVs5bMErtz7Z0AH) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [Young Woman's Eyes](https://open.spotify.com/album/4KMjJp4Y1XLMNonkrctDO0) | 3:51 | 2022-01-13 | 2022-01-28 |
 | [Younger Me](https://open.spotify.com/track/4aVlK5krj60g5n9ENjvXE2) | [Louie Drayden](https://open.spotify.com/artist/0OKwSlbx7jwCjQEcEmgGlT) | [Younger Me](https://open.spotify.com/album/6frjDMMHY4zbDND1Czj8vF) | 3:03 | 2022-05-05 | 2022-05-20 |
 | [Your Heart](https://open.spotify.com/track/6l6XQhM9h8ZIYKHujuMno2) | [teoty](https://open.spotify.com/artist/0al7E03Okp7MnHr3XwXVpT) | [Your Heart](https://open.spotify.com/album/7MSscVONHpGuGeyOI6oBnH) | 3:39 | 2022-04-21 | 2022-05-13 |
+| [Yours](https://open.spotify.com/track/7fP6Xk4Z2XEQChUUNzqnK5) | [Safira](https://open.spotify.com/artist/1TTCdhup2hG2qknM9QkVeG) | [Yours](https://open.spotify.com/album/3QQ5yItihjkz9FPOOLg8te) | 3:10 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

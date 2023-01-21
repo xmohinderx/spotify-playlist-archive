@@ -1,13 +1,129 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
-  "num_followers": 8340,
+  "num_followers": 8341,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTg0NSxlOWQ2NGU4NDZmNTUwM2QyMWM5ZGU2MWU4NDQyMTg5YzZiYWQ0MjJh",
+  "snapshot_id": "NTg1Nyw0MTQwNjdjY2VjNDA4MGUwMTBjMjI4MjAzM2I0YTkwZDdkYzRjZmI0",
   "tracks": [
+    {
+      "added_at": "2023-01-20 12:22:02",
+      "album": {
+        "name": "I Can't Go Back To The Way It Was (Intro)",
+        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 95273,
+      "name": "I Can't Go Back To The Way It Was (Intro)",
+      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
+    },
+    {
+      "added_at": "2023-01-20 12:23:36",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
+      "added_at": "2023-01-20 12:24:05",
+      "album": {
+        "name": "BIZCOCHITO (LEORD Y HARACA KIKO REMIX) (feat. Haraca Kiko)",
+        "url": "https://open.spotify.com/album/492U88qanlQnFgsfvwVHe8"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 129343,
+      "name": "BIZCOCHITO (LEORD Y HARACA KIKO REMIX) (feat. Haraca Kiko)",
+      "url": "https://open.spotify.com/track/378K0CspMQVjZq68UxQCKR"
+    },
+    {
+      "added_at": "2023-01-20 12:25:02",
+      "album": {
+        "name": "Boys In Boots",
+        "url": "https://open.spotify.com/album/0afJB6vLFBo59YpUJpjQ1P"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Boys In Boots",
+      "url": "https://open.spotify.com/track/4RF5esexSW7Pc4qOTlAPLA"
+    },
+    {
+      "added_at": "2023-01-20 12:24:25",
+      "album": {
+        "name": "Ho Tonight",
+        "url": "https://open.spotify.com/album/1O7iHkibZgPWqFIC5dqpL2"
+      },
+      "artists": [
+        {
+          "name": "Viibe Santana",
+          "url": "https://open.spotify.com/artist/4S11G4I8AYOA6qVTM8XlaS"
+        }
+      ],
+      "duration_ms": 225766,
+      "name": "Ho Tonight",
+      "url": "https://open.spotify.com/track/59qWRXQCTM80mjeUqIkmos"
+    },
+    {
+      "added_at": "2023-01-20 12:24:44",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+    },
+    {
+      "added_at": "2023-01-20 12:25:16",
+      "album": {
+        "name": "Each Smack",
+        "url": "https://open.spotify.com/album/5mdGkv5kUD6KWn4XrU2Ai9"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "duration_ms": 115847,
+      "name": "Each Smack",
+      "url": "https://open.spotify.com/track/6vMxByOxh9uSgrs39GL3bG"
+    },
     {
       "added_at": "2023-01-13 00:00:19",
       "album": {
@@ -47,106 +163,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2023-01-13 15:23:42",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 160084,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG"
-    },
-    {
-      "added_at": "2023-01-13 15:22:50",
-      "album": {
-        "name": "you don't deserve a country song",
-        "url": "https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "you don't deserve a country song",
-      "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
-    },
-    {
-      "added_at": "2023-01-13 15:23:27",
-      "album": {
-        "name": "Cowboys Talkin'",
-        "url": "https://open.spotify.com/album/3C4reNN9sXoVmK5CArdmzk"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Cowboys Talkin'",
-      "url": "https://open.spotify.com/track/2jz9PifMeY1ZYmE720XkID"
-    },
-    {
-      "added_at": "2023-01-13 15:24:23",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 174890,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
-    },
-    {
-      "added_at": "2023-01-13 15:25:24",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/2Vnlr8eneohCPtFtWdYxDz"
-      },
-      "artists": [
-        {
-          "name": "Zai1k",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4xdt5NCPEgprn33MOLXhOx"
-    },
-    {
-      "added_at": "2023-01-13 15:23:12",
-      "album": {
-        "name": "Work With My Love",
-        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "Work With My Love",
-      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "added_at": "2023-01-06 15:22:18",

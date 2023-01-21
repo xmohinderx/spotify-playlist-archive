@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 18 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
 | 19 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 20 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
-| 21 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
-| 22 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
+| 21 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
+| 22 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
 | 23 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
 | 24 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 25 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 33 | [Fixin' My Hair](https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7) | [The Sesame Street Follicles](https://open.spotify.com/artist/6fFWIeOC1k2cboPOFDEDaQ), [Sesame Street's Kevin](https://open.spotify.com/artist/2ONAq9vAVfLxNm2HOmA8lv), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:32 |
 | 34 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
 | 35 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
-| 36 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
-| 37 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 36 | [Aguita Y Jabon](https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal) | [Cantando con Adriana](https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk) | [Bailaré junto a ti](https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh) | 1:41 |
+| 37 | [Kids Just Love to Brush](https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9) | [Sesame Street's Bicuspids](https://open.spotify.com/artist/32xzvYpAc8iQSohhQ81QXF), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 2:51 |
 | 38 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
 | 39 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 |
 | 40 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [Nappin' Time](https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Pink!](https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE) | 3:04 |
 | 50 | [Del plato a la boca](https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Musi](https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby) | 1:04 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGE2M2FiYjA1MTI0OGNhZTkxZmVmZDZjYTkyMWUwMTAz`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDFlZmRjNDNmZGRkMTc0NWRiMDIyOGEyNTU1M2UwN2E5`

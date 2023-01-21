@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-140 songs - 7 hr 6 min
+141 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bad in Bumbum](https://open.spotify.com/track/4NIhpYk93J8Xou2vZt3iIe) | [Mighty](https://open.spotify.com/artist/5stVQl2C3bSrgrQqZieo02), [Subance](https://open.spotify.com/artist/5f7VKqtGJPjgKtA5TtWwRv) | [Local Drum Riddim](https://open.spotify.com/album/6nrr7yxkhFC1GDCNeKoAkD) | 2:31 | 2022-02-24 |  |
 | [Bam Bam Season](https://open.spotify.com/track/4S6kzemNEMI7UhgxF6He9e) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Bam Bam Season](https://open.spotify.com/album/4uPcKI9HbmnJzsOR8qCRuM) | 2:57 | 2020-09-25 | 2022-11-13 |
 | [Beat Dem Bad](https://open.spotify.com/track/16zJKw4xLkC6ssjawLYsQj) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Beat Dem Bad](https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1) | 2:24 | 2020-09-25 | 2023-01-20 |
+| [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 | 2022-02-24 |  |
 | [Behave Pun It](https://open.spotify.com/track/24zgCIu6PzdJD3hRl5LQzw) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Various Artists](https://open.spotify.com/album/2FcCwRLv72qMLjNoDzfauM) | 2:53 | 2020-09-25 | 2022-07-22 |
 | [Behave Pun It](https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Rich Again Riddim](https://open.spotify.com/album/1r9y31DgkTYfBh7z7xhJh3) | 2:51 | 2022-02-24 | 2022-11-12 |
 | [Bend Yuh Back](https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P) | 2:34 | 2022-02-24 |  |
@@ -116,7 +117,7 @@
 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 | 2020-09-25 |  |
 | [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 | 2020-09-25 | 2022-12-20 |
 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 | 2022-02-24 |  |
-| [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 | 2022-02-24 |  |
+| [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 | 2022-02-24 | 2023-01-21 |
 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/4s0lXstgGUbGesnLJb02Hy) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1X5vD2UTatpahQUM0mbHSR) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/64b0DuMUUkZcCG74lK0O1k) | 2:15 | 2020-09-25 | 2022-10-05 |
 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 | 2022-02-24 |  |
 | [Tic It & Tac It](https://open.spotify.com/track/5X8aV69F0FrinCD9aiFSDI) | [Bobo](https://open.spotify.com/artist/4rOtaKOGHla5WoXOmfYasI) | [Tic It & Tac It](https://open.spotify.com/album/3lNBIr8Qz94mdNCfUoqGQG) | 2:04 | 2020-09-25 | 2022-07-29 |

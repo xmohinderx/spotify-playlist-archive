@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Che benessere !? (con NASKA)",
+        "url": "https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx"
+      },
+      "artists": [
+        {
+          "name": "Lo Stato Sociale",
+          "url": "https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM"
+        },
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231532,
+      "name": "Che benessere !? (con NASKA)",
+      "url": "https://open.spotify.com/track/29wow7ReefY8giiopcBNGc"
+    },
+    {
+      "album": {
         "name": "Chi lo decide chi siamo?",
         "url": "https://open.spotify.com/album/7ueBkug7HODYaBbQE7GqND"
       },

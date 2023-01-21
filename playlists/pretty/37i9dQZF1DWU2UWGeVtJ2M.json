@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 141083,
+  "num_followers": 141128,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0MjIzMCwwMDAwMDAwMGU4MTQ3Y2Y2OWE1MzBmMjBhNGQ1ZTBlZTgzN2NjOWM4",
+  "snapshot_id": "MTY3MzI0MjIzMCwwMDAwMDAwMGI3ZDFmYWY2NWY5N2U3MDI1MDQ3YzRhNWQ3MGJiMDQ1",
   "tracks": [
     {
       "added_at": "2023-01-09 05:30:30",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 162794,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 162794,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 174683,
       "name": "Autumn breeze (Feat. Milky Day)",
       "url": "https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "Want U Bad",
-        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Want U Bad",
-      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "Better Version",
+        "url": "https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "Eight",
         "url": "https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4"
       },
@@ -1371,38 +1387,6 @@
       "duration_ms": 169733,
       "name": "Eight",
       "url": "https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "Better Version",
-        "url": "https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1435,6 +1419,22 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1479,46 +1479,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/1ei9Kv8hCrpTcnz3JscN4l"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Sleepdealer",
-          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
-        },
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
       },
@@ -1547,6 +1507,46 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1ei9Kv8hCrpTcnz3JscN4l"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Sleepdealer",
+          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
+        },
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 238215,
+      "name": "Dearest Alfred",
+      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
+    },
+    {
+      "added_at": "2023-01-09 05:30:30",
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 238215,
-      "name": "Dearest Alfred",
-      "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
     },
     {
       "added_at": "2023-01-09 05:30:30",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214885,
-      "name": "Some Place Else",
-      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
-    },
-    {
-      "added_at": "2023-01-09 05:30:30",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-01-09 05:30:30",
       "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+        "name": "Island of the Sun",
+        "url": "https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 188478,
-      "name": "Holding the Gun",
-      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
+      "duration_ms": 210906,
+      "name": "He Don't Love Me",
+      "url": "https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Great Wind",
+        "url": "https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/6tOFUhOqXYlArJjrSJ6c42"
+    },
+    {
+      "album": {
         "name": "\uc794\ubb3c\uacb0 (janmulgyeol)",
         "url": "https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i"
       },
@@ -528,6 +546,24 @@
       "duration_ms": 211812,
       "name": "Cassiopeia, 6 July 1982",
       "url": "https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu"
+    },
+    {
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
+      },
+      "artists": [
+        {
+          "name": "Shuta Yasukochi",
+          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284775,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
     },
     {
       "album": {
@@ -1832,6 +1868,24 @@
       "duration_ms": 240000,
       "name": "memories of younger days (that never existed)",
       "url": "https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN"
+    },
+    {
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG"
     },
     {
       "album": {
@@ -3311,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Great Wind",
+        "url": "https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx"
+    },
+    {
+      "album": {
         "name": "YACHIMATA",
         "url": "https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl"
       },
@@ -3394,7 +3466,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 169000,
       "name": "\u3055\u3066\u3068",
       "url": "https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX"

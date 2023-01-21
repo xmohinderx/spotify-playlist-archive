@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-22",
   "description": "pov: you're crying and dancing at the same time. ",
-  "name": "llorando en el club\ud83e\udd72",
+  "name": "llorando en el club \ud83e\udd72",
   "tracks": [
     {
       "album": {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 138680,
       "name": "ATEO",
       "url": "https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 255712,
       "name": "Cosa Guapa",
       "url": "https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 182815,
       "name": "No Te Deb\u00ed Besar",
       "url": "https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf"
@@ -3404,6 +3422,28 @@
       "duration_ms": 165894,
       "name": "Vale Na",
       "url": "https://open.spotify.com/track/1OgIsaa9XL29hQy7YqR0v1"
+    },
+    {
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
       "album": {

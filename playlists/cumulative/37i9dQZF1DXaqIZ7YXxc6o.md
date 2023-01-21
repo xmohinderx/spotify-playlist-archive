@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Skrillex
 
-211 songs - 11 hr 40 min
+213 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-29 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-08 |  |
 | [Best Me](https://open.spotify.com/track/0xpAZCIAeV8wE69jo1W1e1) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Best Me](https://open.spotify.com/album/3C3pKFE601IDJ1PpHTDQDG) | 3:06 | 2023-01-19 |  |
+| [Better](https://open.spotify.com/track/2uSdWYvIyqKqV8PfSYluBP) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Joe Mann](https://open.spotify.com/artist/0dTHP0Q3bnRc6Lip9ttSbS) | [Better](https://open.spotify.com/album/1RlJ2oO3ezBozsOK1ONynz) | 2:38 | 2023-01-20 |  |
 | [Blinding Me](https://open.spotify.com/track/6V9qqUOyk3czAHwT9aGhRS) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [Blinding Me](https://open.spotify.com/album/05YpcC2jPBp7RVG4wsnPrj) | 1:52 | 2022-12-08 | 2022-12-24 |
 | [BLUDLUST](https://open.spotify.com/track/6axf2WERHn79EpcSEb0jku) | [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [NGXT](https://open.spotify.com/artist/6UyLAGcCJ6gdpbw2i9lcsa) | [BLUDLUST](https://open.spotify.com/album/2dGoT7WDRE88lnMGVRsybR) | 3:14 | 2023-01-12 |  |
 | [Body Breathe](https://open.spotify.com/track/7fYrNMgODWzlFAa18kYWtY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Body Breathe](https://open.spotify.com/album/4GIEyRGFd3rDKRc696fsbA) | 4:20 | 2022-12-08 | 2023-01-20 |
@@ -86,6 +87,7 @@
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2022-12-22 |  |
 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-01-12 |  |
 | [Haunted Room](https://open.spotify.com/track/0POKwNaIcJSAcRRlaRCMaW) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Yarpo](https://open.spotify.com/artist/6AcXFmh4HYJ1sjjMiAVc2I) | [Haunted Room](https://open.spotify.com/album/0eb96GoEFwC7S8eyhDMjxZ) | 3:18 | 2022-12-08 | 2022-12-16 |
+| [Heaven](https://open.spotify.com/track/1NZKXJskXhXJivaH6JcwWa) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Heaven](https://open.spotify.com/album/3y3EguDNJa6e7V9SedQGQz) | 3:54 | 2023-01-20 |  |
 | [Her Way](https://open.spotify.com/track/4fBzfDgAfmM0Y4m3fVkQvp) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Her Way](https://open.spotify.com/album/0IOjKjzEsOkHvmjcOGTPaM) | 3:07 | 2022-12-08 | 2023-01-13 |
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-08 | 2023-01-20 |
 | [Higher Than You](https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Higher Than You](https://open.spotify.com/album/4Ftk1EfLXFqL5aWGfCO3Jz) | 3:12 | 2022-12-08 | 2023-01-13 |

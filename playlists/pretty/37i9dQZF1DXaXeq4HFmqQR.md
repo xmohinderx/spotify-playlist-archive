@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Nicole y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,879 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,882 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 18 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
 | 19 | [Romper Platos](https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal](https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1) | 3:13 |
 | 20 | [Yo quiero bailar](https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Yo quiero bailar](https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi) | 3:15 |
-| 21 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
-| 22 | [No Se Quemará](https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [No Se Quemará](https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO) | 2:55 |
-| 23 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 |
+| 21 | [No Se Quemará](https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [No Se Quemará](https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO) | 2:55 |
+| 22 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 |
+| 23 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 | 24 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
 | 25 | [Una explicación ♡](https://open.spotify.com/track/39EG6Am3ngPyFR6D0RvlPv) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Una explicación ♡](https://open.spotify.com/album/6ojhXYnBSJikw6ad2RECVR) | 3:03 |
 | 26 | [Flor de Loto](https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh) | [Gigi Caro](https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8) | [Flor de Loto](https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH) | 3:14 |
 | 27 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
-| 28 | [Castillo de Cristal](https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:47 |
-| 29 | [Luz Verde](https://open.spotify.com/track/1rWh6ao1TlG3LG1t7mqXBw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Luz Verde](https://open.spotify.com/album/4koqdy7p1kCvA5WgYeRTow) | 2:41 |
+| 28 | [Luz Verde](https://open.spotify.com/track/1rWh6ao1TlG3LG1t7mqXBw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Luz Verde](https://open.spotify.com/album/4koqdy7p1kCvA5WgYeRTow) | 2:41 |
+| 29 | [Castillo de Cristal](https://open.spotify.com/track/6EKbtOGBq4tSpn8CkoDUoq) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 2:47 |
 | 30 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 |
 | 31 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 |
 | 32 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 41 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 |
 | 42 | [N.D.N](https://open.spotify.com/track/1QA7twQReH7kc3rusYjeWx) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 2:39 |
 | 43 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
-| 44 | [Talón de Aquiles](https://open.spotify.com/track/5V9UH7jxcwo6oeDzGI9ZIg) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Talón de Aquiles](https://open.spotify.com/album/7nNSwP5Vo6EtdZc0nLP24x) | 2:46 |
+| 44 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
 | 45 | [entre las sombras,](https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [entre las sombras,](https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p) | 4:30 |
-| 46 | [Lección](https://open.spotify.com/track/5W6iowe0gGIm4irPUYMWQq) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayo Polo](https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2) | 3:37 |
-| 47 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
+| 46 | [Talón de Aquiles](https://open.spotify.com/track/5V9UH7jxcwo6oeDzGI9ZIg) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Talón de Aquiles](https://open.spotify.com/album/7nNSwP5Vo6EtdZc0nLP24x) | 2:46 |
+| 47 | [Lección](https://open.spotify.com/track/5W6iowe0gGIm4irPUYMWQq) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayo Polo](https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2) | 3:37 |
 | 48 | [Real <3](https://open.spotify.com/track/1jpQZMsrBm5vlVgU6R3ESq) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF), [Goldyne](https://open.spotify.com/artist/6ZRH8GMlxhpZidSYj52Nwy) | [Real <3](https://open.spotify.com/album/7gGdtXOiY9goMEsWXXsk9Y) | 2:49 |
 | 49 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 |
 | 50 | [Si No Vas a Venir](https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Si No Vas a Venir](https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly) | 3:11 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDM1MzIzZTVmOTU4ODY2MDI3NTM1Y2E1MmRhZmI0NGQ4`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDYwN2E4MTdiMTc0ZWU2MDg2NGQzOWJmNzZlNTc4OTQ0`

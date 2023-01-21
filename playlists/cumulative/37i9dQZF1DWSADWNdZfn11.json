@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/1zUjgWMkENrRyGBFLA7NFh"
+      },
+      "artists": [
+        {
+          "name": "Pia Nouvelle",
+          "url": "https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/7j3vIGFSLzfmZhrF0xYyyz"
+    },
+    {
+      "album": {
         "name": "Apologize (Piano Instrumental)",
         "url": "https://open.spotify.com/album/0NYxi20vRQO8iXdcwjI8uS"
       },
@@ -510,6 +528,24 @@
       "duration_ms": 188500,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w"
+      },
+      "artists": [
+        {
+          "name": "Love Falk",
+          "url": "https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203614,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ"
     },
     {
       "album": {
@@ -694,6 +730,24 @@
       "duration_ms": 186842,
       "name": "Children",
       "url": "https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB"
+    },
+    {
+      "album": {
+        "name": "Clown",
+        "url": "https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo"
+      },
+      "artists": [
+        {
+          "name": "Ron Marks",
+          "url": "https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA"
     },
     {
       "album": {
@@ -1076,6 +1130,24 @@
       "duration_ms": 158000,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5rMhBhSAFfGcfwkEHHejRK"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r K\u00e4rlekens Skull",
+        "url": "https://open.spotify.com/album/5SjcOhVGjH8apOCeajW8Yf"
+      },
+      "artists": [
+        {
+          "name": "Douglas Simmons",
+          "url": "https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254953,
+      "name": "F\u00f6r K\u00e4rlekens Skull",
+      "url": "https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO"
     },
     {
       "album": {
@@ -2051,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Let somebody go",
+        "url": "https://open.spotify.com/album/1c31HkBc3ogWX2yBcuoT11"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161848,
+      "name": "Let somebody go",
+      "url": "https://open.spotify.com/track/2qDVma0LKZAQTf2JQA58UK"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (Piano Version)",
         "url": "https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC"
       },
@@ -2084,6 +2174,24 @@
       "duration_ms": 128128,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c"
+    },
+    {
+      "album": {
+        "name": "Love Me Like You Do",
+        "url": "https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193624,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K"
     },
     {
       "album": {
@@ -3038,7 +3146,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 171279,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv"
@@ -3366,7 +3474,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 177000,
       "name": "The Sound Of Silence",
       "url": "https://open.spotify.com/track/661cehcbDB8Ye74RBORdQa"
@@ -3384,7 +3492,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/63FbZYajzXwQd4blIyAA0H"
@@ -3478,6 +3586,24 @@
       "duration_ms": 192820,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD"
+    },
+    {
+      "album": {
+        "name": "Titanium",
+        "url": "https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk"
+      },
+      "artists": [
+        {
+          "name": "Chloe Welch",
+          "url": "https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154857,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv"
     },
     {
       "album": {
@@ -4040,6 +4166,24 @@
       "duration_ms": 239026,
       "name": "You Are The Reason - Piano Version",
       "url": "https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Live Forever In Me",
+        "url": "https://open.spotify.com/album/2o7o94d9DTw7e9ZdQeK4Pu"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "You're Gonna Live Forever In Me",
+      "url": "https://open.spotify.com/track/6dNzoKTuLLYJ6rrE3gAEam"
     },
     {
       "album": {

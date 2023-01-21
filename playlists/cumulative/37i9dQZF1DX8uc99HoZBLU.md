@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-290 songs - 14 hr 42 min
+292 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-01-27 | 2022-07-25 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2021-06-08 |  |
 | [i will wait](https://open.spotify.com/track/1YXVMeN337f44L0fQIAqpL) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [i will wait](https://open.spotify.com/album/5DTaoaiBbc6L1OPyA5aSiA) | 2:07 | 2021-10-29 | 2022-07-29 |
+| [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 |  |
 | [I'll Keep You Safe](https://open.spotify.com/track/506O2O13slCAUEo6w8aqr8) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [I'll Keep You Safe](https://open.spotify.com/album/3A2aQi1ZjOG67mnNgpVaF2) | 3:05 | 2021-06-08 | 2022-04-19 |
 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 | 2022-07-19 | 2023-01-15 |
 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2021-06-08 | 2022-04-12 |
@@ -194,7 +195,7 @@
 | [One More Day](https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [One More Day](https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi) | 4:29 | 2021-06-25 | 2022-06-22 |
 | [outside the party, inside the dream \- a maddie jay remix](https://open.spotify.com/track/5puv5e1tzEmOyiRnDyigEb) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [outside the party, inside the dream \(a maddie jay remix\)](https://open.spotify.com/album/2YzQmGhD0VNmFXds1QcHBI) | 3:14 | 2021-07-19 | 2022-07-14 |
 | [Pop Star](https://open.spotify.com/track/6szae8TGTs5QgPqdDFblg1) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pop Star](https://open.spotify.com/album/3VLoVIwrTtErutN0ec3uJU) | 3:04 | 2022-04-01 | 2022-07-15 |
-| [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-13 |  |
+| [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-13 | 2023-01-21 |
 | [pouring outside](https://open.spotify.com/track/6IW56BQYrmMniYZBwGCNeL) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/3tD59sMsBsem82vGGVRRim) | 2:36 | 2022-02-03 | 2022-07-29 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2022-04-01 | 2022-07-28 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2022-09-09 | 2022-10-22 |
@@ -247,6 +248,7 @@
 | [Sunny Day](https://open.spotify.com/track/26566DizCMEaVKT1CQEoAY) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Sunny Day](https://open.spotify.com/album/1iFaOyTS2mM7vQxxBX4db7) | 1:48 | 2021-09-03 | 2022-04-13 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-06-08 | 2022-07-29 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-13 | 2022-07-29 |
+| [SWEET N SOUR](https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [SWEET N SOUR](https://open.spotify.com/album/6DaE9DH0JnFWPcf1YRVcjS) | 2:17 | 2023-01-20 |  |
 | [Sweet Tooth](https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Sweet Tooth](https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo) | 2:13 | 2021-06-08 | 2022-07-29 |
 | [Sweetly](https://open.spotify.com/track/32TW5KGM1UqTzkTOkcNITt) | [Lord Kael](https://open.spotify.com/artist/0RLNRNxmEHZN7EStjBf0O4) | [Sweetly](https://open.spotify.com/album/103uB4hb8Yc0bEdl35lUDa) | 2:15 | 2021-08-03 | 2022-04-15 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-06-08 |  |
@@ -268,7 +270,7 @@
 | [Ultimately](https://open.spotify.com/track/0I0ZackSSk90oGUJtfKnJd) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Autumn's End](https://open.spotify.com/album/2tGYgOBYVwd8N1e5jBmJqY) | 2:22 | 2021-06-08 | 2022-04-21 |
 | [unless you leave](https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [unless you leave](https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe) | 3:24 | 2022-12-09 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-09-09 |
-| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-09-09 |  |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-09-09 | 2023-01-21 |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-11-11 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2022-08-19 |  |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-07-22 |

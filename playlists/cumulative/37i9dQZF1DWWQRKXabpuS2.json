@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Alammeh Lah",
+        "url": "https://open.spotify.com/album/592nTrO8zRJQpzRVhHG3dY"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250516,
+      "name": "Alammeh Lah",
+      "url": "https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE"
+    },
+    {
+      "album": {
         "name": "Albadr Aldhahook",
         "url": "https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45"
       },
@@ -886,10 +904,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 253669,
       "name": "El Hob Modha",
       "url": "https://open.spotify.com/track/6onG89rY6ZqA66oDyx7K3X"
+    },
+    {
+      "album": {
+        "name": "Ela Allah",
+        "url": "https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244865,
+      "name": "Ela Allah",
+      "url": "https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ"
     },
     {
       "album": {
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 207966,
       "name": "Qatlni Hobak",
       "url": "https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS"
@@ -2397,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Taraf Thaleth",
+        "url": "https://open.spotify.com/album/10nwn4BzwNQAnePtj07bwo"
+      },
+      "artists": [
+        {
+          "name": "Meteb Alshalan",
+          "url": "https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234319,
+      "name": "Taraf Thaleth",
+      "url": "https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb"
+    },
+    {
+      "album": {
         "name": "Tbarak Galbe",
         "url": "https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT"
       },
@@ -2480,7 +2534,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 279477,
       "name": "Thekrak (16)",
       "url": "https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st"

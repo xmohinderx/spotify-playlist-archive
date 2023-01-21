@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-69 songs - 17 hr 7 min
+70 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Kaliyugavaradana](https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/3l9Iy9Fae5OinuELBH1gCq) | 4:44 | 2022-07-26 | 2023-01-16 |
 | [Mangal Bhairav\-Jod](https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx) | [Prabhat Sagar](https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy) | 9:52 | 2022-12-09 |  |
 | [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 | 2021-12-07 |  |
+| [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-07 |  |
 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 | 2021-12-07 |  |
 | [Palna Jhule Nandlal](https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Palna Jhule Nandlal](https://open.spotify.com/album/6a29FaR1tsnkxOqEMFWg97) | 7:14 | 2021-12-07 |  |

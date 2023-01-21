@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, zeta\)
 
-174 songs - 7 hr 48 min
+176 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 |  |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 |  |
 | [Bonsai](https://open.spotify.com/track/2uALGYtjQPsTP78Fahhd7E) | [Lasio](https://open.spotify.com/artist/5uBGLejbb9miU8Wj0OswKd), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [Bonsai](https://open.spotify.com/album/17MAMB9DcY5Gl40pFRy5iY) | 2:53 | 2022-12-05 | 2023-01-13 |
+| [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 | 2023-01-20 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 | 2022-12-09 |
 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 | 2022-12-08 |  |
 | [Cerimonia](https://open.spotify.com/track/4q2F8Q94gIY3yFwIliTnRZ) | [GARA2](https://open.spotify.com/artist/7LJbgyipJ45jT8NwUWq8sc) | [Cerimonia](https://open.spotify.com/album/36L6taiEL3lwHnYyEnjABL) | 3:15 | 2022-12-15 | 2023-01-13 |
@@ -146,6 +147,7 @@
 | [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 |  |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 |  |
 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 |  |
+| [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 | 2023-01-20 |  |
 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 |  |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 | 2023-01-13 |
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 31255,
+  "num_followers": 31375,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGYyMzZmOGJjZjIxNzM4YmIyMzRiNDRkZDg4NGViZGVm",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDc4YmNiNGYwZWE4NWM3ZGYxZDk2MWZjNmFmZDNlMWE2",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Generavers",
-        "url": "https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 169350,
-      "name": "Generavers",
-      "url": "https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Game Breaker",
         "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 183000,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Generavers",
+        "url": "https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 169350,
+      "name": "Generavers",
+      "url": "https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
-        }
-      ],
-      "duration_ms": 194117,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 200400,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+        }
+      ],
+      "duration_ms": 194117,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "NARKOS",
         "url": "https://open.spotify.com/album/77Nlgy3Pbxf3CdSlcwyOas"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 211727,
       "name": "NARKOS",
       "url": "https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
       },
       "artists": [
         {
           "name": "Remzcore",
           "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        },
+        {
+          "name": "Keat",
+          "url": "https://open.spotify.com/artist/74CWae8PWHg7hHgt8mAkzF"
         }
       ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+      "duration_ms": 191428,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
       "artists": [
         {
           "name": "Remzcore",
           "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        },
-        {
-          "name": "Keat",
-          "url": "https://open.spotify.com/artist/74CWae8PWHg7hHgt8mAkzF"
         }
       ],
-      "duration_ms": 191428,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Kingdom (Sefa Remix)",
+        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 302739,
+      "name": "Kingdom - Sefa Remix",
+      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Kingdom (Sefa Remix)",
-        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        }
-      ],
-      "duration_ms": 302739,
-      "name": "Kingdom - Sefa Remix",
-      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Rave Machine",
+        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Rave Machine",
+      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Forged In Fury",
         "url": "https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 238421,
       "name": "Forged In Fury",
       "url": "https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Rave Machine",
-        "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Rave Machine",
-      "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2023-01-19 23:01:00",

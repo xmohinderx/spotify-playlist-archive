@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 24572,
+  "num_followers": 24619,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDdkNWM3NjAxZDNjYzRiZDgxODc0NGY2ZWU1MTIyNTZj",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGQ1MmE0ZGI1NDYxMzA4MTEyM2VkNTA5MmExYzBlNWZi",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/0KA7zuPdvHyYxfHPS4tvLe"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 232466,
       "name": "Grande",
       "url": "https://open.spotify.com/track/0DhGX4TE274nIY837mnMoX"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Balada Para Perrear",
+        "url": "https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Balada Para Perrear",
+      "url": "https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Balada Para Perrear",
-        "url": "https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Balada Para Perrear",
-      "url": "https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Flow Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 175610,
       "name": "Flow Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Enga\u00f1\u00e9moslo",
-        "url": "https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Enga\u00f1\u00e9moslo - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/61JVUiCjANQnXHE9eY3aaT"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Extranjera",
         "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
       },
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Enga\u00f1\u00e9moslo",
+        "url": "https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Enga\u00f1\u00e9moslo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/61JVUiCjANQnXHE9eY3aaT"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
       },
@@ -1975,22 +1975,6 @@
       "duration_ms": 224000,
       "name": "Eva",
       "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "LA NI\u00d1A DE FUEGO",
-        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "LNDF",
-      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2023,6 +2007,22 @@
       "duration_ms": 166666,
       "name": "Aguardiente - Remix",
       "url": "https://open.spotify.com/track/6pCUhBhx6VE8L15A6usvi2"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "LNDF",
+      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
     },
     {
       "added_at": "2022-03-28 14:23:43",

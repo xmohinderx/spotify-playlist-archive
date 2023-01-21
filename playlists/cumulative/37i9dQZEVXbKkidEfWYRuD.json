@@ -1817,6 +1817,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
         "name": "Cristal & \u041c\u041e\u0401\u0422",
         "url": "https://open.spotify.com/album/6PP0Ir5XTp5gksiloHJP6P"
       },
@@ -2853,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/0UlezwwW4xMVnoRycJUWCu"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151971,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"
+    },
+    {
+      "album": {
         "name": "FLEXING FINESSING",
         "url": "https://open.spotify.com/album/3ABPDWAbjDgmsFWZoH91n7"
       },
@@ -3780,7 +3824,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -10228,7 +10272,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 79354,
       "name": "\u0431\u043e\u0456 \u0441\u0442\u0443\u043b\u0438 \u043f\u0435\u043b\u044c\u043a\u0443",
       "url": "https://open.spotify.com/track/5ZNmRNEc0i3o8sP9NKqsvQ"
@@ -11130,7 +11174,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 201038,
       "name": "\u0412\u0456\u0434\u044c\u043c\u0438",
       "url": "https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG"
@@ -17082,7 +17126,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
@@ -17100,7 +17144,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 168535,
       "name": "\u0422\u0438 \u043d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u0430",
       "url": "https://open.spotify.com/track/7dpget8s2QN51jYbNqVYtG"
@@ -18052,7 +18096,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 158170,
       "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c",
       "url": "https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg"

@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 243428,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 250285,
       "name": "LSD",
       "url": "https://open.spotify.com/track/0o3w18l2cLJNZNJHwQySjO"
@@ -3765,6 +3765,32 @@
     },
     {
       "album": {
+        "name": "Shiva Style, Pt. 2",
+        "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "Dudiish",
+          "url": "https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349764,
+      "name": "Shiva Style, Pt. 2",
+      "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
+    },
+    {
+      "album": {
         "name": "Shores of The Subconscious",
         "url": "https://open.spotify.com/album/5zR9HjvUxWRcK6HinyWGxW"
       },
@@ -4604,7 +4630,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 418758,
       "name": "Universal",
       "url": "https://open.spotify.com/track/3AgePv10fSMW0cgoTripMi"

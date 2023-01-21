@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,652 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,250 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 19 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 |
 | 20 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 |
 | 21 | [Redescends](https://open.spotify.com/track/17iXucMQMB1Ph3sXU3ZOMi) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:41 |
-| 22 | [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 |
+| 22 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 |
 | 23 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 |
 | 24 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 |
 | 25 | [Mode AV \(feat\. Niska & Gazo\)](https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Branché](https://open.spotify.com/track/0aG6nPOgAKnbWOWrAlFLjO) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Momsii](https://open.spotify.com/artist/4mPGN3f7bykivnQM0FBVbF) | [Branché](https://open.spotify.com/album/6TV5K3x5cYFMBdowpZYkZ1) | 4:58 |
 | 40 | [Milli](https://open.spotify.com/track/21or6VWTcaOPwwVxPioLmJ) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Milli](https://open.spotify.com/album/3DBJvuMkP4hPw3H0dWy9M3) | 3:29 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGM3OWM1MDhiNTkyYjYwZTVjZjVjMTQwZTgwY2RkYjVl`
+Snapshot ID: `MTY3NDIzNzExNywwMDAwMDAwMDNhNzlkNzdiZDkxYzVhOTNhODkzM2RmMzJhMGVhZWNm`

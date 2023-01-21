@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise 2023](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> "RADAR:Early Noise 2023"今年の10組発表！。Cover: Tele / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>/3/17 開催 Early Noise Night\#15プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
+> "RADAR:Early Noise 2023"今年の10組発表！。Cover: ヤングスキニー / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>/3/17 開催 Early Noise Night\#15プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
 619 songs - 1 day 14 hr 37 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 112357,
+  "num_followers": 112566,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMGIyMDFkOTRjZWY2NmVkNGI1MDYzYWY0YzUzOTc1ZTUz",
+  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMDkwMjc3YmJlOTY5N2I4YTZjNmViMTBmODlmMWExMzQy",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "The Green Light (The Great Gatsby) [Piano Version]",
         "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 137560,
       "name": "The Green Light (The Great Gatsby) - Piano Version",
       "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
       },
       "artists": [
         {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+          "name": "Vincent Isler",
+          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
         }
       ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
+      "duration_ms": 191482,
+      "name": "Ad Infinitum",
+      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -279,34 +279,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Ad Infinitum",
-        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
       },
       "artists": [
         {
-          "name": "Vincent Isler",
-          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
         }
       ],
-      "duration_ms": 191482,
-      "name": "Ad Infinitum",
-      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
-      },
-      "artists": [
-        {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -323,6 +307,22 @@
       "duration_ms": 317682,
       "name": "The Innkeeper and the Moon",
       "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "To the Moon and Back",
         "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 270003,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
-      },
-      "artists": [
-        {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
-        }
-      ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Zerachiel",
         "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+      },
+      "artists": [
+        {
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Melody of Hope (2021 Version)",
         "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
       },
@@ -739,6 +739,38 @@
       "duration_ms": 111687,
       "name": "Melody of Hope - 2021 Version",
       "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+        }
+      ],
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -775,22 +807,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 211999,
       "name": "Fade Far Away",
       "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
-        }
-      ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Orpheus. Hommage \u00e0 Saint-Sa\u00ebns",
         "url": "https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "The Sky Cracked",
         "url": "https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 112625,
       "name": "The Sky Cracked",
       "url": "https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",

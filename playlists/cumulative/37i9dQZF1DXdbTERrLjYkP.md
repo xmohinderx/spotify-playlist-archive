@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: BLÜ EYES
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Meg Smith
 
-369 songs - 19 hr 49 min
+373 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,11 +65,12 @@
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2022-12-24 |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2022-12-30 |  |
 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 | 2022-10-14 | 2022-11-12 |
+| [Clean Cut](https://open.spotify.com/track/2M6MKfoKhOgIvkrg9NLbNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Clean Cut](https://open.spotify.com/album/0M2aQZBpqbnfi2M48AJpq1) | 3:11 | 2023-01-20 |  |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-04-29 |
 | [Come On Over](https://open.spotify.com/track/5nIdoIyDQQOfT39DH0c5vc) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Come On Over](https://open.spotify.com/album/2mEhOdeOpA8kaUjjUTtv5l) | 2:41 | 2022-01-14 | 2022-02-12 |
 | [Coming Of Age](https://open.spotify.com/track/2pO0ctmVG6RYfmLbs7CakL) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [Coming Of Age](https://open.spotify.com/album/0xzKZMdMinGDJ9m2riIuyG) | 3:34 | 2022-01-14 | 2022-03-12 |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 |  |
-| [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2022-10-07 |  |
+| [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2022-10-07 | 2023-01-21 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-10-08 |
 | [Convertible in the Rain](https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Convertible in the Rain](https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp) | 3:52 | 2022-11-04 | 2022-12-31 |
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2022-01-14 | 2022-02-26 |
@@ -137,12 +138,13 @@
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-11 | 2022-07-09 |
 | [HAUNTED](https://open.spotify.com/track/66mdyICh5dlCRwji650pcp) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [HAUNTED](https://open.spotify.com/album/7LIhIdxDpoVeEgFvYWhC0G) | 3:38 | 2022-10-28 |  |
 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 | 2022-09-23 |  |
-| [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 |  |
+| [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 | 2023-01-21 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
+| [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 |  |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
-| [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 |  |
+| [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 |  |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 | 2022-04-11 | 2022-08-13 |
@@ -200,7 +202,8 @@
 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 | 2022-09-30 |  |
 | [Lost](https://open.spotify.com/track/5uBxWyHmRbUCzJ87E34MP8) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Lost](https://open.spotify.com/album/53iFxvl6PuMcgxh2MJz4B5) | 3:01 | 2022-09-09 | 2022-12-24 |
 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 | 2022-09-16 | 2022-12-24 |
-| [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-04 |  |
+| [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-04 | 2023-01-21 |
+| [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-25 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2022-12-24 |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2022-04-22 | 2022-10-29 |
 | [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 | 2022-08-12 | 2022-10-14 |
@@ -350,6 +353,7 @@
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-04-15 | 2022-09-17 |
 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 | 2022-08-26 | 2022-11-12 |
 | [volkswagens](https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK) | [dora.](https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB) | [volkswagens](https://open.spotify.com/album/5lleMb5RdpoSGN8uGaOzYq) | 2:40 | 2022-03-18 | 2022-05-07 |
+| [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-20 |  |
 | [Watching the Moon](https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Watching the Moon](https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI) | 3:53 | 2022-11-04 | 2022-12-24 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-12-24 |
 | [Way Up](https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Way Up](https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX) | 2:30 | 2022-02-11 | 2022-02-26 |

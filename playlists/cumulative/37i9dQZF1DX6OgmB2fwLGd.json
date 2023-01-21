@@ -7141,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "Party Girlz",
+        "url": "https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133002,
+      "name": "Party Girlz",
+      "url": "https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR"
+    },
+    {
+      "album": {
         "name": "PASTA",
         "url": "https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo"
       },

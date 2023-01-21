@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Cherry Bombshell
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Cause
 
-108 songs - 7 hr 22 min
+109 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Merah](https://open.spotify.com/track/3lJJDeALwWMVn5KzOBuFue) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 3:52 | 2022-05-12 |  |
 | [Mesin Penenun Hujan](https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 3:26 | 2021-11-25 |  |
 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 | 2021-11-25 |  |
+| [Natania](https://open.spotify.com/track/7huIp9J7SEdzxJhKAjAOKz) | [Cause](https://open.spotify.com/artist/2dQUybfOJd6mplpxC4JPnZ) | [Dialog](https://open.spotify.com/album/2Vd9PhupxyXLlVJGiFCoHr) | 3:42 | 2023-01-20 |  |
 | [Nonton Srimulat](https://open.spotify.com/track/43YNype2Bng8TrSkWD3htz) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:20 | 2021-11-25 |  |
 | [Obsesi Mesin Kota](https://open.spotify.com/track/4dNFFPsWiC8RuRjGThmegd) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:05 | 2022-12-16 | 2023-01-14 |
 | [Ode Buat Kota](https://open.spotify.com/track/2jkubtUODXk1fbYFx4z9US) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Ode Buat Kota](https://open.spotify.com/album/00c4Anc1uWsQCVijdCTJwB) | 4:01 | 2021-11-25 |  |

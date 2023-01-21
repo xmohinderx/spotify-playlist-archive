@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Bella White
 
-131 songs - 8 hr 0 min
+134 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |
 | [Astronaut](https://open.spotify.com/track/6TScLvRqvsdRx2pTL9e5Xm) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/03IH4nkQznlX4NU1j8OiC5) | 3:22 | 2022-01-28 | 2022-07-29 |
 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 | 2022-01-28 |  |
+| [Bad Luck Baby](https://open.spotify.com/track/7yUYp0DzDeH2Glemh1iMX5) | [Boys Club For Girls](https://open.spotify.com/artist/2kj3opKVY5zkZwEu4u7CXe) | [Bad Luck Baby](https://open.spotify.com/album/07STKss2pug4h3bHaBAESp) | 3:23 | 2023-01-20 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2022-01-28 | 2023-01-14 |
 | [Big Time](https://open.spotify.com/track/5ibzXO4BdeWbbXBz71YNbl) | [Abby Hamilton](https://open.spotify.com/artist/4tw4XGFI9wF5zn4zs6WPv2) | [Big Time](https://open.spotify.com/album/7fiiv8ckvymj3wBDCuFwUf) | 2:39 | 2023-01-13 |  |
-| [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2022-01-28 |  |
+| [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2022-01-28 | 2023-01-21 |
 | [Black Obsidian](https://open.spotify.com/track/2JilhorMUGw4jgivLFcVHU) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 3:05 | 2023-01-13 |  |
 | [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 |  |
 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 | 2022-01-28 |  |
@@ -100,7 +101,7 @@
 | [Outsider](https://open.spotify.com/track/6l2D53BrdLxN6ZrSJrqMiN) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Marsden & Richardson](https://open.spotify.com/album/0fPFXeKGFG1SKId5KeuTFp) | 2:58 | 2022-10-14 |  |
 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2022-01-28 | 2023-01-16 |
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2022-01-28 | 2022-07-29 |
-| [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2023-01-13 |  |
+| [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2023-01-13 | 2023-01-21 |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
@@ -110,6 +111,7 @@
 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 | 2022-01-28 |  |
 | [Sexy After Dark](https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Sexy After Dark](https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO) | 3:50 | 2022-01-28 |  |
 | [Shenandoah Shakedown](https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Shenandoah Shakedown](https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79) | 4:09 | 2022-01-28 |  |
+| [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 | 2023-01-20 |  |
 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 | 2022-01-28 |  |
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2022-01-28 |  |
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2022-01-28 |  |
@@ -121,7 +123,7 @@
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2022-01-28 |  |
 | [Surfboard](https://open.spotify.com/track/6vOCld6YP52WjVal0LoVii) | [Dave Hause](https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx) | [Surfboard](https://open.spotify.com/album/77NueVTYdHXbx8bmZ5EoIf) | 3:14 | 2022-01-28 |  |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2022-01-28 |  |
-| [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 | 2022-01-28 |  |
+| [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 | 2022-01-28 | 2023-01-21 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2022-01-28 |  |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2022-01-28 | 2023-01-14 |
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 |  |
@@ -135,6 +137,7 @@
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |
 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 |  |
+| [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 |  |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 |  |
 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 | 2022-02-25 |  |

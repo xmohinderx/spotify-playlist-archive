@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-84 songs - 8 hr 1 min
+85 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2022-12-20 |  |
 | [Fool](https://open.spotify.com/track/4AxWtgcky7KZFvkbF3ZSDP) | [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [Switch EP](https://open.spotify.com/album/48CmUezD60Dbjo0D0QvNOc) | 3:35 | 2022-12-20 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-12-20 |  |
+| [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-20 |  |
 | [Fuck Music \- Session Victim Remix](https://open.spotify.com/track/0z4xztC6tAI0R2ANGr6iJn) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Fuck Music](https://open.spotify.com/album/1R4Q1X6XLcwUpLRmdExV1f) | 6:56 | 2022-12-20 |  |
 | [Férias '77 \- JKRIV Reworks](https://open.spotify.com/track/4yuBWOtu4iBVkrp4gQUOYb) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [El Palmar \(La Playa Vol\. 1\)](https://open.spotify.com/album/2IuEIJ9rCl2tET6Zc27pHT) | 6:39 | 2022-12-20 |  |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-20 |  |

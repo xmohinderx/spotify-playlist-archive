@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-76 songs - 3 hr 34 min
+77 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Espelho Meu](https://open.spotify.com/track/7JDV1Mw6D8IQJst0w3NYmD) | [Dimitre](https://open.spotify.com/artist/4mzh8Rz93TKnaChyWoZGxz) | [Espelho meu](https://open.spotify.com/album/3uxyRYWIKDu89kIbt1AoUa) | 3:12 | 2022-04-29 |  |
 | [Eu Preciso Fugir Daqui](https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Eu Preciso Fugir Daqui](https://open.spotify.com/album/4YiFLVrTe54WuZrcjrsFoD) | 3:28 | 2022-04-29 |  |
 | [Faz Calor](https://open.spotify.com/track/3ZaK8PfUPouyYTjg1FwBrg) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Faz Calor](https://open.spotify.com/album/0atczb3hWSrMtRyOhvFXUM) | 2:21 | 2022-04-29 |  |
+| [Flores na Janela](https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb) | [Rafa!](https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO) | [Tudo Que Posso Deixar no Caminho](https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR) | 2:54 | 2023-01-20 |  |
 | [Fogo](https://open.spotify.com/track/7ev64ImfrKOFhReYZ0AJBj) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Fogo](https://open.spotify.com/album/36N0m4UtqwvrfpLWd6aFKi) | 2:40 | 2022-04-29 |  |
 | [Frio na Barriga](https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Frio na Barriga](https://open.spotify.com/album/26JIFAIG2z4jDSVK75vHr3) | 4:13 | 2022-04-29 |  |
-| [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-01 |  |
+| [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-01 | 2023-01-21 |
 | [Hipnotiza](https://open.spotify.com/track/0dkyy1SM9pU1AND0NhaiFc) | [Luis Fortes](https://open.spotify.com/artist/59jhGrdFhrRFKR9AbmcBmg) | [Hipnotiza](https://open.spotify.com/album/78VwZTQlrrIBEruikZrNRJ) | 2:19 | 2022-04-29 |  |
 | [Hoje Eu To Bem](https://open.spotify.com/track/22CjgU71oAk6kIY8HDYxWL) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Hoje Eu To Bem](https://open.spotify.com/album/4kgrFABuHVoPSYgk2TyBMb) | 3:30 | 2022-04-29 |  |
 | [Impostora](https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/2uqjImKj6YXjeojVG2zPWG) | 2:29 | 2022-04-29 |  |

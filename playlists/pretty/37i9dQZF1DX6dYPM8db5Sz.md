@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=Z6fdR3NXQ52L7r0GSmfAEA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=AhnbaA9RSDGCEL4gmSlDhQ">Tubatsi Mpho Moloi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,355 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,380 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 28 | [Nightlife](https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC) | [Reino Brink](https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq) | [Break and Bend](https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q) | 3:30 |
 | 29 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 |
 | 30 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
-| 31 | [Blue House](https://open.spotify.com/track/2oS0yreheavk9HnRip1JO7) | [EIGHT THOUSAND BIRDS](https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC) | [Blue House](https://open.spotify.com/album/2v9CRI2H6pIB6kTHXsc32N) | 3:28 |
-| 32 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
-| 33 | [All My Life](https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98) | [Kloudink](https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P) | [All My Life](https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4) | 2:42 |
-| 34 | [Royalties](https://open.spotify.com/track/2SsLNG25UUof2uiGLn0xlu) | [Reigndear](https://open.spotify.com/artist/1smz5F8IGhEuE0Pz5zzQjT) | [Royalties](https://open.spotify.com/album/3CWIhu1lmfha0awePZSHtf) | 5:00 |
-| 35 | [Let It Go](https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Let It Go](https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT) | 2:57 |
-| 36 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
-| 37 | [cold](https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [cold](https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo) | 4:31 |
-| 38 | [Blue Skies Baby](https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Blue Skies Baby](https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj) | 3:45 |
-| 39 | [F.B.A.](https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3) | [F.B.A.](https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz) | 3:13 |
-| 40 | [Stereoscope](https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Stereoscope](https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC) | 3:55 |
-| 41 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
-| 42 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
-| 43 | [Stardust](https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa) | [Hanukug](https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj) | [Stardust](https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0) | 2:06 |
-| 44 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 |
-| 45 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
+| 31 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
+| 32 | [Blue House](https://open.spotify.com/track/2oS0yreheavk9HnRip1JO7) | [EIGHT THOUSAND BIRDS](https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC) | [Blue House](https://open.spotify.com/album/2v9CRI2H6pIB6kTHXsc32N) | 3:28 |
+| 33 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
+| 34 | [All My Life](https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98) | [Kloudink](https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P) | [All My Life](https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4) | 2:42 |
+| 35 | [Royalties](https://open.spotify.com/track/2SsLNG25UUof2uiGLn0xlu) | [Reigndear](https://open.spotify.com/artist/1smz5F8IGhEuE0Pz5zzQjT) | [Royalties](https://open.spotify.com/album/3CWIhu1lmfha0awePZSHtf) | 5:00 |
+| 36 | [Let It Go](https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Let It Go](https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT) | 2:57 |
+| 37 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
+| 38 | [cold](https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [cold](https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo) | 4:31 |
+| 39 | [Blue Skies Baby](https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Blue Skies Baby](https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj) | 3:45 |
+| 40 | [F.B.A.](https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3) | [F.B.A.](https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz) | 3:13 |
+| 41 | [Stereoscope](https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Stereoscope](https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC) | 3:55 |
+| 42 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
+| 43 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
+| 44 | [Stardust](https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa) | [Hanukug](https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj) | [Stardust](https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0) | 2:06 |
+| 45 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 |
 | 46 | [Falling For You](https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Falling For You](https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR) | 2:55 |
 | 47 | [How Do I Tell You](https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t) | [SŌNN](https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ) | [How Do I Tell You](https://open.spotify.com/album/2ZXG2gt26oPHl6dL5uCKXs) | 2:58 |
 | 48 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 |
 | 49 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 50 | [ghost in the machine](https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2) | [emerger](https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7) | [ghost in the machine](https://open.spotify.com/album/2HNFlTUUoE4UTfX0gSKlEp) | 3:27 |
 
-Snapshot ID: `MTY3NDE2NTU0MCwwMDAwMDAwMDJjZTNjOGJiZDY2MGQxNWY4MjBiMDYyYjJhOGZmN2Vk`
+Snapshot ID: `MTY3NDI1MTUyMCwwMDAwMDAwMDYxNWQ2YWM3NWY2NGUyY2I2MjcxZTk3ZTVlNTgwM2Ni`

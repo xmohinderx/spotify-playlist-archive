@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Nita Strauss
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Metallica
 
-688 songs - 2 day 3 hr 15 min
+690 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Crimson Skies](https://open.spotify.com/track/0Jj1US4hB3vCZrgN8rHvRh) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Phantom Tomorrow](https://open.spotify.com/album/1gK7Mty8m7UALXxoQhLOaD) | 4:09 | 2022-11-18 |  |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
-| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
+| [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 | 2023-01-21 |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
 | [Cry for the Nations](https://open.spotify.com/track/0Kpi5PM6kwwm7sjlS3HVTy) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Cry for the Nations](https://open.spotify.com/album/5I4kXVMUAeH1fEhbmEUSf9) | 4:55 | 2022-01-07 | 2022-04-17 |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2022-08-19 |  |
@@ -384,7 +384,7 @@
 | [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-13 |  |
 | [Mystic Voices](https://open.spotify.com/track/23qe3H5ToeXOfFj9gSSPrX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Mystic Voices](https://open.spotify.com/album/0X5n66zXSf8NkEanAwC7QR) | 5:05 | 2021-12-29 | 2022-04-24 |
 | [Nabbed in Nebraska](https://open.spotify.com/track/2DcykF5eaHu1z2TiuRmns0) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Nabbed in Nebraska](https://open.spotify.com/album/1Q7cGukENcz0K2QPr9AIAE) | 4:33 | 2021-12-17 | 2022-07-20 |
-| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 |  |
+| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-01-21 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2022-07-05 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
 | [New Colossal Hate](https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New Colossal Hate](https://open.spotify.com/album/4NZx3KzZVmxxMr4ZbJnAhi) | 4:30 | 2021-12-17 | 2022-04-18 |
@@ -489,6 +489,7 @@
 | [Scars](https://open.spotify.com/track/4U34OT0GZbx6l1jOlGw0AC) | [Persuader](https://open.spotify.com/artist/0PQ6ajUdjeMSDv84U0x5UC) | [Scars](https://open.spotify.com/album/3hkGbbFD4EkC62IomQaD6g) | 4:58 | 2021-12-17 | 2022-04-18 |
 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 | 2022-08-19 |  |
 | [Scorpio](https://open.spotify.com/track/5OwevD2C36VIEPrylSOZEv) | [Ronnie Atkins](https://open.spotify.com/artist/6P9001LmAdPIqvcdDhYduM) | [Scorpio](https://open.spotify.com/album/13OEd35xH2Wvv76298qR6Q) | 4:34 | 2021-12-29 | 2022-04-21 |
+| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
 | [Scum](https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Scum](https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu) | 2:38 | 2022-11-04 |  |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-08 |  |
 | [Sermons of the Sinner](https://open.spotify.com/track/1t31VXgKUO3TvxXKz9OO8q) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Sermons of the Sinner](https://open.spotify.com/album/5M3iDNGrwaF8emK4COEgdM) | 5:25 | 2021-12-17 | 2022-06-19 |
@@ -511,7 +512,7 @@
 | [Slayer of Kings](https://open.spotify.com/track/0qoznAGKZOBgne7MiycPPc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Slayer of Kings](https://open.spotify.com/album/692ScTjOsP51VwCcJtbs9S) | 5:03 | 2021-12-29 | 2022-07-18 |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2022-07-13 |  |
 | [Slowly We Rot](https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Slowly We Rot \(Reissue\)](https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7) | 3:38 | 2022-09-02 |  |
-| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 |  |
+| [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists](https://open.spotify.com/artist/0qoFZbsF9OQmTrtBB5RlTx) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 | 2022-12-16 |  |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-07-13 | 2022-10-17 |
 | [Snake Eyes](https://open.spotify.com/track/1i9JhqoNK9JVPkXwGxQR4m) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Snake Eyes](https://open.spotify.com/album/7vrpqWml8U2goskFO0AX7R) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 | 2022-08-19 |  |
@@ -659,6 +660,7 @@
 | [We Stand Alone](https://open.spotify.com/track/4lNksX77bs7kU9qNMjUvzP) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Angelus Apatrida](https://open.spotify.com/album/5XuLS24vdrxouiBERuXTbr) | 4:11 | 2021-12-29 | 2022-07-23 |
 | [We Stand as One](https://open.spotify.com/track/3L8Bjiv40wAcxxmRrXUOwq) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/1P6qVXbuLcqJrVZpwoPGkX) | 5:11 | 2021-12-17 | 2022-07-27 |
 | [We Will Rise](https://open.spotify.com/track/4DqG8CRMKIVHQ8SonkH6eH) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/0M79v9JpirSe4epQpkL5xC) | 3:24 | 2021-12-17 | 2022-07-22 |
+| [We Will Rise](https://open.spotify.com/track/5dDpM2kdsFF4IMqsLIlajX) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [We Will Rise](https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ) | 3:24 | 2023-01-20 |  |
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-22 | 2022-04-12 |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 |  |
 | [Werewolves of Armenia \- Rerecorded Version](https://open.spotify.com/track/7uV7feIzEHk0TS1xWw4zwU) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Werewolves of Armenia \(New Version 2020\)](https://open.spotify.com/album/0pcyE5m2GWpW8CsYv0BiMk) | 4:15 | 2021-12-17 | 2022-07-29 |

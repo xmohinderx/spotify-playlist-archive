@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "'Til I Can Make It On My Own",
+        "url": "https://open.spotify.com/album/0Y3PDimWHc95usGdTNObKx"
+      },
+      "artists": [
+        {
+          "name": "Savannah Rae",
+          "url": "https://open.spotify.com/artist/0MCORpw49PaeUUsSZwH0pw"
+        },
+        {
+          "name": "Georgette Jones",
+          "url": "https://open.spotify.com/artist/6ofwDVSodVYTHLohoLDKSw"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189292,
+      "name": "'Til I Can Make It On My Own",
+      "url": "https://open.spotify.com/track/3VuQUuFw1QPNUqbsTOWDie"
+    },
+    {
+      "album": {
         "name": "1990s Drunk",
         "url": "https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz"
       },

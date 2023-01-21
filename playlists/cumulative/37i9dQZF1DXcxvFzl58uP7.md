@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Clairo
 
-819 songs - 1 day 18 hr 38 min
+821 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [broken cd](https://open.spotify.com/track/77cuLtsUljaHBNpG89GpqE) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:50 | 2022-09-14 | 2022-12-06 |
 | [Bruise Cruise](https://open.spotify.com/track/7j7lh4awlX5wI90tgnpfet) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Blood Loss](https://open.spotify.com/album/0YHwQqztCh7I0UiLLA0rp6) | 5:45 | 2019-07-30\* | 2021-05-27 |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2020-05-04 | 2022-04-26 |
-| [Bugs](https://open.spotify.com/track/46dUB7Ej08JAdpZmwSRs8E) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:42 | 2022-12-21 |  |
+| [Bugs](https://open.spotify.com/track/46dUB7Ej08JAdpZmwSRs8E) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:42 | 2022-12-21 | 2023-01-21 |
 | [Built For This](https://open.spotify.com/track/6r16wh66SWCMrHBOpZv2GW) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Built For This](https://open.spotify.com/album/6GBOLgT39B6LnKP2ky3O63) | 2:25 | 2021-03-26 | 2022-04-18 |
 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 | 2021-05-05 | 2021-08-23 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2021-03-08 | 2021-08-27 |
@@ -541,6 +541,7 @@
 | [outside the party, inside the dream](https://open.spotify.com/track/0nIix5gcrnaapuG2iKq2UB) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/0gFlRThS2FRBtka9xkScXw) | 3:08 | 2021-03-19 | 2022-07-23 |
 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 | 2019-09-11 |  |
 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 | 2022-09-14 |  |
+| [Panic Attack](https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Panic Attack](https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe) | 2:48 | 2023-01-20 |  |
 | [Part III](https://open.spotify.com/track/5mQFTuHiwLBOoYXfT5uGbM) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Part III](https://open.spotify.com/album/1VF7X56XIusbhd8vQiRa9A) | 3:42 | 2019-07-30\* | 2021-05-25 |
 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 | 2021-05-15 | 2021-05-28 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-02-27 | 2022-12-17 |
@@ -687,6 +688,7 @@
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-02-27 | 2022-04-29 |
 | [Suria Di Atas Suria](https://open.spotify.com/track/0II5INotJW26AerbGNmsqI) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [FUGŌ](https://open.spotify.com/album/6FQrv1K5Kw9NHPLKe43g8S) | 3:17 | 2021-04-29 | 2021-05-27 |
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-12 | 2022-04-20 |
+| [SWEET N SOUR](https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [SWEET N SOUR](https://open.spotify.com/album/6DaE9DH0JnFWPcf1YRVcjS) | 2:17 | 2023-01-20 |  |
 | [Sweet Talker](https://open.spotify.com/track/7t9FPbLFwrI8ymM7aeM7qD) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly), [sora.wav](https://open.spotify.com/artist/4fSgmhMjPbzFOVn8MjooZ2) | [Sweet Talker](https://open.spotify.com/album/19ivBJdupN5tQlsgd0zyV7) | 2:24 | 2021-03-08 | 2021-05-27 |
 | [Sweet Talkin \(feat\. Elton Aura & AJANIMF\)](https://open.spotify.com/track/2mSDTHSiIHPNOl8NFZXYDn) | [Eddie Burns](https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC), [AJANIMF](https://open.spotify.com/artist/2Oriw8voKitCsEgU1RP890), [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [Sweet Talkin \(feat\. Elton Aura & AJANIMF\)](https://open.spotify.com/album/38f0yxiR7IiW3CZrLeuexa) | 2:06 | 2021-10-08 | 2022-04-18 |
 | [sweet taste](https://open.spotify.com/track/5qBkWkzOGMAyqfboaaaNAi) | [sol williams](https://open.spotify.com/artist/2MTS6xN7Q1Bgu93YCL2AsH) | [sweet taste](https://open.spotify.com/album/0g0q7BHDLMZRCVlCmFa7Xf) | 2:24 | 2021-05-04 | 2021-05-28 |
@@ -767,7 +769,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-04-29 |
 | [Volvernos a Ver](https://open.spotify.com/track/37KNkyB6TDqVYrNl2ZXwK6) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Canciones Que Hice en Mi Habitación](https://open.spotify.com/album/1Gr7WNfsyWx3d3ZYhqd9y5) | 1:04 | 2021-05-15 | 2021-05-27 |
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
-| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
+| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 | 2023-01-21 |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |

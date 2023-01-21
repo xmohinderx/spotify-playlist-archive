@@ -1,12 +1,12 @@
 {
   "description": "A playlist for your Arab hipster starter kit.",
-  "num_followers": 79913,
+  "num_followers": 79970,
   "original_name": "Funk & Disco Zamaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMDI5YWE2MTI5YTU2Yjk0YWRmYTg5YWIxNGM4ZDVjNGZm",
+  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMDEzZTJmZWY0NzkzMDgwY2Q1OTVlZWQ5NmY3ODYwNDcy",
   "tracks": [
     {
       "added_at": "2020-05-01 20:42:05",
@@ -211,22 +211,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Egyptian Jazz",
-        "url": "https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0"
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
       },
       "artists": [
         {
-          "name": "Salah Ragab",
-          "url": "https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq"
-        },
-        {
-          "name": "The Cairo Jazz Band",
-          "url": "https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe"
+          "name": "Mallek Mohamed",
+          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
         }
       ],
-      "duration_ms": 295040,
-      "name": "Egypt Strut",
-      "url": "https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm"
+      "duration_ms": 242000,
+      "name": "Rouhi Ya Hafida",
+      "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -247,18 +243,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
-        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+        "name": "Egyptian Jazz",
+        "url": "https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0"
       },
       "artists": [
         {
-          "name": "Mallek Mohamed",
-          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
+          "name": "Salah Ragab",
+          "url": "https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq"
+        },
+        {
+          "name": "The Cairo Jazz Band",
+          "url": "https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Rouhi Ya Hafida",
-      "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
+      "duration_ms": 295040,
+      "name": "Egypt Strut",
+      "url": "https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -343,22 +343,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
-        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
-      },
-      "artists": [
-        {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Al Asafir",
-      "url": "https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 239752,
       "name": "Soleil Soleil",
       "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Al Asafir",
+      "url": "https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
+        "name": "Tareeq",
+        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
+      },
+      "artists": [
+        {
+          "name": "Al-Bara'em",
+          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
+        }
+      ],
+      "duration_ms": 283724,
+      "name": "Tareeq",
+      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
         "name": "Akeed",
         "url": "https://open.spotify.com/album/7v8rqFkCY39CQFG9Qg4DNd"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Tareeq",
-        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
-      },
-      "artists": [
-        {
-          "name": "Al-Bara'em",
-          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
-        }
-      ],
-      "duration_ms": 283724,
-      "name": "Tareeq",
-      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Qamar Al Massa (Moon of the Night)",
         "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Al Hadaoui (Habibi Funk 011)",
-        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+        "name": "Ya Dunya",
+        "url": "https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR"
       },
       "artists": [
         {
-          "name": "Attarazat Addahabia",
-          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
-        },
-        {
-          "name": "Faradjallah",
-          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
         }
       ],
-      "duration_ms": 426000,
-      "name": "Albaki",
-      "url": "https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h"
+      "duration_ms": 236846,
+      "name": "Ya Galbi Laih",
+      "url": "https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4"
     }
   ],
   "unique_name": "Funk & Disco Zamaan",

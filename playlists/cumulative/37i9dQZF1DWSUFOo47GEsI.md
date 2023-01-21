@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-333 songs - 16 hr 27 min
+334 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2021-11-10 |  |
 | [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2021-11-10 |  |
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2021-11-10 | 2022-02-03 |
-| [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2021-11-10 |  |
+| [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2021-11-10 | 2023-01-21 |
 | [Atmosphere](https://open.spotify.com/track/2aFlelxOUFLufLy1vAe3YZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Atmosphere](https://open.spotify.com/album/1I4mGzUZCwJWek0eQ4nt83) | 1:37 | 2021-11-10 |  |
 | [Attends\-moi](https://open.spotify.com/track/5Tzz9ed8aqzEHMvBsYcwiN) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Attends\-moi](https://open.spotify.com/album/0OZA65EqED0lZ3cbGs73Bt) | 3:39 | 2021-11-10 |  |
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2021-11-10 |  |
@@ -128,7 +128,7 @@
 | [Floating Rocks](https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Floating Rocks](https://open.spotify.com/album/3EEdcHizMnPGeTIxZgH5I6) | 3:17 | 2021-11-10 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-09-30 |  |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-15 |  |
-| [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2021-11-10 |  |
+| [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2021-11-10 | 2023-01-21 |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2021-11-10 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2021-11-10 |  |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2022-03-21 |  |
@@ -206,7 +206,7 @@
 | [Nightrain](https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Fauna](https://open.spotify.com/album/300oF5rPceFBu1MQQsLQjv) | 2:36 | 2022-10-15 |  |
 | [Nights and days](https://open.spotify.com/track/17ZevRUkVXijuNzOAgFuRF) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Nights and days](https://open.spotify.com/album/6yOQqeCvRke4pduA6D9q3X) | 2:33 | 2022-11-11 |  |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-11-10 |  |
-| [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2021-11-10 |  |
+| [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2021-11-10 | 2023-01-21 |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2021-11-10 |  |
 | [Norm and Mirza](https://open.spotify.com/track/5IRmwahDW9Du2lJMpCHeFj) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [The Quarter is Served](https://open.spotify.com/album/5TFwtVclee1QHlnqXSTZ4Y) | 3:58 | 2021-11-10 |  |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2021-11-10 |  |
@@ -238,6 +238,7 @@
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2021-11-10 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-11-10 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-09-13 |  |
+| [Relations](https://open.spotify.com/track/66uQkXu45zDJSxvbUR4jPk) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [Relations](https://open.spotify.com/album/6bXV4rq5bUsnjnFwi0Xm7c) | 3:04 | 2023-01-20 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-11-10 |  |
 | [Relieve](https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Relieve](https://open.spotify.com/album/3tVeSv36k61jehxXt3xuPn) | 3:13 | 2023-01-13 |  |
 | [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 | 2022-09-30 |  |
@@ -250,7 +251,7 @@
 | [Sant](https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Sant](https://open.spotify.com/album/7pt1yJzAhU0RaxvTkno8Of) | 3:38 | 2022-11-22 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2021-11-10 |  |
 | [Schlafmittel](https://open.spotify.com/track/6AYzbLak1YhYu5litfcTdV) | [Felix Hertzog](https://open.spotify.com/artist/4B72HNYsUpj9x0cOBi7CJ7) | [Schlafmittel](https://open.spotify.com/album/6a5r93Haq1Km80MiRHZdBx) | 2:48 | 2021-11-10 |  |
-| [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2021-11-10 |  |
+| [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2021-11-10 | 2023-01-21 |
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2022-11-11 |  |
 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2021-11-10 |  |
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2021-11-10 |  |
@@ -273,7 +274,7 @@
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2021-11-10 |  |
 | [Soothing Clouds](https://open.spotify.com/track/5rL5AzqG58aU1R0t0zY0Ox) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Soothing Clouds](https://open.spotify.com/album/2hoQyCzvAM14tksVwAcMcf) | 2:25 | 2021-11-10 |  |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-02-02 |  |
-| [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 |  |
+| [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 | 2023-01-21 |
 | [Space Time](https://open.spotify.com/track/0YVdFZrT5wVUwSVM0AbleK) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Space Time](https://open.spotify.com/album/2WGPJT3FrXeqHGQPlaHpYk) | 2:23 | 2021-11-10 |  |
 | [Spherical](https://open.spotify.com/track/3MQfkUkcA1jnEkPkUiKz97) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Spherical](https://open.spotify.com/album/0dWpbhQ9zv1XzWGeJV7OZT) | 4:11 | 2021-11-10 |  |
 | [Squama](https://open.spotify.com/track/3uqxytqtmoZuxyn3ISYT2e) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Squama](https://open.spotify.com/album/5etPDJsjirWwVjxIbZgdb1) | 3:31 | 2021-11-10 |  |

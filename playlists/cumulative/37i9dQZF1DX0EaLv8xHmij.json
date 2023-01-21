@@ -1203,6 +1203,40 @@
     },
     {
       "album": {
+        "name": "DIGA!",
+        "url": "https://open.spotify.com/album/0RCbHFy4AGJEWQwvORrfFE"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy"
+        },
+        {
+          "name": "Felix Dubs",
+          "url": "https://open.spotify.com/artist/5iF6YGehiRgkpZ2uyzVG4u"
+        },
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "Bertho",
+          "url": "https://open.spotify.com/artist/7uwb5SrdBhNxsFSBCX2ffk"
+        },
+        {
+          "name": "Fernando Kep",
+          "url": "https://open.spotify.com/artist/2IbWKV9iTTGgPsJiXK5k7M"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "DIGA!",
+      "url": "https://open.spotify.com/track/05wjocd6lsv70PKdgfmoe8"
+    },
+    {
+      "album": {
         "name": "Top Boy Face, Vol. 1",
         "url": "https://open.spotify.com/album/3NfBoZkmkSrABQ18BtghlM"
       },
@@ -1584,7 +1618,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 227779,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7flUsjT077Vu11dKzGSPEm"

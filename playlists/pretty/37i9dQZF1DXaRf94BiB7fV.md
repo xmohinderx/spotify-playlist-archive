@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Sparsh Dangwal, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,899 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,922 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 43 | [Dil Bawra](https://open.spotify.com/track/7wqmHuIP2SF5hdPtWrAwso) | [Anirudh Deshmukh](https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL) | [Dil Bawra](https://open.spotify.com/album/7Lpb7YtL2bHU6q6oEacS6f) | 4:50 |
 | 44 | [Gumshuda ki Talaash](https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY) | [Gumshuda Ki Talaash](https://open.spotify.com/album/3W6OaxRNKgmqkpb9rSoayR) | 4:46 |
 | 45 | [Therapist](https://open.spotify.com/track/7bFxi7WlwVVfCJfRY9Nfns) | [Fieto Rohith](https://open.spotify.com/artist/2q1T1f6MizyyUMWJQkzpM9) | [Therapist](https://open.spotify.com/album/0AiCBp2aSn1C6sC8K2EkVf) | 2:59 |
-| 46 | [Befikri](https://open.spotify.com/track/2poPxQnuhXD5hIuLanNTux) | [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp), [Nimesha Tiwarrie](https://open.spotify.com/artist/2pS2uv847zXGyhMeqGNjIc) | [Befikri](https://open.spotify.com/album/2gJupNrGYevKvnUOC9stuy) | 3:37 |
+| 46 | [Befikri](https://open.spotify.com/track/2poPxQnuhXD5hIuLanNTux) | [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp), [Nimisha Tiwari](https://open.spotify.com/artist/68Guh6Ssw33E8IBjHbLJkX) | [Befikri](https://open.spotify.com/album/2gJupNrGYevKvnUOC9stuy) | 3:37 |
 | 47 | [Alfaaz](https://open.spotify.com/track/4lV0g0IxP8f901KN3G0rBq) | [Rohit Vasudevan Diaries](https://open.spotify.com/artist/6f4uJVqmdpTMtIjrWmsc9v) | [Alfaaz](https://open.spotify.com/album/5OejfuR0RkmzPp1ERTmIfY) | 3:53 |
 | 48 | [One More Night](https://open.spotify.com/track/04VqbdxsWY4lgPwX8Tphqu) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Subharaj Ghosh](https://open.spotify.com/artist/5znY5jCX8yWmrCVPtt41yt), [Arka Chakraborty](https://open.spotify.com/artist/5fPPNRzVGJXXfut3gx9nsj), [Aniruddha Saha](https://open.spotify.com/artist/4rOuh8GWmsN2rjVKXDav6t), [William Walters](https://open.spotify.com/artist/3HGKHS6Ph0HPMYcUMEEguC), [Rajshekhar Banerjee](https://open.spotify.com/artist/6rRsXP9vVaSJoyVkvPnObA) | [One More Night](https://open.spotify.com/album/2JeTqQwH8UZJxiNNdUs4Zc) | 3:46 |
 | 49 | [Diary](https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt) | [Aakash Rijia](https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO), [Diptanshu Tiwari](https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk), [Waseem Kazi](https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37) | [Diary](https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5) | 3:36 |

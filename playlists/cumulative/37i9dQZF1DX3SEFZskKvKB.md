@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-104 songs - 5 hr 57 min
+105 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cajamarca](https://open.spotify.com/track/4Pv28BGAxtynbsqOV2jFzy) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:22 | 2022-05-26 |  |
 | [Calm Night](https://open.spotify.com/track/72JSniZSFFQry3AQVYa8tB) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Calm Night](https://open.spotify.com/album/3lx9UDC30ijqxQpYWtBF2I) | 2:48 | 2022-12-02 |  |
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-08-11 |  |
-| [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-05-26 |  |
+| [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-05-26 | 2023-01-21 |
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-05-26 |  |
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-05-26 |  |
 | [Divine Dimension](https://open.spotify.com/track/73wOT1CUYdr9MDrQbhV3C1) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Divine Dimension](https://open.spotify.com/album/6AOlsCPCkbUSRb5faWJcYm) | 2:20 | 2022-09-30 |  |
@@ -94,6 +94,7 @@
 | [Sweet Existence](https://open.spotify.com/track/5jG0XIjT3KzT7SnJLI3rPA) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Sweet Existence](https://open.spotify.com/album/2KGGTWJXwVPPFN2ndHUPp0) | 3:04 | 2022-11-11 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-26 |  |
 | [The Ocean Of Night](https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 7:01 | 2022-05-26 |  |
+| [The Sacred Drum](https://open.spotify.com/track/1aS6pp7K04yYflSXXt54Qf) | [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [The Sacred Drum](https://open.spotify.com/album/6yvTVO5f7ioMEx2TzbdrAl) | 2:14 | 2023-01-20 |  |
 | [The Shaman Drum](https://open.spotify.com/track/6rvhmEwAscjPaCPeLWX4P2) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [Umbra](https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf) | 1:36 | 2023-01-11 |  |
 | [The Spirit of the Drum](https://open.spotify.com/track/2TFtiG9PkXpRezasuBiS0h) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:32 | 2022-05-26 |  |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-05-26 |  |

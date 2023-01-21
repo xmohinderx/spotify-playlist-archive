@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Castle Rat
+> Heavy new bands you need to have an eye on\. Cover: Faetooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,450 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,740 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 |
-| 2 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 |
-| 3 | [Self\-Hatred](https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Self\-Hatred](https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1) | 2:26 |
-| 4 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
-| 5 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
-| 6 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 |
-| 7 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 |
-| 8 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 |
-| 9 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
-| 10 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 |
-| 11 | [Ex Negativo](https://open.spotify.com/track/10ENVmCdFwJI56CLLYBps7) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC), [Marcus Lundqvist](https://open.spotify.com/artist/0q08CFLbXbVGCeLsduyGFe) | [Ex Negativo](https://open.spotify.com/album/0I8jW0HrBdY33udMgxPPTT) | 3:45 |
-| 12 | [The Debt](https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn) | [Lift The Curse](https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv) | [The Debt](https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE) | 3:45 |
-| 13 | [Deeper](https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Deeper](https://open.spotify.com/album/72VaQUDx8Yw8Jz5qJW1lLW) | 3:28 |
-| 14 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
-| 15 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 |
-| 16 | [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 |
-| 17 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 |
-| 18 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
-| 19 | [Blacklight](https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Blacklight](https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp) | 3:39 |
+| 1 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
+| 2 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 |
+| 3 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 |
+| 4 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 |
+| 5 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 |
+| 6 | [Stardust](https://open.spotify.com/track/4ABR3zMxUzZMWFbHaf1SIq) | [Designer Disguise](https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu) | [Elswaer](https://open.spotify.com/album/77q6P32TVr7jjBxRzCfeDA) | 3:37 |
+| 7 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
+| 8 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 |
+| 9 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 |
+| 10 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 |
+| 11 | [Self\-Hatred](https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Self\-Hatred](https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1) | 2:26 |
+| 12 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
+| 13 | [Ex Negativo](https://open.spotify.com/track/10ENVmCdFwJI56CLLYBps7) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC), [Marcus Lundqvist](https://open.spotify.com/artist/0q08CFLbXbVGCeLsduyGFe) | [Ex Negativo](https://open.spotify.com/album/0I8jW0HrBdY33udMgxPPTT) | 3:45 |
+| 14 | [The Debt](https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn) | [Lift The Curse](https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv) | [The Debt](https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE) | 3:45 |
+| 15 | [Deeper](https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Deeper](https://open.spotify.com/album/72VaQUDx8Yw8Jz5qJW1lLW) | 3:28 |
+| 16 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
+| 17 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 |
+| 18 | [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 |
+| 19 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 20 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 |
 | 21 | [Thinking About The Immortality Of The Crab](https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc) | [The Holy Ghost Tabernacle Choir](https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul) | [Thinking About The Immortality Of The Crab](https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS) | 1:31 |
 | 22 | [Paint It In Blood](https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd) | [The Tryals](https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs) | [Paint It In Blood](https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
 | 50 | [Chlorine Tears](https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Chlorine Tears](https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu) | 3:57 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGY5NzA2ZDdlMTBlODhkZmEzNmVhY2VmODkyMWZlMDUy`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDc1NmNlMjg2NGM3NTBjNjg4ZGRiMjNjZjYyNWEwMWYz`

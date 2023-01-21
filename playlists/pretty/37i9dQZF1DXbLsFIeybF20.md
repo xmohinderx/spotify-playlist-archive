@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,836 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,854 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 7 | [Short Dressed Gal](https://open.spotify.com/track/5LIn72haoobRVZg0cELDad) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 2:38 |
 | 8 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
 | 9 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
-| 10 | [I Feel Like Funkin' It Up \- Extended Mix](https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Do Watcha Wanna](https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi) | 5:35 |
-| 11 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
+| 10 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
+| 11 | [I Feel Like Funkin' It Up \- Extended Mix](https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Do Watcha Wanna](https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi) | 5:35 |
 | 12 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
 | 13 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
 | 14 | [Drop Me Off In New Orleans](https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY) | [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [Live At Vaughan's](https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt) | 4:18 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 20 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 21 | [Doctor Jazz](https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Doctor Jazz](https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu) | 3:28 |
 | 22 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
-| 23 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
-| 24 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
+| 23 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
+| 24 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
 | 25 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
 | 26 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
 | 27 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDJiNzMxMzdhMTk1NTFmMDdkMjRhOWYwYThlZTFhZTc5`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDhmMmVkOWVlNDQ5YTYyNjNmM2VjYzFkYWY3NmQzY2I5`

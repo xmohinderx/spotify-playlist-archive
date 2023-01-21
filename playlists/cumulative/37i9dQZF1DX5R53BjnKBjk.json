@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Absurda",
+      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
+    },
+    {
+      "album": {
         "name": "YASSIQ",
         "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
       },
@@ -280,7 +302,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 157333,
       "name": "Anos 2000",
       "url": "https://open.spotify.com/track/2vd7Q7q5hvtWvsXzpRHTBS"
@@ -964,7 +986,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173164,
       "name": "colinas",
       "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
@@ -4452,6 +4474,24 @@
       "duration_ms": 149793,
       "name": "tr\u00eas",
       "url": "https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI"
+    },
+    {
+      "album": {
+        "name": "Gali Gal\u00f3",
+        "url": "https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9"
+      },
+      "artists": [
+        {
+          "name": "Gali Gal\u00f3",
+          "url": "https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176030,
+      "name": "Tr\u00eas passinhos da derrota",
+      "url": "https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ"
     },
     {
       "album": {

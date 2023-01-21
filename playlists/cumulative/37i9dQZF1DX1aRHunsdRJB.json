@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "Street Shots 2020: Streets of Kingston",
+        "url": "https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Beat Dem Bad",
+      "url": "https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA"
+    },
+    {
+      "album": {
         "name": "Various Artists",
         "url": "https://open.spotify.com/album/2FcCwRLv72qMLjNoDzfauM"
       },
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"

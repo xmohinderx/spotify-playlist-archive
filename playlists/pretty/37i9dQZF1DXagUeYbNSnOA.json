@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring The Bromigos. Updates every Wednesday.",
-  "num_followers": 168582,
+  "num_followers": 168586,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMDU5Y2Y0Yzc2ZWQxOGE4YjM3NDZmYmRlZTA2Mzk4NGZk",
+  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMGJmYjc5ZGNkNmFhZjgyZjg0MTMwZGZkMzcwNmMyYmQx",
   "tracks": [
     {
       "added_at": "2023-01-18 23:04:56",
@@ -407,6 +407,38 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "La Idea de Ti",
+        "url": "https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV"
+      },
+      "artists": [
+        {
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+        }
+      ],
+      "duration_ms": 312891,
+      "name": "La Idea de Ti",
+      "url": "https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "No Me Queda Mas",
+        "url": "https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu"
+      },
+      "artists": [
+        {
+          "name": "Yelka",
+          "url": "https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji"
+        }
+      ],
+      "duration_ms": 101117,
+      "name": "No Me Queda Mas",
+      "url": "https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "Esa Estrella",
         "url": "https://open.spotify.com/album/5hRegApwbSKKGkTZwdvaFL"
       },
@@ -443,38 +475,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "No Me Queda Mas",
-        "url": "https://open.spotify.com/album/5BVHCC32iOdRC38sRZB0Fu"
-      },
-      "artists": [
-        {
-          "name": "Yelka",
-          "url": "https://open.spotify.com/artist/0StQOuBspOWtHN3rKtrfji"
-        }
-      ],
-      "duration_ms": 101117,
-      "name": "No Me Queda Mas",
-      "url": "https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "La Idea de Ti",
-        "url": "https://open.spotify.com/album/4WIcwOPymCsjmhp5FLVDaV"
-      },
-      "artists": [
-        {
-          "name": "Carolina en Llamas",
-          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
-        }
-      ],
-      "duration_ms": 312891,
-      "name": "La Idea de Ti",
-      "url": "https://open.spotify.com/track/0CyNTcUf1vZOFi6wJtdmnd"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "Amor Tumbado (Bachata RMX)",
         "url": "https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 207404,
       "name": "Catarsis",
       "url": "https://open.spotify.com/track/5Rpr0s58mhOsnwKT43KjdX"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "Tonight we Dance",
+        "url": "https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx"
+      },
+      "artists": [
+        {
+          "name": "Jon Clasic",
+          "url": "https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv"
+        },
+        {
+          "name": "Dj Limbo Latino",
+          "url": "https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb"
+        }
+      ],
+      "duration_ms": 217288,
+      "name": "Tonight we Dance",
+      "url": "https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -579,26 +599,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "Tonight we Dance",
-        "url": "https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx"
-      },
-      "artists": [
-        {
-          "name": "Jon Clasic",
-          "url": "https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv"
-        },
-        {
-          "name": "Dj Limbo Latino",
-          "url": "https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb"
-        }
-      ],
-      "duration_ms": 217288,
-      "name": "Tonight we Dance",
-      "url": "https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "SALI\u00d3 EL SOL",
         "url": "https://open.spotify.com/album/1xqfoT3yZvbCcMpgsn2zpD"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "D\u00e1tiles",
-        "url": "https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva"
-      },
-      "artists": [
-        {
-          "name": "ERRE TRES",
-          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
-        }
-      ],
-      "duration_ms": 193725,
-      "name": "D\u00e1tiles",
-      "url": "https://open.spotify.com/track/3q6YPWJZiDcxGrrGcIoLZI"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "PERDEDOR",
         "url": "https://open.spotify.com/album/6sljmJ6fEmqiQFe6EhA10t"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 165252,
       "name": "PERDEDOR",
       "url": "https://open.spotify.com/track/07pDSqLfNTRcdw8evYuXHY"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "D\u00e1tiles",
+        "url": "https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "duration_ms": 193725,
+      "name": "D\u00e1tiles",
+      "url": "https://open.spotify.com/track/3q6YPWJZiDcxGrrGcIoLZI"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 171405,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "AUCH",
         "url": "https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 186032,
       "name": "AUCH",
       "url": "https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "Viajera",
-        "url": "https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 171405,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl"
     },
     {
       "added_at": "2023-01-18 23:04:56",

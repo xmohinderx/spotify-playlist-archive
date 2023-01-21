@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 2408622,
+  "num_followers": 2409593,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMDRmM2Q1ODNmOThiOTRiMGI3NDg4YmIyYzZjMjI5Y2Rj",
+  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMGZjNjBlYzRhOWQwY2I0ZDRjMmFmYmE5N2I0MDI2OGRi",
   "tracks": [
     {
       "added_at": "2022-10-25 17:33:07",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 153840,
       "name": "Breaking the Law",
       "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 506160,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 254613,
       "name": "I Love It Loud - 2022 Remastered",
       "url": "https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 506160,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Difficult To Cure",
-        "url": "https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 262200,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Difficult To Cure",
+        "url": "https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
         "name": "The Number of the Beast (2015 - Remaster)",
         "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 409800,
       "name": "Beyond the Realms of Death",
       "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
-        "name": "Somewhere in Time (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Wasted Years - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+        "name": "Somewhere in Time (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Powerslave (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 363586,
-      "name": "2 Minutes to Midnight - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Among The Living (Deluxe Edition)",
         "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 284960,
       "name": "Evil",
       "url": "https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Powerslave (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
     },
     {
       "added_at": "2022-10-25 17:33:07",

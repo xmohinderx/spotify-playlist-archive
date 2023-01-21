@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Benny Sings.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Rocco.",
   "name": "borderless",
   "tracks": [
     {
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
+    },
+    {
+      "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
@@ -1446,6 +1464,24 @@
       "duration_ms": 165250,
       "name": "COCONUT PERFUME",
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1n6hMhTl4PqPn5tTfQGQ86"
+      },
+      "artists": [
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7o8znc6DQLM2HVm0X0aEck"
     },
     {
       "album": {
@@ -2017,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "album": {
         "name": "Dizzy Inside",
         "url": "https://open.spotify.com/album/13bMbYZ0t4qtbWXdxtyaId"
       },
@@ -2234,10 +2288,32 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 255267,
       "name": "Dream",
       "url": "https://open.spotify.com/track/2DnYDLmWqS4ImDyhlX1FE7"
+    },
+    {
+      "album": {
+        "name": "Player Non Player",
+        "url": "https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K"
+      },
+      "artists": [
+        {
+          "name": "Agar Agar",
+          "url": "https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj"
+        },
+        {
+          "name": "ZOMBIE-CHANG",
+          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151253,
+      "name": "Dude on horse (feat. ZOMBIE-CHANG)",
+      "url": "https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB"
     },
     {
       "album": {
@@ -2530,7 +2606,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 125793,
       "name": "endlessly",
       "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
@@ -3647,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Home to Me",
+        "url": "https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11"
+      },
+      "artists": [
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163628,
+      "name": "Home to Me",
+      "url": "https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk"
+    },
+    {
+      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -4585,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Les yeux, le reste",
+        "url": "https://open.spotify.com/album/0BLe8NfFlxiHkfZwe8sBXb"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Les yeux, le reste",
+      "url": "https://open.spotify.com/track/3DrMtgnkoPtgQ3iLkXaEzw"
+    },
+    {
+      "album": {
         "name": "oldies",
         "url": "https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu"
       },
@@ -5177,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/4uYWlPEOjaslNWJn46JACM"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190900,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/142K8wG0SPw36Ka2sqojCv"
+    },
+    {
+      "album": {
         "name": "Mapa",
         "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
       },
@@ -5290,6 +5420,24 @@
       "duration_ms": 163975,
       "name": "Mavrud",
       "url": "https://open.spotify.com/track/1S5nNLEFjsphPzKdhb3lc8"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204622,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL"
     },
     {
       "album": {
@@ -5482,7 +5630,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196027,
       "name": "Moka",
       "url": "https://open.spotify.com/track/29wABTlHrUEAMfBprQnOrc"
@@ -6296,7 +6444,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 137571,
       "name": "OTP",
       "url": "https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k"
@@ -6376,6 +6524,24 @@
       "duration_ms": 185482,
       "name": "Oye, que perd\u00f3n",
       "url": "https://open.spotify.com/track/01h5IZ6lolrFbCw3Zd8OTt"
+    },
+    {
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK"
     },
     {
       "album": {
@@ -8250,7 +8416,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 158492,
       "name": "SUBCONSCIENTE",
       "url": "https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH"
@@ -8348,7 +8514,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 199820,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa"
@@ -8766,7 +8932,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 241948,
       "name": "the song i always forget about",
       "url": "https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo"
@@ -9876,7 +10042,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196029,
       "name": "XX",
       "url": "https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr"

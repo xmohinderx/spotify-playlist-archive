@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 73863,
+  "num_followers": 73881,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE5YzRhZGE0Nzc0ZTg2NGNmZTgxMDQ5MDdkY2YyZDRi",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDkxODA4MTc3NTNlNDMwMGI5YzczMmY1ZGEzN2U2OTQw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Before I Spill Myself",
+        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        }
+      ],
+      "duration_ms": 248904,
+      "name": "Chasing Amy",
+      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Teteo",
         "url": "https://open.spotify.com/album/26vdwpxbZVDDLVSGQUspXx"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 226000,
       "name": "Teteo",
       "url": "https://open.spotify.com/track/5CFMdA4qLFi8Ut75tnSvNx"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Before I Spill Myself",
-        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        }
-      ],
-      "duration_ms": 248904,
-      "name": "Chasing Amy",
-      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ayyy",
-        "url": "https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 166301,
-      "name": "Ayyy",
-      "url": "https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1179,22 +1159,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
@@ -1207,6 +1171,42 @@
       "duration_ms": 102466,
       "name": "Imamou Lele",
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Ayyy",
+        "url": "https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "duration_ms": 166301,
+      "name": "Ayyy",
+      "url": "https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/5SRQszVohD4Raw4vcAMknL"
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
       },
       "artists": [
         {
@@ -1632,21 +1632,13 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
         }
       ],
-      "duration_ms": 159832,
-      "name": "Ocho",
-      "url": "https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c"
+      "duration_ms": 154833,
+      "name": "Oh Mama",
+      "url": "https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1767,8 +1759,8 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/5SRQszVohD4Raw4vcAMknL"
       },
       "artists": [
         {
@@ -1776,13 +1768,21 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
         }
       ],
-      "duration_ms": 154833,
-      "name": "Oh Mama",
-      "url": "https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP"
+      "duration_ms": 159832,
+      "name": "Ocho",
+      "url": "https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1799,22 +1799,6 @@
       "duration_ms": 230476,
       "name": "Bout Konpa - Original Mix",
       "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Felix",
-          "url": "https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1851,22 +1835,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Destine",
-        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB"
       },
       "artists": [
         {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        },
-        {
-          "name": "Jmd Tunes",
-          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
+          "name": "Chris Felix",
+          "url": "https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Destine",
-      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+      "duration_ms": 158620,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1883,6 +1863,26 @@
       "duration_ms": 153473,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Destine",
+        "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        },
+        {
+          "name": "Jmd Tunes",
+          "url": "https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Destine",
+      "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
     },
     {
       "added_at": "2022-11-18 05:00:00",

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-123 songs - 6 hr 9 min
+124 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2022-02-28 |  |
 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-13 |  |
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
-| [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 |  |
+| [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 | 2023-01-21 |
 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 | 2022-02-28 |  |
 | [Facile Senses](https://open.spotify.com/track/6Om9JiR0nLPL5w0XG8krNc) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Facile Senses](https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW) | 3:06 | 2022-10-14 |  |
 | [Fais de beaux rêves](https://open.spotify.com/track/7fl8RV1XaQbClOH3cDyJEl) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:28 | 2022-10-21 |  |
@@ -96,6 +96,7 @@
 | [Reach The Creator](https://open.spotify.com/track/6vA2G72W5805Bpl7RTQGDa) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Reach The Creator](https://open.spotify.com/album/1vWfZT1ara3oBSTUqGkSeU) | 4:07 | 2022-07-15 |  |
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2022-02-28 | 2022-05-20 |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2022-02-28 |  |
+| [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 | 2023-01-20 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 |  |
 | [Restore Calm](https://open.spotify.com/track/2kWgnixsXJN1kOOeTU84fE) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:35 | 2022-02-28 |  |
 | [Sail Away](https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Sail Away](https://open.spotify.com/album/6aeoXB2a6hKW11kJ4NIfKB) | 5:38 | 2022-05-19 |  |

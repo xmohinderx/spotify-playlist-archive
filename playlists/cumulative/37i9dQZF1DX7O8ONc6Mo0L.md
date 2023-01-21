@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Kleber Lucas, Caetano Veloso
 
-94 songs - 7 hr 8 min
+95 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Além do Rio Azul \- Acústico](https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Além do Rio Azul \(Acústico\)](https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK) | 4:41 | 2022-09-02 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-02 |  |
 | [Amanheceu](https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [Elias Inácio](https://open.spotify.com/artist/0m3hCc4WOLzmHaXkBMg2ud) | [Amanheceu](https://open.spotify.com/album/7oJjbZCliayZ7kCBxR7GAe) | 3:58 | 2022-11-25 | 2023-01-14 |
-| [Ao Próximo](https://open.spotify.com/track/6FmVDXWWPKiJKRIydyCn5t) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Ao Próximo](https://open.spotify.com/album/1wP4UP9l3I5hm76cO8HHqz) | 3:31 | 2023-01-14 |  |
+| [Ao Próximo](https://open.spotify.com/track/6FmVDXWWPKiJKRIydyCn5t) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Ao Próximo](https://open.spotify.com/album/1wP4UP9l3I5hm76cO8HHqz) | 3:31 | 2023-01-14 | 2023-01-21 |
 | [Ao Único](https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Ao Único](https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL) | 4:17 | 2022-11-25 |  |
 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 | 2022-09-02 |  |
 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 | 2022-10-28 |  |
@@ -38,6 +38,7 @@
 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 | 2022-09-02 |  |
 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 | 2022-09-02 |  |
 | [Ele Nos Ama \- Acústico](https://open.spotify.com/track/6mfGVJl7uQ6LcE3owuUOPs) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Ele Nos Ama \(Acústico\)](https://open.spotify.com/album/12QmRuNPuRcLA9uYjXSC5N) | 4:09 | 2022-09-02 | 2022-11-26 |
+| [Ele é Exaltado \- Acústico](https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Lukas Agustinho \(Acústico\)](https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b) | 2:19 | 2023-01-20 |  |
 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-02 |  |
 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 | 2022-09-02 |  |
 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 | 2022-09-02 |  |

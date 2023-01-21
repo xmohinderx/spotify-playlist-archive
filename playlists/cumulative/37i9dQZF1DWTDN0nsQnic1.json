@@ -265,6 +265,32 @@
     },
     {
       "album": {
+        "name": "Flecha",
+        "url": "https://open.spotify.com/album/6xCutL3K2wd79AssBPfb6P"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gouveia",
+          "url": "https://open.spotify.com/artist/5A1cqttq9CGOl7svYGHIMb"
+        },
+        {
+          "name": "Duca Tambasco",
+          "url": "https://open.spotify.com/artist/7DX7ZTq8tduuchkTutzyRb"
+        },
+        {
+          "name": "olliv",
+          "url": "https://open.spotify.com/artist/5cPQ3kyOy3bt5g5Hc1ARoI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Flecha",
+      "url": "https://open.spotify.com/track/20Amyw8NsuVeb1niVnSn3D"
+    },
+    {
+      "album": {
         "name": "Flutter",
         "url": "https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk"
       },

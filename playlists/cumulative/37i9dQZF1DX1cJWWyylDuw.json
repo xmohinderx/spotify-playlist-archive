@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Suicide Silence",
+  "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: To The Grave",
   "name": "Deathcore",
   "tracks": [
     {
@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Cut Off The Head",
+        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210352,
+      "name": "Cut off the Head",
+      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
+    },
+    {
+      "album": {
         "name": "D.N.R.",
         "url": "https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG"
       },
@@ -1750,6 +1768,24 @@
       "duration_ms": 200312,
       "name": "Dead Message",
       "url": "https://open.spotify.com/track/3CGRgtPsC3t5z4Wp28U0YQ"
+    },
+    {
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191909,
+      "name": "Dead Pacifist",
+      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
     },
     {
       "album": {
@@ -2270,10 +2306,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 310857,
       "name": "Duplicity",
       "url": "https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc"
+    },
+    {
+      "album": {
+        "name": "Earthen",
+        "url": "https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324162,
+      "name": "Earthen",
+      "url": "https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB"
     },
     {
       "album": {
@@ -2382,7 +2436,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 233250,
       "name": "Empress",
       "url": "https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi"
@@ -2861,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "OKKULT III",
+        "url": "https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy"
+      },
+      "artists": [
+        {
+          "name": "Atrocity",
+          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "Fire Ignites",
+      "url": "https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM"
+    },
+    {
+      "album": {
         "name": "Valley of Kings",
         "url": "https://open.spotify.com/album/4bF6NQceCqwHKlC6YQSYOh"
       },
@@ -2934,7 +3006,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 384285,
       "name": "For Whom the Banshee Cries",
       "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
@@ -3616,6 +3688,24 @@
       "duration_ms": 211594,
       "name": "Human Target",
       "url": "https://open.spotify.com/track/6lCCcsaT5jPPx0X5DMy38H"
+    },
+    {
+      "album": {
+        "name": "I Am the Void",
+        "url": "https://open.spotify.com/album/6a8KUiRIEeGAaFfwBC5QqD"
+      },
+      "artists": [
+        {
+          "name": "Entheos",
+          "url": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233798,
+      "name": "I Am the Void",
+      "url": "https://open.spotify.com/track/2BJ46GRF6szcLoimU71cYh"
     },
     {
       "album": {
@@ -5042,7 +5132,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 287532,
       "name": "Of Fury",
       "url": "https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg"
@@ -5334,7 +5424,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 182084,
       "name": "Paranoid Skizoid",
       "url": "https://open.spotify.com/track/15KxR0KLfryV2yNKU8WFf3"
@@ -6141,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "Sing to the Grave",
+        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "Sing to the Grave",
+      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/2Xx98iZ9d9ljsHxEb02MS9"
       },
@@ -6880,7 +6988,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"

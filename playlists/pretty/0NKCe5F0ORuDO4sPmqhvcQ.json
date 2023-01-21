@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21134,
+  "num_followers": 21135,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAxNDMsZDNmNGQzY2NiY2E0Y2QwN2Y0ZWRmYmVhZTdlMTUyYTE3N2NhNWI2NQ==",
+  "snapshot_id": "MTAxNTMsMjMwZWU2Y2NjYzk5NmEyMjc0YzllMjVjNTlmOTVmYWJmYTgxNjAyMw==",
   "tracks": [
     {
       "added_at": "2023-01-11 20:20:38",
@@ -27,6 +27,38 @@
       "duration_ms": 389310,
       "name": "Everyday, Everyday - Live Edit",
       "url": "https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0"
+    },
+    {
+      "added_at": "2023-01-20 16:07:08",
+      "album": {
+        "name": "DON'T SAY",
+        "url": "https://open.spotify.com/album/4PghAYxdIdxNBQXILY3UVq"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "DON'T SAY",
+      "url": "https://open.spotify.com/track/6jQBmXtAN72QaNfZOiHPqr"
+    },
+    {
+      "added_at": "2023-01-20 22:17:00",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"
     },
     {
       "added_at": "2023-01-19 18:06:57",
@@ -61,6 +93,30 @@
       "url": "https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3"
     },
     {
+      "added_at": "2023-01-20 15:57:45",
+      "album": {
+        "name": "State Of Mind (TELYKast Remix)",
+        "url": "https://open.spotify.com/album/4eh3AMHgsVerPpeDg0d7cV"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "State of Mind - TELYKast Remix",
+      "url": "https://open.spotify.com/track/6JyL6uaXr3aDVKKfzCfZPn"
+    },
+    {
       "added_at": "2022-12-02 16:45:58",
       "album": {
         "name": "Best Part About You (camoufly Remix)",
@@ -83,6 +139,30 @@
       "duration_ms": 191823,
       "name": "Best Part About You - camoufly Remix",
       "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
+    },
+    {
+      "added_at": "2023-01-20 21:53:01",
+      "album": {
+        "name": "Deepend",
+        "url": "https://open.spotify.com/album/6lCXl4mrPMEsl89i74Uqmi"
+      },
+      "artists": [
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        },
+        {
+          "name": "Lydell",
+          "url": "https://open.spotify.com/artist/39NS4e6MwwxYioDlGMLdD2"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Deepend",
+      "url": "https://open.spotify.com/track/2mqaosDXabZq2tf7bhPnjK"
     },
     {
       "added_at": "2022-12-12 21:23:35",
@@ -2403,6 +2483,30 @@
       "duration_ms": 251612,
       "name": "Emphasis",
       "url": "https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI"
+    },
+    {
+      "added_at": "2023-01-20 15:45:00",
+      "album": {
+        "name": "It Girl (warner case Remix)",
+        "url": "https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Karma Fields",
+          "url": "https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "It Girl (warner case Remix)",
+      "url": "https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw"
     }
   ],
   "unique_name": "Moving Castle Monthly",

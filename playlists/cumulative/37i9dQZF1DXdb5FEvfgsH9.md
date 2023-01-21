@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-99 songs - 6 hr 4 min
+101 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 Years](https://open.spotify.com/track/2wxvW9II2IMhqSme5YC9n3) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Welcome](https://open.spotify.com/album/66k2BD3Z2gtQt0UgXhZJSf) | 2:46 | 2021-07-26 | 2022-11-13 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-07-26 | 2022-10-13 |
 | [10 Years](https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92) | 2:46 | 2021-07-26 |  |
+| [1988](https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Liselotte Östblom](https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [1988](https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ) | 4:30 | 2023-01-20 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-07-26 |  |
 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 | 2021-07-26 |  |
@@ -60,6 +61,7 @@
 | [Ice Cold](https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/08a5OpPDqZ8vXfu3AejPdW) | 3:16 | 2021-07-26 | 2022-10-16 |
 | [Ice Cold](https://open.spotify.com/track/6g3dWdveVFaFrBR6cZTLHx) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/55OKR2BbANR7aq9UwA9u08) | 3:16 | 2021-07-26 |  |
 | [Ice Cold](https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx) | [Ice Cold](https://open.spotify.com/album/3NR9ek3Wzl2ONf0HCm7u8m) | 3:49 | 2021-07-26 |  |
+| [Into You](https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Into You](https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL) | 4:24 | 2023-01-20 |  |
 | [It's Your Night](https://open.spotify.com/track/488cWCyVFhfZEuNR5BMcL6) | [Space 9](https://open.spotify.com/artist/1iWUVW2PZmzPmhGPyuqkno), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [It's Your Night](https://open.spotify.com/album/5BH4wKbGRKAZpLvKdUHsLf) | 3:22 | 2021-07-26 |  |
 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 | 2021-07-26 |  |
 | [Just Like Dope](https://open.spotify.com/track/04nBW6rzcc3cNCljAwDqBx) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Funk Junkie](https://open.spotify.com/album/1IF1xqJ4PlH16gZvMv9iLi) | 4:19 | 2021-07-26 |  |

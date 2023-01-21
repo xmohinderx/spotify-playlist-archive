@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Kickass Metal Presents..\. The Best Metal Songs of 2022\. Cover: Ghost<br/>\#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,031 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,316 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 73 | [EYE TO EYE](https://open.spotify.com/track/7xPjw7o7FGf17nYmaGIaPd) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY \(SPECIAL EDITION\)](https://open.spotify.com/album/1Bpy8O2S4go0xe7Au7xuX4) | 3:53 |
 | 74 | [Tight Rope XX](https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:37 |
 | 75 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:00 |
-| 76 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
+| 76 | [Smoke Signals](https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW) | [Novelists](https://open.spotify.com/artist/0qoFZbsF9OQmTrtBB5RlTx) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:34 |
 | 77 | [Believe](https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Misery](https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f) | 4:36 |
 | 78 | [Broken Cog](https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Immutable](https://open.spotify.com/album/6EgEo5csYA7HqasanrvwWk) | 5:35 |
 | 79 | [The Deathless Sun](https://open.spotify.com/track/0A4Xb4Io50uHnHZ1V8x2KC) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Opvs Contra Natvram](https://open.spotify.com/album/4HJqsD4Aw2HHa24liDoxFe) | 4:43 |

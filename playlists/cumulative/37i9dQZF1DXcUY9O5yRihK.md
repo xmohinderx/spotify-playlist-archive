@@ -4,13 +4,14 @@
 
 > bossa vibes and a romantic daydream
 
-50 songs - 2 hr 32 min
+54 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Car Going Nowhere](https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [A Car Going Nowhere](https://open.spotify.com/album/5yR8GbZR66gjAoyt5Voc2O) | 3:47 | 2023-01-06 |  |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2023-01-06 |  |
 | [aime](https://open.spotify.com/track/6fW0lH7uRHh0kDXBHuYLkL) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [Chevy](https://open.spotify.com/artist/4WfJogOUKB3HihGTS6Fsxm) | [Sleepy Boy](https://open.spotify.com/album/0A7zAV59eGlFNQXFYAOsUo) | 1:50 | 2023-01-06 |  |
+| [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG) | 3:34 | 2023-01-20 |  |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2023-01-06 |  |
 | [Amber](https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:53 | 2023-01-06 |  |
 | [Anywhere](https://open.spotify.com/track/0U6S4ELEx0YA7JlhELnZaf) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 2:26 | 2023-01-06 |  |
@@ -22,6 +23,7 @@
 | [Cozy](https://open.spotify.com/track/0XzcZKCGW2eCVNGMS03GYt) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z) | [Cozy](https://open.spotify.com/album/1gU8z2DBmS5Ic39RLx1jry) | 1:49 | 2023-01-06 |  |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2023-01-06 |  |
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2023-01-06 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 |  |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 |  |
 | [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 |  |
 | [espresso](https://open.spotify.com/track/0VNcFGQjN7huUyEPwBtksC) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Lucy Weld](https://open.spotify.com/artist/0YnLefkesxcihbTtIG0iyZ) | [Mountain Tops](https://open.spotify.com/album/5A1axIYldvItf7MvKe5mGl) | 1:32 | 2023-01-06 |  |
@@ -34,7 +36,9 @@
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 |  |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-01-06 |  |
 | [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2023-01-06 |  |
+| [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 | 2023-01-20 |  |
 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 | 2023-01-06 |  |
+| [Lungs](https://open.spotify.com/track/7BxzMUwuPM09XnP1wTm2z8) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Lungs](https://open.spotify.com/album/0azrQYwwoEliseBAUlBT88) | 2:40 | 2023-01-20 |  |
 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 | 2023-01-06 |  |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |
 | [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2023-01-06 |  |

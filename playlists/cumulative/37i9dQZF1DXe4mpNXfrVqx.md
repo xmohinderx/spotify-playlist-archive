@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-116 songs - 5 hr 12 min
+117 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 |  |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |
+| [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 | 2023-01-20 |  |
 | [Nem Quero Saber](https://open.spotify.com/track/1BMSRjqjt2INiJ4PuEyWmv) | [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [M\. E\. T\. A.](https://open.spotify.com/album/4I6FSM59W2S3umPPxBukLW) | 2:41 | 2022-03-18 |  |
 | [No Feelings](https://open.spotify.com/track/14e36462Mej9BbWFkO42T2) | [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p) | [NO FEELINGS](https://open.spotify.com/album/5MWp3ROrxT3rAA85S5Zplb) | 2:21 | 2022-03-18 |  |
 | [No Hit](https://open.spotify.com/track/4jTrQuPAanb6BWxNNWq18K) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [No Hit](https://open.spotify.com/album/7tranZ7eNeYYWIfpJxEm4c) | 2:20 | 2022-05-27 | 2022-09-03 |

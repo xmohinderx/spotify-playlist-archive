@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 602497,
+  "num_followers": 602863,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMGY5ZjJkZDFkNzg1MzU2YzU2ZTVmNjA0MTlmYTc3YjY0",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDk4YjU1N2RjYjczYjIwMDJhY2I0ZGI4ZTk2YTI2MTFj",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Te Sigo Esperando",
-        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
-      },
-      "artists": [
-        {
-          "name": "Brenda K. Starr",
-          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Ironias",
         "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 291800,
       "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
       "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Te Sigo Esperando",
+        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
+      },
+      "artists": [
+        {
+          "name": "Brenda K. Starr",
+          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
     },
     {
       "added_at": "2022-08-31 06:45:44",

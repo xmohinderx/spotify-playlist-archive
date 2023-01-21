@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-293 songs - 17 hr 16 min
+294 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-25 | 2022-10-13 |
 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-10-07 |  |
 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3) | 4:19 | 2023-01-19 |  |
-| [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-19 |  |
+| [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-19 | 2023-01-21 |
+| [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-01-19 |  |
 | [Till Then](https://open.spotify.com/track/6cCdW3KSYyXf5RUMpYLRLI) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Daphne](https://open.spotify.com/album/6Cfk8r536eOg7neP6W3Pfl) | 3:16 | 2022-12-02 |  |
 | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP) | 3:33 | 2021-12-16 | 2022-06-17 |
 | [Told you so](https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Told you so](https://open.spotify.com/album/0NtlI4QSCeyq9S3LLLZVp1) | 4:49 | 2022-12-21 | 2023-01-16 |

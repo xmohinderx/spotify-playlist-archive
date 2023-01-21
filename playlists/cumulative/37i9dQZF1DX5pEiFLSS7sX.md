@@ -4,11 +4,11 @@
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-239 songs - 1 day 0 hr 3 min
+240 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 | 2020-09-04 |  |
+| [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 | 2020-09-04 | 2023-01-21 |
 | [Abba \(Arms Of A Father\)](https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 5:30 | 2020-09-04 |  |
 | [Abba \(Arms of a Father\)](https://open.spotify.com/track/35Siw3D3rzUoCMsEuij4rn) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Beautiful Surrender](https://open.spotify.com/album/5S4Pk1aR4I0cUqCoKXiwzY) | 5:30 | 2020-09-04 | 2022-07-29 |
 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 | 2020-09-04 |  |
@@ -30,6 +30,7 @@
 | [Behold \(Then Sings My Soul\)](https://open.spotify.com/track/67EUNdT0L9l4ViEsyOuZJT) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [let there be light.](https://open.spotify.com/album/7k584PqphiNvxfq4NO8RTX) | 6:46 | 2020-09-04 | 2022-07-03 |
 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 | 2020-09-04 |  |
 | [Brave New World \(Instrumental\)](https://open.spotify.com/track/2Ca3o4dhghbtJgrtgOzyw3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb) | 1:59 | 2020-09-04 | 2022-06-30 |
+| [Brave New World \- Instrumental](https://open.spotify.com/track/2bg7epYk9RK63b710n9sUA) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 1:59 | 2020-09-04 |  |
 | [Breakthrough \- Live](https://open.spotify.com/track/0ppNkk5xRNeIf3p6TsOGve) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(Be Still\) \[Live\]](https://open.spotify.com/album/2FVwTQ2fLK0BHDxieS1LNK) | 9:27 | 2020-09-04 | 2022-07-29 |
 | [Breakthrough \- Live](https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [spark\. \(Live\)](https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy) | 9:27 | 2020-09-04 |  |
 | [Breathe](https://open.spotify.com/track/3MjlBgYP8aY3YonZsCHvh0) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Breathe](https://open.spotify.com/album/3DkpwZUlMVcCVsWqeo3ttj) | 6:00 | 2020-09-04 | 2022-07-29 |

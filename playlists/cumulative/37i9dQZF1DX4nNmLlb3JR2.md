@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-168 songs - 6 hr 37 min
+169 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Just Dance](https://open.spotify.com/track/3Sh9C9k6uZcYK68u76gTA9) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI), [Cidus](https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH), [Emil Lonam](https://open.spotify.com/artist/0eJbpPFhB19EvgEmYBIwLG) | [Covers, Vol\. 18](https://open.spotify.com/album/6X5rlOkzgx4K9wO4RzAUEJ) | 2:54 | 2023-01-13 |  |
 | [Just the Way You Are](https://open.spotify.com/track/25YXuoEjxt8mPjilPh0oCu) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Just the Way You Are](https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo) | 2:48 | 2022-09-02 |  |
 | [Killing Me Softly](https://open.spotify.com/track/4kXpvrCczkZ11zHR9wFR88) | [ombinate](https://open.spotify.com/artist/6KuoBtG1drbXBIdkbloqEP) | [Killing Me Softly](https://open.spotify.com/album/3M0jCVqUviBEgWe1XyK3pE) | 2:24 | 2022-10-28 |  |
+| [Lean On](https://open.spotify.com/track/3Inh8C7kUU48Vs7lBOqsfY) | [Noudi](https://open.spotify.com/artist/1sJSBmpp5Iox07sKjKHEjJ) | [Lean On](https://open.spotify.com/album/0nKH1DuZNljg8juAp1pgJM) | 2:01 | 2023-01-20 |  |
 | [leave the door open](https://open.spotify.com/track/2bNqkCkkkFBQZYIW8WtjPq) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [leave the door open](https://open.spotify.com/album/7ndC4fkH7GALSEjwQXpJic) | 2:28 | 2022-11-11 |  |
 | [let her go](https://open.spotify.com/track/0UyJsekOmf7bePNLCU1LE1) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [let her go](https://open.spotify.com/album/7AArqzaszHfzpvJCDjr7eg) | 2:06 | 2022-12-02 |  |
 | [Let Her Go](https://open.spotify.com/track/1AEGSdFCige8XcJHyzzP0Z) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y) | [Let Her Go](https://open.spotify.com/album/7GcWIv4pQ0PsEBzmH3Ya6w) | 2:22 | 2023-01-06 |  |

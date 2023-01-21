@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 71303,
+  "num_followers": 71315,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUyODQwMCwwMDAwMDAwMDkzOTk0OGRjZDI4N2JjYTk2MGE3NzUzODQ0NmUyMjQ3",
+  "snapshot_id": "MTY3MzUyODQwMCwwMDAwMDAwMGVhN2E2OTFhNjczNmNmODM4NGYxMWI4NGMyMTA3NTdi",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "This City (Acoustic)",
-        "url": "https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "This City - Acoustic",
-      "url": "https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Running With The Wolves",
         "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "This City (Acoustic)",
+        "url": "https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "This City - Acoustic",
+      "url": "https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Tell Me What You Dream About",
-        "url": "https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 197184,
-      "name": "Tell Me What You Dream About",
-      "url": "https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "She Came Back with Rainbows",
         "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Tell Me What You Dream About",
+        "url": "https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 197184,
+      "name": "Tell Me What You Dream About",
+      "url": "https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Small Town Rituals",
-        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Disappearing Light",
-      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Small Town Rituals",
+        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Disappearing Light",
+      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Half Awake, Half Asleep",
-        "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
-      },
-      "artists": [
-        {
-          "name": "Terrible Sons",
-          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Tears Don\u2019t Fall",
-      "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Outside Kinda Kids",
         "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195299,
       "name": "Outside Kinda Kids",
       "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Half Awake, Half Asleep",
+        "url": "https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA"
+      },
+      "artists": [
+        {
+          "name": "Terrible Sons",
+          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Tears Don\u2019t Fall",
+      "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
     },
     {
       "added_at": "2023-01-12 13:00:00",

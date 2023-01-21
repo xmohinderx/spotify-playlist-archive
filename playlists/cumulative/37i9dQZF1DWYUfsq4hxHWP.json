@@ -15139,6 +15139,24 @@
     },
     {
       "album": {
+        "name": "Shortcut To Waco",
+        "url": "https://open.spotify.com/album/6epdq42NeRtfPormW8twzR"
+      },
+      "artists": [
+        {
+          "name": "Nate Fredrick",
+          "url": "https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Shortcut to Waco",
+      "url": "https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G"
+    },
+    {
+      "album": {
         "name": "Sidetracked",
         "url": "https://open.spotify.com/album/19gJgBC2mXo0VmiNGwqRqM"
       },

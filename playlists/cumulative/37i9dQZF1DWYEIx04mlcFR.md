@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Bratty, Nsqk y Méne en portada\. 🌊✨
+> la nueva ola de artistas con Greta Ela y Palmasur en portada\. 🌊✨
 
-261 songs - 13 hr 33 min
+264 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-01-13 |  |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-08-26 |  |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-09-28 |  |
+| [deja de estudiar](https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [deja de estudiar](https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI) | 2:37 | 2023-01-20 |  |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2022-02-04 | 2023-01-11 |
 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2022-05-16 | 2022-09-24 |
 | [Despejao](https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Despejao](https://open.spotify.com/album/6H4XoMzMjFlmLVprP5lGFb) | 2:46 | 2022-11-25 |  |
@@ -125,7 +126,7 @@
 | [Mi Cumbia](https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Cumbia](https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU) | 3:27 | 2022-09-09 |  |
 | [Miel](https://open.spotify.com/track/0qV9l6Ov5yG9LPsRv36m3n) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [AMORADESAMOR](https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E) | 2:04 | 2022-11-30 | 2023-01-11 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-01-28 | 2022-08-27 |
-| [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-13 |  |
+| [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-13 | 2023-01-21 |
 | [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 | 2022-08-19 |  |
 | [Milk](https://open.spotify.com/track/100SnCUiirUNKx24j5GPe2) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/7vpBsLWsTTL95qenZACghq) | 3:41 | 2022-07-18 | 2022-09-03 |
 | [Milk](https://open.spotify.com/track/6iqyYirdtDEyRddvYNLvLE) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/1GvXakoTv3Lwt318NAMoUz) | 3:41 | 2022-04-13 | 2022-07-29 |
@@ -146,8 +147,9 @@
 | [Natural](https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Natural](https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw) | 3:28 | 2022-07-18 | 2022-11-26 |
 | [Natural](https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Natural](https://open.spotify.com/album/7nXQgF6Zz1V1RHmCujmX7K) | 2:54 | 2022-07-01 | 2022-11-01 |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-02-11 | 2022-07-05 |
-| [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 | 2022-06-17 |  |
+| [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [Necesito un Break de Tanta Pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 | 2022-06-17 | 2023-01-21 |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 | 2022-05-20 |
+| [No era para tanto](https://open.spotify.com/track/62m3GKHn5Q6d7Qnt6RBcSk) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [No era para tanto](https://open.spotify.com/album/5YbzZLp4ooWjIbgefT7CnM) | 3:51 | 2023-01-20 |  |
 | [no me asusta \(me gusta\)](https://open.spotify.com/track/0QEj1wfXQ7UxQ9erHYZirm) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [no me asusta \(me gusta\)](https://open.spotify.com/album/48YRa8dcfCVgZ7psfWRZRm) | 2:37 | 2022-08-19 |  |
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 |  |
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-02-04 | 2022-07-12 |
@@ -193,7 +195,7 @@
 | [Relatividad](https://open.spotify.com/track/2zkpeuVLL6CrQjzRqc6GUR) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Relatividad](https://open.spotify.com/album/0q9gkCFI5cQYr8G4KSW8g4) | 4:27 | 2022-03-25 | 2022-06-25 |
 | [Respira](https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Respira](https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW) | 3:30 | 2021-12-10 | 2023-01-11 |
 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 | 2022-06-24 | 2023-01-14 |
-| [Sal Dulce](https://open.spotify.com/track/30iT8kFeJiOX3SFkXmf8Zi) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Sal Dulce](https://open.spotify.com/album/1WtgHitKYHxiCuwZbcuAkg) | 3:04 | 2022-07-04 |  |
+| [Sal Dulce](https://open.spotify.com/track/30iT8kFeJiOX3SFkXmf8Zi) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Sal Dulce](https://open.spotify.com/album/1WtgHitKYHxiCuwZbcuAkg) | 3:04 | 2022-07-04 | 2023-01-21 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-05-06 | 2023-01-11 |
 | [Sanalö](https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Sanalö](https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem) | 3:27 | 2022-07-11 |  |
 | [satisfacción](https://open.spotify.com/track/1eVlIs77JL0shfA3Itvy7P) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [satisfacción](https://open.spotify.com/album/3mWvzWktxFz86HpHDVXDJw) | 2:08 | 2022-09-30 |  |
@@ -234,6 +236,7 @@
 | [Todo Está Bien](https://open.spotify.com/track/38eAUn1uCsiFDVtcqleR0k) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Todo Está Bien](https://open.spotify.com/album/7kHy0i2Knq8XMqHDHH3lbf) | 2:50 | 2022-09-23 |  |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-13 | 2022-09-24 |
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2021-12-10 | 2022-03-05 |
+| [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 | 2023-01-20 |  |
 | [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 | 2022-08-05 | 2022-10-08 |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-07-13 |  |
 | [Tu Forma De Quererme](https://open.spotify.com/track/4KPv8BAVy45j07AbKr1U1F) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tu Forma De Quererme](https://open.spotify.com/album/6UyztmS4ZnqN8bEAQtW1yz) | 2:17 | 2022-10-14 |  |

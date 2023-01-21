@@ -4307,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "Pas De Soucis",
+        "url": "https://open.spotify.com/album/5mUbuyifZ9AykEdvXPcqtQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Wallentin",
+          "url": "https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139375,
+      "name": "Pas De Soucis",
+      "url": "https://open.spotify.com/track/5vNmFEcBUbdiM0gIP2rpyj"
+    },
+    {
+      "album": {
         "name": "The Air Within",
         "url": "https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf"
       },
@@ -5096,6 +5114,24 @@
       "duration_ms": 155750,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/28Vm9HwBIfy13ZPEffBFOF"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170606,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm"
     },
     {
       "album": {

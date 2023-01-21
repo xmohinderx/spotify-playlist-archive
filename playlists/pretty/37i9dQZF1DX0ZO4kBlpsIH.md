@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,086 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,395 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 73 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 |
 | 74 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 |
 
-Snapshot ID: `MTY3Mzk1NzIxMywwMDAwMDAwMGE3ZTg1ZDY4ODU5YWU5NTVlMGI5ODdmMDhkMzhkY2E1`
+Snapshot ID: `MTY3NDIwNzU2NCwwMDAwMDAwMDI3NmZkYzg1NmNkODhiOTIxN2ZlMWE3MGQyODA3Y2I2`

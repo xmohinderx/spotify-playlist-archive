@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Tiago PZK en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Nsqk en portada.
 
-80 songs - 4 hr 22 min
+81 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-25 |  |
 | [Chica del Verano](https://open.spotify.com/track/415SDloEFOgfjFMgMhEOIY) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Chica del Verano](https://open.spotify.com/album/2BIYUpu5FC2ajpBJqpCEX9) | 3:38 | 2022-04-25 |  |
 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 | 2022-04-25 |  |
+| [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 | 2023-01-20 |  |
 | [Cómo Te Olvido?](https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq) | 3:08 | 2022-04-25 |  |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-04-25 |  |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 |  |
@@ -58,7 +59,7 @@
 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 | 2022-04-25 |  |
 | [No Fui Capaz](https://open.spotify.com/track/1AVypZ5M1qJGeWQN5uoSfQ) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [No Fui Capaz](https://open.spotify.com/album/2CifF4Nqm1rpv6i3sNxFba) | 3:33 | 2022-04-25 | 2022-08-15 |
 | [No Fui Capaz](https://open.spotify.com/track/6BPh0b1180nZsN3C9LJ8PN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:33 | 2022-07-23 |  |
-| [No Inventes](https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU) | [Peps Milflores](https://open.spotify.com/artist/4L5GEUMr41snQ1eTlbLNwo), [Geovanni Leon](https://open.spotify.com/artist/0XvbQt3qMLLJw8jDES1x9D), [Jizz](https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab) | [Lealtad](https://open.spotify.com/album/5jwMSAfyCpV5sNkp7eXPnb) | 3:16 | 2022-04-25 |  |
+| [No Inventes](https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU) | [Peps Milflores](https://open.spotify.com/artist/4L5GEUMr41snQ1eTlbLNwo), [Geovanni Leon](https://open.spotify.com/artist/0XvbQt3qMLLJw8jDES1x9D), [Jizz](https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab) | [Lealtad](https://open.spotify.com/album/5jwMSAfyCpV5sNkp7eXPnb) | 3:16 | 2022-04-25 | 2023-01-21 |
 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 | 2022-04-25 |  |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
 | [Notificación](https://open.spotify.com/track/3LYn6oi29ACxuEFCKd0xBN) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1vyegcdMUHlSJrUNDYb07d) | 3:42 | 2022-07-23 | 2022-12-12 |

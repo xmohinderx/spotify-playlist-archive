@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: melatonin boy
 
-388 songs - 22 hr 1 min
+390 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 |  |
 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 | 2022-05-26 | 2022-07-29 |
 | [Be around \- Acoustic](https://open.spotify.com/track/2fff5HjVbc7NHGtlqQ0IGN) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around \(Acoustic\)](https://open.spotify.com/album/2sXqdHVpFyVRZwn8V68gnw) | 3:08 | 2022-05-26 | 2022-07-29 |
+| [BE WATER](https://open.spotify.com/track/6zasKzpAgR1vUq3wEKGdGE) | [FIESTER](https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj), [KAREN YEE](https://open.spotify.com/artist/1Db4mmVRyFoaytk7ZgYm9b) | [FULLNESS](https://open.spotify.com/album/0CW5rLz42bfAKXNs15e5gt) | 3:24 | 2023-01-19 |  |
 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 | 2022-08-11 | 2022-11-04 |
 | [Blue feather.](https://open.spotify.com/track/6q0MNv4aPZXih35MfDyJ3R) | [Katana](https://open.spotify.com/artist/4F2bVX4e5WsiK9Xa30blEh) | [Blue feather.](https://open.spotify.com/album/1J5NdOvkXvYoiwrxM6iuwv) | 4:04 | 2023-01-12 |  |
 | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/track/1rYE5DmMBfJd3TfXJw0cOI) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb), [Ashi](https://open.spotify.com/artist/78J4tTMn2yVUt7k9jwMzCz) | [Blue Moon Day \(feat\. Ashi\)](https://open.spotify.com/album/75lZIFMke0aE5SWjYOtziA) | 3:57 | 2022-05-26 | 2022-06-10 |
@@ -60,6 +61,7 @@
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 |  |
 | [don't say goodbye](https://open.spotify.com/track/4Nqe1ni0pivZHckLme9NNW) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [don't say goodbye](https://open.spotify.com/album/0YWF5JJsgAoxoRvhgSUjUg) | 3:07 | 2023-01-05 |  |
 | [don't want love if it's not you](https://open.spotify.com/track/1DLyIzunDJlxA7tvvs0XFH) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [don't want love if it's not you](https://open.spotify.com/album/1TglOeefn7JZLC1Q10Nc3D) | 4:08 | 2022-12-15 |  |
+| [Drowsy](https://open.spotify.com/track/4TuwJZQQlFJV70l84pp0CV) | [相庭](https://open.spotify.com/artist/3enBaZU25C9ybf9BqFExZa), [Alexis744](https://open.spotify.com/artist/1LG8vvLrAFtfp4qnMdlBCw) | [MK.](https://open.spotify.com/album/7H516CT67Pweq64mb0Goxv) | 3:46 | 2023-01-19 |  |
 | [Dumb and Slow](https://open.spotify.com/track/04l4XqKiMQs27hLsAclWhO) | [戴晉揚Mark Tai](https://open.spotify.com/artist/3itIlX6DhZHYXMjOAxYkvf) | [Dumb and Slow](https://open.spotify.com/album/0RkbSW2T7c9Ng1gngmrEgR) | 3:57 | 2022-05-26 | 2022-07-29 |
 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 | 2022-07-28 | 2022-11-04 |
 | [Edge Of Love](https://open.spotify.com/track/0PYEwggCSglDBIY42WOkcq) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Edge Of Love](https://open.spotify.com/album/0rMZvIIkOYpvMtpVtCBtGZ) | 3:47 | 2022-05-26 | 2022-07-29 |

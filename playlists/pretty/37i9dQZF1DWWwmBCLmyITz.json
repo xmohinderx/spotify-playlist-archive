@@ -1,15 +1,31 @@
 {
   "description": "Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency. (JTBC \ub4dc\ub77c\ub9c8 \ub300\ud589\uc0ac\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! \ubc30\uc6b0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc640 \ud074\ub9bd\uc2a4\ub97c \ud1b5\ud574 \ud655\uc778\ud574\ubcf4\uc138\uc694!)",
-  "num_followers": 82,
+  "num_followers": 690,
   "original_name": "\ub300\ud589\uc0ac(Agency)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ5ODEwMCwwMDAwMDAwMDRjMTA2YzRkMTYxZDcwN2UxNTA3MmZlYmYzNjljOTE3",
+  "snapshot_id": "MTY3NDIwNjE1NCwwMDAwMDAwMDY3ZDUzNjcyMDU3ZGUyMGZhOTQxZmNkZTdjNDFjMmI5",
   "tracks": [
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 1)",
         "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
@@ -25,23 +41,95 @@
       "url": "https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
       "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 1)",
-        "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
-          "name": "Johnny Stimson",
-          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 174759,
-      "name": "Don't Say - Instrumental",
-      "url": "https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9"
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 213704,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
@@ -57,7 +145,7 @@
       "url": "https://open.spotify.com/track/6ae0TVkpnFvn0dz4zIVlyd"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "NO ONE EVER REALLY DIES",
         "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
@@ -81,7 +169,7 @@
       "url": "https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN"
@@ -97,7 +185,7 @@
       "url": "https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
@@ -125,7 +213,7 @@
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
     },
     {
-      "added_at": "2023-01-12 04:35:00",
+      "added_at": "2023-01-20 09:15:54",
       "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa"
@@ -139,6 +227,38 @@
       "duration_ms": 203413,
       "name": "Batshit",
       "url": "https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Don't Say - Instrumental",
+      "url": "https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9"
+    },
+    {
+      "added_at": "2023-01-20 09:15:54",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Talk To Me - Instrumental",
+      "url": "https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj"
     }
   ],
   "unique_name": "\ub300\ud589\uc0ac(Agency)",

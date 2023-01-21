@@ -1,6 +1,6 @@
 {
   "description": "T-Rex entra na zona. ",
-  "num_followers": 156578,
+  "num_followers": 156622,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
@@ -339,17 +339,21 @@
     {
       "added_at": "2023-01-20 00:00:00",
       "album": {
-        "name": "LUMI",
+        "name": "LUMI ZOO",
         "url": "https://open.spotify.com/album/4RbIyOlxxdy5gJiREf8yd2"
       },
       "artists": [
         {
           "name": "Achero",
           "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        },
+        {
+          "name": "Zoo",
+          "url": "https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH"
         }
       ],
       "duration_ms": 187972,
-      "name": "LUMI",
+      "name": "LUMI ZOO",
       "url": "https://open.spotify.com/track/74lZ2yteCAFo7a5naosE3g"
     },
     {

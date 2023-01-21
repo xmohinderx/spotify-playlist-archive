@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 284884,
+  "num_followers": 284956,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjAxMSwwMDAwMDAwMDAxNTE5MjRmZTU5OThiY2ZmNTY3YWM0OTYxZmQ5Y2Qz",
+  "snapshot_id": "MTY3MzU4MjAxMSwwMDAwMDAwMDk0MjIyNGY5OTdmN2E3OTlhOWJlNGE4MjdjNzBmNzU4",
   "tracks": [
     {
       "added_at": "2023-01-13 03:53:31",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-01-13 03:53:31",
       "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
       "artists": [
         {
           "name": "Minist\u00e9rio Tua Palavra",
           "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
         }
       ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2023-01-13 03:53:31",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-01-13 03:53:31",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
       },
       "artists": [
         {
           "name": "Minist\u00e9rio Tua Palavra",
           "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
         }
       ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
       "added_at": "2023-01-13 03:53:31",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-01-13 03:53:31",
       "album": {
-        "name": "Tua Morada",
-        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Tua Morada",
-      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
-    },
-    {
-      "added_at": "2023-01-13 03:53:31",
-      "album": {
         "name": "O Sagrado Que H\u00e1 Aqui",
         "url": "https://open.spotify.com/album/3PL9nZBid3NIbcZPDpqTv4"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 238478,
       "name": "O Sagrado Que H\u00e1 Aqui",
       "url": "https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6"
+    },
+    {
+      "added_at": "2023-01-13 03:53:31",
+      "album": {
+        "name": "Tua Morada",
+        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
+      },
+      "artists": [
+        {
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Tua Morada",
+      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
     },
     {
       "added_at": "2023-01-13 03:53:31",

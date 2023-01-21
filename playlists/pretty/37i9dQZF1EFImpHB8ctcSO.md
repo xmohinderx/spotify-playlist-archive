@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 48 | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/track/4vm2JPCMQIc392b7DUnAPL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/album/7oMCBEiG0ewZaODeskssLR) | 3:39 |
 | 49 | [Guys Like Me](https://open.spotify.com/track/7evO1D5eyTcGc0AvsaHitz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:12 |
 | 50 | [Phoenix](https://open.spotify.com/track/3nci5qfpgQmf01JNKyMhtp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:56 |
-| 51 | [Going Through the Motions](https://open.spotify.com/track/3P6VrCeVPmqYL8R3nBdwFx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 2:57 |
-| 52 | [Winning the War](https://open.spotify.com/track/6i9TOevIr3XDVq2MMzbB6C) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:04 |
+| 51 | [Winning the War](https://open.spotify.com/track/6i9TOevIr3XDVq2MMzbB6C) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:04 |
+| 52 | [Going Through the Motions](https://open.spotify.com/track/3P6VrCeVPmqYL8R3nBdwFx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 2:57 |
 | 53 | [That's How I Knew This Story Would Break My Heart](https://open.spotify.com/track/5L8e2K92EuSyhif3QKQUtU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:19 |
 | 54 | [Amateur](https://open.spotify.com/track/0IsfUj7P0sMCCCa7yG2NPY) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:54 |
 | 55 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 121 | [Superball](https://open.spotify.com/track/4M8JGLfwnj1yozmi02tdvH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:05 |
 | 122 | [All Over Now](https://open.spotify.com/track/40dx7WB6BNF47h7YIEmJq2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:02 |
 | 123 | [No One Is Watching You Now](https://open.spotify.com/track/1ko1dRz3L0wj0AWqsoCbQ1) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:53 |
-| 124 | [You Don't Have the Room](https://open.spotify.com/track/5AXqkpZaDcwQYKx32jxkNB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:06 |
-| 125 | [Little Chameleon](https://open.spotify.com/track/3ZKsR5fjkWVXpju8DGROUW) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:44 |
+| 124 | [Little Chameleon](https://open.spotify.com/track/3ZKsR5fjkWVXpju8DGROUW) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:44 |
+| 125 | [You Don't Have the Room](https://open.spotify.com/track/5AXqkpZaDcwQYKx32jxkNB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:06 |
 | 126 | [Rip In Heaven](https://open.spotify.com/track/0BKslA1XqG8HBUKBl4d7EN) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:31 |
 | 127 | [At the Edge of the World](https://open.spotify.com/track/0EqurOMqYE3WWzjpGOJIi1) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Zach Gill](https://open.spotify.com/artist/5HMFK1o5Bl9qY10PgavMhT) | [Arctic Tale \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/1h2jAmHIod6LY6v8IJrpEX) | 2:53 |
 | 128 | [J For Jules](https://open.spotify.com/track/0J6nZDgEuwXtECq8Pukn1n) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:25 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Mjc5MDI5NDUsMDAwMDAwMDAzZGY0NTdjYzBjYjU0YmY4ZTM5OGFkOGUxZTZlMjE2ZQ==`
+Snapshot ID: `Mjc5MDQzODUsMDAwMDAwMDBkOWZkMjVkOWE1YzFlYjI0MDQ4NGI1ODE4YmQyMTQyNQ==`

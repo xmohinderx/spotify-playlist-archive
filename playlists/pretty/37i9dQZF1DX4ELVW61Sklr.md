@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,085 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,051 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 63 | [Might As Well Have Coal \(with Baby Tate\)](https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Home For The Holidays Vol\. 2](https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev) | 3:57 |
 | 64 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 4:35 |
 | 65 | [Merry Like This](https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Merry Like This](https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c) | 3:00 |
-| 66 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
-| 67 | [Winter Wonderland](https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Merry Christmas from Andra Day](https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT) | 3:14 |
+| 66 | [Winter Wonderland](https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Merry Christmas from Andra Day](https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT) | 3:14 |
+| 67 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
 | 68 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
 | 69 | [Give Love On Christmas Day](https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy) | 4:09 |
 | 70 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 75 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMDg4ODA4NTE2ODNiYWI1MjRkNTZmNzEwNGRjNDU2MWFh`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGVmNTZlYWI3NDNiOWFjYjY4OTM4Y2JiNjljYWJmNzk4`

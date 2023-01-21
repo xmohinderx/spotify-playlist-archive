@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1209205,
+  "num_followers": 1209518,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMGI3ZTE0ZmUwZGYyNmI1OTcxZGVjMDAxY2U2YmE3ZjBl",
+  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMDNkZDNiNWFlNWQzZjI2MmIxN2E4ZGJlMzczNTkzN2Rl",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Songs From Dawson's Creek, Vol. II",
-        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
       "artists": [
         {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+        "name": "Songs From Dawson's Creek, Vol. II",
+        "url": "https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+      "duration_ms": 241840,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Duncan Sheik",
-        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
-      },
-      "artists": [
-        {
-          "name": "Duncan Sheik",
-          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Barely Breathing",
-      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
+        "name": "Duncan Sheik",
+        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
       },
       "artists": [
         {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
         }
       ],
-      "duration_ms": 279813,
-      "name": "Secret Smile",
-      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
+      "duration_ms": 254546,
+      "name": "Barely Breathing",
+      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1287,6 +1271,22 @@
       "duration_ms": 217466,
       "name": "Someday We'll Know",
       "url": "https://open.spotify.com/track/5X0zqWSaSnulsbf74CrljV"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Feeling Strangely Fine (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 279813,
+      "name": "Secret Smile",
+      "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 189293,
       "name": "Right Here Right Now",
       "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "The Best Of Sugar Ray",
-        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Someday - Remastered",
-      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "The Best Of Sugar Ray",
+        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Someday - Remastered",
+      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
     },
     {
       "added_at": "2023-01-18 21:25:04",

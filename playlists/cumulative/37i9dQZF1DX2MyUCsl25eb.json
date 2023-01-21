@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "A Letter To Everyone Who's Hurt Me",
+        "url": "https://open.spotify.com/album/7bJgNbxck1IXbT243gl8mz"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "A Letter To Everyone Who's Hurt Me",
+      "url": "https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI"
+    },
+    {
+      "album": {
         "name": "a little sound",
         "url": "https://open.spotify.com/album/3xkaAltfAJQBjHlsP84QUf"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 214753,
       "name": "All Her Favorite Songs (with Little Stranger)",
       "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
@@ -1468,6 +1486,24 @@
       "duration_ms": 138000,
       "name": "Cauliflower",
       "url": "https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa"
+    },
+    {
+      "album": {
+        "name": "Corner Of The Sky",
+        "url": "https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Centre of The Universe",
+      "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
     },
     {
       "album": {
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 173933,
       "name": "get over you",
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
@@ -4533,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "it's not me (it's u)",
+        "url": "https://open.spotify.com/album/0HjYqaRHjEG0SioDj6W0hx"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220046,
+      "name": "it's not me (it's u)",
+      "url": "https://open.spotify.com/track/0X6onE002e0PuXSdVZmlDF"
+    },
+    {
+      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo"
       },
@@ -5723,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/6KA9lwr59rUbozIGETLR1a"
+      },
+      "artists": [
+        {
+          "name": "Matt Wertz",
+          "url": "https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241658,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/6ya5t4IUDVhMf4gKsFsWlS"
+    },
+    {
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
@@ -6305,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "Personal Song",
+        "url": "https://open.spotify.com/album/2Rj5UFmikkjNrduFVvYq7z"
+      },
+      "artists": [
+        {
+          "name": "KAYAM",
+          "url": "https://open.spotify.com/artist/0Ei023SskGVjbZaGLMYQ9W"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328328,
+      "name": "Personal Song",
+      "url": "https://open.spotify.com/track/1xqNkstcBAKALh5lKazyAr"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -6450,7 +6540,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 188000,
       "name": "Puppet On Your String",
       "url": "https://open.spotify.com/track/0OAw1Ls0JbFvmTIxEBZSYl"
@@ -6670,7 +6760,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
@@ -6688,7 +6778,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
@@ -6840,7 +6930,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
@@ -6894,7 +6984,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211886,
       "name": "Running from the Dawn",
       "url": "https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4"

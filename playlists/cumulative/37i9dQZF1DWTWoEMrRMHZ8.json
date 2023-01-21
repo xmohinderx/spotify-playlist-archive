@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Toquinho",
+  "description": "As belas novidades da MPB. Foto: Adriana Calcanhotto",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 238293,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/1RXXpNJcULM9cmuZwl4DPn"
@@ -2942,6 +2942,24 @@
       "duration_ms": 178625,
       "name": "hey mulher",
       "url": "https://open.spotify.com/track/3uSO6Qukq7RGO8fyR8KdxR"
+    },
+    {
+      "album": {
+        "name": "Hor\u00e1rio de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4vuhEACTlSTCxAp3JGLvxA"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188550,
+      "name": "Hor\u00e1rio de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/3BVlkbrZbKCpO05fivSBVB"
     },
     {
       "album": {

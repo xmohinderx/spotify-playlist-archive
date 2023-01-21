@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,065 likes - 116 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,130 likes - 116 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,32 +27,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 17 | [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 |
 | 18 | [Convergence](https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Convergence](https://open.spotify.com/album/1095m41z6UPcurOL35ybPa) | 3:14 |
 | 19 | [Lavernautica](https://open.spotify.com/track/7nVQFrpXnlY1ol6bTzK8sy) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Lavernautica](https://open.spotify.com/album/3XcLCdpgMEIpF1Qoa533z1) | 3:07 |
-| 20 | [Sinilluarit](https://open.spotify.com/track/3g0xCFy4hQ4MDoe0KfLVud) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Sinilluarit](https://open.spotify.com/album/5TZx3UPmzvKH7BAAkpnGyQ) | 3:10 |
-| 21 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
-| 22 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 |
-| 23 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 |
-| 24 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 |
-| 25 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 |
-| 26 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 |
-| 27 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 |
-| 28 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 |
-| 29 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
-| 30 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 |
-| 31 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
-| 32 | [Motions 432 Hz](https://open.spotify.com/track/2y5ukbzq7muEOsdexH55NI) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Motions 432 Hz](https://open.spotify.com/album/71h19HzaS1j93aVO7ygUAx) | 2:47 |
-| 33 | [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 |
-| 34 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
-| 35 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 |
-| 36 | [Indirectly](https://open.spotify.com/track/68bxCGlDAMm5ZfxCcH8LKO) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Indirectly](https://open.spotify.com/album/0wcE5AoDhShhJMdftUd2oh) | 2:56 |
-| 37 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 |
-| 38 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 |
-| 39 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 |
-| 40 | [Solstice](https://open.spotify.com/track/0vmvGiT3fPHCDRstVouKEM) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Solstice](https://open.spotify.com/album/5CCePjikb6I6jb7GAaUytr) | 3:10 |
-| 41 | [Sleepy Journey](https://open.spotify.com/track/71vtoj6WDKmcRJOE4F036w) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Journey](https://open.spotify.com/album/4bC20baAmTJVp6KLYsIkz3) | 3:33 |
-| 42 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 |
-| 43 | [Soul Of Light](https://open.spotify.com/track/4tw8SLHzUKnY7rcG5keXxQ) | [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Far Beyond](https://open.spotify.com/album/5H0dON6aSS7BEUsfxRxQZD) | 4:09 |
-| 44 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 |
-| 45 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 |
+| 20 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
+| 21 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 |
+| 22 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 |
+| 23 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 |
+| 24 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 |
+| 25 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 |
+| 26 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 |
+| 27 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 |
+| 28 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
+| 29 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 |
+| 30 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
+| 31 | [Motions 432 Hz](https://open.spotify.com/track/2y5ukbzq7muEOsdexH55NI) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Motions 432 Hz](https://open.spotify.com/album/71h19HzaS1j93aVO7ygUAx) | 2:47 |
+| 32 | [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 |
+| 33 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
+| 34 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 |
+| 35 | [Indirectly](https://open.spotify.com/track/68bxCGlDAMm5ZfxCcH8LKO) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Indirectly](https://open.spotify.com/album/0wcE5AoDhShhJMdftUd2oh) | 2:56 |
+| 36 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 |
+| 37 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 |
+| 38 | [Symmetry](https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Liquid Air](https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW) | 3:00 |
+| 39 | [Solstice](https://open.spotify.com/track/0vmvGiT3fPHCDRstVouKEM) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Solstice](https://open.spotify.com/album/5CCePjikb6I6jb7GAaUytr) | 3:10 |
+| 40 | [Sleepy Journey](https://open.spotify.com/track/71vtoj6WDKmcRJOE4F036w) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Journey](https://open.spotify.com/album/4bC20baAmTJVp6KLYsIkz3) | 3:33 |
+| 41 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 |
+| 42 | [Soul Of Light](https://open.spotify.com/track/4tw8SLHzUKnY7rcG5keXxQ) | [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Far Beyond](https://open.spotify.com/album/5H0dON6aSS7BEUsfxRxQZD) | 4:09 |
+| 43 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 |
+| 44 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 |
+| 45 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 |
 | 46 | [Beehive Casemate](https://open.spotify.com/track/5dhqtdFkbImE42rg0gbpIk) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [The Last Blasphemer](https://open.spotify.com/album/5GI1apL7BDOOImPVnLcltO) | 3:24 |
 | 47 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 |
 | 48 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 115 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 116 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 |
 
-Snapshot ID: `MTY3MzYyODEyOSwwMDAwMDAwMGQ5MzZjZDEzYjZjY2FhODVlMTFiOTlkYzc2MmUxZjg1`
+Snapshot ID: `MTY3NDIyODgzMSwwMDAwMDAwMDE4Y2ZlZTg0YmVmNjA5MzI0MjZkY2NhMmM2ZTAzN2M3`

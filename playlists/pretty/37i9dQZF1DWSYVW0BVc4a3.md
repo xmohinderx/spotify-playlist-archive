@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> The home of rave worthy melodic techno and house\. Cover: Dom Dolla
+> The home of rave worthy melodic techno and house\. Cover: ATRIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,288 likes - 191 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,578 likes - 191 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 190 | [Tuvan \- AVIRA Remix](https://open.spotify.com/track/1hUPXOdBeK16TJLTn3G3OK) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Tuvan \(AVIRA Remix\)](https://open.spotify.com/album/22KBPlolCAczwX0pWVAVsx) | 3:24 |
 | 191 | [Going in Circles](https://open.spotify.com/track/1Qs5NlNCYCFndmydOy8CXw) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Watergate 20 Years \(Pt\. 7/8\)](https://open.spotify.com/album/3PHKzKiRwzgFoGdbbdLsET) | 6:33 |
 
-Snapshot ID: `MTY3NDE2OTI2MCwwMDAwMDAwMDc0YzFjZDVkMTA2ZDY4ODc1ODU2MjgyOGM5MTczMTZi`
+Snapshot ID: `MTY3NDIwNjc1NCwwMDAwMDAwMDU5OGY2ZmM3ZGRjZDY5YzQ2NmFlMDYzYTYyZGRiNjU1`

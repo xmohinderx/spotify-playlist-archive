@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior H
 
-218 songs - 11 hr 35 min
+220 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Consentida \(Feat\. Kat Dahlia\)](https://open.spotify.com/track/0zfARgJv86XwO9sjrDs4uq) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Consentida \(Kat Dahlia Duet\)](https://open.spotify.com/album/4KgFDZMY6jSFHZVDEq7CTf) | 4:11 | 2022-02-11 | 2022-09-07 |
 | [Contactos \- TDH´s Version](https://open.spotify.com/track/3jeQKFldhSg69JDdXeQfFP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Contactos \(TDH´s Version\)](https://open.spotify.com/album/3aJX9ZyNMFr5CZfIZROpaq) | 5:06 | 2022-02-11 | 2022-05-20 |
 | [Corre](https://open.spotify.com/track/1guHjbt0T9U3p7JfW91ISA) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Corre](https://open.spotify.com/album/3zKO6vZTet1vKtoZDXM1Io) | 2:53 | 2022-09-06 | 2022-12-07 |
+| [CUANDO HACEMOS EL AMOR](https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:34 | 2023-01-20 |  |
 | [CUERPITO DE PRIMAVERA](https://open.spotify.com/track/2KR5Sp8A4ZdRdQcdeo6G68) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 2:37 | 2022-09-06 | 2022-12-25 |
 | [CUÁNTO](https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [CUÁNTO](https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm) | 2:52 | 2022-09-06 |  |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-11 |  |
@@ -99,6 +100,7 @@
 | [Hogar Dulce Hogar](https://open.spotify.com/track/0me56IqY03ejWN4xnut2bB) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Hogar Dulce Hogar](https://open.spotify.com/album/4bjp0JkwmbXwmm6D7Ciasm) | 3:19 | 2022-02-11 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Honey](https://open.spotify.com/album/033OksAEhQNLvkJojYuNtL) | 3:06 | 2022-05-06 | 2022-05-20 |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2022-02-11 | 2022-05-20 |
+| [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 | 2023-01-20 |  |
 | [IDGAD](https://open.spotify.com/track/2FF5m9pWgpneewxKLgZ2FY) | [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE) | [IDGAD](https://open.spotify.com/album/45bUiQcITvNn9eYgqzM5CE) | 2:46 | 2022-02-11 | 2022-07-28 |
 | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr) | 2:53 | 2022-02-11 | 2022-09-07 |
 | [interested](https://open.spotify.com/track/1Ubu0Ux7X3QpsMUYIt3HFT) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/5KNHwv9svU4LlNBNBinxda) | 3:13 | 2022-02-11 | 2022-03-05 |
@@ -216,7 +218,7 @@
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-09-06 |  |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2022-02-11 | 2022-09-07 |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-02-11 | 2022-05-20 |
-| [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-06 |  |
+| [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-06 | 2023-01-21 |
 | [Ven](https://open.spotify.com/track/6VUNbNPWB7o9pL2NYD2wOb) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 3:55 | 2022-03-04 | 2022-08-12 |
 | [Wanderer](https://open.spotify.com/track/06j0L8E6kmjo7YaOK8eboR) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Wanderer](https://open.spotify.com/album/2fGctLF2AcyblPYN8pvo5o) | 3:20 | 2022-02-11 | 2022-07-29 |
 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 | 2022-09-13 |  |
@@ -225,6 +227,6 @@
 | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/track/71E5TGusp7CNoO3hkjiIUx) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [ZIGZAG \(feat\. Alice Wonder\)](https://open.spotify.com/album/0GvWRr1JW2cuHUwApYoJIn) | 3:15 | 2022-09-06 |  |
 | [Ámate](https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ámate](https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3) | 3:09 | 2022-02-11 | 2022-09-07 |
 | [Única](https://open.spotify.com/track/4dUd1p3ipkV5rNoCjPeu75) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [De Uno a Otro](https://open.spotify.com/album/09MaOaqsHgjjUO6bJOL2Ms) | 2:17 | 2022-02-11 |  |
-| [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 | 2022-09-06 |  |
+| [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 | 2022-09-06 | 2023-01-21 |
 
 \*This playlist was first scraped on 2022-02-24. Prior content cannot be recovered.

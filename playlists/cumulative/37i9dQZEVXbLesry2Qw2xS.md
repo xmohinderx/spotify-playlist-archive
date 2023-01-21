@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,182 songs - 2 day 15 hr 31 min
+1,183 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Mazzaleen](https://open.spotify.com/track/6PQu0Z6jxOIKzAorA66ma2) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Mazzaleen](https://open.spotify.com/album/2am2JEnLQQYKdJfnvV9idp) | 2:55 | 2021-11-06 | 2021-11-07 |
 | [McDrive](https://open.spotify.com/track/1Vg05RcJXG7IbxuGq6uxbz) | [Arco](https://open.spotify.com/artist/0t0tSjs6oIwa3CvcMPLRLU), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [McDrive](https://open.spotify.com/album/2SFgOozjNMcyCGGWVwzV5X) | 2:56 | 2022-05-23 | 2022-05-25 |
 | [McDrive \(feat\. Mose\)](https://open.spotify.com/track/4uUCh8EsDxL6u83aZaZvEi) | [Arco](https://open.spotify.com/artist/0t0tSjs6oIwa3CvcMPLRLU) | [McDrive \(feat\. Mose\)](https://open.spotify.com/album/3IhZ6IiXn3nootbebt9rT7) | 2:56 | 2022-05-18 | 2022-05-21 |
+| [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2023-01-20 |  |
 | [Meeletu](https://open.spotify.com/track/70JCZKuklFxIO35GNZCZbj) | [Maian](https://open.spotify.com/artist/14F4wy1bW1Buz1lD8I5YWE) | [Meeletu](https://open.spotify.com/album/7hVynKWViCPSFRLBzOVK8f) | 2:49 | 2021-11-23 | 2022-02-21 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-13 | 2021-11-30 |
 | [Mein Herz brennt](https://open.spotify.com/track/5ArNGisLzrNOIVwWajRRdt) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:39 | 2022-07-21 | 2022-07-24 |
@@ -1059,7 +1060,7 @@
 | [v6sa](https://open.spotify.com/track/5gwPYQkqblAxIQA8VK8ZF6) | [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i) | [v6sa](https://open.spotify.com/album/1jmUGMaBs8xitfW6BTVoiM) | 2:46 | 2022-06-23 | 2022-11-18 |
 | [Vaata mind](https://open.spotify.com/track/3WSIfLBlsSZ5Bq6begUsb2) | [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Vaata mind](https://open.spotify.com/album/4ziDAGzHEGSqX3ijiyyIEC) | 3:30 | 2022-10-15 | 2022-10-17 |
 | [Vaikus](https://open.spotify.com/track/7jWwkaV9aHN6Nm4KDsE8EM) | [Kaia\-Liisa Kesler](https://open.spotify.com/artist/1xc92c686KGvnde4VRPF9S) | [Vaikus](https://open.spotify.com/album/1Jgs7pVu6MSZdAfIpl1Wqu) | 2:54 | 2022-02-05 | 2022-02-07 |
-| [Valik](https://open.spotify.com/track/44vGp19um3bF9UI8C3wSBH) | [kaw](https://open.spotify.com/artist/6weRqL7wRIEdJgNXvBXqGe) | [Valik](https://open.spotify.com/album/2A52lXyX2jHWqMw2Gd3ISm) | 2:46 | 2023-01-15 |  |
+| [Valik](https://open.spotify.com/track/44vGp19um3bF9UI8C3wSBH) | [kaw](https://open.spotify.com/artist/6weRqL7wRIEdJgNXvBXqGe) | [Valik](https://open.spotify.com/album/2A52lXyX2jHWqMw2Gd3ISm) | 2:46 | 2023-01-15 | 2023-01-21 |
 | [Valikud \(feat\. An\-Marlen\)](https://open.spotify.com/track/4yU0tY2zj2RgpxPuBKinMR) | [Andrei Zevakin](https://open.spotify.com/artist/2ZbuL9QHBvRoB61NSaI35E), [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx) | [Valikud \(feat\. An\-Marlen\)](https://open.spotify.com/album/3EhVZUjPq4kjhhTDwRTMlW) | 2:44 | 2022-10-01 | 2022-10-09 |
 | [vamos](https://open.spotify.com/track/2XNRbWeHolZn9SqAUnxeO4) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an) | [vamos](https://open.spotify.com/album/07KLpAji6G2kovteS0hhIG) | 3:18 | 2022-06-18 | 2023-01-13 |
 | [vanad vigurid](https://open.spotify.com/track/08QpVniPh4znA2EwR90RvU) | [Villemdrillem](https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy) | [vanad vigurid](https://open.spotify.com/album/0nlPVlhymW1H39za9ssWvk) | 3:05 | 2022-01-29 | 2022-02-17 |

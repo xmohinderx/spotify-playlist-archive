@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 253338,
+  "num_followers": 253932,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA2MzY5MiwwMDAwMDAwMGM0OTBlZTQ2MmZmNDM4YjY4MTlhZTAzMWVlNDI1OWJm",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDQ0ZTU0MjA4ZGZmNWIyNTM3MWZjZDNjN2JlYWM1ZGY5",
   "tracks": [
     {
       "added_at": "2022-10-21 23:40:01",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Public Displays of Affection",
+        "url": "https://open.spotify.com/album/1WaRQUZdZNe5BYyOxLFenk"
+      },
+      "artists": [
+        {
+          "name": "Leanna Firestone",
+          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
+        }
+      ],
+      "duration_ms": 175664,
+      "name": "Love of my Life",
+      "url": "https://open.spotify.com/track/1NqfSrgNQxrsSVjza5vO9a"
+    },
+    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "Far",
@@ -55,22 +71,6 @@
       "duration_ms": 195840,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0"
-    },
-    {
-      "added_at": "2023-01-18 17:41:32",
-      "album": {
-        "name": "All of Human Knowledge Made Us Dumb",
-        "url": "https://open.spotify.com/album/6OQQQqvJwL9IV5EVnKNW4J"
-      },
-      "artists": [
-        {
-          "name": "Sofia Isella",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 229689,
-      "name": "All of Human Knowledge Made Us Dumb",
-      "url": "https://open.spotify.com/track/6XRxmPhfjoa3YEtpq8CWJo"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -105,20 +105,20 @@
       "url": "https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8"
     },
     {
-      "added_at": "2022-10-21 23:40:01",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Yes, Virginia",
-        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
+        "name": "Us and Pigs",
+        "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
       },
       "artists": [
         {
-          "name": "The Dresden Dolls",
-          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
+          "name": "Sofia Isella",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
         }
       ],
-      "duration_ms": 167680,
-      "name": "My Alcoholic Friends",
-      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
+      "duration_ms": 174118,
+      "name": "Us and Pigs",
+      "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "Life Letters",
-        "url": "https://open.spotify.com/album/2f5voeeirzSQBRR4ovCNnD"
+        "name": "Yes, Virginia",
+        "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
       },
       "artists": [
         {
-          "name": "Never Get Used To People",
-          "url": "https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ"
+          "name": "The Dresden Dolls",
+          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
         }
       ],
-      "duration_ms": 148040,
-      "name": "Life Letters",
-      "url": "https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS"
+      "duration_ms": 167680,
+      "name": "My Alcoholic Friends",
+      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
     },
     {
       "added_at": "2023-01-18 16:10:21",
@@ -215,6 +215,22 @@
       "duration_ms": 185176,
       "name": "I Hear a Symphony",
       "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "feral canadian scaredy cat",
+        "url": "https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 184274,
+      "name": "feral canadian scaredy cat",
+      "url": "https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -532,7 +548,7 @@
       "added_at": "2022-11-16 00:14:07",
       "album": {
         "name": "LOVE",
-        "url": "https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4"
+        "url": "https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht"
       },
       "artists": [
         {
@@ -542,7 +558,7 @@
       ],
       "duration_ms": 172366,
       "name": "LOVE",
-      "url": "https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6"
+      "url": "https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -607,22 +623,6 @@
       "duration_ms": 165320,
       "name": "Numb Little Bug - Piano Version",
       "url": "https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu"
-    },
-    {
-      "added_at": "2023-01-06 13:38:00",
-      "album": {
-        "name": "Hello Florence, How Are You?",
-        "url": "https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc"
-      },
-      "artists": [
-        {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Hello Florence, How Are You?",
-      "url": "https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -851,22 +851,6 @@
       "duration_ms": 174843,
       "name": "Nowheresville",
       "url": "https://open.spotify.com/track/7xcpq3onzGXIeptQwkWgjD"
-    },
-    {
-      "added_at": "2023-01-06 13:38:00",
-      "album": {
-        "name": "anymore",
-        "url": "https://open.spotify.com/album/3nRGHSO0Oq5cdrzlzPGQD9"
-      },
-      "artists": [
-        {
-          "name": "Abby Izzy",
-          "url": "https://open.spotify.com/artist/5VIF6Dh11VwoMYHmR7KA38"
-        }
-      ],
-      "duration_ms": 152044,
-      "name": "anymore",
-      "url": "https://open.spotify.com/track/3jf8u2tg0RXdBfgVwA4zoB"
     }
   ],
   "unique_name": "Limelight",

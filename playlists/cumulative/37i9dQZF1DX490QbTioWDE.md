@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-289 songs - 19 hr 5 min
+291 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 | 2021-12-24 |  |
 | [Amor Secreto](https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [Amor Secreto](https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2) | 3:04 | 2021-12-24 |  |
 | [Amor secreto](https://open.spotify.com/track/2weCRoOw9dVUiTQI9gUjVx) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Toro Quevado](https://open.spotify.com/artist/6q0xSaNIE7hMPT1rc6CPzO) | [Homenaje \(Los Amigos del Mismo Palo\)](https://open.spotify.com/album/09LIOeWRW3Hh5y6RrhNM7q) | 5:20 | 2021-12-24 | 2022-07-28 |
+| [Aqui No Es](https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Aqui No Es](https://open.spotify.com/album/39ONwIdsefek7bPlFV75an) | 3:08 | 2023-01-20 |  |
 | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/track/3Khcr6j3UJ4fktFHhUc3SA) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Arrasando / Soy Lo Que Me Das](https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU) | 3:22 | 2022-03-25 | 2022-06-21 |
 | [Atrevida \- En Vivo](https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Atrevida](https://open.spotify.com/album/3Cmyeu1yxpExTUpPn8bDHq) | 4:16 | 2021-12-24 | 2022-07-23 |
 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 | 2021-12-24 | 2023-01-18 |
@@ -96,7 +97,7 @@
 | [Fuera del Mundo](https://open.spotify.com/track/3oNx2PDf86Pibc0mS1nwKQ) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Fuera del Mundo](https://open.spotify.com/album/1YWlaT2eIQctble1SrmdrU) | 3:31 | 2021-12-24 | 2022-07-04 |
 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 | 2021-12-24 |  |
 | [Gracias por Todo](https://open.spotify.com/track/3vZNBLqQQ3FK6gwZXsaQsI) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Gracias por Todo](https://open.spotify.com/album/7bGURqaTiFKXpgO7eQt4fX) | 3:18 | 2022-08-12 | 2022-08-27 |
-| [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 |  |
+| [Hola Bebe](https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Hola Bebe](https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4) | 3:24 | 2023-01-13 | 2023-01-21 |
 | [Hoy Te Vas](https://open.spotify.com/track/5fDX6H3NBKVRMHiA60PjtC) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Hoy Te Vas](https://open.spotify.com/album/6YFtUyBR2HfdjR5HqxDrXB) | 3:28 | 2022-04-22 | 2022-06-21 |
 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 | 2021-12-24 |  |
 | [Intento](https://open.spotify.com/track/3JbDQzoT18a9NUIfrsZULv) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Intento](https://open.spotify.com/album/5XjBOezcztKwFjVGYcbX1G) | 3:49 | 2021-12-24 | 2022-07-28 |
@@ -137,7 +138,7 @@
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
 | [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 |  |
 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 |  |
-| [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 |  |
+| [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 | 2023-01-21 |
 | [Mañana Sin Vos](https://open.spotify.com/track/4QfmLUhVYZgykeLHBYLbVf) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/2p0R3kADOsiFUc8gsTlmmq) | 3:07 | 2022-01-10 | 2022-07-15 |
 | [Me Dicen Borracho](https://open.spotify.com/track/5DZlKZkHLdm9tyhyMgpaZV) | [Algarabía](https://open.spotify.com/artist/64aQuroWfgnTEBQwcyjScT) | [Me Dicen Borracho](https://open.spotify.com/album/0i9WLDhwhlNA2O8uwgKQqx) | 2:35 | 2022-07-22 | 2022-08-06 |
 | [Me Duele Tu Nombre](https://open.spotify.com/track/1T0MhnxdYXhNeNWdN11URG) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre](https://open.spotify.com/album/3i1wmxwFGxr7pbexPueBB2) | 4:56 | 2021-12-24 | 2022-07-29 |
@@ -160,6 +161,7 @@
 | [Mira](https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mira](https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k) | 3:48 | 2022-05-20 | 2022-07-29 |
 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 | 2022-10-28 |  |
 | [Mujer malvada](https://open.spotify.com/track/121yzW3a3gcgOfiJ0SXX8p) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [100% Cuarteto Cordobes](https://open.spotify.com/album/3hc1GY13mjjZFgMYUAH0TW) | 4:00 | 2022-03-25 | 2022-04-21 |
+| [Mujeriego](https://open.spotify.com/track/2vPg7rh3zgQ587xjODXF4S) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Mujeriego](https://open.spotify.com/album/6Y9bY68cLZTtx9wE6qpmE0) | 3:32 | 2023-01-20 |  |
 | [Mujeriego](https://open.spotify.com/track/5zP7ijJJYdq7aMyZBy9HK5) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Mujeriego](https://open.spotify.com/album/46nz8Ed88HH93oOWdSf8TZ) | 2:10 | 2022-08-05 | 2022-08-13 |
 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 | 2021-12-24 |  |
 | [Más Que Amigos](https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Más Que Amigos](https://open.spotify.com/album/3Vy7X6iHw45fFwqdJGTEW7) | 3:21 | 2021-12-24 | 2022-08-06 |

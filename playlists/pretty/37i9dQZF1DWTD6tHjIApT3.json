@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u5e7e\u7530\u308a\u3089",
-  "num_followers": 90273,
+  "num_followers": 90367,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0MDQwMCwwMDAwMDAwMDY0NzdkYWU2Y2NjNThmOGFkZjA3NjAzODM5YjUyZDlm",
+  "snapshot_id": "MTY3NDE0MDQwMCwwMDAwMDAwMGEzMjBmMGFkNzdkYzhhMTM3ZDI1YmZkNjUxM2Q2NGZi",
   "tracks": [
     {
       "added_at": "2023-01-19 15:00:00",
@@ -147,18 +147,26 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+      "duration_ms": 188060,
+      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -211,26 +219,18 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
-        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        },
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 188060,
-      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
-      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "TOKYO 4AM",
-        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 201295,
-      "name": "TOKYO 4AM",
-      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
-    },
-    {
-      "added_at": "2023-01-19 15:00:00",
-      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD"
       },
@@ -1195,8 +1179,24 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "\u7518\u3044\u5922",
-        "url": "https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii"
+        "name": "TOKYO 4AM",
+        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 201295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
+    },
+    {
+      "added_at": "2023-01-19 15:00:00",
+      "album": {
+        "name": "Amai Yume ~Sweet Dreams~",
+        "url": "https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp"
       },
       "artists": [
         {
@@ -1205,8 +1205,8 @@
         }
       ],
       "duration_ms": 270873,
-      "name": "\u7518\u3044\u5922",
-      "url": "https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE"
+      "name": "Amai Yume ~Sweet Dreams~",
+      "url": "https://open.spotify.com/track/29k925te93jCuDE5xj0xIV"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2023-01-19 15:00:00",
-      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 169786,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo"
+    },
+    {
+      "added_at": "2023-01-19 15:00:00",
+      "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Don!!",
-      "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
-    },
-    {
-      "added_at": "2023-01-19 15:00:00",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 228013,
       "name": "\u9752\u85cd\u904a\u6cf3",
       "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
+    },
+    {
+      "added_at": "2023-01-19 15:00:00",
+      "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Don!!",
+      "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 220098,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+    },
+    {
+      "added_at": "2023-01-19 15:00:00",
+      "album": {
         "name": "\u96e8\u6a21\u69d8",
         "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+        "name": "\u6ce3\u304d\u7b11\u3044\u611b",
+        "url": "https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
         }
       ],
-      "duration_ms": 220098,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+      "duration_ms": 171780,
+      "name": "\u6ce3\u304d\u7b11\u3044\u611b",
+      "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-01-19 15:00:00",
-      "album": {
-        "name": "\u6ce3\u304d\u7b11\u3044\u611b",
-        "url": "https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB"
-      },
-      "artists": [
-        {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
-        }
-      ],
-      "duration_ms": 171780,
-      "name": "\u6ce3\u304d\u7b11\u3044\u611b",
-      "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
     },
     {
       "added_at": "2023-01-19 15:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "heart notes",
-        "url": "https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv"
       },
       "artists": [
         {
-          "name": "\u9234\u6728\u611b\u7406",
-          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
         }
       ],
-      "duration_ms": 257206,
-      "name": "heart notes",
-      "url": "https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0"
+      "duration_ms": 184900,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz"
     },
     {
       "added_at": "2023-01-19 15:00:00",

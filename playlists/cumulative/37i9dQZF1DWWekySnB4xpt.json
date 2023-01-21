@@ -838,10 +838,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 201893,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i"
+    },
+    {
+      "album": {
+        "name": "Vas",
+        "url": "https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx"
+      },
+      "artists": [
+        {
+          "name": "Voz Veis",
+          "url": "https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "El Farolito - Live",
+      "url": "https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf"
     },
     {
       "album": {

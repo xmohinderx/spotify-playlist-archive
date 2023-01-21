@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-219 songs - 13 hr 28 min
+220 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,11 @@
 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-04-15 |  |
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-26 |  |
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-01-14 | 2022-07-25 |
+| [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2023-01-20 |  |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-15 | 2022-07-29 |
 | [Good Love](https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Good Love](https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ) | 3:20 | 2022-03-21 | 2022-07-29 |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-01-28 |  |
-| [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 | 2023-01-14 |  |
+| [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 | 2023-01-14 | 2023-01-21 |
 | [Good Times](https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Nothing at All / Good Times](https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3) | 4:04 | 2022-09-09 | 2022-10-15 |
 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 | 2021-12-03 | 2022-11-14 |
 | [Groceries](https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Groceries](https://open.spotify.com/album/1ECtQFMPTKqxnAXMTYrVl6) | 2:23 | 2022-04-22 | 2022-07-28 |
@@ -119,7 +120,7 @@
 | [Little Birdie](https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Little Birdie](https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7) | 4:03 | 2021-08-06 | 2022-07-29 |
 | [Little by Little](https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Little by Little](https://open.spotify.com/album/14dI8QEGClOLipxmUfIaBR) | 2:39 | 2021-07-09 | 2022-07-26 |
 | [Long Gone](https://open.spotify.com/track/1ovRvPWwCmdmmO4RKxMSgO) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Long Gone](https://open.spotify.com/album/44nTzEQoPoYAWBVwVDKcxx) | 2:43 | 2022-10-07 | 2022-10-22 |
-| [Looking For A Brand New Game \- Live From Easy Eye Sound](https://open.spotify.com/track/1sU1M5bEdRDSfPactx6LdK) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live From Easy Eye Sound](https://open.spotify.com/album/6lY1atAneLktIAWKI9ixrh) | 2:59 | 2023-01-14 |  |
+| [Looking For A Brand New Game \- Live From Easy Eye Sound](https://open.spotify.com/track/1sU1M5bEdRDSfPactx6LdK) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Live From Easy Eye Sound](https://open.spotify.com/album/6lY1atAneLktIAWKI9ixrh) | 2:59 | 2023-01-14 | 2023-01-21 |
 | [Looking For Moses](https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Party For One / Looking For Moses](https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN) | 5:13 | 2022-01-14 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-07-09 |  |
 | [Love and Hate in a Different Time \- Edit](https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 3:28 | 2021-08-06 | 2022-07-29 |
@@ -209,7 +210,7 @@
 | [This Is What Love Looks Like!](https://open.spotify.com/track/3i6lezqE0uwBZzA7jkjx7T) | [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [1634 Lexington Avenue](https://open.spotify.com/album/2gpYieu51skFa8dRdHWf75) | 3:49 | 2021-07-09 | 2022-07-29 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2022-10-15 | 2022-10-22 |
 | [Through It All](https://open.spotify.com/track/4JHvgv3f9PytZ2g8GqdIhC) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:24 | 2021-12-17 | 2022-07-29 |
-| [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 | 2023-01-19 |
+| [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 | 2021-12-17 |  |
 | [Trade of Hearts](https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-01-14 | 2022-08-29 |
 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-01-14 |  |
 | [Tumblin'](https://open.spotify.com/track/6KjXOo6ViBjRuibYNwCzdV) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Tumblin'](https://open.spotify.com/album/536eb9O1GK0eskekcGh9i8) | 3:44 | 2022-10-07 |  |

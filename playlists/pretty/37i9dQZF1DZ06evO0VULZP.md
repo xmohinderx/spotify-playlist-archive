@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,210 likes - 48 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,217 likes - 47 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 45 | [Pep Talk](https://open.spotify.com/track/2dsB4EWZpV3X5jin2pcjhm) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 |
 | 46 | [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 |
 | 47 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 |
-| 48 | [Descendents](https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:44 |
 
-Snapshot ID: `Mjc5MDIyODMsMDAwMDAwMDBkZGZkNzEzNjM4ZGJjMzY0NGU0ZTAxYzE5OTZlNTFiMg==`
+Snapshot ID: `Mjc5MDM3NTksMDAwMDAwMDA0MDk3YjQ4NDA4N2QxMjZiOTIzNmJkYTlkMjY4NTdjMg==`

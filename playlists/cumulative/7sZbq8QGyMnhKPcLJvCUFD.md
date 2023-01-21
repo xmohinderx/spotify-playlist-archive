@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-178 songs - 9 hr 13 min
+180 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,10 +91,12 @@
 | [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 |  |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 |  |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
+| [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 |  |
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 |  |
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |
+| [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 |  |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 |  |
 | [Me Times Two](https://open.spotify.com/track/5TrA3Iopc6I2PbwGTKv9m8) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Me Times Two](https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ) | 2:52 | 2022-07-14 |  |
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 |  |

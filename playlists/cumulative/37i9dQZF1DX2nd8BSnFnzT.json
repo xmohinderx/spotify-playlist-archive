@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "A Solu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54C2e0EDNrsO6hAnUfVM45"
+      },
+      "artists": [
+        {
+          "name": "ocaradometal",
+          "url": "https://open.spotify.com/artist/0t6psNf8w3CrGV64hyLjtK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360560,
+      "name": "A Solu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/78EuaQdCpwNwSvxqmQ3NnH"
+    },
+    {
+      "album": {
         "name": "A Tenta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1h730Kv5uJpuTPp4SCXoF0"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 296597,
       "name": "Abuso de Poder",
       "url": "https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 180714,
       "name": "Bate Panela",
       "url": "https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd"
@@ -834,6 +852,24 @@
       "duration_ms": 212740,
       "name": "Carta pro Futuro",
       "url": "https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn"
+    },
+    {
+      "album": {
+        "name": "CECI (Deluxe)",
+        "url": "https://open.spotify.com/album/7bo4M7e5HEnTtD03eAWLxc"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164854,
+      "name": "CECI",
+      "url": "https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8"
     },
     {
       "album": {
@@ -2913,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Nada Voltar\u00e1 a Ser",
+        "url": "https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx"
+      },
+      "artists": [
+        {
+          "name": "S\u00d6MA",
+          "url": "https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc"
+        },
+        {
+          "name": "Clemente Tadeu",
+          "url": "https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221663,
+      "name": "Nada Voltar\u00e1 a Ser",
+      "url": "https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y"
+    },
+    {
+      "album": {
         "name": "Namorade",
         "url": "https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS"
       },
@@ -3058,7 +3116,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 109453,
       "name": "N\u00e3o Mudaria Nada",
       "url": "https://open.spotify.com/track/3HhI8XjrNpiwW9aYjtqLjO"

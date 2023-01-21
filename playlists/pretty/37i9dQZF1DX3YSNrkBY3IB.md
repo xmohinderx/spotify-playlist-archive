@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these Hip Hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,611 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,729 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 15 | [The Truth](https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy) | [Handsome Boy Modeling School](https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [So...How's Your Girl?](https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG) | 5:37 |
 | 16 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 17 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 |
-| 18 | [Killing Me Softly With His Song](https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [Greatest Hits](https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy) | 4:50 |
-| 19 | [Mistadobalina](https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Best Of Del Tha Funkee Homosapien \[The Elektra Years\]: The B\-Boy Handbook](https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur) | 4:20 |
+| 18 | [Mistadobalina](https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Best Of Del Tha Funkee Homosapien \[The Elektra Years\]: The B\-Boy Handbook](https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur) | 4:20 |
+| 19 | [Killing Me Softly With His Song](https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [Greatest Hits](https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy) | 4:50 |
 | 20 | [Mr\. Wendal](https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:07 |
 | 21 | [Rapper's Delight](https://open.spotify.com/track/7sZDbHZiuHEzS00vzCuhqS) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [The Showdown: The Sugarhill Gang vs\. Grandmaster Flash & The Furious Five](https://open.spotify.com/album/0sux0KNu520ssuQT8dtSzi) | 7:07 |
 | 22 | [Doin' Our Own Dang](https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Done By The Forces Of Nature](https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 39 | [Monie in the Middle](https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:44 |
 | 40 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
 
-Snapshot ID: `MTY0OTc5NjA1NSwwMDAwMDAwMDg5ZjNmNDIxZGQ3MTI1NzRlNDc1ZDlhMWNkODhhNWJi`
+Snapshot ID: `MTY0OTc5NjA1NSwwMDAwMDAwMGE4OTNmZmU1Zjc0MjA1N2YyYmRjZDBmY2UxY2I3NmYz`

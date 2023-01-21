@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,831 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,821 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 20 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
 | 21 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
 | 22 | [Auld Lang Syne](https://open.spotify.com/track/3k5ja9RLntFO9cfn0PwinU) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 2:21 |
-| 23 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
-| 24 | [Zydeco Christmas](https://open.spotify.com/track/7gasD9T7DdXyjyotYJJ4vJ) | [C\. J\. Chenier & the Red Hot Louisiana Band](https://open.spotify.com/artist/2dNbwxgYSvdnMGWsYHJ38j) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:25 |
-| 25 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
+| 23 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
+| 24 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
+| 25 | [Zydeco Christmas](https://open.spotify.com/track/7gasD9T7DdXyjyotYJJ4vJ) | [C\. J\. Chenier & the Red Hot Louisiana Band](https://open.spotify.com/artist/2dNbwxgYSvdnMGWsYHJ38j) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:25 |
 | 26 | [Christmas Is Coming](https://open.spotify.com/track/0l1hyjtcvBSc8VtlqSiFQQ) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Leadbelly Vol\. 5 1939\-1947](https://open.spotify.com/album/79igIOFkyUvIRdpdz3qXwe) | 1:08 |
 | 27 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 28 | [Bring Back My Cadillac](https://open.spotify.com/track/1oSwpnWK8Tw69W5wFXVv4Q) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 3:36 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 39 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:29 |
 | 40 | [Please Come Home For Christmas](https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2) | [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 4:22 |
 | 41 | [Santa Claus Wants Some Lovin'](https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:23 |
-| 42 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
-| 43 | [A Bluesman's Christmas](https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:28 |
+| 42 | [A Bluesman's Christmas](https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:28 |
+| 43 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 44 | [Mr\. Santa's Boogie](https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ) | [The Marshall Brothers](https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:36 |
 | 45 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
 | 46 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Morning Blues \- Remastered](https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:23 |
 | 80 | [Sonny Boy's Christmas Blues](https://open.spotify.com/track/5rbIjCVVXOyTAdX7u59HZ7) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1aPpiXa9PkLqformEOgyIe) | 2:37 |
 
-Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMDA2M2Q1NjQ1Y2U4YWQxY2UxOTlkMWE1MTczMDlkMzM5`
+Snapshot ID: `MTY3MTYyOTc4MSwwMDAwMDAwMDI4MGJmNGRkZjZhYzBhYzQ5NDM0NjMzMzg2YTRjNGM0`

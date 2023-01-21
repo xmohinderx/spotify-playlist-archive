@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Everyone Else Burns (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/3cvR4FwpofoU5Bl73DfxXQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ross Fitzsimons",
+          "url": "https://open.spotify.com/artist/3liXOuxMR0lrIm32VTlnXa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142558,
+      "name": "Apocalypse Practice",
+      "url": "https://open.spotify.com/track/2yARGNWP8dOCy8o97gOVgo"
+    },
+    {
+      "album": {
         "name": "Around The World In 80 Days (Music From The Original TV Series)",
         "url": "https://open.spotify.com/album/5aDNioU7I8sAyNNUz3cVgB"
       },

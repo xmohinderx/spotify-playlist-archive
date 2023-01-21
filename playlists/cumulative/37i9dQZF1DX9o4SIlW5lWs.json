@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 214506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Se Quedo Sola",
+        "url": "https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Se Quedo Sola",
+      "url": "https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q"
+    },
+    {
+      "album": {
         "name": "El Comboloco",
         "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
       },
@@ -3918,6 +3936,32 @@
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
+    },
+    {
+      "album": {
+        "name": "Si Esta Casa Hablara",
+        "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200575,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
     },
     {
       "album": {

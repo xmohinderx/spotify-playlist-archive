@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-638 songs - 1 day 10 hr 39 min
+639 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-12-16 | 2022-12-27 |
 | [Real Life](https://open.spotify.com/track/4A2b1j7Ws51rbkAXUu5lJv) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [Real Life \- Hekler Remix](https://open.spotify.com/track/3tAXaWjqeqRF5kSkDrFvh2) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 4:33 | 2022-07-01 | 2022-09-15 |
+| [Reckless](https://open.spotify.com/track/4WbnbAM4ov4GWdTPNQR15z) | [Mel Ody](https://open.spotify.com/artist/0GgEXglm1E4YoSaIkI5wW7), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b), [Lauren Light](https://open.spotify.com/artist/1TY0aNdsTftlB8jD9I1cFV) | [Reckless](https://open.spotify.com/album/2h6XddEWBJSjRskklf0WZd) | 2:38 | 2023-01-20 |  |
 | [RECONNECT](https://open.spotify.com/track/3exkPkqy7fngaKlM34tVZj) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 4:03 | 2022-01-14 | 2022-09-15 |
 | [Regret It](https://open.spotify.com/track/4B0jh5LyfWZQLvtEzFDQyr) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:36 | 2022-06-16 |  |
 | [Reign \- Deadcrow Remix](https://open.spotify.com/track/2drSLcDJfhIX1AIjTG62CP) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Anna Graceman](https://open.spotify.com/artist/2B69uGl0nh5LMFUAZxVw5y), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [The Remixes \(Vol\. 4\)](https://open.spotify.com/album/1S5sTO8yYiIvDF6v8J6F2K) | 2:59 | 2022-02-02 | 2022-03-05 |

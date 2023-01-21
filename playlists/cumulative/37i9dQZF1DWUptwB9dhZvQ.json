@@ -678,10 +678,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 156375,
       "name": "Kick Theme",
       "url": "https://open.spotify.com/track/2BFT2jy8PM6hJuegIg1CO2"
+    },
+    {
+      "album": {
+        "name": "Kick Theme (From \"Kick\") - Single",
+        "url": "https://open.spotify.com/album/5hPEWmXTxssIDurSN2lC8j"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "Kick Theme (From \"Kick\")",
+      "url": "https://open.spotify.com/track/1bts9A6cTbCvvWTzx5VS8h"
     },
     {
       "album": {

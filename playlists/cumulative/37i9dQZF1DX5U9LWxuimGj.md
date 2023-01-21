@@ -4,10 +4,11 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-106 songs - 5 hr 52 min
+107 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Til I Can Make It On My Own](https://open.spotify.com/track/3VuQUuFw1QPNUqbsTOWDie) | [Savannah Rae](https://open.spotify.com/artist/0MCORpw49PaeUUsSZwH0pw), [Georgette Jones](https://open.spotify.com/artist/6ofwDVSodVYTHLohoLDKSw) | ['Til I Can Make It On My Own](https://open.spotify.com/album/0Y3PDimWHc95usGdTNObKx) | 3:09 | 2023-01-20 |  |
 | [1990s Drunk](https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [1990s Drunk](https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz) | 2:58 | 2022-10-07 |  |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-02 |  |
 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 | 2022-07-08 |  |

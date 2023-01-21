@@ -2,7 +2,7 @@
 
 ### [Indie Covers](https://open.spotify.com/playlist/37i9dQZF1DXb67OkZ6150Z)
 
-> 
+> The best indie covers\. Cover: Remi Wolf
 
 367 songs - 22 hr 40 min
 
@@ -45,7 +45,7 @@
 | [Black Star](https://open.spotify.com/track/1nxKOyzFX0XwuoAfJ9oKzE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [RCA Studio A Sessions](https://open.spotify.com/album/47eVBovntNhUxhOAc9PsGP) | 3:10 | 2021-04-19 | 2022-07-27 |
 | [Bless You](https://open.spotify.com/track/6N95gnRl5ggsEGVM27YkjW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Diamond In The Dark](https://open.spotify.com/album/4C7f4yffO7fdpU9DZJ8zcC) | 3:32 | 2022-08-08 | 2022-10-19 |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2021-03-12 |  |
-| [Blinding Lights](https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86) | 3:07 | 2022-11-11 |  |
+| [Blinding Lights](https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86) | 3:07 | 2022-11-11 | 2023-01-21 |
 | [Blinding Lights](https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc) | 3:07 | 2021-03-12 | 2022-08-31 |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/2pfkaHd8arhESSxyJAou6g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/6SSiMdf8Hsgojfo8MvjIPq) | 4:39 | 2021-03-12 | 2022-07-03 |
 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 | 2021-03-12 |  |
@@ -136,7 +136,7 @@
 | [Happy Together](https://open.spotify.com/track/3BYY6EvwqAIBnRZVHi1XMG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Happy Together](https://open.spotify.com/album/2AvUpNIbOC4UwiCpdJMDxf) | 3:06 | 2021-03-12 | 2022-04-20 |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2021-03-12 | 2022-08-10 |
 | [Head Over Heels](https://open.spotify.com/track/3O7ISGCHZ59cCALecLfUEm) | [Merival](https://open.spotify.com/artist/1kCQYFPjvDy6ARPdGi3dby) | [Head Over Heels](https://open.spotify.com/album/3iLtKKmKRLGU10euWEYzFk) | 3:37 | 2021-07-21 | 2022-07-29 |
-| [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2021-03-12 | 2022-07-11 |
+| [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2021-03-12 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 | 2021-03-12 | 2023-01-14 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-03-12 | 2022-08-10 |
 | [high and dry](https://open.spotify.com/track/6B9bHLVreCYkEgMs3SnQnY) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [high and dry](https://open.spotify.com/album/3QF88Oi8ah5VqZZD7cgfF2) | 4:05 | 2021-03-12 | 2022-04-08 |

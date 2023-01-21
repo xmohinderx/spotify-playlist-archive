@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-137 songs - 7 hr 57 min
+138 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Colored Engine](https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS) | [Joel Schoch](https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH) | [Far: Lone Sails](https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU) | 3:01 | 2022-07-27 |  |
 | [Crash Bandicoot Main Theme](https://open.spotify.com/track/6LtiYg9rZXcqeonqFnGrQx) | [Vicarious Visions Audio](https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB) | [Music from Crash Bandicoot N\. Sane Trilogy \(Original Game Soundtrack\)](https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2) | 0:48 | 2022-07-27 |  |
 | [Crash Bandicoot Main Theme](https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV) | [Vicarious Visions Audio](https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB) | [Music from Crash Bandicoot N\. Sane Trilogy](https://open.spotify.com/album/2erZbQwABnyWVwQ8FK0UAb) | 0:48 | 2021-12-15 | 2022-07-29 |
+| [Crash Landing](https://open.spotify.com/track/4BhtX2RYw9R6Y3ZNWz1DqM) | [Finishing Move Inc.](https://open.spotify.com/artist/4LI758CRLLaXDPpVScbsEf) | [The Callisto Protocol \(Original Game Soundtrack\)](https://open.spotify.com/album/2TzKa6fZV8syswzob8Sb19) | 3:33 | 2023-01-20 |  |
 | [Crypteque](https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5) | [Danny Baranowsky](https://open.spotify.com/artist/2CivYlBeDSjMj9Azw9cIHB) | [Crypt of the Necrodancer \(Original Game Soundtrack\)](https://open.spotify.com/album/3nZQnXN0pPRe4QccJXHPS6) | 2:45 | 2021-12-15 |  |
 | [Dance of the Moonlight Jellies](https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS) | [ConcernedApe](https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2) | [Stardew Valley \(Original Game Soundtrack\)](https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk) | 1:50 | 2022-01-04 |  |
 | [Dark Souls 3](https://open.spotify.com/track/2xIRBmAuVk6s7ZoukykRqS) | [Yuka Kitamura](https://open.spotify.com/artist/3nIELxtRA56U1AXqJFzyDw) | [Dark Souls 3](https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv) | 2:46 | 2021-12-15 |  |

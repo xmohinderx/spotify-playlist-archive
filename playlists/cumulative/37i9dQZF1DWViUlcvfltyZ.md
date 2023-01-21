@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. In cover, CASX!
 
-278 songs - 15 hr 25 min
+279 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Chaise Longue](https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Chaise Longue](https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s) | 3:40 | 2022-09-19 | 2022-11-11 |
 | [Charlie Sheen](https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Charlie Sheen](https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX) | 4:09 | 2022-05-19 | 2022-07-01 |
 | [Che Bella è](https://open.spotify.com/track/25hud035fkibY2xzOuMLWY) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Made in Cina](https://open.spotify.com/album/7zWOLZSOXOVfSRTVCOWP4X) | 2:59 | 2022-10-27 | 2022-12-16 |
+| [Che benessere !? \(con NASKA\)](https://open.spotify.com/track/29wow7ReefY8giiopcBNGc) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Che benessere !? \(con NASKA\)](https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx) | 3:51 | 2023-01-20 |  |
 | [Chi lo decide chi siamo?](https://open.spotify.com/track/03sZbzvfpwP6biNYJKXIjI) | [Cenere](https://open.spotify.com/artist/4KyxWZEHk1zSgqFgg4VtGR) | [Chi lo decide chi siamo?](https://open.spotify.com/album/7ueBkug7HODYaBbQE7GqND) | 2:32 | 2022-12-15 |  |
 | [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 | 2022-06-16 | 2022-06-24 |
 | [Città foresta](https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Città foresta](https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w) | 3:53 | 2022-07-21 |  |

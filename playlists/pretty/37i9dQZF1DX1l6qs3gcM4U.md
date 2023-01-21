@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,682 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,914 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 53 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 54 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 55 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
-| 56 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
+| 56 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 57 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
-| 58 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
+| 58 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 59 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
 | 60 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 |
 | 61 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
 | 62 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
-| 63 | [Presa](https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Batuta](https://open.spotify.com/artist/3q0uYBkdRxSwrjR2cdPBtj) | [Presa](https://open.spotify.com/album/7iPZevwftNKGt6cq5iMPDD) | 4:33 |
-| 64 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
-| 65 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
+| 63 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
+| 64 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
+| 65 | [Presa](https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Batuta](https://open.spotify.com/artist/3q0uYBkdRxSwrjR2cdPBtj) | [Presa](https://open.spotify.com/album/7iPZevwftNKGt6cq5iMPDD) | 4:33 |
 | 66 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 |
 | 67 | [Fala so](https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Fala so](https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA) | 3:26 |
 | 68 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 76 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
 | 77 | [Vibra](https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Vibra](https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2) | 2:50 |
 | 78 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
-| 79 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
+| 79 | [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 |
 | 80 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |
 
-Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMDdkM2M4YjY4ZDdiYmM2YWM1ZmQ2ZGVkMTJkYjcyYmU3`
+Snapshot ID: `MTY3MzU2ODAwMCwwMDAwMDAwMGFiNWFlMDAxYzBlMTI4Yzc0NTY0ZTk0ZWE5OGFkZGE5`

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-142 songs - 7 hr 50 min
+143 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2021-12-03 | 2022-07-16 |
 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 | 2021-12-03 |  |
 | [Like A Boy](https://open.spotify.com/track/1ibBdYjfVVqFOA04Q0NnJ6) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:43 | 2022-09-23 |  |
+| [Like It's His Job](https://open.spotify.com/track/05L9H4HP2pNhXYIunYk6zr) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [Like It's His Job](https://open.spotify.com/album/4X4SpT943uu7LdqO3e5XcI) | 3:29 | 2023-01-20 |  |
 | [Liquor & Pills](https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY) | 4:15 | 2022-07-25 |  |
 | [Liquor & Pills](https://open.spotify.com/track/3aFLplWuvf4IqbtE9KcgKf) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/4Z9MHCJdlwqQSA970lXlPx) | 4:15 | 2021-12-03 | 2022-07-29 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2021-12-03 |  |

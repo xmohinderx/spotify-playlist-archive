@@ -4,7 +4,7 @@
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=Z6fdR3NXQ52L7r0GSmfAEA">Msaki</a> and <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=AhnbaA9RSDGCEL4gmSlDhQ">Tubatsi Mpho Moloi</a>
 
-141 songs - 8 hr 2 min
+142 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 | 2022-11-24 | 2023-01-13 |
 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 | 2022-12-01 |  |
 | [Try Again](https://open.spotify.com/track/1iS8nPBfQBg6BFHGvF9znW) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [GAME OVER](https://open.spotify.com/album/0ZMKh4W24HJqe3b65hacdX) | 2:16 | 2022-09-15 | 2022-10-07 |
+| [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 | 2023-01-20 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2023-01-12 |  |
 | [Twenty Something](https://open.spotify.com/track/1jMqL6sQYKVaJ1DfXECkmY) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Twenty Something](https://open.spotify.com/album/4Me8Wnt5UDDvoPZVCRixNN) | 4:13 | 2022-08-18 | 2022-10-21 |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-01-13 |
@@ -141,7 +142,7 @@
 | [When I See You](https://open.spotify.com/track/4guLuOYxgOyORZGjWPQuCo) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [When I See You](https://open.spotify.com/album/6Pgu9PTlAL7SIEFLMWIf4m) | 3:49 | 2022-07-28 | 2022-10-07 |
 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 | 2022-11-17 |  |
 | [Who am I to follow](https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW) | [Double Comfort Safari](https://open.spotify.com/artist/1hIiJTji8IMwDhlYLZSv3O) | [Who am I to follow](https://open.spotify.com/album/54PzuZVWLC8pw4wVzKIptT) | 2:46 | 2022-09-02 | 2022-12-09 |
-| [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2023-01-12 |  |
+| [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2023-01-12 | 2023-01-21 |
 | [Wicked Wonder](https://open.spotify.com/track/5mkXZy7MQ3GIDgWKDhv082) | [Zebraman](https://open.spotify.com/artist/6pxjx9DJmtwI56sHl0NBLB) | [Wicked Wonder](https://open.spotify.com/album/7jkhgLNww9XsvR7f5WwqRb) | 2:50 | 2022-11-10 | 2022-12-16 |
 | [Wonder Wonder](https://open.spotify.com/track/31Ig0hJJU3pOalXkHUQZP2) | [Bianca Blanc](https://open.spotify.com/artist/6Rt5vkQjWAmQCuNPQS6R7o), [Justin Serrao](https://open.spotify.com/artist/5eQPdirjEx4DkiVBm3l3Qa) | [Wonder Wonder](https://open.spotify.com/album/6MV3hlmgxooKWoLDRokAN0) | 3:49 | 2022-11-17 | 2023-01-13 |
 | [You Belong To Me](https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [You Belong To Me](https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1) | 3:29 | 2022-11-10 | 2022-11-25 |

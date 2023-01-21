@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Phil Wickham",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: \n Matthew West",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Halfway Empty (Live)",
+        "url": "https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225366,
+      "name": "Halfway Empty - Live",
+      "url": "https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye"
+    },
+    {
+      "album": {
         "name": "He Wears A Crown",
         "url": "https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ"
       },
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 390666,
       "name": "Hurry - Live",
       "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
@@ -2929,6 +2947,28 @@
     },
     {
       "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
+    },
+    {
+      "album": {
         "name": "Now (Live)",
         "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
       },
@@ -3308,7 +3348,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 346071,
       "name": "Living Breath Of Heaven",
       "url": "https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of"
@@ -4190,7 +4230,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 247221,
       "name": "Pull Me Through - Live Single Version",
       "url": "https://open.spotify.com/track/4LmysI48q0XbKW7FyTcS3Y"
@@ -5163,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/1COJxxwnImFbThGvDCHfn3"
+      },
+      "artists": [
+        {
+          "name": "Souvenirs Worship",
+          "url": "https://open.spotify.com/artist/5vybBaHZdTIRTYiLF5kAlr"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582500,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/5psIjB6ZTTyYzMqaIzDoOE"
+    },
+    {
+      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
       },
@@ -5192,7 +5250,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 336008,
       "name": "The Praise Is Yours - Live",
       "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
@@ -6266,6 +6324,24 @@
       "duration_ms": 426194,
       "name": "You Can Do All Things",
       "url": "https://open.spotify.com/track/6cVgO1fJ2z2pMB6NSvuiAz"
+    },
+    {
+      "album": {
+        "name": "You Changed My Name",
+        "url": "https://open.spotify.com/album/40vNN016TmNSzdjhl8UvWv"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236261,
+      "name": "You Changed My Name",
+      "url": "https://open.spotify.com/track/5DMb7E6IvIs1fdtgvaRqCL"
     },
     {
       "album": {

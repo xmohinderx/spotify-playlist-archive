@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-513 songs - 1 day 16 hr 10 min
+514 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2022-04-14 | 2022-09-15 |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
+| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-20 |  |
 | [All the Things You Are](https://open.spotify.com/track/1Lh7U5c3EvLBb6lSgHVFlR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [All the Things You Are](https://open.spotify.com/album/2MswvfhuxKNK5cYoo14DVB) | 2:50 | 2022-04-14 | 2022-05-03 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
 | [All Things Considered](https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o) | [Andy Laverne](https://open.spotify.com/artist/0wHlC8tumVxWRyxKutlQUm), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p), [Mike Richmond](https://open.spotify.com/artist/4UAdAgxnybF0chEX9FXX9m), [Jason Tiemann](https://open.spotify.com/artist/4bj8k1TAVycxbk0zCHtpTR) | [Faith](https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8) | 10:52 | 2022-04-14 | 2022-09-23 |
@@ -290,7 +291,7 @@
 | [Measures](https://open.spotify.com/track/0zAIkzb2mls12aWWX7dwrT) | [Nostalgia 77 and the Monster](https://open.spotify.com/artist/1XOziqVpUljB7gkL2OdqBR) | [Fifteen](https://open.spotify.com/album/4k7Bf3P7j76awEPPkIBYKH) | 4:17 | 2022-04-14 | 2022-07-28 |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |
 | [Midair](https://open.spotify.com/track/37G7prE4bs7O7gaiyh6g4e) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Midair](https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n) | 2:29 | 2022-04-14 | 2022-04-27 |
-| [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 |  |
+| [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 | 2023-01-21 |
 | [Midnight Special \- Rudy Van Gelder Digital Remaster/2007](https://open.spotify.com/track/6oWhUfePc5h9r5pfw7wvPN) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Midnight Special \(Remastered\)](https://open.spotify.com/album/06gaOfTDym5Jf8FZNxwCnZ) | 9:57 | 2022-04-14 | 2022-04-28 |
 | [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 | 2022-09-20 |  |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 |  |

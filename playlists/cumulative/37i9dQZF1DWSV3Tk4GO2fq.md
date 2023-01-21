@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-296 songs - 13 hr 40 min
+297 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,10 +248,11 @@
 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 | 2022-06-09 |  |
 | [Sweet Little Sixteen](https://open.spotify.com/track/1gU6T4sESXRt6RC2ufSqDf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Best Of Chuck Berry \(Chunky Repackaged\)](https://open.spotify.com/album/3j70UxCvWwoWDsjm1TbWKj) | 3:10 | 2021-04-28 | 2022-07-29 |
 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 | 2021-04-28 |  |
-| [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 | 2022-06-09 |  |
+| [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 | 2022-06-09 | 2023-01-21 |
 | [Tennessee Waltz](https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [The Patti Page Collection: The Mercury Years, Volume 1](https://open.spotify.com/album/6UoTP4eval115JObrelnEr) | 3:02 | 2022-06-09 |  |
 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 | 2021-04-28 | 2022-07-29 |
 | [Tennessee Waltz](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 | 2022-06-09 | 2022-11-18 |
+| [Tequila](https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champs Go!](https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r) | 2:15 | 2022-06-09 |  |
 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 | 2022-06-09 |  |
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2021-04-28 |  |
 | [That's Amore](https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Piosenki z Filmów](https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi) | 3:07 | 2022-06-09 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=aFVb2xGZRoCUk3Mc4z6AdQ"> Pawzz</a>
 
-174 songs - 8 hr 48 min
+175 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 | 2022-09-29 | 2022-10-07 |
 | [Superstar \(Re\-Up\)](https://open.spotify.com/track/0cBkD7gWJizeBIT2MR411t) | [Melon](https://open.spotify.com/artist/1nMR9WBk7bWLnAqz5MoVGs), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Superstar \(Re\-Up\)](https://open.spotify.com/album/3IizzkPu9gICSo6mUnMe9Y) | 3:30 | 2022-07-28 | 2022-11-04 |
 | [Table for Two](https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Table for Two](https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp) | 3:27 | 2022-10-28 | 2022-11-26 |
-| [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-20 |  |
+| [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-20 | 2023-01-21 |
+| [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-01-20 |  |
 | [Things Fall in Place](https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Things Fall in Place](https://open.spotify.com/album/2IyQg1ciZnyD6LMoYOea8Q) | 3:49 | 2022-08-12 | 2022-12-02 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 |  |
 | [This Side](https://open.spotify.com/track/6ef9xVJZ0iExKd67ybLAyF) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [This Side](https://open.spotify.com/album/0GRQb7OLGaDUKKFc1ttCXF) | 2:37 | 2022-11-25 |  |

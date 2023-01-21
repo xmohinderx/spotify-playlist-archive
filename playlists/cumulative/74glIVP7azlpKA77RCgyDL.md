@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Grave Pleasures
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jesus Piece
 
-305 songs - 19 hr 42 min
+311 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,9 @@
 | [Dust](https://open.spotify.com/track/3U8ZeW7SCWMEJ5OCJ1Pp6c) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Dust](https://open.spotify.com/album/34YoSbT5nxTAFBMcc6rlHZ) | 5:39 | 2022-07-01 |  |
 | [Dying of Everything](https://open.spotify.com/track/7GgPZBrYvDLWUZV0ePStAE) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Dying of Everything](https://open.spotify.com/album/3oNJTBva2E8MhEPz4NHTPC) | 4:43 | 2022-12-02 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
+| [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 |  |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
+| [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
 | [Evolving](https://open.spotify.com/track/71GOYiaA8DUE8gflwvKxMT) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K), [Shaolin G](https://open.spotify.com/artist/646EtCZzz835whXJClaWtJ) | [Oni](https://open.spotify.com/album/4aYSMBE7Y3UDLCoxmVw0qH) | 2:56 | 2022-09-30 |  |
@@ -112,10 +114,12 @@
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 |  |
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
+| [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 |  |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 |  |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 |  |
+| [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 |  |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 |  |
 | [Guided Meditation](https://open.spotify.com/track/0Dq4oDfcDFsOJ5jVhZ07Up) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:35 | 2022-08-12 |  |
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-02-25 |  |
@@ -182,6 +186,7 @@
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 |  |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 |  |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 |  |
+| [On The Run](https://open.spotify.com/track/3JKWw3L65jWdQWxQxonf4R) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [On the Run](https://open.spotify.com/album/5GztBxPsWCj87c7m9L5TEH) | 2:23 | 2023-01-20 |  |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 |  |
 | [One by One](https://open.spotify.com/track/3UEeuZJjE4ftR7zkq7IVaK) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [One by One](https://open.spotify.com/album/3J7NZbEojkhk997nA5UhkD) | 3:05 | 2022-02-18 |  |
 | [One Twenty Two](https://open.spotify.com/track/1YcAT8wzQpk12OOJcBcOT5) | [Botch](https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3) | [One Twenty Two](https://open.spotify.com/album/2F2GdWHz62uzpsgNtF7mfd) | 2:16 | 2022-08-26 |  |
@@ -222,6 +227,7 @@
 | [Rubedo](https://open.spotify.com/track/3I2N7BXukhilSgt3THdbnl) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [Rubedo](https://open.spotify.com/album/2qo2oHqL7irjoKL6kQokDC) | 6:41 | 2022-02-18 |  |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 |  |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 |  |
+| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
 | [Selfish Hearts](https://open.spotify.com/track/0smmYlU6Y8aYAxMxoF13gC) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Selfish Hearts](https://open.spotify.com/album/3O1wud1esviXgsvwkzBK5p) | 2:50 | 2022-05-27 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2022-03-25 |  |
 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2022-11-18 |  |

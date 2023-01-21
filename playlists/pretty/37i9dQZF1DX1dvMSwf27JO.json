@@ -1,12 +1,12 @@
 {
   "description": "drip down",
-  "num_followers": 478144,
+  "num_followers": 478418,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTE3NiwwMDAwMDAwMDg0ZjY3NjFmZmZhYjM0YTkyOGZjNmVkNTcwOGY4YzRk",
+  "snapshot_id": "MTY3Mzk4MTE3NiwwMDAwMDAwMDI4OTMyZmVlZjc1MzBiN2I1YzNiZjAyODVjYjk3OTg1",
   "tracks": [
     {
       "added_at": "2022-12-16 18:02:53",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
-      "added_at": "2022-12-16 18:10:24",
-      "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "5g",
-      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
-    },
-    {
       "added_at": "2023-01-17 18:46:16",
       "album": {
         "name": "Hitler Wears Hermes 7",
@@ -731,6 +715,22 @@
       "duration_ms": 61440,
       "name": "Love U",
       "url": "https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO"
+    },
+    {
+      "added_at": "2022-12-16 18:10:24",
+      "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "5g",
+      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
       "added_at": "2022-12-16 18:02:53",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-16 18:02:53",
       "album": {
-        "name": "HERBERT",
-        "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 160920,
-      "name": "FOMF",
-      "url": "https://open.spotify.com/track/1q9huadusReYqEjnENS3uw"
-    },
-    {
-      "added_at": "2022-12-16 18:02:53",
-      "album": {
         "name": "You Never Visit Me",
         "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230906,
       "name": "You Never Visit Me",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
+      "added_at": "2022-12-16 18:02:53",
+      "album": {
+        "name": "HERBERT",
+        "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 160920,
+      "name": "FOMF",
+      "url": "https://open.spotify.com/track/1q9huadusReYqEjnENS3uw"
     },
     {
       "added_at": "2022-12-16 18:02:53",

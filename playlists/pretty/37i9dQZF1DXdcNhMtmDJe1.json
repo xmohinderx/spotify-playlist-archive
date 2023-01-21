@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 75255,
+  "num_followers": 75292,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDliOTdjZDYzZWIzZTkwNGE0MDA4OWMwM2Y1ZjU1YjIx",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDRjYTIyODUwYTcyMmU2ZjVlZWIyZjZlNTUxMjI5Yzc5",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -583,34 +583,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
-        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        }
-      ],
-      "duration_ms": 389173,
-      "name": "Concerto in F: 3. Allegro agitato",
-      "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Mademoiselle in New York",
         "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
       },
@@ -635,6 +607,34 @@
       "duration_ms": 238413,
       "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
+        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        }
+      ],
+      "duration_ms": 389173,
+      "name": "Concerto in F: 3. Allegro agitato",
+      "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 79226,
       "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -871,6 +871,34 @@
       "duration_ms": 417640,
       "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
       "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+        }
+      ],
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -919,34 +947,6 @@
       "duration_ms": 438560,
       "name": "Piano Concerto in F Major: III. Allegro con brio",
       "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 426866,
-      "name": "Oh, Kay!: Overture",
-      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 826466,
-      "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
-      "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Andante con moto",
+      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Andante con moto",
-      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
+      "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Fantasy",
-        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 1224000,
-      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
-      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Kiri sings Gershwin",
         "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
       },
@@ -1191,6 +1163,34 @@
       "duration_ms": 187826,
       "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
       "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 1224000,
+      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
+      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
     },
     {
       "added_at": "2022-08-05 04:02:00",

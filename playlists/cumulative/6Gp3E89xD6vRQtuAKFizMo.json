@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "3DI",
+          "url": "https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox"
+    },
+    {
+      "album": {
         "name": "Forever With U",
         "url": "https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ"
       },
@@ -1056,6 +1078,28 @@
       "duration_ms": 128507,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn"
+    },
+    {
+      "album": {
+        "name": "KPASA (feat. Drty Tropix)",
+        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Drty Tropix",
+          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "KPASA (feat. Drty Tropix)",
+      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
     },
     {
       "album": {
@@ -1582,7 +1626,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 160629,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 180193,
       "name": "Own The Night",
       "url": "https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F"
@@ -1758,7 +1802,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
@@ -2300,6 +2344,24 @@
       "duration_ms": 116308,
       "name": "Toxic Rain (prod. David Mugratsch) - VIP Mix",
       "url": "https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi"
+    },
+    {
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/2sZAcRt2t9zr1X7CO00wZY"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Traces Of You",
+      "url": "https://open.spotify.com/track/1V0mxw6kWF2edrzAE97I4g"
     },
     {
       "album": {

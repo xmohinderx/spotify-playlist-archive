@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-264 songs - 19 hr 57 min
+265 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 | 2021-10-15 |  |
 | [Incubus Succubus II](https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U) | 4:45 | 2021-10-15 | 2022-07-29 |
 | [Indigo Eyes](https://open.spotify.com/track/3CJTExdNrZfB0pbF2LQM4Y) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/6I1vPQRqjeLiRoW01SmzaR) | 5:54 | 2021-10-15 | 2022-04-20 |
-| [Indigo Eyes](https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm) | 5:54 | 2021-10-15 |  |
+| [Indigo Eyes](https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm) | 5:54 | 2021-10-15 | 2023-01-21 |
 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 | 2021-10-15 | 2022-05-05 |
 | [Ivo](https://open.spotify.com/track/0N4JIfesak2J82auEiirwa) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:53 | 2021-10-15 | 2022-07-29 |
 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 | 2021-10-15 |  |
@@ -219,6 +219,7 @@
 | [Spiritual Cramp](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 | 2021-10-15 |  |
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2021-10-15 | 2022-11-14 |
 | [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 | 2021-10-15 | 2022-07-29 |
+| [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-21 |  |
 | [Strangers](https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9) | [Then Comes Silence](https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy) | [III \- Nyctophilian](https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM) | 3:58 | 2021-10-15 | 2022-07-28 |
 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 |  |
 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 | 2021-10-15 | 2022-07-29 |

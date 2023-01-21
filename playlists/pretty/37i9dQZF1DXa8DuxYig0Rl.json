@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 14742,
+  "num_followers": 14766,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMDcwYjk3OTNjNDMzM2M2OThkNDkyM2FiMWI2NDYxMDVk",
+  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMDY2Y2Q2NjMzNDBkNTllNzE1N2FhMDJjMjRmMzU3NGJj",
   "tracks": [
     {
       "added_at": "2022-01-25 19:19:11",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 151417,
       "name": "La Rajita De Canela",
       "url": "https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "15 Exitos \"Danzones\"",
-        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
         }
       ],
-      "duration_ms": 203786,
-      "name": "Rigoletito",
-      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+        "name": "15 Exitos \"Danzones\"",
+        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
         }
       ],
-      "duration_ms": 152006,
-      "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+      "duration_ms": 203786,
+      "name": "Rigoletito",
+      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "The Genius of Esquivel",
-        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Mambos Boleros y Danzones",
         "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 247974,
       "name": "La Sandunga",
       "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "The Genius of Esquivel",
+        "url": "https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/3m5kWHTfLwkfBK0v9bjXGM"
     },
     {
       "added_at": "2022-01-25 19:19:11",

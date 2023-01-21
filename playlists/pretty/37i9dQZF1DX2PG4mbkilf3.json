@@ -1,13 +1,101 @@
 {
-  "description": "This is R&B in Canada, elevate your aura with PARTYNEXTDOOR.",
-  "num_followers": 133396,
+  "description": "This is R&B in Canada, elevate your aura with Naomi Sharon.",
+  "num_followers": 133487,
   "original_name": "Mood Ring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY3NzA1NiwwMDAwMDAwMGYyNTAwYjE2N2M3MzFhOWQ0ODcxMDA0Y2E5NDhmOTQ4",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGYzYzc3ZWQzZDVjNTcxMDNhMGFhZTEzOWQwN2MyN2Zi",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 243071,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Slip n' Slide",
+        "url": "https://open.spotify.com/album/3pcgr6gXIPScRRmiHMNsmE"
+      },
+      "artists": [
+        {
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
+        },
+        {
+          "name": "THEMXXNLIGHT",
+          "url": "https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0"
+        },
+        {
+          "name": "Lil Berete",
+          "url": "https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx"
+        }
+      ],
+      "duration_ms": 158796,
+      "name": "Slip n' Slide",
+      "url": "https://open.spotify.com/track/4drCBAiwXC4xbSliXPED6B"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Should Have Cared",
+        "url": "https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao"
+      },
+      "artists": [
+        {
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Should Have Cared",
+      "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
+    },
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
@@ -179,6 +267,22 @@
       "duration_ms": 229052,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 270585,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1547,22 +1651,6 @@
     {
       "added_at": "2023-01-06 05:01:00",
       "album": {
-        "name": "Treason",
-        "url": "https://open.spotify.com/album/1bUgKw8z75b36eWDZiLYgu"
-      },
-      "artists": [
-        {
-          "name": "B.ROB",
-          "url": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
-        }
-      ],
-      "duration_ms": 246937,
-      "name": "Treason",
-      "url": "https://open.spotify.com/track/2XVthiA1dt5DYrYRviLbKA"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
         "name": "OHWEI",
         "url": "https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf"
       },
@@ -1595,26 +1683,6 @@
     {
       "added_at": "2023-01-06 05:01:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo"
-      },
-      "artists": [
-        {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
-        },
-        {
-          "name": "Sir Dauda",
-          "url": "https://open.spotify.com/artist/43rAVPqs1PFVQL7dtqLh2N"
-        }
-      ],
-      "duration_ms": 231056,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/0N5BdmLoQAIic2HtZ6hbJ8"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng"
       },
@@ -1643,22 +1711,6 @@
       "duration_ms": 130923,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
-        "name": "17times",
-        "url": "https://open.spotify.com/album/1YKUvtffCi6eitGdDDsU2Z"
-      },
-      "artists": [
-        {
-          "name": "Kaeyae Alo",
-          "url": "https://open.spotify.com/artist/0cKNVzcCoRHwbRPBsAGDYI"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "The Price of Freedom",
-      "url": "https://open.spotify.com/track/6DsHgYc75ada8IYSHMFaA1"
     },
     {
       "added_at": "2023-01-06 05:01:00",
@@ -1715,46 +1767,6 @@
     {
       "added_at": "2023-01-06 05:01:00",
       "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/7lvNlojG1C0yBwVfOc42MS"
-      },
-      "artists": [
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
-        },
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 240255,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/1PjlJyLVv53xSRwD0KzvX9"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
-        "name": "Red eye",
-        "url": "https://open.spotify.com/album/0EftAegTkAciJjAr9QBRgM"
-      },
-      "artists": [
-        {
-          "name": "JRDN",
-          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
-        }
-      ],
-      "duration_ms": 157806,
-      "name": "Red eye",
-      "url": "https://open.spotify.com/track/4jpS4dASvP36bDQxm7ogju"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2"
       },
@@ -1767,22 +1779,6 @@
       "duration_ms": 202380,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw"
-    },
-    {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
-        "name": "Moments Ago / Yesterday Feels",
-        "url": "https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB"
-      },
-      "artists": [
-        {
-          "name": "JJ Adrian",
-          "url": "https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Moments Ago",
-      "url": "https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P"
     }
   ],
   "unique_name": "Mood Ring",

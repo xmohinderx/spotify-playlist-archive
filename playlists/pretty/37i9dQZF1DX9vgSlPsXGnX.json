@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 44451,
+  "num_followers": 44526,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDQwZTkwNzA0OTNjZWU0MDcwYjJjYmMzMDM3NzI4Mzdk",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGVmMjU5Y2U3ODc3ODhkNTQyYjI3ZWViYTU1MDhjNTBm",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "A Todos Mis Amigos",
         "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 176946,
       "name": "La Gloria Eres T\u00fa",
       "url": "https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Sentimiento del Latino En Nueva York",
-        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
-      },
-      "artists": [
-        {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 155773,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Sentimiento del Latino En Nueva York",
+        "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
+      },
+      "artists": [
+        {
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Esta Noche...Billo",
-        "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 147017,
-      "name": "Cuando Estemos Viejo",
-      "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
+        "name": "Esta Noche...Billo",
+        "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
       },
       "artists": [
         {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
+      "duration_ms": 147017,
+      "name": "Cuando Estemos Viejo",
+      "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "El Trovador Solitario",
         "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 166306,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Bohemios en la Cantina",
-        "url": "https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 251600,
       "name": "Mi Manera De Amar",
       "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Bohemios en la Cantina",
+        "url": "https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw"
     },
     {
       "added_at": "2021-12-26 12:28:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Ethan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,332 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,343 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
 | 3 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 |
 | 4 | [l'alba che tornerai](https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [l'alba che tornerai](https://open.spotify.com/album/4xQYDLZ35IlVXDjRikQer8) | 2:40 |
-| 5 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
+| 5 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
 | 6 | [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 |
 | 7 | [Just Eat](https://open.spotify.com/track/18liqHUDCbL57MpWreIwOa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Just Eat](https://open.spotify.com/album/7niPoJYBWsZBlQLp997fLQ) | 3:08 |
 | 8 | [IL MIO NOME](https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:18 |

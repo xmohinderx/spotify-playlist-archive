@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-221 songs - 11 hr 29 min
+222 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 | 2022-09-16 |  |
 | [Amsterdam \(Ending\)](https://open.spotify.com/track/739N66ZkmRHrLdiLNA2qe3) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Amsterdam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3buBOPR7JMvIlCvoAmUACa) | 5:25 | 2022-10-07 |  |
 | [Antiphon](https://open.spotify.com/track/7Hhq3Ejf01wyOMjuKRrRR7) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The King \(Original Score from the Netflix Film\)](https://open.spotify.com/album/1JwpzZlvXcne1s9SNXhiEW) | 2:16 | 2021-12-20 | 2022-07-09 |
+| [Apocalypse Practice](https://open.spotify.com/track/2yARGNWP8dOCy8o97gOVgo) | [Thomas Ross Fitzsimons](https://open.spotify.com/artist/3liXOuxMR0lrIm32VTlnXa) | [Everyone Else Burns \(Music from the Original Series\)](https://open.spotify.com/album/3cvR4FwpofoU5Bl73DfxXQ) | 2:22 | 2023-01-20 |  |
 | [Around The World In 80 Days Theme \- From The Original TV Series Soundtrack](https://open.spotify.com/track/1PlMCW7YPYdvOMTHGsiQ07) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Christian Lundberg](https://open.spotify.com/artist/0jyB5RKHNuA4Wfkk8hhGQe) | [Around The World In 80 Days \(Music From The Original TV Series\)](https://open.spotify.com/album/5aDNioU7I8sAyNNUz3cVgB) | 1:16 | 2022-02-04 |  |
 | [Aurora](https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0anuS0gAUcyLl9426vSdrU) | 2:57 | 2022-11-11 |  |
 | [Aurora](https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l) | 2:57 | 2022-08-19 | 2022-11-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 101158,
+  "num_followers": 101286,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGFjYWI3Yjc2MzQ0N2YxZTQ0ZjIzZWFhZWZhODk1Yjhl",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDZiMDQ0MDQxZTA0MmI4ZmU4Njk3MjE5MDI3NzcxZjc5",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Year of the Cat",
-        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 400066,
-      "name": "Year of the Cat",
-      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "I'd Love You To Want Me",
         "url": "https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 177933,
       "name": "Me and You and a Dog Named Boo",
       "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Year of the Cat",
+        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 400066,
+      "name": "Year of the Cat",
+      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "What Can I Say",
-      "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 403040,
       "name": "Time Passages",
       "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Earth",
-        "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Starship",
-          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
-        }
-      ],
-      "duration_ms": 321906,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3QNalg8Q83fCmaz5efca2t"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 196240,
       "name": "In Your Letter",
       "url": "https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Starship",
+          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
+        }
+      ],
+      "duration_ms": 321906,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3QNalg8Q83fCmaz5efca2t"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Just One Look - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Another Page",
         "url": "https://open.spotify.com/album/4NiGOhxV6wViotkZKDv17G"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259532,
       "name": "All Right",
       "url": "https://open.spotify.com/track/4ucjm7jDReA0IFHGfzOtoZ"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Just One Look - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Essential Air Supply",
-        "url": "https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY"
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 220786,
-      "name": "Don't Turn Me Away",
-      "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
+      "duration_ms": 196986,
+      "name": "Baby I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
     }
   ],
   "unique_name": "Free & Easy",

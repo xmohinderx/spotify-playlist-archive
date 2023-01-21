@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=5WeMSXULTGyTnsELZudR7g"> Ajebutter22</a>
 
-314 songs - 15 hr 46 min
+315 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Half A Tab](https://open.spotify.com/track/1b2mZ6mvFiZODiryE8yCbu) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Half A Tab](https://open.spotify.com/album/5yeqa3GNE5Zcs61GSed69Y) | 2:27 | 2021-11-18 | 2022-03-18 |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-13 |  |
 | [Harmonies](https://open.spotify.com/track/2h3xA1mf6B97jva8IRey0q) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Harmonies](https://open.spotify.com/album/0SmedlnWnFeGqtKDNwm1zN) | 2:14 | 2021-08-20 | 2022-04-01 |
-| [Hear My Sound](https://open.spotify.com/track/2vCndumgGW5m8Bi16Y3mNg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Hear My Sound](https://open.spotify.com/album/3bj9XrXiZ6kPs0YhSF9XDp) | 2:56 | 2023-01-19 |  |
+| [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s.](https://open.spotify.com/artist/6uQK3GfXZP6v7vyixKeLBh) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 | 2023-01-19 |  |
+| [Hear My Sound](https://open.spotify.com/track/2vCndumgGW5m8Bi16Y3mNg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Hear My Sound](https://open.spotify.com/album/3bj9XrXiZ6kPs0YhSF9XDp) | 2:56 | 2023-01-19 | 2023-01-21 |
 | [HEATING ROCKS](https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-03 |  |
 | [Henny On Ice](https://open.spotify.com/track/5eSmyzCde26A6AZgJ6KEF6) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Your Girlfriend's Boyfriend](https://open.spotify.com/artist/6lPkx7GD1Psxfej0rz810E), [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Dedejaé](https://open.spotify.com/artist/1PbdWGPEp5apUvKCX8XFRm) | [Henny On Ice](https://open.spotify.com/album/1XXeiei6012vYo6GVTem42) | 3:00 | 2022-06-16 | 2022-10-14 |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-03 |  |

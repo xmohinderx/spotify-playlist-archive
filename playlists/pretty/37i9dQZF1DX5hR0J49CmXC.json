@@ -1,15 +1,215 @@
 {
-  "description": "That real hip-hop. Cover: 38 Spesh",
-  "num_followers": 5221,
+  "description": "That real hip-hop. Cover: Kota The Friend",
+  "num_followers": 5373,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGYzNjAwOWU3MTg3ODZiMzZiYzMxZmVjOTRjYWUzMTY3",
+  "snapshot_id": "MTY3NDIyNzIzOCwwMDAwMDAwMDI2ODM5OTNmNmFkYzNjYTc5ZWMzMzM4MWRkMDdiZjQw",
   "tracks": [
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Lyrics to GO, Vol. 4",
+        "url": "https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 132278,
+      "name": "WALES",
+      "url": "https://open.spotify.com/track/5JdUey8Lr6kbSXRKDDWtQy"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Indiana Jones",
+        "url": "https://open.spotify.com/album/1XO6GVqyUmy3AVOclmVoO3"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "RichGains",
+          "url": "https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK"
+        },
+        {
+          "name": "Cassie Jo Craig",
+          "url": "https://open.spotify.com/artist/71kmWtFiVDIwirwZhgCGlV"
+        }
+      ],
+      "duration_ms": 182373,
+      "name": "Saints and Sinners",
+      "url": "https://open.spotify.com/track/27coQy1sDtTU96CY9SMPxm"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "HEROES (feat. DJ Premier)",
+        "url": "https://open.spotify.com/album/35b56rQm3FwWF6wGy03dbI"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "HEROES (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/75RQYCt0aVJrk1QXgwOS32"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Rain Falls",
+        "url": "https://open.spotify.com/album/4IU6tIFCwMuHk5f0CYEhSI"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Rain Falls",
+      "url": "https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 156972,
+      "name": "Ghetto Reporter",
+      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "HERBERT",
+        "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "BUCKET",
+      "url": "https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "MORE BLACK SUPERHEROES (LIMITED EDITION)",
+        "url": "https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 122931,
+      "name": "CONTRADICTIONS",
+      "url": "https://open.spotify.com/track/11gnrvlVKpGudOeoUyUPiL"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Nehruvia (Redux)",
+        "url": "https://open.spotify.com/album/6VdsJfEWJFVswqKFC1vu4Z"
+      },
+      "artists": [
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "duration_ms": 128835,
+      "name": "Elder Blossoms (Bonus)",
+      "url": "https://open.spotify.com/track/4qJk0NpRWAlnh9RiDc6uuw"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Be That as It May",
+        "url": "https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Cuns",
+          "url": "https://open.spotify.com/artist/440Df17wTGxtbFirxmW5l3"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Foot Prints",
+      "url": "https://open.spotify.com/track/05bBn97ouEWSy4rcToF67T"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
+      "album": {
+        "name": "Lyrics to GO, Vol. 4",
+        "url": "https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 84723,
+      "name": "SHE Pt. 2",
+      "url": "https://open.spotify.com/track/4QxxZXnLWDWcU2JVi1Kzv5"
+    },
+    {
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
@@ -37,7 +237,7 @@
       "url": "https://open.spotify.com/track/4UY8uzghtixlMhFR4JFqzF"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Park Bench Blues (feat. Curren$y)",
         "url": "https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1"
@@ -61,83 +261,7 @@
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Be That as It May",
-        "url": "https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Cuns",
-          "url": "https://open.spotify.com/artist/440Df17wTGxtbFirxmW5l3"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Foot Prints",
-      "url": "https://open.spotify.com/track/05bBn97ouEWSy4rcToF67T"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 156972,
-      "name": "Ghetto Reporter",
-      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Rain Falls",
-        "url": "https://open.spotify.com/album/4IU6tIFCwMuHk5f0CYEhSI"
-      },
-      "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Rain Falls",
-      "url": "https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "HERBERT",
-        "url": "https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "BUCKET",
-      "url": "https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
@@ -157,23 +281,7 @@
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "MORE BLACK SUPERHEROES (LIMITED EDITION)",
-        "url": "https://open.spotify.com/album/35kiMt5W98OpChFv4B16oF"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 122931,
-      "name": "CONTRADICTIONS",
-      "url": "https://open.spotify.com/track/11gnrvlVKpGudOeoUyUPiL"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Somebody Up There Loves Me",
         "url": "https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE"
@@ -189,7 +297,7 @@
       "url": "https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -205,7 +313,7 @@
       "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "In The Beginning (Vol. 3)",
         "url": "https://open.spotify.com/album/3TUzdmLEshrvjPw9zsUbtu"
@@ -225,7 +333,7 @@
       "url": "https://open.spotify.com/track/5PAqd79gMDiICGSGaP3rRh"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Flag on the Play",
         "url": "https://open.spotify.com/album/0S2t8ZaN7pKejn2oljIrGA"
@@ -245,7 +353,7 @@
       "url": "https://open.spotify.com/track/5XbnkjcSa8TY535pP633fL"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Rose Gold Rolies",
         "url": "https://open.spotify.com/album/3hGD5PvepQpxtVypyIPaJl"
@@ -265,7 +373,7 @@
       "url": "https://open.spotify.com/track/5fmAEJamWlGXAVu7K1pLuR"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Ill Minded",
         "url": "https://open.spotify.com/album/0mLsPLDJeEuD8CPK2WtM08"
@@ -285,7 +393,7 @@
       "url": "https://open.spotify.com/track/2bq2G9ItTuirfmd0ZDzEuf"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Moonshooter",
         "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
@@ -301,7 +409,7 @@
       "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -317,7 +425,7 @@
       "url": "https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/5G9QOLi5KSYTuZoMpJMa2e"
@@ -349,7 +457,7 @@
       "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "The Good Times Are Killing Me",
         "url": "https://open.spotify.com/album/27EfRDGVVDFjVr7NjFOqR3"
@@ -365,7 +473,7 @@
       "url": "https://open.spotify.com/track/42EY1OgRiaP4ZwnRAj5B0r"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Beyond Belief",
         "url": "https://open.spotify.com/album/4sUrlfdr2MBqd2RU9hWEBS"
@@ -393,7 +501,7 @@
       "url": "https://open.spotify.com/track/6tyChhfP6Zz6PhCh5FdvRh"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/7mn48TUp1KTgkLvmikp4gG"
@@ -417,7 +525,7 @@
       "url": "https://open.spotify.com/track/3KyCfeOOVemk6c1vF8Qjo7"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "God Flows",
         "url": "https://open.spotify.com/album/7ERW7lfTmuvNvgCLOqjZpY"
@@ -437,7 +545,7 @@
       "url": "https://open.spotify.com/track/14wrStF74l3HwpvgIMyCPU"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Born Hustler",
         "url": "https://open.spotify.com/album/0czvcUdIkXYGeoyETuGeOC"
@@ -461,7 +569,7 @@
       "url": "https://open.spotify.com/track/0Riib1E5Ru66C0RnJSFLcK"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
@@ -481,7 +589,7 @@
       "url": "https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Kool Aid (with Dave B.)",
         "url": "https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR"
@@ -501,7 +609,7 @@
       "url": "https://open.spotify.com/track/1spizWhedqBEs55T7UQghA"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Book of David",
         "url": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
@@ -525,7 +633,7 @@
       "url": "https://open.spotify.com/track/2mx7KsvHjcX60LndPpaP3I"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
@@ -541,7 +649,7 @@
       "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Flowers To Go",
         "url": "https://open.spotify.com/album/0E0MaqO6gmxTYspn86Zszr"
@@ -557,7 +665,7 @@
       "url": "https://open.spotify.com/track/0BE0kQKawB7F8Ok2pOdSvt"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Book of David",
         "url": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
@@ -581,7 +689,7 @@
       "url": "https://open.spotify.com/track/2J5kZDuqbaefjmiYikVQJH"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -597,7 +705,7 @@
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Speshal (feat. Stove God Cooks)",
         "url": "https://open.spotify.com/album/311AVHrevLtAs3OQwCYfEp"
@@ -621,7 +729,7 @@
       "url": "https://open.spotify.com/track/2PhzrOqMV0j6oNbvSNJXKo"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Church Clothes 4",
         "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
@@ -637,7 +745,7 @@
       "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "pg baby (Remix)",
         "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
@@ -657,7 +765,7 @@
       "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "I Turned Myself into Myself",
         "url": "https://open.spotify.com/album/6tmKZYFGFxsZHgJwTeUERQ"
@@ -677,7 +785,7 @@
       "url": "https://open.spotify.com/track/7F217Uq61qLs6zkM9dmpzX"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -693,27 +801,7 @@
       "url": "https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 222776,
-      "name": "Gold Rings (feat. Pusha T)",
-      "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Monsieur Dior",
         "url": "https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP"
@@ -729,23 +817,7 @@
       "url": "https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Mr. Ten08",
         "url": "https://open.spotify.com/album/435IlEi1RnaVcneGSk7UhH"
@@ -769,7 +841,7 @@
       "url": "https://open.spotify.com/track/44KJ6vZyy2oVzgdAFyUbht"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "The Last Remnants",
         "url": "https://open.spotify.com/album/2I5gEMVij8Z6mEJlItaTrt"
@@ -789,23 +861,7 @@
       "url": "https://open.spotify.com/track/2ijOqX5vRDWSEcOAkRFnIM"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Incrementum",
-        "url": "https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR"
-      },
-      "artists": [
-        {
-          "name": "Tre' Amani",
-          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
-        }
-      ],
-      "duration_ms": 192874,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/4Nc1glhenx5rDMu9KCBUAZ"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
@@ -829,7 +885,7 @@
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Every Day",
         "url": "https://open.spotify.com/album/5Byyl02hrARVQkUMMeRT5y"
@@ -853,7 +909,7 @@
       "url": "https://open.spotify.com/track/5WXAKGcbmlPXboHrDqG99O"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Francis Ford Coppola",
         "url": "https://open.spotify.com/album/5niKVfj2vTA0RSCIDZ35PN"
@@ -869,7 +925,7 @@
       "url": "https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "MUDPIES (Live on MajorStage)",
         "url": "https://open.spotify.com/album/70BBg9e4HYTBLe0Uz1eGXb"
@@ -889,7 +945,7 @@
       "url": "https://open.spotify.com/track/1dQwILrc52hfyf7Mp1w1nK"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "Tony Fontana III",
         "url": "https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0"
@@ -909,23 +965,7 @@
       "url": "https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Believe In Drugs Not People",
-        "url": "https://open.spotify.com/album/169Ez4Ejlig4rjOq9kedID"
-      },
-      "artists": [
-        {
-          "name": "Doley Bernays",
-          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
-        }
-      ],
-      "duration_ms": 145099,
-      "name": "Believe In Drugs Not People",
-      "url": "https://open.spotify.com/track/2BGsuZxIUyyZQZMdUPwhmU"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/5Ppddoair6ilvlW0fj0Swv"
@@ -941,23 +981,7 @@
       "url": "https://open.spotify.com/track/7LLGHxtHo6gCGtAneuR1fw"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Laughing so Hard, it Hurts",
-        "url": "https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 130156,
-      "name": "High John",
-      "url": "https://open.spotify.com/track/55liByWjb2T7j0vohSel10"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 15:07:18",
       "album": {
         "name": "THE LIZ 2",
         "url": "https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0"
@@ -971,26 +995,6 @@
       "duration_ms": 139360,
       "name": "Survival Of The Littest",
       "url": "https://open.spotify.com/track/17CPQUwDN43EcjPUo9lFpe"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Duck Czn: Tiger Style",
-        "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Bone Strait",
-      "url": "https://open.spotify.com/track/6ehw8fzFF2KVOlPdpABRxH"
     }
   ],
   "unique_name": "Mind Right",

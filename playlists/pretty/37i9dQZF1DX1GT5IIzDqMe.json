@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 74187,
+  "num_followers": 74247,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGE1MTg5ZGM2MDM3ZmE0MGY3MDQ5YTM3YmZhNTczYmFm",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGMzZWI2MmRkMDFhMjMzODk0MzY3ODE3YzM5OTg5M2Fi",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -295,18 +295,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "The Legendary Adventures Of A Filter King",
-        "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
       "artists": [
         {
-          "name": "69",
-          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
         }
       ],
-      "duration_ms": 387371,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
+      "duration_ms": 367500,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -327,22 +331,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+        "name": "The Legendary Adventures Of A Filter King",
+        "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "69",
+          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
         }
       ],
-      "duration_ms": 367500,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
+      "duration_ms": 387371,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
     },
     {
       "added_at": "2022-07-22 08:57:48",

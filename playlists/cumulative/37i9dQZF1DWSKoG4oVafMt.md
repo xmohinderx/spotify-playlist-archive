@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-696 songs - 1 day 13 hr 45 min
+697 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 | 2022-07-12 |
 | [Tareefan](https://open.spotify.com/track/38fyfLQMYfsrspaWvqE4Js) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Tareefan](https://open.spotify.com/album/3fhpaWdEVfpp2q5eOHwY0d) | 3:22 | 2022-12-15 |  |
 | [Tasali](https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:33 | 2022-02-01 | 2022-02-12 |
+| [Tasveer](https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Flamboyant](https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3) | 3:53 | 2023-01-20 |  |
 | [Tasveeran](https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Tasveeran](https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj) | 2:47 | 2022-08-19 | 2022-09-23 |
 | [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 | 2022-12-16 |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Graham Barham, Artwork: Fanélie Muselier
 
-1,141 songs - 2 day 14 hr 26 min
+1,142 songs - 2 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [She's Gonna Be a Song](https://open.spotify.com/track/0ThPck1tugo2TXvobasNM0) | [Travis Cormier](https://open.spotify.com/artist/4soE69pMaq60RVqoIq44XL) | [She's Gonna Be a Song](https://open.spotify.com/album/72reefqHo9ZweEht9O2ben) | 3:26 | 2022-01-12 | 2022-02-03 |
 | [She's Like Home](https://open.spotify.com/track/0gNbxADNkKJJyeWIS5kWuc) | [Andrew Sullivan](https://open.spotify.com/artist/6QrSGsqr9JHi88EwDyNpr4) | [She's Like Home](https://open.spotify.com/album/5691GHjBdSyNbWG8sNobG7) | 3:18 | 2022-08-26 | 2022-09-29 |
 | [She's Me](https://open.spotify.com/track/689XMSZtH5eGDmMrqA5t37) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [Back To The Trailer](https://open.spotify.com/album/4TKaMkB2LUaPvRR7n6tIa0) | 3:14 | 2022-10-05 | 2022-12-01 |
+| [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 | 2023-01-20 |  |
 | [Sidetracked](https://open.spotify.com/track/3UKKliVx33RblV4OHILrLK) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Sidetracked](https://open.spotify.com/album/19gJgBC2mXo0VmiNGwqRqM) | 2:42 | 2022-09-28 | 2022-12-01 |
 | [Silver and Gold](https://open.spotify.com/track/2TuAFr9dezkWzpRB1NY1Xt) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Silver and Gold](https://open.spotify.com/album/0GBj1HypmJhYiHysIm27rK) | 3:13 | 2022-03-09 | 2022-04-27 |
 | [Silver Lining](https://open.spotify.com/track/2rhCWKk5YwCGKkLRKNxPxF) | [Stephen Ray](https://open.spotify.com/artist/4rsShVNMG5cSTzL6gEBpOJ) | [Silver Lining](https://open.spotify.com/album/1N50slrTtP8LH3wBIPsyss) | 3:24 | 2023-01-11 |  |

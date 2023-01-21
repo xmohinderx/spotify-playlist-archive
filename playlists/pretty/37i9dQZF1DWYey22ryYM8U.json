@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Mike Bah\u00eda.",
-  "num_followers": 534060,
+  "num_followers": 534179,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE1MDQyOSwwMDAwMDAwMGViNGMwNTRkYTFmYzc0Y2YwNDU5NDY4MDc0NzA3MWI4",
+  "snapshot_id": "MTY3NDE1MDQyOSwwMDAwMDAwMGNlYWU0Y2I0MTEyNGYzODA4MWEzZmQyZjQwY2YwNTEx",
   "tracks": [
     {
       "added_at": "2023-01-13 00:17:40",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
     },
     {
-      "added_at": "2023-01-20 00:18:59",
+      "added_at": "2023-01-21 00:52:20",
       "album": {
         "name": "Prince Royce",
         "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
-        "name": "Cuando Te Toco",
-        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "Cuando Te Toco",
-      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
         "name": "Imaginarme Sin Ti",
         "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 236254,
       "name": "Imaginarme Sin Ti",
       "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
+        "name": "Cuando Te Toco",
+        "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "Cuando Te Toco",
+      "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
     },
     {
       "added_at": "2023-01-13 00:17:40",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
         "name": "De Menor a Mayor",
         "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 176320,
       "name": "El Negrito",
       "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-01-13 00:17:40",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1579,18 +1595,46 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
+        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 184089,
+      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
     },
     {
       "added_at": "2023-01-13 00:17:40",
@@ -1643,50 +1687,6 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
-        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 184089,
-      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
       },
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
+        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        },
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
         "name": "De Camino A Palomino, Vol. 1",
         "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 210446,
       "name": "Se Le Nota",
       "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
-        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        },
-        {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
     },
     {
       "added_at": "2023-01-13 00:17:40",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-01-13 00:17:40",
       "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
+      },
+      "artists": [
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
+    },
+    {
+      "added_at": "2023-01-13 00:17:40",
+      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
@@ -1831,22 +1851,6 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
-    },
-    {
-      "added_at": "2023-01-13 00:17:40",
-      "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
     },
     {
       "added_at": "2023-01-13 00:17:40",

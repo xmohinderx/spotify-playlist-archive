@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,792 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,902 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 4 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 5 | [Ten Stories High](https://open.spotify.com/track/0Wz9RJySVFtUTFQk8sjRBv) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [Ten Stories High](https://open.spotify.com/album/5xEwUAv3WJiDtHScEPliQl) | 1:57 |
 | 6 | [UK GRIM](https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/4nlVzlGL7OHDOhST7U4QiJ) | 3:18 |
-| 7 | [Nose](https://open.spotify.com/track/0R6ekQlzZEnfqVur65TuNu) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/34Tp7mxB8CZEuLo2gniYIa) | 3:22 |
+| 7 | [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 |
 | 8 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 |
 | 9 | [Leisure Activities](https://open.spotify.com/track/3h6fAqr2VQiWE0UhP8XXT5) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/6QSqHeRJeQLfAblXXS1ErP) | 4:42 |
 | 10 | [Innocent](https://open.spotify.com/track/38jMT9WHGFsWOtkZ5KNHLi) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Innocent](https://open.spotify.com/album/3boQizm1XreDnUeOPFhNXT) | 4:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 |
 | 125 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 |
 
-Snapshot ID: `MTY3NDE3MjgwMCwwMDAwMDAwMGVhMjA2YTMzODA0M2E4MTRjMjY5YTU0YWVjZDlmM2Rm`
+Snapshot ID: `MTY3NDE3MjgwMCwwMDAwMDAwMGE4ODkwMDQwYzc0ZDhlZTQ0MmNmMmIxMDUwZjJhNzY5`

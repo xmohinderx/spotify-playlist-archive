@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Pip Millett",
-  "num_followers": 113729,
+  "num_followers": 113797,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1Njc4MywwMDAwMDAwMGFlNDUxODg0YzA0OWI0YzA1MzhkMjE5NmRlNWRhMGFl",
+  "snapshot_id": "MTY2NjU1Njc4MywwMDAwMDAwMDYzNWI0NTcxNzU3YzMyYWExODI3MzNlMDJjZmU4YmE5",
   "tracks": [
     {
       "added_at": "2022-07-17 14:39:33",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
-      "added_at": "2023-01-20 01:02:37",
+      "added_at": "2023-01-21 01:31:23",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/2WTSuYVFhBtnsyZzB5BJbi"
     },
     {
-      "added_at": "2023-01-20 01:02:37",
+      "added_at": "2023-01-21 01:31:23",
       "album": {
         "name": "When Everything Is Better, I'll Let You Know",
         "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Strange How Good Things Change",
-        "url": "https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj"
-      },
-      "artists": [
-        {
-          "name": "Elli Ingram",
-          "url": "https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Strange How Good Things Change",
-      "url": "https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Is This Real Love?",
         "url": "https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 180024,
       "name": "Is This Real Love?",
       "url": "https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Strange How Good Things Change",
+        "url": "https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj"
+      },
+      "artists": [
+        {
+          "name": "Elli Ingram",
+          "url": "https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Strange How Good Things Change",
+      "url": "https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
-      "added_at": "2023-01-20 01:02:37",
+      "added_at": "2023-01-21 01:31:23",
       "album": {
         "name": "Not My Job",
         "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 339906,
-      "name": "Don't Let Me Fall",
-      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+      "duration_ms": 339906,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -587,6 +571,22 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7"
       },
@@ -695,6 +675,42 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": "2023-01-21 01:31:23",
+      "album": {
+        "name": "DEH DEH",
+        "url": "https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w"
+      },
+      "artists": [
+        {
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
+        }
+      ],
+      "duration_ms": 189735,
+      "name": "DEH DEH",
+      "url": "https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
         "name": "Take Me Away (feat. EARTHGANG)",
         "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 172493,
       "name": "Take Me Away (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2023-01-20 01:02:37",
-      "album": {
-        "name": "DEH DEH",
-        "url": "https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        }
-      ],
-      "duration_ms": 189735,
-      "name": "DEH DEH",
-      "url": "https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72"
     },
     {
+      "added_at": "2023-01-21 01:31:23",
+      "album": {
+        "name": "Adultsville",
+        "url": "https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 193291,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU"
+    },
+    {
       "added_at": "2022-07-17 14:39:33",
       "album": {
         "name": "Undertones",
@@ -779,22 +795,6 @@
       "duration_ms": 170306,
       "name": "Seven Nights",
       "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
-    },
-    {
-      "added_at": "2023-01-20 01:02:37",
-      "album": {
-        "name": "Adultsville",
-        "url": "https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 193291,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 233407,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -885,7 +869,7 @@
       "url": "https://open.spotify.com/track/68yUHwnNiuhltk2HQoIu9l"
     },
     {
-      "added_at": "2023-01-20 01:02:37",
+      "added_at": "2023-01-21 01:31:23",
       "album": {
         "name": "Ebbs and Flows",
         "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
@@ -899,6 +883,22 @@
       "duration_ms": 199658,
       "name": "Ebbs and Flows",
       "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 233407,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "Serial",
-        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
       },
       "artists": [
         {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+      "duration_ms": 147866,
+      "name": "Galaxy Swim (Deeper)",
+      "url": "https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2022-07-17 14:39:33",
       "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
       },
       "artists": [
         {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Galaxy Swim (Deeper)",
-      "url": "https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj"
-    },
-    {
-      "added_at": "2022-07-17 14:39:33",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC"
-      },
-      "artists": [
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 214302,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s"
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
     },
     {
       "added_at": "2022-07-17 14:39:33",
@@ -1067,6 +1051,22 @@
       "duration_ms": 200800,
       "name": "Dingaling",
       "url": "https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0"
+    },
+    {
+      "added_at": "2022-07-17 14:39:33",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "duration_ms": 214302,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s"
     }
   ],
   "unique_name": "R&B UK",

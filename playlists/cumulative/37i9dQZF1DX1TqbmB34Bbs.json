@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "031 (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/3mxjYI7asL45mOaBmMDqK5"
+    },
+    {
+      "album": {
         "name": "08BASICK (Feat. 365LIT, CHANGMO, CROWN J, DON MILLS, FANA, GAEKO, LAYONE, lIlBOI, MYUNDO, PAUL BLANCO, SAN E, SWINGS, SKINNY BROWN, VERBAL JINT, YUMDDA) [REMIX]",
         "url": "https://open.spotify.com/album/0CAobao7d24JQl3iIno4Zt"
       },
@@ -7718,7 +7740,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218133,
       "name": "Go (Feat. Simon Dominic, The Quiett)",
       "url": "https://open.spotify.com/track/4YiT7SqlLbZl7cH6Omr74D"

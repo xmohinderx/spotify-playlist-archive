@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,421 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,476 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 32 | [El Gato Hace Miau](https://open.spotify.com/track/7GlXWq8tvrcrQjkHlqVBwd) | [Canciones Infantiles](https://open.spotify.com/artist/2KRUmUbmOXybsu6inukf5C), [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv), [Musica Infantil](https://open.spotify.com/artist/0mTNO73sdURw1cFY9dGirU) | [Musica Infantil](https://open.spotify.com/album/2CCA1nSPub1VdTROW7tnB3) | 0:45 |
 | 33 | [Ahora Quien](https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 3:06 |
 | 34 | [Twist Del Mono Liso](https://open.spotify.com/track/5IexGMIg4gYRPz5ExvcK9A) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Maria Elena Walsh, El Legado \(Para Grandes y Chicos\)](https://open.spotify.com/album/68lycuLL6gJgJizE0UwRFr) | 3:24 |
-| 35 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 |
-| 36 | [Musiquita de Reir](https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
+| 35 | [Musiquita de Reir](https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
+| 36 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 |
 | 37 | [Ave Maria](https://open.spotify.com/track/2UPgdIT0hrEpZGYJjAI8ng) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Sleep Baby Sleep](https://open.spotify.com/album/52SOrUXzcxjRd66DMlhGdN) | 2:17 |
 | 38 | [No Woman No Cry](https://open.spotify.com/track/6EeYBu8RautSHkqJeWgKff) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:43 |
 | 39 | [Duérmete Mi Niño](https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 3:33 |
 | 40 | [La Bella Y La Bestia](https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Paula Rojo](https://open.spotify.com/artist/4fFXSm74duBgF62caO8CW5) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:47 |
-| 41 | [Estrellita](https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 6:04 |
+| 41 | [Más feliz](https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 2:53 |
 | 42 | [La Gozadera](https://open.spotify.com/track/2KGpCouUk6W0t0c6428Sd3) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 3:11 |
-| 43 | [Más feliz](https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 2:53 |
+| 43 | [Estrellita](https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 6:04 |
 | 44 | [El Nino Robot](https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN) | [Los Hermanos Rincon](https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2) | [El Niño Robot](https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4) | 2:31 |
 | 45 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
 | 46 | [Sin Miedo](https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita De Limón Con Chía](https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
 | 50 | [Estrellita Viajera](https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 4:24 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGNjNzZjZmQ2Zjc0NTkxM2YxYzNmNGMzMTM3YmExMWY1`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGM1YjU0YWI1YWRlNjE0OTNkMWJhY2FhMDlmN2I3ZmEx`

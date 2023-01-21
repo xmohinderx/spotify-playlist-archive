@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,845 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,882 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 29 | [Back To Basics \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:30 |
 | 30 | [Sweet Caroline](https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Right Round / Sweet Caroline \- Single](https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE) | 1:52 |
 | 31 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
-| 32 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
-| 33 | [When Will I Be Loved](https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [When Will I Be Loved](https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY) | 2:39 |
+| 32 | [When Will I Be Loved](https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [When Will I Be Loved](https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY) | 2:39 |
+| 33 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
 | 34 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 |
 | 35 | [Kennedy Center Performance \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 2:26 |
 | 36 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 41 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
 | 42 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
 | 43 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 |
-| 44 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
-| 45 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
+| 44 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
+| 45 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 46 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
 | 47 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 |
 | 48 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 57 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDA3ZmNkNGY1M2M1ZjYzNjU1YThiMWI3OWNmYTE0Yjdk`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDJmOWIwMGQ1N2VhODU4ZDZhNjVmYmQ2YTZkNWNlNDI3`

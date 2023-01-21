@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-281 songs - 16 hr 34 min
+284 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-09-30 | 2022-11-09 |
 | [Can't Wait](https://open.spotify.com/track/1hhBAsb37DIoVQAgOgjVd1) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Can't Wait](https://open.spotify.com/album/6i5SB6LiZyHouxLdnqTJmT) | 3:34 | 2022-12-15 |  |
 | [Care About You](https://open.spotify.com/track/5EdKpHVNlOuoQIf8rjvRrc) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Driving In The Dark](https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR) | 2:51 | 2022-04-05 | 2022-09-07 |
+| [Caroline](https://open.spotify.com/track/3OW0jmq5jeDiDnYKI0apJJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Caroline](https://open.spotify.com/album/2yTkGlRAiUEZLxdqOR2ejq) | 3:32 | 2023-01-20 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-27 | 2022-09-07 |
 | [Ce n'est Rien](https://open.spotify.com/track/0bJ3tEUaUQewD9EUTuh2XX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:00 | 2021-12-16 | 2022-02-22 |
 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 | 2022-01-13 | 2022-04-15 |
@@ -62,7 +63,7 @@
 | [Chasing Highs](https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Chasing Highs](https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav) | 3:10 | 2022-09-06 |  |
 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 | 2021-12-16 | 2022-02-18 |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-06 | 2022-11-05 |
-| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 |  |
+| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 | 2023-01-21 |
 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 | 2022-06-30 | 2022-10-01 |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 | 2022-09-07 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-31 |  |
@@ -110,6 +111,7 @@
 | [Ghost of Me](https://open.spotify.com/track/13h4nnoCFSoViZg6qkbB06) | [Whatever, Forever](https://open.spotify.com/artist/7cSHROK79syPPup9vExJrJ) | [Ghost of Me](https://open.spotify.com/album/6t57vk4AnlqKEKVReNSund) | 3:47 | 2021-12-16 | 2022-03-22 |
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-09-06 | 2022-12-03 |
+| [Glazed Over](https://open.spotify.com/track/5MF8AmnvhY7uW3fgxKOVFf) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 2:58 | 2023-01-20 |  |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-12-16 | 2022-02-18 |
 | [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-10-28 | 2022-11-24 |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 | 2022-12-16 |
@@ -166,7 +168,7 @@
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 | 2022-05-12 | 2022-09-07 |
 | [Mind over Matter](https://open.spotify.com/track/2lLIr0cbqeirkMBnl586eD) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Mind over Matter / Spiders](https://open.spotify.com/album/0y38lgjrYOvBibgGgkQiiz) | 2:22 | 2022-09-06 | 2022-10-01 |
-| [Misplaced](https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0) | [Pale Shelter](https://open.spotify.com/artist/2rrl6d6AQ73RanJg4lE76W) | [Persona Non Grata](https://open.spotify.com/album/6CrN61hu9FHKyWKbyNHlyK) | 3:48 | 2023-01-13 |  |
+| [Misplaced](https://open.spotify.com/track/1Ymfg3ga6MgtBaD3Cal5Q0) | [Pale Shelter](https://open.spotify.com/artist/2rrl6d6AQ73RanJg4lE76W) | [Persona Non Grata](https://open.spotify.com/album/6CrN61hu9FHKyWKbyNHlyK) | 3:48 | 2023-01-13 | 2023-01-21 |
 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-12-16 | 2022-02-25 |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-11-11 | 2022-12-16 |
 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 | 2022-11-04 |  |
@@ -266,7 +268,8 @@
 | [UGLY BUG](https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [The Brass Tax](https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT) | 3:54 | 2022-02-24 | 2022-07-01 |
 | [Under The Knife](https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Under The Knife](https://open.spotify.com/album/7t8h0W6FsxiFFE4EHeBc5S) | 2:56 | 2022-09-22 |  |
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-31 | 2022-09-09 |
-| [Violet](https://open.spotify.com/track/5Pe1xpwCtguYwZN1wvXG1Y) | [Ivory Daze](https://open.spotify.com/artist/0gtcrCkCaPgofVRe0oF1wV) | [Violet](https://open.spotify.com/album/7466whx3RQ3rJ6DYJjzuOb) | 4:17 | 2022-10-28 |  |
+| [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 |  |
+| [Violet](https://open.spotify.com/track/5Pe1xpwCtguYwZN1wvXG1Y) | [Ivory Daze](https://open.spotify.com/artist/0gtcrCkCaPgofVRe0oF1wV) | [Violet](https://open.spotify.com/album/7466whx3RQ3rJ6DYJjzuOb) | 4:17 | 2022-10-28 | 2023-01-21 |
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 |  |
 | [Wall of Silence](https://open.spotify.com/track/2WwLEcSoYJjhTTS7eqUb08) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Wall of Silence](https://open.spotify.com/album/4UBTTNZuO58gEW8EQvrM18) | 3:14 | 2021-12-16 | 2022-03-22 |
 | [Walls](https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Walls](https://open.spotify.com/album/5O4Lzcjk9GDqMm59roa3x7) | 3:04 | 2021-12-16 | 2022-04-01 |

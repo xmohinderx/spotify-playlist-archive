@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/1h4UXcv1j2ckfDuLqdqe1c"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Horizonte",
+      "url": "https://open.spotify.com/track/7GVZe59ZSJ8IKKRVGB72gr"
+    },
+    {
+      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6"
       },

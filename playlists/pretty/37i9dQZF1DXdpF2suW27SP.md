@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > T\-Rex entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,578 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,622 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 16 | [Sabe a Pouco](https://open.spotify.com/track/5AN71cVGPu9ZrRow7QIjnU) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Sabe a Pouco](https://open.spotify.com/album/2nWtjdgJlnz5lvrlaH0pRv) | 3:55 |
 | 17 | [Mama Ka Bu Txora](https://open.spotify.com/track/5CEghr9OYpFrCZurmxJThm) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Mama Ka Bu Txora](https://open.spotify.com/album/3pIB5eUZkMs51KRDsWjswx) | 4:00 |
 | 18 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
-| 19 | [LUMI](https://open.spotify.com/track/74lZ2yteCAFo7a5naosE3g) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [LUMI](https://open.spotify.com/album/4RbIyOlxxdy5gJiREf8yd2) | 3:07 |
+| 19 | [LUMI ZOO](https://open.spotify.com/track/74lZ2yteCAFo7a5naosE3g) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [LUMI ZOO](https://open.spotify.com/album/4RbIyOlxxdy5gJiREf8yd2) | 3:07 |
 | 20 | [Suprior](https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Suprior](https://open.spotify.com/album/2NVz7NmPPqJuuG7D4W7VNW) | 2:39 |
 | 21 | [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 |
 | 22 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 |

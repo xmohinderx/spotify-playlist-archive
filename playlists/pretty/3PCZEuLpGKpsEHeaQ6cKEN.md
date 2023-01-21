@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Armin van Buuren, Matoma, Teddy Swims
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Cat Dealers
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,147 likes - 150 songs - 7 hr 52 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,136 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 149 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 |
 | 150 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
 
-Snapshot ID: `NTIzNTgsNzI2MTY1Mjc5NWMzOTgyNjg4ZWI3NmZiOTlmY2NiNzM0N2QxMDA5ZA==`
+Snapshot ID: `NTIzNjQsZDgwZWM1NTQ5MTI2YThiNTBlNDI2ODBlOWJlODQyMTYwYTc3MGY0MQ==`

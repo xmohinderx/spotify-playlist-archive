@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-68 songs - 3 hr 50 min
+69 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,12 @@
 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 | 2022-06-06 |  |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-06 |  |
 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 | 2022-06-06 |  |
+| [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 | 2023-01-20 |  |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 |  |
 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 |  |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 | 2022-06-25 |
-| [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 |  |
+| [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 | 2023-01-21 |
 | [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 | 2022-06-06 |  |
 | [Kiisa](https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Chuny Adech](https://open.spotify.com/album/2kLX8zNWi2URRm7Mvxw2ib) | 3:24 | 2022-06-06 | 2022-11-11 |
 | [Kukaliba](https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:53 | 2022-06-06 |  |

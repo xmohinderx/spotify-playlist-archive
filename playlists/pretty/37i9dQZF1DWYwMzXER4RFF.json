@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: M(h)aol",
-  "num_followers": 255487,
+  "num_followers": 255562,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0NzEzMiwwMDAwMDAwMDAyODI1NmI0YTQwNmQ3MTk0NTUxMTkxN2FkM2VjMGUw",
+  "snapshot_id": "MTY3NDE0NzEzMiwwMDAwMDAwMGVhMmZmZjA2ZWNmZWFkYzIyZTBlNTU3NDBmMmM3MDQ4",
   "tracks": [
     {
       "added_at": "2023-01-19 16:52:12",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-19 16:52:12",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2023-01-19 16:52:12",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 118521,
       "name": "Blue Sheen",
       "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2023-01-19 16:52:12",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2023-01-19 16:52:12",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-19 16:52:12",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2023-01-19 16:52:12",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 271106,
       "name": "I Don't Belong",
       "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+    },
+    {
+      "added_at": "2023-01-19 16:52:12",
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2023-01-19 16:52:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-19 16:52:12",
       "album": {
-        "name": "Every Bad (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
-    },
-    {
-      "added_at": "2023-01-19 16:52:12",
-      "album": {
         "name": "Suntan / Damocles",
         "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 299068,
       "name": "Suntan",
       "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+    },
+    {
+      "added_at": "2023-01-19 16:52:12",
+      "album": {
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
     },
     {
       "added_at": "2023-01-19 16:52:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-19 16:52:12",
       "album": {
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 157199,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
+    },
+    {
+      "added_at": "2023-01-19 16:52:12",
+      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw"
       },
@@ -867,34 +883,18 @@
     {
       "added_at": "2023-01-19 16:52:12",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
       "artists": [
         {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
         }
       ],
-      "duration_ms": 204354,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
-    },
-    {
-      "added_at": "2023-01-19 16:52:12",
-      "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 157199,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
+      "duration_ms": 178654,
+      "name": "Avoidarama",
+      "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
     }
   ],
   "unique_name": "Post Punk",

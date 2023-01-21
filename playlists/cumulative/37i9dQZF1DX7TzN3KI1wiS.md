@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 6 hr 29 min
+69 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Awake](https://open.spotify.com/track/0VQcfWi6k4kLOXyOW7YcJO) | [Neither](https://open.spotify.com/artist/7HBVMS57dTJTvNbg6VZ0Nd) | [Exposure](https://open.spotify.com/album/7CdyCtnFb6zI5RIZDaF6yH) | 7:10 | 2022-10-14 |  |
 | [Bind](https://open.spotify.com/track/5SKQlsVC41xO7KLmAqqoij) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Colure](https://open.spotify.com/album/1Lca0I1wv9awAPe6DNHOal) | 4:12 | 2022-10-14 |  |
 | [Body Free \- Original Mix](https://open.spotify.com/track/2McZ6Ntes1gHxzmRA1sq9k) | [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA) | [Body Free EP](https://open.spotify.com/album/3xgHwrN3Kj7mBX8MBFSDbZ) | 7:28 | 2022-10-14 |  |
+| [Can You Feel](https://open.spotify.com/track/4YPs1fsVW9KKJoPxSdRe5V) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Can You Feel](https://open.spotify.com/album/1w5YChnFdQVK4bmKNQMFfh) | 3:40 | 2023-01-20 |  |
 | [Closer \- Radio Edit](https://open.spotify.com/track/6YKW4wcIDefjPzaB5XEpeS) | [As I Am](https://open.spotify.com/artist/6xq703R9S1pfnUYv8npQTU), [Jedd Roberts](https://open.spotify.com/artist/3Fb5rkZb1joETygPJsBF6V) | [Closer](https://open.spotify.com/album/0PdouvNAaoaniNawGgdsaC) | 3:17 | 2022-10-14 |  |
 | [Complex Arguments](https://open.spotify.com/track/3ZggU826FUTTtULnRK8Jxh) | [DesertF!sh](https://open.spotify.com/artist/29X0HFICNL1YoQJmrWZwOL) | [Complex Arguments](https://open.spotify.com/album/6AGVrf6jDZ7SNhNE6TNDSZ) | 7:44 | 2022-10-14 |  |
 | [Dance With Me \- Mixed](https://open.spotify.com/track/4R2CPwLVEWTpDrY4mEPktq) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:19 | 2022-10-14 |  |
@@ -61,6 +62,7 @@
 | [Rendezvous](https://open.spotify.com/track/2veLnenW3fky3BBOKWFfwH) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 6:34 | 2022-10-14 |  |
 | [Set Me Free](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 | 2022-11-04 |  |
 | [Shallow \- Ben Böhmer Remix](https://open.spotify.com/track/1drqut7btLgFmQROnZp6aw) | [Bongbeck](https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Golem](https://open.spotify.com/album/04o0OA8XR3cC6bjhS9rSAg) | 7:50 | 2022-10-14 |  |
+| [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 | 2023-01-20 |  |
 | [Skin & Bones feat\. Lydmoor & Bon Homme](https://open.spotify.com/track/2055wOcQgZovqaQkw5Ysnn) | [Terranova](https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP), [Lydmoor](https://open.spotify.com/artist/0zQINzMtshHtPMnquYdY8d), [Bon Homme](https://open.spotify.com/artist/26medj5lDSbOxPHWBgDxL8) | [Restless](https://open.spotify.com/album/4yo6etaXX7ZEw8nvNkTxiL) | 7:01 | 2022-10-14 |  |
 | [Skinny Cat Feat\. Forrest \- Original Mix](https://open.spotify.com/track/2tkxOb7MHFbZjHs0mZI0VS) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Skinny Cat EP](https://open.spotify.com/album/4lLxXV5iDr2iUvjzK1bCHR) | 7:26 | 2022-10-14 |  |
 | [Soldier](https://open.spotify.com/track/2gmjeSpQI7dvGLLcsu6SQq) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Soldier](https://open.spotify.com/album/2zF9dHUmB0BgzdxP2uKt49) | 3:10 | 2022-10-14 |  |

@@ -4,7 +4,7 @@
 
 > Sing along and enjoy the drive...
 
-816 songs - 2 day 2 hr 14 min
+817 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2020-06-12 | 2022-04-21 |
 | [My My My!](https://open.spotify.com/track/1YHT1FZv5t3ZFLsVPuy6Rq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/1OyADPvYTlmT5hV0mtxLAY) | 3:24 | 2019-09-07 | 2021-05-25 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-11-11 |  |
-| [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2020-06-12 |  |
+| [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2020-06-12 | 2023-01-21 |
 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 | 2021-03-14 | 2022-04-16 |
 | [Never Go Back](https://open.spotify.com/track/2QrXzOqLCVDRZHkToA0tSR) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Never Go Back](https://open.spotify.com/album/5EqITahBSjWcU71mbhFPEf) | 2:55 | 2020-06-12 | 2022-04-17 |
 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/4c9VuqkKaey9u0IihbUKTt) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/4mi6q0pYsGSHAgckJVwwo9) | 3:04 | 2020-06-12 | 2022-04-19 |
@@ -796,6 +796,7 @@
 | [World, Hold On \- Radio Edit](https://open.spotify.com/track/0muVO1yu2wQKNmMvEDrHTp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World, Hold On](https://open.spotify.com/album/0up7xePdxTZ9HKGWF3hHaX) | 3:20 | 2021-03-17 | 2022-04-21 |
 | [Worth It \(feat\. Kid Ink\)](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:44 | 2021-03-09 | 2022-04-20 |
 | [Wouldn't It Be Nice \- Remastered 1999](https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:25 | 2021-03-21 | 2022-04-18 |
+| [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2022-11-14 |  |
 | [Wrecking Ball](https://open.spotify.com/track/6oDPg7fXW3Ug3KmbafrXzA) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/1aUeYy0hXu0KBuJ5To0hS0) | 3:43 | 2021-03-18 | 2022-04-20 |
 | [Yapma](https://open.spotify.com/track/40U9Hj3oyCRHRY1tq2zkbS) | [C ARMA](https://open.spotify.com/artist/1wLLRA70itxEltujaQlLiT) | [Yapma](https://open.spotify.com/album/5idV0GFluaCC8siMrgTze8) | 2:49 | 2020-06-12 | 2021-01-15 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2021-03-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Erica Campbell",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Aaron Lindsey and Fred Hammond",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6gN21PnSYvEI1luXf7lL1B"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lindsey",
+          "url": "https://open.spotify.com/artist/4V6jbtRhAeabsaTqDjESUm"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200970,
+      "name": "Blessed - Single Version",
+      "url": "https://open.spotify.com/track/32S5FDM1d30qsEI5po3Hly"
+    },
+    {
+      "album": {
         "name": "Blessing Now",
         "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
       },
@@ -914,6 +936,24 @@
       "duration_ms": 271874,
       "name": "Feel Alright (Blessed)",
       "url": "https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK"
+    },
+    {
+      "album": {
+        "name": "Fill Us Again",
+        "url": "https://open.spotify.com/album/1UY2yWmD89szxPnrBpCVXX"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442641,
+      "name": "Fill Us Again",
+      "url": "https://open.spotify.com/track/7kVkRvD6GzhiE9HyeTyzUx"
     },
     {
       "album": {
@@ -3976,7 +4016,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 345227,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4qFYFJA0tDNfn4a9AqGhiV"
@@ -4368,6 +4408,24 @@
       "duration_ms": 334681,
       "name": "Victory, No Defeat",
       "url": "https://open.spotify.com/track/7xzuUKuFt40bl1gpCGdgHZ"
+    },
+    {
+      "album": {
+        "name": "View The City (Remix)",
+        "url": "https://open.spotify.com/album/7K0eWzmViERBe9IKdIa9xC"
+      },
+      "artists": [
+        {
+          "name": "RiZen",
+          "url": "https://open.spotify.com/artist/7C3Pq2a9BxqO7lEhCuXMLV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "View The City (Remix)",
+      "url": "https://open.spotify.com/track/7AYkcUM5V8XMOapDLfyhum"
     },
     {
       "album": {
@@ -4918,7 +4976,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218000,
       "name": "You're Coming Out",
       "url": "https://open.spotify.com/track/68oy8qZSZt6O7Pxmr0KGRm"

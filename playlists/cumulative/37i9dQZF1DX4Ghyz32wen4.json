@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Tiago PZK en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Nsqk en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245700,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW"
     },
     {
       "album": {
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196000,
       "name": "No Inventes",
       "url": "https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU"

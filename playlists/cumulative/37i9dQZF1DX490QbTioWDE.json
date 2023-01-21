@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Aqui No Es",
+        "url": "https://open.spotify.com/album/39ONwIdsefek7bPlFV75an"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188944,
+      "name": "Aqui No Es",
+      "url": "https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV"
+    },
+    {
+      "album": {
         "name": "Arrasando / Soy Lo Que Me Das",
         "url": "https://open.spotify.com/album/6HKNcLg2AYBEVE9FhCoaUU"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204800,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 258821,
       "name": "Manos de Tijera - En Vivo",
       "url": "https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo"
@@ -2946,6 +2964,24 @@
       "duration_ms": 240173,
       "name": "Mujer malvada",
       "url": "https://open.spotify.com/track/121yzW3a3gcgOfiJ0SXX8p"
+    },
+    {
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/6Y9bY68cLZTtx9wE6qpmE0"
+      },
+      "artists": [
+        {
+          "name": "ARRIBA LAS PALMAS",
+          "url": "https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212537,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/2vPg7rh3zgQ587xjODXF4S"
     },
     {
       "album": {

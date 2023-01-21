@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,886 likes - 69 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,976 likes - 69 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 66 | [Still](https://open.spotify.com/track/1euWIfZZm1cd7E3pRbKxXB) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Still](https://open.spotify.com/album/2axI1ucvh4UcT2BjJWFSaH) | 3:17 |
 | 67 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 68 | [Uncertainty](https://open.spotify.com/track/0JNVvSNvv0MuCiKu4lDbtp) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 4:12 |
-| 69 | [Videotape \(Façade\)](https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 5:34 |
+| 69 | [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 |
 
-Snapshot ID: `MTY3MzI3NDU3OSwwMDAwMDAwMGRkZTZlNDFiYTlkNDcxZjgwM2Q2OGQ2ZDRjZGFlZDQx`
+Snapshot ID: `MTY3NDIyNzA5OSwwMDAwMDAwMDBlZDUyMTYxYjU2NDA1YTU5YWIwMzVjN2UyMWMyMWU4`

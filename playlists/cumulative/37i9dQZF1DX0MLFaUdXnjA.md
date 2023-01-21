@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lizzy McAlpine
 
-1,147 songs - 2 day 13 hr 7 min
+1,149 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 | 2020-08-07 | 2020-12-04 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-23 | 2022-03-26 |
 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2022-09-16 | 2022-10-15 |
+| [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2023-01-20 |  |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2020-10-02 | 2021-06-12 |
 | [Atlanta](https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Atlanta](https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2) | 3:25 | 2020-05-01 | 2020-08-07 |
@@ -392,7 +393,7 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2020-08-14 | 2021-01-15 |
 | [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2022-09-16 | 2022-11-13 |
-| [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-11 |  |
+| [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-11 | 2023-01-21 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-09 | 2022-03-26 |
 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 | 2021-07-04 | 2021-09-18 |
 | [gold rush](https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:05 | 2020-12-13 | 2021-03-19 |
@@ -783,7 +784,7 @@
 | [Palladium](https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:07 | 2022-09-23 | 2022-10-15 |
 | [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 | 2022-09-25 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2022-04-02 |
-| [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 |  |
+| [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-01-21 |
 | [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 | 2022-08-26 | 2022-11-14 |
 | [Paper Planes](https://open.spotify.com/track/5GzgEC6pWf1USZsCtkG8yC) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Paper Planes](https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0) | 3:19 | 2020-04-26\* | 2020-09-04 |
 | [paper thin](https://open.spotify.com/track/52SEe3AOwJVuNdKuQAAZVm) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [paper thin](https://open.spotify.com/album/3Pjza99sXkqv5XaYswAY3u) | 3:30 | 2020-08-07 | 2020-10-23 |
@@ -1080,6 +1081,7 @@
 | [Wait For Me](https://open.spotify.com/track/6Bl66NXXH6Riyzn3NMrzcZ) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Wait For Me](https://open.spotify.com/album/7pDIe8zhZj6EXu38iTgZbn) | 3:05 | 2020-11-13 | 2021-02-19 |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2020-04-26\* | 2020-07-31 |
 | [Waited](https://open.spotify.com/track/1keIBDzP5vNIwdbMDL7lMh) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [Waited](https://open.spotify.com/album/0qehFDUTpSGog97WSUwVHI) | 2:46 | 2020-10-30 | 2021-01-15 |
+| [Waiting for a Boy](https://open.spotify.com/track/1rYC7nIm9w8eZTp6S76FHb) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Waiting for a Boy](https://open.spotify.com/album/1PfVs3Av4MdNYnCA2LeQQ8) | 4:50 | 2023-01-20 |  |
 | [Wake Up At Our Funeral](https://open.spotify.com/track/3jgJO38PaJzSlldDLunFlb) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Wake Up At Our Funeral](https://open.spotify.com/album/2k7QRmLX5cflHVnRUZlwMZ) | 3:06 | 2021-08-28 | 2021-09-18 |
 | [Walk Away](https://open.spotify.com/track/2nuj2gegHdi5AryRwfXeli) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Walk Away](https://open.spotify.com/album/2JRSlm9fvzIhQPniDpmC8e) | 3:34 | 2022-09-09 | 2022-10-15 |
 | [walkin away](https://open.spotify.com/track/1Ma3MobM1PLGweJGm5Uot6) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [walkin away](https://open.spotify.com/album/2HK5ELNGPvIRwzKapotDmJ) | 3:06 | 2021-08-21 | 2021-09-18 |

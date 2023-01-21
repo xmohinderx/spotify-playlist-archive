@@ -4,13 +4,14 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-189 songs - 11 hr 26 min
+190 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 pm](https://open.spotify.com/track/1GrnKK5OMhKEYwjpOFVPRU) | [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt), [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa) | [MUGEN](https://open.spotify.com/album/1RxN64wDwRlrW730juNXa8) | 3:15 | 2022-10-20 | 2022-11-30 |
 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 | 2022-11-10 | 2022-12-21 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 |  |
+| [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-10-26 |
 | [Another One](https://open.spotify.com/track/0hI90Rfg7XR90i773C7EPo) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Another One](https://open.spotify.com/album/0pKHkskgK1hYJFkrpEGyZq) | 2:50 | 2022-12-15 |  |
 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2022-12-08 |  |
@@ -192,7 +193,7 @@
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-20 | 2022-10-26 |
 | [女の子は誰でも \~Fly Me To Heaven\~ \- STUTS Remix](https://open.spotify.com/track/4XAXBrO1WFHzubLC5pV7jx) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [百薬の長](https://open.spotify.com/album/7tean6qlQaKq6tyqzaLrpR) | 4:19 | 2022-11-29 | 2023-01-20 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-11-29 | 2022-12-02 |
-| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 |  |
+| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2023-01-06 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
 | [肌](https://open.spotify.com/track/4feplpsR36DD09WfE5MqLl) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [肌](https://open.spotify.com/album/3gt2UvnXJQHQugGxaZO6Jx) | 3:43 | 2022-12-01 | 2023-01-13 |

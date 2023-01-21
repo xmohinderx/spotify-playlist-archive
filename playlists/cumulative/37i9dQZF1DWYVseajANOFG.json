@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Coexistencia",
+        "url": "https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Casaya",
+      "url": "https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv"
+    },
+    {
+      "album": {
         "name": "CASIO",
         "url": "https://open.spotify.com/album/1pfRvtEcvCTkvuufARDURL"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 194507,
       "name": "Corazon en Venta",
       "url": "https://open.spotify.com/track/2ghXk7RN8UdQnfidePtlZZ"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
@@ -1036,6 +1054,32 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "album": {
+        "name": "Hey Shorty",
+        "url": "https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Hey Shorty",
+      "url": "https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO"
     },
     {
       "album": {
@@ -2452,7 +2496,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 136562,
       "name": "Se Murio Todo",
       "url": "https://open.spotify.com/track/5FqKPAL1z8ManW4VkkFTLs"
@@ -3020,6 +3064,24 @@
       "duration_ms": 160853,
       "name": "UNA VAINA LOKA",
       "url": "https://open.spotify.com/track/5yTkmQFKrr3raDab181y59"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278345,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG"

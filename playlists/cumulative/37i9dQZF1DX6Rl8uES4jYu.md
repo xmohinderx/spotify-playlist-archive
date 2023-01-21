@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-340 songs - 19 hr 17 min
+341 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 | 2022-04-22 | 2023-01-06 |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
+| [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-20 |  |
 | [Cape Town Plush](https://open.spotify.com/track/4lrI3nGipSJnyL8YoI7bVF) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Cape Town Plush](https://open.spotify.com/album/76XdnaXob283oq6LDyLESW) | 3:21 | 2022-03-11 | 2022-07-29 |
 | [Cauliflower](https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5) | [Shine to Rise](https://open.spotify.com/album/4PfHfTymdIj9G24SO75wQI) | 2:18 | 2020-12-25 | 2022-03-26 |
 | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/album/5z0NKs8Nb8dAPfZywEJjAi) | 3:08 | 2021-10-29 | 2022-09-03 |
@@ -334,7 +335,7 @@
 | [Where Do I Go From Here](https://open.spotify.com/track/6GgilVSiwORRZpxDVS5VrZ) | [Soulpersona](https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362), [Princess Freesia](https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER) | [Extended Pleasure](https://open.spotify.com/album/3ajFuJCUGHt96d8EE9BmMn) | 5:54 | 2021-09-21 | 2022-04-21 |
 | [Which Side You're On](https://open.spotify.com/track/7aBjTHXRcZed06n0rWgyLu) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/7Lo6Fc6SRr1AxIKIK3Fbjz) | 3:34 | 2021-05-14 | 2022-04-20 |
 | [White Knuckles](https://open.spotify.com/track/4Oq4ZOVKOHkQdqQnR3WuH3) | [Yes Please](https://open.spotify.com/artist/5CCzvTURuUq1HQ6bazBVTc) | [White Knuckles](https://open.spotify.com/album/0KiiuXruo2JhUHxpDP4Add) | 4:02 | 2021-09-21 | 2022-04-21 |
-| [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 |  |
+| [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 | 2023-01-21 |
 | [Why Do I?](https://open.spotify.com/track/1idb0UwGFUvrLRxGndnQhr) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/384hEnsXsFYB37WvBwuXBI) | 3:57 | 2021-02-22 | 2022-07-18 |
 | [Wild](https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Wild](https://open.spotify.com/album/0EI2qlr3ZYkERbLzVa78B1) | 2:49 | 2022-03-18 | 2022-07-29 |
 | [Wild \(Golden Child\) \- Japan Bonus Track](https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Human Nature](https://open.spotify.com/album/0dyMYUDG6M9pLNYo3Oh0pB) | 3:32 | 2020-11-13 | 2022-03-17 |

@@ -4,12 +4,13 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-377 songs - 22 hr 57 min
+378 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2019-08-12 | 2021-03-23 |
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2019-07-29\* |  |
+| [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 | 2023-01-13 |  |
 | [A Couple Things](https://open.spotify.com/track/3RMfsHdRlQRlaK7Szrosi6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A Couple Things](https://open.spotify.com/album/0nj3aFMmrKfmJ7rCEg38IB) | 2:40 | 2020-06-12 | 2022-04-20 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-05-27 | 2022-09-12 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2qS1Bdyf7auoGgaknhdda9) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/5z6BU4hFDdsZ1z208K5K0a) | 3:59 | 2020-11-04 | 2021-01-12 |
@@ -359,7 +360,7 @@
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2019-10-25 | 2022-06-28 |
 | [What If I](https://open.spotify.com/track/4WseJ30wu5uelTqxvAK9oy) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [What If I](https://open.spotify.com/album/61XRiZkqYuCg6wWGdo32nn) | 3:34 | 2021-10-16 | 2022-07-29 |
 | [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2019-10-25 | 2021-03-22 |
-| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2022-07-18 |  |
+| [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 | 2022-07-18 | 2023-01-21 |
 | [When They Fight, They Fight](https://open.spotify.com/track/37r6i0GTqgR05rGe5wNhmp) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6mES0vIWVEiegixo1F9L0a) | 3:20 | 2021-02-26 | 2022-04-17 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-14 | 2022-07-29 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-07-18 |  |

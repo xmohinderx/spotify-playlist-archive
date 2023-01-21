@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 183215,
       "name": "Always Saw Coming",
       "url": "https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0"
@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Heartless Year",
+        "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Heartless Year",
+      "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
+    },
+    {
+      "album": {
         "name": "Hellbent For Leather",
         "url": "https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z"
       },
@@ -4699,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -4996,7 +5032,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 182226,
       "name": "Rock and Roll Doctor",
       "url": "https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C"

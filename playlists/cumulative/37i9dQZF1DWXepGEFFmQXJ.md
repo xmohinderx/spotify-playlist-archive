@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Bailey Zimmerman
 
-284 songs - 15 hr 33 min
+285 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Country Mile](https://open.spotify.com/track/7LwYZrSlAyp9AjRVgjceYu) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Country Mile](https://open.spotify.com/album/0bZxG7npMWooy6NoqgaTKX) | 3:07 | 2022-09-29 |  |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-06-30 | 2022-12-05 |
 | [Country Outta My Girl](https://open.spotify.com/track/12JnMGEzuhRdyBZ84UAi07) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Country Outta My Girl](https://open.spotify.com/album/5yMa7b6GWvPHTPijIDQVtJ) | 3:22 | 2021-12-30 | 2022-04-01 |
-| [Couple Goals](https://open.spotify.com/track/6ETlC79s5egaDeUdKibjJi) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:53 | 2023-01-19 |  |
+| [Couple Goals](https://open.spotify.com/track/5ewrYLGsdMaW4ew25te6Tn) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Couple Goals](https://open.spotify.com/album/5qLihYxDJu3nTyIcEPD4Ju) | 2:53 | 2023-01-19 |  |
+| [Couple Goals](https://open.spotify.com/track/6ETlC79s5egaDeUdKibjJi) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:53 | 2023-01-19 | 2023-01-21 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-21 | 2022-08-23 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2023-01-05 |  |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-09 | 2022-10-21 |

@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 210000,
       "name": "Bin Salabin",
       "url": "https://open.spotify.com/track/4QXSY2iNj8FeOtFyyb0dTG"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 194000,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/4a3RVKPRmFQzmN01wM9W2f"
@@ -2313,6 +2313,36 @@
     },
     {
       "album": {
+        "name": "Foda-se os Traumas",
+        "url": "https://open.spotify.com/album/1noVPh45922sNKVDdijx28"
+      },
+      "artists": [
+        {
+          "name": "Lukas Loko",
+          "url": "https://open.spotify.com/artist/2kWVT2K32QqCGkCaO1lmkf"
+        },
+        {
+          "name": "Ingles",
+          "url": "https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI"
+        },
+        {
+          "name": "Rossato",
+          "url": "https://open.spotify.com/artist/1iGxbhwpgFmsxVLvPsDefp"
+        },
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Foda-se os Traumas",
+      "url": "https://open.spotify.com/track/4A2jQljMexB7mwjQqE5cMr"
+    },
+    {
+      "album": {
         "name": "Fofoca",
         "url": "https://open.spotify.com/album/6yKEKwE2iahapTWFwXZTbw"
       },
@@ -2666,6 +2696,24 @@
       "duration_ms": 306520,
       "name": "Hipnotizar",
       "url": "https://open.spotify.com/track/0scMYyZi69iR089lzjklEV"
+    },
+    {
+      "album": {
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/1h4UXcv1j2ckfDuLqdqe1c"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Horizonte",
+      "url": "https://open.spotify.com/track/7GVZe59ZSJ8IKKRVGB72gr"
     },
     {
       "album": {
@@ -5490,7 +5538,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 178604,
       "name": "Protocolo",
       "url": "https://open.spotify.com/track/47gW6e3JYGiLpmOPz0CNAS"
@@ -6022,6 +6070,48 @@
       "duration_ms": 168325,
       "name": "Sadomasoquismo (Me Tira da Mira)",
       "url": "https://open.spotify.com/track/6eUjznFQSr6fAF8seWOb9K"
+    },
+    {
+      "album": {
+        "name": "Sala de Estar",
+        "url": "https://open.spotify.com/album/6vpuPtAjG6vcP2NU2Xc9vf"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Sala de Estar",
+      "url": "https://open.spotify.com/track/1LTgY069vxDFybdo3Lhr9h"
     },
     {
       "album": {

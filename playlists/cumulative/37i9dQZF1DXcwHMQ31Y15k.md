@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Hendra Kumbara
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
 
-119 songs - 9 hr 49 min
+121 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cerito Manis](https://open.spotify.com/track/7f603cY33SBaZXtzpUYGx8) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis](https://open.spotify.com/album/378DIDIzE8yFhkpxHQlJXq) | 4:55 | 2022-05-26 |  |
 | [Cerito Manis \- Live](https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis \(Live\)](https://open.spotify.com/album/1aCqINnqJaGOzNZxc4Ne0U) | 4:53 | 2022-08-25 |  |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/0aD7pN12w7BGMijkdG11eK) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2022-05-26 |  |
+| [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-01-20 |  |
 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 | 2022-05-26 | 2022-06-10 |
 | [Dalan Liyane \- Koplo](https://open.spotify.com/track/1vJ6MxPyg7ICttbTvKhvJL) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Dalan Liyane \(Koplo\)](https://open.spotify.com/album/44FEnvngkJ8rX2K0gacMqe) | 4:12 | 2022-05-26 |  |
 | [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 | 2022-05-26 | 2022-06-17 |
@@ -65,6 +66,7 @@
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 |  |
 | [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 |  |
+| [Ngeman](https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Ngeman](https://open.spotify.com/album/5Q92SAizxdSn2L2DinpKJH) | 3:59 | 2023-01-20 |  |
 | [Ninggal Cerito \(Purwokerto\) \[Live Orchestra\]](https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton \(Live Orchestra\)](https://open.spotify.com/album/5VdM1so7eacofy8pbM14Vg) | 5:20 | 2022-05-26 |  |
 | [Nutupi Laraku](https://open.spotify.com/track/5LN58cdv408OOXh52VY99L) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Nutupi Laraku](https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw) | 5:38 | 2022-05-26 | 2022-08-19 |
 | [Nyambangi Ati](https://open.spotify.com/track/6NPQT0KJ0Atca2etKqAoyh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nyambangi Ati](https://open.spotify.com/album/5zeYnW7UwbJPy1eWxAqc45) | 4:27 | 2022-06-09 |  |

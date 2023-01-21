@@ -1,12 +1,12 @@
 {
   "description": "Escuch\u00e1 a Mora Navarro y a m\u00e1s mujeres a todo volumen. \nDales PLAY, dales POWER.",
-  "num_followers": 24722,
+  "num_followers": 24766,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGRkM2MzMTExMDFhNmNiMjNhMzBhYzc4ZDVjZjI4MDM0",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGY1MzI3NDBmYzM3YjdlYTk2NGE3OTRiNDY3Nzg2Njg2",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Pedazo de Cielo",
-        "url": "https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Pedazo de Cielo",
+        "url": "https://open.spotify.com/album/3GpV6vyK5tlNLo9Ih8zcUG"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/0BwmQzBb4aZyJpTSb3gvrH"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -279,30 +279,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Fresh Prince (Remix)",
-        "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 212363,
-      "name": "Fresh Prince - Remix",
-      "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/54kfGMDwPORd3iBxg7Biaf"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 195871,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Fresh Prince (Remix)",
+        "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 212363,
+      "name": "Fresh Prince - Remix",
+      "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Santa Basura [1]",
-        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Escalante",
-          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
-        }
-      ],
-      "duration_ms": 79338,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Ir al Cielo",
         "url": "https://open.spotify.com/album/1CeEByiGtu4Vk3JmZPOnHB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 203506,
       "name": "Ir al Cielo",
       "url": "https://open.spotify.com/track/3M32rJC44XivZBYqrA6QLe"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Santa Basura [1]",
+        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Escalante",
+          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
+        }
+      ],
+      "duration_ms": 79338,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Te Veo",
-      "url": "https://open.spotify.com/track/7bCKA92OWo7QSJ0SUe0CRz"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "ENVOLTORIO",
         "url": "https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 198010,
       "name": "envoltorio",
       "url": "https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Te Veo",
+      "url": "https://open.spotify.com/track/7bCKA92OWo7QSJ0SUe0CRz"
     }
   ],
   "unique_name": "EQUAL Argentina",

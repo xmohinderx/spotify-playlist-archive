@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-322 songs - 1 day 4 hr 0 min
+323 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |
-| [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 |  |
+| [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 | 2023-01-21 |
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 | 2022-07-21 |
 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 | 2022-07-13 |  |
 | [Black Moon Rising](https://open.spotify.com/track/07joZaONeftWMUyrXi7F7a) | [Necrophobic](https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa) | [Darkside](https://open.spotify.com/album/6OtkpXQWWxrBcIpyt2COXH) | 2:50 | 2022-11-14 | 2022-12-06 |
@@ -62,9 +62,10 @@
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 |  |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
+| [Contorted Monuments](https://open.spotify.com/track/67eZWGltRRLeC6CqGo8OI4) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/3T2mwxswFJP50QjDFF2jnH) | 3:56 | 2023-01-20 |  |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
 | [Corset](https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ) | [Cloud Rat](https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG) | [Corset](https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K) | 1:46 | 2022-09-16 | 2022-09-30 |
-| [Cosmic Keys To My Creations](https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd) | 6:22 | 2022-07-13 | 2023-01-20 |
+| [Cosmic Keys To My Creations](https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd) | 6:22 | 2022-07-13 |  |
 | [Cosmic Keys to My Creations and Times \- Emperor EP](https://open.spotify.com/track/2Dm4omgxnNrLchOhyVriSC) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath of the Tyrant](https://open.spotify.com/album/6oF6z5RZWANz1V2q0qQp2L) | 6:22 | 2022-07-13 | 2022-07-28 |
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
@@ -124,7 +125,7 @@
 | [Funeral Fog](https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 5:47 | 2022-07-13 |  |
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
-| [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 |  |
+| [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-01-21 |
 | [Gods of Debauchery](https://open.spotify.com/track/03Zhio4cTHx7feyvJv0DgU) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [Gods of Debauchery](https://open.spotify.com/album/7sDWktL9q8E53QJQjdLmsd) | 6:46 | 2021-12-17 | 2022-03-11 |
 | [Grains](https://open.spotify.com/track/3qJXf6sD3q7fjIBFYEqtlT) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Grains](https://open.spotify.com/album/5p0MfkqRPyvmTw8F4z0cYh) | 6:05 | 2022-03-10 | 2022-03-19 |
 | [Gudars Skymning](https://open.spotify.com/track/4JldgoBVqonhtwE0BX6RzE) | [Night Crowned](https://open.spotify.com/artist/5SErd5q1jffsYwFs3ssVJh) | [Hädanfärd](https://open.spotify.com/album/2IGPyXQg373IL5pfZNhtWc) | 5:52 | 2021-12-17 | 2022-04-02 |

@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Lola Indigo & Luis Fonsi
+> Fresh Latin pop on the rise\. Cover: TIMØ
 
-290 songs - 14 hr 46 min
+292 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 | 2022-10-28 | 2022-12-10 |
 | [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 | 2022-12-16 |  |
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-03-21 | 2022-04-02 |
-| [a tu manera](https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [a tu manera](https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g) | 2:57 | 2022-12-09 |  |
+| [a tu manera](https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [a tu manera](https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g) | 2:57 | 2022-12-09 | 2023-01-21 |
 | [Abril](https://open.spotify.com/track/50o1XBmCMpoasw39taO8V1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [4+1](https://open.spotify.com/album/2DvddMCiT9dskF1esH7vut) | 3:37 | 2022-12-09 | 2022-12-24 |
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-07-28 | 2022-10-29 |
@@ -90,7 +90,7 @@
 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 | 2022-10-04 | 2022-12-10 |
 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 | 2022-10-28 |  |
 | [DIOS](https://open.spotify.com/track/1zonuhZtNqHDqYGKyMkBM6) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [DIOS](https://open.spotify.com/album/6L6dff646oP2c1RNShCwhC) | 3:09 | 2022-03-21 | 2022-04-16 |
-| [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-13 |  |
+| [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-13 | 2023-01-21 |
 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 | 2022-07-25 | 2022-10-29 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-03-21 | 2022-07-02 |
 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 | 2022-07-28 | 2022-10-29 |
@@ -105,6 +105,7 @@
 | [En Camara Lenta](https://open.spotify.com/track/6rHlebUvcnfndGTIDB66gY) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [En Camara Lenta](https://open.spotify.com/album/4B50gmMfVnHcMyURL9cZiq) | 3:23 | 2022-12-02 | 2022-12-17 |
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2022-12-30 |  |
 | [Energia](https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Energia](https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3) | 2:35 | 2022-03-21 | 2022-05-21 |
+| [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-01-20 |  |
 | [Enredado](https://open.spotify.com/track/0OB8T9rkWtd8AkUKOwNiuJ) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Enredado](https://open.spotify.com/album/5PNzzawGM6qicExQSakMxb) | 2:56 | 2022-03-21 | 2022-07-09 |
 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 | 2022-09-23 | 2022-12-10 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-09-09 |  |
@@ -209,6 +210,7 @@
 | [Papelito](https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 2:59 | 2022-10-28 | 2022-12-10 |
 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-23 | 2022-11-02 |
 | [Paracaidas](https://open.spotify.com/track/2eNOhkws1JQe3ihihnZUP0) | [Omar Koonze](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [Paracaidas](https://open.spotify.com/album/4S7eZjHadhLkjm5Rg34CeZ) | 3:39 | 2022-03-21 | 2022-05-07 |
+| [Parcerita](https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Parcerita](https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz) | 1:45 | 2023-01-20 |  |
 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 | 2022-08-08 | 2022-10-29 |
 | [Pecado Original](https://open.spotify.com/track/35gG1L1D4q3Vj4SqdpBqoP) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Pecado Original](https://open.spotify.com/album/5yfY90qBzhRs4Dul2hlj81) | 3:31 | 2022-04-14 | 2022-05-09 |
 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 | 2022-12-02 | 2022-12-17 |

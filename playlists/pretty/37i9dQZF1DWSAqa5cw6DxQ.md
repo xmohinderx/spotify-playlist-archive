@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,659 likes - 112 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,724 likes - 112 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,21 +18,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 8 | [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 |
 | 9 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 |
 | 10 | [Fleeting Thoughts](https://open.spotify.com/track/7KIiDekYdnY4vQUjyzsG8N) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Fleeting Thoughts](https://open.spotify.com/album/2Lh2xrVBPsJXMOkW7xLQmD) | 2:55 |
-| 11 | [Nocturnal Beauty](https://open.spotify.com/track/0w18uoN203yIHzaNsbudYB) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Nocturnal Beauty](https://open.spotify.com/album/0gCkdU5nnd2jFERqAxTJcF) | 2:40 |
-| 12 | [Wherever You Go](https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Wherever You Go](https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U) | 2:35 |
-| 13 | [Awakening](https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Awakening](https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll) | 1:49 |
-| 14 | [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 |
-| 15 | [Blue Depths](https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Blue Depths](https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB) | 3:34 |
-| 16 | [Magic Worlds](https://open.spotify.com/track/3fZsYSmV0wVcYiMxadz8zB) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Magic Worlds](https://open.spotify.com/album/61rBosjZ6hfSCqJcQAfyeh) | 2:52 |
-| 17 | [Sense Of Purpose](https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Sense Of Purpose](https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL) | 2:17 |
-| 18 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 |
-| 19 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 |
-| 20 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
-| 21 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
-| 22 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 |
-| 23 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 |
-| 24 | [Thoughtsurfing](https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78) | [Thoughtsurfing](https://open.spotify.com/artist/1ecXldlIFJPftmiDd4K25a) | [Thoughtsurfing](https://open.spotify.com/album/2Q5VhpyKC9HJKeYCtNuonN) | 2:13 |
-| 25 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 |
+| 11 | [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 |
+| 12 | [Nocturnal Beauty](https://open.spotify.com/track/0w18uoN203yIHzaNsbudYB) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Nocturnal Beauty](https://open.spotify.com/album/0gCkdU5nnd2jFERqAxTJcF) | 2:40 |
+| 13 | [Wherever You Go](https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Wherever You Go](https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U) | 2:35 |
+| 14 | [Awakening](https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Awakening](https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll) | 1:49 |
+| 15 | [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 |
+| 16 | [Blue Depths](https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Blue Depths](https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB) | 3:34 |
+| 17 | [Magic Worlds](https://open.spotify.com/track/3fZsYSmV0wVcYiMxadz8zB) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Magic Worlds](https://open.spotify.com/album/61rBosjZ6hfSCqJcQAfyeh) | 2:52 |
+| 18 | [Sense Of Purpose](https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Sense Of Purpose](https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL) | 2:17 |
+| 19 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 |
+| 20 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 |
+| 21 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
+| 22 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
+| 23 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 |
+| 24 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 |
+| 25 | [Thoughtsurfing](https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78) | [Thoughtsurfing](https://open.spotify.com/artist/1ecXldlIFJPftmiDd4K25a) | [Thoughtsurfing](https://open.spotify.com/album/2Q5VhpyKC9HJKeYCtNuonN) | 2:13 |
 | 26 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 |
 | 27 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 28 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 111 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 112 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MTY3MzYyNzM5NywwMDAwMDAwMDgyYmE0ZmQwNmNmZGZjMTNhZjQyODBmZGNiNzY0Y2Iw`
+Snapshot ID: `MTY3NDIyOTE3NSwwMDAwMDAwMGNjODA0ODNlMGMwMTFjNDg5OWNmZjA5NTQ5N2MxZTc2`

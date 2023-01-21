@@ -2,9 +2,9 @@
 
 ### [feedBack](https://open.spotify.com/playlist/37i9dQZF1DXbmErmrio5En)
 
-> saturation, distortion, overdrive, feedBack\. Cover: poptropicaslutz!
+> saturation, distortion, overdrive, feedBack\. Cover: underscores
 
-70 songs - 3 hr 6 min
+76 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,14 @@
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-12-04 |  |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 |  |
+| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 |  |
+| [crash test dummy](https://open.spotify.com/track/2Ui0cq4BDOnjOFnFoLkiAj) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [crash test dummy](https://open.spotify.com/album/3QHo6SpbeIvNt9FomeXFU3) | 2:45 | 2023-01-20 |  |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-12-04 |  |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-12-04 |  |
 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 | 2022-12-04 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2022-12-16 |  |
 | [Do U Wanna Stay?](https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Do U Wanna Stay?](https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N) | 2:30 | 2022-12-04 |  |
+| [Dont Let Me Go](https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Dont Let Me Go](https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO) | 2:39 | 2023-01-20 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-12-04 |  |
 | [Doubt Me \(with aldn\)](https://open.spotify.com/track/4ittbqP6lNt3n8mCsLRhBm) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Doubt Me \(with aldn\)](https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt) | 1:51 | 2022-12-09 | 2023-01-14 |
 | [Fingers](https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P) | [Patrick O'neill](https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX) | [Fingers](https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO) | 2:56 | 2023-01-05 |  |
@@ -56,6 +59,7 @@
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 |  |
 | [SET YOU FREE](https://open.spotify.com/track/6dU35fmLnM6yB8tCySkvwC) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [SET YOU FREE](https://open.spotify.com/album/44dlMu3kxAHKgQYxdqeZVQ) | 2:25 | 2022-12-04 |  |
 | [Shadows](https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Shadows](https://open.spotify.com/album/3X1ybNkRWynmnL3SikiTJL) | 3:07 | 2023-01-13 |  |
+| [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 | 2023-01-20 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-12-04 |  |
 | [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-12-04 |  |
@@ -72,8 +76,10 @@
 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 |  |
 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 | 2022-12-04 |  |
 | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7) | 2:37 | 2022-12-09 |  |
+| [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn) | 2:38 | 2023-01-20 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-12-04 | 2022-12-07 |
 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 | 2022-12-04 |  |
+| [white noise! \(feat\. cybertrash\)](https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [white noise! \(feat\. cybertrash\)](https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt) | 2:07 | 2023-01-20 |  |
 | [with u](https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [with u](https://open.spotify.com/album/3Iu31xTzEKfBYx0WV8HPct) | 2:29 | 2022-12-09 |  |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-12-04 |  |
 | [You and I](https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [You and I](https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1) | 2:32 | 2022-12-04 |  |

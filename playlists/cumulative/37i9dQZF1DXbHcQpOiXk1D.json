@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Berlin 1 - Rework",
       "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
@@ -3766,7 +3766,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 267213,
       "name": "May The Funk Be With You",
       "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
@@ -4414,6 +4414,28 @@
       "duration_ms": 248159,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/27OctETisMkxIypWYruUUG"
+    },
+    {
+      "album": {
+        "name": "The Mint Experiment Volume 1",
+        "url": "https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p"
+      },
+      "artists": [
+        {
+          "name": "J-Felix",
+          "url": "https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4"
+        },
+        {
+          "name": "Chloe Bodur",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184850,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7"
     },
     {
       "album": {
@@ -5908,7 +5930,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 338253,
       "name": "Sweet Isolation",
       "url": "https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ"
@@ -7028,7 +7050,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 434346,
       "name": "Welcome To My World",
       "url": "https://open.spotify.com/track/4yALLcuMLrfslEuqbq6BPn"

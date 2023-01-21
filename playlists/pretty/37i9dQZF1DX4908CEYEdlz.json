@@ -1,13 +1,53 @@
 {
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Iggy Pop",
-  "num_followers": 704659,
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
+  "num_followers": 704653,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU3ODg2MCwwMDAwMDAwMGExNzVlZGE2NWZjYzI3OTRlMzU0MDk3ZmYyY2M4MmE2",
+  "snapshot_id": "MTY3NDE4MzY2MCwwMDAwMDAwMGEwZDllODA3ZDlhNDM1M2U3YzA5MDQwYjU1NzhmYzM3",
   "tracks": [
+    {
+      "added_at": "2023-01-21 01:22:13",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Swerve (feat. FEVER 333 & Sueco)",
+        "url": "https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 168289,
+      "name": "Swerve (feat. FEVER 333 & Sueco)",
+      "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
+    },
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
@@ -27,18 +67,50 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3"
+        "name": "APOPHYSITIS",
+        "url": "https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
         }
       ],
-      "duration_ms": 256440,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C"
+      "duration_ms": 262500,
+      "name": "(Not) Enough",
+      "url": "https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -67,90 +139,18 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+        "name": "Valley of Vision",
+        "url": "https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Lux \u00c6terna",
-        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Never Gonna Learn EP",
-        "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        },
-        {
-          "name": "Maria Brink",
-          "url": "https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR"
-        }
-      ],
-      "duration_ms": 214724,
-      "name": "New Devil (feat. Maria Brink of In This Moment)",
-      "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "High on Me",
-        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "High on Me",
-      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
+      "duration_ms": 170710,
+      "name": "Valley of Vision",
+      "url": "https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+        "name": "Everything We Need",
+        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
+      "duration_ms": 185200,
+      "name": "Everything We Need",
+      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Divisive",
-        "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 202379,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 202379,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -447,6 +447,22 @@
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -547,6 +563,22 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
+        "name": "High on Me",
+        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "High on Me",
+      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
         "name": "No More Tears To Cry",
         "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
       },
@@ -607,22 +639,6 @@
       "duration_ms": 199250,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Everything We Need",
-        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Everything We Need",
-      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -707,42 +723,26 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Swerve (feat. FEVER 333 & Sueco)",
-        "url": "https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy"
+        "name": "Never Gonna Learn EP",
+        "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         },
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         },
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Maria Brink",
+          "url": "https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR"
         }
       ],
-      "duration_ms": 168289,
-      "name": "Swerve (feat. FEVER 333 & Sueco)",
-      "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+      "duration_ms": 214724,
+      "name": "New Devil (feat. Maria Brink of In This Moment)",
+      "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Frenzy",
-        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "Frenzy",
-      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
         "name": "Start The Healing",
         "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
@@ -795,6 +779,38 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -863,54 +895,6 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
         "name": "Cut The Line",
         "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209664,
       "name": "Cut The Line",
       "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
+        "name": "Ready For Something",
+        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "Ready For Something",
-        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
+        "name": "Brick Wall",
+        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
       },
       "artists": [
         {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+      "duration_ms": 210200,
+      "name": "Brick Wall",
+      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 263693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Brick Wall",
-        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Brick Wall",
-      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
-        "name": "APOPHYSITIS",
-        "url": "https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR"
-      },
-      "artists": [
-        {
-          "name": "Fight The Fade",
-          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "(Not) Enough",
-      "url": "https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Valley of Vision",
-        "url": "https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 170710,
-      "name": "Valley of Vision",
-      "url": "https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
         "name": "Worst Is On Its Way (Requiem Mass)",
         "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
       },
@@ -1127,6 +1095,22 @@
       "duration_ms": 178066,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
+    },
+    {
+      "added_at": "2023-01-21 01:22:13",
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-01-13 03:01:00",
       "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
         "name": "Daddy's Coming Home",
         "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
-    },
-    {
-      "added_at": "2023-01-13 03:01:00",
-      "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
     },
     {
       "added_at": "2023-01-13 03:01:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 240000,
       "name": "Dark Eyes",
       "url": "https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V"
+    },
+    {
+      "added_at": "2023-01-13 03:01:00",
+      "album": {
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
     },
     {
       "added_at": "2023-01-13 03:01:00",

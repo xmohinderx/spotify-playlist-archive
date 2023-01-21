@@ -2,9 +2,9 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Violet Bell
+> Fresh takes on that high lonesome sound\. Cover: Aoife O'Donovan & Allison Russell
 
-229 songs - 14 hr 22 min
+233 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,9 @@
 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 | 2021-10-08 | 2022-07-29 |
 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 | 2022-07-22 |  |
 | [Close Enough to Hear](https://open.spotify.com/track/1yzHQWBQPISoWaNfcyekyD) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Close Enough to Hear](https://open.spotify.com/album/7hpvneVKrCatRLTTC63NwT) | 4:35 | 2022-11-18 |  |
+| [Commencement](https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14), [Jake Eddy](https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4), [Josh Underwood](https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K) | [Commencement](https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2) | 4:51 | 2023-01-20 |  |
 | [Compass](https://open.spotify.com/track/4qWb8fJ5xScpaJz1DK8dVS) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Weighted Mind](https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe) | 2:37 | 2021-10-01 | 2023-01-14 |
+| [Constellations](https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c) | [Meredith Moon](https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f) | [Constellations](https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY) | 4:17 | 2023-01-20 |  |
 | [Couple of Jerks](https://open.spotify.com/track/42hRq19RiZd7Q9J4K1nEfV) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg), [Small Town Therapy](https://open.spotify.com/artist/1ZcHWUVh8VPTXDNiCshH7y) | [Couple of Jerks](https://open.spotify.com/album/7IRD2lx2qbu6yoYdK0Nzpu) | 3:43 | 2022-07-29 | 2022-12-03 |
 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2022-08-11 |  |
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-08-19 |
@@ -144,6 +146,7 @@
 | [Older I Get](https://open.spotify.com/track/62ANe37lI1mrX1SH5OzCui) | [Rev Ezra](https://open.spotify.com/artist/3kxPC4Jstp20P1xWvdMoVB) | [These Days](https://open.spotify.com/album/38XOGO7MIS2fGI5gaIFo9J) | 3:53 | 2022-05-13 |  |
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-10-01 | 2022-01-22 |
 | [On the Highway](https://open.spotify.com/track/7eUUVjMaFRITv5dus01J5V) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 3:32 | 2022-10-07 |  |
+| [Open Your Books](https://open.spotify.com/track/3eh1Rviqh3REaX2xWhfOlF) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Open Your Books](https://open.spotify.com/album/7uYLTekJ4TB6wIVW5A0ACa) | 3:23 | 2023-01-20 |  |
 | [Orion's Waltz](https://open.spotify.com/track/2jItd4qiEH43kQjrkdN6Uu) | [Milkdrive](https://open.spotify.com/artist/2jSIlgL1YMPEcYoFQMEjj5) | [Places You've Not Been](https://open.spotify.com/album/5EA7oSmsgQctXu3UkevKZy) | 4:53 | 2021-10-01 |  |
 | [Orphan Annie](https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Orphan Annie](https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv) | 5:00 | 2021-11-19 | 2022-01-15 |
 | [Palmer](https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e) | [Joe K\. Walsh](https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB) | [If Not Now, Who?](https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO) | 4:55 | 2023-01-13 |  |
@@ -184,6 +187,7 @@
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-10-01 | 2022-07-29 |
 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2022-07-22 |  |
 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 | 2021-10-01 |  |
+| [Take Me as I Am](https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Take Me as I Am](https://open.spotify.com/album/38RGAkwRVaC7B4NY1RRfNA) | 3:54 | 2023-01-20 |  |
 | [Tell Me I'm Not Dreaming](https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN) | [The Bombadils](https://open.spotify.com/artist/493LaUkdvofHBb12qHUG60) | [Tell Me I'm Not Dreaming](https://open.spotify.com/album/5dELRNjEB4K7BDoSz3VwOP) | 4:22 | 2022-09-30 |  |
 | [Tennessee Dust](https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g) | [Henry Grace](https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV) | [Alive In America](https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s) | 3:16 | 2022-01-14 |  |
 | [That Sh\*t Ain't Funny](https://open.spotify.com/track/2kocxF7L0u2j3ddQkvyC0H) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:12 | 2022-07-29 | 2022-10-08 |

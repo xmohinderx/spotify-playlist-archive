@@ -1,12 +1,12 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Mario",
-  "num_followers": 2300437,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Leon Thomas",
+  "num_followers": 2300693,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDAwNjVhNzNjYmNhODJhYTdiOGE4YTMzM2JmZGZlMDhl",
+  "snapshot_id": "MTY3NDIzNjQwNCwwMDAwMDAwMDQwYzU2NGUyNDJmZjcyMzZkZTcwZjhmYTFkZDc4NTZj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2prgEUNls0vlOlZoDzTw5m"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
       "added_at": "2022-12-09 10:05:13",
       "album": {
         "name": "SOS",
@@ -73,6 +89,46 @@
       "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Beautiful (feat. India.Arie)",
+      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "World Of Women",
+        "url": "https://open.spotify.com/album/4bySzNLFVtxckOJJpCYV4C"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 225783,
+      "name": "Best Friend (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/4QAE9hPXiWbhvEvXGucGum"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Closer (Deluxe)",
@@ -89,20 +145,24 @@
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
-      "added_at": "2022-12-05 15:44:55",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "What I Didn't Tell You",
-        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
         }
       ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
+      "duration_ms": 181812,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -119,6 +179,54 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Still Alone",
+        "url": "https://open.spotify.com/album/7bGOIEzcoVe35mCvlGu52h"
+      },
+      "artists": [
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        }
+      ],
+      "duration_ms": 264803,
+      "name": "Still Alone",
+      "url": "https://open.spotify.com/track/5Zq85MoLZHIKdJVS3xSqkb"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Endless No More",
+        "url": "https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 192359,
+      "name": "Endless No More",
+      "url": "https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z"
+    },
+    {
+      "added_at": "2022-12-05 15:44:55",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -397,6 +505,26 @@
       "url": "https://open.spotify.com/track/3BkFCgzpIyNf5YeXjKsqZH"
     },
     {
+      "added_at": "2023-01-20 17:40:04",
+      "album": {
+        "name": "KEYS II",
+        "url": "https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Trillions (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "All For You",
@@ -611,42 +739,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "90s",
-        "url": "https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "90s",
-      "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "DENNIS RODMAN",
-        "url": "https://open.spotify.com/album/5JaOxdoLazsQ3vfMjGrAJo"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "DENNIS RODMAN",
-      "url": "https://open.spotify.com/track/0S18XXVdi7ZOjoe51STVcv"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "What Had Happened Was\u2026",
         "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
       },
@@ -691,26 +783,6 @@
       "duration_ms": 90836,
       "name": "IT'S YOURS",
       "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Yamz",
-        "url": "https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 245071,
-      "name": "Yamz",
-      "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -1133,6 +1205,26 @@
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "OVMBR: Maybe I\u2019m Best Alone",
@@ -1217,22 +1309,6 @@
       "url": "https://open.spotify.com/track/6bv2d3OlKcRS9T4StknEEX"
     },
     {
-      "added_at": "2022-12-09 10:05:13",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/0SPDSrdhVhGXUVc1f40BUl"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Good Time (Acoustic)",
-      "url": "https://open.spotify.com/track/4GbqDjHzgNy4laOzTvuhG7"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "guessnobodyknows",
@@ -1247,22 +1323,6 @@
       "duration_ms": 144500,
       "name": "warmer on a wednesday",
       "url": "https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Call the Bluff",
-        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
-      },
-      "artists": [
-        {
-          "name": "Hush Forte",
-          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
-        }
-      ],
-      "duration_ms": 179249,
-      "name": "Call the Bluff",
-      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -1481,30 +1541,6 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
-      "added_at": "2022-09-30 17:00:17",
-      "album": {
-        "name": "Make Me Say It Again, Girl",
-        "url": "https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj"
-      },
-      "artists": [
-        {
-          "name": "Ronald Isley",
-          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
-        },
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        },
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Great Escape",
-      "url": "https://open.spotify.com/track/6UgmAPwgZkHE2KWQMb9xQp"
-    },
-    {
       "added_at": "2022-07-15 04:03:55",
       "album": {
         "name": "Gemini Rights",
@@ -1591,22 +1627,6 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2022-09-30 17:00:17",
-      "album": {
-        "name": "Stay Away (From Me)",
-        "url": "https://open.spotify.com/album/17lhlIRCBi5JDPC31Sp9F3"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/7BXiYR26xUYRrZ4D9SSU4F"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1745,22 +1765,6 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "004DAISY",
-        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
-      },
-      "artists": [
-        {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "ONLY-1",
-      "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
-    },
-    {
       "added_at": "2022-09-30 17:00:17",
       "album": {
         "name": "Good Love",
@@ -1859,22 +1863,6 @@
       "duration_ms": 208000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
-    },
-    {
-      "added_at": "2022-09-09 04:06:20",
-      "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
       "added_at": "2022-08-19 04:15:53",
@@ -2033,26 +2021,6 @@
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
     },
     {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
       "added_at": "2022-07-15 04:03:55",
       "album": {
         "name": "Before I Let Her Go EP",
@@ -2067,26 +2035,6 @@
       "duration_ms": 186002,
       "name": "Luv Me Back",
       "url": "https://open.spotify.com/track/3IT44O4KU7gFFrnLYbLsUG"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "Storm (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/03w1xyyv1DBtkhpzrNHFMQ"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -2165,22 +2113,6 @@
       "url": "https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr"
     },
     {
-      "added_at": "2022-07-15 04:03:55",
-      "album": {
-        "name": "Songs That I Hate to Sing",
-        "url": "https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW"
-      },
-      "artists": [
-        {
-          "name": "Larrenwong",
-          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
-        }
-      ],
-      "duration_ms": 144323,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1iSkgpFIPBTvaCTYr0XoFq"
-    },
-    {
       "added_at": "2022-07-08 20:50:37",
       "album": {
         "name": "Intersections",
@@ -2235,22 +2167,6 @@
       "duration_ms": 188410,
       "name": "You Two",
       "url": "https://open.spotify.com/track/4grms0czBnzj0hi18xzIae"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 139028,
-      "name": "dayxday",
-      "url": "https://open.spotify.com/track/7ypJGtLwV9ss5uAmJyTXjK"
     },
     {
       "added_at": "2022-07-08 20:50:37",

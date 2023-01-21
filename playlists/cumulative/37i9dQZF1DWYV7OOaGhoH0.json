@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Hazlett",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: KIRBY",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 241720,
       "name": "My Dying Spirit",
       "url": "https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh"
@@ -5116,6 +5116,24 @@
       "duration_ms": 167400,
       "name": "The Blues Have Blown Away",
       "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190216,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo"
     },
     {
       "album": {

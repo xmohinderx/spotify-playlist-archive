@@ -2,7 +2,7 @@
 
 ### [creamy](https://open.spotify.com/playlist/37i9dQZF1DXdgz8ZB7c2CP)
 
-> A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring music by Pauline Herr.
+> A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Stwo.
 
 305 songs - 17 hr 15 min
 

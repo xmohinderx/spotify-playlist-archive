@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-95 songs - 2 hr 45 min
+96 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 | 2021-11-01 |  |
 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 | 2021-11-01 | 2022-07-29 |
 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/2oG1MFvSidBvZlMl4xnlVy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73reIsXqZ6MXQ0YrO8B983) | 1:01 | 2021-11-01 |  |
-| [Kick Theme](https://open.spotify.com/track/2BFT2jy8PM6hJuegIg1CO2) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\)](https://open.spotify.com/album/2FwI9IJfPgZJynjvTwtCt5) | 2:36 | 2023-01-18 |  |
+| [Kick Theme](https://open.spotify.com/track/2BFT2jy8PM6hJuegIg1CO2) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\)](https://open.spotify.com/album/2FwI9IJfPgZJynjvTwtCt5) | 2:36 | 2023-01-18 | 2023-01-21 |
+| [Kick Theme \(From "Kick"\)](https://open.spotify.com/track/1bts9A6cTbCvvWTzx5VS8h) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\) \- Single](https://open.spotify.com/album/5hPEWmXTxssIDurSN2lC8j) | 2:36 | 2023-01-18 |  |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 | 2021-11-27 |  |
 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 | 2021-11-01 |  |

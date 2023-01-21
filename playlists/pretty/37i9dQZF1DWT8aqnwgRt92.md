@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,939 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,766 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 52 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 |
 | 53 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 |
 | 54 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 |
-| 55 | [云う透り](https://open.spotify.com/track/41NFzRUXoCWR94hVRNqNTV) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り e.p](https://open.spotify.com/album/5Ng3rikw2a7AWG0bbK9ccN) | 2:51 |
+| 55 | [As the Gods Say](https://open.spotify.com/track/5x2uYdPrY1z2Ay1ucRKn3m) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say EP](https://open.spotify.com/album/0LxE26kNQTFVyr08f81Sex) | 2:51 |
 | 56 | [Heaven’s falling down](https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd) | 3:35 |
 | 57 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 |
 | 58 | [Far Middle](https://open.spotify.com/track/0xLdA7l1vOtMJTynqt7qkJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Far Middle](https://open.spotify.com/album/1SgmpdT9zS4CFjjbmAxov1) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Unite up!](https://open.spotify.com/track/6zsE5fWY4onqiKUvOOSMfj) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [Unite up!](https://open.spotify.com/album/5CHZGDeflVkbgsAAOdp2Nf) | 3:59 |
 | 85 | [Konotateni Kakuremasu \- TVSize](https://open.spotify.com/track/1VHTcCoAPqHXanvpVrGVYK) | [純情のアフィリア](https://open.spotify.com/artist/1RFi2Nn5fsdUsVcH6V0xC1) | [TV Animation”I Don’t Want to Get Hurt, so I’ll Max Out My Defense.2”theme song](https://open.spotify.com/album/3ukhrSxULp81bKgwvm4D61) | 1:29 |
 
-Snapshot ID: `MTY3NDE0MDQwMCwwMDAwMDAwMGJhMmUwOTZmYmI3MGE0NDdkZDkzNmNiNGFiMDFiNDY5`
+Snapshot ID: `MTY3NDE0MDQwMCwwMDAwMDAwMDMzZTllNjQ2Mzk4MTlmNGVhZDhjNTRmYzhiMGFmZjU3`

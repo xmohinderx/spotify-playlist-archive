@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-410 songs - 1 day 3 hr 14 min
+411 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/6AXZEkvpntH6PBotxzRHjg) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [ALL MY LOVE](https://open.spotify.com/album/3jZyvxRqAx1iS3dl8p1r3g) | 3:09 | 2022-10-18 | 2022-10-26 |
 | [Almond](https://open.spotify.com/track/0AEx6W2Aju7o0jPTl3O9R8) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [樹影](https://open.spotify.com/album/6SpTffXCwwCJTbD93OJ9ye) | 3:29 | 2022-08-02 | 2022-10-07 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 | 2022-08-24 |
+| [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 |  |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 |  |
 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 | 2022-09-13 | 2023-01-18 |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 |  |
@@ -393,7 +394,7 @@
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 | 2022-09-30 |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-29 |
-| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 |  |
+| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [真夏のスキャット \- 2022version](https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He) | [Gomes The Hitman](https://open.spotify.com/artist/3PBXjLwd5K3SfNgKcX1I2X) | [slo\-mo replay](https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny) | 3:29 | 2022-07-26 | 2022-07-28 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-09 |  |
 | [眩しい街、黒い犬](https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [City & Bops](https://open.spotify.com/album/53fKjDCrTAVr9MU4fkXFsc) | 3:07 | 2022-05-24 | 2022-06-02 |

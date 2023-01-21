@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Zach Bryan",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Benjamin Dakota Rogers",
   "name": "Renegade Folk",
   "tracks": [
+    {
+      "album": {
+        "name": "20 Somethin'",
+        "url": "https://open.spotify.com/album/0ZkNmLA4MBUDhi7Ck8iIqR"
+      },
+      "artists": [
+        {
+          "name": "Vicki Brittle",
+          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236983,
+      "name": "20 Somethin'",
+      "url": "https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82"
+    },
     {
       "album": {
         "name": "The Rise",
@@ -258,7 +276,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 250880,
       "name": "Arlo",
       "url": "https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg"
@@ -395,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+    },
+    {
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -478,7 +518,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 163927,
       "name": "Blackjack County Chain",
       "url": "https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay"
@@ -756,7 +796,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 212878,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK"
@@ -796,6 +836,24 @@
       "duration_ms": 234626,
       "name": "Communion - Country version",
       "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
+      },
+      "artists": [
+        {
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257782,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c"
     },
     {
       "album": {
@@ -1473,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Brighter Side of Blue",
+        "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
+      },
+      "artists": [
+        {
+          "name": "Babitha",
+          "url": "https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "Happy Person",
+      "url": "https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA"
+    },
+    {
+      "album": {
         "name": "Hard To Make A Living",
         "url": "https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7"
       },
@@ -1852,7 +1928,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218293,
       "name": "Ink & the Ash",
       "url": "https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR"
@@ -2169,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W"
+    },
+    {
+      "album": {
         "name": "When the Magic Hits",
         "url": "https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL"
       },
@@ -2310,7 +2404,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 188240,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg"

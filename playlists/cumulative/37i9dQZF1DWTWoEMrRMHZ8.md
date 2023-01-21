@@ -2,9 +2,9 @@
 
 ### [Divina MPB](https://open.spotify.com/playlist/37i9dQZF1DWTWoEMrRMHZ8)
 
-> As belas novidades da MPB\. Foto: Toquinho
+> As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-374 songs - 22 hr 38 min
+375 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Rota do Indivíduo](https://open.spotify.com/track/6LQZRT1xxVm5ZtGwFSMQlS) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [A Rota do Indivíduo](https://open.spotify.com/album/6jucRYxAlFcOpVDLG8DNzN) | 2:12 | 2022-06-03 | 2022-06-18 |
 | [A Rota do Indivíduo \(Ferrugem\)](https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z) | [A Rota do Indivíduo \(Ferrugem\)](https://open.spotify.com/album/3fiSL51XcGQbtn0HRgcQLW) | 3:39 | 2022-01-21 | 2022-06-18 |
 | [Abertura](https://open.spotify.com/track/7HsDooCfMtlH4gSHEI4Was) | [Pedro Paulo Junior](https://open.spotify.com/artist/4l4xn0qyO8Zr7F0QDDgrXd), [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj) | [MASSAMBARÁ](https://open.spotify.com/album/0MDxD97ZGpdM8Qq36kVX0d) | 4:01 | 2022-09-23 | 2022-10-29 |
-| [Abraxas](https://open.spotify.com/track/1RXXpNJcULM9cmuZwl4DPn) | [Ian Lasserre](https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa), [Rafa Castro](https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0) | [Abraxas](https://open.spotify.com/album/36RWJh1TG1uCn95OpmtHHM) | 3:58 | 2022-12-02 |  |
+| [Abraxas](https://open.spotify.com/track/1RXXpNJcULM9cmuZwl4DPn) | [Ian Lasserre](https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa), [Rafa Castro](https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0) | [Abraxas](https://open.spotify.com/album/36RWJh1TG1uCn95OpmtHHM) | 3:58 | 2022-12-02 | 2023-01-21 |
 | [Abrigo](https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 4:33 | 2022-06-17 | 2022-07-16 |
 | [Agora](https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0), [Malú Lomando](https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm) | [Agora](https://open.spotify.com/album/5YoQlOgX2LFyCq7QKFTPWM) | 4:30 | 2022-04-01 | 2022-04-29 |
 | [Alagados](https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf) | [Alfredo, João, Moyseis, Pedro](https://open.spotify.com/artist/3jcMfrnlAKiPuU0T0Y48SK), [Alfredo del Penho](https://open.spotify.com/artist/70WkdyEzA7a0fBuy3bZleU), [João Cavalcanti](https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK), [Moyseis Marques](https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb), [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Alagados](https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst) | 3:16 | 2022-01-21 |  |
@@ -154,6 +154,7 @@
 | [Habilidades Extraordinárias](https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Habilidades Extraordinárias](https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx) | 4:33 | 2022-09-23 |  |
 | [Haja Terapia](https://open.spotify.com/track/5VEctr8aL3Bn1sEki7B4KA) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Haja Terapia](https://open.spotify.com/album/0MNsiQPRNKaGSCUUoZN6mQ) | 3:56 | 2022-02-18 | 2022-08-20 |
 | [hey mulher](https://open.spotify.com/track/3uSO6Qukq7RGO8fyR8KdxR) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [hey mulher](https://open.spotify.com/album/5MRcyS1SBpID1VDfhqnIj3) | 2:58 | 2022-04-01 | 2022-04-27 |
+| [Horário de Verão](https://open.spotify.com/track/3BVlkbrZbKCpO05fivSBVB) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Horário de Verão](https://open.spotify.com/album/4vuhEACTlSTCxAp3JGLvxA) | 3:08 | 2023-01-20 |  |
 | [HUMBIUMBI](https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Humbiumbi](https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM) | 3:57 | 2022-08-26 | 2022-10-15 |
 | [Hy\-Brasil Terra Sem Mal](https://open.spotify.com/track/1AfcJHMFq5pypv4MBfO9wb) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Língua Brasileira](https://open.spotify.com/album/2LzXqHfjvSnWUhRqhWbFYV) | 5:43 | 2022-06-27 | 2022-08-20 |
 | [Ilha do Amar](https://open.spotify.com/track/4mhUQ7QVz64ucu9TGz4Ven) | [Badi Assad](https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs) | [Ilha](https://open.spotify.com/album/6zhq5cvREDJ2R4egEH83yJ) | 4:23 | 2022-07-01 | 2022-07-23 |

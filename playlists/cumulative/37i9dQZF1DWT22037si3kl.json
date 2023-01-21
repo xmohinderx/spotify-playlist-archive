@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, DomLaike, Rare G, 4Genesis, Cax Camp",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, BIN",
   "name": "O Drip",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 195224,
       "name": "Dores",
       "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
@@ -1484,6 +1484,36 @@
       "duration_ms": 214500,
       "name": "Hugo Boss",
       "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/0uJe911f15WjcdDWc3BpJh"
+      },
+      "artists": [
+        {
+          "name": "Young Mafia",
+          "url": "https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4"
+        },
+        {
+          "name": "Marginal Supply",
+          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/1RtYZO7kzMMkJ85ENQiIS6"
     },
     {
       "album": {
@@ -2363,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Mimos",
+        "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Mimos",
+      "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
+    },
+    {
+      "album": {
         "name": "\u00c9TPM?!",
         "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
       },
@@ -2910,7 +2962,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 206608,
       "name": "OUTRO PATAMAR",
       "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"

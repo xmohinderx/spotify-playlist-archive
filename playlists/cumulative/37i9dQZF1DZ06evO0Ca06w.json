@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 178836,
       "name": "Jol'inkomo - Mono Version",
       "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 152493,
       "name": "Kwazulu (In the Land of the Zulus)",
       "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 207066,
       "name": "Love Tastes Like Strawberries",
       "url": "https://open.spotify.com/track/69ZOZ1T8cNSrX6yKYz2ONd"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 202426,
       "name": "Mbube",
       "url": "https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "The World of Miriam Makeba",
+        "url": "https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Vamos Chamar Ovento",
+      "url": "https://open.spotify.com/track/6statd0SBoYGhH1OADjr4f"
+    },
+    {
+      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
       },
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 256640,
       "name": "Walela",
       "url": "https://open.spotify.com/track/1LI2v8w8hzMTajPmCe9H93"

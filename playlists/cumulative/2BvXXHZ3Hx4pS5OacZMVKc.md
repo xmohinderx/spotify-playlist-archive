@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-227 songs - 11 hr 57 min
+228 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Legacy](https://open.spotify.com/track/5DQGSJOG1JUchaZBd4zaie) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Legacy](https://open.spotify.com/album/5210iXJgapheYbxuz2pGxk) | 2:39 | 2022-02-03 |  |
 | [Let Me Go](https://open.spotify.com/track/0cHPVbLV0pfOgridbUjt3f) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Let Me Go](https://open.spotify.com/album/2oTdGhBXY6j7uVXjKnKyyh) | 2:40 | 2022-02-03 | 2022-09-15 |
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-02-03 |  |
+| [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 |  |
 | [Live A Lie](https://open.spotify.com/track/4lqjYjqcyRRNTbrwxaUwKa) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [Live A Lie](https://open.spotify.com/album/5ezJVTDdp2c41tYwUAuw4k) | 3:32 | 2022-02-03 | 2022-09-15 |
 | [Long Night](https://open.spotify.com/track/7nxSIJKV6CorIHHpud0x4t) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Long Night](https://open.spotify.com/album/4E3h3VhCNR88R2hPkM6Z5R) | 2:05 | 2022-02-03 | 2022-09-15 |
 | [Long Night \- pt\. II](https://open.spotify.com/track/4ED1RqjJk6897tNtZv9g8n) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Long Night pt\. II](https://open.spotify.com/album/3iW7D4nln8Ga8p19ygWiKE) | 2:17 | 2022-02-03 | 2022-09-15 |

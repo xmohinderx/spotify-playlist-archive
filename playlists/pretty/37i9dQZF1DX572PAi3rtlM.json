@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 25176,
+  "num_followers": 25185,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDUwMzBmYmMzMGE2YTNmZDMwOTFhNjc3YTE0N2M3YzQ2",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDc0NjU2YjVhZjk4OTYwYmMxOGY4N2QzMzM1OThmMzBh",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 412812,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Boxed Out",
-        "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 284308,
-      "name": "64 Ways",
-      "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Boxed Out",
+        "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 284308,
+      "name": "64 Ways",
+      "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "2015 - 2017",
+        "url": "https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 367619,
+      "name": "Pool Party Music",
+      "url": "https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Figure of Jazz",
         "url": "https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw"
       },
@@ -719,18 +735,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "2015 - 2017",
-        "url": "https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex"
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
         }
       ],
-      "duration_ms": 367619,
-      "name": "Pool Party Music",
-      "url": "https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o"
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -751,26 +771,6 @@
       "duration_ms": 477881,
       "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
       "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2022-01-14 05:00:00",

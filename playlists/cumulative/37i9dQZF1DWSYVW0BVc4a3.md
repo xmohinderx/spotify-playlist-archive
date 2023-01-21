@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> The home of rave worthy melodic techno and house\. Cover: Dom Dolla
+> The home of rave worthy melodic techno and house\. Cover: ATRIP
 
 361 songs - 1 day 4 hr 33 min
 

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-495 songs - 21 hr 8 min
+496 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Weave](https://open.spotify.com/track/4iYFb2ChzBJ2CvgtePMpSM) | [Kyra Mora](https://open.spotify.com/artist/25XZKnvJlYGzMYE0qty5OM) | [Weave](https://open.spotify.com/album/1Pv9MqpZohiDQ8lKOWhLnP) | 2:33 | 2021-11-10 | 2022-08-20 |
 | [When in Rome](https://open.spotify.com/track/5gG8n4ZPxAF7W0G65rZzld) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [When in Rome](https://open.spotify.com/album/1zFhvn0e1gsOBMtvKoj2AT) | 2:18 | 2022-11-25 |  |
 | [Whispered Winds](https://open.spotify.com/track/2bkaAE4VM6lLeygzWsakdz) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Whispered Winds](https://open.spotify.com/album/4D4TennrYGTmUk0el0lebi) | 2:09 | 2021-11-10 |  |
+| [White Sands.](https://open.spotify.com/track/1F3IE5tmgY0SEGYSUzHbbM) | [Eyesoh](https://open.spotify.com/artist/7G1G3yjzHEywXqL0G14I1Q) | [White Sands.](https://open.spotify.com/album/5g5Yd5UpXgnxxYqxd68kYU) | 2:46 | 2023-01-20 |  |
 | [White Wine Rivers](https://open.spotify.com/track/5a7ErRI6WVxhtOrvIeSSJ6) | [5terre](https://open.spotify.com/artist/35D9iOHhBCHYMscCfbG2vk) | [White Wine Rivers](https://open.spotify.com/album/2LQa78PnACswAEx1p7dpSH) | 2:03 | 2022-12-09 |  |
 | [Why, Rose?](https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 1:47 | 2021-11-10 | 2022-05-20 |
 | [Wiktoria](https://open.spotify.com/track/6gJrUDsoPO8WnLRJkJxY9c) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:54 | 2022-04-05 | 2022-07-01 |

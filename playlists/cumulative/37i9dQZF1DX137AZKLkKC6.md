@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-99 songs - 5 hr 10 min
+101 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-26 | 2022-10-29 |
 | [Alguien Más \- Versión Regional](https://open.spotify.com/track/3Br6gkQqhN4obEhaucA7Sh) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Alguien Más \(Versión Regional\)](https://open.spotify.com/album/6e6r99qv7LJue8WVljNOqk) | 2:16 | 2022-08-12 |  |
 | [Amiga Botella](https://open.spotify.com/track/7bsXNZS48T1IhHrtyfjmNU) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Amiga Botella](https://open.spotify.com/album/57nPQiegrO6AEch9AvwPIu) | 3:15 | 2022-10-28 | 2022-12-17 |
-| [Antes de que muera](https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Antes de que muera](https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA) | 4:08 | 2022-12-16 |  |
+| [Antes de que muera](https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Antes de que muera](https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA) | 4:08 | 2022-12-16 | 2023-01-21 |
 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 | 2022-08-12 |  |
 | [Arrepentida](https://open.spotify.com/track/7oT9EcTnAuCj3EMDd3qZP2) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Arrepentida](https://open.spotify.com/album/03I50pfVSI7o2Y2Gqt5gkQ) | 3:48 | 2022-08-12 | 2022-11-05 |
 | [Así Es La Vida](https://open.spotify.com/track/6ZMXWQmqoPXDpQIZb8Ek7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Así Es la Vida](https://open.spotify.com/album/29qpYeOQXOq8OzSNbtxyti) | 3:10 | 2022-08-12 |  |
@@ -33,6 +33,7 @@
 | [Copita de Licor](https://open.spotify.com/track/6sBvUFDc0MmcAr4VFfp838) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h) | 3:47 | 2022-08-12 |  |
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-08-12 |  |
 | [De Carne Y Hueso](https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [De Carne Y Hueso](https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo) | 3:07 | 2022-12-02 | 2022-12-17 |
+| [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 | 2023-01-20 |  |
 | [Despechada](https://open.spotify.com/track/1CaAXPzgXMzwzDJTS6Jnq4) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Despechada](https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO) | 2:27 | 2022-08-12 |  |
 | [Devuélveme la Vida \- Versión Popular](https://open.spotify.com/track/0UwnN8UNj4srAQEsHWFqwY) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Devuélveme La Vida](https://open.spotify.com/album/3ERp2qBa4MJdLUfP82prbN) | 3:37 | 2022-08-12 |  |
 | [Devuélveme los Besos](https://open.spotify.com/track/3DXD0U8dh3PmLhFqVDssjH) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Devuélveme los Besos](https://open.spotify.com/album/5W688My9t8Xd3Awdkp47QL) | 3:01 | 2022-12-02 |  |
@@ -50,6 +51,7 @@
 | [La Calientahuevos](https://open.spotify.com/track/6ZeJi7RQrOGN8PVJ8J5vHj) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [La Calientahuevos](https://open.spotify.com/album/44ZBC1HGyDGvxvxi9jY8cg) | 2:18 | 2022-11-04 | 2022-12-17 |
 | [La Cita](https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Cita](https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB) | 3:45 | 2022-08-12 |  |
 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 | 2022-08-12 |  |
+| [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 | 2023-01-20 |  |
 | [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-12 | 2023-01-14 |
 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 | 2023-01-13 |  |
 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-26 | 2022-09-17 |

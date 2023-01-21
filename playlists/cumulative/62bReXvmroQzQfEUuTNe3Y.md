@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-327 songs - 18 hr 36 min
+328 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [I Got Summer On My Mind](https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [I Got Summer On My Mind](https://open.spotify.com/album/1yVct2QPNbEAwI4kljQiOF) | 3:08 | 2022-07-29 | 2022-11-12 |
 | [I Know](https://open.spotify.com/track/4Jc3WtzfV23qCZCKwWlNlh) | [Fabian Luttenberger](https://open.spotify.com/artist/00A9Xt6NyGD5bldz9OnCbe) | [I Know](https://open.spotify.com/album/4nVBPAoafbfkbcXrhWAuDJ) | 5:03 | 2020-09-13\* | 2021-03-06 |
 | [I Loved U](https://open.spotify.com/track/35q7X4tARttH2r0ByoJOJt) | [Gvonni](https://open.spotify.com/artist/14jz3w0nEENe6ewnpSqRvf) | [I Loved U](https://open.spotify.com/album/05uqHTZrNWNrd2dodUUdf5) | 2:24 | 2021-04-24 | 2021-11-11 |
+| [I'll Be Around](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [I'll Be Around](https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5) | 3:48 | 2023-01-20 |  |
 | [I'm In Love](https://open.spotify.com/track/1CNG8sdO9Q5jx4gAZFjiHT) | [Gamuel Sori](https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi), [Rayon Nelson](https://open.spotify.com/artist/31vrrmY4Ouk1Y9RdZy8r3a) | [I'm In Love](https://open.spotify.com/album/2rqyJnkv6hGe02I3iiHInP) | 3:08 | 2020-12-18 | 2021-03-06 |
 | [I've Fallen for You](https://open.spotify.com/track/73OZcwiBI41R0o5TDGeZ7i) | [Tom Redwood](https://open.spotify.com/artist/4Xo7QqlxfIUEPYCLaLj6Sm) | [I've Fallen for You](https://open.spotify.com/album/0qc9Pbp37q8x1OP6Vk8OXz) | 3:17 | 2022-07-22 |  |
 | [Ice & Cold](https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Ice & Cold](https://open.spotify.com/album/5bDHFRCXitHfaQFWQ3oKfS) | 3:06 | 2021-05-21 | 2022-08-06 |
@@ -240,7 +241,7 @@
 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2022-06-02 |  |
 | [Sad in Scandinavia](https://open.spotify.com/track/5e3bm51VAf4zGf6Y6LaFy0) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:24 | 2021-03-06 | 2021-06-26 |
 | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/track/4PhYoXDqSjAKYw4aSfIBJJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/album/0TqzLl5tg7lsMrgwHl1g0x) | 3:54 | 2020-09-13\* | 2021-03-06 |
-| [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2021-03-26 |  |
+| [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2021-03-26 | 2023-01-21 |
 | [Say It Right](https://open.spotify.com/track/19PZhgOfDrSlFkj5D036fe) | [Divolly & Markward](https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13) | [Say It Right](https://open.spotify.com/album/3sW9x1R3SpftfVFfAvzBcX) | 2:37 | 2021-03-06 | 2021-08-21 |
 | [Say My Name](https://open.spotify.com/track/3zZwwTNa27TDKUSNj2uuMc) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Say My Name](https://open.spotify.com/album/5k5ldor4JutRvh39bGwIPZ) | 3:33 | 2020-09-13\* |  |
 | [Secret Promise](https://open.spotify.com/track/6Rye2HmiEAWYavSylWu7e0) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Secret Promise](https://open.spotify.com/album/7kn8TJcl3yyydv26Gh0OmJ) | 2:37 | 2020-09-13\* | 2021-03-06 |

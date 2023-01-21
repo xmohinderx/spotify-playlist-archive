@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-908 songs - 1 day 23 hr 25 min
+909 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 | 2022-07-06 |
 | [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-07-05 |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2021-10-03 | 2021-10-11 |
+| [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-01-20 |  |
 | [Ik Space](https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Fabienne Bergmans](https://open.spotify.com/artist/6ipBn3QaHmCnlaDetcvgRl) | [Ik Space](https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB) | 2:37 | 2023-01-15 |  |
 | [IK TRIP 'M](https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb) | [IK TRIP 'M](https://open.spotify.com/album/2mv5IRXfeUNzqHnrlDRera) | 3:07 | 2022-08-12 | 2022-08-28 |
 | [Ik Weet Niet](https://open.spotify.com/track/2REfgz7XgmJR4ZjXDBWLd3) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 2:59 | 2022-12-03 | 2022-12-16 |
@@ -467,7 +468,7 @@
 | [Klem](https://open.spotify.com/track/28sqgt7OOFEk0Qb9LkkA0V) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 4:06 | 2021-09-19 | 2021-09-21 |
 | [Klokken En Stenen](https://open.spotify.com/track/3yTAnIv3fmOOZXdJ5vh9mA) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Klokken En Stenen](https://open.spotify.com/album/325um55xpiUKCf9gz8bR2k) | 2:40 | 2022-05-28 | 2022-06-13 |
 | [Klop Klop](https://open.spotify.com/track/4XCRUGIvXLXEtBIlQBdv4H) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/6C87LF8aUYAMzAO3QWEqx1) | 2:32 | 2022-10-09 | 2022-10-29 |
-| [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-28 |  |
+| [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-28 | 2023-01-21 |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-06 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-31 | 2022-12-04 |
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2022-09-03 | 2023-01-16 |

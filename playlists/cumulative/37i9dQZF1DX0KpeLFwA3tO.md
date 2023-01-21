@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Can't Swim
 
-797 songs - 1 day 16 hr 0 min
+798 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [Nobody Talks](https://open.spotify.com/track/7z6cDZXIVIwMMUcNowI9TH) | [Girl Afraid](https://open.spotify.com/artist/0hDKwYmYwPx5rq9R24bZ3n) | [Nobody Talks](https://open.spotify.com/album/4CQUsBvPn8RbZe93h4UQWW) | 4:45 | 2022-01-28 | 2022-03-04 |
 | [Non Serviam](https://open.spotify.com/track/4vXAg3OK3D5HNPcGxmYWIG) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Non Serviam](https://open.spotify.com/album/4poC9nhZasbTms53O0NehD) | 1:58 | 2021-12-17 | 2022-01-21 |
 | [North Shore](https://open.spotify.com/track/3eVzL0so3fTvIR6dzxDdbz) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [North Shore](https://open.spotify.com/album/3CJCL88s7EzobXlgzdlRc6) | 3:03 | 2022-04-28 | 2022-10-14 |
-| [Nose](https://open.spotify.com/track/0R6ekQlzZEnfqVur65TuNu) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/34Tp7mxB8CZEuLo2gniYIa) | 3:22 | 2023-01-20 |  |
+| [Nose](https://open.spotify.com/track/0R6ekQlzZEnfqVur65TuNu) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/34Tp7mxB8CZEuLo2gniYIa) | 3:22 | 2023-01-20 | 2023-01-21 |
+| [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 | 2023-01-20 |  |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2022-07-01 |
 | [nothing \(in my head\)](https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [nothing \(in my head\)](https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K) | 3:05 | 2022-06-02 | 2022-07-22 |
 | [NOWT](https://open.spotify.com/track/320D8zftAZsRO6RWNWJH65) | [BOTTLEKIDS](https://open.spotify.com/artist/2mjBxb8AhS3lTUFK1HK14m) | [NOWT](https://open.spotify.com/album/0BBZcMJGlvsO6NWTTR3Ygl) | 2:07 | 2022-04-07 | 2022-05-21 |

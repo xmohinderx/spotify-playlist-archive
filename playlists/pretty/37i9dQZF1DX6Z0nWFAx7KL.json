@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 28526,
+  "num_followers": 28560,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDNhMWZiODkxMmMyZGQ0ODMzMDljYTRjYjNkYzJkZjM1",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGQwOWNlOWE0MzA5YjI2NmQ5NmZkZGI5ZDEwZTY5ZDZj",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Break Up",
-        "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Pascal Letoublon",
-          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
-        }
-      ],
-      "duration_ms": 157804,
-      "name": "Break Up",
-      "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Break Up",
+        "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        }
+      ],
+      "duration_ms": 157804,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -415,30 +415,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Summer Jams",
-        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 137149,
-      "name": "Summer Jams",
-      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 137149,
+      "name": "Summer Jams",
+      "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1033,7 +1033,7 @@
         },
         {
           "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
       "duration_ms": 220644,
@@ -1547,38 +1547,42 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS"
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
       "artists": [
         {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+        },
+        {
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
         }
       ],
-      "duration_ms": 155520,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
     },
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+        "name": "Chasing Daydreams",
+        "url": "https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw"
       },
       "artists": [
         {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
         },
         {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+      "duration_ms": 165000,
+      "name": "Chasing Daydreams",
+      "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
     }
   ],
   "unique_name": "Dance Chill",

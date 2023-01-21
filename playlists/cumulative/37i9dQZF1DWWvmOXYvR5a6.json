@@ -2436,11 +2436,11 @@
           "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         },
         {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         }
       ],
-      "date_added": "2023-01-20",
+      "date_added": "2023-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199064,
@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
@@ -11076,6 +11076,28 @@
       "duration_ms": 260131,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/5NhxZZMjdxMGsHyQWctT0i"
+    },
+    {
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Turn On (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
     },
     {
       "album": {

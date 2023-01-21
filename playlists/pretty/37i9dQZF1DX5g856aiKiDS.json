@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 437822,
+  "num_followers": 438087,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMjU5NywwMDAwMDAwMDM0ODExOWE0NmMyNGI0NTJiNjIzMDRlZTg0MjJlNmU5",
+  "snapshot_id": "MTY3NDEwMjU5NywwMDAwMDAwMDExZjRkMjVhODIxZjZiMzk4YmY0YTY4MmVjZTkzMGJj",
   "tracks": [
     {
       "added_at": "2023-01-13 04:10:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-01-13 04:10:40",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
+    },
+    {
+      "added_at": "2023-01-13 04:10:40",
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 257631,
       "name": "It's You (Feat. ZICO)",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2023-01-13 04:10:40",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
       "added_at": "2023-01-13 04:10:40",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-13 04:10:40",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2023-01-13 04:10:40",
-      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2023-01-13 04:10:40",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2023-01-13 04:10:40",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-01-13 04:10:40",
       "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
+      },
+      "artists": [
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
+    },
+    {
+      "added_at": "2023-01-13 04:10:40",
+      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
-    },
-    {
-      "added_at": "2023-01-13 04:10:40",
-      "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
-      },
-      "artists": [
-        {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
     },
     {
       "added_at": "2023-01-13 04:10:40",

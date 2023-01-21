@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-268 songs - 14 hr 12 min
+269 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2021-12-16 | 2023-01-13 |
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2023-01-12 |  |
 | [Blue](https://open.spotify.com/track/1I3reC5HX2tvJ4ULvvm968) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Blue](https://open.spotify.com/album/7sVXNPMPd0ZOs4ryzAcMW8) | 3:48 | 2022-06-09 | 2023-01-13 |
-| [Blueberry Eyes \(feat\. Lil Mosey, SUGA of BTS & Olivia O'Brien\)](https://open.spotify.com/track/3v96wJDPSdTYWEOgssfipO) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Blueberry Eyes \(feat\. Lil Mosey, SUGA of BTS & Olivia O'Brien\)](https://open.spotify.com/album/03Ca2xp6OijgKFUiEMiQTU) | 2:52 | 2023-01-12 |  |
+| [Blueberry Eyes \(feat\. Lil Mosey, SUGA of BTS & Olivia O'Brien\)](https://open.spotify.com/track/3v96wJDPSdTYWEOgssfipO) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Blueberry Eyes \(feat\. Lil Mosey, SUGA of BTS & Olivia O'Brien\)](https://open.spotify.com/album/03Ca2xp6OijgKFUiEMiQTU) | 2:52 | 2023-01-12 | 2023-01-21 |
 | [BNB](https://open.spotify.com/track/2t9TWyicvzrXqbwdPaBk3c) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [BNB](https://open.spotify.com/album/3hseLB6x5CdTGePQgIc2Sf) | 2:54 | 2023-01-12 |  |
 | [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 | 2021-12-16 | 2023-01-13 |
 | [Boyfriend](https://open.spotify.com/track/6pHd2Du9RlgLmC5Etl1y2k) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Boyfriend](https://open.spotify.com/album/6YqJyiIsOJBkozq9XaV6OU) | 3:12 | 2021-12-16 | 2022-03-26 |
@@ -118,6 +118,7 @@
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2023-01-12 |  |
 | [I Think I’ll Stay For The Summer](https://open.spotify.com/track/1npDK31ZsQyCEGIFyqKHbc) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [I Think I’ll Stay For The Summer](https://open.spotify.com/album/6LuiOp3PCyHtgmF9JHnfVh) | 3:12 | 2022-07-22 | 2023-01-13 |
 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 | 2023-01-12 |  |
+| [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-19 |  |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-01-18 |  |
 | [If He Won't](https://open.spotify.com/track/4UUoX1ufb996g2D13qzlOz) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [If He Won't](https://open.spotify.com/album/23mxFDwh1Dy8HhN5uOa0aw) | 3:22 | 2021-12-16 | 2022-01-21 |
 | [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2023-01-12 |  |

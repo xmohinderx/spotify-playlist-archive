@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Alone (Acoustic)",
+        "url": "https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7"
+      },
+      "artists": [
+        {
+          "name": "Beth",
+          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "Alone - Acoustic",
+      "url": "https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe"
+    },
+    {
+      "album": {
         "name": "Are You Lonesome Tonight (Acoustic)",
         "url": "https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 187103,
       "name": "Believe - Acoustic",
       "url": "https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU"
@@ -630,6 +648,24 @@
       "duration_ms": 218600,
       "name": "Freedom - Acoustic",
       "url": "https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep"
+    },
+    {
+      "album": {
+        "name": "Freedom (Acoustic)",
+        "url": "https://open.spotify.com/album/408UMBuS3W1kHMpJJssUBl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Law",
+          "url": "https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187827,
+      "name": "Freedom - Acoustic",
+      "url": "https://open.spotify.com/track/2Sta4O12D55ZhfhBzKMdQZ"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 148751,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4k77p0LNt3affQXC48hQuL"
@@ -2063,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (Are Made of This) [Acoustic]",
+        "url": "https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163132,
+      "name": "Sweet Dreams (Are Made of This) - Acoustic",
+      "url": "https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z"
+    },
+    {
+      "album": {
         "name": "Symphony (feat. Zara Larsson) [Acoustic]",
         "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
       },
@@ -2247,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Valerie (Acoustic)",
+        "url": "https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Valerie - Acoustic",
+      "url": "https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX"
+    },
+    {
+      "album": {
         "name": "Walking On Sunshine",
         "url": "https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE"
       },
@@ -2334,6 +2406,24 @@
       "duration_ms": 203800,
       "name": "What Do You Mean? - Acoustic",
       "url": "https://open.spotify.com/track/5bldrrpdHrTeaWNT1Kp5xs"
+    },
+    {
+      "album": {
+        "name": "What's Love Got to Do With It (Acoustic)",
+        "url": "https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161410,
+      "name": "What's Love Got to Do With It - Acoustic",
+      "url": "https://open.spotify.com/track/3MvFb6pDujgveRaMlTJQ8A"
     },
     {
       "album": {
@@ -2554,7 +2644,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 147397,
       "name": "You're My Best Friend - Acoustic",
       "url": "https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R"

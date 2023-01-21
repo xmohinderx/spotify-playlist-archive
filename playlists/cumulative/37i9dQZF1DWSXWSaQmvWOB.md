@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-613 songs - 1 day 13 hr 40 min
+614 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Too Perfect To Be Loved](https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Too Perfect To Be Loved](https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu) | 3:44 | 2022-05-12 | 2022-07-01 |
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2020-03-25\* | 2021-04-23 |
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-08-25 |  |
+| [Trippin](https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Trippin](https://open.spotify.com/album/1BM3o9El9FetciNldM3t94) | 3:20 | 2023-01-19 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-07-14 |  |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2021-07-02 | 2022-05-20 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-29 | 2021-12-01 |
@@ -596,7 +597,7 @@
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-14 | 2021-09-24 |
 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 | 2020-10-09 | 2021-04-17 |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-10-29 | 2022-09-23 |
-| [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 | 2022-07-28 |  |
+| [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 | 2022-07-28 | 2023-01-21 |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-25 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-22 |  |
 | [Worship](https://open.spotify.com/track/60urlUmpmaSnF8lU0rYZNi) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Worship](https://open.spotify.com/album/2RnhNOWqgAzxcHWVZoQe4U) | 3:27 | 2022-01-27 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > All songs from South Korean hip\-hop TV show 'Show Me The Money\(쇼미더머니\)', Cover: Gwangil Jo\(조광일\) \- SMTM10 Winner
 
-315 songs - 21 hr 18 min
+316 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hero \(Feat\. JUSTHIS, Golden\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 4:10 | 2021-12-06 |  |
 | [High \(Feat\. LeeHi\) \(Prod\. GRAY\)](https://open.spotify.com/track/66hfy09gzJOp4NMZWD1jEy) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 3:49 | 2021-12-06 |  |
 | [Holiday \(Feat\. lIlBOI, GIRIBOY\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 4:07 | 2022-12-20 |  |
+| [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-20 |  |
 | [Hopefully \(Feat\. Jung In\) \(Prod\. TOIL\)](https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:26 | 2021-12-06 |  |
 | [Horangnabi](https://open.spotify.com/track/6WPoAFc20THdjWICJeYKDB) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gill](https://open.spotify.com/artist/4i553Iv5LVmL8kiiiwbcVo), [Rhythm Power](https://open.spotify.com/artist/5N1d2cBW5blP45zVRsWuGU) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/3jSS7cVFrQoKytaPafmqJa) | 3:50 | 2021-12-06 | 2022-07-29 |
 | [Horangnabi](https://open.spotify.com/track/4UpW2eRZ5EzCz8lxo0r4f1) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gill](https://open.spotify.com/artist/4i553Iv5LVmL8kiiiwbcVo), [Rhythm Power](https://open.spotify.com/artist/5N1d2cBW5blP45zVRsWuGU), [김흥국](https://open.spotify.com/artist/5nh6A7BiGqgz7o7LwzCbcU) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 3:50 | 2021-12-06 |  |

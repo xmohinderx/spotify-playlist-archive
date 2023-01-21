@@ -4,7 +4,7 @@
 
 > Arse & Midel en la casa del Trap de Argentino.
 
-168 songs - 8 hr 20 min
+169 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [KAWASAKI](https://open.spotify.com/track/6H86EvTHKZRTgjrjpDEkV3) | [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [KAWASAKI](https://open.spotify.com/album/6odB4wXFD9uGUmlrNKd2cf) | 3:07 | 2022-08-05 |  |
 | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 | 2022-01-21 |  |
 | [Killer Bombón](https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Killer Bombón](https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8) | 2:40 | 2022-09-02 |  |
+| [La Renta](https://open.spotify.com/track/0RYMKjy11qYiS22PguDjls) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [La Renta](https://open.spotify.com/album/2l20GuWk6EWpV4ma3RaUy7) | 2:31 | 2023-01-20 |  |
 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 | 2022-02-11 |  |
 | [Lambo \- Remix](https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Lambo \(Remix\)](https://open.spotify.com/album/3GXikZX8EISv22KFluFDBx) | 4:11 | 2022-01-21 |  |
 | [Lero Lero](https://open.spotify.com/track/5byzOd0JbgAZYdFfqTKhVA) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Lero Lero](https://open.spotify.com/album/0bw2wWwulRUFCK0CYxOdnm) | 2:22 | 2022-09-23 |  |

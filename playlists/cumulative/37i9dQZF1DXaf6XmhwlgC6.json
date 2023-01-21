@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB"
+      },
+      "artists": [
+        {
+          "name": "K.Ellis",
+          "url": "https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163659,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL"
+    },
+    {
+      "album": {
         "name": "Nuraghe",
         "url": "https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 118587,
       "name": "Vi G\u00e5r Mot H\u00f6st",
       "url": "https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75"
+    },
+    {
+      "album": {
+        "name": "voyaging in",
+        "url": "https://open.spotify.com/album/4BySq5g4LaHIPB5IbyCnKk"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204114,
+      "name": "voyaging in",
+      "url": "https://open.spotify.com/track/4pHFitNAPMhPA1udwLnL0A"
     },
     {
       "album": {

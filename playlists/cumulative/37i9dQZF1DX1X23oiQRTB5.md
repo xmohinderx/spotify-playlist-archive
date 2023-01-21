@@ -4,7 +4,7 @@
 
 > Gazo au top de la première playlist de rap français !
 
-131 songs - 6 hr 44 min
+132 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Loi de la calle](https://open.spotify.com/track/4Fp9Nwi6lTpMC63igc9U0Z) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [UZI](https://open.spotify.com/artist/0C4ExMgzd77NOPH8lwtEG1), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW) | [Loi de la calle](https://open.spotify.com/album/6GQE5lnK5ghizdk7WKENSA) | 5:44 | 2022-01-06 | 2022-06-10 |
 | [Lola](https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Lola](https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW) | 2:26 | 2022-10-13 |  |
 | [Louis V](https://open.spotify.com/track/7r83PYx36835T5BQCbzrjc) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Louis V](https://open.spotify.com/album/1BYuCRO2VsdMLNCTirNUMr) | 3:04 | 2022-01-06 | 2022-07-15 |
-| [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 |  |
+| [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-01-20 |  |
+| [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 | 2023-01-21 |
 | [Malpolis](https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Malpolis](https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh) | 3:20 | 2022-09-29 |  |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |

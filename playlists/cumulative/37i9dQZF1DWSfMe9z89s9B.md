@@ -2,9 +2,9 @@
 
 ### [Alternative R&B](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> R&B without boundaries\. Cover: Kelz
+> R&B without boundaries\. Cover: SZA
 
-712 songs - 1 day 14 hr 25 min
+715 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Celebrate](https://open.spotify.com/track/4GWYtknluqDyrsANhmf1hR) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Celebrate](https://open.spotify.com/album/2jHoignz0YlzkIRwzLqXiL) | 3:12 | 2022-06-10 | 2022-07-07 |
 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [celebration](https://open.spotify.com/track/4iVofzQL8rewHAv4uDk3GO) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:24 | 2022-07-15 | 2022-07-26 |
+| [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-20 |  |
 | [CENTIPEDE \(with KENNY MASON\)](https://open.spotify.com/track/2JiDnbh3HRC6WekbH2gpXI) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:35 | 2022-09-09 | 2022-10-02 |
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2022-06-10 | 2022-09-10 |
 | [Changes](https://open.spotify.com/track/422CiQ73fOUAlKFpn2dayo) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:58 | 2021-07-09 | 2022-01-19 |
@@ -276,6 +277,7 @@
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2021-03-19 | 2022-04-14 |
 | [haircut](https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [haircut](https://open.spotify.com/album/6DDPra9LW0x5iQCdV84HXV) | 2:57 | 2021-06-11 | 2022-07-22 |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 | 2022-10-25 |
+| [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-01-20 |  |
 | [HAZY](https://open.spotify.com/track/6zlIN2RRLiNzitagYR44m0) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [HAZY](https://open.spotify.com/album/0UnN9OMzVQv5lO3yo7tWGN) | 2:48 | 2022-02-08 | 2022-09-05 |
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2021-07-23 | 2022-07-30 |
 | [Hearing Voices](https://open.spotify.com/track/46xL5K2FYBjmz9BlWPxuoH) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Hearing Voices](https://open.spotify.com/album/7gu4c1AfxRS9a9FXsliws8) | 2:17 | 2022-08-19 | 2022-09-03 |
@@ -311,6 +313,7 @@
 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 |  |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-04-01 | 2022-04-07 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 |  |
+| [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 |  |
 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 | 2022-11-11 |  |
 | [i'm fine](https://open.spotify.com/track/3FiUsaCzKWi943pk0G9F0o) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [i'm fine](https://open.spotify.com/album/0gnssKPBCFAvjVhjAU74ca) | 1:40 | 2022-07-15 | 2022-08-20 |
 | [Icarus](https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Icarus](https://open.spotify.com/album/2pfKIrc0KoZvJ6DK7bLXbY) | 2:29 | 2021-03-19 | 2022-01-23 |
@@ -404,7 +407,7 @@
 | [Medallion](https://open.spotify.com/track/7G1z481K0xAULT3eVaaNQD) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Medallion](https://open.spotify.com/album/27EqAknfF83SRTkgPLRgfZ) | 2:29 | 2021-03-19 | 2022-07-16 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-10 | 2022-07-14 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-15 | 2022-09-24 |
-| [Mercy](https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Mercy](https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54) | 3:13 | 2022-12-09 |  |
+| [Mercy](https://open.spotify.com/track/4VZbrCVlI5piIPDqPqCmwD) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Mercy](https://open.spotify.com/album/4D0K6xwqS0a7TdTYY5Ls54) | 3:13 | 2022-12-09 | 2023-01-21 |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-04-01 | 2022-06-08 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-05 | 2022-09-10 |
 | [mi pce](https://open.spotify.com/track/5x8NG7geEXz3yVDsfCSDRw) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [no u don't / intres\-ting / mi pce](https://open.spotify.com/album/5tfO8WwTGATVF4wmMSulqF) | 4:06 | 2021-03-19 | 2022-01-28 |
@@ -545,11 +548,11 @@
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 | 2022-12-17 |
-| [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 |  |
+| [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 | 2023-01-21 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 |  |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2022-04-01 | 2022-04-14 |
-| [Sent from Above](https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:07 | 2022-12-09 |  |
+| [Sent from Above](https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:07 | 2022-12-09 | 2023-01-21 |
 | [Set Me Free](https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Set Me Free](https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk) | 2:54 | 2022-12-02 |  |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2022-04-01 | 2022-04-09 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2022-12-03 |

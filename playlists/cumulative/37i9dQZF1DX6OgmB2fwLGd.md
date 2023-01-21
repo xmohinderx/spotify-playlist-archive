@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Riovaz
 
-520 songs - 21 hr 32 min
+521 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Own Brand Freestyle](https://open.spotify.com/track/1p2VYcXdvno7iVQOOmYkEs) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dreya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand Freestyle](https://open.spotify.com/album/5xltzh5AOddBAoNZChGlE2) | 2:33 | 2021-11-16 | 2022-02-26 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-09-17 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
+| [Party Girlz](https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Party Girlz](https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp) | 2:13 | 2023-01-20 |  |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-06-28 | 2022-08-29 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 | 2022-05-20 |
 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 | 2022-10-21 |  |

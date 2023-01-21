@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel"
+      },
+      "artists": [
+        {
+          "name": "T\u00edcia",
+          "url": "https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN"
+        },
+        {
+          "name": "BATEKOO",
+          "url": "https://open.spotify.com/artist/59HfwvJUsywrWQZNGnoY9B"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145455,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d"
+    },
+    {
+      "album": {
         "name": "FEBRE AMARELA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JWjH3OtpyiD0iQ0SJoYLw"
       },
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 254711,
       "name": "Molinha",
       "url": "https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo"
@@ -1729,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Respeita (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX"
+      },
+      "artists": [
+        {
+          "name": "Yas Werneck",
+          "url": "https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158148,
+      "name": "Respeita - Ao Vivo",
+      "url": "https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL"
+    },
+    {
+      "album": {
         "name": "Ritmada e Pixadona",
         "url": "https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb"
       },
@@ -2070,7 +2110,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193570,
       "name": "S\u00f3 Voc\u00ea Pelada",
       "url": "https://open.spotify.com/track/1SLmJ8RDHertaYpp2i4OYt"

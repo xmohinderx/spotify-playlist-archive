@@ -1625,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "La Renta",
+        "url": "https://open.spotify.com/album/2l20GuWk6EWpV4ma3RaUy7"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "WE$T DUBAI",
+          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151260,
+      "name": "La Renta",
+      "url": "https://open.spotify.com/track/0RYMKjy11qYiS22PguDjls"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },

@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
+> Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-507 songs - 1 day 15 hr 6 min
+508 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Midnight and Mescaline](https://open.spotify.com/track/3t4YDFoNxY1aXV4dt2J3xl) | [Pelican](https://open.spotify.com/artist/0Gq06EJlfPumvCdMsnkJFp) | [Midnight and Mescaline](https://open.spotify.com/album/5a2EP1IWgSmqqILvd0pGCL) | 4:56 | 2022-07-13 | 2022-07-29 |
 | [Moonlight Rendezvous](https://open.spotify.com/track/30cxiM2snx2Hstvhk8Z7pv) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Moonlight Rendezvous](https://open.spotify.com/album/4Hzr7Tgtvn9QQX3HQmLktH) | 5:38 | 2021-09-04 | 2021-10-01 |
 | [Music \- Edit](https://open.spotify.com/track/04kk8MFlGciFNMp5x7J9i6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Music \(Edit\)](https://open.spotify.com/album/74yf9InZ3uUBOLYKpIrk93) | 4:46 | 2021-05-28 | 2022-01-22 |
-| [Musket Fire](https://open.spotify.com/track/0zpU8xCvL1tuKPaWyInVvc) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Musket Fire](https://open.spotify.com/album/7L32VrKfCmxAaGzctwZnBl) | 3:46 | 2022-06-17 |  |
+| [Musket Fire](https://open.spotify.com/track/0zpU8xCvL1tuKPaWyInVvc) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Musket Fire](https://open.spotify.com/album/7L32VrKfCmxAaGzctwZnBl) | 3:46 | 2022-06-17 | 2023-01-21 |
 | [My Demons and I](https://open.spotify.com/track/5KWXj0NY74p7Pqctwk79jU) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Brittney Slayes](https://open.spotify.com/artist/1Ea0u6DNv731liS6GfD7aK) | [My Demons and I](https://open.spotify.com/album/1h30AxSI16qbIZqPQX3tZh) | 4:16 | 2021-12-11 | 2022-06-18 |
 | [My Method Your Madness](https://open.spotify.com/track/6Ne5lWuCctXmKedZdcq4mM) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [My Method Your Madness](https://open.spotify.com/album/0j1eKsLQ5jnPN1iD4sp6Ix) | 3:34 | 2021-07-10 | 2021-08-28 |
 | [My Mother Told Me](https://open.spotify.com/track/4DoyIK599jZyOJxj5CK6Vu) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [My Mother Told Me](https://open.spotify.com/album/2KC12Gr5uv2PfS7AALSgQo) | 3:16 | 2021-06-19 | 2021-08-14 |
@@ -421,6 +421,7 @@
 | [The Fire and the Sinner](https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Jake E.](https://open.spotify.com/artist/0Q29XLn4nejBlTmouEUeOO), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [The Fire and the Sinner](https://open.spotify.com/album/39dyo9LI63I2Wn4lDsBvyk) | 3:05 | 2021-05-14 | 2021-06-11 |
 | [The Gospel of Judas](https://open.spotify.com/track/5fDfOivURFfaa91vz5W2Eh) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Gospel of Judas](https://open.spotify.com/album/4kl8qGOuNY1TKWCe6XVxiy) | 4:05 | 2021-07-04 | 2022-03-23 |
 | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/track/4xXkmpsOPJtR7z7dy0tiNn) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/album/73I0s203vjEG5d7ZC2PtsV) | 5:03 | 2022-10-14 | 2022-10-27 |
+| [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 | 2023-01-20 |  |
 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 |  |
 | [The Hawthorn](https://open.spotify.com/track/1Kyu2V8kxobYLdGHVrrmFU) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Hawthorn](https://open.spotify.com/album/0rhNvRLBxdsDYjrRotRsuW) | 4:59 | 2020-11-29\* | 2021-11-20 |
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2022-07-13 | 2022-07-30 |

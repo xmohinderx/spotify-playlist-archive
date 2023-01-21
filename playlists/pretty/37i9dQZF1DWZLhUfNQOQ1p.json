@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230746,
+  "num_followers": 230745,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGRiMzkyM2ZmMTEwOTQ2NGY5ZDcyMGJlODkyZTc5YmVi",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGExN2M2NjI5MzFkZTIyZjc4YmQ2ZTc4OWQ1N2RhZDhi",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Lost in Music",
         "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208150,
       "name": "Lost in Music",
       "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
-      },
-      "artists": [
-        {
-          "name": "Mac Beez",
-          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Surf The Orange Water",
         "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
       },
       "artists": [
         {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
         }
       ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
       "artists": [
         {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
         }
       ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",

@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 116174,
+  "num_followers": 116192,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDA1NDRhZDgzN2MxNDg5MGZlNmQ5MGUxNjc5ZTE5NmFj",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGY0ZmQ3OTVmM2FmMjI5MTRhNTJhOTFlNTFjNDY2MGFm",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -275,22 +291,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+      },
+      "artists": [
+        {
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+        }
+      ],
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 163298,
       "name": "Shallow Breathing",
       "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
-      },
-      "artists": [
-        {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
-        }
-      ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+        "name": "Profound EP",
+        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
       "artists": [
         {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+          "name": "Malik Faquir",
+          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
+        },
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+      "duration_ms": 392347,
+      "name": "Harmonic Dreams",
+      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Profound EP",
-        "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
       "artists": [
         {
-          "name": "Malik Faquir",
-          "url": "https://open.spotify.com/artist/1DFahMH74byTBAyyn1vn2z"
-        },
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
         }
       ],
-      "duration_ms": 392347,
-      "name": "Harmonic Dreams",
-      "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Finds You Well",
         "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 200126,
       "name": "Endurance",
       "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Gotta Dance",
         "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
       "artists": [
         {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
-        },
-        {
-          "name": "Tessa Rose Jackson",
-          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
         }
       ],
-      "duration_ms": 163563,
-      "name": "Riptide - Edit",
-      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -815,6 +795,26 @@
       "duration_ms": 186340,
       "name": "Tide (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "duration_ms": 163563,
+      "name": "Riptide - Edit",
+      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "At The Horizon",
         "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 294995,
       "name": "At The Horizon",
       "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Funk",
-          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
-        }
-      ],
-      "duration_ms": 211071,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Nothing But Funk",
+          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
         }
       ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+      "duration_ms": 211071,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Such It Goes",
+        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        }
+      ],
+      "duration_ms": 482595,
+      "name": "Such It Goes",
+      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1283,6 +1283,42 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+      },
+      "artists": [
+        {
+          "name": "Keljet",
+          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
+        },
+        {
+          "name": "Hyara",
+          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -1315,42 +1351,6 @@
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
-      },
-      "artists": [
-        {
-          "name": "Keljet",
-          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
-        },
-        {
-          "name": "Hyara",
-          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Such It Goes",
-        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        }
-      ],
-      "duration_ms": 482595,
-      "name": "Such It Goes",
-      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "The Island",
+        "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "What Should I Do",
         "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 175908,
       "name": "What Should I Do",
       "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "The Island",
-        "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
     },
     {
       "added_at": "2022-12-22 23:00:00",

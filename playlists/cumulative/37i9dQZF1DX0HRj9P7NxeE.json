@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "BAD BITCHES",
+        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
+      },
+      "artists": [
+        {
+          "name": "Official Breezy",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129619,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
+    },
+    {
+      "album": {
         "name": "Bad Lil Bish (feat. Baby Tate & Black Boe)",
         "url": "https://open.spotify.com/album/77qun7itMkQ3JzH7t3rzwY"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 179162,
       "name": "CAN'T TELL ME NOTHING",
       "url": "https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46"
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -1218,7 +1254,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 165302,
       "name": "Get It Girl",
       "url": "https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv"
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 179984,
       "name": "Gimme Head",
       "url": "https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y"
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 184204,
       "name": "Hands Up (with Monaleo)",
       "url": "https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR"

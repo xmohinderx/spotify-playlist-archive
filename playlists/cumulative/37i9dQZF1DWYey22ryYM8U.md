@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Mike Bahía.
 
-266 songs - 17 hr 22 min
+267 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-02-14 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-02-14 |  |
 | [Aventurero](https://open.spotify.com/track/5nwKrZxqJST4jFgYf9TuBx) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/26dpAQy9hpsW0bIiA0FSdb) | 3:29 | 2021-12-03 | 2022-02-12 |
-| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 |  |
+| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 | 2023-01-21 |
 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 | 2022-02-14 |  |
 | [Añoranza](https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y) | [Tiempo Al Tiempo](https://open.spotify.com/album/6mJu7gLuQ4nHVNrwc0Zgkx) | 4:51 | 2021-12-03 | 2022-02-14 |
 | [Años Luz](https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:40 | 2021-12-03 | 2022-02-15 |
@@ -54,6 +54,7 @@
 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 | 2022-07-19 |  |
 | [Con Mi Amiga](https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 3:49 | 2022-02-14 | 2022-07-29 |
 | [Confesión](https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu) | 3:20 | 2022-02-14 | 2023-01-14 |
+| [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 | 2023-01-13 |  |
 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste En Salsa](https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I) | 4:26 | 2021-12-03 | 2022-02-15 |
 | [Corazón Enamorado](https://open.spotify.com/track/6rB5eNXwpxDbVJJpWzaOlf) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Corazón Enamorado](https://open.spotify.com/album/6Q8jh2ZFgTVWBeLlGCTJKV) | 3:09 | 2021-12-03 | 2022-02-13 |
 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2021-12-03 | 2022-02-15 |

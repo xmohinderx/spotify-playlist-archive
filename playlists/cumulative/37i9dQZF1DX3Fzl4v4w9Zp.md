@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Sunny Sweeney
 
-381 songs - 23 hr 34 min
+383 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 | 2022-06-03 |  |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-05-14 |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2022-02-23 |
-| [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 |  |
+| [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 | 2023-01-21 |
 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-06-24 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-22 |  |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 |  |
@@ -144,6 +144,7 @@
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2021-12-17 | 2022-02-23 |
 | [Heading West](https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Barn](https://open.spotify.com/album/7vlrGBbvKz2tZmVqAxK5ec) | 3:22 | 2021-12-17 | 2022-01-29 |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2022-06-03 |  |
+| [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 | 2023-01-20 |  |
 | [Hellbent For Leather](https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Hellbent For Leather](https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z) | 3:08 | 2022-02-22 | 2022-07-29 |
 | [Hellbent For Leather](https://open.spotify.com/track/5Xt2Syl11aWO4EPGJP7cVn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:08 | 2022-07-22 | 2022-08-06 |
 | [Help Me Remember](https://open.spotify.com/track/4GavZXRXpUzGMT8Gt4VOpG) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 4:55 | 2021-12-17 | 2022-02-23 |
@@ -257,6 +258,7 @@
 | [Pine Grove \(Madhouse\)](https://open.spotify.com/track/4ljDREG60BWlYNA7tthwwi) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Pine Grove \(Madhouse\)](https://open.spotify.com/album/2NHIzVu0CkT0spysYOkX0o) | 4:05 | 2022-02-22 | 2022-05-14 |
 | [Pink Sky](https://open.spotify.com/track/067mB5gMI3BhrtPfLutzFm) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Pink Sky](https://open.spotify.com/album/3RInB0XjMkDIOlOzuZXPG6) | 3:39 | 2022-04-01 | 2022-08-06 |
 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 | 2021-12-17 | 2022-11-12 |
+| [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-01-20 |  |
 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 | 2021-12-17 | 2022-12-03 |
 | [Problems](https://open.spotify.com/track/4WBs7J0btTQLsER9ouXW2I) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [In Plain Sight](https://open.spotify.com/album/1NqOgn6HZ66DjFPmkdtzgu) | 3:58 | 2022-02-22 |  |
 | [Prodigal Daughter](https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Prodigal Daughter](https://open.spotify.com/album/3UZahzjPGglQRjZQPaZEFZ) | 3:42 | 2021-12-17 | 2022-02-23 |
@@ -272,7 +274,7 @@
 | [RHODODENDRON](https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 3:34 | 2022-07-22 |  |
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-12-17 | 2022-07-29 |
 | [Rich Little Girls](https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Rich Little Girls](https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg) | 2:59 | 2022-11-18 |  |
-| [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 | 2022-01-07 |  |
+| [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 | 2022-01-07 | 2023-01-21 |
 | [Roll](https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 3:12 | 2022-02-22 | 2023-01-07 |
 | [Roll](https://open.spotify.com/track/3lwy3ZnXpZQ3d1lamB7AOD) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:12 | 2022-12-16 |  |
 | [Roll Away \(Like a Stone\)](https://open.spotify.com/track/27XhypqVeaRNo4lf3CeM1k) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Butch Walker as..\. Glenn](https://open.spotify.com/album/0FIk2aeXbMu4MmSJ8x0upW) | 4:46 | 2022-08-26 |  |

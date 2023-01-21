@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: LAGOS
 
-127 songs - 7 hr 46 min
+128 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 | 2021-12-17 | 2022-07-29 |
 | [El Farolito](https://open.spotify.com/track/4RIcZ1yQNUV7KmgEFl9XKO) | [Vos Veis](https://open.spotify.com/artist/6o2nLC8Ud7Aegw74dBM6WE) | [Vas](https://open.spotify.com/album/05iwiz6Y9tvN7Sy1azQ0Hf) | 3:19 | 2021-12-17 | 2022-07-29 |
 | [El Farolito](https://open.spotify.com/track/3izHYPHnoEt0pp6aiI3VNR) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/2K5h4bSh0pFAhAhKQO5mhZ) | 3:19 | 2022-09-30 | 2022-11-13 |
-| [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 | 2022-07-01 |  |
+| [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 | 2022-07-01 | 2023-01-21 |
+| [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 | 2022-09-30 |  |
 | [El Peor](https://open.spotify.com/track/6ClrUcM3YpKlJhihx94Oel) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [El Peor](https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT) | 3:12 | 2021-12-17 |  |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2021-12-17 | 2022-05-20 |
 | [El Vestido Rojo](https://open.spotify.com/track/74PhyV4HkK7U8b0PA7EltH) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/5MY9kJKE0htceIs1dmu0ax) | 3:55 | 2021-12-17 | 2022-07-29 |

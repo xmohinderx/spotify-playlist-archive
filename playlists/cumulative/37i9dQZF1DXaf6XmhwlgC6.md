@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-138 songs - 7 hr 48 min
+140 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Narrowed Down](https://open.spotify.com/track/6EancDMLEZXKyGvRWwmzWL) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Narrowed Down](https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T) | 3:03 | 2022-03-30 |  |
 | [Nautilus](https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 2:51 | 2022-03-30 |  |
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
+| [Night Light](https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL) | [K.Ellis](https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj) | [Night Light](https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB) | 2:43 | 2023-01-20 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 | 2022-09-03 |
 | [Oceano Pacifico](https://open.spotify.com/track/0qZtk3egr2xB8Yv4D2hbwW) | [Pace Immensa](https://open.spotify.com/artist/5RBcYA1urR2vv2UJLINBHK) | [Oceano Pacifico](https://open.spotify.com/album/5N6N5Ou6qBeow8eoElQa2V) | 2:22 | 2022-11-22 |  |
@@ -136,6 +137,7 @@
 | [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 | 2022-03-30 |  |
 | [Vast Ocean View](https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:26 | 2022-09-20 |  |
 | [Vi Går Mot Höst](https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Vi Går Mot Höst](https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb) | 1:58 | 2022-08-15 |  |
+| [voyaging in](https://open.spotify.com/track/4pHFitNAPMhPA1udwLnL0A) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [voyaging in](https://open.spotify.com/album/4BySq5g4LaHIPB5IbyCnKk) | 3:24 | 2023-01-20 |  |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2022-03-30 |  |
 | [Western Wishes Intro](https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf) | [Boxhead Ensemble](https://open.spotify.com/artist/516tPEDcawc8UNGdFZmWZn) | [The Unseen Hand: Music for Documentary Film](https://open.spotify.com/album/3KHpM4lpSW949zzlf9TjPM) | 2:49 | 2022-03-30 | 2022-08-24 |
 | [Wheels Of Time](https://open.spotify.com/track/79f1BWnoz0SzwpQVXjmtxX) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [Wheels Of Time](https://open.spotify.com/album/0w5QFggozxNROc5LqPjK7N) | 2:18 | 2022-09-30 |  |

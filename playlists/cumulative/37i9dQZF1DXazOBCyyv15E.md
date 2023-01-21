@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Låpsley
 
-1,244 songs - 3 day 1 hr 49 min
+1,245 songs - 3 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,7 +722,7 @@
 | [Mighty Cloud](https://open.spotify.com/track/3O5LzBKK9Cp2mPXUafywie) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Mighty Cloud](https://open.spotify.com/album/5WPe0Rs0DrHVeybuCJ7jrE) | 3:28 | 2021-08-13 | 2021-10-16 |
 | [Mirrors](https://open.spotify.com/track/7pCqQ09jUxfV4UBmzrYwJ7) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Mirrors](https://open.spotify.com/album/0hYeS9UDo240nqCHCwJD58) | 4:17 | 2022-04-14 | 2022-07-08 |
 | [Misery](https://open.spotify.com/track/4cLxUG9hsix8lj6woZ4j3w) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Misery](https://open.spotify.com/album/0lwra2T9SHtaihFtnws3H7) | 3:39 | 2021-05-21 | 2021-07-09 |
-| [Moaner Lisa](https://open.spotify.com/track/00yj2j95dSqUIyZrqxg5pL) | [MASI MASI](https://open.spotify.com/artist/1oMEbwgT4YH0XvCF55hveK) | [Moaner Lisa](https://open.spotify.com/album/71OVVtDH7cq56frnPbJ4oq) | 2:52 | 2022-10-20 |  |
+| [Moaner Lisa](https://open.spotify.com/track/00yj2j95dSqUIyZrqxg5pL) | [MASI MASI](https://open.spotify.com/artist/1oMEbwgT4YH0XvCF55hveK) | [Moaner Lisa](https://open.spotify.com/album/71OVVtDH7cq56frnPbJ4oq) | 2:52 | 2022-10-20 | 2023-01-21 |
 | [Moderation](https://open.spotify.com/track/6KTemd2aIQR4AuOjOoyDvk) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Moderation](https://open.spotify.com/album/6MuhMK7ONUEaJTYq50AhnB) | 4:04 | 2021-11-19 | 2022-02-04 |
 | [Modern Job](https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Modern Job](https://open.spotify.com/album/0o9ihh6as2nRsaAbrtDyFO) | 3:22 | 2021-10-16 | 2021-12-17 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-03-14 | 2021-05-28 |
@@ -806,6 +806,7 @@
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-05-28 | 2021-07-09 |
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-13 |  |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-02-12 | 2021-04-23 |
+| [Oh, Silly George](https://open.spotify.com/track/7ni3BkEmDi4dFHTil9pO5x) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Oh, Silly George](https://open.spotify.com/album/5CrH4UuYJ5F4fH8LsSLjYj) | 3:44 | 2023-01-20 |  |
 | [Oidar](https://open.spotify.com/track/6FfbKN3PDxHJMsdr7DX7wh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:28 | 2021-01-15 | 2021-03-14 |
 | [Olivia](https://open.spotify.com/track/5ruQHtb5I60wPAq0672ytg) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Olivia](https://open.spotify.com/album/6F6a1eVUXuO96dW55DZHfl) | 3:48 | 2022-04-07 | 2022-06-25 |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-05-26 | 2022-08-06 |

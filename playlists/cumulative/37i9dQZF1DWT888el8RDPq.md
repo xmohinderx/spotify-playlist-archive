@@ -4,7 +4,7 @@
 
 > ☀️
 
-267 songs - 13 hr 29 min
+268 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,10 +71,11 @@
 | [Circonvalley](https://open.spotify.com/track/22hwy86Bxy2wnhCrvmanN3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Orange County California](https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew) | 2:30 | 2022-05-06 | 2022-05-10 |
 | [Clarity](https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Clarity](https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9) | 3:16 | 2022-05-06 | 2022-07-29 |
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-07-26 |  |
+| [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 | 2023-01-20 |  |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-05-27 | 2022-07-26 |
 | [Come fanno le onde](https://open.spotify.com/track/1J6hprnp5GS0U5B1JLPwff) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Le tasche bucate di felicità](https://open.spotify.com/album/3ZgnE2pYJIDpG6iSMJqNCT) | 2:21 | 2022-05-06 | 2022-07-29 |
 | [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 | 2022-09-23 | 2022-10-17 |
-| [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2022-05-06 |  |
+| [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2022-05-06 | 2023-01-21 |
 | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [COMINCIA TU \(feat\. Rosa Chemical\)](https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U) | 2:29 | 2022-07-15 | 2022-07-29 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-05-06 | 2022-09-24 |
 | [coming of age](https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [coming of age](https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5) | 2:38 | 2022-05-23 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-220 songs - 14 hr 3 min
+221 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 | 2022-04-08 |  |
 | [Nuestra Señal \- En vivo](https://open.spotify.com/track/54Mo7p61nYTpDREGalVNp3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Nuestra Señal \(En Vivo\)](https://open.spotify.com/album/2yaPMPmCDnwRiS5R51Z0UQ) | 4:54 | 2022-04-08 | 2022-07-29 |
 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 | 2022-04-08 |  |
-| [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-04-08 | 2022-12-26 |
+| [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-04-08 |  |
 | [Parte 2](https://open.spotify.com/track/6jHDDFc8CPGjjo3rsubBwC) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF), [rrropet](https://open.spotify.com/artist/6ak6X5gg1hO5QzlKEmFeUO) | [Parte 2](https://open.spotify.com/album/6SZlCR1OAOrTn2hPY0bdjj) | 3:52 | 2022-04-08 | 2022-07-25 |
 | [Pienso en Ti](https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Pienso en Ti](https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow) | 4:25 | 2022-04-08 | 2022-12-17 |
 | [Policía Loca](https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1) | [Radio Veneno](https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI) | [Policía Loca](https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF) | 3:12 | 2022-04-08 | 2023-01-12 |
@@ -165,6 +165,7 @@
 | [Querida](https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd) | [Los Dos Jefes](https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y) | [Majestuosa](https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj) | 3:33 | 2022-04-08 | 2022-07-26 |
 | [Real love \- Radio Edit](https://open.spotify.com/track/58IrQ8d8Wctv6vX6k3TMxz) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Real love \(Radio Edit\)](https://open.spotify.com/album/6YgWdIJhUV4FL8Z0b8wacj) | 2:24 | 2022-04-08 | 2022-07-20 |
 | [Rebelión del Rock](https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Rebelión del Rock](https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ) | 3:40 | 2022-04-08 |  |
+| [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 | 2023-01-20 |  |
 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 | 2022-10-07 |  |
 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 | 2022-04-08 |  |
 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 | 2022-08-26 |  |
@@ -217,11 +218,11 @@
 | [Vete](https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Mil Caminos](https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID) | 3:54 | 2022-04-08 | 2022-12-17 |
 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 | 2022-04-08 |  |
 | [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 | 2022-04-08 | 2023-01-19 |
-| [Volver](https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/6mIL0XM3koHXG3jyonuzMW) | 5:15 | 2022-04-08 |  |
+| [Volver](https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/6mIL0XM3koHXG3jyonuzMW) | 5:15 | 2022-04-08 | 2023-01-21 |
 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 | 2022-04-08 |  |
 | [Voy Saliendo](https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Voy Saliendo](https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa) | 3:16 | 2022-04-08 |  |
 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 | 2022-04-08 |  |
-| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 |  |
+| [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 | 2023-01-21 |
 | [Y Si No Quiero?](https://open.spotify.com/track/0WE2xvSSJo89qqtIHm4V7L) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Y Si No Quiero?](https://open.spotify.com/album/1UjEZihN2GjSDvzO57Ub1h) | 3:26 | 2022-04-08 | 2022-07-28 |
 | [Ya No Estamos para Mentiras](https://open.spotify.com/track/28obcE8LjmeZ0Z1De2rK02) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos para Mentiras](https://open.spotify.com/album/6iSH7Ha0Clp1v8cDefpNbn) | 3:16 | 2022-04-08 | 2022-07-29 |
 | [Ya No Estamos Para Mentiras](https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos Para Mentiras](https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm) | 3:16 | 2022-07-08 |  |

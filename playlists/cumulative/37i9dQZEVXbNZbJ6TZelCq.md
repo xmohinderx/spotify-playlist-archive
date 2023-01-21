@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,026 songs - 2 day 6 hr 26 min
+1,027 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-30 |
 | [dimineața](https://open.spotify.com/track/0RAdwvUrK5LKSrUW5wC5xn) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3) | [într\-o bună zi o să fim bine](https://open.spotify.com/album/1oN0fH6kMlsmq4mJVtxdmg) | 2:47 | 2022-11-26 | 2022-11-28 |
 | [din casă](https://open.spotify.com/track/163JrG7seuX8jY9vMGypmN) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [L.V\. Pattern](https://open.spotify.com/album/1RSLUq6ballnsOwuLhNU0o) | 2:44 | 2021-08-08 | 2021-08-09 |
+| [Din cauza ta](https://open.spotify.com/track/35k1HtCpLlTncvJpipWVrL) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Din cauza ta](https://open.spotify.com/album/161dDULIlXPAx1mvyKXnFS) | 3:22 | 2023-01-20 |  |
 | [Dincolo de Marte](https://open.spotify.com/track/1bplVr8KkyYR5A0nM4KW09) | [RANDI](https://open.spotify.com/artist/4X8ZQYIamykCGOZhbRtv2r), [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Dincolo de Marte](https://open.spotify.com/album/2A65OT7v9q4CP9CPEWtKCK) | 3:01 | 2022-01-04 | 2022-04-10 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-12 | 2021-08-05 |
 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2021-04-10 | 2021-04-11 |
@@ -446,7 +447,7 @@
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [Intro](https://open.spotify.com/track/2mzkWDlIwyeb7YyWe4M3zR) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Nonchalant](https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km) | 2:33 | 2022-11-04 | 2022-11-11 |
 | [Intro](https://open.spotify.com/track/3sUYXrTxaiX1iZehE4OP6b) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [NONCHALANT](https://open.spotify.com/album/0MKn5w2b9Y2YBAP6UJJNOw) | 2:33 | 2022-06-11 | 2022-06-25 |
-| [Intro](https://open.spotify.com/track/36KtMKLlaUjrXA0sYj6AOy) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [Capitanu'](https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i) | 1:45 | 2023-01-18 |  |
+| [Intro](https://open.spotify.com/track/36KtMKLlaUjrXA0sYj6AOy) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [Capitanu'](https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i) | 1:45 | 2023-01-18 | 2023-01-21 |
 | [Investesc](https://open.spotify.com/track/3Bxnm5Alk1jnDXZ3Qv6QVd) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Erique](https://open.spotify.com/artist/6MgUVdFgFohA5SlpdB6I67) | [RMN](https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm) | 3:08 | 2021-03-27 | 2021-03-31 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-02-13 |
 | [Is U Mad](https://open.spotify.com/track/2RmoYkORyEAtEi66LY9eG6) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 2:47 | 2022-08-12 | 2022-10-15 |

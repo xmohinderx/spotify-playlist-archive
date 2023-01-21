@@ -2,7 +2,7 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Luciano Pereyra & Pedro Capó
+> La música que te acompaña en el amor\. Foto: Tiago PZK
 
 166 songs - 9 hr 7 min
 

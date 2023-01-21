@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-276 songs - 15 hr 31 min
+277 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [One Long Firework in the Sky](https://open.spotify.com/track/1OmPgwGZtgwdKZp5S0gy7I) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [One Long Firework in the Sky](https://open.spotify.com/album/7xH5oPxIAovNTLDxHj1kVG) | 3:45 | 2022-10-28 | 2022-11-11 |
 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-17 | 2022-12-24 |
 | [Ot Commute](https://open.spotify.com/track/6FJlT2Uyyc9bE8UBdCkR5w) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Cuns](https://open.spotify.com/artist/440Df17wTGxtbFirxmW5l3) | [Be That as It May](https://open.spotify.com/album/7dSRveh6MB42PvHphZfgPY) | 3:21 | 2022-12-15 |  |
-| [Ovule \- Sega Bodega Remix](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(Sega Bodega Remix\)](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 | 2023-01-19 |  |
+| [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 | 2023-01-19 |  |
+| [Ovule \- Sega Bodega Remix](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(Sega Bodega Remix\)](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 | 2023-01-19 | 2023-01-21 |
 | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/track/3WaEyZXCEKX8TxmKciVNHm) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/album/1BIE4nVzZLtQ6sZenFfvx7) | 2:33 | 2022-10-28 | 2022-11-11 |
 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 | 2022-12-15 |  |
 | [pass on over](https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [pass on over](https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7) | 2:37 | 2022-12-15 |  |

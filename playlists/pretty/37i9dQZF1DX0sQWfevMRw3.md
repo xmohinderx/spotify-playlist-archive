@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Raggare, ja de är alltid bäst!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,780 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,041 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 25 | [SNURRAR SOM ETT HJUL](https://open.spotify.com/track/08TmjaKrRDvnRfuMWccWsN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SNURRAR SOM ETT HJUL](https://open.spotify.com/album/5NcBV2Wruziy3gkKjny9Yh) | 2:05 |
 | 26 | [JÄGERSHÖT](https://open.spotify.com/track/6ZwttlhfC9ICBqkKdjEcOZ) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [JÄGERSHÖT](https://open.spotify.com/album/7Ap2OiU6fTus66d0D6ENt1) | 2:37 |
 | 27 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 |
-| 28 | [Välkommen in](https://open.spotify.com/track/39OfP05u887i4HgQtXVLtD) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Välkommen in](https://open.spotify.com/album/0EsHbhowdcBGtTEk1vfZ2t) | 2:52 |
+| 28 | [Välkommen in](https://open.spotify.com/track/39OfP05u887i4HgQtXVLtD) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8) | [Välkommen in](https://open.spotify.com/album/0EsHbhowdcBGtTEk1vfZ2t) | 2:52 |
 | 29 | [KAN INTE STÅ](https://open.spotify.com/track/6hTCGlOMC0T0DWRw1Jktcu) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [KAN INTE STÅ](https://open.spotify.com/album/4vddsTJmkRzrJOyeOa0RWG) | 2:16 |
 | 30 | [LIGGA MED DIG I EN BAJAMAJA](https://open.spotify.com/track/1Y43z1GXGTbKR1hqT1gb6v) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [LIGGA MED DIG I EN BAJAMAJA](https://open.spotify.com/album/5aPBBW0YE7BqP7e9N0vrqp) | 2:29 |
 | 31 | [Sabotage](https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Sabotage](https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn) | 2:39 |

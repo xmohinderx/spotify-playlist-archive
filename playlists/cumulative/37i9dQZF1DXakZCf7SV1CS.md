@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-127 songs - 6 hr 0 min
+128 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 | 2021-09-23 |  |
 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 | 2021-09-23 |  |
 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/5EiwfaQxmwjCyPLZ7i6kxW) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 | 2021-09-23 | 2022-05-13 |
-| [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 | 2021-09-23 |  |
+| [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 | 2021-09-23 | 2023-01-21 |
 | [BiG KIDS](https://open.spotify.com/track/1BGlxFaf5046dWAxe7pRve) | [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze), [jedwill1999](https://open.spotify.com/artist/5Q0CFLZ0ZgHvbMLXfLMqF7), [RILEY THE MUSICIAN](https://open.spotify.com/artist/16DcOXjCP2hheroOZ3dPMD) | ["things happen, it's okay!"](https://open.spotify.com/album/0WSQNo2j9Y94miKDPGlJj3) | 2:33 | 2021-09-23 | 2022-05-13 |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-09-23 |  |
 | [Black Rum](https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Black Rum](https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg) | 2:26 | 2021-12-21 | 2022-07-29 |
@@ -81,6 +81,7 @@
 | [I <3 Harajuku](https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [I <3 Harajuku](https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF) | 2:26 | 2022-05-12 |  |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2021-09-23 | 2022-10-25 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 | 2022-10-21 | 2023-01-05 |
+| [I Dont Want That Many Friends in the First Place \(P\. Durao\)](https://open.spotify.com/track/4qKJFTj7u4eB8aAlgwH8F7) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 1:49 | 2022-11-29 |  |
 | [i hate it here](https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx) | 2:37 | 2022-10-21 | 2023-01-05 |
 | [i hate it here](https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5) | 2:37 | 2021-09-23 | 2022-10-25 |
 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 | 2021-09-23 |  |

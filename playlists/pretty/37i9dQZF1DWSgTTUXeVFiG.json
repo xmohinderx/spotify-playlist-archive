@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 12369,
+  "num_followers": 12400,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGE0ODFmMjFkZDFlNDBkMTE0YTYzNWU0MmU1MmI0MWM0",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDZlMzc5Y2FkNmE2MTA5ZjliMmFhOTM1NmJmZGRjNzM0",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 500520,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "15 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 440864,
       "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
       "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 500520,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Intimamente Salsero (En Vivo)",
-        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Sue\u00f1o Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 401466,
       "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
       "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Ismael Miranda (En Vivo)",
+        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Se\u00f1or Sereno - En Vivo",
+      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
     }
   ],
   "unique_name": "Vivo de Salsa",

@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 569526,
+  "num_followers": 570113,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1MDIwNywwMDAwMDAwMDUwODBmYjE1ZmNkMzEwZDU5MmRlZTE4YzNiNTY1Zjkx",
+  "snapshot_id": "MTY3NDA1MDIwNywwMDAwMDAwMDc2NGI0NjAwN2ZmYmRmYzNlMTAwMjFkOGE0MmJmYjM0",
   "tracks": [
     {
       "added_at": "2023-01-18 11:19:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-01-18 11:19:07",
       "album": {
-        "name": "Hunted",
-        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
-      },
-      "artists": [
-        {
-          "name": "Egypt Central",
-          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
-        }
-      ],
-      "duration_ms": 173398,
-      "name": "Hunted",
-      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
-    },
-    {
-      "added_at": "2023-01-18 11:19:07",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 279333,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
+    },
+    {
+      "added_at": "2023-01-18 11:19:07",
+      "album": {
+        "name": "Hunted",
+        "url": "https://open.spotify.com/album/6A0zg9omFxGDUqKLAC5Cog"
+      },
+      "artists": [
+        {
+          "name": "Egypt Central",
+          "url": "https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Hunted",
+      "url": "https://open.spotify.com/track/2o34ml66r7gmwmsIHcg6ym"
     },
     {
       "added_at": "2023-01-18 11:19:07",

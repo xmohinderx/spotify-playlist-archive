@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 195882,
       "name": "ALL EARS",
       "url": "https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o"
@@ -464,6 +464,28 @@
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
+        "name": "Ask (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "Ask (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD"
     },
     {
       "album": {
@@ -1200,7 +1222,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 140982,
       "name": "Booty Dancer",
       "url": "https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p"
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 157821,
       "name": "Dead Wrong",
       "url": "https://open.spotify.com/track/2RWHnUfoeI5RPU3EINDl3R"
@@ -2624,7 +2646,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 124558,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
@@ -2955,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "album": {
         "name": "Fresh Off A Heartbreak",
         "url": "https://open.spotify.com/album/3SSzZPosmGH9aA7H4y1KBv"
       },
@@ -2991,6 +3031,32 @@
     },
     {
       "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "FULLY LOADED (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR"
+    },
+    {
+      "album": {
         "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
         "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
       },
@@ -3014,6 +3080,28 @@
       "duration_ms": 232661,
       "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
       "url": "https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i"
+    },
+    {
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv"
     },
     {
       "album": {
@@ -3178,6 +3266,28 @@
       "duration_ms": 153600,
       "name": "Glockie",
       "url": "https://open.spotify.com/track/7rYbn9y2AoaNP5aWzcdRbd"
+    },
+    {
+      "album": {
+        "name": "GOATED.",
+        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197380,
+      "name": "GOATED. (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
       "album": {
@@ -4508,6 +4618,28 @@
       "duration_ms": 158003,
       "name": "Long Day (Pussy Crazy)",
       "url": "https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh"
+    },
+    {
+      "album": {
+        "name": "Look At Me (feat. Eli Fross)",
+        "url": "https://open.spotify.com/album/0tfszH6E1d1ASb9IesKS2o"
+      },
+      "artists": [
+        {
+          "name": "Jay Bezzy",
+          "url": "https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Look At Me (feat. Eli Fross)",
+      "url": "https://open.spotify.com/track/7CeYVvF20e0yCImB9SHq1x"
     },
     {
       "album": {
@@ -6236,7 +6368,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f"
@@ -6558,6 +6690,28 @@
       "duration_ms": 138556,
       "name": "ride.",
       "url": "https://open.spotify.com/track/7aRYhqmgdFdrHODXud8OKY"
+    },
+    {
+      "album": {
+        "name": "Rodeo (feat. Big Jade)",
+        "url": "https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Rodeo (feat. Big Jade)",
+      "url": "https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG"
     },
     {
       "album": {
@@ -8660,7 +8814,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 161495,
       "name": "Whap Whap (feat. Fivio Foreign & French Montana)",
       "url": "https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk"
@@ -8726,7 +8880,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 145918,
       "name": "Why Did I",
       "url": "https://open.spotify.com/track/1t8ELLu3PQ2Lvd3mghcmM9"

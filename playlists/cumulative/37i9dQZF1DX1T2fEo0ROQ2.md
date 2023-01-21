@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-376 songs - 19 hr 43 min
+378 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Orbital](https://open.spotify.com/track/2sqE9z7rJlzV5ZgieeUatU) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Space](https://open.spotify.com/album/7jsqMuym5gtuuEuavy697d) | 2:24 | 2022-05-26 |  |
 | [Pacific Bliss](https://open.spotify.com/track/6tJQ2qxNMAk7sPmmXyZWam) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pacific Bliss](https://open.spotify.com/album/22mii96Xmp7kjEGcb0Mwdm) | 2:46 | 2022-05-26 |  |
 | [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-05-26 | 2022-09-03 |
+| [Pas De Soucis](https://open.spotify.com/track/5vNmFEcBUbdiM0gIP2rpyj) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Pas De Soucis](https://open.spotify.com/album/5mUbuyifZ9AykEdvXPcqtQ) | 2:19 | 2023-01-20 |  |
 | [Past Lives](https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:20 | 2022-05-26 | 2022-12-21 |
 | [Pathways](https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Pathways](https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7) | 2:00 | 2022-05-26 | 2022-09-03 |
 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 | 2022-05-26 |  |
@@ -291,6 +292,7 @@
 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 | 2022-05-26 |  |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2022-05-26 |  |
 | [See It Through](https://open.spotify.com/track/28Vm9HwBIfy13ZPEffBFOF) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [See It Through](https://open.spotify.com/album/6XJPhQ3Vd40G4mB4xXpljU) | 2:35 | 2022-05-26 |  |
+| [Sehnsucht](https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Sehnsucht](https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA) | 2:50 | 2023-01-20 |  |
 | [Selfless](https://open.spotify.com/track/4b2IRjcQQrpCQfDHPwFG4d) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Selfless](https://open.spotify.com/album/6g4NmJWAtFCVcgPLIGflef) | 2:27 | 2022-11-11 |  |
 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 | 2022-05-26 | 2022-12-21 |
 | [Semblance of Reality](https://open.spotify.com/track/35i1Xb0oSslrXF1KT51IdK) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 3:22 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with SLANDER, Alison Wonderland & Said The Sky.
 
-411 songs - 1 day 0 hr 0 min
+413 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-07-01 |  |
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-12-17 | 2022-03-12 |
+| [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-20 |  |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [LEVIATHAN](https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2) | [GRUMGULLY](https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [LEVIATHAN](https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o) | 2:43 | 2022-07-01 |  |
 | [Lie To Me](https://open.spotify.com/track/75fOxOsp9Oa6O8SFnilvzf) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz), [Ticia](https://open.spotify.com/artist/7yLHUns4y9wwTWMVLr03Pp) | [Lie To Me](https://open.spotify.com/album/76NvCIGFShqW8eboV4x43A) | 3:12 | 2021-12-17 | 2022-02-19 |
@@ -218,6 +219,7 @@
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-06-10 | 2022-12-03 |
 | [LOVE ROCKET](https://open.spotify.com/track/07Jlj2b9aloUsFDhOoeaqm) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe), [Elephant Heart](https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5) | 4:14 | 2021-12-17 | 2022-03-12 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-17 | 2022-02-26 |
+| [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 | 2023-01-20 |  |
 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY) | 2:58 | 2021-12-17 | 2022-05-07 |
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2022-12-02 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-08-05 |  |

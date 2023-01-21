@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "500 Miles",
+        "url": "https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH"
+    },
+    {
+      "album": {
         "name": "61 South",
         "url": "https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy"
       },
@@ -316,6 +334,28 @@
       "duration_ms": 195340,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
+    },
+    {
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "album": {
@@ -724,7 +764,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
@@ -1816,7 +1856,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 232346,
       "name": "I Feel A Sin Coming On",
       "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
@@ -3078,7 +3118,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 240000,
       "name": "Running",
       "url": "https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB"
@@ -4014,6 +4054,24 @@
       "duration_ms": 314117,
       "name": "Through The Darkest Night",
       "url": "https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd"
+    },
+    {
+      "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
     },
     {
       "album": {

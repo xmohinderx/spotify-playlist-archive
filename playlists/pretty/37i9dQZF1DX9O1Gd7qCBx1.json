@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 185349,
+  "num_followers": 185359,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDdmMTlmMDgxZWU3NDQ3MTk3NTY5YzM0NDA3MmY1MDNl",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDAzMDUxZjY0ODdiYzJjZjc2OWM4MzdhODVkYTQzMGQ5",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Flor de Biznaga",
+        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 370120,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 264533,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Flor de Biznaga",
-        "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 370120,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Illustrated Songs",
         "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 170839,
       "name": "Y Tu Sombra",
       "url": "https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 147200,
       "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
       "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Boda Negra (El Enterrador)",
-      "url": "https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Edge of the Sun (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 183200,
       "name": "Coyoac\u00e1n",
       "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Boda Negra (El Enterrador)",
+      "url": "https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Sus Ojos Se Cerraron",
-      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
         "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Sus Ojos Se Cerraron",
+      "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
+      },
+      "artists": [
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 213509,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Espectro (En Vivo Desde Cuba)",
         "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 268992,
       "name": "Espectro (En Vivo Desde Cuba)",
       "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS"
-      },
-      "artists": [
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 213509,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo"
     },
     {
       "added_at": "2021-11-01 17:39:36",

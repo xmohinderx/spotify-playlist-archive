@@ -8843,6 +8843,24 @@
     },
     {
       "album": {
+        "name": "White Sands.",
+        "url": "https://open.spotify.com/album/5g5Yd5UpXgnxxYqxd68kYU"
+      },
+      "artists": [
+        {
+          "name": "Eyesoh",
+          "url": "https://open.spotify.com/artist/7G1G3yjzHEywXqL0G14I1Q"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "White Sands.",
+      "url": "https://open.spotify.com/track/1F3IE5tmgY0SEGYSUzHbbM"
+    },
+    {
+      "album": {
         "name": "White Wine Rivers",
         "url": "https://open.spotify.com/album/2LQa78PnACswAEx1p7dpSH"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Nicole Favre en portada.",
-  "num_followers": 55268,
+  "num_followers": 55274,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDUyNiwwMDAwMDAwMDIwMTI2ZmQ0MmIyNjBiYjVkNzA5NjQ1NDg2ZjNlYTM3",
+  "snapshot_id": "MTY3MzU4NDUyNiwwMDAwMDAwMGJlZWM5YzJkYzQ4MmMyYzk4YWY1ZGRiZDUyNWYyZDIy",
   "tracks": [
     {
       "added_at": "2023-01-13 04:35:26",
@@ -909,26 +909,6 @@
       "url": "https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Mi Plan B",
-        "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
-      },
-      "artists": [
-        {
-          "name": "Freddy Leyva",
-          "url": "https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl"
-        },
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mi Plan B",
-      "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
-    },
-    {
       "added_at": "2022-12-16 01:57:10",
       "album": {
         "name": "LOS GALACTICOS Vol.1",
@@ -959,6 +939,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Mi Plan B",
+        "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
+      },
+      "artists": [
+        {
+          "name": "Freddy Leyva",
+          "url": "https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl"
+        },
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mi Plan B",
+      "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "SI SE DA",
         "url": "https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L"
       },
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "LUZ APAG\u00c1",
-        "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "ANA SOCLASH",
-          "url": "https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "LUZ APAG\u00c1",
-      "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "LUZ APAG\u00c1",
+        "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "ANA SOCLASH",
+          "url": "https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "LUZ APAG\u00c1",
+      "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
     },
     {
       "added_at": "2022-09-29 23:31:37",

@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Laten gaan",
+        "url": "https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6"
+      },
+      "artists": [
+        {
+          "name": "Niel Hupkes",
+          "url": "https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208379,
+      "name": "Laten gaan",
+      "url": "https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0"
+    },
+    {
+      "album": {
         "name": "Leende",
         "url": "https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 197319,
       "name": "Per Me",
       "url": "https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"

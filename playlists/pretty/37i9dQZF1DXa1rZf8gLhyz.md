@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,648 likes - 197 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,010 likes - 197 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 |
-| 2 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 |
+| 2 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 |
 | 3 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 |
-| 4 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 |
-| 5 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 |
-| 6 | [I Remember You](https://open.spotify.com/track/63oIijRBCf17K2BG2xMf51) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I Remember You](https://open.spotify.com/album/6Zy69hl6GmvOE141qAZt3t) | 2:03 |
-| 7 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 |
-| 8 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 |
-| 9 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 |
-| 10 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 |
-| 11 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 |
-| 12 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 |
-| 13 | [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 |
-| 14 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 |
+| 4 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 |
+| 5 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 |
+| 6 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 |
+| 7 | [I Remember You](https://open.spotify.com/track/63oIijRBCf17K2BG2xMf51) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I Remember You](https://open.spotify.com/album/6Zy69hl6GmvOE141qAZt3t) | 2:03 |
+| 8 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 |
+| 9 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 |
+| 10 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 |
+| 11 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 |
+| 12 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 |
+| 13 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 |
+| 14 | [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 |
 | 15 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 |
 | 16 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 |
 | 17 | [Nancy With The Laughing Face](https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Nancy With The Laughing Face](https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq) | 4:21 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 196 | [Nightmood](https://open.spotify.com/track/4ditrMy34cshzgGWwTc7bH) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Nightmood](https://open.spotify.com/album/36gnW9zzfAOMX61z76ey9b) | 3:44 |
 | 197 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
 
-Snapshot ID: `MTY3NDE2OTI2MCwwMDAwMDAwMDQ0MjlhNTg3M2MzZDFiOTI0OGQ0YmU0OTJhYzkxMzE3`
+Snapshot ID: `MTY3NDIyNDU3NSwwMDAwMDAwMDAyZGU1YzI2YmM1NDU2Zjc1YWYwYzllYjgxOTc2Zjkw`

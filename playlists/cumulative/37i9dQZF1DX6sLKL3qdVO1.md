@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Lo mejor del reggaetón y flow actual con Dani Torres, Dejota2021, Zxmyr, Leon Leiden en portada.
+> Lo mejor del reggaetón y flow actual con Feid en portada.
 
 274 songs - 15 hr 24 min
 

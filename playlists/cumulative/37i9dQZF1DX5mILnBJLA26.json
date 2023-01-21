@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD?si=H7fY3ydHTZaCc7H-JEVSOQ\">Soa mattrix</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD?si=ljVT-Fn0Rv-voFqIDxV1cA\">Uncle Vinny</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -7484,6 +7484,44 @@
     {
       "album": {
         "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/3YIUthuy66IPP1QNOPOToJ"
+      },
+      "artists": [
+        {
+          "name": "Balcony Mix Africa",
+          "url": "https://open.spotify.com/artist/0g3anY9Kyx4GP1wgSrUXqp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "Mathandos",
+          "url": "https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK"
+        },
+        {
+          "name": "S.O.N",
+          "url": "https://open.spotify.com/artist/0I5rNJv2Bldivd8UjTGlQ6"
+        },
+        {
+          "name": "Omit ST",
+          "url": "https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481841,
+      "name": "Imali ye lobola",
+      "url": "https://open.spotify.com/track/2JFD06DmWrKK5mHGthUXyB"
+    },
+    {
+      "album": {
+        "name": "New Beginnings",
         "url": "https://open.spotify.com/album/43Sw8RHBGc9iuWgoNHqnKz"
       },
       "artists": [
@@ -7514,7 +7552,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 481841,
       "name": "Imali ye lobola",
       "url": "https://open.spotify.com/track/4xDirvn7odalfgCNKjvomz"

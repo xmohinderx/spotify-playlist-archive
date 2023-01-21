@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,309 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,306 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Schön genug](https://open.spotify.com/track/4Cz5GKXgKwWODjdWvC3t0D) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Schön genug](https://open.spotify.com/album/60e9x7E5DRVgrwCyG18sd6) | 3:06 |
 | 12 | [Schattenfreunde](https://open.spotify.com/track/45lM3gTfmXLRdPDpp7DYFm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Schattenfreunde](https://open.spotify.com/album/7EN1ro35eCr89c04hR65Re) | 2:31 |
 | 13 | [Junge](https://open.spotify.com/track/6QmuVe9sMixiRdizHHHau3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Junge](https://open.spotify.com/album/423IoNr4MW1JOAoEIfcR5E) | 3:47 |
-| 14 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
-| 15 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
+| 14 | [Analog Girl in a Digital World](https://open.spotify.com/track/6X8aDvIO7W9HAIguFwudes) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Analog Girl in a Digital World](https://open.spotify.com/album/1ZQa3tm2ZtyZ4Eu9O7T5R4) | 6:15 |
+| 15 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 16 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 |
 | 17 | [Vertrau dir nicht](https://open.spotify.com/track/0rc5Xe21tVqyPlIzfRFOQp) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Vertrau dir nicht](https://open.spotify.com/album/0zjzXGObG8eQ8XYO28qWhg) | 2:41 |
 | 18 | [Instabil](https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Instabil](https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl) | 2:34 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 32 | [I'm The Wind](https://open.spotify.com/track/0y1kDv9jGWDQqO6aqdmuqC) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [I'm The Wind](https://open.spotify.com/album/53DVeAZQxMJY5j6r7jGuRJ) | 4:06 |
 | 33 | [Rummelplatz](https://open.spotify.com/track/5KfbjvEXuvJh5d5gXnbTUG) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV) | 3:14 |
-| 34 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
-| 35 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 |
+| 34 | [gold junge](https://open.spotify.com/track/7hULHmycFmInX4qSucxMNd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [gold junge](https://open.spotify.com/album/0C4SR1CjMjx4X3HWbi4A1D) | 3:12 |
+| 35 | [15 Years](https://open.spotify.com/track/5XfhFRT2iIXD9zhjiOoau7) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [15 Years](https://open.spotify.com/album/1r2fWcGwEVYuU9GOvv2BHJ) | 3:18 |
 | 36 | [Utopia](https://open.spotify.com/track/4202xIEzuXea2CqyZMaz2F) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Utopia](https://open.spotify.com/album/2IrRVfGOPj1pDEhwvu4hYV) | 3:32 |
 | 37 | [Bye Lovely](https://open.spotify.com/track/2u1JxNgy2RhnOqpkZxoE8q) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Bye Lovely](https://open.spotify.com/album/2ItSFP2Ga9I3u4u5s1heaa) | 3:18 |
 | 38 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Gnxta Love](https://open.spotify.com/track/6ZiepO0OmSYOEI6WRhuw5K) | [Dimi Rompos](https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL) | [Gnxta Love](https://open.spotify.com/album/2sx1blo3dHoC3itrX3yBxD) | 3:07 |
 | 50 | [Villain \- Live Version](https://open.spotify.com/track/6FXyKhbMs5lEnoBgGiq8bY) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain \(Live Version\)](https://open.spotify.com/album/229KTGQ0nvTlk2Apx2sGkB) | 5:14 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDk5N2RjOGRiYjU4N2NlNTg3Y2VlMTUyY2Y4YmFiYWFi`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDM4MDBjODc5MzY0Yzc0MzA4YTY5YmYzMDlmYjE1NjNi`

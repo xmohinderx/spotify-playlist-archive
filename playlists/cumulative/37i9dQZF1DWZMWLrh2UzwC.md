@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Sam Smith
 
-4,503 songs - 10 day 7 hr 13 min
+4,505 songs - 10 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2059,7 +2059,7 @@
 | [Ke Angkasa \- Original Soundtrack From Drama Bersiri "Petronas 366"](https://open.spotify.com/track/6x75dtJ6KoKMfDxD0GNFdz) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Ke Angkasa \(Original Soundtrack From Drama Bersiri "Petronas 366"\)](https://open.spotify.com/album/2Q6x7wvc8Nkiz6TvfxreUQ) | 2:56 | 2022-06-30 | 2022-07-08 |
 | [Kecewa](https://open.spotify.com/track/5kulMDqE2C0uCVUQ8X1Lby) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Kecewa](https://open.spotify.com/album/2f8y8MJAXRwq9G100DWIYH) | 3:21 | 2022-09-22 | 2022-09-30 |
 | [Kecurigaan](https://open.spotify.com/track/4s5Nt3Chzx4GrOdMGAwPJz) | [Adibah Noor](https://open.spotify.com/artist/0SMaotndluM5d6Gp3lfC60) | [Kecurigaan](https://open.spotify.com/album/3uaOxxQnIbc1Ip9sazWbmP) | 3:39 | 2022-01-27 | 2022-02-04 |
-| [Keep It](https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [Keep It](https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1) | 2:20 | 2023-01-19 |  |
+| [KEEP IT](https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5) | [Kid Culture](https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU) | [KEEP IT](https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1) | 2:20 | 2023-01-19 |  |
 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 | 2022-07-21 | 2022-07-29 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-27 | 2022-02-04 |
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2022-11-25 |
@@ -2518,6 +2518,7 @@
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-15 | 2022-09-23 |
 | [moonlight](https://open.spotify.com/track/6xCB26Dg9hVNE76hJ774aU) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [moonlight](https://open.spotify.com/album/66VclcKcfP5LZzoC4Su0eA) | 3:23 | 2022-06-02 | 2022-06-10 |
 | [Moonlight](https://open.spotify.com/track/3fsysiUDYIZLuZPX7ewMMa) | [Tiara Eve](https://open.spotify.com/artist/3kio6eSaWyIYN9oUvQy6ij), [Sistine](https://open.spotify.com/artist/5ilVkrQdSdHHhss0NApuy6) | [Moonlight](https://open.spotify.com/album/4ed7He2rKb6FkhuKp54kVm) | 3:36 | 2022-12-15 | 2022-12-24 |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-19 |  |
 | [Moped](https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Does A Fish Know It's Wet?](https://open.spotify.com/album/2Zi2zHzjT6aMypTgEXY2zw) | 3:05 | 2022-07-21 | 2022-07-29 |
 | [more](https://open.spotify.com/track/28Jp7gcgysBhWZJ9mnXEYd) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [more](https://open.spotify.com/album/2FaKfOk1cWuiqhBet8sdJW) | 3:13 | 2022-03-03 | 2022-03-11 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-07-08 |
@@ -3117,6 +3118,7 @@
 | [Riding](https://open.spotify.com/track/39tBnuBaIpB8fDS730O3By) | [UV](https://open.spotify.com/artist/5M7KE2pbTmSQL32wD4sTG9), [CHOI SIWON](https://open.spotify.com/artist/2rg9fZFK6wnlbRKUv7zkht) | [Riding](https://open.spotify.com/album/3YW6O8IK3bMsekoylMEFOz) | 3:49 | 2022-03-31 | 2022-04-08 |
 | [Right Back \(Feat\. Tabber\)](https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Lucky Charms!](https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa) | 3:26 | 2022-06-02 | 2022-06-10 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-17 | 2022-02-25 |
+| [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-01-19 |  |
 | [Right People Wrong Time](https://open.spotify.com/track/0TPogBqvsj6i1h6vclDYX1) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa) | [Right People Wrong Time](https://open.spotify.com/album/4mVRXhbtobK8nUxIfW2v7a) | 2:59 | 2022-02-03 | 2022-02-11 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2022-12-01 | 2022-12-09 |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-01 | 2022-09-09 |

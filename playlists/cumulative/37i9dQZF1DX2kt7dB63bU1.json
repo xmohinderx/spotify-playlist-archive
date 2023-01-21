@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 276579,
       "name": "Bei Mir Bist Du Sch\u00f6n",
       "url": "https://open.spotify.com/track/5EHm4yYpUnpWcwhfJ31wUj"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 138706,
       "name": "Comment Allez Vous",
       "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 305946,
       "name": "Don't Know Why - Live",
       "url": "https://open.spotify.com/track/5pUnoMX7OVSS2hI1xPEK06"
@@ -2780,6 +2780,36 @@
       "duration_ms": 462538,
       "name": "Everybody\u00b4s Blues - Live",
       "url": "https://open.spotify.com/track/1GCp5ZwqH0bMbvRCQkr2gM"
+    },
+    {
+      "album": {
+        "name": "Everything Happens to Me",
+        "url": "https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379427,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
     },
     {
       "album": {
@@ -3921,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302920,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK"
+    },
+    {
+      "album": {
         "name": "I Must Have That Man",
         "url": "https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4"
       },
@@ -4539,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177214,
+      "name": "If I Didn't Care",
+      "url": "https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6"
+    },
+    {
+      "album": {
         "name": "Broadway By Day",
         "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
       },
@@ -4862,7 +4932,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -5000,7 +5070,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204890,
       "name": "It's Gonna Happen Tonight (Version with Orchestra)",
       "url": "https://open.spotify.com/track/1k31bVtBl0LsAZjxa5xOkj"
@@ -5172,6 +5242,42 @@
       "duration_ms": 233093,
       "name": "Just a Word",
       "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+    },
+    {
+      "album": {
+        "name": "Just in Time",
+        "url": "https://open.spotify.com/album/2MQcc26z8sRrrafe29Ejya"
+      },
+      "artists": [
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385367,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/1IfT79sqApOwi1AgEqJAKm"
+    },
+    {
+      "album": {
+        "name": "Just in Time",
+        "url": "https://open.spotify.com/album/3xjdQF7MrWRdBYiZyDZ75O"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "Just in Time",
+      "url": "https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG"
     },
     {
       "album": {
@@ -7304,6 +7410,28 @@
       "duration_ms": 587186,
       "name": "Practical Arrangement (with Joey Calderazzo, Eric Revis & Justin Faulkner)",
       "url": "https://open.spotify.com/track/0lKUEcJpGcox2NiEVFy9KX"
+    },
+    {
+      "album": {
+        "name": "Pretty Eyed Baby",
+        "url": "https://open.spotify.com/album/73MTSjkt8waiycssrFqSKU"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314786,
+      "name": "Pretty Eyed Baby",
+      "url": "https://open.spotify.com/track/7eTTVLk7v731famjGi0162"
     },
     {
       "album": {
@@ -9612,7 +9740,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 267993,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG"

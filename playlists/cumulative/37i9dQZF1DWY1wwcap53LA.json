@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Pretty Little Devils",
+        "url": "https://open.spotify.com/album/6laMfCUBqD0g3uVQRUYNBO"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179617,
+      "name": "Pretty Little Devils",
+      "url": "https://open.spotify.com/track/6rcQA9q2ZdJeUzZKZU6pUg"
+    },
+    {
+      "album": {
         "name": "Raised Right",
         "url": "https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy"
       },

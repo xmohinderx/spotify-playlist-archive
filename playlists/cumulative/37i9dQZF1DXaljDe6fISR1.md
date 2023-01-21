@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-94 songs - 7 hr 20 min
+96 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,13 @@
 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 | 2022-03-11 |  |
 | [Chama os mulekes](https://open.spotify.com/track/133wW6rNFytP7XKIsDhHza) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os neurônios evoluidos](https://open.spotify.com/album/2CGsS0dv6lplvO5KDkooIm) | 5:53 | 2022-03-11 | 2022-07-29 |
 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 | 2022-04-22 |  |
+| [Com Us Amigo No Peão](https://open.spotify.com/track/6l3UcM13VGBdlEmQHjG760) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Hip Hop Machine \#20](https://open.spotify.com/album/5SLh58mVPRk2MUz3jTKVd2) | 4:07 | 2023-01-20 |  |
 | [Como Eu Te Quero](https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:30 | 2022-03-11 |  |
 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 | 2022-12-02 |  |
 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 | 2022-03-11 |  |
 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/1A7uDimTjK1RRZwuWMDpzb) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua \(Ao Vivo\)](https://open.spotify.com/album/6mbN3nlzU1rQTJmOFvI7iA) | 4:48 | 2022-09-23 |  |
 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 | 2022-03-11 |  |
+| [Dj Qap pra Sempre](https://open.spotify.com/track/1PzbbWWpnn9Lx09lcEZiyn) | [Dj Qap](https://open.spotify.com/artist/2eWZvyjFinIYLKuhg18GuA), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Ana Preta](https://open.spotify.com/artist/7J53BPDKOFVgU3CFVnNQud) | [Dj Qap pra Sempre](https://open.spotify.com/album/09AENheDe1DztawKI7jDsV) | 3:51 | 2023-01-20 |  |
 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 | 2022-03-11 |  |
 | [Enxugando Gelo](https://open.spotify.com/track/0wAQlPkjhHoFsd6HUtUhCZ) | [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Seletores de Frequência](https://open.spotify.com/artist/6PUOUkI5oyCz3jQdIcuptu) | [Enxugando Gelo](https://open.spotify.com/album/5yg2v0Dhxr17eH4nYtT0wb) | 3:11 | 2022-04-22 |  |
 | [Enxugando Gelo](https://open.spotify.com/track/6ZG8oZnnsfc8CCOmSjimoG) | [BNegão & Seletores de Frequencia](https://open.spotify.com/artist/1cpyFBSbDQgC05pKUhzNyt) | [Enxugando Gelo](https://open.spotify.com/album/18BvZYGljOGmWEZonuGLvI) | 3:11 | 2022-03-11 | 2022-07-29 |

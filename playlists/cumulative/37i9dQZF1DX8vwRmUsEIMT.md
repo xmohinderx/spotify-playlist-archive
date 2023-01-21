@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Headie One
 
-675 songs - 1 day 12 hr 34 min
+676 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 | 2023-01-06 |  |
 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 | 2022-06-09 | 2022-07-01 |
 | [Game Over \(feat\. Youngs Teflon & Tiny Boost\)](https://open.spotify.com/track/6kdItiLFpwPykmASmpizZK) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [Game Over \(feat\. Youngs Teflon & Tiny Boost\)](https://open.spotify.com/album/3GoPNDRG7FIVpJqBRub1vh) | 3:02 | 2022-12-02 | 2022-12-16 |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 |  |
 | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/track/1TFI1ltSMuCIoEc7as1Wvy) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [John Agard](https://open.spotify.com/artist/6R8SE4sx8FJKf3ellRAkdm) | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/album/0OX3vQ1IUPFf6YMc815xoS) | 2:57 | 2022-08-11 | 2022-09-02 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2022-12-09 |
 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 | 2022-08-04 | 2022-08-24 |

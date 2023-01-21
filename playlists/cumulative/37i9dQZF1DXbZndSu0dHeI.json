@@ -908,7 +908,7 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "date_added": "2023-01-14",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182887,
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 258693,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
@@ -1876,7 +1876,7 @@
           "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "date_added": "2023-01-14",
+      "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 59026,
@@ -1922,6 +1922,24 @@
       "duration_ms": 256226,
       "name": "Folly",
       "url": "https://open.spotify.com/track/2WdbrlcvB1KEX2DALxiKOE"
+    },
+    {
+      "album": {
+        "name": "Food Aid",
+        "url": "https://open.spotify.com/album/1uuYOPop4HSbbFZoXHgBZ6"
+      },
+      "artists": [
+        {
+          "name": "LadBaby",
+          "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Food Aid",
+      "url": "https://open.spotify.com/track/6tNRqkD3aFkUgmCRjw54TO"
     },
     {
       "album": {
@@ -2239,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200968,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
+    },
+    {
+      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -2312,7 +2348,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 187636,
       "name": "kill you",
       "url": "https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD"
@@ -3502,7 +3538,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 192026,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
@@ -4212,6 +4248,24 @@
       "duration_ms": 200000,
       "name": "Orange Yellow Orange",
       "url": "https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3"
+    },
+    {
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ"
     },
     {
       "album": {
@@ -5774,6 +5828,24 @@
       "duration_ms": 186346,
       "name": "Triptych",
       "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
+    },
+    {
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "album": {

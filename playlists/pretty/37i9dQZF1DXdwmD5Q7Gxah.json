@@ -1,13 +1,73 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: boygenius",
-  "num_followers": 981610,
+  "num_followers": 981855,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA2NzQyMiwwMDAwMDAwMDEzOWE2YTY1NDI1MzU1Mzc3ZjI5MmU2OGNmODhhNmJj",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGJmMWU3NTE5ZjM2NmUwNjZmZDc2Yjk2Y2Q5NDNkMWFk",
   "tracks": [
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Where do we go now?",
+        "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
+    },
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
@@ -39,18 +99,18 @@
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+        "name": "Montage",
+        "url": "https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
         }
       ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+      "duration_ms": 170322,
+      "name": "Montage",
+      "url": "https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR"
     },
     {
       "added_at": "2023-01-18 17:00:00",
@@ -69,36 +129,60 @@
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Where do we go now?",
-        "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
+        "name": "Count of three (You can eat $#@!)",
+        "url": "https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
+      "duration_ms": 159110,
+      "name": "Count of three (You can eat $#@!)",
+      "url": "https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS"
     },
     {
-      "added_at": "2023-01-18 17:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Montage",
-        "url": "https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo"
+        "name": "L.S.D. (Love So Damaged)",
+        "url": "https://open.spotify.com/album/0LmLxx4DrTEScurfaFF0E9"
       },
       "artists": [
         {
-          "name": "India Thieriot",
-          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Montage",
-      "url": "https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR"
+      "duration_ms": 153401,
+      "name": "L.S.D. (Love So Damaged)",
+      "url": "https://open.spotify.com/track/593Ul2Jp3P86EXlJy0VTBI"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Welcome To My Island (Remixes)",
+        "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
+        }
+      ],
+      "duration_ms": 202494,
+      "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
+      "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -117,32 +201,68 @@
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
     },
     {
-      "added_at": "2023-01-18 17:00:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+        "name": "essential",
+        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
+      "duration_ms": 162656,
+      "name": "essential",
+      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+    },
+    {
+      "added_at": "2023-01-18 17:00:00",
+      "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Overseas/BACK 2 U",
+        "url": "https://open.spotify.com/album/1SIO06U8gTdx70MgytjUuK"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Overseas/BACK 2 U",
+      "url": "https://open.spotify.com/track/17AR21VFQPJYTRC2eNXXfS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -185,38 +305,6 @@
       "url": "https://open.spotify.com/track/30QoxncreJHjHwsvlTlHTl"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "essential",
-        "url": "https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 162656,
-      "name": "essential",
-      "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
       "added_at": "2023-01-06 05:06:11",
       "album": {
         "name": "Stockholmsvy",
@@ -257,6 +345,22 @@
       "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Heart-Shaped Bruise",
+        "url": "https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Smile For The Camera",
+      "url": "https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg"
+    },
+    {
       "added_at": "2023-01-18 18:43:42",
       "album": {
         "name": "Fairytale (feat. Rachel Chinouriri)",
@@ -277,20 +381,24 @@
       "url": "https://open.spotify.com/track/0R4MlESQkltkYcFP5XyGPp"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Heart-Shaped Bruise",
-        "url": "https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne"
+        "name": "ANGELA (feat. Jimi Somewhere)",
+        "url": "https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        },
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Smile For The Camera",
-      "url": "https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg"
+      "duration_ms": 189298,
+      "name": "ANGELA (feat. Jimi Somewhere)",
+      "url": "https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -343,22 +451,6 @@
       "duration_ms": 221409,
       "name": "stranger danger!",
       "url": "https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB"
-    },
-    {
-      "added_at": "2023-01-18 17:00:00",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -561,22 +653,6 @@
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
-      "added_at": "2022-12-27 20:53:08",
-      "album": {
-        "name": "innerdialogue",
-        "url": "https://open.spotify.com/album/71fYutyUI0dEQ0443BaXde"
-      },
-      "artists": [
-        {
-          "name": "caaaaseyyyy",
-          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
-        }
-      ],
-      "duration_ms": 296151,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
-    },
-    {
       "added_at": "2022-12-22 20:04:27",
       "album": {
         "name": "Answers",
@@ -705,22 +781,6 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2022-12-22 20:04:27",
-      "album": {
-        "name": "The Modern Western World",
-        "url": "https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Nosebleed Seats",
-      "url": "https://open.spotify.com/track/3zREOGri6ic2vk6Dt2NJWk"
-    },
-    {
       "added_at": "2022-07-15 14:04:45",
       "album": {
         "name": "Half Life",
@@ -737,22 +797,6 @@
       "url": "https://open.spotify.com/track/60C3tBC9yPX9vzwYnPrDbd"
     },
     {
-      "added_at": "2022-12-14 17:58:27",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 243672,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
-    },
-    {
       "added_at": "2022-09-09 17:04:50",
       "album": {
         "name": "Fade into You",
@@ -767,6 +811,30 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2022-04-08 15:31:29",
+      "album": {
+        "name": "A New Kind Of Love (Demo)",
+        "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        },
+        {
+          "name": "Guy Sigsworth",
+          "url": "https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "A New Kind Of Love - Demo",
+      "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
       "added_at": "2022-12-07 23:45:22",
@@ -863,22 +931,6 @@
       "duration_ms": 193200,
       "name": "soft-glow",
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
-    },
-    {
-      "added_at": "2022-12-14 17:58:27",
-      "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1007,22 +1059,6 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
-    },
-    {
-      "added_at": "2022-11-28 21:32:11",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
-      },
-      "artists": [
-        {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "7 Weeks & 3 Days",
-      "url": "https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk"
     },
     {
       "added_at": "2022-10-14 17:53:21",
@@ -1663,30 +1699,6 @@
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2022-04-08 15:31:29",
-      "album": {
-        "name": "A New Kind Of Love (Demo)",
-        "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        },
-        {
-          "name": "Guy Sigsworth",
-          "url": "https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "A New Kind Of Love - Demo",
-      "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     }
   ],
   "unique_name": "Lorem",

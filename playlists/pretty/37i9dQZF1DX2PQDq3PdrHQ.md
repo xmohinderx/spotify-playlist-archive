@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,962 likes - 300 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,697 likes - 300 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 43 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 |
 | 44 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 |
 | 45 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
-| 46 | [rest well, my friend](https://open.spotify.com/track/3QCysMGcyHeAT0p3Y65xAD) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [born in the sky](https://open.spotify.com/album/2okumKVDjPqBMdGtybGDSt) | 2:53 |
+| 46 | [rest well, my friend](https://open.spotify.com/track/3QCysMGcyHeAT0p3Y65xAD) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [born in the sky](https://open.spotify.com/album/2okumKVDjPqBMdGtybGDSt) | 2:53 |
 | 47 | [daydreaming](https://open.spotify.com/track/6AmPCKcsVYNXZhTI4BFcAI) | [swiftly](https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7) | [daydreaming](https://open.spotify.com/album/4ZUJhn8sxrETBsSmndnYW5) | 2:04 |
 | 48 | [put me to sleep](https://open.spotify.com/track/5ebr815B9oXaj33OEI18hI) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [put me to sleep](https://open.spotify.com/album/4CePoD2qwJ8CwdRGfJFBDT) | 2:14 |
 | 49 | [Dreaming Underwater](https://open.spotify.com/track/3xQnhrZpriPXm1kmX5epVm) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Dreaming Underwater](https://open.spotify.com/album/44vikY68Ddr7t0eZbdLTFr) | 1:11 |
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 203 | [On Neptune](https://open.spotify.com/track/7E1FbnpF9KmAQDeHkiFCIc) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [On Neptune](https://open.spotify.com/album/5YX5f4JDO6uEZaO5qUmAHV) | 2:20 |
 | 204 | [Dreams](https://open.spotify.com/track/59bPMrkv0wvnfy1VftaHnL) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Dreams](https://open.spotify.com/album/4qnKfG19vqRF95iLdpTWO2) | 2:10 |
 | 205 | [Setting Sun](https://open.spotify.com/track/2eXiFBMG6BhJbtagTXDqXx) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Setting Sun](https://open.spotify.com/album/7ILFyQZmvIqbL7OI0JKwUp) | 2:12 |
-| 206 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 |
+| 206 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 |
 | 207 | [Always By My Side](https://open.spotify.com/track/7BXyrOfj7T9uHfZucu0hAM) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Always By My Side](https://open.spotify.com/album/5Ncm5rj57b0RBlmT1PsUF9) | 2:20 |
 | 208 | [totoro](https://open.spotify.com/track/0lBF1BteJu33MjTtN9OcHa) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [totoro](https://open.spotify.com/album/19GDsnLsmvHf9YzDq99UCp) | 2:24 |
 | 209 | [Moonlit Lake](https://open.spotify.com/track/6QISW6d8YAHaMlyqU7ftqM) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Moonlit Lake](https://open.spotify.com/album/3bDsCHRo37R47zMD21eWs3) | 2:45 |

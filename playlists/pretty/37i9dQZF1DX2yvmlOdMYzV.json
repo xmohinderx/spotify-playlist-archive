@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 842973,
+  "num_followers": 843532,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1MTg3MywwMDAwMDAwMDcxMDcwZmQwNDdkZGI1M2RiOWZkY2M4MDM0YjQyZjlh",
+  "snapshot_id": "MTY3MzU1MTg3MywwMDAwMDAwMGM2ODliMzk0ZWYxODQwMDQ1OWVlNmQwMWQ5NDdjMDI1",
   "tracks": [
     {
       "added_at": "2023-01-12 19:31:13",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 73897,
       "name": "kometostai.aintreallynootherwaytoputitro",
       "url": "https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "FEELS",
-        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 194303,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -363,6 +363,30 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -399,30 +423,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -435,6 +435,30 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -471,30 +495,6 @@
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
-      },
-      "artists": [
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
+        "name": "SUGA",
+        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 154817,
+      "name": "69 Camaro",
+      "url": "https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 239767,
       "name": "Heavenly Mother",
       "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
-        "name": "SUGA",
-        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 154817,
-      "name": "69 Camaro",
-      "url": "https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Yah / Element (Medley)",
-        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 176374,
-      "name": "Yah / Element - Medley",
-      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 129048,
       "name": "You",
       "url": "https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Yah / Element (Medley)",
+        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 176374,
+      "name": "Yah / Element - Medley",
+      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Golden pt. 2 (feat. Mereba)",
         "url": "https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB"
-      },
-      "artists": [
-        {
-          "name": "Marco McKinnis",
-          "url": "https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 226118,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB"
+      },
+      "artists": [
+        {
+          "name": "Marco McKinnis",
+          "url": "https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time - Demo",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time - Demo",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229341,
-      "name": "You're The One - Spotify Singles",
-      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "C BOTH SIDES",
         "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
         {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1391,6 +1375,22 @@
       "duration_ms": 146000,
       "name": "KMS - A COLORS SHOW",
       "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Daughter of the Sun",
-        "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
-      },
-      "artists": [
-        {
-          "name": "vbnd",
-          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
-        },
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
-    },
-    {
-      "added_at": "2023-01-12 19:31:13",
-      "album": {
         "name": "THIS SH!T",
         "url": "https://open.spotify.com/album/4wRmr1ozRCAVPSj06fL68W"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 170217,
       "name": "THIS SH!T",
       "url": "https://open.spotify.com/track/4e0nFC5a95gFWJUzrQ8ggy"
+    },
+    {
+      "added_at": "2023-01-12 19:31:13",
+      "album": {
+        "name": "Daughter of the Sun",
+        "url": "https://open.spotify.com/album/3rQaTiH5vbjKcI0KoL1olN"
+      },
+      "artists": [
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/3KdqW7vrStW0VIp1Pfk0cq"
     },
     {
       "added_at": "2023-01-12 19:31:13",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-01-12 19:31:13",
       "album": {
-        "name": "Doin' Our Thing",
-        "url": "https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5"
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
       "artists": [
         {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Let's Go Get Stoned",
-      "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     }
   ],
   "unique_name": "Lowkey",

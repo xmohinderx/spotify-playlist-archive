@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 5621,
+  "num_followers": 5625,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDk1OSwwMDAwMDAwMDZhZmVkODNiMzEzNjgzNDgyODQzZjZiOWFlYzQ1Njgz",
+  "snapshot_id": "MTY3MzI0NDk1OSwwMDAwMDAwMDE3NzY3NzAyNGM4NzgyYjJiYjJkNWU0NTYyM2IwYjQ4",
   "tracks": [
     {
       "added_at": "2023-01-09 06:15:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-09 06:15:59",
       "album": {
-        "name": "MIA BEACH",
-        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "MIA BEACH",
-      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
-    },
-    {
-      "added_at": "2023-01-09 06:15:59",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 120000,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
+    },
+    {
+      "added_at": "2023-01-09 06:15:59",
+      "album": {
+        "name": "MIA BEACH",
+        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "MIA BEACH",
+      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
     },
     {
       "added_at": "2023-01-09 06:15:59",

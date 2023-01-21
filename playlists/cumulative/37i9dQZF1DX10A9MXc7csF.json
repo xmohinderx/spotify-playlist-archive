@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Omar Rodriquez ",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Cuatro De Oro",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173817,
       "name": "30 Tiros",
       "url": "https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 260000,
       "name": "Ahora Bailas Con \u00c9l",
       "url": "https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173869,
       "name": "Darte Todo",
       "url": "https://open.spotify.com/track/71GxMOVQDOT2GSvp9mJddM"
@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "El Matrix",
+        "url": "https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150678,
+      "name": "El Matrix",
+      "url": "https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl"
+    },
+    {
+      "album": {
         "name": "El Morro De La Cuadra",
         "url": "https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 170035,
       "name": "El Piquetito",
       "url": "https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q"
@@ -3459,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Recuerdos Del Pasado, Vol. 2",
+        "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232368,
+      "name": "Nadie En Este Mundo",
+      "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
+    },
+    {
+      "album": {
         "name": "Nadie En Este Mundo",
         "url": "https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO"
       },
@@ -3474,6 +3510,24 @@
       "duration_ms": 232368,
       "name": "Nadie En Este Mundo",
       "url": "https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo"
+    },
+    {
+      "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "album": {
@@ -3636,7 +3690,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 226636,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
@@ -4081,6 +4135,28 @@
     },
     {
       "album": {
+        "name": "Quiero Brindar",
+        "url": "https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4"
+      },
+      "artists": [
+        {
+          "name": "Rey-N-Raey",
+          "url": "https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "Quiero Brindar",
+      "url": "https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj"
+    },
+    {
+      "album": {
         "name": "Quiero Estar Contigo",
         "url": "https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu"
       },
@@ -4186,6 +4262,24 @@
       "duration_ms": 152663,
       "name": "Sabor a Fresa",
       "url": "https://open.spotify.com/track/71h1ux9lFORYa5CTWV7vn9"
+    },
+    {
+      "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Sal\u00ed Perdiendo - En Vivo",
+      "url": "https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz"
     },
     {
       "album": {

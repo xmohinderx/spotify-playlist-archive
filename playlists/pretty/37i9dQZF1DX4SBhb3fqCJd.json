@@ -1,13 +1,29 @@
 {
-  "description": "The pulse of R&B music today.  Cover: SZA",
-  "num_followers": 6098324,
+  "description": "The pulse of R&B music today.  Cover: Kali Uchis",
+  "num_followers": 6099389,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDU1ZmQ5YjM4NjViMjViYzQxYWQ2MzRhNmFmZjIzZmU0",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGVhYmE2ZmU3ZWJlMGY0NzUwMWVjMmRkMjBkNTlmZGNh",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
@@ -159,6 +175,22 @@
       "duration_ms": 183893,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -759,42 +791,6 @@
       "duration_ms": 213626,
       "name": "Sex In The Porsche (and PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8"
-    },
-    {
-      "added_at": "2022-09-30 04:03:30",
-      "album": {
-        "name": "Better Thangs",
-        "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 214352,
-      "name": "Better Thangs (with Summer Walker)",
-      "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
     },
     {
       "added_at": "2022-09-09 04:05:52",

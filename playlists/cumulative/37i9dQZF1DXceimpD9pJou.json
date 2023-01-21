@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Lily Goodman & DOE",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  Miel San Marcos con Ingrid Rosario, Marcos Witt, y Daniel Calveti",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 169000,
       "name": "Alegre",
       "url": "https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT"
@@ -1561,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/3758cs8NsR5Jvz9uHPsMO1"
+      },
+      "artists": [
+        {
+          "name": "Full Life Music",
+          "url": "https://open.spotify.com/artist/5t7m02DMcbdLQVwg87Qnup"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217541,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Secreta",
         "url": "https://open.spotify.com/album/39l7vcVMs335Rk1U3Rqlod"
       },
@@ -2109,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "Contigo Es As\u00ed",
+      "url": "https://open.spotify.com/track/3nbv56zG4E6JsT2LTsQfle"
+    },
+    {
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A"
       },
@@ -2190,6 +2230,36 @@
       "duration_ms": 284655,
       "name": "Coraz\u00f3n Nuevo",
       "url": "https://open.spotify.com/track/0nWUgFor2mZtmtg4c6jbwv"
+    },
+    {
+      "album": {
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
     },
     {
       "album": {
@@ -2846,7 +2916,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 155172,
       "name": "Dios Es la Vuelta",
       "url": "https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo"
@@ -3766,7 +3836,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 230389,
       "name": "En Ti Yo Esperar\u00e9 (What I'm Waiting For) (feat. TWICE)",
       "url": "https://open.spotify.com/track/5dbsfmhaLJ8yi3maimbuWZ"
@@ -3916,7 +3986,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 313222,
       "name": "Esperar\u00e9 en ti SE\u00d1OR",
       "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
@@ -4048,6 +4118,24 @@
       "duration_ms": 201720,
       "name": "Ester",
       "url": "https://open.spotify.com/track/183xN4UmkP3WqyC8V7iFks"
+    },
+    {
+      "album": {
+        "name": "Destiny Marko: En Vivo Desde NY (EP) [En vivo]",
+        "url": "https://open.spotify.com/album/0hICul0FjzInByKS3tfgNq"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165858,
+      "name": "Est\u00e1s T\u00fa - En vivo",
+      "url": "https://open.spotify.com/track/05o1mvmurSwjttmUU13taF"
     },
     {
       "album": {
@@ -7127,6 +7215,24 @@
     },
     {
       "album": {
+        "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+        "url": "https://open.spotify.com/album/1L1PpqKrlMrLbZKcdbSUVc"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402283,
+      "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
+      "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
+    },
+    {
+      "album": {
         "name": "Medley de Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/0Y9c4R3juFE2REfyS4ovBZ"
       },
@@ -7256,6 +7362,28 @@
       "duration_ms": 194739,
       "name": "Mi Buen Pastor Ft Edder HT",
       "url": "https://open.spotify.com/track/0tWXvjg6EkBUSsIvHHgeQ6"
+    },
+    {
+      "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228645,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
     },
     {
       "album": {
@@ -7855,6 +7983,32 @@
     },
     {
       "album": {
+        "name": "M\u00f3ntate al Bus",
+        "url": "https://open.spotify.com/album/4kaomZ0tJuS2ZnGoe5tgTm"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        },
+        {
+          "name": "Paz",
+          "url": "https://open.spotify.com/artist/0C6ubDEUuFamp6Qg8pokXo"
+        },
+        {
+          "name": "Fati",
+          "url": "https://open.spotify.com/artist/6FggjSsAWUNoDZ6cyI8SPA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172677,
+      "name": "M\u00f3ntate al Bus",
+      "url": "https://open.spotify.com/track/6GI9MH1QvGxTW6dWK8BjV7"
+    },
+    {
+      "album": {
         "name": "Naci\u00f3 El Salvador",
         "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
       },
@@ -7866,7 +8020,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 227897,
       "name": "Naci\u00f3 El Salvador",
       "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
@@ -8123,6 +8277,24 @@
     },
     {
       "album": {
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
+    },
+    {
+      "album": {
         "name": "Tu Presencia",
         "url": "https://open.spotify.com/album/1IlxcdRCfDIacsOYixAejh"
       },
@@ -8216,6 +8388,24 @@
       "duration_ms": 220809,
       "name": "No Hay Otro Nombre Igual",
       "url": "https://open.spotify.com/track/17zQ7pnLFeSW8LRgF1XQxX"
+    },
+    {
+      "album": {
+        "name": "No Hay Presos",
+        "url": "https://open.spotify.com/album/4ClQGCjvhCkYX1ppjuqs0p"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172492,
+      "name": "No Hay Presos",
+      "url": "https://open.spotify.com/track/20ml2Zkdaj5ccRuWvh2l6c"
     },
     {
       "album": {
@@ -10392,7 +10582,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 258665,
       "name": "Siempre Bueno",
       "url": "https://open.spotify.com/track/7r9NkOt6NQDt1IeNw2lT1r"
@@ -10520,6 +10710,32 @@
       "duration_ms": 194986,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+    },
+    {
+      "album": {
+        "name": "Sigue (No Te Rindas)",
+        "url": "https://open.spotify.com/album/5RfHpG6hRHn6z9wy2htqAj"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Jeffrey",
+          "url": "https://open.spotify.com/artist/1MdZ9nGGCAdexIyUG8lAcz"
+        },
+        {
+          "name": "Damaris Elaine",
+          "url": "https://open.spotify.com/artist/0iDAho01mirzKyjHLj3jPV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Sigue (No Te Rindas)",
+      "url": "https://open.spotify.com/track/6YmkgkdO3POZ8tQij2TARI"
     },
     {
       "album": {
@@ -10964,7 +11180,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 349901,
       "name": "Su Sangre - Radio Edit",
       "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
@@ -11404,7 +11620,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 316650,
       "name": "Te Necesito (Remix)",
       "url": "https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u"
@@ -11652,7 +11868,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 187253,
       "name": "Todo Es Posible",
       "url": "https://open.spotify.com/track/5qxaoad8qzoe6630ZJbtzu"
@@ -11978,7 +12194,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 286767,
       "name": "Tu Iglesia",
       "url": "https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx"
@@ -12279,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa est\u00e1s aqu\u00ed",
+        "url": "https://open.spotify.com/album/1SYkMNhcDMiamfK8hRKzZc"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288374,
+      "name": "T\u00fa est\u00e1s aqu\u00ed",
+      "url": "https://open.spotify.com/track/5x2ctFVuKno0VyRvNwOz3u"
+    },
+    {
+      "album": {
         "name": "T\u00fa Tienes Nuestro S\u00ed",
         "url": "https://open.spotify.com/album/5aeHyLenK4vKZvOhFWE8NV"
       },
@@ -12410,7 +12644,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 272895,
       "name": "Una Nueva Historia - Espanhol",
       "url": "https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL"
@@ -12946,7 +13180,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 261250,
       "name": "Vive",
       "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
@@ -13154,7 +13388,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Cherry Bombshell",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Cause",
   "name": "Memorindie",
   "tracks": [
     {
@@ -1086,6 +1086,24 @@
       "duration_ms": 266344,
       "name": "My Little Story",
       "url": "https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9"
+    },
+    {
+      "album": {
+        "name": "Dialog",
+        "url": "https://open.spotify.com/album/2Vd9PhupxyXLlVJGiFCoHr"
+      },
+      "artists": [
+        {
+          "name": "Cause",
+          "url": "https://open.spotify.com/artist/2dQUybfOJd6mplpxC4JPnZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Natania",
+      "url": "https://open.spotify.com/track/7huIp9J7SEdzxJhKAjAOKz"
     },
     {
       "album": {

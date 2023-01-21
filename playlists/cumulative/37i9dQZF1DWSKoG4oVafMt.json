@@ -12325,6 +12325,24 @@
     },
     {
       "album": {
+        "name": "Flamboyant",
+        "url": "https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233616,
+      "name": "Tasveer",
+      "url": "https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG"
+    },
+    {
+      "album": {
         "name": "Tasveeran",
         "url": "https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj"
       },

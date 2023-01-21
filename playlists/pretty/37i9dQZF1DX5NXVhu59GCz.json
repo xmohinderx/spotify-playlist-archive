@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 115832,
+  "num_followers": 115849,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGQ5NjMzMmUzNWRkZmRkNDA2YzQ5NjNkYjFkNTM2OGEx",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDA2ZTRmZGEzYWQzNGMyNmYzODQzYjQ1N2IwMTA5MGRk",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
-        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "A \"B\" Side",
-      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
-    },
-    {
       "added_at": "2018-02-28 19:55:41",
       "album": {
         "name": "Inkpot & Attila",
@@ -395,6 +379,22 @@
       "duration_ms": 159000,
       "name": "Inkpot",
       "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
+        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "A \"B\" Side",
+      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Vanilla Fudge",
+        "url": "https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Fudge",
+          "url": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "a) Take Me For A Little While b) RYFI (Illusions Of My Childhood-Part Three)",
+      "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Incense And Peppermints",
         "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 250960,
       "name": "Sometimes I Think About",
       "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Vanilla Fudge",
-        "url": "https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Fudge",
-          "url": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "a) Take Me For A Little While b) RYFI (Illusions Of My Childhood-Part Three)",
-      "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -611,6 +611,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Cauldron",
         "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 160496,
       "name": "It's A Hard Life",
       "url": "https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -771,22 +771,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Mighty Baby",
-        "url": "https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7"
-      },
-      "artists": [
-        {
-          "name": "Mighty Baby",
-          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
-        }
-      ],
-      "duration_ms": 361333,
-      "name": "Trials of a City",
-      "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "The Crazy World of Arthur Brown",
         "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 224600,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Mighty Baby",
+        "url": "https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7"
+      },
+      "artists": [
+        {
+          "name": "Mighty Baby",
+          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
+        }
+      ],
+      "duration_ms": 361333,
+      "name": "Trials of a City",
+      "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
     },
     {
       "added_at": "2018-02-28 19:55:41",

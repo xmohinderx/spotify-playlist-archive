@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "nVr Mind",
+        "url": "https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x"
+      },
+      "artists": [
+        {
+          "name": "TheKiddEast",
+          "url": "https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "nVr Mind",
+      "url": "https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2"
+    },
+    {
+      "album": {
         "name": "Old Flame",
         "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
       },

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-225 songs - 12 hr 57 min
+226 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-07-18 | 2022-12-08 |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2022-06-06 | 2022-06-24 |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 | 2022-04-08 |
+| [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2023-01-20 |  |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-08 | 2022-12-08 |
 | [On My Own](https://open.spotify.com/track/0jVixX0ZFa2m9bhDbHoTXD) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [On My Own](https://open.spotify.com/album/6jBPKGE15wIoYciA3m34ou) | 3:25 | 2021-12-16 | 2022-03-08 |
 | [Once Again](https://open.spotify.com/track/7n6iWoWqzsvsaqHzwLcO2Q) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Once Again](https://open.spotify.com/album/6fW2puJsm7B130FA1KSSAz) | 3:28 | 2021-12-16 | 2022-03-15 |

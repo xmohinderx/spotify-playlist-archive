@@ -1,13 +1,37 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 12935,
+  "num_followers": 12978,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDhhYzRkNjYzOTNjZWM5YTFiMTdjN2E1ODEyOWZkYjE4",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGViNTY2MzVkMzRhYzgxNzg0NWNkYmIxYjA3YTVmYTNh",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "Liselotte \u00d6stblom",
+          "url": "https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        }
+      ],
+      "duration_ms": 270804,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
+    },
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
@@ -47,6 +71,22 @@
       "duration_ms": 347148,
       "name": "Spins - Lazywax Remix",
       "url": "https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL"
+      },
+      "artists": [
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "duration_ms": 264444,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO"
     },
     {
       "added_at": "2022-10-07 04:01:00",

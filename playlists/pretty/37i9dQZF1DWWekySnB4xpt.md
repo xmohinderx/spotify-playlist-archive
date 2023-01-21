@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: LAGOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,119 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,185 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 30 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 31 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
 | 32 | [Yo Sin Ti No Valgo Nada](https://open.spotify.com/track/3X0UWJ0rvEMmqzAeQ9KzXG) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [De Repente](https://open.spotify.com/album/1aaWmBWgbSWGWm4B6b9Lu0) | 3:44 |
-| 33 | [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 |
+| 33 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 |
 | 34 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
 | 35 | [Se Acabó \(feat\. Chino & Nacho\)](https://open.spotify.com/track/0Utzzt4g5obYXkREtLiRR1) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [El Plan](https://open.spotify.com/album/2DVYLr5bpUMkzql2NQlMSW) | 3:27 |
 | 36 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDJhMGJmZmJjZTNmNjNhYWJlOGQ0NzM3NjM0MjlkODYy`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDM0MjE1MDU0MDlkMjdhOThmZmFmMzJiZTQwMThlOGIz`

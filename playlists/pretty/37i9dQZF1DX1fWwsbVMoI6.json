@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Hnos Yaipen",
-  "num_followers": 89728,
+  "num_followers": 89822,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDkzMWE3MGJhODc3ZDIwYzNiYzE4MmM4ZTNiOGUxNWRh",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMGNkZTIxY2U1MTMxNWI3Y2I3MTcyMzVjYWI1ZTMwOTFl",
   "tracks": [
     {
       "added_at": "2022-11-11 23:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
+        "name": "Amor Incomparable",
+        "url": "https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88"
+      },
+      "artists": [
+        {
+          "name": "Grupo Guinda",
+          "url": "https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD"
+        }
+      ],
+      "duration_ms": 194746,
+      "name": "Amor Incomparable",
+      "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
+    },
+    {
+      "added_at": "2022-11-11 23:00:00",
+      "album": {
         "name": "Los Querendones de la Cumbia, Vol. 1",
         "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 288607,
       "name": "Dolor y Lagrimas",
       "url": "https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS"
-    },
-    {
-      "added_at": "2022-11-11 23:00:00",
-      "album": {
-        "name": "Amor Incomparable",
-        "url": "https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88"
-      },
-      "artists": [
-        {
-          "name": "Grupo Guinda",
-          "url": "https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD"
-        }
-      ],
-      "duration_ms": 194746,
-      "name": "Amor Incomparable",
-      "url": "https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN"
     },
     {
       "added_at": "2022-11-11 23:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "Los \u00c9xitos del Grupo Maravilla",
-        "url": "https://open.spotify.com/album/1mu9n0cqtB9vDRg2vOqpyl"
+        "name": "Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ"
       },
       "artists": [
         {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI"
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Antahuara",
-      "url": "https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv"
+      "duration_ms": 219951,
+      "name": "Cambio Mi Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
     }
   ],
   "unique_name": "Cumbias de Oro",

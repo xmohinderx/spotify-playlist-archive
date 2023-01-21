@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Pra Beber e Amar",
+        "url": "https://open.spotify.com/album/1UDHGRm4svqknx3HScd6uX"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139626,
+      "name": "Me Evita Mais",
+      "url": "https://open.spotify.com/track/6qPCDdlx08sKOnlLKZW6h0"
+    },
+    {
+      "album": {
         "name": "Mec Mec 2",
         "url": "https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry"
       },

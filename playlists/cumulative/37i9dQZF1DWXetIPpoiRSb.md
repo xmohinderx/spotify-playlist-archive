@@ -2,9 +2,9 @@
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> The freshest pop sounds\. Cover: Reneé Rapp
+> The freshest pop sounds\. Cover: Gracie Abrams
 
-945 songs - 1 day 23 hr 36 min
+947 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [AVO TOAST](https://open.spotify.com/track/7B5EbapjMpLuK7A7PJUvxn) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AVO TOAST](https://open.spotify.com/album/4gH45jls1Zx5TSREuO53x9) | 2:41 | 2022-12-16 |  |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-12-02 |  |
 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 | 2022-02-04 | 2022-04-09 |
+| [Bad At Letting Go](https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Bad At Letting Go](https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K) | 3:20 | 2023-01-20 |  |
 | [Bad Bitch](https://open.spotify.com/track/58X71EvrduNTHT6C6MKv92) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Bad Bitch](https://open.spotify.com/album/6VIHLERGUfqDTLqxCCoXtV) | 2:34 | 2021-04-17 | 2021-06-19 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-09-10 | 2021-11-13 |
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-02-06 | 2021-05-03 |
@@ -140,6 +141,7 @@
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2020-11-28 | 2021-01-16 |
 | [Breathe](https://open.spotify.com/track/38H3WCklnDRSvNxTJMJtIB) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [It Wasn't Perfect, But We Tried](https://open.spotify.com/album/70N1mJFxBKb492iWoNEezl) | 3:30 | 2022-10-14 |  |
 | [Broke](https://open.spotify.com/track/2zu30LdbP8392UxdpWrWG9) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Broke](https://open.spotify.com/album/3GyomH7dFhBWrQuvyY7DpH) | 2:30 | 2020-11-21 | 2021-03-06 |
+| [brrr](https://open.spotify.com/track/7AZzCQ6S8HXLFBXsqH2HWE) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [brrr](https://open.spotify.com/album/11OeiSfjvduwX8JHQSgxcQ) | 2:32 | 2023-01-20 |  |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2020-12-11 | 2021-04-03 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-02-19 |
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-10-02 |
@@ -229,7 +231,7 @@
 | [Dinosaurs \(S4E7\)](https://open.spotify.com/track/1v5kaAA3u8rsqTiDbGdFHB) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Dinosaurs \(S4E7\)](https://open.spotify.com/album/3Z4vu9dPvIagO0gh5FMbTY) | 2:24 | 2021-05-22 | 2021-07-10 |
 | [distance](https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 | 2020-10-24 | 2021-02-13 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-06 |  |
-| [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 |  |
+| [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2023-01-21 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-14 | 2022-10-22 |
 | [Don't](https://open.spotify.com/track/0dLqQ4ZeNKsFV2arDnZuop) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't](https://open.spotify.com/album/1oPhfuUjlfkOirOER8BDSr) | 3:08 | 2020-10-24 | 2021-01-16 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-15 |
@@ -587,7 +589,7 @@
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2021-07-24 | 2021-10-02 |
 | [New Wave](https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [New Wave EP](https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte) | 3:10 | 2021-01-23 | 2021-04-03 |
 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 | 2020-10-13\* | 2021-01-09 |
-| [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 |  |
+| [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 | 2023-01-21 |
 | [No More Second Chances](https://open.spotify.com/track/5Hk9xocOBVXHPVfoO3tARz) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [No More Second Chances](https://open.spotify.com/album/2BW3Xisq0oRtEG10qSPfrr) | 2:35 | 2021-05-28 | 2021-08-07 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 | 2022-08-13 |
 | [NO ONE’S IN THE ROOM](https://open.spotify.com/track/2C6QUOsR7PfEm3EpXOLvjv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 4:08 | 2020-10-13\* | 2020-11-07 |

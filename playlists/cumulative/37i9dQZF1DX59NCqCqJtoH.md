@@ -4,7 +4,7 @@
 
 > We hear you.
 
-533 songs - 1 day 2 hr 23 min
+534 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2022-05-31 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 | 2023-01-10 |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
+| [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 |  |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
 | [everything will be okay...](https://open.spotify.com/track/3ocXeXohKnLDwSfzjWs1tE) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [everything will be okay...](https://open.spotify.com/album/6jcKxX5Huf3gOOLm98Lm6L) | 1:32 | 2021-04-02 | 2022-05-20 |
@@ -133,7 +134,7 @@
 | [expectations](https://open.spotify.com/track/7oIvIMsfp6KuWhe22RU2Cg) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [expectations](https://open.spotify.com/album/4PNWVFBlAIBfY1ovxtxlap) | 2:58 | 2021-04-02 | 2022-07-17 |
 | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/track/1eCTQhsNA31FcwyNcJcf86) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/album/6TPB592COBp06IqFJVCrqb) | 2:36 | 2022-07-15 |  |
 | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/track/4V7xZ1AiCLwFbNMNc4Gj1f) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/album/3qTpMpTyFPNFHchWE2xuC2) | 2:36 | 2021-04-02 | 2022-07-23 |
-| [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-11-08 |  |
+| [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-11-08 | 2023-01-21 |
 | [falling](https://open.spotify.com/track/11dOflbG7PpOepza4U553L) | [C H O I S I E S](https://open.spotify.com/artist/1vQrmfvqhoSigvmV7V1NKw), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [bobby someone](https://open.spotify.com/artist/5VxmvoJfiAumQk2V5PdiO3) | [falling](https://open.spotify.com/album/2xFgXy38uJHzRJSWLtx0EF) | 2:49 | 2021-04-02 | 2022-06-09 |
 | [Falling](https://open.spotify.com/track/4jeBx7Xm7zwmRx28Ysfevw) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Falling](https://open.spotify.com/album/2kydat46h5sbQtAR0gVV0M) | 2:50 | 2021-04-02 | 2022-04-11 |
 | [Falling Asleep in Your Arms, Dreading the Sunrise](https://open.spotify.com/track/7m18m0pH4WEFqOeUKrxZkw) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Forever Misunderstood](https://open.spotify.com/album/0FYHgjUYWthtF0hpsgDqg3) | 2:34 | 2021-04-02 | 2022-07-28 |

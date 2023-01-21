@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: YENA\(최예나\)
 
-335 songs - 18 hr 5 min
+336 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Monster](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Monster \- The 1st Mini Album](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) | 2:58 | 2020-10-13\* | 2022-05-22 |
 | [Moonlight](https://open.spotify.com/track/1FQiMjvNvvrbTUOjRtverL) | [GeeGu](https://open.spotify.com/artist/6NZF9gEyv9EcC6BORk3aFO) | [Moonlight](https://open.spotify.com/album/3LPKRcJU5tQ9LcbXPMTAz6) | 3:08 | 2021-02-12 | 2022-04-18 |
 | [MOONLIGHT](https://open.spotify.com/track/1HfIy5HVfg8CmRVuym7eIz) | [NeonPunch](https://open.spotify.com/artist/1j2VjoyNduKvjsQqiQ6Z5d) | [NeonPunch 1st Debut Album 'MOONLIGHT'](https://open.spotify.com/album/4i9CSy97ek0xx7wL84e9D9) | 3:13 | 2021-02-03 | 2022-04-20 |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
 | [My Way](https://open.spotify.com/track/0Tx0C5SLkF8IxQdbADxP7L) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:13 | 2021-02-27 | 2021-02-28 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-14 |  |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2020-10-13\* | 2022-04-19 |
@@ -251,7 +252,7 @@
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-05 |  |
 | [RUB\-A\-DUM](https://open.spotify.com/track/2pVTldTTlm2lUamv5PIRBr) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [CONMIGO](https://open.spotify.com/album/7on227flmHtscIcPulRIES) | 3:19 | 2021-07-02 | 2022-06-11 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-07-13 |
-| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-28 |  |
+| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-28 | 2023-01-21 |
 | [RUNNIN’ BACK](https://open.spotify.com/track/7qYcGl3sNRkWwKQ2PbulZF) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [THE OCEAN](https://open.spotify.com/album/2FEQU7BTSsYncVAg244A55) | 3:01 | 2021-03-17 | 2021-03-18 |
 | [S.O.R.R.Y](https://open.spotify.com/track/0z0Bk5DaFqZBxShGcF1w8Z) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [S.O.R.R.Y](https://open.spotify.com/album/3bzBmdCUbfoY1hfKhtYwRC) | 3:06 | 2021-02-27 | 2022-04-21 |
 | [Say Hi](https://open.spotify.com/track/4RQLg7cy1MHtYj2LSLsLI5) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW), [Woody](https://open.spotify.com/artist/6nfVa2RFZrB5EilcKdrmBy) | [yeah!sool](https://open.spotify.com/album/7fl6CYaqz90LpDLyT7vyz4) | 2:50 | 2020-10-13\* | 2022-04-10 |

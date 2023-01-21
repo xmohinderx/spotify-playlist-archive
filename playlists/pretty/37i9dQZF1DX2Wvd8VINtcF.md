@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,734 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,741 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 19 | [M.E.D.H.A.N.E](https://open.spotify.com/track/1T4Hsrz5yQiSsqO3CiRjdF) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [M.E.D.H.A.N.E](https://open.spotify.com/album/0fZylHERuG8nsPWONb4Nel) | 3:25 |
 | 20 | [PAYPHONE](https://open.spotify.com/track/34ORwQ9h8b1m6wH0KTHvA9) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [PAYPHONE](https://open.spotify.com/album/3QPfkemcq5dOtW2W3MM3gJ) | 2:50 |
 | 21 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 |
-| 22 | [Ovule \- Sega Bodega Remix](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(Sega Bodega Remix\)](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 |
+| 22 | [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 |
 | 23 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 |
 | 24 | [Sampha's Plea](https://open.spotify.com/track/2Hb8HUCnMZ74gwl4DppYDd) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 2:46 |
 | 25 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Another Life](https://open.spotify.com/track/4QFsE5gOxgZ2FUfvD12KH5) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Another Life](https://open.spotify.com/album/6fxuLoc2x5pmPpenLsONtv) | 3:56 |
 | 100 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDIxOTFiMDM2MzA5Mzc4MzJhYjMzOTM3MGIyNTI4NTNm`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGU4YWFkMGIyZGFjNDViN2M1NzA3Yzg2ODllMzkyZDYw`

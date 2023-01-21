@@ -9699,6 +9699,32 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/2h6XddEWBJSjRskklf0WZd"
+      },
+      "artists": [
+        {
+          "name": "Mel Ody",
+          "url": "https://open.spotify.com/artist/0GgEXglm1E4YoSaIkI5wW7"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        },
+        {
+          "name": "Lauren Light",
+          "url": "https://open.spotify.com/artist/1TY0aNdsTftlB8jD9I1cFV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158503,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4WbnbAM4ov4GWdTPNQR15z"
+    },
+    {
+      "album": {
         "name": "1093",
         "url": "https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K"
       },

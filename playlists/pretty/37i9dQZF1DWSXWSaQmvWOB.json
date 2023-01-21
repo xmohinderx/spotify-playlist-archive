@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 432213,
+  "num_followers": 432293,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDQ3N2FiYzE3ZjkwNmYzYzY4YmUyNjc2MmQzMDFjM2E0",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDMwODI4NGNmZWM1YjcwNjczNzllYjIxNTI3YjBlZjMx",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "TOINE",
         "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 220713,
       "name": "True Love",
       "url": "https://open.spotify.com/track/3bQKN5pORIeF3Cqn5eZXfU"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 119975,
+      "name": "Need To Know Basis",
+      "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Easier Said Than Done",
         "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 119975,
-      "name": "Need To Know Basis",
-      "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P"
-      },
-      "artists": [
-        {
-          "name": "United Freedom Collective",
-          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
-        },
-        {
-          "name": "FACESOUL",
-          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
-        }
-      ],
-      "duration_ms": 266734,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -939,6 +919,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P"
+      },
+      "artists": [
+        {
+          "name": "United Freedom Collective",
+          "url": "https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW"
+        },
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "duration_ms": 266734,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Two Jobs",
         "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 202346,
       "name": "Two Jobs",
       "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "No Tears In My Champagne",
+        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 136644,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "No Tears In My Champagne",
-        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 136644,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
       "artists": [
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
         }
       ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
       },
       "artists": [
         {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 310960,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1123,42 +1123,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Black Radio (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Hindi Zahra",
-          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
-        }
-      ],
-      "duration_ms": 408360,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
       },
@@ -1179,6 +1143,42 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Black Radio (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Hindi Zahra",
+          "url": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+        }
+      ],
+      "duration_ms": 408360,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
@@ -1191,6 +1191,34 @@
       "duration_ms": 245290,
       "name": "Defection",
       "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Treat U Good",
+        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Lyriya",
+          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
+        },
+        {
+          "name": "MERON",
+          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
+        }
+      ],
+      "duration_ms": 217791,
+      "name": "Treat U Good",
+      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1223,34 +1251,6 @@
       "duration_ms": 176032,
       "name": "Rolodex",
       "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Treat U Good",
-        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        },
-        {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
-        },
-        {
-          "name": "Lyriya",
-          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
-        },
-        {
-          "name": "MERON",
-          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
-        }
-      ],
-      "duration_ms": 217791,
-      "name": "Treat U Good",
-      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 189667,
       "name": "Outside",
       "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG"
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
       },
       "artists": [
         {
-          "name": "LIKEMINDS",
-          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Clinging On Me",
-      "url": "https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml"
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1555,18 +1547,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG"
       },
       "artists": [
         {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
         }
       ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
+      "duration_ms": 304000,
+      "name": "Clinging On Me",
+      "url": "https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "I Miss You Baby, Pt. 1",
         "url": "https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 244560,
       "name": "I Miss You Baby, Pt. 1",
       "url": "https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/1BM3o9El9FetciNldM3t94"
+      },
+      "artists": [
+        {
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Never Forget My Love",
         "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 202832,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
     }
   ],
   "unique_name": "Soul 'n' the City",

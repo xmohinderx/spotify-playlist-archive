@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-76 songs - 4 hr 8 min
+77 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Finding Home](https://open.spotify.com/track/2Eq4vwSxJrDsnl05zrFUPY) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Soul Feather](https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx) | 2:14 | 2021-09-08 |  |
 | [Flamingo](https://open.spotify.com/track/0tosIMpbs0c3D026bob94l) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:56 | 2021-09-08 |  |
 | [Flamingo](https://open.spotify.com/track/4mH0YkiHRu0LF5hvx86ME9) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:56 | 2021-09-08 | 2022-07-29 |
+| [Flecha](https://open.spotify.com/track/20Amyw8NsuVeb1niVnSn3D) | [Rodrigo Gouveia](https://open.spotify.com/artist/5A1cqttq9CGOl7svYGHIMb), [Duca Tambasco](https://open.spotify.com/artist/7DX7ZTq8tduuchkTutzyRb), [olliv](https://open.spotify.com/artist/5cPQ3kyOy3bt5g5Hc1ARoI) | [Flecha](https://open.spotify.com/album/6xCutL3K2wd79AssBPfb6P) | 3:00 | 2023-01-20 |  |
 | [Flutter](https://open.spotify.com/track/0Y8R6nwouR14KIyHnumRSN) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:12 | 2021-09-08 |  |
 | [Flutter](https://open.spotify.com/track/2OniwRnM4rjRGFEDGsoJWP) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/4tKv3harZx5t9DXBj8bXMi) | 3:12 | 2021-09-08 | 2022-07-29 |
 | [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 | 2021-09-08 | 2022-12-03 |

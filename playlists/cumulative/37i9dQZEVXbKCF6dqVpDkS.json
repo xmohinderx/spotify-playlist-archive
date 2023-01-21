@@ -8235,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Ik Kom Weer Thuis",
+        "url": "https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Ik Kom Weer Thuis",
+      "url": "https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v"
+    },
+    {
+      "album": {
         "name": "Ik Space",
         "url": "https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB"
       },
@@ -9402,7 +9420,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 152500,
       "name": "Klop Klop",
       "url": "https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6"

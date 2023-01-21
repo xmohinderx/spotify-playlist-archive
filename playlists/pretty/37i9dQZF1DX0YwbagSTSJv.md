@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,211 likes - 126 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,243 likes - 126 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 |
-| 2 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
-| 3 | [Safe](https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Safe](https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg) | 2:39 |
-| 4 | [Opening Skies](https://open.spotify.com/track/2d634QA1iA1WwWN8h0kCgO) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Opening Skies](https://open.spotify.com/album/6uMHOH5aHwAFbBDUijneGG) | 3:09 |
-| 5 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
-| 6 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
-| 7 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
-| 8 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 |
-| 9 | [peaceful year calling](https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful year calling](https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf) | 3:08 |
+| 1 | [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 |
+| 2 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 |
+| 3 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
+| 4 | [Safe](https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Safe](https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg) | 2:39 |
+| 5 | [Opening Skies](https://open.spotify.com/track/2d634QA1iA1WwWN8h0kCgO) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Opening Skies](https://open.spotify.com/album/6uMHOH5aHwAFbBDUijneGG) | 3:09 |
+| 6 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
+| 7 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
+| 8 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
+| 9 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 |
 | 10 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 |
 | 11 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 |
 | 12 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 125 | [Many Worlds](https://open.spotify.com/track/3ZLa3mv9jM0CzuhKMqsOgE) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Many Worlds](https://open.spotify.com/album/21AI4N5IBr34kmDihjEiGh) | 4:58 |
 | 126 | [Brightest Blue](https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:38 |
 
-Snapshot ID: `MTY3MjQyMDY5OCwwMDAwMDAwMGEzNWRjZTY3ZmVlMDcxNGJiZjNiNDBmMDJhNzM0ODFi`
+Snapshot ID: `MTY3NDIyOTIzMSwwMDAwMDAwMDVkMjlkZDQ5YmViNjc3MzFjNDRkNDJmYWU1ZTBlM2E3`

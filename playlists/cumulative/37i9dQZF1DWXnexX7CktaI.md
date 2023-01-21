@@ -2,7 +2,7 @@
 
 ### [Gold Edition](https://open.spotify.com/playlist/37i9dQZF1DWXnexX7CktaI)
 
-> All the jams\. Cover: Miguel
+> All the jams\. Cover: PARTYNEXTDOOR
 
 112 songs - 7 hr 2 min
 

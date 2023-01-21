@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, L7NNON",
-  "num_followers": 89819,
+  "num_followers": 90040,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5NzAyMCwwMDAwMDAwMDAzOWI2NmI3MjI3ZTdjMGE0Y2ExM2I0ZGNlODhiZjhm",
+  "snapshot_id": "MTY3Mzg5NzAyMCwwMDAwMDAwMDg2YzM5ZmI0NzczNTQ1ZDZhODE3OWMxMTYxZmVmYjMx",
   "tracks": [
     {
       "added_at": "2023-01-16 14:06:39",
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
     },
     {
-      "added_at": "2023-01-20 01:37:21",
+      "added_at": "2023-01-21 01:35:44",
       "album": {
         "name": "Casa da Vizinha",
         "url": "https://open.spotify.com/album/72h7mJiyg7kSmW1RuIdhox"
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2023-01-16 14:06:39",
       "album": {
-        "name": "Longe dos Falsos",
-        "url": "https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        }
-      ],
-      "duration_ms": 199691,
-      "name": "Longe dos Falsos",
-      "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
-    },
-    {
-      "added_at": "2023-01-16 14:06:39",
-      "album": {
         "name": "Lebai",
         "url": "https://open.spotify.com/album/60PsthKJ8AkkyxsTgK9EUl"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 166826,
       "name": "Lebai",
       "url": "https://open.spotify.com/track/2p2KOJ5lR2oT45ubjGuhAK"
+    },
+    {
+      "added_at": "2023-01-16 14:06:39",
+      "album": {
+        "name": "Longe dos Falsos",
+        "url": "https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 199691,
+      "name": "Longe dos Falsos",
+      "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
     },
     {
       "added_at": "2023-01-16 14:06:39",

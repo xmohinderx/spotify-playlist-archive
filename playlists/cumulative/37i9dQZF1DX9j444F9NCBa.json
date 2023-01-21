@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/1zUjgWMkENrRyGBFLA7NFh"
+      },
+      "artists": [
+        {
+          "name": "Pia Nouvelle",
+          "url": "https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/7j3vIGFSLzfmZhrF0xYyyz"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H"
       },
@@ -542,6 +560,24 @@
       "duration_ms": 168000,
       "name": "As It Was - Piano",
       "url": "https://open.spotify.com/track/4KHX9aTBDZ6yryY3l1XD7e"
+    },
+    {
+      "album": {
+        "name": "At This Point",
+        "url": "https://open.spotify.com/album/0E5DSqASdf05sO5F3zJffo"
+      },
+      "artists": [
+        {
+          "name": "Vera Stockhaus",
+          "url": "https://open.spotify.com/artist/3zelFu7VpEQ4gAlbOl8C28"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170432,
+      "name": "At This Point",
+      "url": "https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm"
     },
     {
       "album": {
@@ -707,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w"
+      },
+      "artists": [
+        {
+          "name": "Love Falk",
+          "url": "https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203614,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v"
       },
@@ -776,6 +830,24 @@
       "duration_ms": 228328,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl"
+    },
+    {
+      "album": {
+        "name": "Boy With Luv",
+        "url": "https://open.spotify.com/album/4mgFqVlyDALdVxPcbawqRn"
+      },
+      "artists": [
+        {
+          "name": "Gold Axe",
+          "url": "https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218749,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/264jgmazhgUbdNT596RR2m"
     },
     {
       "album": {
@@ -974,6 +1046,24 @@
       "duration_ms": 153750,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8"
+    },
+    {
+      "album": {
+        "name": "Clown",
+        "url": "https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo"
+      },
+      "artists": [
+        {
+          "name": "Ron Marks",
+          "url": "https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA"
     },
     {
       "album": {
@@ -1409,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/0VCxQ1inAd7BZlpXwj1x5W"
+      },
+      "artists": [
+        {
+          "name": "Valentina Canta",
+          "url": "https://open.spotify.com/artist/3W9CjATjROYf2TXKRV7Ddk"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158459,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/1q1boAVz5fOwzkWYV8IzUA"
+    },
+    {
+      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv"
       },
@@ -1478,6 +1586,24 @@
       "duration_ms": 146854,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK"
+    },
+    {
+      "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/5vj9fKh95WbicPH55sVfeg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bernette",
+          "url": "https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138310,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3nEy4BBcsUD9M2A45rLjkR"
     },
     {
       "album": {
@@ -1694,6 +1820,24 @@
       "duration_ms": 158000,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5rMhBhSAFfGcfwkEHHejRK"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r K\u00e4rlekens Skull",
+        "url": "https://open.spotify.com/album/5SjcOhVGjH8apOCeajW8Yf"
+      },
+      "artists": [
+        {
+          "name": "Douglas Simmons",
+          "url": "https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254953,
+      "name": "F\u00f6r K\u00e4rlekens Skull",
+      "url": "https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO"
     },
     {
       "album": {
@@ -2255,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Hold On, We're Going Home",
+        "url": "https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv"
+      },
+      "artists": [
+        {
+          "name": "Bart Cohen",
+          "url": "https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156127,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27"
       },
@@ -2590,10 +2752,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 216000,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6BuBcwuIwjA8naZXlWVwvd"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143758,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7"
     },
     {
       "album": {
@@ -2975,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Let somebody go",
+        "url": "https://open.spotify.com/album/1c31HkBc3ogWX2yBcuoT11"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161848,
+      "name": "Let somebody go",
+      "url": "https://open.spotify.com/track/2qDVma0LKZAQTf2JQA58UK"
+    },
+    {
+      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K"
       },
@@ -3116,6 +3314,24 @@
       "duration_ms": 262729,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP"
+    },
+    {
+      "album": {
+        "name": "Love Me Like You Do",
+        "url": "https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193624,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K"
     },
     {
       "album": {
@@ -3785,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164833,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms"
       },
@@ -4178,6 +4412,24 @@
       "duration_ms": 185845,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135048,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc"
     },
     {
       "album": {
@@ -4880,6 +5132,24 @@
       "duration_ms": 160308,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1stBQsEHMo5cFWNOa41AlQ"
+    },
+    {
+      "album": {
+        "name": "Titanium",
+        "url": "https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk"
+      },
+      "artists": [
+        {
+          "name": "Chloe Welch",
+          "url": "https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154857,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv"
     },
     {
       "album": {
@@ -5604,6 +5874,24 @@
       "duration_ms": 272874,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Live Forever In Me",
+        "url": "https://open.spotify.com/album/2o7o94d9DTw7e9ZdQeK4Pu"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "You're Gonna Live Forever In Me",
+      "url": "https://open.spotify.com/track/6dNzoKTuLLYJ6rrE3gAEam"
     },
     {
       "album": {

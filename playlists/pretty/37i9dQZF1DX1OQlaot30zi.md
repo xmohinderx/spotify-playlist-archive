@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Rose Villain, Geolier, Guè, Speranza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,461 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,560 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
+| 1 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
 | 2 | [Fantasmi \(feat\. Geolier\)](https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:13 |
 | 3 | [Welcome To Favelas](https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts) | [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Welcome To Favelas](https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa) | 2:52 |
 | 4 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |

@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Like It's His Job",
+        "url": "https://open.spotify.com/album/4X4SpT943uu7LdqO3e5XcI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Johnston",
+          "url": "https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Like It's His Job",
+      "url": "https://open.spotify.com/track/05L9H4HP2pNhXYIunYk6zr"
+    },
+    {
+      "album": {
         "name": "Liquor & Pills",
         "url": "https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY"
       },

@@ -1,13 +1,61 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$ and Germ",
-  "num_followers": 414367,
+  "num_followers": 415447,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MjM3MywwMDAwMDAwMDg3OTA5ZDQ4MzdmMDBkYWM3ODYwNmRlMzg5MjgwM2Zh",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDBjMzM5YjAxZDFjYjA5ODM1YzE5ZGNmM2M4YzJkOGI4",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
+        "url": "https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "Matt Ox",
+          "url": "https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
+      "url": "https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa"
+    },
     {
       "added_at": "2022-11-29 21:07:17",
       "album": {
@@ -75,6 +123,26 @@
       "duration_ms": 145842,
       "name": "I Dream of Chrome",
       "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "GOD MODE!",
+        "url": "https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "duration_ms": 163307,
+      "name": "GOD MODE!",
+      "url": "https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy"
     },
     {
       "added_at": "2022-12-14 15:33:39",
@@ -225,6 +293,26 @@
       "url": "https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "breakdown!",
+        "url": "https://open.spotify.com/album/0lKwc5ypDvSrKgddyRm1ks"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "duration_ms": 88419,
+      "name": "breakdown!",
+      "url": "https://open.spotify.com/track/2N7OUktLHAQxHCCXCMqSK0"
+    },
+    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Eye Spy",
@@ -345,20 +433,40 @@
       "url": "https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "\u00c5\u00c5\u00c5FRESTELSE",
-        "url": "https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR"
+        "name": "ARMAGEDDON",
+        "url": "https://open.spotify.com/album/5t9eBgyCPDzkwT1YTpojw9"
       },
       "artists": [
         {
-          "name": "Killstation",
-          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+          "name": "Lil Lucifer",
+          "url": "https://open.spotify.com/artist/2uYsRcCqYPpztBUYo84wbV"
+        },
+        {
+          "name": "DeadBeatVillain",
+          "url": "https://open.spotify.com/artist/3eX60TRDUfjgEIWi07J1nf"
         }
       ],
-      "duration_ms": 142891,
-      "name": "\u00c5\u00c5\u00c5FRESTELSE",
-      "url": "https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf"
+      "duration_ms": 85361,
+      "name": "ARMAGEDDON",
+      "url": "https://open.spotify.com/track/7gNQHMTkHAaReyA6kFIfKE"
+    },
+    {
+      "added_at": "2022-09-23 16:17:12",
+      "album": {
+        "name": "8 O 8",
+        "url": "https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt"
+      },
+      "artists": [
+        {
+          "name": "J\u20acAN-MARC",
+          "url": "https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "8 O 8",
+      "url": "https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -421,6 +529,22 @@
       "url": "https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "\u00c5\u00c5\u00c5FRESTELSE",
+        "url": "https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR"
+      },
+      "artists": [
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 142891,
+      "name": "\u00c5\u00c5\u00c5FRESTELSE",
+      "url": "https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf"
+    },
+    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "Step Back!",
@@ -457,6 +581,22 @@
       "url": "https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Family Friendly Radio",
+        "url": "https://open.spotify.com/album/1DXM2vIe13wYX32ajhppHw"
+      },
+      "artists": [
+        {
+          "name": "MVRTYR",
+          "url": "https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ"
+        }
+      ],
+      "duration_ms": 109245,
+      "name": "Family Friendly Radio",
+      "url": "https://open.spotify.com/track/3QNbrKiqcWuThK0tF1BicK"
+    },
+    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
@@ -487,22 +627,6 @@
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2022-09-23 16:17:12",
-      "album": {
-        "name": "8 O 8",
-        "url": "https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt"
-      },
-      "artists": [
-        {
-          "name": "J\u20acAN-MARC",
-          "url": "https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "8 O 8",
-      "url": "https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2"
     },
     {
       "added_at": "2022-10-14 04:47:00",
@@ -715,54 +839,6 @@
       "duration_ms": 178520,
       "name": "deadman (feat. Lil Toe)",
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
-    },
-    {
-      "added_at": "2023-01-11 15:52:53",
-      "album": {
-        "name": "Candy Shop",
-        "url": "https://open.spotify.com/album/4JSdF99P1k1VsYsdygHUxe"
-      },
-      "artists": [
-        {
-          "name": "REDIX",
-          "url": "https://open.spotify.com/artist/4j32Ck6YTzyr3tU9LPwkUF"
-        },
-        {
-          "name": "YOUK3IV",
-          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
-        },
-        {
-          "name": "ATRXX",
-          "url": "https://open.spotify.com/artist/2E5WZQTKRSd5no54UjXGj6"
-        }
-      ],
-      "duration_ms": 136215,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/07mYvkkJw4Rc3QLIfvEMYF"
-    },
-    {
-      "added_at": "2022-10-07 04:04:00",
-      "album": {
-        "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
-        "url": "https://open.spotify.com/album/0SydhvaVdZzioAgD2HxuXY"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
-      "url": "https://open.spotify.com/track/75M7UJy4KmcP3ng0vICdPN"
     },
     {
       "added_at": "2022-09-30 16:12:10",

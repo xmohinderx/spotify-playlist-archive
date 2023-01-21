@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+    },
+    {
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/72jiJ0q3ODcjFJn0iioy4w"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 185319,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/2C5pko3DlZKXjg74AsZEbN"
@@ -772,6 +790,24 @@
       "duration_ms": 207121,
       "name": "Falso Malo",
       "url": "https://open.spotify.com/track/4zG5Jdwl8P1bJ8edWkI1rP"
+    },
+    {
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205165,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1BPay9AmvLAAVaShW3YU8a"
     },
     {
       "album": {
@@ -1092,7 +1128,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 238561,
       "name": "Lo Que Me Hizo Usted",
       "url": "https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv"
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 182338,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/4r3tlABa9UkWfhxysLYdtZ"
@@ -1244,6 +1280,28 @@
       "duration_ms": 250439,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
+    },
+    {
+      "album": {
+        "name": "No Te das Cuenta",
+        "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        },
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244378,
+      "name": "No Te das Cuenta",
+      "url": "https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt"
     },
     {
       "album": {
@@ -1687,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "album": {
         "name": "30 A\u00f1os de Cumbia",
         "url": "https://open.spotify.com/album/4RaI12fLyzj0c9FU5jdUIq"
       },
@@ -1824,7 +1904,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 240015,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 860227,
+  "num_followers": 860178,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMGYwZWIyYjg4NDhiYjUzMzA5ZTMzYWRmMGJiYTdiNmEx",
+  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDhmMjJiM2IxY2M0ODUxMWRjNzY4NjQ4NWY0ODhjNDdh",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx"
     },
     {
-      "added_at": "2023-01-20 00:20:37",
+      "added_at": "2023-01-21 00:51:02",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
-      "added_at": "2023-01-20 00:20:37",
+      "added_at": "2023-01-21 00:51:02",
       "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "W pe\u0142ni",
         "url": "https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 240000,
       "name": "W pe\u0142ni",
       "url": "https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "African Baddie",
-        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
     },
     {
       "added_at": "2023-01-04 05:00:00",

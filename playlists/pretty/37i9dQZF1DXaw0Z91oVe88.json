@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2187,
+  "num_followers": 2192,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM0MDAzOSwwMDAwMDAwMGEwZjYyN2FjYWVkYWMzODc1YTM3NDc0MGY5MmYzMmVi",
+  "snapshot_id": "MTY3MzM0MDAzOSwwMDAwMDAwMGEzMDk2NjViYzYzYjQzNzBmMTM3OGY5Zjg5NjM3N2Zh",
   "tracks": [
     {
       "added_at": "2023-01-10 08:40:39",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-10 08:40:39",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2023-01-10 08:40:39",
-      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
+    },
+    {
+      "added_at": "2023-01-10 08:40:39",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2023-01-10 08:40:39",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-10 08:40:39",
       "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
-    },
-    {
-      "added_at": "2023-01-10 08:40:39",
-      "album": {
         "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 254186,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "added_at": "2023-01-10 08:40:39",
+      "album": {
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2023-01-10 08:40:39",

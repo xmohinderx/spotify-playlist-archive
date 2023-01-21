@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Chiiild, Lucky Daye",
+  "description": "Proudly marching to the beat of their own drum. Cover: Braids",
   "name": "Outliers",
   "tracks": [
     {
@@ -718,6 +718,24 @@
       "duration_ms": 206933,
       "name": "Angel Of Business",
       "url": "https://open.spotify.com/track/56MR3nhA4eB3dN6cfb6JG2"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270585,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
     },
     {
       "album": {
@@ -1899,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "Chaotic NRG",
+        "url": "https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV"
+      },
+      "artists": [
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        },
+        {
+          "name": "Chippy Nonstop",
+          "url": "https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280208,
+      "name": "Chaotic NRG",
+      "url": "https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a"
+    },
+    {
+      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb"
       },
@@ -2244,7 +2284,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 160776,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/0wmW0tIDipCHcQBBby752J"
@@ -2748,7 +2788,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
@@ -2864,7 +2904,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
@@ -3529,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
+    },
+    {
+      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl"
       },
@@ -3916,7 +3974,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 136800,
       "name": "Finally Realized",
       "url": "https://open.spotify.com/track/6dyYgbdagQGgc3IY8Swq3c"
@@ -4084,6 +4142,24 @@
       "duration_ms": 262613,
       "name": "Follow",
       "url": "https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j"
+    },
+    {
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "album": {
@@ -4816,6 +4892,24 @@
       "duration_ms": 274186,
       "name": "Harvest Moon \u2013 Vandelux Remix",
       "url": "https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd"
+    },
+    {
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243071,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
     },
     {
       "album": {
@@ -6566,7 +6660,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 140677,
       "name": "Life's Worth Living",
       "url": "https://open.spotify.com/track/0u3xMeYhArooaaJJUWlnOJ"
@@ -9407,6 +9501,24 @@
     },
     {
       "album": {
+        "name": "Five Easy Hot Dogs",
+        "url": "https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126440,
+      "name": "Rockaway",
+      "url": "https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab"
+    },
+    {
+      "album": {
         "name": "Rose Rouge",
         "url": "https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D"
       },
@@ -10258,7 +10370,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 203949,
       "name": "Soundboi",
       "url": "https://open.spotify.com/track/3EDZmKuvtmlpwArQ9lte5S"
@@ -10422,6 +10534,24 @@
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily"
+    },
+    {
+      "album": {
+        "name": "Star Swing",
+        "url": "https://open.spotify.com/album/6akt3uS0ITQwGtYITcSQ7Q"
+      },
+      "artists": [
+        {
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215056,
+      "name": "Star Swing",
+      "url": "https://open.spotify.com/track/5jbuRwBHBOgbAYOwL2V1Ib"
     },
     {
       "album": {
@@ -10708,7 +10838,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 160391,
       "name": "Tabom Riddim",
       "url": "https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz"

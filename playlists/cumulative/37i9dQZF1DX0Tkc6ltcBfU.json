@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261825,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
       },
@@ -844,6 +862,28 @@
       "duration_ms": 162356,
       "name": "Best Of Me (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/2UZFCz8BnVv2O3sobXNJO2"
+    },
+    {
+      "album": {
+        "name": "Bestfrenn (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138972,
+      "name": "Bestfrenn (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
     },
     {
       "album": {
@@ -2460,7 +2500,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 164416,
       "name": "Do It Again (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5m9ey3mq1hq68jDytp4sw9"
@@ -5760,7 +5800,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 186380,
       "name": "Meet The Walkers 2 (With Nardo Wick)",
       "url": "https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub"
@@ -8161,6 +8201,28 @@
     },
     {
       "album": {
+        "name": "Rubi Wayda",
+        "url": "https://open.spotify.com/album/0wcr7UNOlYEG2lvp1M0BLf"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rubi Wayda",
+      "url": "https://open.spotify.com/track/3XWLnkW0Y54z5VHqlilDsg"
+    },
+    {
+      "album": {
         "name": "RuleBook",
         "url": "https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV"
       },
@@ -8688,7 +8750,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 170625,
       "name": "Slicin",
       "url": "https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY"
@@ -9862,7 +9924,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
@@ -10874,6 +10936,32 @@
       "duration_ms": 208770,
       "name": "Where She At (feat. Kali, KenTheMan)",
       "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
+    },
+    {
+      "album": {
+        "name": "Where's Dexter",
+        "url": "https://open.spotify.com/album/2huut23qggNR8NlsTpmn5q"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        },
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139190,
+      "name": "Where's Dexter",
+      "url": "https://open.spotify.com/track/0w3eAG8vNPSulwDOR1Th9F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-195 songs - 15 hr 4 min
+199 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,10 +33,12 @@
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2022-10-14 |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 |  |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 |  |
+| [Breeze](https://open.spotify.com/track/6tOFUhOqXYlArJjrSJ6c42) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:19 | 2023-01-20 |  |
 | [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 | 2022-10-15 |  |
 | [Byakudan Rework](https://open.spotify.com/track/5f3MAWb9wPn5doAeeMhedd) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Byakudan Rework](https://open.spotify.com/album/7gKKb1hDCBX16LzNGjwt83) | 2:54 | 2022-01-07 |  |
 | [Candy Floss](https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 2:58 | 2022-12-30 |  |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
+| [Cave](https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Glow In The Dark](https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl) | 4:44 | 2023-01-20 |  |
 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 | 2022-01-07 |  |
 | [Cherry Blossom](https://open.spotify.com/track/49FgEirdzQYfzmDKwNynOI) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Cherry Blossom](https://open.spotify.com/album/0Ps7E8fAZir8LS7bEosHhL) | 3:16 | 2022-01-07 |  |
 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
@@ -109,6 +111,7 @@
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 |  |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 |  |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 |  |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 |  |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
 | [NIMB \#8](https://open.spotify.com/track/1STYnt6S6kJf3NefRatVzM) | [Toshimaru Nakamura](https://open.spotify.com/artist/3PsFuBHTZsvyZwMbVIuVZT) | [NO\-INPUT MIXING BOARD](https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI) | 3:06 | 2022-01-07 | 2022-10-01 |
@@ -189,11 +192,12 @@
 | [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-13 |  |
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 |  |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 | 2022-07-29 |
+| [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 |  |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |
 | [YACHIMATA\_170424](https://open.spotify.com/track/3qYxmTgoENg9azekCo3pzm) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 3:42 | 2022-01-07 | 2022-07-29 |
 | [York](https://open.spotify.com/track/4hHpxHRHcT6RbVW8FcsWQh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Gone](https://open.spotify.com/album/2cse4C4WEcjxWUwvqrm4Q9) | 4:52 | 2022-01-07 |  |
 | [Yowa](https://open.spotify.com/track/7LcoSuCny0cee4PPF7ehVC) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yowa](https://open.spotify.com/album/6xF5BAMSXRNud3nF4ms1s0) | 3:28 | 2022-08-11 |  |
-| [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 |  |
+| [さてと](https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Dementos](https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc) | 2:49 | 2022-12-30 | 2023-01-21 |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2022-12-30 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2022-12-30 |  |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 | 2022-07-29 |

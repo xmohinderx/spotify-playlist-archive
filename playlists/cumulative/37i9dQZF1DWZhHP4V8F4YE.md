@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-180 songs - 10 hr 38 min
+181 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-12-12 | 2023-01-17 |
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-11-01 | 2022-11-23 |
 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 | 2023-01-16 |  |
-| [Clandestina \- Original mix](https://open.spotify.com/track/1gjpFamOXZXegiU038AZxI) | [Salvatores](https://open.spotify.com/artist/6gVK2giRvViRNsvP76DL5u) | [Clandestina](https://open.spotify.com/album/2XNNaihXW2NgngJ0sEoLMS) | 2:26 | 2023-01-16 |  |
+| [Clandestina](https://open.spotify.com/track/4EkS5NmXZXc2CsWSUTIMLh) | [Ariel](https://open.spotify.com/artist/1gSupmV3YYpuyup7hSkwag) | [Clandestina](https://open.spotify.com/album/4OBBmlBI3D8mup9N9Mg3UZ) | 2:26 | 2023-01-16 |  |
+| [Clandestina \- Original mix](https://open.spotify.com/track/1gjpFamOXZXegiU038AZxI) | [Salvatores](https://open.spotify.com/artist/6gVK2giRvViRNsvP76DL5u) | [Clandestina](https://open.spotify.com/album/2XNNaihXW2NgngJ0sEoLMS) | 2:26 | 2023-01-16 | 2023-01-21 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-01-16 |  |
 | [Commando](https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Commando](https://open.spotify.com/album/31sUe2fAR76RTCiz9emu0J) | 2:41 | 2022-12-12 | 2023-01-17 |
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2022-12-12 | 2023-01-17 |

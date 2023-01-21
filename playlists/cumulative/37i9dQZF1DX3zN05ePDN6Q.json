@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Anonimato",
+        "url": "https://open.spotify.com/album/4oFpikH9Hhy49QfGS6EePq"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Anonimato",
+      "url": "https://open.spotify.com/track/4Oa8D641Abg3l7RtLm7oG4"
+    },
+    {
+      "album": {
         "name": "Antes de um Big Bang no Bronx",
         "url": "https://open.spotify.com/album/1Cgg2ovkbJaC0rSTxVZxX3"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 123428,
       "name": "Foda-Se",
       "url": "https://open.spotify.com/track/6NLoLuQ8b7eL2fKmQDhLsr"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 154160,
       "name": "No Memo Vale",
       "url": "https://open.spotify.com/track/2WPuB06wrQmdZm4XvzfsEv"
@@ -4644,6 +4662,32 @@
       "duration_ms": 220661,
       "name": "Sigo Ligeiro",
       "url": "https://open.spotify.com/track/1jwQLspfvLF5YdMFwfJj6F"
+    },
+    {
+      "album": {
+        "name": "SIGO REAL",
+        "url": "https://open.spotify.com/album/1sSANSGpdcjSWhIZOP4Q1Z"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250212,
+      "name": "SIGO REAL",
+      "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
     },
     {
       "album": {

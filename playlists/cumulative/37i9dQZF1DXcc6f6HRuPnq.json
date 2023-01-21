@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 245653,
       "name": "Along About Midnight",
       "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-08",
+      "date_removed": null,
       "duration_ms": 148003,
       "name": "Blue Because Of You",
       "url": "https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X"
@@ -424,6 +424,24 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "album": {
+        "name": "Driftin' Blues (Live)",
+        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Driftin' Blues - Live",
+      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
     },
     {
       "album": {
@@ -874,7 +892,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 408480,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
@@ -1062,6 +1080,28 @@
       "duration_ms": 290106,
       "name": "Night Time Is the Right Time",
       "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
+    },
+    {
+      "album": {
+        "name": "On Late Nights",
+        "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269702,
+      "name": "On Late Nights",
+      "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
     },
     {
       "album": {
@@ -1372,7 +1412,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 142720,
       "name": "Suffering The Blues",
       "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
@@ -1556,7 +1596,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 447520,
       "name": "Twenty-Four Hours - Digitally Remastered Version",
       "url": "https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY"

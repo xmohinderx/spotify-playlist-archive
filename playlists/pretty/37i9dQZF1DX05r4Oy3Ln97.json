@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 342283,
+  "num_followers": 342310,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM3NTA1NSwwMDAwMDAwMDU3ZmYyYjY1YzVkNmQ3N2QxOGNhMDM1MzgyNmEzMTJm",
+  "snapshot_id": "MTY3MzM3NTA1NSwwMDAwMDAwMDdkYWQ1OTIxYTNkMTZlZTcwOWZiYTMzZDFkOWIxMDk2",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
-      "added_at": "2023-01-20 01:03:27",
+      "added_at": "2023-01-21 01:13:42",
       "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF"
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 154731,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 154731,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
     },
     {
-      "added_at": "2023-01-20 01:03:27",
+      "added_at": "2023-01-21 01:13:42",
       "album": {
         "name": "BlimE",
         "url": "https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6"
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Club Azur",
-        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Club Azur",
+        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
+        "name": "Closer To You",
+        "url": "https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Nord",
+          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
+        }
+      ],
+      "duration_ms": 166456,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 242000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Closer To You",
-        "url": "https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG"
-      },
-      "artists": [
-        {
-          "name": "Lucas Nord",
-          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
-        }
-      ],
-      "duration_ms": 166456,
-      "name": "Closer To You",
-      "url": "https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Ocean Quiet",
         "url": "https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 167160,
       "name": "Ocean Quiet",
       "url": "https://open.spotify.com/track/6zFCci00787rGrLkWDwog8"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Hold This Memory",
-        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 160071,
-      "name": "Hold This Memory",
-      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 145250,
       "name": "Human",
       "url": "https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Hold This Memory",
+        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 160071,
+      "name": "Hold This Memory",
+      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
     },
     {
-      "added_at": "2023-01-20 01:03:27",
+      "added_at": "2023-01-21 01:13:42",
       "album": {
         "name": "Chasing Dreams",
         "url": "https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w"

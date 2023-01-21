@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43702,
+  "num_followers": 43706,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGRhMjYwMTVhOWEzYWMyMTg3OGFlMzVlMWMzOWI0ZWYx",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGFkY2YyMDM5MmI1NjY1N2RiZTdlMjIzN2UwYTUxNDk3",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "A New Heart",
-        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
-      },
-      "artists": [
-        {
-          "name": "Cory Emery",
-          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
+        "name": "A New Heart",
+        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
       },
       "artists": [
         {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Cory Emery",
+          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
+      "duration_ms": 197462,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -931,18 +915,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
         }
       ],
-      "duration_ms": 261191,
-      "name": "Salome & Saint Procula",
-      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+      "duration_ms": 299333,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -959,6 +943,22 @@
       "duration_ms": 232506,
       "name": "Take All of Me",
       "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
     },
     {
       "added_at": "2020-12-18 06:02:14",

@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Castle Rat
+> Heavy new bands you need to have an eye on\. Cover: Faetooth
 
-144 songs - 8 hr 22 min
+145 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Be All End All](https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Be All End All](https://open.spotify.com/album/23Nj8HZZvwGvsPGSvPbz4c) | 1:32 | 2022-07-29 | 2022-08-20 |
 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-14 | 2022-10-22 |
 | [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 | 2022-08-26 | 2022-12-03 |
-| [Blacklight](https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Blacklight](https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp) | 3:39 | 2022-12-02 |  |
+| [Blacklight](https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Blacklight](https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp) | 3:39 | 2022-12-02 | 2023-01-21 |
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-07-29 | 2022-08-20 |
 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 | 2022-07-29 | 2022-10-15 |
 | [Braces](https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF) | [Friend](https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq) | [Mister Nice Guy](https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5) | 1:41 | 2022-09-16 | 2022-12-24 |
@@ -112,6 +112,7 @@
 | [Smoking Mirror](https://open.spotify.com/track/1w2Fs2kq0BY96Ql2jrGumv) | [Kurokuma](https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ) | [Born of Obsidian](https://open.spotify.com/album/1SC6DXzW8fov9cVYfPrVhx) | 8:24 | 2022-08-19 | 2022-11-05 |
 | [Snake](https://open.spotify.com/track/69396kL1HvsUm6PWiv7ftJ) | [No Face No Case](https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ) | [Flex Fiesta](https://open.spotify.com/album/7JsB718EyNSdTNg6onGTLb) | 3:08 | 2022-12-23 |  |
 | [Soul Burn](https://open.spotify.com/track/72STRbMtY5ypgxtEJ5v6OU) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Soul Burn](https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe) | 3:47 | 2022-11-18 |  |
+| [Stardust](https://open.spotify.com/track/4ABR3zMxUzZMWFbHaf1SIq) | [Designer Disguise](https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu) | [Elswaer](https://open.spotify.com/album/77q6P32TVr7jjBxRzCfeDA) | 3:37 | 2023-01-20 |  |
 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 | 2022-07-29 | 2023-01-06 |
 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 | 2022-09-09 |  |
 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 | 2022-08-19 |  |

@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-121 songs - 5 hr 42 min
+122 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Jane 9](https://open.spotify.com/track/4Qp5A3JbBBtMhW9WYGKlHA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 2:27 | 2022-10-12 | 2022-11-23 |
 | [La Rivière](https://open.spotify.com/track/3Hogl67zIDB7K6bEcrICw1) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Rivière](https://open.spotify.com/album/11xUB3vwqMUv0frZJ8tXhQ) | 2:12 | 2022-10-12 |  |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-11-22 |  |
+| [Laten gaan](https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Laten gaan](https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6) | 3:28 | 2023-01-20 |  |
 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 | 2022-10-12 |  |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2022-10-12 |  |
 | [Liberty](https://open.spotify.com/track/5p2OGTbSseKmnk0vJvhPJv) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Liberty](https://open.spotify.com/album/6Z2BOLt7zRpUDN6oyprG7r) | 3:02 | 2022-10-12 |  |
@@ -85,7 +86,7 @@
 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 | 2022-10-12 |  |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-10-12 |  |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-10-12 |  |
-| [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 |  |
+| [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 | 2023-01-21 |
 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 | 2022-10-12 |  |
 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 | 2022-11-22 |  |
 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 | 2022-10-12 |  |
@@ -121,7 +122,7 @@
 | [Tundra](https://open.spotify.com/track/7s8dqOwLRy0Db313r7VmjS) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Tundra](https://open.spotify.com/album/24cFjGJmo7OciWrlk8liLr) | 2:34 | 2022-10-12 |  |
 | [Turiya](https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Turiya](https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu) | 2:00 | 2022-10-12 |  |
 | [Uendelig](https://open.spotify.com/track/2rSORoj8GOo8vB8Iz2zsSA) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Uendelig](https://open.spotify.com/album/1kluJqHK35vXAraoKM3TM4) | 2:27 | 2022-11-22 |  |
-| [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-10-12 |  |
+| [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 | 2022-10-12 | 2023-01-21 |
 | [Upon a Painted Ocean](https://open.spotify.com/track/3Iv7EalVhriKHE8uHVJmsS) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:53 | 2022-10-12 |  |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-11-22 |  |
 | [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 960732,
+  "num_followers": 961125,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk1NjgyMSwwMDAwMDAwMDc1ZGIzNDVkYmVhZTMwODY1ODYzOGU2YzJiNGVhN2M4",
+  "snapshot_id": "MTY3Mzk1NjgyMSwwMDAwMDAwMDY0ZTcyYWExYWI5ZDc0ZjhmYTg0YTYzMjU5NDlmMjA2",
   "tracks": [
     {
       "added_at": "2023-01-11 08:46:57",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
-        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
-    },
-    {
-      "added_at": "2023-01-11 08:46:57",
-      "album": {
         "name": "Skylark (Std. Version)",
         "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2023-01-11 08:46:57",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "Harlem On My Mind",
-        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
-    },
-    {
-      "added_at": "2023-01-11 08:46:57",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -679,18 +663,34 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+        "name": "Harlem On My Mind",
+        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
         }
       ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+      "duration_ms": 292288,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2023-01-11 08:46:57",
+      "album": {
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2023-01-11 08:46:57",
+      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 154133,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
-    },
-    {
-      "added_at": "2023-01-11 08:46:57",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 133813,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
-    },
-    {
-      "added_at": "2023-01-11 08:46:57",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 160933,
       "name": "We Are In Love",
       "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
+    },
+    {
+      "added_at": "2023-01-11 08:46:57",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
-      },
-      "artists": [
-        {
-          "name": "Magnet",
-          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
-    },
-    {
-      "added_at": "2023-01-11 08:46:57",
-      "album": {
         "name": "Love, Andy",
         "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 193386,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
+    },
+    {
+      "added_at": "2023-01-11 08:46:57",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
+      },
+      "artists": [
+        {
+          "name": "Magnet",
+          "url": "https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Recipe For Love",
-      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+      "duration_ms": 155689,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
     },
     {
       "added_at": "2023-01-11 08:46:57",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-01-11 08:46:57",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 155689,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
+      "duration_ms": 154906,
+      "name": "Recipe For Love",
+      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
     },
     {
       "added_at": "2023-01-11 08:46:57",

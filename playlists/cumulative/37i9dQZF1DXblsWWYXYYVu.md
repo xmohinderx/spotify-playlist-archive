@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-163 songs - 9 hr 11 min
+164 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Heart in Me](https://open.spotify.com/track/3dd8oxITNLTLaRybjDTA4s) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/21po9l566bWUa58JM9aJKf) | 3:47 | 2021-04-19 |  |
 | [Heart In Me](https://open.spotify.com/track/4efFCV2zs0vmDwFoGCPG5b) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/333xvPkvCChZ69oqemkndI) | 3:47 | 2021-04-19 | 2022-11-14 |
 | [Heart In Me](https://open.spotify.com/track/7yiV9vNPteAL9Y4U8810vh) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/0Nc0yM6xYEelLRf0l4gR6B) | 3:47 | 2021-04-19 | 2022-07-29 |
-| [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 | 2022-08-12 |  |
+| [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 | 2022-08-12 | 2023-01-21 |
+| [Hey Violet](https://open.spotify.com/track/6R2Rg2mTzmJ6PNwgh0GG4B) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:53 | 2022-08-12 |  |
 | [Hindsight](https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:01 | 2021-04-19 |  |
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |

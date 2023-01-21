@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Grag Queen
 
-82 songs - 3 hr 39 min
+83 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 | 2022-07-22 |  |
 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-29 | 2022-07-29 |
 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-04-29 |  |
-| [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 | 2022-10-07 |  |
+| [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 | 2022-10-07 | 2023-01-21 |
 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 | 2022-05-27 |  |
+| [JUP\-ME](https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [JUP\-ME](https://open.spotify.com/album/4ruyrszxc3mremaF3DtovJ) | 2:32 | 2023-01-20 |  |
 | [LAMBO](https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:15 | 2022-09-23 |  |
 | [Larga Esse Boy](https://open.spotify.com/track/4hEchaoOffZgqKtFtJVxTH) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa) | [Larga Esse Boy](https://open.spotify.com/album/4g4zKDaXPGRjmCdorLbzvW) | 3:17 | 2022-04-29 | 2022-06-25 |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2022-04-29 |  |

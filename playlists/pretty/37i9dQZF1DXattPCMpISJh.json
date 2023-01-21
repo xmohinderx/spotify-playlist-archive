@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 72674,
+  "num_followers": 72888,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGUyMTcyMjBmYTM4MmYyNGYyYzEzZGRkNzhhNzM1Zjc0",
+  "snapshot_id": "MTY3NDE4NzIwMCwwMDAwMDAwMGE0Y2ZkYjhkMjc5Nzg2Nzk3NjkyZmZlMGQ3ZTFjMzdk",
   "tracks": [
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
+        },
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "duration_ms": 182314,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
+    },
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
@@ -75,6 +95,26 @@
       "duration_ms": 202844,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH"
+    },
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "You're Not Normal (The Brothers Nylon Remix)",
+        "url": "https://open.spotify.com/album/194XuwiTU6XnaNRRkXdWhQ"
+      },
+      "artists": [
+        {
+          "name": "Glamour Hammer",
+          "url": "https://open.spotify.com/artist/7s4dnXFDZnMa8UfOKX5I4S"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 269224,
+      "name": "You're Not Normal (The Brothers Nylon Remix)",
+      "url": "https://open.spotify.com/track/2pbCnVeEzLRjeJvxIDPMxJ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -179,6 +219,26 @@
       "duration_ms": 238571,
       "name": "Crying At The Discoteque",
       "url": "https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC"
+    },
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "Do You Wanna (BoogieKnights ReThink)",
+        "url": "https://open.spotify.com/album/3P2FzPaQy1NAU1ggwMevY5"
+      },
+      "artists": [
+        {
+          "name": "Rokwell",
+          "url": "https://open.spotify.com/artist/1NOc6Hatk5Jo0dxGxYpj3X"
+        },
+        {
+          "name": "BoogieKnights",
+          "url": "https://open.spotify.com/artist/3wJU7ygNJY0wWWhwZVYnI0"
+        }
+      ],
+      "duration_ms": 258196,
+      "name": "Do You Wanna (BoogieKnights ReThink)",
+      "url": "https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1859,38 +1919,6 @@
       "duration_ms": 221744,
       "name": "Children",
       "url": "https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Something Bout The Night",
-        "url": "https://open.spotify.com/album/1v1M8ZcUdJTQTW5jld2Cjk"
-      },
-      "artists": [
-        {
-          "name": "Jay Diggs",
-          "url": "https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1"
-        }
-      ],
-      "duration_ms": 193420,
-      "name": "Something Bout The Night",
-      "url": "https://open.spotify.com/track/0O2Nc2MkQt84yGHXfzdjZ0"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 188398,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
     }
   ],
   "unique_name": "Nu-Disco",

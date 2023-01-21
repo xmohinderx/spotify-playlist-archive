@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 93169,
+  "num_followers": 93286,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGE3Yzg1YjU3NjU5NDRhODQ3NzIwNWI0YThlOTAxZjcz",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDI0OWM0ZmJkZjY3ZmU5MzcxZWYyYzc5NjA3ZGEwMjE0",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 256173,
       "name": "I Can\u2019t Let Go - Remastered",
       "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Love Is The Answer (Expanded)",
+        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "Bridge Through Time",
+      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Just Between Us",
         "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 314333,
       "name": "Do You Feel What I'm Feeling?",
       "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Love Is The Answer (Expanded)",
-        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "Bridge Through Time",
-      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Playing It Cool",
-        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "South Of Market",
-      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Urban Knights",
         "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 437133,
       "name": "Hearts Of Longing",
       "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 265253,
+      "name": "South Of Market",
+      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
     },
     {
       "added_at": "2020-08-19 00:00:21",

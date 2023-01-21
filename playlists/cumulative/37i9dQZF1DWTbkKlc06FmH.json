@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Amai Yume ~Sweet Dreams~",
+        "url": "https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp"
+      },
+      "artists": [
+        {
+          "name": "Roomies",
+          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270873,
+      "name": "Amai Yume ~Sweet Dreams~",
+      "url": "https://open.spotify.com/track/29k925te93jCuDE5xj0xIV"
+    },
+    {
+      "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 270873,
       "name": "\u7518\u3044\u5922",
       "url": "https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE"

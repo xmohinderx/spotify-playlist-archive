@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-355 songs - 1 day 12 hr 54 min
+356 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
-| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
+| [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-01-21 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
@@ -177,6 +177,7 @@
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2021-04-21 | 2022-07-23 |
 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 | 2022-07-01 | 2022-07-26 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-09 |  |
+| [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 |  |
 | [Let's Pretend](https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Let's Pretend](https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K) | 3:40 | 2022-11-18 |  |
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |

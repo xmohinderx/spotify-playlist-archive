@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-568 songs - 1 day 5 hr 22 min
+569 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 | 2022-01-14 |  |
 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 | 2022-01-21 |  |
 | [Moment](https://open.spotify.com/track/2RsL9DuIs7zAgvay9dDB8E) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Moment](https://open.spotify.com/album/2KMBR0nA5USBKm5HuD54zy) | 2:36 | 2022-08-05 |  |
-| [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 |  |
+| [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 | 2023-01-21 |
 | [Moments](https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 5:02 | 2022-01-14 | 2022-07-04 |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-20 |  |
 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 |  |
@@ -473,6 +473,7 @@
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-02-18 | 2022-04-09 |
 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 | 2022-06-17 |  |
 | [Stuck On You](https://open.spotify.com/track/6HdURgU5JoS6IbMrTCC3QM) | [On June](https://open.spotify.com/artist/4B5rYujqJxWucM0JyYsaFn) | [Stuck On You](https://open.spotify.com/album/4NfeEcNunybQTtvxVT8TwT) | 3:32 | 2022-01-14 | 2022-04-21 |
+| [Sugar Kiss](https://open.spotify.com/track/3rqJjwv9sx6gHYVDVFgPO6) | [Life's A Beach](https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Sugar Kiss](https://open.spotify.com/album/6WtwZNvA5RAOSwRujnX4bn) | 2:14 | 2023-01-20 |  |
 | [Summer Feeling](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Summer Feeling](https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY) | 3:00 | 2022-01-14 |  |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-23 |  |
 | [Summer on You](https://open.spotify.com/track/7Ct0Q46k5PkXzYiNE5D2dn) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Summer on You](https://open.spotify.com/album/5IbJRX7Te1lvkMwPjssiV5) | 2:40 | 2022-01-14 | 2022-04-24 |

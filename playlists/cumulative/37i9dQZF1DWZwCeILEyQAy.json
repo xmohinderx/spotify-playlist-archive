@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "berserk",
+        "url": "https://open.spotify.com/album/4d4JeEYeGI0uZtgtA199NF"
+      },
+      "artists": [
+        {
+          "name": "kei",
+          "url": "https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99465,
+      "name": "berserk",
+      "url": "https://open.spotify.com/track/589qel3bVhjWq7XCRZwxLa"
+    },
+    {
+      "album": {
         "name": "BESITO (feat. G Herbo)",
         "url": "https://open.spotify.com/album/6i5ouzNtTZ0x9V5M00EN3d"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174765,
       "name": "Dangerous Freestyle",
       "url": "https://open.spotify.com/track/7jxAphH9y4g88DSZQGSMYr"
@@ -1280,10 +1298,32 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 151781,
       "name": "Diamond in the Rough",
       "url": "https://open.spotify.com/track/7o4YKb7XhbLGvzJ7CXrkHD"
+    },
+    {
+      "album": {
+        "name": "Diamond in the Rough (Remix)",
+        "url": "https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127773,
+      "name": "Diamond in the Rough - Remix",
+      "url": "https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z"
     },
     {
       "album": {
@@ -1440,6 +1480,24 @@
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "album": {
+        "name": "Before The Gloss Up",
+        "url": "https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Don't Worry Bout It",
+      "url": "https://open.spotify.com/track/5vg4vet6KjjsswkPY9bI18"
     },
     {
       "album": {
@@ -1825,6 +1883,36 @@
     },
     {
       "album": {
+        "name": "Gang Gang",
+        "url": "https://open.spotify.com/album/6GxrvQByBYsEumpvryoZgK"
+      },
+      "artists": [
+        {
+          "name": "Kenzo B",
+          "url": "https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        },
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159510,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/5GvAH6Mo6gzottkeclFyCj"
+    },
+    {
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/6sktE5uRRrWv61xx3f7VsC"
       },
@@ -2122,7 +2210,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 153920,
       "name": "Halloween Flow",
       "url": "https://open.spotify.com/track/3egVNaIw2ySbYKwqYgZiAX"
@@ -2322,7 +2410,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 148848,
       "name": "Hussle",
       "url": "https://open.spotify.com/track/6dZ8Byzg5XtCa5NdmRuzfn"
@@ -2684,7 +2772,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173164,
       "name": "Make It Lit",
       "url": "https://open.spotify.com/track/17UlPmEGyHxCC3BMRv9Kel"
@@ -3619,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154869,
+      "name": "Princess Diana",
+      "url": "https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC"
+    },
+    {
+      "album": {
         "name": "No Luv",
         "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
       },
@@ -3652,6 +3758,24 @@
       "duration_ms": 141176,
       "name": "PUSSY",
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
+    },
+    {
+      "album": {
+        "name": "Before The Gloss Up",
+        "url": "https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121889,
+      "name": "Pussycat",
+      "url": "https://open.spotify.com/track/30I8Vb4ZQHUVudY4en3cPx"
     },
     {
       "album": {
@@ -5022,7 +5146,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 139690,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/58t3CCrolRpZOsuAMdDZSQ"

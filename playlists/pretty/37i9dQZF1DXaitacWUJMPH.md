@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,004 likes - 24 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,380 likes - 24 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 | 17 | [Can't Tell Me Nothing](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:31 |
 | 18 | [From The D To The A \(feat\. Lil Yachty\)](https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [From The D To The A \(feat\. Lil Yachty\)](https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91) | 2:38 |
 | 19 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
-| 20 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 |
-| 21 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 |
+| 20 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 |
+| 21 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 |
 | 22 | [Old Streets](https://open.spotify.com/track/3k0LQivRnB690bkznEXI1E) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Pregame Rituals](https://open.spotify.com/album/4tBCG3Jj1LdIfVniJimsUd) | 1:45 |
 | 23 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/45ttRl8uNtJkop7r9dmP4e) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:32 |
 | 24 | [Champion](https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 2:47 |
 
-Snapshot ID: `MTY1NTQzODQwMCwwMDAwMDAwMGExYWQ4ZWI5MDFmMjA0NDY0ZGY1MWY4MjZjZjBlYTlm`
+Snapshot ID: `MTY1NTQzODQwMCwwMDAwMDAwMGZlYTgwMjQ0MDkzYjEzZDU3NWRjNmRkNzcwNTk1NmVh`

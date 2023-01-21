@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Peach Luffe \(Canada /South Korea\)
 
-560 songs - 1 day 9 hr 29 min
+562 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Like a Freak](https://open.spotify.com/track/1MVejPVaaKuYJ6apzn0f1E) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Brainwreck](https://open.spotify.com/album/7KU61cTPaCHd61dXzUrlXy) | 2:59 | 2022-09-01 | 2022-10-29 |
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-04-28 | 2022-07-08 |
 | [Like this?](https://open.spotify.com/track/1XBYvu3zLapg0VLyHA2gB5) | [JIEON](https://open.spotify.com/artist/3EezwA5hkNydvSaWbhTv4Z) | [YYY](https://open.spotify.com/album/5qtWZLH7pmnDKWyX5NPLAa) | 2:55 | 2022-09-01 | 2022-10-14 |
+| [like you said you would](https://open.spotify.com/track/1nDdAH7CDC0mMN23X6ZTqQ) | [Roman Kayz](https://open.spotify.com/artist/6wMCLX99dfazjaH8QbnCrd) | [like you said you would](https://open.spotify.com/album/7LyzQ7PGeMkwraE2jsAV6o) | 3:00 | 2023-01-19 |  |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 | 2022-09-02 |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-25 | 2022-10-07 |
 | [Little Balcony](https://open.spotify.com/track/2DvYI7HNzX3n9Ng20PBBQM) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 3:15 | 2022-07-14 | 2022-08-12 |
@@ -391,6 +392,7 @@
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-03-24 | 2022-04-29 |
 | [seaside](https://open.spotify.com/track/3kKCv6yRjoiWR4sCqADhjr) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [seaside](https://open.spotify.com/album/2MopDxgbVEFgKZpEysGYFS) | 3:16 | 2022-07-21 | 2022-08-05 |
 | [Season of the Shark](https://open.spotify.com/track/0xSn8K45u9yOIDZysjwz20) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [10](https://open.spotify.com/album/0OXFxh0kceGnXyzYo9HNLl) | 4:38 | 2022-10-13 | 2022-12-16 |
+| [Secret](https://open.spotify.com/track/2Rh1kYN9pPDzedA1UTtJsR) | [Solitude is Bliss](https://open.spotify.com/artist/5BLLhENK8t8r0PP0klTBZx) | [Secret](https://open.spotify.com/album/0cAtpcytnB6u6whusgiH1Y) | 4:43 | 2023-01-19 |  |
 | [Sera](https://open.spotify.com/track/5fJyD0EG6uBxcExhUlYZZq) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Sera](https://open.spotify.com/album/1ZTFntttDauVPZGMS2iiTH) | 3:03 | 2022-12-02 |  |
 | [Shangri\-La Is Calling](https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 4:34 | 2022-07-08 | 2022-08-26 |
 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 | 2022-09-22 | 2022-12-02 |

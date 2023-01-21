@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-1,038 songs - 2 day 20 hr 2 min
+1,039 songs - 2 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [All I See feat.Nenashi](https://open.spotify.com/track/6ymCxAZy4GP3XvaQPmeREB) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [All I See feat.Nenashi](https://open.spotify.com/album/7lWQgHLW403E5mD7Stubvz) | 4:04 | 2022-06-02 | 2022-06-08 |
 | [All the little things](https://open.spotify.com/track/1uByhjFUBNdTZzgxk8FIgK) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Kongtong Recordings](https://open.spotify.com/album/2OwNkjPe0upkrlSQr9LMgP) | 5:15 | 2022-06-02 | 2022-07-05 |
 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 | 2022-08-02 |  |
+| [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 |  |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-31 | 2022-07-15 |
 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 | 2022-05-31 | 2022-11-24 |
 | [Another Way](https://open.spotify.com/track/4E7rg3aXFK1NNHM1eRxPA6) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/6XPo8gOZ0iwNgLwFlZZ2ml) | 3:47 | 2022-09-13 | 2022-09-28 |
@@ -80,7 +81,7 @@
 | [Blink](https://open.spotify.com/track/3dg2D7oJvKvSK2SrjNKC4l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Blink](https://open.spotify.com/album/2S3jWaGHznX4BPiRZJThWe) | 4:10 | 2022-11-08 | 2022-11-16 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-29 | 2022-07-26 |
 | [Bloody Mary](https://open.spotify.com/track/1MQ2qrtlL8rByi9PlecX0H) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Bloody Mary](https://open.spotify.com/album/2w0SXIVuRUC3P5leDHdGDQ) | 4:36 | 2022-06-02 | 2022-07-13 |
-| [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 | 2022-05-31 | 2022-11-26 |
+| [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 | 2022-05-31 |  |
 | [Blue boat](https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [Blue boat](https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja) | 3:48 | 2022-07-12 | 2022-07-20 |
 | [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 | 2022-08-05 | 2022-08-24 |
 | [BLUE SOULS \- STUTS Remix](https://open.spotify.com/track/3yMxKnu8fsZaoS9ylqJKIu) | [A\_o](https://open.spotify.com/artist/5vkVMGd85KBUDi4ZDtL8Nd), [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [dodo](https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [BLUE SOULS \(STUTS Remix\)](https://open.spotify.com/album/3Im0bf24RYVE4ojLHUGA7w) | 2:38 | 2022-05-29 | 2022-07-13 |
@@ -209,7 +210,7 @@
 | [HAZAMA](https://open.spotify.com/track/64D4uYDRULTmYmz9OLipnK) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [We Others](https://open.spotify.com/album/1UHQ2oHDvgg1acpJrMb6Dz) | 2:10 | 2022-07-26 | 2022-08-03 |
 | [Heart](https://open.spotify.com/track/0A1zyQkMLZqETVisk1a2Mv) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heart](https://open.spotify.com/album/0k1jeFWtwtUvwGRDVVc3BJ) | 4:31 | 2022-08-16 | 2022-08-20 |
 | [Heart](https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:31 | 2022-08-18 | 2022-10-26 |
-| [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 | 2023-01-05 |  |
+| [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 | 2023-01-05 | 2023-01-21 |
 | [Hello Love](https://open.spotify.com/track/4SCVAJvm7EDqVTCEymv9QA) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [HELLO LOVE](https://open.spotify.com/album/7JoYjx7EGwAnMltBIYJMPx) | 4:23 | 2022-05-29 | 2022-07-27 |
 | [Here for You](https://open.spotify.com/track/3zVN21stLWCwU5dpWFehiz) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn) | [Here for You](https://open.spotify.com/album/0vdreEoFoUTnQX8jwNj5B8) | 3:30 | 2022-06-07 | 2022-06-18 |
 | [High Five](https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [High Five](https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv) | 3:13 | 2022-05-29 | 2022-11-04 |
@@ -956,7 +957,7 @@
 | [猫の夢](https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [生活](https://open.spotify.com/album/03KHIxSUNxT660ByeQGsOo) | 3:35 | 2022-11-15 | 2022-11-17 |
 | [瑠璃色の地球](https://open.spotify.com/track/3HxL8rEkqUB4dh0IHew5NT) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [瑠璃色の地球](https://open.spotify.com/album/3netpX4fgcw75E9r1L1nK6) | 4:22 | 2022-09-06 | 2022-09-15 |
 | [瑠璃色の地球\(「未来への航海」バージョン\)](https://open.spotify.com/track/6besLSekgpJjbFYBP99zb8) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [瑠璃色の地球\(「未来への航海」バージョン\)](https://open.spotify.com/album/7C8hveWFd2ojcKcbdqmWro) | 4:41 | 2022-05-29 | 2022-07-29 |
-| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 |  |
+| [甘い夢](https://open.spotify.com/track/6uWURFgsPFmxBctJwlkgoE) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [甘い夢](https://open.spotify.com/album/61TOe4TZqMjJA8m5QavXii) | 4:30 | 2023-01-19 | 2023-01-21 |
 | [生きてしぬ](https://open.spotify.com/track/2wjakZC9Np8hdcgqNKc1Vp) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [最終兵器は自由](https://open.spotify.com/album/539F5Y2n3e7QsdQtQM6BOp) | 3:11 | 2022-09-13 | 2022-09-21 |
 | [生きなくちゃ](https://open.spotify.com/track/0wcuZ6ELy4cUZ6Fg3aAa2Q) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [magic! / 生きなくちゃ](https://open.spotify.com/album/0p0NDpQsQVZqmGX82GdUUC) | 4:02 | 2022-06-07 | 2022-06-15 |
 | [留守にする](https://open.spotify.com/track/6VuGbW45hUYn5HjHdLvb02) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [留守にする](https://open.spotify.com/album/7EgPc5Cm8VyNZSaYjLocX2) | 2:54 | 2022-06-07 | 2022-07-18 |

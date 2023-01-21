@@ -4,7 +4,7 @@
 
 > Discover the newest Hardstyle tracks\. Cover: D\-Sturb & Act of Rage & Nolz
 
-160 songs - 8 hr 44 min
+160 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [The Money](https://open.spotify.com/track/3RyMWvyttVsZaUZmR5C1zd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [The Money](https://open.spotify.com/album/6Q0rMs4HnMc6Ly2uQ28EyK) | 2:49 | 2023-01-12 |  |
 | [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2022-12-08 |  |
 | [The Rave Dome](https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [The Rave Dome](https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS) | 3:25 | 2022-12-08 |  |
-| [The Shadows](https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo) | [Dj Thera](https://open.spotify.com/artist/3wnWv1CbRJ0JuDgOcsBPfd) | [The Shadows](https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS) | 3:48 | 2023-01-19 |  |
+| [The Shadows](https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo) | [Dj Thera](https://open.spotify.com/artist/3wnWv1CbRJ0JuDgOcsBPfd) | [The Shadows](https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS) | 3:24 | 2023-01-19 |  |
 | [The World Is Yours](https://open.spotify.com/track/70y974H4TEVIuyImLTsAHV) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Radianze](https://open.spotify.com/artist/0nvvhGGaXFDeqaYRd3BdHR), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [The World Is Yours](https://open.spotify.com/album/6dMYkQVJniC1DHCZoQPA3d) | 3:26 | 2022-12-08 | 2022-12-24 |
 | [Thundercloud \(Not Alone\)](https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Thundercloud \(Not Alone\)](https://open.spotify.com/album/6AWo8m1dChoaCJUzIicpZw) | 4:09 | 2022-12-08 | 2022-12-16 |
 | [Thunderstorm](https://open.spotify.com/track/3MbHkJDpt60utdNxzpCkbr) | [Juju Rush](https://open.spotify.com/artist/0BeOkDdfjcszVPHctLqLxf) | [Thunderstorm](https://open.spotify.com/album/0Gp5p8QlDhMbzJK4vDNAWU) | 3:05 | 2022-12-08 |  |

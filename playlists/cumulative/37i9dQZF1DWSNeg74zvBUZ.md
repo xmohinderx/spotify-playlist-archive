@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-129 songs - 10 hr 6 min
+130 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bloome to Brian Eno](https://open.spotify.com/track/2knd6A5LTEFz35ObLSH0hg) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Wio World Improv Orquestra](https://open.spotify.com/album/18uhLpV20hEwhP5T2q31jj) | 5:22 | 2022-03-30 | 2022-07-28 |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2021-09-10 |  |
 | [Brockley](https://open.spotify.com/track/0uMD0CaCxiTwgVZhN5paQf) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:48 | 2021-09-10 | 2022-07-29 |
+| [Brockley](https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:48 | 2021-09-10 |  |
 | [By The Sea](https://open.spotify.com/track/5t4QJ9XnmAxzw9e92yt3I6) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [By The Sea](https://open.spotify.com/album/2lg2MfTNFLzhL14HglbMTC) | 4:59 | 2021-09-10 | 2022-07-29 |
 | [Canone Infinito](https://open.spotify.com/track/7aVGlNd40UZOnaT7Gqrjdd) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 4:59 | 2021-09-10 | 2022-07-26 |
 | [Canter](https://open.spotify.com/track/3oEAYPcMoPjCyGI5SLqxzw) | [Úna Monaghan](https://open.spotify.com/artist/2kkfbansot1B9dPKK6vyag), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Canter](https://open.spotify.com/album/7oSvHxyn2nm8VMMwLtX2hb) | 4:09 | 2021-09-10 | 2022-07-28 |
@@ -54,7 +55,7 @@
 | [Dwellberry](https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM) | 4:43 | 2021-09-10 | 2022-07-29 |
 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 | 2021-09-10 | 2022-08-31 |
 | [Ella Estudia Astrologia](https://open.spotify.com/track/1npVjjSSarqKG0PPm1wa12) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Los Días Serán Más Cortos](https://open.spotify.com/album/4TgXIydTP8MIuVVdQOnvUA) | 5:53 | 2021-09-10 | 2022-07-29 |
-| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2021-09-10 |  |
+| [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2021-09-10 | 2023-01-21 |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2021-09-10 |  |
 | [First Light](https://open.spotify.com/track/4YnketDvkgOhzuevW7Hjjd) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [First Light](https://open.spotify.com/album/3tRGQaFE8NKfvlNAqB5YWA) | 2:59 | 2021-09-10 | 2022-07-19 |
 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2021-09-10 |  |

@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Baby Don't Cry (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1"
+      },
+      "artists": [
+        {
+          "name": "Philmon Lee",
+          "url": "https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184350,
+      "name": "Baby Don't Cry (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/08S37oejetoPevVixK6iXN"
+    },
+    {
+      "album": {
         "name": "Baccwood",
         "url": "https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94"
       },
@@ -1451,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "KEEP IT",
+        "url": "https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "KEEP IT",
+      "url": "https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5"
+    },
+    {
+      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj"
       },
@@ -2574,7 +2614,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
@@ -2910,7 +2950,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 128951,
       "name": "Woo Nina",
       "url": "https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi"

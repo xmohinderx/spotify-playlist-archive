@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,445 likes - 140 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,689 likes - 140 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 9 | [Ideación](https://open.spotify.com/track/6mBiafKpdwNJr0MIJJRRHO) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Ideación](https://open.spotify.com/album/3zgPW7E3jrx0xRXHYzOosw) | 2:12 |
 | 10 | [Alignment](https://open.spotify.com/track/1avLEAr9M1YOdiSBQ29nit) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Alignment](https://open.spotify.com/album/1oIcD5Icrn4DBpJSXf5eLs) | 2:41 |
 | 11 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
-| 12 | [852 Hz Inner Peace](https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH) | [Deep Motions](https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC) | [Inner Peace](https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX) | 2:48 |
-| 13 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 |
+| 12 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 |
+| 13 | [852 Hz Inner Peace](https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH) | [Deep Motions](https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC) | [Inner Peace](https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX) | 2:48 |
 | 14 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 |
 | 15 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 |
 | 16 | [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 139 | [Soon For Cali](https://open.spotify.com/track/2rsgcPUIYBCFosRWPGJgv7) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon For Cali](https://open.spotify.com/album/0Dicmt7fUioNWoi4hBe7GH) | 3:26 |
 | 140 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 |
 
-Snapshot ID: `MTY3MzYyODIxMywwMDAwMDAwMGExN2NhZTU3MWEyN2I5OTM1OGNiMTFmM2VkMjY3Nzdk`
+Snapshot ID: `MTY3NDIyODU2NSwwMDAwMDAwMDZjOGI3MjY0NTYwYTQ3NGQxZjYyM2U1NThjZjAzNGUz`

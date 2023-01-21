@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,223 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,225 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 24 | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/track/1BkvNL3TRshjUdIP44ijnH) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:02 |
 | 25 | [Tết Về Miền Tây](https://open.spotify.com/track/07VnCAzjNOeKQZkWaC6UGE) | [Sona](https://open.spotify.com/artist/350AkrG58FEwakiQekOcZz) | [Tết Về Miền Tây](https://open.spotify.com/album/772mRepAs67iZ1rFgdpfBi) | 3:51 |
 | 26 | [Ngày Đá Đơm Bông](https://open.spotify.com/track/3dgxW5ga3XEI1apTQJ1Tgn) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Cảm Ơn Cuộc Đời](https://open.spotify.com/album/7hwRKhqLvPbvlOXknR9PvC) | 4:33 |
-| 27 | [Ăn Tết Lớn Nha](https://open.spotify.com/track/2brbcKwOMh6aW0OIQKALnQ) | [Jena](https://open.spotify.com/artist/4tq36fPJkf1cUudfN5SKsQ) | [Ăn Tết Lớn Nha](https://open.spotify.com/album/0Ng2t6HHmrCKcIfIDVmqF7) | 3:16 |
+| 27 | [Ăn Tết Lớn Nha](https://open.spotify.com/track/2brbcKwOMh6aW0OIQKALnQ) | [Jena](https://open.spotify.com/artist/1ZgOm34cRFyLfOss8TmiuZ) | [Ăn Tết Lớn Nha](https://open.spotify.com/album/0Ng2t6HHmrCKcIfIDVmqF7) | 3:16 |
 | 28 | [Con Sông Tuổi Thơ Tôi](https://open.spotify.com/track/6fxlkN2zqJ4W8z6XF16hIk) | [NSƯT Tố Nga](https://open.spotify.com/artist/754gM3hcVjEoNhnUYNqR6h) | [Thương Ơi, Lòng Mẹ](https://open.spotify.com/album/4widkNthM5NnUiAl33EVfE) | 5:31 |
 | 29 | [Về Quê Ăn Tết](https://open.spotify.com/track/2GkhcLv6UX9INsvy4mvQ62) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Về Quê Ăn Tết](https://open.spotify.com/album/5X1nPI72MZNvcFOR8Z9ORD) | 4:25 |
 | 30 | [Yêu Sao Miền Tây Quê Mình](https://open.spotify.com/track/7dGHfQn40mN3DSY1YQMCNu) | [Dư Anh](https://open.spotify.com/artist/3GGZjVmf7Pk1s19NCyEsO3), [Quách Ngọc Hậu](https://open.spotify.com/artist/0LOcpEQYInRkOBAjK9xJWs) | [Yêu Sao Miền Tây Quê Mình](https://open.spotify.com/album/2cO0K7zO18CIFbq4MarkE1) | 4:44 |

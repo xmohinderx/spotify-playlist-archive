@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-496 songs - 1 day 7 hr 36 min
+497 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anagram of Coda \- off vocal](https://open.spotify.com/track/3pp0QnYSYdK1xGIetlfqnh) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/5rLplZ8aZBpjNCQyOaX7aT) | 4:40 | 2022-08-23 | 2022-09-21 |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 |  |
+| [As the Gods Say](https://open.spotify.com/track/5x2uYdPrY1z2Ay1ucRKn3m) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say EP](https://open.spotify.com/album/0LxE26kNQTFVyr08f81Sex) | 2:51 | 2023-01-19 |  |
 | [As the Gods Say \- Maniac Ver.](https://open.spotify.com/track/1TqPXOmJzhLLwjgB6CVHU6) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [As the Gods Say \(Maniac Ver.\)](https://open.spotify.com/album/02JA34PUXRpX5EOowhGion) | 1:59 | 2022-12-27 | 2023-01-18 |
 | [ASEED](https://open.spotify.com/track/48eYAbFWCsSEs3oKMAlI0h) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ASEED](https://open.spotify.com/album/7IRJ6a77nAR2jYEg5rDu1K) | 4:49 | 2022-05-28 | 2022-06-09 |
 | [Ashita no Katachi](https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Ashita no Katachi](https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6) | 4:33 | 2023-01-10 |  |
@@ -396,7 +397,7 @@
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2022-10-04 | 2022-11-25 |
 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 | 2022-07-28 | 2022-10-07 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
-| [云う透り](https://open.spotify.com/track/41NFzRUXoCWR94hVRNqNTV) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り e.p](https://open.spotify.com/album/5Ng3rikw2a7AWG0bbK9ccN) | 2:51 | 2023-01-19 |  |
+| [云う透り](https://open.spotify.com/track/41NFzRUXoCWR94hVRNqNTV) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り e.p](https://open.spotify.com/album/5Ng3rikw2a7AWG0bbK9ccN) | 2:51 | 2023-01-19 | 2023-01-21 |
 | [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 | 2022-12-27 | 2022-12-29 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-05-28 | 2022-07-27 |
 | [人なんだ](https://open.spotify.com/track/6CZzcCnBPSNIHKb1c29lB4) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [人なんだ](https://open.spotify.com/album/0nKpIhPmduqYZ5e6o7pr0q) | 4:55 | 2022-07-28 | 2022-09-28 |

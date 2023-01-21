@@ -4,22 +4,23 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,092 likes - 13 songs - 44 min 55 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,091 likes - 14 songs - 49 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bonfire Song](https://open.spotify.com/track/0FIAWyQafuCzTAyHxPNB8y) | [Hertzberg & Funke](https://open.spotify.com/artist/5ji1XXd4srakGMHk5emPQN), [Affas](https://open.spotify.com/artist/49T44frfa247TlfA2sH5SN) | [Bonfire song](https://open.spotify.com/album/26gmhuOMITyTT1SSWB0KJq) | 2:58 |
-| 2 | [Reachin'](https://open.spotify.com/track/14IJU882biUKL0SRTkxJJL) | [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [i like](https://open.spotify.com/album/4uuDMuooYgSnuT0xcGKX8Q) | 3:10 |
-| 3 | [Human Touch](https://open.spotify.com/track/5TKB7BI1iqNhGZTre1myxR) | [Atlas](https://open.spotify.com/artist/7eyrNaYPiErJKhI4RNYidR) | [Parallel Love](https://open.spotify.com/album/6zGqnpLaJ8w1AAtNYsfboG) | 3:59 |
-| 4 | [What If](https://open.spotify.com/track/4xe6N3tkE74kRno9FsC4wT) | [Lily Galin](https://open.spotify.com/artist/1Zl6Ak1dgsKj7MkSHsDlgl) | [What If](https://open.spotify.com/album/5FMNFZMwtWi4iVpoVzSlHO) | 3:44 |
-| 5 | [Crazy on You](https://open.spotify.com/track/0HAi4ies7ACdp0jUCZuFOE) | [Maclure](https://open.spotify.com/artist/3E9oRA3fTi5go34fgXrAJO) | [Crazy on You](https://open.spotify.com/album/0oqAExym29izHP9Kt7fwvS) | 3:17 |
-| 6 | [Klick\-Klack \(Det löser sig\)](https://open.spotify.com/track/6U3BXBstHDzZc8O1fNRUQT) | [Kallt Drag](https://open.spotify.com/artist/4w2kAFSm2yt6y8E7eLxpNC) | [Klick\-Klack \(Det löser sig\)](https://open.spotify.com/album/2FOFvrPwMUzWsPKuTuY6KW) | 3:27 |
-| 7 | [Light Up My Life](https://open.spotify.com/track/0Q7Cf6gahcLV3HGd0sIVkZ) | [Stefan Galea](https://open.spotify.com/artist/1jvofwyZYCvMYvbRIuYpWL), [Ylva & Linda](https://open.spotify.com/artist/6GoBPMynY8z1i2APFg66km) | [Light Up My Life](https://open.spotify.com/album/4QuYs1stIz3Mxi4HK2Yr1d) | 3:01 |
-| 8 | [The Lonesome Swallow](https://open.spotify.com/track/5sztYNlzTrSn393hdEI5cH) | [The Daily Ration](https://open.spotify.com/artist/1h1UcxBy0hDk82aOPvc0JS) | [The Lonesome Swallow](https://open.spotify.com/album/2p6eF4q0vnWGQCmX8TiI0T) | 4:45 |
-| 9 | [Can you hear me call](https://open.spotify.com/track/3RcYiQO7AtMlnca7lo7aS3) | [Richard Larsson](https://open.spotify.com/artist/2Mze9QoydlfFgB9dmZ2mhT) | [Can you hear me call](https://open.spotify.com/album/15hZme52IJ8FCOQLmli8xq) | 3:36 |
-| 10 | [I Don't Care](https://open.spotify.com/track/1yv8tZe7YdFvu3sckfHdKo) | [Ojay](https://open.spotify.com/artist/4Ohu0UoFPZKuy5gIEedZtq) | [I Don't Care](https://open.spotify.com/album/4hpJL94HvPWiKNGv1Arr2g) | 2:46 |
-| 11 | [Runs In The Family](https://open.spotify.com/track/5hpqkaAZMrF8O7hZnKxXTq) | [Emma Svensson](https://open.spotify.com/artist/03V0mTSmPHxp7pnJhKFE1h) | [Runs In The Family](https://open.spotify.com/album/2HO9yV5q9D5COOgObJpv1C) | 3:09 |
-| 12 | [Gone With Stupid](https://open.spotify.com/track/43LmN6zjQV4dlMyeOtEqAy) | [Dead in Love](https://open.spotify.com/artist/1znf3y2qz8To3UnqcGMEe8) | [Gone With Stupid](https://open.spotify.com/album/3kQHskQhBjYfM6LY8eIcLw) | 2:59 |
-| 13 | [Killers](https://open.spotify.com/track/4RzUF1PbMw0oUgfkAVC10A) | [Vender](https://open.spotify.com/artist/03pLqKTSojkZZHpVGXOlxH) | [Killers](https://open.spotify.com/album/5TE3xOOmSWK5RNs3lFYXfA) | 3:58 |
+| 1 | [Au revoir](https://open.spotify.com/track/7kZG21WlPm7hudGODOi1lM) | [Maysa Chouba](https://open.spotify.com/artist/3Gb4zWT12NVDAXLDlahoLL) | [Au revoir](https://open.spotify.com/album/3bpOcLy5grlig2BhNTH5fz) | 2:37 |
+| 2 | [Psycho](https://open.spotify.com/track/3fHKqdNVHAFzI5hgEcZZnZ) | [Neetesh Jung Kunwar](https://open.spotify.com/artist/5uVTzyCO2MknEPABhTCIkz) | [Psycho](https://open.spotify.com/album/7b8ZBpiK2pCgiJnjlMdZoF) | 4:24 |
+| 3 | [Ääretön](https://open.spotify.com/track/1Z70cwRoZtMluxFg0JBU3P) | [Auer](https://open.spotify.com/artist/6ohrGemJlLBkIGvfqiwXyG) | [Ääretön](https://open.spotify.com/album/5mrtp6Quyaxw8Wpf3Y7KvU) | 7:43 |
+| 4 | [Black Hole](https://open.spotify.com/track/2R1gbluIY0jnH1uAxPbOlN) | [stevvee](https://open.spotify.com/artist/3IAn8NDMPwjoOsaPuwXL8Q) | [No Fair](https://open.spotify.com/album/5gSi3THSQohk6QCz6TJmUm) | 2:41 |
+| 5 | [Vänta på mig](https://open.spotify.com/track/1P4AE1OtF9ic448s0GSMv3) | [Joakim Ståhl](https://open.spotify.com/artist/2Gl7RmsbdkVB7HC7YJNxXW) | [Möt mig vid floden i natt](https://open.spotify.com/album/3F8Kk06OqGoaMQ27AH5sum) | 3:56 |
+| 6 | [Maybe It's Time](https://open.spotify.com/track/6XC4kFcx2GXsTzcwQIExFb) | [Majas Dad](https://open.spotify.com/artist/4UG68phKcHZ4lo5IaWuX2B) | [Maybe It's Time](https://open.spotify.com/album/3liYaR0NpMsWatrwob7wTQ) | 4:15 |
+| 7 | [Dead Zone](https://open.spotify.com/track/7uQYZxpIevTaFnMg88rD7h) | [Willowhead](https://open.spotify.com/artist/3VQcv9slDXL09gPMXHqjrS) | [7 AM in Pittsburgh](https://open.spotify.com/album/39SZSXcSKFVAvLo9zMGanV) | 4:40 |
+| 8 | [Ramen and Romance](https://open.spotify.com/track/1a3NVJwN5SlIO0TvOGqJ92) | [Christian Jessup](https://open.spotify.com/artist/3kCdzp5krxkPDQMRpDJuWB) | [Sweaty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hjdvX0H24t3IEBtfO11zX) | 1:50 |
+| 9 | [FLOW](https://open.spotify.com/track/7q7UqUgwy26DlYNTG323mf) | [Morello](https://open.spotify.com/artist/2ggxtphRwAB73uvMewAd2c) | [FLOW](https://open.spotify.com/album/5qV8obx5QfGSI9HVAZXwTk) | 3:07 |
+| 10 | [Its You](https://open.spotify.com/track/0JzR9MkDUwALUvjCpjpkyy) | [Jaycee](https://open.spotify.com/artist/1JxdgKeIEiQOkyKMylwCkl), [Gemz](https://open.spotify.com/artist/7tsrmFMUwcaNTb0BvfRvjb) | [Its You](https://open.spotify.com/album/2Q4HjNk70YcS3tuFL5MeLb) | 2:53 |
+| 11 | [Nysnö](https://open.spotify.com/track/05Q1i2P6xzLmoIDtuAfUiM) | [Ellinor Skagegård](https://open.spotify.com/artist/5pEFpC5JQdFCO4w9jOzLji) | [Nysnö](https://open.spotify.com/album/0QiUM2D5WkoRfveZ5t6fVG) | 3:06 |
+| 12 | [Blue](https://open.spotify.com/track/40a5vktt2tIwpIHoyAcKQ0) | [The Jack Fletcher Band](https://open.spotify.com/artist/5lj178O5G0Wrmt01riJYD4) | [Blue](https://open.spotify.com/album/68Frl3tCJinozKtUJFdM40) | 3:36 |
+| 13 | [MOPED](https://open.spotify.com/track/4N4Vd8AtYk3Js94aGE2oUk) | [Souvenirings](https://open.spotify.com/artist/6XdTNfPDz37ExY0sLhGmgQ) | [MOPED](https://open.spotify.com/album/4ZSHnQd80QjQNI9SQdn1xG) | 2:18 |
+| 14 | [Pigments \- Edit](https://open.spotify.com/track/1vEXJ8QdiLP3gvyhqJGbPK) | [Greyhawk](https://open.spotify.com/artist/2PqOwEG59E1HajP71KYAmp) | [Pigments](https://open.spotify.com/album/0TfKrDsoSXRl5M91XKloo2) | 2:21 |
 
-Snapshot ID: `NzA5LGVjZGU2MzZlN2I3ZDU4Nzg3NTA4ZGYwZGVlZTk2NmY5Nzk4MzdjMzg=`
+Snapshot ID: `NzExLDdmYTU0NThlZmMyYWY5MWY0YmE5MTljMmUzNjFlM2IzNThhNjgzZjc=`

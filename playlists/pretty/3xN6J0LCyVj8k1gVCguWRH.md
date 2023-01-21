@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,925 likes - 189 songs - 11 hr 41 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,914 likes - 178 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,21 +181,10 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 171 | [Pink Sunglasses](https://open.spotify.com/track/6WAeVBcmr8kkhowyrr3VzW) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [Pink Sunglasses](https://open.spotify.com/album/7cxKy2ezWzUZShuvhTyGC6) | 3:54 |
 | 172 | [Tracen](https://open.spotify.com/track/7u9Y1ccnIgsPK5xVXcS6pk) | [Ophelia](https://open.spotify.com/artist/1t9u7EEZdnodgGRYPmZJ73) | [Tracen](https://open.spotify.com/album/4SeMI319KM0SDZLBOst8ud) | 4:34 |
 | 173 | [Dulce](https://open.spotify.com/track/5C7BPSolWKfJSWKkZvwJun) | [Blenfre](https://open.spotify.com/artist/7lUd9FGvKChodVoY72qf1v) | [DULCE](https://open.spotify.com/album/6HQZv6DGhsCZcxoBnfcnE1) | 2:41 |
-| 174 | [Electrify Tdot \- Remix](https://open.spotify.com/track/6vnRWFgpHBq4Ka28e2DwI1) | [Arianna Tsar Valentine](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV), [MC Papa Bear](https://open.spotify.com/artist/7DMB67g6YNBJIoiBVepMy2) | [Electrify Tdot](https://open.spotify.com/album/3uYYZaj48u3jkL7ITzvFrp) | 3:37 |
-| 175 | [Sea in Me](https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU) | [Akash](https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v) | [Live a Little](https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy) | 2:35 |
-| 176 | [I'm Ok](https://open.spotify.com/track/5jBLoyyfD4ZzQ1WZhJGRPb) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [80 Fenway](https://open.spotify.com/album/09YHB71puDqaIJinUFZEzt) | 3:31 |
-| 177 | [Buy Yourself a Dream](https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Buy Yourself a Dream](https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk) | 4:08 |
-| 178 | [You and Me](https://open.spotify.com/track/2lXZW8tjjKA7aXZpu38UNU) | [Rick Lee Vinson Group](https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq) | [You and Me](https://open.spotify.com/album/6MiWE62h0AIX5Y5ZSQD2NQ) | 3:05 |
-| 179 | [Be Here Today](https://open.spotify.com/track/17UX0BrzW5HfzePPXqmKMA) | [Nic Wander](https://open.spotify.com/artist/02IUrnNQtdPIYGYv0qxaFu), [Stay 4 Breakfast](https://open.spotify.com/artist/6D8H90CQOOCrB5f9GtH4Pp), [Jackie Myers](https://open.spotify.com/artist/6xeEJ313xoRLF4doLFW2ML) | [Be Here Today](https://open.spotify.com/album/4ZatS6ZsoDZ6ld9s9Ey3Xq) | 3:44 |
-| 180 | [To My Love](https://open.spotify.com/track/653SNDYmxVTPH2SwP6BE1H) | [Eric Bolton](https://open.spotify.com/artist/7MesUgS9kmfcTyWC52K2iY) | [Here Between](https://open.spotify.com/album/6YobaSE6AX9L6NGW0jXMJr) | 3:16 |
-| 181 | [Tuyo](https://open.spotify.com/track/6zFInatABsBT7DLXoG2kNi) | [Siete](https://open.spotify.com/artist/3lQGqjloorWlS1omlwYB4V) | [Tuyo](https://open.spotify.com/album/37dud4DKkqJObWJ05UyU8J) | 3:07 |
-| 182 | [Change 236](https://open.spotify.com/track/5F4BjK5jng8mpLvSbalQXu) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Change 236](https://open.spotify.com/album/4PScLFpT0lHbzeAsf4xN3q) | 3:33 |
-| 183 | [ON&ON](https://open.spotify.com/track/2U2XZji7hJFvtejYHOSewk) | [Chrmng,](https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [ON&ON](https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu) | 2:40 |
-| 184 | [wouldn't it be nice?](https://open.spotify.com/track/611Bd4ADYITpDyU9tapWNw) | [Brett Castro](https://open.spotify.com/artist/7KiNjNQ66cfEJEgXCmIuYe) | [wouldn't it be nice?](https://open.spotify.com/album/2Ylo6MCaKM6wMtH6WX4B0B) | 2:31 |
-| 185 | [Beautiful \- Acoustic](https://open.spotify.com/track/4c44YYG6P584AOQE1Q1giv) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy \(Acoustic Version\)](https://open.spotify.com/album/0O9QWDkFAYXX5xzIBc6e6K) | 3:20 |
-| 186 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 |
-| 187 | [Animales de Poder](https://open.spotify.com/track/3wwKjEHO5cRXfweOLF7OjY) | [TALULAH](https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ) | [Animales de Poder](https://open.spotify.com/album/4D0pkv46ofDuAuxgEm3kQe) | 3:18 |
-| 188 | [Call Me](https://open.spotify.com/track/0sEPkMlgsgY6siGue5f0Vq) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [Call Me](https://open.spotify.com/album/4Bfczw0YhKEBASWjlrldVc) | 5:00 |
-| 189 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 |
+| 174 | [Sea in Me](https://open.spotify.com/track/3YTNqDvizWh4DjFKBphYCU) | [Akash](https://open.spotify.com/artist/66T1y32NNXOz51okoaSu6v) | [Live a Little](https://open.spotify.com/album/10VliHm0DyEPve1iHZC0gy) | 2:35 |
+| 175 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 |
+| 176 | [Animales de Poder](https://open.spotify.com/track/3wwKjEHO5cRXfweOLF7OjY) | [TALULAH](https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ) | [Animales de Poder](https://open.spotify.com/album/4D0pkv46ofDuAuxgEm3kQe) | 3:18 |
+| 177 | [Call Me](https://open.spotify.com/track/0sEPkMlgsgY6siGue5f0Vq) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [Call Me](https://open.spotify.com/album/4Bfczw0YhKEBASWjlrldVc) | 5:00 |
+| 178 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 |
 
-Snapshot ID: `NDAyMyxkMDg5OGZlMmVkY2NmZjk2ZDc2NTIwMGY2NTYyMjEzNTFiYzY3NzNk`
+Snapshot ID: `NDAzNCwxNWUxYTMxZWQxY2FhYjJlMGY1MjM2MGNkODU0YTQ0MjJhZDAwYTc0`

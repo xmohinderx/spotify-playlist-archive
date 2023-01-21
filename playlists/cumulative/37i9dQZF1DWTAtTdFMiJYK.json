@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "Aaina",
+        "url": "https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Arjit Shrivastava",
+          "url": "https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv"
+        },
+        {
+          "name": "Aviral Kumar",
+          "url": "https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224618,
+      "name": "Aaina",
+      "url": "https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ"
+    },
+    {
+      "album": {
         "name": "Aankhon Se Batana",
         "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
       },
@@ -208,7 +234,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 167166,
       "name": "Am I Overthinking This?",
       "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
@@ -2530,7 +2556,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 229253,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
@@ -2804,6 +2830,24 @@
       "duration_ms": 230828,
       "name": "Oh Look",
       "url": "https://open.spotify.com/track/7dLd126uKiCaKJEZ1Yoxm7"
+    },
+    {
+      "album": {
+        "name": "Paar Laaye",
+        "url": "https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "Paar Laaye",
+      "url": "https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6"
     },
     {
       "album": {

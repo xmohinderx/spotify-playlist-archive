@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: D\-Sturb & Act of Rage & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,415 likes - 124 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,677 likes - 124 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 22 | [Love](https://open.spotify.com/track/1wnugFeFGJ7VP45WcARGlD) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Love](https://open.spotify.com/album/6PWwonomZj1P3ldfPAZNnK) | 2:51 |
 | 23 | [Hiding In The Dark](https://open.spotify.com/track/1T2r3JW8Q6jN2sUw3m0zuq) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Break of Dawn](https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d) | [Hiding In The Dark](https://open.spotify.com/album/2cA5obdHc854owYwzrNczK) | 3:33 |
 | 24 | [Higher](https://open.spotify.com/track/4v8BDsgyYpmvsleRsBlafy) | [The Exoduz](https://open.spotify.com/artist/6Sme2awIfgxNdvxIU1ptPd), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Higher](https://open.spotify.com/album/7rppQv0SKgQPZYuUTYpvNX) | 4:19 |
-| 25 | [The Shadows](https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo) | [Dj Thera](https://open.spotify.com/artist/3wnWv1CbRJ0JuDgOcsBPfd) | [The Shadows](https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS) | 3:48 |
+| 25 | [The Shadows](https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo) | [Dj Thera](https://open.spotify.com/artist/3wnWv1CbRJ0JuDgOcsBPfd) | [The Shadows](https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS) | 3:24 |
 | 26 | [Wir feiern härter!](https://open.spotify.com/track/6mdsQCzxzyO6CfhBgZQK1M) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Der Asiate](https://open.spotify.com/artist/2VKxZo1R0OJJRn8UCy38LY) | [Wir feiern härter!](https://open.spotify.com/album/6UphciYgL6H8hN5xqGW3aF) | 2:53 |
 | 27 | [KD1\-7.4](https://open.spotify.com/track/1MueIEoUKXclwPTX1GhmEA) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [KD1\-7.4](https://open.spotify.com/album/3SwEqiGyEtafdU7cxbNS5I) | 3:55 |
 | 28 | [Outside \(Hardstyle Remix\)](https://open.spotify.com/track/5idLCQX198buvDTviDEPP2) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [ATHYN](https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1), [Elise Lieberth](https://open.spotify.com/artist/42hdUVfhzUs7dZWafzvJ7e) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt) | 2:49 |

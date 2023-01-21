@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: boygenius
 
-350 songs - 19 hr 44 min
+353 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [anyway](https://open.spotify.com/track/3egmebMbMAFYAjCw8gV8SW) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [anyway](https://open.spotify.com/album/5TaH4wLzrMgEhd1KMcXiwE) | 3:36 | 2021-06-25 | 2022-03-11 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 | 2022-09-01 | 2022-10-14 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
-| [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 | 2022-09-29 |  |
+| [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 | 2022-09-29 | 2023-01-21 |
 | [Athlete](https://open.spotify.com/track/1IGYX6cUsDXJEMG9XTf50W) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Athlete](https://open.spotify.com/album/1nMeS1nijjgmMA4uqVUX4G) | 3:11 | 2021-03-09 | 2022-01-17 |
 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 | 2022-09-29 |  |
 | [Baby Don't Cry](https://open.spotify.com/track/0fq4yVxkZbu59JiCe5zeFZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Baby Don't Cry](https://open.spotify.com/album/6MYBlQZe66fp8R7npEl9xZ) | 3:57 | 2021-10-15 | 2022-08-19 |
@@ -97,6 +97,7 @@
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 |  |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
 | [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 | 2022-10-06 | 2023-01-14 |
+| [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 | 2023-01-20 |  |
 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 | 2022-10-06 |  |
 | [Dutch Courage](https://open.spotify.com/track/6kQmrit1q7b5BR6CvxpO99) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Dutch Courage](https://open.spotify.com/album/02f6WXw7JMV9NLf0Z7Evza) | 4:30 | 2021-03-09 | 2022-01-17 |
 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 | 2022-11-25 |  |
@@ -110,6 +111,7 @@
 | [Eyes Closed for the Winter](https://open.spotify.com/track/5PxLKWMLJUGD3pugHV5Gc9) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Eyes Closed for the Winter](https://open.spotify.com/album/5LFXtJVjIXrEv1R5PaloR6) | 3:06 | 2022-04-01 | 2022-08-19 |
 | [Eyes Closed For The Winter](https://open.spotify.com/track/65qTDCHsyf7MTocHnvkKsd) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Eyes Closed For The Winter](https://open.spotify.com/album/7J6kirqor8zXlg1oRyIwrz) | 3:06 | 2022-01-21 | 2022-07-29 |
 | [Factor 50!](https://open.spotify.com/track/1vEFlprBbhVZTU0SAlPwDW) | [Medicine Cabinet](https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij) | [Factor 50!](https://open.spotify.com/album/7x3JedGA6zLR2K8nmYQy9H) | 2:27 | 2022-10-06 | 2023-01-14 |
+| [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 | 2023-01-20 |  |
 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 | 2022-09-08 |  |
 | [Famous](https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Guitar Music](https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI) | 3:19 | 2022-09-22 |  |
 | [Feel the Same](https://open.spotify.com/track/3xwhBXeQ3tUYLZ7OeboZv6) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Losing](https://open.spotify.com/album/0T5W8q4JXryl3iiogSJ0zC) | 1:59 | 2021-03-09 | 2022-01-17 |
@@ -191,7 +193,7 @@
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2022-01-17 | 2022-08-19 |
 | [Just Mad](https://open.spotify.com/track/3g2uqH6cWh7jllj9RHx1xQ) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Just Mad](https://open.spotify.com/album/7FsHBuBB9mVtf6XTM1za99) | 2:52 | 2021-03-09 | 2022-01-17 |
 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 | 2022-11-18 |  |
-| [Kids 1995](https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Kids 1995](https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP) | 4:36 | 2022-10-06 |  |
+| [Kids 1995](https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Kids 1995](https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP) | 4:36 | 2022-10-06 | 2023-01-21 |
 | [Kill the Chord](https://open.spotify.com/track/1Kc3CxhNiZdgHQV4udkLgY) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-01 | 2022-08-19 |
 | [Knuckles](https://open.spotify.com/track/0TbHtLbf1Q4pVg1hgcXWZd) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire \(Extended Edition\)](https://open.spotify.com/album/1Wh165Ol4TJwaHKFGcwoP4) | 2:40 | 2022-10-13 | 2022-11-13 |
@@ -238,7 +240,7 @@
 | [On Fye](https://open.spotify.com/track/3tXiIltQtvU4wp2E60NCCa) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [On Fye](https://open.spotify.com/album/1G2yVIRJeNu9FtUOX27NPZ) | 2:07 | 2022-01-17 | 2022-04-02 |
 | [Once More For The Ocean](https://open.spotify.com/track/4Cvscvb1bbHSsY8lwmSwIQ) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Once More For The Ocean](https://open.spotify.com/album/3Xh2BQHJApHvpfyeHVkyMP) | 3:37 | 2021-06-21 | 2022-08-19 |
 | [One Last Embrace](https://open.spotify.com/track/4r1tj3IiK4oeUK1U4iAgY6) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Sept \~ Dec](https://open.spotify.com/album/6tYUyBo0cIL8dCSBsBjKnx) | 3:40 | 2021-03-09 | 2022-01-17 |
-| [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 |  |
+| [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2023-01-21 |
 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 | 2022-08-18 |  |
 | [Only Me](https://open.spotify.com/track/5HnAp1NqTJlGVkYWOIVchp) | [Hilma Nikolaisen](https://open.spotify.com/artist/13KN5sIVb9i5L9fDxa3CdZ) | [Only Me](https://open.spotify.com/album/45bexRxIgTFFf0JtsurKke) | 4:25 | 2021-03-09 | 2022-01-17 |
 | [Or Durves](https://open.spotify.com/track/52Jdjv3m2QrXK94MgupDza) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Or Durves](https://open.spotify.com/album/6ixqkqbhv6oF0bqBYnQHRO) | 2:02 | 2021-06-04 | 2022-08-19 |
@@ -301,6 +303,7 @@
 | [Stranger Days](https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger Days](https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT) | 4:11 | 2022-02-04 | 2022-08-19 |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-18 |  |
 | [Street Justice](https://open.spotify.com/track/3s1Lfb2qxTL9r2apOFfIYD) | [Death Valley Girls](https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9) | [Street Justice](https://open.spotify.com/album/7ApxyIBdLgZad3CsKwHhQp) | 2:40 | 2021-03-09 | 2022-01-17 |
+| [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 | 2023-01-20 |  |
 | [Superblue](https://open.spotify.com/track/2xeyM4a9TxmBjPR13AG7CG) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Superblue](https://open.spotify.com/album/3Pu25k3w3yE4Qfli9VqFP4) | 3:19 | 2022-11-25 | 2022-12-20 |
 | [Sweat Patch](https://open.spotify.com/track/6Qk4Z5yyI4CQe3k90mizqb) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Sweat Patch](https://open.spotify.com/album/3ELbAANuW2XZZOOq1tZJXA) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Sweeter Things](https://open.spotify.com/track/6TOpX6PrdVwYZ0vkFHxuJc) | [Jacqueline Tucci](https://open.spotify.com/artist/3C8jNP8KucAySqnpvVTsyL) | [Sweeter Things](https://open.spotify.com/album/6htfjXRYortoaprlglShQe) | 2:23 | 2021-03-09 | 2022-01-17 |
